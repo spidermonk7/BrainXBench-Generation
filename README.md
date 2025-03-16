@@ -55,7 +55,7 @@ print("🤖: Data Loaded Successfully!")
 ### 2️⃣ Generating New Data
 
 To generate BrainXBench data, use:
-# detail usage coming soon, now run generate_BrainX.py with default setting would generate new BXB-forward
+*(detail usage coming soon, now run generate_BrainX.py with default setting would generate new BXB-forward)*
 ```bash
 python generate_BrainX.py 
 ```
@@ -63,7 +63,7 @@ python generate_BrainX.py
 ### 3️⃣ Packaging Data
 
 Organize and pack data using `data_packer.py`(This would automatically save csv data to both json and parquet)
-
+    - The packed data file will be saved in the jsons/ and parquets/ folders, alongside the csvs/ folder in the same path.
 ```python
 from data_packer import pack_data
 
