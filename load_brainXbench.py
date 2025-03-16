@@ -1,15 +1,9 @@
-import sys
-import os
-
-# 获取当前脚本的上级目录（即 `BrainX-NeuroBench`）
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
-from .utils import load_csv
-from .infos import *
+from utils import load_csv
+from infos import *
 
 
 
-def load_brainXbench_forward(result_type, path ="Benches/forward/flip/v_direct4.0.csv"):
+def load_brainXbench_forward(result_type, path ="Benches/forward/flip/csvs/v_direct0.4.csv"):
     """
     Function for loading brainXbench forward data
     Required:
@@ -25,11 +19,8 @@ def load_brainXbench_forward(result_type, path ="Benches/forward/flip/v_direct4.
         bench_dic = {}
        
         fake_abstract = item["Background"] + ' ' + item["Method"] + ' ' + item[result_type]
-
         bench_dic["true_abstract"] = item["Abstract"]
         bench_dic["fake_abstract"] = fake_abstract
-        
-
         bench_dics.append(bench_dic)
 
     return bench_dics
@@ -46,3 +37,8 @@ def load_brainXbench_backward(question_type, mini):
 
     return bench_data
     
+
+if __name__ == "__main__":
+    bench = load_brainXbench_forward("Opposite_Outcome")
+    for item in bench[0:5]:
+        print(item)
