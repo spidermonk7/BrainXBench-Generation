@@ -4,12 +4,12 @@ import os
 # 获取当前脚本的上级目录（即 `BrainX-NeuroBench`）
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from CollectData.utils_collect import load_csv
-from CollectData.infos_collect import *
+from .utils import load_csv
+from .infos import *
 
 
 
-def load_brainXbench_forward(result_type, path ="CollectData/Benches/forward/flip/v_direct4.0.csv"):
+def load_brainXbench_forward(result_type, path ="Benches/forward/flip/v_direct4.0.csv"):
     """
     Function for loading brainXbench forward data
     Required:
@@ -37,11 +37,11 @@ def load_brainXbench_forward(result_type, path ="CollectData/Benches/forward/fli
 
 def load_brainXbench_backward(question_type, mini):
     if mini:
-        path = f"CollectData/Benches/backward/BrainXBench_{question_type}_mini.csv"
+        path = f"Benches/backward/BrainXBench_{question_type}_mini.csv"
     else:
         if question_type == "TF":
             raise ValueError("❌: The full version of TF is not available.")
-        path = f"CollectData/Benches/backward/BrainXBench_{question_type}.csv"
+        path = f"Benches/backward/BrainXBench_{question_type}.csv"
     bench_data = load_csv(path)
 
     return bench_data

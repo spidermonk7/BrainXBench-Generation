@@ -13,7 +13,7 @@ import time
 from contextlib import contextmanager
 import pandas as pd
 import os
-from CollectData.infos_collect import *
+from infos import *
 from collections import defaultdict
 
 
@@ -230,7 +230,7 @@ def check_abs(path, save_path):
     save_to_csv(valids, save_path, name = "valids")
     print(f"📚: Found {len(valids)} invalid papers in {path}, valids rate {len(valids)/len(abs_data)}")
     
-def raw_abs_ana(path="CollectData/data/pubmed/valids.csv", plot = False, save = False):
+def raw_abs_ana(path="data/pubmed/valids.csv", plot = False, save = False):
     # 加载数据
     """[Function Card]
     Function for analyse the raw abstract data, here we will:
@@ -251,7 +251,7 @@ def raw_abs_ana(path="CollectData/data/pubmed/valids.csv", plot = False, save = 
 
     distribution_info = plot_stacked_distribution(filtered_data, "Source", "Published Date", plot=plot)
 
-    save_path = "CollectData/data/pubmed"
+    save_path = "data/pubmed"
     file_name = "selected_data"
     if save:
         if os.path.exists(save_path):
@@ -353,7 +353,7 @@ def check_split_result(path = "Benches/forward/split/v_direct2.0.csv", save = Tr
         else:
             print(f"❌: The {item}th paper is invalid.")
     if save:
-        save_path = "CollectData/Benches/forward/split"
+        save_path = "Benches/forward/split"
         check_path(save_path)
         save_to_csv(valids, save_path, name = "splited_valids")
 

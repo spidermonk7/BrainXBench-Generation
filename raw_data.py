@@ -9,8 +9,8 @@ import json
 import pandas as pd
 import tiktoken  # 用于按 token 长度切分
 import nltk
-from CollectData.utils_collect import *
-from CollectData.infos_collect import *
+from .utils import *
+from .infos import *
 from argparse import ArgumentParser
 
 

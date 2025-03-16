@@ -2,9 +2,9 @@ import requests
 import xml.etree.ElementTree as ET
 import time
 from tqdm import tqdm
-from utils_collect import save_to_csv
+from utils import save_to_csv
 from concurrent.futures import ThreadPoolExecutor
-from infos_collect import *
+from infos import *
 from argparse import ArgumentParser
 
 

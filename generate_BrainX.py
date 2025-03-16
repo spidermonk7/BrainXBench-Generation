@@ -4,8 +4,8 @@ import os
 # 获取当前脚本的上级目录（即 `BrainX-NeuroBench`）
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from CollectData.utils_collect import *
-from CollectData.infos_collect import *
+from .utils import *
+from .infos import *
 from argparse import ArgumentParser
 
 # "gpt-4o-2024-11-20", 
@@ -129,9 +129,9 @@ if __name__ == "__main__":
 
     if args.bench_type == "backward":
         question_type = args.task_type
-        prompt_path = f"CollectData/prompts/backwards/{question_type}_QA.md"
+        prompt_path = f"prompts/backwards/{question_type}_QA.md"
         source_path = BOOK_INFO_DICT[args.bookname]["source_path"] + "/chapters/"
-        save_path = f"CollectData/Benches/{args.bench_type}"
+        save_path = f"Benches/{args.bench_type}"
         check_path(save_path)
         # save_path += f"BrainXBench_{question_type}_v2"
         generate_backward(
@@ -143,33 +143,33 @@ if __name__ == "__main__":
 
     elif args.bench_type == "forwards":
         # path = "data/neuroscience/pubmed/v1.csv"
-        save_path = f"CollectData/Benches/forward/"
+        save_path = f"Benches/forward/"
         # check_path(save_path)
 
         # # Check if the raw data(raw abstracts) are valid, this would save the valid data to valids.csv
-        # path = "CollectData/data/pubmed/data.csv"
+        # path = "data/pubmed/data.csv"
         # check_abs(path, "data/pubmed")
 
         # Analyse the raw abstract data, filter out the top-10 journals with good fame and high quality.
         # This would save the filtered data to data/pubmed/filtered_journals.csv
-        path = "CollectData/data/pubmed/valids.csv"
+        path = "data/pubmed/valids.csv"
         raw_abs_ana(path)
 
         # Generate the forward bench, including two steps: Split and Flip.
         # This would save the results to split/v1.csv and flip/v1.csv
-        path = "CollectData/data/pubmed/selected_data.csv"
+        path = "data/pubmed/selected_data.csv"
     
-        # generate_forward("split", "CollectData/prompts/forwards/split.md", path, save_path)
+        # generate_forward("split", "prompts/forwards/split.md", path, save_path)
 
         # # Check the validation of the split data
         # # This would save the valid data to split/v1_valids.csv
-        # check_split_result("CollectData/Benches/forward/split/v_direct2.0.csv", save=True)
-        # check_validation("CollectData/Benches/forward/split/splited_valids.csv", save_path="CollectData/Benches/forward/split")  
+        # check_split_result("Benches/forward/split/v_direct2.0.csv", save=True)
+        # check_validation("Benches/forward/split/splited_valids.csv", save_path="Benches/forward/split")  
 
         # Generate the flip bench
         # This would save the data to flip/v1.csv
-        valid_split_path = "CollectData/Benches/forward/split/v2_valids_sum.csv"
-        generate_forward("flip", "CollectData/prompts/forwards/flip.md", valid_split_path, save_path)
+        valid_split_path = "Benches/forward/split/v2_valids_sum.csv"
+        generate_forward("flip", "prompts/forwards/flip.md", valid_split_path, save_path)
 
   
     else:
