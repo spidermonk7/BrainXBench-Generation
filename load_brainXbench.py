@@ -3,7 +3,7 @@ from infos import *
 
 
 
-def load_brainXbench_forward(result_type, path ="Benches/forward/flip/csvs/v_direct0.4.csv"):
+def load_brainXbench_forward(result_type, path ="Benches/forward/flip/csvs/v_direct0.6.csv"):
     """
     Function for loading brainXbench forward data
     Required:

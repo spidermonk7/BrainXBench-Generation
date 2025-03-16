@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 
-### 1️⃣ Loading Data[Currently we are using BXB-Backward & BXB-Forward-v0.4]
+### 1️⃣ Loading Data[Currently we are using BXB-Backward & BXB-Forward-v0.6]
 
 Use the `load_brainXbench.py` script to load data efficiently:
 

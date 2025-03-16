@@ -4,8 +4,8 @@ import os
 # 获取当前脚本的上级目录（即 `BrainX-NeuroBench`）
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from .utils import *
-from .infos import *
+from utils import *
+from infos import *
 from argparse import ArgumentParser
 
 # "gpt-4o-2024-11-20", 
@@ -74,10 +74,10 @@ def generate_forward(task,
     # (1) The saving logic should be redirected to a new path. 
 
     paper_infos = load_csv(source_path)
-    save_path = save_path + task
+    save_path = save_path + task + '/csvs'
     check_path(save_path)
     for id, paper_info in enumerate(paper_infos):
-        if id < 67: continue
+
         if task == "split":
             params = {
                 "abstract": paper_info["Abstract"],
@@ -112,7 +112,7 @@ def generate_forward(task,
        
         bench_data = [paper_info]
 
-        save_to_csv(bench_data, save_path, "v_direct4.0")
+        save_to_csv(bench_data, save_path, "v_direct0.6")
         print(f"✅ Process results of abstract {id} is saved to {save_path}")
 
 
@@ -169,7 +169,7 @@ if __name__ == "__main__":
         # Generate the flip bench
         # This would save the data to flip/v1.csv
         valid_split_path = "Benches/forward/split/v2_valids_sum.csv"
-        generate_forward("flip", "prompts/forwards/flip.md", valid_split_path, save_path)
+        generate_forward("flip", "prompts/forwards/flip-v0.6.md", valid_split_path, save_path)
 
   
     else:
