@@ -33,40 +33,49 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 
-### 1️⃣ Loading Data
+### 1️⃣ Loading Data[Currently we are using BXB-Backward & BXB-Forward-v0.4]
 
 Use the `load_brainXbench.py` script to load data efficiently:
 
 ```python
-from load_brainXbench import load_data
+from load_brainXbench import load_brainXbench_forward, load_brainXbench_backward
 
-data = load_data("data/sample_dataset.npy")
-print("Data Loaded Successfully!", data.shape)
+result_type = "Opposite_Outcome"
+assert result_type in ["Opposite_Outcome", "Incorrect_Causal_Relationship", "Factor_Misattribution"]
+forward_bench = load_brainXbench_forward(result_type)
+
+question_type = "CHOICE"
+mini = True
+assert question_type in ["CHOICE", "TEXT", "TF"]
+backward_bench = load_brainXbench_backward(question_type, mini) # TF-bench support mini set only!!!
+
+print("🤖: Data Loaded Successfully!")
 ```
 
 ### 2️⃣ Generating New Data
 
 To generate BrainXBench data, use:
-
+# detail usage coming soon, now run generate_BrainX.py with default setting would generate new BXB-forward
 ```bash
-python generate_BrainX.py --input raw_data/sample_input.npy --output data/generated_output.npy
+python generate_BrainX.py 
 ```
 
 ### 3️⃣ Packaging Data
 
-Organize and pack data using `data_packer.py`:
+Organize and pack data using `data_packer.py`(This would automatically save csv data to both json and parquet)
 
 ```python
 from data_packer import pack_data
 
-pack_data("data/generated_output.npy", "Benches/packed_data.zip")
+data_path = "Benches/forward/flip/csvs/v_direct0.4.csv"
+pack_data(data_path)
 ```
 
 ## 📌 Contribution
 Feel free to contribute! Fork the repo, make changes, and submit a pull request. Let's build something great together! 🚀
 
 ## 📝 License
-This project is licensed under the MIT License.
+This project is licensed under the YOU-KNOW-WHO License.
 
 ---
 

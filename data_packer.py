@@ -3,7 +3,7 @@ from utils import *
 from infos import *
 
 
-def pad_data(data_path):
+def pack_data(data_path):
     csv_data = load_csv(data_path)
     df = pd.DataFrame(csv_data)
 
@@ -20,4 +20,4 @@ def pad_data(data_path):
 
 if __name__ == "__main__":
     path = "Benches/forward/flip/csvs/v_direct0.4.csv"
-    pad_data(path)
+    pack_data(path)
