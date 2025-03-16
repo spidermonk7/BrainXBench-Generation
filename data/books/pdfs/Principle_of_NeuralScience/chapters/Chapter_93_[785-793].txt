@@ -1,0 +1,883 @@
+===== Page 1 =====
+740    Part V / Movement
+Figure 31–2  The force exerted by a motor unit varies with 
+the rate at which its neuron generates action potentials.
+A. Traces show the forces exerted by fast- and slow-contracting 
+motor units in response to a single action potential (top trace) 
+and a series of action potentials (set of four traces below). The 
+time to the peak twitch force, or contraction time, is briefer in 
+the faster unit. The rates of the action potentials used to evoke 
+the tetanic contractions range from 17 to 100 Hz in the slow-
+contracting unit to 46 to 100 Hz in the fast-contracting unit. The 
+peak tetanic force evoked by 100-Hz stimulation is greater for 
+the fast-contracting unit. Note the different force scales for the 
+two sets of traces. (Adapted, with permission, from Botterman, 
+Iwamoto, and Gonyea 1986; adapted from Fuglevand,  
+Macefield, and Bigland-Ritchie 1999; and Macefield, Fuglevand, 
+and Bigland-Ritchie 1996.)
+B. Relation between peak force and the rate of action poten-
+tials for fast- and slow-contracting motor units. The absolute 
+force (left plot) is greater for the fast-contracting motor unit at 
+all frequencies. At lower stimulus rates (right plot), the force 
+evoked in the slow-contracting motor unit (longer contraction 
+time) sums to a greater relative force (percent of peak force) 
+than in the fast-contracting motor unit (shorter contraction time).
+and summate (ie, the force varies with the contraction 
+time of the motor unit and the rate at which the action 
+potentials are evoked). At lower rates of stimulation, 
+the ripples in the tetanus denote the peaks of individ-
+ual twitches (Figure 31–2A). The peak force achieved 
+during a tetanic contraction varies as a sigmoidal 
+function of action potential rate, with the shape of the 
+curve depending on the contraction time of the motor 
+unit (Figure 31–2B). Maximal force is reached at lower 
+100 Hz
+60
+56
+46
+200 ms
+400 ms
+100 mN
+40 ms
+40 ms
+Slow twitch
+100 Hz
+25
+21
+17
+5 mN
+Fast twitch
+Fast
+Slow
+0
+20
+40
+60
+80
+100
+0
+100
+200
+300
+400
+500
+Peak force (mN)
+Frequency (Hz)
+0
+20
+40
+60
+80
+100
+20
+0
+40
+60
+80
+100
+Peak force (% maximum)
+Frequency (Hz)
+Fast
+Slow
+300
+200
+100
+500
+400
+0
+Force (mN)
+75
+50
+25
+100
+0
+Force (mN)
+A
+B
+action potential rates for slow-contracting motor units 
+than the rates needed to achieve maximal force in fast-
+contracting units.
+The functional properties of motor units vary across 
+the population and between muscles. At one end of the 
+distribution, motor units have long twitch contraction 
+times and produce small forces, but are less fatigable. 
+At the other end of the distribution, motor units have 
+short contraction times, produce large forces, and are 
+
+
+===== Page 2 =====
+Chapter 31 / The Motor Unit and Muscle Action    741
+Figure 31–3  Most human motor units produce low forces 
+and have intermediate contraction times. (Reproduced, with 
+permission, from Van Cutsem et al. 1997. © Canadian Science 
+Publishing.)
+A. Distribution of twitch torques for 528 motor units in the tibi-
+alis anterior muscle obtained from 10 subjects.
+B. Distribution of twitch contraction times for 528 motor units 
+in the tibialis anterior muscle.
+more fatigable. The order in which motor units are 
+recruited during a voluntary contraction begins with 
+the slow-contracting, low-force units and proceeds up 
+to the fast-contracting, high-force units. As observed 
+by Jacques Duchateau and colleagues, most motor 
+units in humans produce low forces and have interme-
+diate contraction times (Figure 31–3).
+The range of contractile properties exhibited by 
+motor units is partly attributable to differences in the 
+structural specializations and metabolic properties of 
+muscle fibers. One commonly used scheme to charac-
+terize muscle fibers is based on their reactivity to his-
+tochemical assays for the enzyme myosin adenosine 
+triphosphatase (ATPase), which is used as an index 
+Motor unit count (%)
+A  Twitch torques
+B  Twitch contraction times
+Motor unit count (%)
+Time to peak (ms)
+Twitch torque (mN•m)
+0
+0
+5
+10
+15
+20
+25
+30
+20
+40
+60
+80
+100
+120
+140
+160
+180
+20
+0
+5
+10
+15
+20
+40
+60
+80
+100
+of contractile speed. Histochemical stains for myosin 
+ATPase can identify two types of muscle fibers: type I 
+(low levels of myosin ATPase) and type II (high lev-
+els of myosin ATPase). Slow-contracting motor units 
+contain type I muscle fibers, and fast-contracting 
+units include type II fibers. The type II fibers can be 
+further classified as being less fatigable (type IIa) or 
+more fatigable (type IIb, IIx, or IId), due to the associa-
+tion between myosin ATPase content and the relative 
+abundance of oxidative enzymes. Another commonly 
+used scheme distinguishes muscle fibers on the basis 
+of genetically defined isoforms of the myosin heavy 
+chain (MHC). Muscle fibers in slow-contracting motor 
+units express MHC-I, those in the less fatigable fast-
+contracting units express MHC-IIA, and those in the 
+more fatigable fast-contracting units express MHC-IIX.
+In actuality, the contractile properties of single 
+muscle fibers are less distinct than the two classifica-
+tion schemes suggest (Figure 31–4). In addition to the 
+variability in the contractile properties of each type of 
+muscle fiber (MHC-I, -IIA, or -IIX), some muscle fibers 
+co-express more than one MHC isoform. Such hybrid 
+muscle fibers exhibit contractile properties that are 
+intermediate between the muscle fibers that compose a 
+Figure 31–4  The contractile properties of muscle fiber types 
+are distributed continuously. Peak power produced by seg-
+ments of single muscle fibers from the vastus lateralis muscle 
+with different types of myosin heavy chain (MHC) isoforms. 
+Two types of hybrid fibers (I-IIA and IIA-IIX) contain isoforms of 
+both types of MHCs. Power is calculated as the product of peak 
+tetanic force (Po) and maximal shortening velocity (segment 
+length per second [L/s]). (Adapted, with permission, from  
+Bottinelli et al. 1996. Copyright © 1996 The Physiological Society.)
+Number of ﬁbers
+Myosin heavy chain
+Power (Po ∙ L/s)
+0
+IIX
+IIA–IIX
+IIA
+I–IIA
+I
+0
+2
+4
+6
+8
+0.01
+0.02
+0.03
+0.04
+0.05 
+
+
+===== Page 3 =====
+742    Part V / Movement
+single isoform. The relative proportion of hybrid fibers 
+in a muscle increases with age. As with the distribu-
+tion of contractile properties across motor units (Figure 
+31–3), the distribution across individual muscle fibers 
+is also continuous, from slow to fast contracting and 
+from least to most powerful (Figure 31–4).
+Physical Activity Can Alter Motor Unit Properties
+Alterations in habitual levels of physical activity can 
+influence the three contractile properties of motor units 
+(contraction speed, maximal force, and fatigability). A 
+decrease in muscle activity, such as occurs with aging, 
+bed rest, limb immobilization, or space flight, reduces 
+the maximal capabilities of all three properties. The 
+effects of increased physical activity vary with the inten-
+sity and duration of the activity. Brief sets of strong con-
+tractions performed a few times each week can increase 
+motor unit force (strength training); brief sets of rapid 
+contractions performed a few times each week can 
+increase motor unit discharge rate (power training); and 
+prolonged periods of weaker contractions can reduce 
+motor unit fatigability (endurance training).
+Changes in the contractile properties of motor units 
+involve adaptations in the structural specializations and 
+biochemical properties of muscle fibers. The improve-
+ment in contraction speed caused by power training, 
+for example, is associated with an increase in the maxi-
+mal shortening velocity of a muscle fiber caused by an 
+increase in the quantity of myosin ATPase in the fiber. 
+Similarly, the increase in maximal force is associated 
+with the enlarged size and increased intrinsic force 
+capacity of the muscle fibers produced by an increase in 
+the number and density of the contractile proteins.
+In contrast, decreases in the fatigability of a mus-
+cle fiber can be caused by many different adaptations, 
+such as increases in capillary density, number of mito-
+chondria, efficiency of the processes involved in acti-
+vating the contractile proteins (excitation-contraction 
+coupling), and oxidative capacity of the muscle fibers. 
+Although the adaptive capabilities of muscle fibers 
+decline with age, the muscles remain responsive to 
+exercise even at 90 years of age.
+Despite the efficacy of strength, power, and endur-
+ance training in altering the contractile properties of 
+muscle fibers, these training regimens have little effect 
+on the composition of a muscle’s fibers. Although 
+several weeks of exercise can change the relative 
+proportion of type IIA and IIX fibers, it produces no 
+change in the proportion of type I fibers. All fiber types 
+adapt in response to exercise, although to varying 
+extents depending on the type of exercise. For exam-
+ple, strength training of leg muscles for 2 to 3 months 
+can increase the cross-sectional area of type I fibers by 
+0% to 20% and of type II fibers by 20% to 60%, increase 
+the proportion of type IIa fibers by approximately 
+10%, and decrease the proportion of type IIx fibers by 
+a similar amount. Furthermore, endurance training 
+may increase the enzyme activities of oxidative meta-
+bolic pathways without noticeable changes in the 
+proportions of type I and type II fibers, but the rela-
+tive proportions of type IIa and IIx fibers do change 
+as a function of the duration of each exercise session. 
+Conversely, although several weeks of bed rest or limb 
+immobilization do not change the proportions of fiber 
+types in a muscle, they do decrease the size and intrin-
+sic force capacity of muscle fibers. Adaptations in fiber 
+type properties and proportions in turn alter the distri-
+bution of contractile properties in muscle fibers (Figure 
+31–4) and motor units (Figure 31–3).
+Although physical activity has little influence on 
+the proportion of type I fibers in a muscle, more sub-
+stantial interventions can have an effect. Space flight, 
+for example, exposes muscles to a sustained decrease 
+in gravity that reduces the proportion of type I fibers in 
+some leg muscles and decreases contractile properties. 
+Similarly, surgically changing the nerve that innervates 
+a muscle alters the pattern of activation and eventu-
+ally causes the muscle to exhibit properties similar to 
+those of the muscle that was originally innervated by 
+the transplanted nerve. Connecting a nerve that origi-
+nally innervated a rapidly contracting leg muscle to a 
+slowly contracting leg muscle, for example, will cause 
+the slower muscle to become more like a faster muscle. 
+In contrast, a history of performing powerful contrac-
+tions with leg muscles is associated with a modest 
+reduction in the proportion of type I fibers, a marked 
+increase in the proportion of type IIx fibers, and a huge 
+increase in the power that can be produced by the 
+type IIa and IIx fibers.
+Muscle Force Is Controlled by the Recruitment and 
+Discharge Rate of Motor Units
+The force exerted by a muscle during a contraction 
+depends on the number of motor units that are acti-
+vated and the rate at which each of the active motor 
+neurons discharges action potentials. Force is increased 
+during a muscle contraction by the activation of addi-
+tional motor units, which are recruited progressively 
+from the weakest to the strongest (Figure 31–5). A 
+motor unit’s recruitment threshold is the force during 
+the contraction at which the motor unit is activated. 
+Muscle force decreases gradually by terminating the 
+activity of motor units in the reverse order from strong-
+est to weakest.
+
+
+===== Page 4 =====
+Chapter 31 / The Motor Unit and Muscle Action    743
+Figure 31–5  (Left) Motor units that exert low forces are 
+recruited before those that exert greater forces. (Adapted, with 
+permission, from Desmedt and Godaux 1977; Milner-Brown, 
+Stein, and Yemm 1973. Copyright © 1973 The Physiological 
+Society.)
+A. Action potentials in two motor units were recorded concur-
+rently with a single intramuscular electrode while the subject 
+gradually increased muscle force. Motor unit 1 began discharg-
+ing action potentials near the beginning of the voluntary con-
+traction, and its discharge rate increased during the contraction. 
+Motor unit 2 began discharging action potentials near the end 
+of the contraction.
+B. Average twitch forces for motor units 1 and 2 as extracted 
+with an averaging procedure during the voluntary contraction.
+C. The plot shows the net muscle forces at which 64 motor 
+units in a hand muscle of one person were recruited (recruit-
+ment threshold) during a voluntary contraction relative to the 
+twitch forces of the individual motor units.
+Muscle
+action 
+potentials
+Unit 1
+Unit 2
+Unit 2
+0.5 mV
+2.5 N
+2.5 s
+Force
+Average
+force
+Average
+force
+A  Action potentials in two motor units
+B  Force produced by the two units
+C  Recruitment of 64 motor units in one muscle
+50 ms
+Time to peak
+Unit 1
+2.5 mN
+10 mN
+Twitch force of motor unit (mN)
+1
+10
+100
+0.2
+2.0
+20
+Recruitment threshold (N)
+The order in which motor units are recruited is 
+highly correlated with several indices of motor unit 
+size, including the size of the motor neuron cell bod-
+ies, the diameter and conduction velocity of the axons, 
+and the amount of force that the muscle fibers can 
+exert. Because individual sources of synaptic input are 
+broadly distributed across most neurons in a motor 
+nucleus, the orderly recruitment of motor neurons is 
+not accomplished by the sequential activation of dif-
+ferent sets of synaptic inputs that target specific motor 
+neurons. Rather, recruitment order is determined by 
+intrinsic differences in the responsiveness of individual 
+motor neurons to relatively uniform synaptic input.
+One of these factors is the anatomical size of a 
+neuron’s soma and dendrites. Smaller neurons have 
+a higher input resistance (Rin) to current and, due 
+to Ohm’s law (∆Vm = Isyn × Rin), experience a greater 
+change in membrane potential (∆Vm) in response to a 
+given synaptic current (Isyn). Consequently, increases 
+in the net excitatory input to a motor nucleus cause 
+the levels of depolarization to reach threshold in 
+an ascending order of motor neuron size: Contrac-
+tion force is increased by recruiting the smallest 
+motor neuron first and the largest motor neuron last  
+(Figure 31–6). This effect is known as the size principle 
+of motor neuron recruitment, a concept enunciated by 
+Elwood Henneman in 1957.
+The size principle has two important consequences 
+for the control of movement by the nervous system. 
+First, the sequence of motor neuron recruitment is 
+determined by the properties of the spinal neurons and 
+not by supraspinal regions of the nervous system. This 
+means that the brain cannot selectively activate spe-
+cific motor units. Second, the axons arising from small 
+motor neurons are thinner than those associated with 
+
+
+===== Page 5 =====
+744    Part V / Movement
+Figure 31–6  The size principle of 
+motor neuron recruitment.  Two motor 
+neurons of different sizes have the same 
+resting membrane potential (Vr) and 
+receive the same excitatory synaptic 
+current (Isyn) from a spinal interneuron. 
+Because the small motor neuron has a 
+smaller surface area, it has fewer parallel 
+ion channels and therefore a higher input 
+resistance (Rhigh). According to Ohm’s 
+law (V = IR), Isyn in the small neuron 
+produces a large excitatory postsynaptic 
+potential (EPSP) that reaches threshold, 
+resulting in the discharge of an action 
+potential. However, the axon of the small 
+motor neuron has a small diameter and 
+thus conducts the action potential at a 
+relatively low velocity (Vslow) and to fewer 
+muscle fibers. In contrast, the large motor 
+neuron has a larger surface area, which 
+results in a lower transmembrane resist-
+ance (Rlow) and a smaller EPSP that does 
+not reach threshold in response to Isyn; 
+however, when synaptic input does reach 
+threshold, the action potential is con-
+ducted relatively rapidly (Vfast) (Chapter 9).
+Figure 31–7  Muscle force can be adjusted by varying the 
+number of active motor units and their discharge rate. Each 
+line shows the discharge rate (pulses per second [pps]) for a 
+single motor unit in a hand muscle over a range of finger forces 
+(maximal voluntary contraction [MVC]). The finger force was 
+produced by the action of a single hand muscle. The leftmost 
+point of each line indicates the threshold force at which the 
+motor unit is recruited, whereas the rightmost point corre-
+sponds to the peak force at which the motor unit could be iden-
+tified. The range of discharge rates was often less for motor 
+units with lower recruitment thresholds. Increases in finger 
+force were produced by concurrent increases in discharge rate 
+and the number of activated motor units. (Adapted, with per-
+mission, from Moritz et al. 2005.)
+Small-diameter
+motor neuron
+Large-diameter
+motor neuron
+Spinal
+interneuron
+Isyn
+Isyn
+Rlow
+Rhigh
+Vslow
+Vfast
+Action 
+potential
+0
+Em
+EPSP
+Threshold
+Rest
+EPSP
+Threshold
+0
+Em
+Rest
+large motor neurons and innervate fewer muscle fibers. 
+Because the number of muscle fibers innervated by a 
+motor neuron is a key determinant of motor unit force, 
+motor units are activated in order of increasing strength, 
+so the earliest recruited motor units are the weakest ones.
+As suggested by Edgar Adrian in the 1920s, the 
+muscle force at which the last motor unit in a motor 
+nucleus is recruited varies between muscles. In some 
+hand muscles, all the motor units have been recruited 
+when the force reaches approximately 60% of maximum 
+during a slow muscle contraction. In the biceps brachii, 
+deltoid, and tibialis anterior muscles, recruitment con-
+tinues up to approximately 85% of the maximal force. 
+Beyond the upper limit of motor unit recruitment, 
+changes in muscle force depend solely on variations in 
+the rate at which motor neurons generate action poten-
+tials. Over most of the operating range of a muscle, 
+the force it exerts depends on concurrent changes in 
+discharge rate and the number of active motor units  
+(Figure 31–7). Except at low forces, however, variation in 
+Finger force (% MVC)
+0
+20
+40
+60
+80
+100
+0
+10
+20
+30
+40
+Discharge rate (pps)
+
+
+===== Page 6 =====
+Chapter 31 / The Motor Unit and Muscle Action    745
+discharge rate has a greater influence on muscle force 
+than does changes in the number of active motor units.
+The order in which motor units are recruited does 
+not change with contraction speed. Due to the time 
+involved in excitation-contraction coupling, faster 
+contractions require the action potential for each motor 
+unit to be generated earlier than during a slow contrac-
+tion. As a result of this adjustment, the upper limit of 
+motor unit recruitment during the fastest muscle con-
+tractions is approximately 40% of maximum. Conse-
+quently, it is possible to manipulate the rate at which 
+motor units are recruited by varying contraction speed.
+The Input–Output Properties of Motor Neurons Are 
+Modified by Input From the Brain Stem
+The discharge rate of motor neurons depends on the 
+magnitude of the depolarization generated by excita-
+tory inputs and the intrinsic membrane properties of 
+the motor neurons in the spinal cord. These properties 
+can be profoundly modified by input from monoam-
+inergic neurons in the brain stem (Chapter 40). In the 
+absence of this input, the dendrites of motor neurons 
+passively transmit synaptic current to the cell body, 
+resulting in a modest depolarization that immediately 
+ceases when the input stops. Under these conditions, 
+the relation between input current and discharge rate 
+is linear over a wide range.
+The input–output relation becomes nonlinear, 
+however, when the monoamines serotonin and nor-
+epinephrine induce a huge increase in conductance by 
+activating L-type Ca2+ channels that are located on the 
+dendrites of the motor neurons. The resulting inward 
+Ca2+ currents can enhance synaptic currents by three- 
+to five-fold (Figure 31–8). In an active motor neuron, 
+this augmented current can sustain an elevated dis-
+charge rate after a brief depolarizing input has ended, 
+a behavior known as self-sustained firing. A subsequent 
+brief inhibitory input, such as from a spinal reflex 
+pathway, can terminate such self-sustained firing.
+Because the properties of motor neurons are 
+strongly influenced by monoamines, the excitability of 
+the pool of motor neurons innervating a single muscle 
+is partly under control of the brain stem. In the awake 
+state, moderate levels of monoaminergic input to the 
+motor neurons of slowly contracting motor units pro-
+mote self-sustained firing. This is probably the source 
+of the sustained force exerted by slower motor units 
+to maintain posture (Chapter 36). Conversely, the 
+withdrawal of monoaminergic drive during sleep 
+decreases excitability and helps ensure a relaxed motor 
+state. Thus, monoaminergic input from the brain stem 
+can adjust the gain of the motor unit pool to meet 
+the demands of different tasks. This flexibility does 
+not compromise the size principle of orderly recruit-
+ment because the threshold for activation of the per-
+sistent inward currents is lowest in the motor neurons 
+of slower contracting motor units, which are the first 
+recruited even in the absence of monoamines.
+Muscle Force Depends on the Structure  
+of Muscle
+Muscle force depends not only on the amount of motor 
+neuron activity but also on the arrangement of the fib-
+ers in the muscle. Because movement involves the 
+controlled variation of muscle force, the nervous sys-
+tem must take into account the structure of muscle to 
+achieve specific movements.
+The Sarcomere Is the Basic Organizational  
+Unit of Contractile Proteins
+Individual muscles contain thousands of fibers that 
+vary from 1 to 50 mm in length and from 10 to 60 μm in 
+diameter. The variation in fiber dimensions reflects dif-
+ferences in the quantity of contractile protein. Despite 
+this quantitative variation, the organization of con-
+tractile proteins is similar in all muscle fibers. The pro-
+teins are arranged in repeating sets of thick and thin 
+filaments, each set known as a sarcomere (Figure 31–9). 
+The in vivo length of a sarcomere, which is bounded 
+by Z disks, ranges from 1.5 to 3.5 μm within and across 
+muscles. Sarcomeres are arranged in series to form a 
+myofibril, and the myofibrils are aligned in parallel to 
+form a muscle fiber (myocyte).
+The force that each sarcomere can generate arises 
+from the interaction of the contractile thick and thin fil-
+aments. The thick filament consists of several hundred 
+myosin molecules arranged in a structured sequence. 
+Each myosin molecule comprises paired coiled-coil 
+domains that terminate in a pair of globular heads. The 
+myosin molecules in the two halves of a thick filament 
+point in opposite directions and are progressively dis-
+placed so that the heads, which extend away from the 
+filament, protrude around the thick filament (Figure 
+31–9C). The thick filament is anchored in the middle of 
+the sarcomere by the protein titin, which connects each 
+end of the thick filament with neighboring strands of 
+actin in the thin filament and with the Z-disc. To maxi-
+mize the interaction between the globular heads of 
+myosin and the thin filaments, six thin filaments sur-
+round each thick filament.
+The primary components of the thin filament are 
+two helical strands of fibrous F-actin, each of which 
+
+
+===== Page 7 =====
+746    Part V / Movement
+Figure 31–8  Monoaminergic input enhances the excitability of 
+motor neurons. (Part A, adapted, with permission, of Heckman 
+et al. 2009. Copyright © 2009 International Federation of  
+Clinical Neurophysiology; Part B, data from CJ Heckman; Part C, 
+adapted, with permission, from Erim et al. 1996. Copyright © 
+1996 John Wiley & Sons, Inc.)
+A. Membrane currents and potentials in spinal motor neurons 
+of adult cats that were either deeply anesthetized (low mono-
+aminergic drive) or decerebrate (moderate monoaminergic 
+drive). When monoaminergic input is absent or low, a brief 
+excitatory input produces an equally brief synaptic current dur-
+ing voltage clamp (upper record). This current is not sufficient 
+to bring the membrane potential of the neuron to threshold for 
+generating action potentials in the unclamped condition (lower 
+record). The same brief excitatory input during moderate levels 
+of monoaminergic input activates a persistent inward current in 
+the dendrites, which amplifies the excitatory synaptic current 
+and decays slowly following cessation of synaptic input (upper 
+record). This persistent inward current causes a high discharge 
+rate during the input and sustains a lesser discharge rate after 
+the input ceases (lower record). A brief inhibitory input will 
+return the neuron to its resting state.
+B. High levels of monoaminergic input to a motor neuron give 
+rise to a persistent inward current in response to injected cur-
+rent, resulting in a much greater discharge rate for a given 
+amount of current.
+C. The blue trace represents the force exerted by the dorsiflexor 
+muscle during a contraction that gradually increased to 80% of 
+maximal voluntary isometric contraction (MVC) force in a human 
+subject. Each of the four pink traces indicates the change in the 
+rate at which a single motor unit discharged action potentials 
+during the contraction. The leftmost point (start) of each of these 
+four traces shows the time when the motor unit was recruited, 
+and the rightmost point (end) denotes the time at which the 
+motor neuron stopped discharging action potentials. The rapid 
+increase in discharge rate during the increase in muscle force is 
+similar to the change in rate observed in the presence of moder-
+ate levels of monoaminergic input (see part B).
+0
+Depolarizing synaptic input
+Ampliﬁcation
+Sustained tail current
+Sustained ﬁring
+Monoaminergic input 
+Discharge rate (pps)
+Discharge rate (pps)
+Force (% MVC)
+Current (nA)
+Voltage (mV)
+B
+Time (s)
+Time (s)
+Current
+Motor
+unit
+Muscle
+force
+C
+–70
+0
+20
+40
+–60
+–50
+–10
+0
+5
+30
+100
+0
+20
+40
+60
+80
+25
+20
+15
+10
+5
+15
+10
+5
+25
+20
+0
+10
+1
+2
+3
+4
+0
+Time (s)
+A
+Low
+Moderate
+contains approximately 200 actin monomers. Super-
+imposed on F-actin are tropomyosin and troponin, 
+proteins that control the interaction between actin and 
+myosin. Tropomyosin consists of two coiled strands 
+that lie in the groove of the F-actin helix; troponin is a 
+small molecular complex that is attached to tropomyo-
+sin at regular intervals (Figure 31–9C).
+The thin filaments are anchored to the Z disk at 
+each end of the sarcomere, whereas the thick filaments 
+occupy the middle of the sarcomere (Figure 31–9B). 
+This organization accounts for the alternating light 
+and dark bands of striated muscle. The light band con-
+tains only thin filaments, whereas the dark band con-
+tains both thick and thin filaments. When a muscle is 
+
+
+===== Page 8 =====
+Chapter 31 / The Motor Unit and Muscle Action    747
+activated, the width of the light band decreases but the 
+width of the dark band does not change, suggesting 
+that the thick and thin filaments slide relative to one 
+another during a contraction. This led to the sliding 
+filament hypothesis of muscle contraction proposed by 
+A. F. Huxley and H. E. Huxley in the 1950s.
+The sliding of the thick and thin filaments is trig-
+gered by the release of Ca2+ from within the sarcoplasm 
+of a muscle fiber in response to an action potential that 
+travels along the fiber’s membrane, the sarcolemma. 
+Varying the amount of Ca2+ in the sarcoplasm controls 
+the interaction between the thick and thin filaments. 
+The Ca2+ concentration in the sarcoplasm is kept low 
+under resting conditions by active pumping of Ca2+ 
+into the sarcoplasmic reticulum, a network of longi-
+tudinal tubules and chambers of smooth endoplasmic 
+reticulum. Calcium is stored in the terminal cisternae, 
+which are located next to intracellular extensions of the 
+sarcolemma known as transverse tubules (T-tubules). 
+The transverse tubules, terminal cisternae, and sarco-
+plasmic reticulum constitute an activation system that 
+transforms an action potential into the sliding of the 
+thick and thin filaments (Figure 31–9A).
+As an action potential propagates along the sarco-
+lemma, it invades the transverse tubules and causes the 
+rapid release of Ca2+ from the terminal cisternae into 
+the sarcoplasm. Once in the sarcoplasm, Ca2+ diffuses 
+among the filaments and binds reversibly to troponin, 
+which results in the displacement of the troponin–
+tropomyosin complex and enables the sliding of the 
+thick and thin filaments. Because a single action potential 
+does not release enough Ca2+ to bind all available tro-
+ponin sites in skeletal muscle, the strength of a contrac-
+tion increases with the action potential rate.
+The sliding of the filaments depends on mechani-
+cal work performed by the globular heads of myosin, 
+work that uses chemical energy contained in adeno-
+sine triphosphate (ATP). The actions of the myosin 
+heads are regulated by the cross-bridge cycle, a sequence 
+of detachment, activation, and attachment (Figure 
+31–10). In each cycle, a globular head undergoes a dis-
+placement of 5 to 10 nm. Contractile activity continues 
+as long as Ca2+ and ATP are present in the cytoplasm in 
+sufficient amounts.
+Once the contractile proteins have been activated 
+by the release of Ca2+, sarcomere length may increase, 
+remain the same, or decrease depending on the magni-
+tude of the load against which the muscle is acting. The 
+force generated by an activated sarcomere when its 
+length does not change or decreases can be explained 
+by the cross-bridge cycle involving the thick and 
+thin filaments. When the length of the activated sar-
+comere increases, however, the force developed by the 
+extension of titin adds significantly to the sarcomere 
+force. The force produced by titin during the stretch 
+of an activated sarcomere is augmented by its abil-
+ity to increase stiffness, which is accomplished when 
+titin binds Ca2+ and then attaches at specific locations 
+on actin to reduce the length that it can be stretched. 
+The force produced by activated sarcomeres therefore 
+depends on the interactions of three filaments (actin, 
+myosin, and titin).
+Noncontractile Elements Provide Essential 
+Structural Support
+Structural elements of the muscle fiber maintain the 
+alignment of the contractile proteins within the fiber 
+and facilitate the transmission of force from the sar-
+comeres to the skeleton. A network of proteins (nebu-
+lin, titin) maintains the orientation of the thick and thin 
+filaments within the sarcomere, whereas other proteins 
+(desmin, skelemins) constrain the lateral alignment of 
+the myofibrils (Figure 31–9B). These proteins contrib-
+ute to the elasticity of muscle and maintain the appro-
+priate alignment of cellular structures when the muscle 
+acts against an external load.
+Although some of the force generated by the cross 
+bridges is transmitted along the sarcomeres in series, 
+most of it travels laterally from the thin filaments to 
+an extracellular matrix that surrounds each muscle fiber, 
+through a group of transmembrane and membrane-
+associated proteins called a costamere (see inset for  
+Figure 31–9B). The lateral transmission of force follows 
+two pathways through the costamere, one through 
+a dystrophin–glycoprotein complex and the other 
+through vinculin and members of the integrin family. 
+Mutations of genes that encode components of the dys-
+trophin–glycoprotein complex cause muscular dystro-
+phies in humans, which are associated with substantial 
+decreases in muscle force.
+Contractile Force Depends on Muscle Fiber 
+Activation, Length, and Velocity
+The force that a muscle fiber can exert depends on 
+the number of cross bridges formed and the force 
+produced by each cross bridge. These two factors are 
+influenced by the Ca2+ concentration in the sarcoplasm, 
+the amount of overlap between the thick and thin fila-
+ments, and the velocity with which the thick and thin 
+filaments slide past one another.
+The influx of Ca2+ that activates formation of the 
+cross bridges is transitory because continuous pump 
+activity quickly returns Ca2+ to the sarcoplasmic reticu-
+lum. The release and reuptake of Ca2+ in response to a 
+single action potential occurs so quickly that only some 
+
+
+===== Page 9 =====
+748    Part V / Movement
+Sarcolemma
+Desmin
+Z disk
+Skelemin
+Costamere
+Nucleus
+Terminal
+cisterna
+Transverse
+tubules
+Sarcoplasmic
+reticulum
+Sarcolemma
+(muscle ﬁber membrane)
+Myoﬁbril
+Filaments
+Mitochondrion
+Sarcomere
+A
+B
+C
+Z disk
+Thin ﬁlament
+(F-actin)
+Thick ﬁlament
+(myosin)
+Tropomyosin
+Troponin
+Titin
+Nebulin
+Integrin
+α3β1
+α-Actinin
+Talin
+Vinculin
+Dystroglycans
+Dystrophin
+Basal lamina
+Laminin
+Fibronectin
+Desmin
+γ-Actin
+α
+β
+
+

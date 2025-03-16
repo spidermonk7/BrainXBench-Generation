@@ -1,0 +1,836 @@
+===== Page 1 =====
+804    Part V / Movement
+A  Left ﬂexion and right extension
+C
+B  Right ﬂexion and left extension
+IF
+Stim
+Stim
+lFmn
+CPG
+(IF)
+Stim
+rFmn
+CPG
+(rF)
+PMRF
+Left
+Right
+IE
+rF
+rE
+rF
+lE
+lF
+rE
+F
+E
+F
+E
+Figure 33–13  Microstimulation 
+of the pontomedullary reticular 
+formation (PMRF) produces phase-
+dependent responses in flexor and 
+extensor muscles. (Data from  
+T. Drew.)
+A. Stimulation of the left PMRF dur-
+ing the swing phase of the left limb 
+produces a transient increase in the 
+electromyogram activity of the left 
+flexor muscles (lF) and a simultane-
+ous decrease in activity in the right 
+extensor muscles (rE) (red arrows). 
+There is little stimulus-evoked activity 
+in the left extensor (lE) or right flexor 
+(rF) muscles, which are inactive at 
+this phase of the step cycle.
+B. Stimulation at the same location 
+in the PMRF during the swing phase 
+of the right limb produces the inverse 
+responses.
+C.  The phase-dependent nature of 
+the responses is likely determined by 
+the cyclical nature of the level of excit-
+ability in interneurons that are part of 
+the locomotor central pattern genera-
+tor (CPG). Responses are gated by 
+activity in the flexor (F) and extensor 
+(E) parts of the locomotor CPG. When 
+the first stimulation arrives, flexor 
+interneurons in the left CPG (lF) are 
+active, whereas those in the right 
+CPG (rF) are inactive. The stimulation 
+therefore produces a response only in 
+the left flexor motor neurons (lFmn). 
+When the second stimulation arrives, 
+flexor interneurons in the right CPG 
+(rF) are active, whereas those on the 
+left side are inactive, and therefore, 
+the stimulation elicits a response only 
+in the flexor motor neurons on the 
+right (rFmn).
+gait (see below). In a complementary manner, the wide-
+spread effects of the PMRF on multiple limbs allow it 
+to produce the coordinated changes in postural activ-
+ity that accompany gait modifications. The coordina-
+tion between gait modifications and postural activity 
+is assured by the strong connections from the motor 
+cortex to the PMRF in the same manner as for discrete 
+voluntary movements (Chapter 34). The PMRF also 
+contributes to the compensatory changes in posture 
+that occur as a consequence of perturbations. In this 
+situation, it forms part of a spino-bulbo-spinal reflex 
+that contributes to the widespread postural responses 
+that follow the immediate spinal reflexes activated by 
+a sudden perturbation.
+Visually Guided Locomotion Involves the 
+Motor Cortex
+Walking is most often guided by vision, and the motor 
+cortex is largely essential for visually guided move-
+ment, especially when gait must be modified to ensure 
+precise control over limb trajectory and foot place-
+ment. In mammals, lesions of the motor cortex do not 
+
+
+===== Page 2 =====
+Chapter 33 / Locomotion    805
+prevent animals from walking on a smooth floor, but 
+they severely impair “precision locomotion,” which 
+requires a high degree of visuomotor coordination, 
+such as walking on the rungs of a horizontal ladder, 
+stepping over a series of barriers, and stepping over 
+single objects placed on a treadmill belt.
+Experiments in intact cats trained to step over 
+obstacles attached to a moving treadmill belt show 
+that precision locomotion is associated with consider-
+able modulation of the activity of numerous neurons 
+in the motor cortex (Figure 33–14). Other neurons in 
+the motor cortex show a more discrete pattern of activ-
+ity and are activated sequentially during different 
+parts of the swing phase. The activity of these cortical 
+neurons correlates with the periods of modified mus-
+cle activity required to produce the gait modifications 
+in a similar manner to what occurs during reaching 
+(see Figure 34–21). Such subpopulations of neurons 
+may serve to modify the activity of the groups of syn-
+ergistic muscles required to produce flexible changes 
+in limb trajectory.
+Many of these cortical neurons project directly to 
+the spinal cord (corticospinal neurons) and thus may 
+regulate the activity of spinal interneurons, including 
+those within the CPG, thereby adapting the timing 
+and magnitude of motor activity to a specific locomo-
+tor task. Brief trains of electrical stimulation applied 
+to either the motor cortex or the corticospinal tract in 
+normal walking cats produce transient responses in 
+the contralateral limb in a phase-dependent manner, 
+similar to that produced by activity in various brain 
+stem structures. However, in contrast to the situation 
+500 ms
+Motor
+cortex
+unit
+EMGs from
+foreleg ﬂexor
+muscles
+Step over obstacle
+Record motor cortex
+Foreleg
+ﬂexor
+muscle
+Figure 33–14  Stepping movements 
+are adapted by the motor cortex in 
+response to visual inputs.  When a cat 
+steps over a visible object fixed to a tread-
+mill, neurons in the motor cortex increase 
+in activity. This increase in cortical activity 
+is associated with enhanced activity in 
+foreleg muscles, as seen in the electro-
+myograms (EMG). (Adapted, with permis-
+sion, from Drew 1988.)
+
+
+===== Page 3 =====
+806    Part V / Movement
+observed with brain stem structures, increasing the 
+duration of the stimulation train applied to the motor 
+cortex frequently results in a reset of the locomo-
+tor rhythm, characterized as an interruption of the 
+ongoing step cycle and the initiation of a new step 
+cycle. This suggests that in mammals the corticospi-
+nal tract has privileged access to the rhythm genera-
+tor of the CPG.
+Planning of Locomotion Involves the  
+Posterior Parietal Cortex
+When humans and animals approach an obstacle in 
+their pathway, they must adjust their walking pattern 
+to move around the obstacle or step over it. Planning 
+of these adjustments begins two or three steps before 
+the obstacle is reached. Recent experiments suggest 
+that the posterior parietal cortex (PPC) is particularly 
+involved in planning gait modifications. Lesions in 
+this region cause walking cats to misplace the posi-
+tioning of their paws as they approach an obstacle and 
+increase the probability that one or more legs contact 
+the obstacle as they step over it.
+In contrast to what is observed in the motor cortex, 
+recordings in PPC show that many neurons increase 
+their activity in advance of the step over the obsta-
+cle. Moreover, many cells in the PPC discharge simi-
+larly regardless of which leg is first to step over the 
+obstacle (Figure 33–15A,B). Such cells may provide an 
+estimation of the position of the body with respect to 
+objects in the environment (Figure 33–15B), allowing 
+animals to modify gait as they approach the obstacle. 
+The manner in which the PPC interacts with other cor-
+tical and subcortical structures generally considered 
+to be involved in motor planning is unknown. How-
+ever, recent work shows that the premotor cortex also 
+makes an important contribution to planning visually 
+guided gait modifications (Figure 33–15C) and may be 
+implicated in the transformation of a global signal pro-
+viding information concerning obstacle location to the 
+muscle-based signal necessary for the execution of the 
+step over the obstacle.
+Visual information about the size and location of 
+an obstacle is also stored in working memory, a form of 
+short-term memory (Chapter 52). This information is 
+used to ensure that gait modifications in the hindlimb 
+are coordinated with those of the forelimb and is nec-
+essary because the obstacle is no longer within the vis-
+ual field by the time the hindlimbs are stepping over it. 
+The neurobiological mechanisms underlying this form 
+of working memory remain to be established, but the 
+persistence of the memory appears to depend, at least 
+in part, on neuronal systems in the PPC. With bilateral 
+lesions or cooling of the medial PPC, the memory is 
+completely abolished (Figure 33–16A). Complement-
+ing this observation is the finding that the activity of 
+some neurons in the PPC is elevated during a step over 
+an obstacle, as well as throughout the time the animal 
+straddles the obstacle (Figure 33–16B). This activity 
+could represent the working memory of key features 
+of the obstacle such as height.
+The Cerebellum Regulates the Timing and 
+Intensity of Descending Signals
+Damage to the cerebellum results in marked abnor-
+malities in locomotor movements, including the need 
+for a widened base of support, impaired coordination 
+of joints, and abnormal coupling between limbs during 
+stepping. These symptoms, which are characteristic of 
+ataxia (Chapter 37), indicate that the cerebellum con-
+tributes importantly to the regulation of locomotion.
+A major function of the cerebellum is to correct 
+movement based on a comparison of the motor sig-
+nals sent to the spinal cord and the movement pro-
+duced by that motor command (Chapter 37). In the 
+context of locomotion, the motor signal is generated 
+by neurons in the motor cortex and brain stem nuclei. 
+Information about the movement comes from the 
+ascending spinocerebellar pathways. For the hind 
+legs of the cat, these are the dorsal and ventral spi-
+nocerebellar tracts. Neurons in the dorsal spinocer-
+ebellar tract (DSCT neurons) are strongly activated 
+by numerous leg proprioceptors and thus provide 
+the cerebellum with detailed information about the 
+mechanical state of the hind legs. In contrast, neurons 
+in the ventral tract (VSCT neurons) are activated pri-
+marily by interneurons in the CPG, thus providing 
+the cerebellum with information about the state of the 
+spinal locomotor network.
+During locomotion, the motor command (the cen-
+tral efference copy), the movement (the afference copy, 
+via the DSCT), and the state of the spinal networks 
+(the spinal efference copy, via the VSCT) are integrated 
+within the cerebellum and expressed as changes in the 
+pattern of rhythmical discharge of Purkinje cells in the 
+cerebellar cortex and neurons in the deep cerebellar 
+nuclei. These signals from the deep cerebellar nuclei 
+are then sent to the motor cortex and the various brain 
+stem nuclei where they modulate descending signals 
+to the spinal cord to correct any motor errors.
+Behavioral experiments show that the cerebellum 
+also plays an important role in the adaptation of gait. 
+For example, when subjects walk on a split treadmill, 
+
+
+===== Page 4 =====
+Chapter 33 / Locomotion    807
+C
+A
+B
+Right limb leads
+Step over
+obstacle
+Step over
+obstacle
+Left limb leads
+lF
+rF
+PPC
+neuron
+Limb state-object coupling
+Storage
+PPC
+Movement
+execution;
+adaptive gait
+modifications
+Motor planning:
+dynamic limb state-
+object coupling and
+limb coordination
+Spinal CPGs
+Cerebellum
+Basal
+ganglia
+Premotor
+cortex
+Motor
+cortex
+Posterior
+parietal cortex
+Recording from
+neuron in posterior 
+parietal cortex
+Figure 33–15  Neurons in the posterior parietal cortex (PPC) 
+are involved in planning voluntary gait modifications.
+A. Activity of a PPC neuron in the right cortex during a step 
+over the obstacle when the left or right forelimb is the first to 
+step over the obstacle. In each situation, the cell in the PPC 
+discharges two to three steps in advance of the step over the 
+obstacle.
+B.  The observation that PPC neurons discharge independent 
+of which limb is the first to step over the obstacle suggests a 
+global function of PPC in the planning of locomotion. In a gen-
+eral scheme, the PPC neurons are involved in the estimation of 
+the relative location of an object with respect to the body (limb 
+state–object coupling [double arrow]) and storage information 
+in the PPC for later retrieval.
+C.  The PPC does not act alone in planning gait modifications. 
+It is part of a cortical and subcortical network that includes, 
+among other structures, the premotor cortex, the basal ganglia, 
+and the cerebellum. Connections exist between each of these 
+structures as well as between each of them and the motor cor-
+tex, which is responsible for the execution of the gait modifica-
+tion. (Abbreviation: CPG, central pattern generator.) (Adapted, 
+with permission, from Drew and Marigold 2015.)
+so that each leg walks at a different speed, they initially 
+show a very asymmetric gait before adapting over time 
+to a more asymmetric one. When the two treadmill 
+belts are reset to the same speed, they again show an 
+asymmetric gait, demonstrating that the experimental 
+condition had produced adaptation (see Figure 30–13). 
+Patients with damage to the cerebellum are not able to 
+adapt to this condition.
+The Basal Ganglia Modify Cortical and  
+Brain Stem Circuits
+The basal ganglia are found in all vertebrates from the 
+oldest vertebrates to primates and probably con-
+tribute to the selection of different motor patterns. 
+The importance of the basal ganglia to the control of 
+locomotion is clearly demonstrated by the deficits in 
+
+
+===== Page 5 =====
+808    Part V / Movement
+Figure 33–16  The posterior parietal cortex (PPC) is involved 
+in maintaining an estimate of an obstacle in working mem-
+ory during locomotion.
+A.  Upper figure: Normal animals were trained to walk for-
+ward, step over an obstacle, and then pause. While the animal 
+paused, the obstacle was removed. When walking resumed, 
+the hind legs stepped high to avoid the remembered obstacle. 
+This memory lasted for more than 30 seconds. The trajectory 
+of the hindlimbs was scaled appropriately for the height of the 
+obstacle and for the relative position of the hind paws. Bilateral 
+lesions of the PPC led to an impairment in the memory, making 
+it impossible for the animal to pass the obstacle without hitting 
+it. Lower figure: Following the lesion, animals stored the mem-
+ory for only 1 to 2 seconds, and the maximum height of the 
+toe was insufficient to clear the obstacle and was significantly 
+lower than in the prelesion condition. (Adapted from McVea and 
+Pearson 2009.)
+B. Upper figure: Neurons recorded in an intact animal in the 
+PPC on the right side discharged in the period between the 
+passage of the left forelimb (lFL) and hindlimb (lHL) over an 
+obstacle (represented by electromyogram activity from repre-
+sentative flexor muscles in each limb). This discharge may be 
+used to coordinate the movement of the hindlimb with that of 
+the forelimb during the visually guided gait modification. Lower 
+figure: When the cat steps over an obstacle and pauses, as in 
+part A, cells in the PPC show a maintained discharge that could 
+provide the neural representation of the working memory. 
+(Adapted, with permission, from Lajoie et al. 2010.)
+10 s
+PPC
+12
+10
+8
+6
+4
+2
+0
+0
+10
+20
+30
+40
+50
+Pause duration (s)
+Maximum toe height (cm)
+Intact
+Hind legs step high to avoid
+remembered position of obstacle
+Left limb leads over obstacle
+Step over
+obstacle
+Lesioned
+B
+A
+Prelesion
+Postlesion
+Straddle obstacle;  
+obstacle is lowered
+Straddle
+Spikes/s
+PPC
+neuron
+Forelimbs
+step over
+Hindlimbs
+step over
+IFL
+IHL
+Spikes/s
+PPC
+neuron
+IFL
+IHL
+200
+0
+70
+0
+locomotion observed in patients with Parkinson dis-
+ease, which disrupts the normal functioning of the 
+basal ganglia due to degradation of their dopamin-
+ergic inputs from the substantia nigra (Chapter 38).
+Such patients show a characteristic slow, shuffling 
+gait and, in later stages of the disease, can also show 
+“freezing” of gait. Patients with Parkinson disease also 
+show problems with balance during locomotion and 
+with the anticipatory postural adjustments that occur 
+at the initiation of a gait pattern. These deficits suggest 
+that the basal ganglia contribute to the initiation, regula-
+tion, and modification of gait patterns. This regulation is 
+mediated by the two major projections of the basal gan-
+glia to the brain stem pathways and cortical structures.
+The basal ganglia influence brain stem activity 
+through their projections to the PPN. The PPN receives 
+
+
+===== Page 6 =====
+Chapter 33 / Locomotion    809
+inhibitory inputs from GABAergic inhibitory neu-
+rons in the substantia nigra pars reticulata (SNr) as 
+well as from the globus pallidus pars interna (GPi); 
+it also receives glutamatergic input from neurons in 
+the subthalamic nucleus (STN). Decreased inhibitory 
+input and increased glutamatergic input to PPN from 
+the basal ganglia are thought to promote activity in 
+PPN and favor exploratory locomotion. The STN and 
+GPi are major targets of deep brain stimulation for 
+improvement of motor symptoms such as rigidity and 
+reduced mobility in patients with Parkinson disease.
+The basal ganglia influence cortical activity by 
+means of its connections via the thalamus to different 
+parts of the frontal cortex, including the supplemen-
+tary motor regions. These connections allow the basal 
+ganglia to exert a modulatory effect on visually guided 
+locomotion, possibly by selecting the appropriate motor 
+patterns required in different behavioral situations.
+Computational Neuroscience Provides  
+Insights Into Locomotor Circuits
+While functional studies have revealed much about 
+the organization of the locomotor networks, their over-
+all complexity makes it difficult to capture the integra-
+tive function of synaptic and cellular properties of the 
+circuit. Computational network modeling, however, 
+allows one to simulate the circuit activity and to inves-
+tigate the dynamic interactions between the circuit 
+elements. Computational models can be developed at 
+many levels: to study the ionic basis of neural activ-
+ity within a given circuit, to study the connectivity 
+between different groups of neurons in a particular cir-
+cuit, or to better understand the interactions between 
+different structures in the locomotor network. Compu-
+tational models at each of these levels have been devel-
+oped to study rhythm and pattern generation in both 
+invertebrates and vertebrates and in the latter, ranging 
+from the lamprey to mammals. As in other domains, 
+approaches combining experimental manipulation 
+and computational modeling are likely to increase in 
+the coming years and have the potential to advance 
+our understanding of the complex systems and inter-
+connections between structures that are required to 
+produce the full locomotor repertoire.
+Neuronal Control of Human Locomotion  
+Is Similar to That of Quadrupeds
+By necessity, most of our understanding of the neu-
+ral mechanisms underlying the control of locomotion 
+comes from experiments on quadrupedal animals. 
+Nonetheless, the available evidence suggests that all 
+the major principles concerning the origin and regula-
+tion of walking in quadrupeds also pertain to locomo-
+tion in humans. Although the issue of whether CPGs 
+exist in humans remains contentious, several obser-
+vations are compatible with the view that CPGs are 
+important for human locomotion.
+For example, observations of some patients with 
+spinal cord injury parallel the findings from studies 
+of spinal cats. Striking cases of patients with nearly 
+complete transection of the spinal cord have shown 
+uncontrollable, spontaneous, rhythmic movements of 
+the legs when the hips were extended. This behavior 
+closely parallels the rhythmic stepping movements in 
+chronic spinal cats. Moreover, tonic electrical stimula-
+tion of the spinal cord below the injury can evoke 
+locomotor-like activity, as in other mammals.
+Parallels between human and quadrupedal walk-
+ing have also been found in patients trained after spinal 
+cord injury. Daily training combined with drug treat-
+ments restores stepping in spinal cats and improves 
+stepping in patients with chronic spinal injuries. Peo-
+ple with severe spinal cord injury who have been 
+exposed to both treadmill-induced stepping and drug 
+treatments similar to those that have been shown to 
+activate the CPG in cats have demonstrated dramatic 
+improvements in the ability to produce locomotion 
+(Box 33–4). These results suggest that CPGs are present 
+in humans and share functional similarities with CPGs 
+found in other vertebrates.
+Compelling evidence for the existence of spinal 
+CPGs in humans also comes from studies in human 
+infants who make rhythmic stepping movements 
+immediately after birth if held upright and moved 
+over a horizontal surface. This strongly suggests that 
+some of the basic neuronal circuits for locomotion are 
+innate and present at birth when descending control 
+systems are not well developed. Because stepping can 
+also occur in infants who lack cerebral hemispheres 
+(anencephaly), these circuits must be located at or 
+below the brain stem, perhaps entirely within the 
+spinal cord.
+During the first year of life, as automatic stepping 
+is transformed into functional walking, these basic 
+circuits are thought to be brought under supraspinal 
+control. In particular, the stepping pattern gradually 
+develops from a more primitive flexion-extension pat-
+tern that generates little effective forward movement 
+to the mature pattern of complex movements. It is 
+plausible, based on studies of cats, that this adaptation 
+reflects maturation of descending systems that origi-
+nate in the motor cortex and brain stem nuclei and are 
+modulated by the cerebellum.
+
+
+===== Page 7 =====
+810    Part V / Movement
+According to the World Health Organization, between 
+250,000 and 500,000 people worldwide incur spinal 
+cords injuries annually. For many, this results in per-
+manent loss of sensation, movement, and autonomic 
+function. The devastating loss of functional abilities, 
+together with the enormous cost of treatment and care, 
+creates an urgent need for effective methods to repair 
+the injured spinal cord and to facilitate functional 
+recovery.
+Over the past decades, progress has been made in 
+animal research aimed at preventing secondary dam-
+age after injury, repairing the axons of lesioned neurons 
+in the spinal cord, and promoting the regeneration of 
+severed axons through and beyond the site of injury. 
+In many instances, the regeneration of axons has been 
+associated with modest recovery of locomotor func-
+tion. However, none of the regeneration strategies has 
+reached the point where they can be confidently used in 
+humans with spinal cord injury.
+Thus, rehabilitative training is the preferred treat-
+ment for people with spinal cord injury. One especially 
+successful technique for enhancing walking in patients 
+with partial damage to the spinal cord is repetitive, 
+weight-supported stepping on a treadmill (Figure 33–17). 
+This technique is based on the observation that spinal 
+cats and rodents can be trained to step with their hind 
+legs on a moving treadmill.
+For humans, partial support of the body weight 
+through a harness system is critical to the success of 
+training; presumably, it facilitates the training of spinal 
+cord circuits by reducing the requirements for supraspi-
+nal control of posture and balance.
+Although the neural basis for the improvement in 
+locomotor function with treadmill training has not been 
+established, it is thought to depend on synaptic plastic-
+ity in local spinal circuits as well as successful transmis-
+sion of at least some command signals from the brain 
+through preserved descending pathways if the spinal 
+cord injury is only partial.
+Locomotor training is sometimes combined with 
+other treatments. These include different types of medi-
+cation designed to reduce spasticity, seen as involuntary 
+muscle contractions, and facilitation of activity in spinal 
+circuits by electrical transcutaneous activation of spinal 
+circuits and/or activation of corticospinal pathways by 
+transcranial magnetic stimulation.
+Box 33–4  Rehabilitative Training Improves Walking After Spinal Cord Injury in Humans
+Figure 33–17  Treadmill training improves locomotor 
+function in patients with partial spinal cord injury.
+A.  The patient is partially supported on a moving treadmill 
+by a harness, and stepping movements are assisted by 
+therapists.
+B. Locomotor function improvement in 44 patients with 
+chronic spinal cord injury after daily training lasting from 3 
+to 20 weeks. The functional rating ranges from 0 (unable to 
+stand or walk) to 5 (walking without devices for more than five 
+steps). (Adapted, with permission, from Wernig et al. 1995. 
+Copyright © 2006, John Wiley and Sons.)
+20
+15
+10
+5
+0
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+Number of patients
+Functional rating
+Before training
+A
+B
+After training
+Weight support
+Harness
+
+
+===== Page 8 =====
+Chapter 33 / Locomotion    811
+At the cortical level, stroke involving the motor 
+cortex or damage to the corticospinal tracts leads 
+to deficits in locomotion, as in cats. However, the 
+deficits in humans are much stronger than in cats 
+or even nonhuman primates, suggesting that the 
+motor cortex in humans plays a more important role 
+in locomotion than in other mammals. Studies using 
+transcranial magnetic stimulation (TMS) to modulate 
+motor cortical activity also show that the motor cor-
+tex contributes importantly to the control of human 
+locomotion. TMS parameters that result in cortical 
+inactivation, for example, produce a decrease in the 
+level of muscle activity during locomotion. In con-
+trast, TMS parameters that activate the motor cor-
+tex improve the recovery of locomotion following 
+incomplete spinal cord injury.
+Imaging studies, together with high-resolution 
+electroencephalogram recordings, show changes in the 
+activity of several cortical regions, including the motor 
+cortex, premotor cortex, and PPC, during locomotion 
+and particularly during imagined locomotion over 
+obstacles. Imaging studies have also shown increased 
+activity during locomotion in those parts of the mid-
+brain shown to be important for the initiation and 
+speed control of locomotion in animals. Similarly, neu-
+rons in the pedunculopontine nucleus can be affected 
+in Parkinson disease, contributing to the severe gait 
+disturbances seen in the late phase of the disease.
+Highlights
+  1.  Locomotion is a highly conserved behavior that 
+is essential for the survival of the species. Our 
+understanding of the neuronal mechanisms 
+involved in the generation and control of locomo-
+tion came initially from the study of phylogeneti-
+cally older animals, such as the lamprey and the 
+tadpole. More recently, in mammals, with their 
+more complex nervous systems, the organization 
+of the different neural pathways involved in the 
+generation and regulation of locomotion has also 
+been determined in significant detail.
+  2.  The spinal cord, in isolation from descending and 
+rhythmical peripheral afferent inputs, can gener-
+ate a complex locomotor pattern that contains 
+elements of the rhythms and patterns observed 
+in intact animals. The circuits responsible for pro-
+ducing this activity are referred to as central pat-
+tern generators (CPGs). Activity in spinal circuits 
+can be modified by experience.
+  3.  The basic components of CPGs controlling swim-
+ming are excitatory rhythm-generating neurons 
+together with commissural inhibitory neurons 
+responsible for left–right alternation. This organ-
+izational principle is also found in CPGs con-
+trolling limbed movements with the addition 
+of flexor-extensor pattern-generating circuits 
+and additional commissural neuronal networks. 
+The circuits in the locomotor networks have a 
+modular organization with distinct transmitter 
+and molecular codes for the constituent neurons. 
+Descending command signals act on these circuit 
+elements to produce the diverse aspects of loco-
+motor behavior.
+  4.  Ionic membrane properties in interneurons and 
+motor neurons contribute to rhythm and pattern 
+generation. Cell-specific manipulation of these 
+properties will enable a precise understand-
+ing of their relative contributions to locomotor 
+production.
+  5.  Peripheral afferent inputs modulate the func-
+tion of spinal locomotor circuits. Proprioceptive 
+sensors are used to stabilize phase transitions 
+between stance and swing (and vice versa), 
+whereas input from exteroceptors is used to 
+modify limb activity in response to unexpected 
+perturbations.
+  6.  Circuits that are involved in initiating loco-
+motion, controlling speed of locomotion, and 
+selecting gaits are localized in the midbrain and 
+encompass excitatory neurons in the pedunculo-
+pontine and cuneiform nuclei. These excitatory 
+nuclei serve diverse roles in controlling either 
+slow explorative locomotion or the full range of 
+speeds and gaits including fast escape locomo-
+tion. Molecular-genetically driven cell-specific 
+approaches allow unparalleled access to the 
+organization of these pathways in the brain stem 
+and how they integrate with spinal locomotor 
+networks.
+  7.  Activity in the three main structures in the brain 
+stem with axons that descend to the spinal cord 
+(the pontomedullary reticular formation, the 
+lateral vestibular nucleus, and the red nucleus) 
+contributes to the control of posture and inter-
+limb coordination. Signals from these structures 
+modify the level of muscle activity in a structure-
+specific manner.
+  8.  The motor cortex provides precise control of 
+muscle activity patterns to allow animals to 
+make visually guided anticipatory adjustments 
+of their gait. The signal from the motor cortex is 
+integrated into the ongoing rhythm.
+  9.  The posterior parietal cortex (PPC) is part of a net-
+work that contributes to the advanced planning 
+
+
+===== Page 9 =====
+812    Part V / Movement
+of gait based on visual information. PPC neu-
+rons estimate the relative location of objects 
+with respect to the body and retain information 
+in working memory to facilitate coordination of 
+the limbs. The contribution of other cortical and 
+subcortical areas to locomotor planning remains 
+little studied.
+10.  Inputs from the cerebellum and the basal ganglia 
+are used to correct motor errors and select the 
+appropriate patterns of motor activity. The contri-
+bution of the basal ganglia to the control of locomo-
+tion is complex and is only now being determined.
+11.  The available evidence suggests that the neural 
+control mechanisms determined from experi-
+ments in animals are also used to control locomo-
+tion in humans, including the existence of a CPG. 
+Major advances remain to be made in under-
+standing the mechanisms of spinal and supraspi-
+nal influences on human locomotor control.
+12.  Recent technological advances now give us an 
+unparalleled opportunity to investigate the con-
+trol mechanisms underlying locomotion. Molec-
+ular and genetic advances provide the ability 
+to manipulate behavior at both the cellular and 
+systems level and allow detailed study of the 
+contributions of brain stem and spinal circuits 
+to the initiation and regulation of locomotion. 
+Advances in multineuronal recording tech-
+niques in animals, as well as the development 
+of high-resolution recordings of human brain 
+activity, will facilitate our understanding of the 
+contribution of cortical structures to the control 
+of locomotion.
+ Trevor Drew  
+ Ole Kiehn 
+Suggested Reading
+Armstrong DM. 1988. The supraspinal control of mamma-
+lian locomotion. J Physiol 405:1–37.
+Brown T. 1911. The intrinsic factors in the act of progression 
+in mammals. Proc R Soc B 84:308–319.
+Drew T, Andujar JE, Lajoie K, Yakovenko S. 2008. Cortical 
+mechanisms involved in visuomotor coordination during 
+precision walking. Brain Res Rev 57:199–211.
+Grillner S. 2006. Biological pattern generation: the cellular 
+and computational logic of networks in motion. Neuron 
+52:751–766.
+Jankowska E. 2008. Spinal interneuronal networks in the cat: 
+elementary components. Brain Res Rev 57:46–55.
+Kiehn O. 2016. Decoding the organization of spinal circuits 
+that control locomotion. Nat Rev Neurosci 17:224–238.
+Orlovsky G, Deliagina TG, Grillner S. 1999. Neuronal Control of 
+Locomotion: From Mollusc to Man. Oxford: Oxford Univ. Press.
+Pearson KG. 2008. Role of sensory feedback in the control of 
+stance duration in walking cats. Brain Res Rev 57:222–227.
+Rossignol S. 1996. Neural control of stereotypic limb move-
+ments. Supplement 29. In: Handbook of Physiology, Exercise: 
+Regulation and Integration of Multiple Systems. New York: 
+Wiley-Blackwell.
+Sherrington CS. 1913. Further observations on the produc-
+tion of reflex stepping by combination of reflex excitation 
+with reflex inhibition. J Physiol 47:196–214.
+Takakusaki K, Chiba R, Nozu T, Okumura T. 2016. Brainstem 
+control of locomotion and muscle tone with special refer-
+ence to the role of the mesopontine tegmentum and med-
+ullary reticulospinal systems. J Neural Transm (Vienna) 
+123:695–729.
+References
+Ampatzis K, Song J, Ausborn J, El Manira A. 2014. Separate 
+microcircuit modules of distinct v2a interneurons and 
+motoneurons control the speed of locomotion. Neuron 
+83:934–943.
+Bouvier J, Caggiano V, Leiras R, et al. 2015. Descending com-
+mand neurons in the brain stem that halt locomotion. Cell 
+163:1191–1203.
+Brocard F, Tazerart S, Vinay L. 2010. Do pacemakers drive 
+the central pattern generator for locomotion in mammals? 
+Neuroscientist 16:139–155.
+Buchanan JT, Grillner S. 1987. Newly identified “glutamate 
+interneurons” and their role in locomotion in the lamprey 
+spinal cord. Science 236:312–314.
+Butt SJ, Kiehn O. 2003. Functional identification of interneu-
+rons responsible for left-right coordination of hindlimbs 
+in mammals. Neuron 38:953–963.
+Caggiano V, Leiras R, Goni-Erro H, et al. 2018. Midbrain cir-
+cuits that set locomotor speed and gait selection. Nature 
+553:455–460.
+Capelli P, Pivetta C, Soledad Esposito M, Arber S. 2017. 
+Locomotor speed control circuits in the caudal brainstem. 
+Nature 551:373–377.
+Choi JT, Bouyer LJ, Nielsen JB. 2015. Disruption of locomotor 
+adaptation with repetitive transcranial magnetic stimula-
+tion over the motor cortex. Cereb Cortex 25:1981–1986.
+Conway BA, Hultborn H, Kiehn O. 1987. Proprioceptive 
+input resets central locomotor rhythm in the spinal cat. 
+Exp Brain Res 68:643–656.
+Crone SA, Quinlan KA, Zagoraiou L, et al. 2008. Genetic 
+ablation of V2a ipsilateral interneurons disrupts left-right 
+locomotor coordination in mammalian spinal cord. Neuron 
+60:70–83.
+Dougherty KJ, Zagoraiou L, Satoh D, et al. 2013. Locomotor 
+rhythm generation linked to the output of spinal shox2 
+excitatory interneurons. Neuron 80:920–933.
+
+

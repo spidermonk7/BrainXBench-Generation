@@ -1,0 +1,931 @@
+===== Page 1 =====
+SYNAPTIC PLASTICITY
+Animals live in an ever-changing environment to which they must continuously adapt.
+Adaptation in the nervous system occurs at every level, from ion channels and synapses to
+single neurons and whole networks. It operates in many different forms and on many time
+scales. Retinal adaptation, for example, permits us to adjust within minutes to changes of
+over eight orders of magnitude of brightness, from the dark of a moonless night to high noon.
+High-level memory—the storage and recognition of a person's face, for example—can also
+be seen as a specialized form of adaptation (see Squire, 1987).
+The ubiquity of adaptation in the nervous system is a radical but often underappreciated
+difference between brains and computers. With few exceptions, all modern computers are
+patterned according to the architecture laid out by von Neumann (1956). Here the adaptive
+elements—the random access memory (RAM)—are both physically and conceptually
+distinct from the processing elements, the central processing unit (CPU). Even proposals
+to incorporate massive amounts of so-called intelligent RAM (IRAM) directly onto any
+future processor chip fall well short of the degree of intermixing present in nervous systems
+(Kozyrakis et al., 1997). It is only within the last few years that a few pioneers have
+begun to demonstrate the advantages of incorporating adaptive elements at all stages of
+the computation into electronic circuits (Mead, 1990; Koch and Mathur, 1996; Diorio et
+al.,1996).
+For over a century (Tanzi, 1893; Ramon y Cajal, 1909, 1991), the leading hypothesis
+among both theoreticians and experimentalists has been that synoptic plasticity underlies
+most long-term behavioral plasticity. It has nevertheless been extremely difficult to establish
+a direct link between behavioral plasticity and its biophysical substrate, in part because
+most biophysical research is conducted with in vitro preparations in which a slice of the
+brain is removed from the organism, while behavior is best studied in the intact animal.
+In mammalian systems the problem is particularly acute, but combined pharmacological,
+behavioral, and genetic approaches are yielding promising if as yet incomplete results
+(Saucier and Cain, 1995; Cain, 1997; Davis, Butcher, and Morris, 1992; Tonegawa, 1995;
+McHugh et al., 1996; Rogan, Staubli, LeDoux, 1997). Even in "simple" invertebrate
+systems, such as the sea slug Aplysia (for instance, Hawkins, Kandel, and Siegelbaum,
+1993), it has been difficult to trace behavioral changes to their underlying physiological and
+molecular mechanisms. Thus, the notion that synaptic plasticity is the primary substrate of
+308
+13
+
+
+===== Page 2 =====
+Synaptic Plasticity 
+• 309
+long-term learning and memory must at present be viewed as our most plausible hypothesis
+(Milner, Squire, and Kandel, 1998). The role of nonsynaptic plasticity in behavior has been
+much less investigated (but see Sec. 13.6).
+What do we mean by synaptic strength! Recall from Chap. 4 the quantal model of
+synaptic transmission. There, the coupling strength between two neurons was described in
+terms of three variables: the number of release sites, n, the probability of release of a vesicle
+following a presynaptic action potential p, and some measure of the postsynaptic response to
+a single vesicle q (Sec. 4.2.2). Depending on the circumstances, q can be a current, a voltage,
+or a conductance change—or even some indirect measure, such as the change in the fluores-
+cence of some calcium-sensitive dye. In this chapter, we will refer to p and n as presynaptic
+variables, and to q as postsynaptic, recognizing that in some cases they may have other
+interpretations. Taken together, these three measures define the average synaptic efficiency.
+Under many experimental conditions, synaptic efficacy is not stationary but changes with
+activity. Figure 13.1 illustrates how the response in a hippocampal pyramidal neuron in vitro
+depends on the history of synaptic usage. Here the stimulus was a spike train recorded in vivo
+with an extracellular electrode from the hippocampus of an awake behaving rat, and "played
+back" in vitro. The synaptic responses vary twofold or more, in a reliable and reproducible
+manner. The observed variability results from the interaction of a number of separate forms
+of rapid use-dependent changes in synaptic efficacy. Similar forms of plasticity have been
+observed at synapses throughout the peripheral and central nervous systems of essentially
+all organisms studied, from crustaceans to mammals.
+The responses shown in Fig. 13.1 represent the complex interactions of many use-
+dependent forms of synaptic plasticity, some of which are listed in Table 13.1. Some involve
+an increase in synaptic efficacy, while others involve a decrease. They differ most strikingly
+in duration: some (e.g., facilitation) decay on the order of about 10-100 msec, while others
+(e.g., long-term potentiation, or LTP) persist for hours, days, or longer. The spectrum of
+time constants is in fact so broad that it covers essentially every time scale, from the fastest
+(that of synaptic transmission itself) to the slowest (developmental).
+These forms of plasticity differ not only in time scale, but also in the conditions
+required for their induction.1 Some—particularly the shorter lasting forms—depend only
+on the history of presynaptic stimulation, independent of the postsynaptic response. Thus
+facilitation, augmentation, and posttetanic potentiation (FTP) occur after rapid presynaptic
+stimulation, with more vigorous stimulation leading to more persistent potentiation. Other
+forms of plasticity depend on some conjunction of pre- and postsynaptic activity. The most
+famous example is LTP (see Sec. 13.3.1), which obeys Hebb's rule in that its induction
+requires simultaneous pre- and postsynaptic activation.
+Changes in efficacy can be understood in terms of the quantal model of synaptic
+transmission. As we shall see, shorter lasting forms of plasticity—those that depend
+exclusively on the history of presynaptic activity—typically involve a change in one of
+the presynaptic parameters, the probability p of release. The mechanisms underlying long-
+lasting forms of plasticity such as LTP remain controversial, but changes in p may also be
+involved.
+In this chapter we limit our discussion to a select subset of the vast literature on synaptic
+plasticity, focusing particularly on the mammalian central nervous system. We begin with a
+brief review of quantal synaptic transmission. Next we discuss potentiation and depression,
+starting with the most rapid forms (PPF and PPD) and continuing to the longer lasting forms
+1. Induction refers to the conditions that trigger a change in synaptic efficacy, while expression refers to the manifestation
+of the change within the synaptic machinery.
+
+
+===== Page 3 =====
+310 . 
+SYNAPTIC PLASTICITY
+Fig. 13.1 SYNAPTIC RESPONSE DEPENDS ON THE HISTORY OF PRIOR USAGE Excitatory postsy-
+naptic currents (EPSCs) recorded from a CA1 pyramidal neuron in a hippocampal slice in response
+to stimulation of the Schaffer collateral input. The stimulus is a spike train recorded in vivo from the
+hippocampus of an awake behaving rat, and "played-back" at a reduced speed in vitro. The presynaptic
+spikes have an average interspike interval of 1950 msec, which varies from a low at 35 msec to a
+maximum at 35 sec. The normalized strength of the EPSC varies in a deterministic manner depending
+on the prior usage of the synapse. For a constant synaptic weight, the normalized amplitudes should
+all fall on the dashed line. (A) EPSC as a function of time. The mean and the standard deviation
+(4 repetitions) are shown. Note that the response amplitude varies rapidly by more than twofold.
+(B) Excerpt at a high temporal resolution. Unpublished data from L. E. Dobrunz and C. F. Stevens,
+printed with permission.
+(LTP and LTD). Subsequently, we treat the computational implications of these various
+forms of synaptic plasticity. Finally, we close with a brief digression about nonsynaptic
+plasticity. We will not discuss developmental plasticity, or plasticity in subcortical areas
+or in nonmammalian preparations. For more information on these topics, or more in depth
+reviews of topics considered in this chapter, the following reviews provide good starting
+points (Madison, Malenka, and Nicoll, 1991; Ito, 1991; Hawkins, Kandel, and Siegelbaum,
+1993; Zola-Morgan and Squire, 1993; Bliss and Collingridge, 1993; Miller, 1994; Schuman
+and Madison, 1994a; Malenka, 1994; Bear and Malenka, 1994; Linden and Connor, 1995;
+Carew, 1996).
+13.1 Quantal Release
+Recall the simple form of the quantal hypothesis described in Sec. 4.2.2. The time-averaged
+response size R is given by
+
+
+===== Page 4 =====
+13.1 Quantal Release 
+• 
+311
+{
+  "table_name": "TABLE 13.1",
+  "description": "Different Forms of Synaptic Plasticity",
+  "columns": ["Phenomenon", "Duration", "Locus of Induction"],
+  "rows": [
+    {"Phenomenon": "Paired-pulse facilitation (PPF)", "Duration": "100 msec", "Locus of Induction": "Pre"},
+    {"Phenomenon": "Augmentation", "Duration": "10 sec", "Locus of Induction": "Pre"},
+    {"Phenomenon": "Posttetanic potentiation (PTP)", "Duration": "1 min", "Locus of Induction": "Pre"},
+    {"Phenomenon": "Short-term potentiation (STP)", "Duration": "15 min", "Locus of Induction": "Post"},
+    {"Phenomenon": "Long-term potentiation (LTP)", "Duration": "> 30 min", "Locus of Induction": "Pre and Post"},
+    {"Phenomenon": "Paired-pulse depression (PPD)", "Duration": "100 msec", "Locus of Induction": "Pre"},
+    {"Phenomenon": "Depletion", "Duration": "10 sec", "Locus of Induction": "Pre"},
+    {"Phenomenon": "Long-term depression (LTD)", "Duration": "> 30 min", "Locus of Induction": "Pre and Post"}
+  ],
+  "notes": "Synaptic plasticity occurs across many time scales. This table lists some of the better studied forms of plasticity together with a very approximate estimate of their associated decay constants, and whether the conditions required for induction depend on pre- or postsynaptic activity, or both. This distinction is crucial from a computational point of view, since Hebbian learning rules require a postsynaptic locus for the induction of plasticity. Note that for LTP and LTD, we are referring specifically to the form found at the Schaffer collateral input to neurons in the CA1 region of the rodent hippocampus; other forms have different requirements."
+}
+
+This model, with modifications, has been applied with remarkable success to chemical
+synapses throughout the nervous system.
+The number n of release sites, and their anatomical correlate, are different at different
+synapses. At one extreme, an axon can make a single anatomical synapse with one
+independent site of vesicular release onto the postsynaptic target (corresponding ton = 1;
+Fig. 13.2A). Single synapses are common in the hippocampus: an axon from a CAS
+hippocampus pyramidal cell usually only forms a single synapse with a CA1 neuron
+(Sorra and Harris, 1993). Frequently, the same axon makes several, independent anatomical
+synapses with the dendrites of the same cell (Markram, Helm, and Sakmann, 1995; see the
+n = 3 case in Fig. 13.2B). From the point of view of network connectivity, all three
+synapses correspond to a single functional connection, since stimulation of the presynaptic
+axon excites all three synaptic terminals equally. Some pathways implement a fail-safe
+strategy by having a very large number of release sites n. Well-known examples of
+such "supercharged" (and presumably highly reliable) connections include retinal axons
+synapsing onto geniculate relay cells (Sherman and Koch, 1998) and the climbing fiber to
+Purkinje cell synapse (Llinas and Walton, 1998). In the latter case, a single climbing fiber
+innervates the soma and main dendrite of a cerebellar Purkinje cell by making up to 200
+synaptic contacts. Finally, in a number of pathways a single axon terminal forms multiple
+independent release sites within a single synaptic contact (Fig. 13.2C). The best example
+of such a synapse is the neuromuscular junction, where the terminal axon field of a motor
+axon forms on the order of 1000 release sites with the muscle (Katz, 1966).
+As emphasized repeatedly in this book, the number of functional contacts made by
+cortical and hippocampal neurons can be quite small (from one to about a dozen). What
+is the significance of small «? Recall that release from each site is probabilistic. At a
+synapse with n sites of release probability p, the probability that the synapse fails to release
+transmitters following a stimulus is
+
+
+===== Page 5 =====
+312 
+• 
+SYNAPTIC PLASTICITY
+Fig. 13.2 QUANTAL MODEL OF SYNAPTIC RELEASE 
+Basic unit of synaptic physiology, the
+synoptic release site. In response to a presynaptic spike, the vesicle fuses with the presynaptic
+membrane and releases its content, the neurotransmitter molecules, into the synaptic cleft. At each
+such release site, only a single vesicle is released (or fails to release) in response to a presynaptic spike.
+Synaptic transmission is both quantal and probabilistic, since the probability of release p is typically
+low (30% or less). If a vesicle is released, it induces a mean postsynaptic response q. (A) A common
+form of excitatory synaptic connections between a pair of central neurons: one anatomical synapse
+makes a single release site (n = 1) on its postsynaptic target. (B) Frequently, a single axon makes a
+small number of independent anatomical synapses on the dendrite of another cell (here n = 3). (C) At
+some synapses, such as the neuromuscular junction, thousands of release zones act independent of
+each other. Other examples include the calyx synapse between the cochlear nerve and one of the
+brainstem auditory nuclei. Reprinted in modified form by permission from Korn and Faber (1991).
+(13-2)
+That is, the failure probability falls exponentially as the number of release sites increases.
+Moreover, fluctuations in the response size R are inversely proportional to */n.
+For synapses such as the neuromuscular junction, with thousands of release sites, the
+probability of failure under physiological conditions is very low, and fluctuations are small.
+At central synapses, by contrast, failure is a very real possibility. For a synapse with a single
+release site and p = 0.3, failures occur 70% of the time. Hence transmission becomes
+unreliable (as illustrated in Fig. 4.3).
+13.2 Short-Term Synaptic Enhancement
+As suggested by Table 13.1, any distinction between short- and long-term forms of en-
+hancement is somewhat arbitrary. It is nevertheless useful to distinguish forms that operate
+on a time scale from about a millisecond to about a minute, that is, facilitation and FTP,
+from longer lasting forms like LTP.
+13.2.1 Facilitation Is an Increase in Release Probability
+Synaptic facilitation was first described at the frog neuromuscular junction (Feng, 1941;
+Katz, 1966; Mallart and Martin, 1968;Magleby, 1987), but has subsequently been observed
+at nearly all synapses studied. Figure 13.3 illustrates one form of short-term facilitation in
+the mammalian central nervous system known as paired-pulse facilitation (PPF), since it
+is observed after a single pair of stimuli is delivered to a synapse. In the experiment shown
+here, an extracellular stimulus activated a relatively large (but undetermined) number of
+fibers, and the response was recorded in a single region CA1 pyramidal neuron. Because a
+
+
+===== Page 6 =====
+13.2 Short-Term Synaptic Enhancement
+313
+Fig. 13.3 PAIRED-PULSE FACILITATION Paired-pulse facilitation (PPF) at the CA3 to CA1 synapse
+(made by the Schaffer collaterals; see Fig 13.4) in the hippocampus slice. (A) Demonstration of PPF
+at the population level. Excitatory synaptic current recorded in a hippocampal region CA1 pyramidal
+cell following the response to a pair of extracellular stimuli (40 msec apart) delivered to the Schaffer
+collateral inputs. With this technique, many synapses are simultaneously activated. Note that the
+second response is larger than the first. This increase in synaptic response decays away with a time
+constant of about 100 msec. (B) PPF is demonstrated at an individual synapse via 21 consecutive
+trials under conditions of minimal stimulation. In each trial, two stimuli were delivered, separated by
+40 msec. Five out of 21 trials lead to a signal for the first stimulus, but eight out of 21 on the second.
+Even though the variability in the amplitude of the postsynaptic response is high, the mean amplitudes
+of the responses in the first and second pulses are the same. The notches around 10 and 50 msec are
+stimulus artifacts. Unpublished data from L. E. Dobrunz, printed with permission.
+typical CAS Schaffer collateral makes only about one or two synapses onto its CA1 target
+cell, this electrical stimulus will activate a comparable number of release sites. (For an
+overview of the hippocampal circuitry, see Brown and Zador, 1990 and also Fig. 13.4.)
+Consider a hypothetical example in which there are n release sites, each of which has the
+same initial probability of release PQ. q corresponds to the average excitatory postsynaptic
+current (EPSC) under voltage clamp. Under these conditions the mean response size to the
+extracellular stimulus is
+
+
+===== Page 7 =====
+314 
+• 
+SYNAPTIC PLASTICITY
+Fig. 13.4 HIPPOCAMPAL CIRCUITRY 
+Neuronal elements of the hippocampal formation in rodents
+as drawn by Ramon y Cajal at the turn of the century (when it was called Ammon's horn). This
+cortical structure is implicated in the transfer from short- to long-term memory. Granule cells in the
+dentate gyrus send their output axons, so-called mossy fibers, to pyramidal cells in the CA3 region.
+These pyramidal cells in turn project, with so-called Schaffer collaterals, onto pyramidal cells in the
+CA1 region. The majority of LTP and LTD research has been carried out at either the mossy fiber to
+CA3 synapse or the Schaffer collateral to CA1 synapse. Reprinted by permission from Brown and
+Zador(1990).
+(13.3)
+(Fig. 13.3A). If a brief high-frequency (tetanic) stimulus is now delivered, the probability
+of release jumps to p\, and the mean response to the same test stimulus jumps to np\q.
+Subsequently, the probability of release—and therefore the response size—slowly decays
+to baseline with a characteristic time constant on the order of hundreds of milliseconds,
+much slower than the onset time constant.
+That the higher response magnitude is due to an increase in the release p and not to an
+increase in n or q is illustrated clearly by Fig. 13.3B. Here a minimal stimulation protocol
+
+
+===== Page 8 =====
+13.2 Short-Term Synaptic Enhancement 
+• 
+315
+(Raastad, Storm, and Andersen, 1992; Allen and Stevens, 1994; Dobrunz and Stevens,
+1997) is employed, so that only a single release site is activated. As seen in Fig. 13.3B,
+the first response at low stimulus rates frequently does not lead to a postsynaptic response;
+it fails to cause the release of even a single vesicle, and is therefore termed a failure. The
+failure rate / depends on p; if we assume one release site per synapse, / = 1 — p. In
+this particular experiment 15 out of 21 trials produced no response (/ = 0.71) on the first
+stimulus, so on the assumption of a single release site, p = 1 — 0.71 = 0.29, that is, only
+three out of ten presynaptic spikes will cause the release of a synaptic vesicle. Note that
+even if release does occur, the amplitude of the average postsynaptic response R is itself
+quite variable (see Fig. 4.4), because of the underlying variability in q (Bekkers, Richerson,
+and Stevens, 1990).
+If a pair of stimuli are now delivered in rapid succession (here 40 msec), the probability
+of release on the second trial p\ is higher than that on the first (in Fig. 13.3B, p increased
+from 0.29 to 0.38). This increase when a second pulse follows soon after a first, is the
+single-synapse correlate of the paired-pulse facilitation shown at the population level in
+Fig. 13.3A. The release probability decays back to the initial probability with the same time
+constant as does the population amplitude.
+The onset of facilitation is nearly as rapid as can possibly be resolved: it appears after a
+single stimulus (but see Dobrunz, Huang, and Stevens, 1997). The decay of PPF is slower,
+on the order of hundreds of milliseconds, and can be described by a simple exponential,
+(13.4)
+where PQ and pf are the probabilities of release before and after facilitation, respectively,
+and Tf is the characteristic decay time.
+The implications of facilitation for neuronal computation remain unclear. One might
+speculate that paired-pulse facilitation acts as a kind of "burst-filter": the probability of at
+least one successful release will be much higher during a burst of action potentials, that is,
+a handful of spikes within 10-30 msec, than if the same number of action potentials were
+uniformly distributed. In other words, a burst of spikes can be interpreted as a high-fidelity
+signal (see also Sec. 16.2).
+13.2.2 Augmentation and Posttetanic Potentiation
+While some facilitation is induced after a single stimulus, the degree of facilitation increases
+with the number of stimuli. As the number and frequency of stimuli increase, another form
+of potentiation, augmentation, is induced. Further stimulation brings into play a third form,
+termed posttetanic potentiation (FTP). These different forms of short-term potentiation
+have been best characterized at the neuromuscular junction (Magleby, 1987; see also Hirst,
+Redman, and Wong, 1981; Langdon, Johnson, and Barrionuevo, 1995). They differ from
+one another most notably by their characteristic time constant. For instance, the time course
+of augmentation can be expressed in the same form as the dynamics of facilitation above,
+(13.5)
+where pa is the probability of release after augmentation and ra the characteristic decay
+time (on the order of seconds). The formulation for FTP is identical, except that the time
+constant is on the order of a minute or so.
+Although facilitation, augmentation, and PTP all operate by increasing the probability
+of release, they do so by distinct mechanisms distinguishable not only by their kinetics,
+
+
+===== Page 9 =====
+316 
+• 
+SYNAPTIC PLASTICITY
+but also by their pharmacology (see, e.g., Zucker, 1996). Nevertheless, these processes
+cannot be completely independent, if only because p cannot exceed unity. How these
+processes interact remains unclear even at the neuromuscular junction where they have
+been best studied.
+The equations describing these forms of potentiation can be interpreted in terms of the
+kinetics of some factor governing release probability. It is tempting to identify that factor
+as intracellular calcium concentration in the presynaptic terminal. As we shall see in the
+next section, the situation is rather more complex.
+13.2.3 Synaptic Release and Presynaptic Calcium
+As briefly alluded to in Chap. 4, synaptic release is caused by a rapid increase in the
+concentration of intracellular calcium that follows the invasion of the presynaptic terminal
+by an action potential. This increase in calcium concentration triggers fusion of a vesicle
+inside the presynaptic terminal with the presynaptic membrane and the subsequent release
+of neurotransmitters into the cleft (Fig. 4.2). Sometimes release of a single quantum occurs
+spontaneously, that is, independently of any presynaptic stimulus. The rate of spontaneous
+release at any one particular synapse is very low, less than one per minute. The calcium that
+rushes into the presynaptic terminal following the presynaptic spike raises the probability of
+release dramatically—by perhaps five orders of magnitude—over the very low spontaneous
+rate, but only for a very brief period (several hundred microseconds).
+The molecular machinery coupling calcium in the presynaptic terminal with vesicle
+fusion and release is only beginning to be understood (see Zucker, 1996; Bauerfeind, Galli,
+and De Camilli, 1996; Rothman and Wieland, 1996; Sudhof, 1995; Matthews, 1996). The
+first indications that calcium was involved in synaptic transmission came from experiments
+in which the concentration of extracellular calcium was manipulated. Evoked release can be
+abolished by eliminating extracellular calcium, and reduced by lowering it. A component
+of spontaneous release persists even in the absence of extracellular calcium. More recently,
+technical advances have made it possible to measure presynaptic calcium directly (Delaney
+and Tank, 1994; Regehr, Delaney, and Tank, 1994; Zucker, 1996; Sabatini and Regehr,
+1996; Wu and Saggau, 1995; Helmchen, Borst, and Sakmann, 1997).
+Dodge and Rahamimoff (1967) fit the dependence of the amplitude of the observed
+postsynaptic response on the extracellular calcium concentration [Ca2+]0 and magnesium
+concentration [Mg2+]0 (which antagonizes calcium) with the following equation:
+(13.6)
+where Kc and Km are constants, and z is a parameter fit to the data. The best fits were
+obtained for z between 3 and 4. This equation can be derived by assuming that in order
+for release to occur, calcium must bind to z independent sites, and that Kc and Km are the
+equilibrium constants for calcium and magnesium.
+The Dodge-Ranamimoff relation relates release probability to the concentration of
+extracellular calcium. The dependence of release probability on the concentration of in-
+ternal calcium is a thornier issue. For example, Eq. 13.6 was derived under equilibrium
+assumptions; but the rapidity with which an action potential triggers release (on the order
+of 0.15 msec; Llinas, Steinberg, and Walton, 1981b; Sabatini and Regehr, 1996) indicates
+that the source of calcium influx must be just tens of nanometers from the synaptic vesicles.
+Calcium concentration cannot equilibrate this quickly. This has led to the notion of Ca2+
+
+
+===== Page 10 =====
+13.3 Long-Term Synaptic Enhancement 
+• 
+317
+micmdomains (Llinas, Steinberg, and Walton, 1981b; Llinas, Sugimori, and Silver, 1995)—
+neighborhoods of high calcium concentration near the presynaptic calcium channels. Thus,
+it appears that calcium flux, rather than equilibrium bulk calcium in the presynaptic terminal,
+triggers fast vesicular fusion.
+The dependence of the release probability on presynaptic calcium concentration suggests
+that residual calcium might also underlie various components of short-term plasticity (Katz
+and Miledi, 1968). According to this hypothesis, the enhanced release probability following
+a train of action potentials results from an increased level of calcium in the presynaptic
+terminal which, by itself, is insufficient to sustain release, but which adds to calcium from
+subsequent releases and thereby results in a higher release probability. In the original
+form of this hypothesis, the residual calcium simply added to the flux from an action
+potential. More recent evidence indicates that the increase in resting calcium concentration
+associated with short-term facilitation is too slight (1 fiM; Delaney, Zucker, and Tank,
+1989; Delaney and Tank, 1994), compared with the hundreds of micromolars during the
+action potential (Lando and Zucker, 1994) for any additive effect to be relevant. The target
+of the residual calcium therefore appears to be low affinity targets that modulate release
+probability.
+13.3 Long-Term Synaptic Enhancement
+As noted above, the distinction between short and long-term enhancement is somewhat
+arbitrary. In what follows we will consider those forms that last up to a few minutes
+(facilitation, augmentation, and posttetanic potentiation) "short," while those that last longer
+"long." There is, however, a more fundamental basis upon which to distinguish them: all
+the short lasting forms of enhancement appear to depend only on the state of the presynaptic
+terminal for induction, while the longer lasting forms often require some involvement from
+the postsynaptic side (but see, e.g., Williams and Johnston, 1989; Nicoll and Malenka, 1995).
+13.3.1 Long-Term Potentiation
+Long-term potentiation is a rapid and sustained increase in synaptic efficacy following a
+brief but potent stimulus. First described in the mammalian hippocampus at the perforant
+path input to the dentate gyrus (Bliss and Lomo, 1973), it has since been observed at
+diverse synaptic pathways, in the hippocampus, the neocortex, and elsewhere. LTP can last
+for hours, days, weeks, or longer.
+LTP research is very popular: between 1990 and 1997, over 2000 papers on LTP were
+published. The excitement stems in large part from the hope that LTP is a model for learning
+and memory, offering the most direct link from the molecular to the computational and
+behavioral levels of analysis. The field of LTP is also very controversial, so that there is
+only a surprisingly small number of completely accepted findings. Good reviews can be
+found in the literature (Madison, Malenka, and Nicoll, 1991; Tsumoto, 1992; Johnston et
+al., 1992; Bliss and Collingridge, 1993; Malenka, 1995).
+Although LTP has been found in many neuronal structures, it has been best studied in
+the hippocampus, at the synapses made from region CAS pyramidal cells via the Schaffer
+collateral pathways onto region CA1 pyramidal cells (Fig. 13.4), so we will focus on this
+synapse. Care must be exercised when comparing LTP obtained in different systems, since
+different forms of LTP coexist even in the hippocampus, with some independent of NMD A
+
+
+===== Page 11 =====
+318 
+• 
+SYNAPTIC PLASTICITY
+receptor activation (Harris and Cotman, 1986; Johnston et al., 1992; Nicoll and Malenka,
+1995).
+As emphasized above, it is important to distinguish the rules and mechanisms underlying
+the induction of LTP (or any other form of synaptic plasticity) from the those governing its
+expression. Three basic facts about the induction of LTP at the CAS to CA1 synapse are
+clear and essentially undisputed.
+1. Under physiological conditions, induction typically requires (nearly) simultaneous
+presynaptic neurotransmitter release and postsynaptic depolarization. Because of this
+interesting fact, the mechanism of LTP has been interpreted as Hebbian (Sec. 13.5.1,
+Kelso, Ganong, and Brown, 1986; Malinow and Miller, 1986; Wigstrom et al., 1986).
+Figure 13.5 illustrates the dependence of LTP on postsynaptic depolarization. Stim-
+ulation at a low constant rate produces a baseline EPSP whose magnitude does not
+change following a postsynaptic depolarization. A rapid presynaptic stimulus by itself
+during simultaneous postsynaptic hyperpolarization also fails to induce LTP, although
+Fig. 13.5 LONG-TERM POTENTIATION The induction of LTP requires simultaneous pre- and
+postsynaptic activities, as demonstrated in a seminal study (Kelso, Ganong, and Brown, 1986) at the
+Schaffer collateral synapse onto CA1 pyramidal cells in a hippocampal slice (Fig. 13.4). (A) Averaged
+synaptic responses recorded under current clamp (upper traces) or voltage clamp (middle traces show
+membrane potential control and lower traces show the inward EPSC). The responses in the control
+period are plotted on the left, while the enhanced responses, 20 min after vigorous synaptic input is
+paired with a large depolarizing current to the soma of the cell, forcing it to spike, are indicated on
+the right. (B) Peak value of this EPSP as a function of time for different experimental manipulations.
+Neither postsynaptic depolarization (achieved by injecting a large depolarizing current into the soma)
+by itself (first trace), nor presynaptic stimulation paired with clamping the soma to —80 mV for two
+different synaptic inputs (second and third traces) is sufficient to induce LTP, as seen by the constant
+response amplitudes. Only when presynaptic input is paired with the postsynaptic depolarization is
+a long-term enhancement of the synaptic weight observed. Reprinted by permission from Kelso,
+Ganong, and Brown (1986).
+
+
+===== Page 12 =====
+13.3 Long-Term Synaptic Enhancement 
+• 
+319
+it does lead to FTP. Only when vigorous synaptic input is paired with postsynaptic
+depolarization (here via an intracellular electrode) is LTP induced: the synaptic response
+to the same baseline stimulation doubles in size and remains elevated for the duration of
+the experiment, over an hour. Similar in vivo experiments suggest that the change can
+persist for weeks or longer. The depolarization may arise from the stimulus itself (if it
+activates a sufficiently large number of fibers), from activation of some other synaptic
+input, or from somatic depolarization via an intracellular electrode. The depolarization
+is necessary to relieve the Mg2+ block of NMD A receptors (see below).
+2. The second widely accepted fact about the induction of LTP at the CA3 to CA1
+synapse is that it requires activation of NMDA receptors (Collingridge, Kehl, and
+McLennan, 1983). NMDA receptors are unique among synaptic receptors in that they
+are directly gated by both voltage and neurotransmitter, so that they pass current only
+when the membrane is depolarized sufficiently to relieve a block by magnesium ions.
+The induction of LTP is inhibited by agents that block the NMDA receptor, such as APS.
+NMDA receptor activation is not required for either normal synaptic transmission in
+the hippocampus or the maintenance of LTP: once LTP has been induced, blockage of
+NMDA-mediated synaptic transmission by APS does not inhibit the expression LTP. This
+is also true in neocortex: activation of NMDA receptors is required for LTP induction
+(Artola and Singer, 1987; Malenka, 1995).
+3. The third fact about LTP induction is its dependency on a localized increase in the
+postsynaptic concentration of calcium (Lynch et al., 1983; Malenka et al., 1988). When
+calcium buffers that bind any excess calcium are injected into the postsynaptic cell, the
+induction of LTP is blocked (Barrionuevo and Brown, 1983).
+A simple model for the induction of LTP that accounts for these observations is illustrated
+in Fig. 12.12. In this model, excitatory NMDA and non-NMDA receptors are colocalized
+(Bekker and Stevens, 1989) at single synapses made by the Schaffer fibers onto spines
+of CA1 pyramidal cells. Release of neurotransmitters always activate the current through
+the AMPA receptor-gated channel, but activates the current through the NMDA receptor-
+gated channel only when there is sufficient postsynaptic depolarization to remove the
+Mg2+ blocking the channel. (Release of a single quantum of neurotransmitter is not
+believed to result in sufficient depolarization at the spine head to relieve the Mg2+ block.)
+Influx of calcium through open NMDA channels causes a large, localized and transient
+increase in the concentration of postsynaptic calcium (see Sec. 12.6.2; Holmes and Levy,
+1990; Zador, Koch, and Brown, 1990; Guthrie, Segal, and Kater, 1991; Yuste and Denk,
+1995; Svoboda, Tank, and Denk, 1996). This accounts for the "input specificity" of LTP,
+that is, the fact that LTP is expressed only at those synapses where the conditions for
+induction are satisfied, since only here is [Ca2+],- large enough to trigger the biochemical
+cascade that finally leads to the establishment of LTP. More recent research, alluded
+to in Sec. 20.3, shows that under some conditions synapse specificity may break down
+(Bonhoeffer, Staiger, and Aertsen, 1989; Schuman, 1997; Engert and Bonhoeffer, 1997).
+Thus the induction of LTP occurs at the postsynaptic site and requires the conjunction of
+pre- and postsynaptic activity.
+The site of expression of LTP remains controversial. Many hypotheses have been
+proposed (Lynch and Baudry, 1987; Kauer, Malenka, and Nicoll, 1988; Muller, Joly, and
+Lynch, 1988; Edwards, 1991,1995; Stevens and Wang, 1994; Liao, Hessler, and Malinow,
+1995; Kullmann and Siegelbaum, 1995), which can be summarized as involving a change in
+
+
+===== Page 13 =====
+320 . 
+SYNAPTIC PLASTICITY
+either the presynaptic element, the postsynaptic element, or both. Conjectures involving a
+presynaptic locus include an increase in (1) the number of release sites, (2) the probability of
+release, (3) the amount of neurotransmitter loaded into each vesicle; hypotheses involving
+the postsynaptic terminal include (4) an increase in receptor affinity or density, and the
+(5) recruitment of previously "silent" synapses. As discussed in the previous chapter
+(Sec. 12.3.2), the earlier hypothesis that changes in the geometry of the postsynaptic spine
+affect its synaptic weight does not appear to be correct, at least in the case of passive spines
+on hippocampal pyramidal cells.
+If the induction of LTP occurs postsynaptically but its expression presynaptically, some-
+thing needs to signal this information back across the synaptic terminal. Several possibilities
+exist. The one that has attracted most attention is retrograde messenger molecules, that is,
+substances whose production is triggered postsynaptically when LTP is induced and that
+diffuse backward across the synapse. Proposed retrograde messengers include arachidonic
+acid, and diffusible second messengers nitric oxide and carbon monoxide (Williams et al.,
+1989; Gaily et al., 1990; Schuman and Madison, 1994a; Schuman, 1995; see also Sec. 20.3).
+73.3.2 Short-Term Potentiation
+For completeness we also mention short-term potentiation (STP), sometimes referred to as
+decremental LTP. Much less is known about short term potentiation than about its long-
+term counterpart (Davies et al., 1989; Colino, Huang, and Malenka, 1992; Kullmann et
+al., 1992). First detected in experiments investigating different protocols for inducing LTP,
+it was treated largely as an irritant, a potential source of artifact in experiments on LTP.
+It is defined operationally in terms of its time constant: it is the potentiation that persists
+longer than the minute or two of FTP, but not as long as LTP; typically it decays with a
+time constant of about 15 min. Both its induction and its expression appear to be largely
+postsynaptic.
+13.4 Synaptic Depression
+We treat short- and long-term synaptic depression together here, not because they are less
+interesting or important than enhancement, but because they are not as well understood.
+The most rapid forms of synaptic depression involve a decrease in the probability of
+transmitter release. Immediately following a release of a vesicle (but not a failure) at a
+single site, there is often a 5-10 msec effective "dead time" during which release cannot
+occur (Stevens and Wang, 1995; Dobrunz, Huang, and Stevens, 1997). Unlike synaptic
+enhancement, the amount of depression depends not on the number of presynaptic action
+potentials, but rather on the number of vesicles released. A longer lasting form of depression
+occurs (on the order of seconds) following depletion of the available pool of vesicles
+(Stevens and Tsujimoto, 1995; Dobrunz and Stevens, 1997).
+While it has long been recognized that what goes up must come down, for years the
+counterpart to long-term potentiation, termed long-term depression (LTD), could not be
+reliably induced in the CA1 region of the hippocampus (although it had been described
+in the cerebellum and the dentate gyrus; see Levy and Steward, 1983; Ito, 1991). With
+the advent of a reliable protocol for the induction of long-term depression (Dudek and
+Bear, 1992) in both hippocampus and neocortex, LTD can be easily obtained, reducing the
+synaptic weight to about half of its pre-LTD value (Fig. 13.6). LTD is now receiving the
+
+
+===== Page 14 =====
+13.5 Synaptic Algorithms
+321
+Fig. 13.6 LONG-TERM DE-
+PRESSION Induction of long-
+term depression in a pair of
+cultured hippocampal neurons.
+LTD is induced by a moder-
+ate amount of synaptic stimu-
+lation via a stimulus electrode
+while holding the postsynaptic
+membrane at —50 mV (dou-
+ble arrowhead in B). (A) Sam-
+ple trace of an EPSC before
+and after the induction of LTD.
+(B) Time course of synaptic
+strength (expressed as the ratio
+of peak EPSP after induction
+to peak EPSP before induction)
+as a function of time. Averaged
+over nine such pairs, LTD re-
+duced the normalized synap-
+tic strength to 0.44 ± 0.06.
+Reprinted by permission from
+Goda and Stevens (1996).
+same scrutiny as LTP (for surveys, see Tsumoto, 1992; Dudek and Bear, 1992; Artola and
+Singer, 1993; Malenka, 1994; Linden and Connor, 1995).
+Just as with long-term potentiation, the requisite conditions for induction must be met
+at the postsynaptic terminal; in fact, the conditions required for the induction of LTD are
+remarkably similar to those for LTP. Some forms of LTD require NMDA receptor activation;
+the essential requirement always appears to be sufficient postsynaptic depolarization in order
+to elevate [Ca2+],- in the postsynaptic terminal above resting levels, but below that required
+for the induction of LTP (Lisman, 1989; Artola and Singer, 1993; Malenka and Nicoll,
+1993; Linden and Connor, 1995; Cummings et al., 1996; but see Neveu and Zucker, 1996).
+In other words, there exists a critical threshold of free intracellular calcium concentration
+that governs the increase or decrease of the synaptic weight in a highly specific manner.
+The mechanism underlying LTD in the hippocampus is a decrease in the probability of
+synaptic release (Stevens and Wang, 1994,1995; Bolshakov and Siegelbaum, 1994,1995).
+If, as suggested above, the mechanism underlying LTP turns out to be an increase in p,
+LTP and LTD would display an elegant symmetry, each exerting differential control on the
+probability knob.
+13.5 Synaptic Algorithms
+Conjectures going back to the turn of the century, Tanzi (1893; reviewed in Brown, Kairiss,
+
+
+===== Page 15 =====
+322 • 
+SYNAPTIC PLASTICITY
+and Keenan, 1991b) implicate synapses as the locus for physiochemical changes underlying
+learning. Wood-Jones and Porteus (1928) even speculate about the mechanism underlying
+these changes. But early work remained silent about the conditions under which the changes
+in efficacy would occur.
+13.5.1 Hebbian Learning
+The modern approach to synaptic algorithms can be traced to Hebb's very influential
+monograph (Hebb, 1949), in which he prescribed
+When an axon of cell A is near enough to excite cell B or repeatedly or consistently takes
+part in firing it, some growth process or metabolic change takes place in one or both cells
+such that A's efficiency, as one of the cells firing B, is increased.
+Hebb was therein the first to propose explicitly the conditions under which the change in
+efficacy would occur. It is because his proposal provides an activity-based rule for increasing
+efficacy that it is called an "algorithm." In mathematical terms, it is usually expressed as
+(13.7)
+where Au>,-y- is the change in the strength of the synaptic coupling u>,-y between the
+presynaptic neuron / and the postsynaptic cell j; Vj and Vj represent the activities of these
+neurons. Such a pure Hebbian rule has been used extensively in associative, or content-
+addressable, memory networks (Steinbuch, 1961; Hopfield, 1982, 1984).
+In the simplest mapping of these symbols onto biophysics, wtj = npq (Eq. 13.1), V{
+corresponds to the presynaptic spiking frequency, and Vj to the postsynaptic membrane
+potential at the spine or in the dendrite just below. Yet it is far from clear what the exact
+relationship between the algorithmic variables and their biophysical counterpart is. For
+instance, does Vj really correspond to the instantaneous dendritic membrane potential or is
+it more akin to some low-pass filtered version of Vml
+Hebb's original proposal is incomplete, since it offers no prescription for determining
+under what conditions synaptic efficacy decreases (the weights can only increase) and
+because it is unclear what types of memories can and cannot be recovered using this rule.
+Subsequent theoretical work (e.g., Stent, 1973; Sejnowski, 1977a,b; Palm, 1982; Linsker,
+1988; for a survey, see Hertz, Krogh, and Palmer, 1991) elaborated on the conditions under
+which the synaptic weight should change.
+One popular modern variant of Hebb's original rule is known as the covariance rule
+(Sejnowski, 1977a), so named because it is formally identical to a statistical covariance. It
+can be written simply as
+(13.8)
+where (V () corresponds to the average activity of the presynaptic neuron over some suitable
+time interval (similarly for (Vj)). If the actual presynaptic activity is less than its recent
+average while the postsynaptic activity is elevated, or vice versa, the synaptic weight will
+decrease.
+Note that we did not specify over what duration the averages should be taken. If the
+average is short—on the order of seconds to minutes—this formulation can be used to
+describe LTP and LTD, while if it is longer it can be used to describe developmental effects
+(see e.g., Miller, 1994). The covariance rule says the coupling between neurons i and j
+should increase if their activities are correlated; but that otherwise it should decrease. This
+
+
+===== Page 16 =====
+13.5 Synaptic Algorithms 
+• 
+323
+rule has been used by Hopfield (1984) and many others as the basis for autoassociative
+memories.
+One appealing feature of formulating Hebb's rule according to Eq. 13.8 is that it can
+be expanded to yield terms that have plausible biophysical interpretations. Multiplying the
+right-hand side of Eq. 13.8, and assigning separate positive constants k\ • • • £4 to the terms,
+we have
+(13.9)
+The first term is the usual Hebbian one, corresponding to an increase following simultaneous
+pre- and postsynaptic activity. The second and third terms correspond to homo- and
+heterosynaptic LTD.2 The last term corresponds to a tonic increase. While this formulation is
+clearly an oversimplification, the correspondence to interpretable biophysical phenomena—
+coupled with its widespread use in the field of neural networks—makes it a very useful
+starting point.
+Recent evidence (in particular Engert and Bonhoeffer, 1997) suggests that synaptic
+specificity in LTP may break down at short distances. That is, excitatory synapses within
+50-70 [im of the potentiated synapse on the same neuron also have their synaptic weight
+increased—despite a lack of presynaptic activity. If this is also true in the intact animal,
+the above learning rules have to be modified to account for less specific synaptic storage
+schemes (as in Eq. 20.6).
+13.5.2 Temporally Asymmetric Hebbian Learning Rules
+Mapping V,- onto the presynaptic spiking frequency (an averaged quantity) as above implies
+that the exact temporal relationship between the arrival times of the presynaptic spike and
+the postsynaptic depolarization does not matter. Experimental evidence indicates that it
+does, with powerful functional consequences.
+Evidence from both hippocampal and neocortical pyramidal cells indicates that in order
+for the synaptic weight to increase, presynaptic activity has to precede the postsynaptic
+one (Levy and Steward, 1983; Gustafsson et al., 1987; Debanne, Gahwiler, and Thompson,
+1994). Particularly compelling evidence comes from a recent experiment by Markram et
+al., (1997) in which they systematically varied the relationship between the presynaptic spike
+arriving at the synapse and the timing of the postsynaptic action potential that propagates
+back into the dendritic tree to the postsynaptic site (for more details see Chap. 19). If
+the presynaptic spike precedes the postsynaptic one, as should occur if the presynaptic
+input participates in triggering a spike in the postsynaptic cell, long-term potentiation
+occurs, that is, the synaptic weight increases. If the order of temporal arrival times is
+reversed (e.g., from +10 to —10 msec), the synaptic weight decreases. This enables the
+system to assign credit to those synapses that were actually responsible for generating the
+postsynaptic spike.
+What this teaches us is that the "static" Hebb learning rule (e.g., in Eq. 13.8) needs to be
+replaced by a dynamic version that is asymmetric in time, that is, a positive delay between
+the arrival times of the presynaptic and postsynaptic spikes does not have the same effect
+on the synaptic weight changes as the reverse situation.
+The use of temporally asymmetric Hebbian learning rules can induce associations over
+time, and not just between simultaneous events. As a result, networks of neurons endowed
+2. In homosynaptic LTP, the activated input by itself depolarizes the postsynaptic site sufficiently to induce LTP, while in
+heterosynaptic LTP a second simultaneously active synaptic input needs to provide the requisite depolarization.
+
+
+===== Page 17 =====
+324 
+• 
+SYNAPTIC PLASTICITY
+with such synapses can learn sequences (Minai and Levy, 1993), enabling them to predict the
+future state of the postsynaptic neuron based on past experience (Abbott and Blum, 1996).
+Asymmetric Hebbian rules have been applied to a host of biological learning paradigms such
+as bee foraging and reinforcement learning in the basal ganglia (Montague and Sejnowski,
+1994; Montague et al., 1995; Montague, Dayan, and Sejnowski, 1996) and the learning of
+fine temporal discriminations at the single-neuron level (Gerstner et al., 1996).
+73.5.3 Sliding Threshold Rule
+A quite distinct theoretical framework for synaptic plasticity has its origin in a model for
+developmental plasticity in the visual cortex. It is known as the sliding threshold or the
+BCM theory after the initials of the authors who proposed this synaptic rule (Bienenstock,
+Cooper, and Munro, 1982; see also Bear, Cooper, and Ebner, 1987).
+As in a standard learning rule, the synaptic modification is Hebbian, that is, the weight
+change is proportional to the product of the pre- and postsynaptic activities. The exact form
+of Aw,-; is given by the product of the presynaptic activity VJ and a function <j> of the
+postsynaptic response Vy and a variable threshold Om,
+(13.10)
+Figure 13.7A illustrates (/) as a function of the postsynaptic activity V,-; its key feature is
+that 4> is zero at zero, becomes negative, and changes sign at a critical threshold 9m. Thus,
+BCM predicts that synaptic input activity that is too weak (that is, that lies below 9m) will
+cause LTD, while strong synaptic input leads to LTP. Some of the evidence discussed in
+Sec. 13.3.1 is in agreement with this. Dudek and Bear (1992) provided further support by
+varying the frequency of presynaptic stimulation (roughly proportional to the V,- term in
+Eq. 13.8) over two orders of magnitude and observing LTD at low frequencies, but LTP at
+higher ones (Fig. 13.7B).
+The threshold 9 is required to be a supralinear function of the time averaged postsynaptic
+activity (that is, it must grow more than a linear function; typically, 9m = (V?) is chosen).
+This has the important consequence that the value of the threshold must be the same at all
+synapses onto a particular neuron; yet the associated ivy's can still change at different rates
+depending on the level of presynaptic activity (Eq. 13.8).
+The sliding threshold results in a stable activity level for the cell. If the activity is
+too low, 9m decreases until the appropriate tify 's have increased to bring the postsynaptic
+activity up and vice versa. Thus, the threshold modification serves to stabilize the synaptic
+population, a crucial property of any developmental rule. To what extent the threshold
+separating LTD from LTP induction changes as a function of the activity of the cell is not
+known experimentally. A number of possible molecular mechanisms, based on the influx
+of calcium into the spine, exist that can instantiate such a threshold (see Bear, 1995, for a
+discussion).
+13.5.4 Short-Term Plasticity
+The computational implications of rapid forms of plasticity have not received nearly as
+much attention as those of long-term forms, perhaps because of the paucity of network
+models that make use of real dynamics. Nevertheless, the rapid forms exert large effects on
+the magnitude of the synaptic response (Dobrunz and Stevens, 1996; Fig. 13.1). Changes
+of this magnitude—as large or larger than those typically induced by LTP—suggest an
+important functional role for these rapid forms.
+
+
+===== Page 18 =====
+13.5 Synaptic Algorithms
+325
+Fig. 13.7 "SLIDING THRESHOLD" THEORY OF SYNAPTIC LEARNING 
+The Bienenstock, Cooper,
+and Munro (1982) learning rule, proposed within the context of developmental learning, is a Hebbian
+rule with a twist. The synaptic weight change is proportional to the product of the presynaptic activity
+and a function <t> (Eq. 13.10). This function depends on the postsynaptic activity in the manner illustrated
+in (A). A critical feature is the modifiable threshold 9m: postsynaptic activity less than this threshold
+causes LTD, while higher activity leads to an increased synaptic weight (LTP). The sliding threshold
+changes as a supralinear function of the time-averaged postsynaptic activity. (B) Direct experimental
+evidence bolstering the arguments for the existence of 0 with a similar shape as used in the BCM
+model (Dudek and Bear, 1992). Here, 900 spikes are generated in the Schaffer collaterals to the CA1
+pyramidal cells in a hippocampal slice via electrical stimulation, varying at frequencies between 0.5
+and 50 Hz. Presynaptic stimulation frequencies below 10 Hz always lead to a reduction in the slope of
+the EPSP (relative to baseline), that is, in LTD, which persists without any sign of recovery for at least
+one hour. Higher stimulation frequencies lead to LTP. These effects are dependent on NMDA receptor
+activation. Reprinted by permission from Dudek and Bear (1992).
+A novel way of thinking about short-term changes in synaptic weight has come about
+by work among teams of experimentalists and theoreticians (Markram and Tsodyks, 1996;
+Tsodyks and Markram, 1997; Abbott et al, 1997; for a summary see Zador and Dobrunz,
+1997). Short-term depression (see Table 13.1 and Fig. 13.1) affects the postsynaptic response
+to a regular train of spikes at a fixed frequency /. While the response to the first spike is
+large, subsequent responses will be diminished until they reach a steady-state (Fig. 13.8A).
+For firing rates above 10 Hz, the asymptotic relative synaptic amplitude per impulse A(f)
+(with A < 1) is approximately inversely proportional to the stimulus rate,
+(13.11)
+with C some constant. This depression generally recovers within a second or so. The
+postsynaptic response per unit time is therefore
+(13.12)
+That is, the steady-state synaptic response is independent of the stimulus rate, rendering
+the synapse very sensitive to changes in the stimulus rate. The instantaneous response to a
+rapid increase A/ in its presynaptic firing rate is given by
+(13.13)
+As a consequence, the transient change in the postsynaptic response will be proportional
+
+
+===== Page 19 =====
+326 
+• 
+SYNAPTIC PLASTICITY
+Fig. 13.8 SHORT-TERM DEPRESSION AND ADAPTING SYNAPSES Short-term synaptic depression
+can implement a Weber-Fechner-like law at the synaptic level, whereby the postsynaptic response
+is proportional to the fractional change in firing rate (Abbott et al., 1997). (A) Field potentials, a
+measure of the postsynaptic response, recorded in layer 2/3 of rat visual cortex slices evoked by a
+Poisson train of extracellular stimulation in layer 4. The lines show the data and the dots the fit of a
+mathematical model. Onset and recovery from depression are clearly seen. (B), (C) Responses of a
+simulated integrate-and-fire neuron with depressing synapses to a sudden step increase in the afferent
+firing rate at the time indicated by the arrow. In (B) the firing rate of the afferents increased from 25
+to 100 Hz and in (C) from 50 to 200 Hz. Because in both cases A/// = 3, the postsynaptic response
+is nearly equal, only signaling relative changes. The time scale applies to both B and C. Unpublished
+data from L.F. Abbott, printed with permission.
+to the relative change in firing frequency: increasing the firing rate fourfold, from 25 to
+100 Hz, has as much effect as going from 50 to 200 Hz (Fig. 13.8B and C). As Abbott
+and his colleagues (1997) point out, this behavior is reminiscent of the Weber-Fechner law
+of psychophysics, stating that humans are sensitive to relative and not absolute changes in
+signal intensity (e.g., in irradiance or sound amplitude).
+This is rather elegant. The very hardware used to carry out computations (synapses)
+continuously adapts to their input, only signaling relative changes, enabling the system to
+respond in a very sensitive manner in the face of a constantly and widely varying external
+and internal environment. In contrast, digital computers are carefully designed to avoid
+adaptation and other usage-dependent effects from occurring. Interestingly, single-transistor
+learning synapses—based on the floating-gate concept underlying erasable programmable
+ROM digital memory—have now been built in a standard CMOS process (Diorio et
+al., 1996; Koch and Mathur, 1996). Similar to synapses, they can change their effective
+weights in a continuous manner while they carry out computations. Whether they will find
+widespread applications in electronic circuits remains to be seen.
+A particularly intriguing finding comes from Markram and Tsodyks (1996), who studied
+the interaction of LTP and short-term plasticity. They found that LTP has no effect on the
+steady-state response to a train of stimuli, but does affect the transient component. They
+suggested that the effect of LTP is to "redistribute" the synaptic response in time, increasing
+
+
+===== Page 20 =====
+13.6 Nonsynaptic Plasticity 
+• 
+327
+the response to the first few impulses in a stimulus train at the expense of the next few,
+but leaving the asymptote unaffected. These experiments suggest that the effects of long-
+term plasticity might be mediated by modifications of short-term plasticity. Attempts to
+construct a general framework for computing with dynamic synapses are underway (Maass
+and Zador, 1998).
+73.5.5 Unreliable Synapses: Bug or Feature?
+We have seen that single synapses in the mammalian cortex appear to be unreliable: release
+at single sites can occur as infrequently as one out of every 10 times (or even less) that an
+action potential invades the presynaptic terminal (Fig. 4.3). This should be contrasted with
+the reliability of a transistor in today's highly integrated silicon circuits, which is very, very
+close to 1. (The probability of failure of a digital CMOS inverter can be estimated to be less
+than 10~14 per switching event.)
+It is natural to wonder whether synaptic unreliability is an unfortunate but necessary
+property that the brain must accept due to biophysical constraints (in particular, the problem
+of packing on the order of one billion synapses, each firing at least several times each second,
+into one cubic millimeter of cortical gray matter). It might be possible that synapses this
+small simply cannot be made reliable. Alternatively, might there be some computational
+advantage to this unreliability? Or, formulated as a bon mot, is the lack of synaptic reliability
+a "bug" or a "feature"?
+If there are indeed constraints on the potential reliability of cortical synapses, they do not
+involve the fidelity with which a single presynaptic action potential can be converted into
+vesicular release. We know this because the probability of release at unreliable synapses
+can sometimes increase nearly to unity, following synaptic enhancement. However, it may
+be that the limit is not on the fidelity of transduction, but on the total number of vesicles
+that can be released in some interval. Thus it is possible that the release cannot be sustained
+during periods of high presynaptic activity if, for example, there is a limit to the uptake
+rate at which released vesicles can be recycled. This issue may be resolved experimentally
+if synapses that are as compact as hippocampal synapses are found for which release is
+reliable even during periods of sustained activity (Smetters and Zador, 1996).
+An alternative view is that there is some computational advantage to having unreliable
+synapses. The theme running through this chapter—that change in the probability of release
+is the mechanism underlying many forms of plasticity—suggests one possible advantage.
+It appears that release probability is a parameter that can be modified conveniently and
+dynamically on a short time scale. In this view the lack of reliability is required to give
+a synapse its large dynamic range, since varying either the number of release sites n, or
+the postsynaptic response q, over an equally large range is much more demanding. Only
+if most synapses have relatively low release probabilities can modulation of p implement
+changes in efficacy. The tradeoff is between reliability and the bandwidth of modulation of
+the postsynaptic response.
+13.6 Nonsynaptic Plasticity
+It should not come as a surprise to us that neuronal plasticity is not restricted to synapses.
+The most obvious-—and best understood—examples of nonsynaptic plasticity are those
+governing short-term changes in neuronal firing. Indeed, the adaptation in firing frequency
+
+
+===== Page 21 =====
+328
+SYNAPTIC PLASTICITY
+in response to a constant current input seen in most pyramidal cells can be considered to
+be a form of nonsynaptic plasticity (Fig. 13.9). Like synaptic adaptation, firing adaptation
+occurs on a spectrum of time scales, from milliseconds to seconds. As discussed in Sec. 9.3,
+adaptation is mediated by changes in a slow and calcium-dependent potassium current.
+Changes in firing patterns over days or longer, corresponding to developmental time scales,
+have also been observed (Spitzer, 1994; Turrigiano, Abbott, and Marder, 1994).
+There also is evidence for changes in specific ionic currents during associative condi-
+tioning. Alkon and his colleagues have established a direct link in the living animal—in
+his case the sea snail Hermissenda—between a classical conditioning task and changes
+in two potassium currents (for a review, see Alkon, 1987). Rotation of this mollusk, as
+would occur naturally during turbulence in the ocean, elicits a clinging response of its
+"foot." During associative conditioning, a gradient of light is paired with rotation and the
+animal learns to "associate" the light with the rotation. Following training, the light stimulus
+by itself triggers the foot clinging response. A large component of this response can be
+traced back to an enhanced photoresponse in the type B photoreceptor (in Hermissenda,
+these photoreceptors generate action potentials and receive direct and indirect synaptic
+input from hair cells sensitive to the rotation of the animal). Specifically, after training,
+a transient and inactivating A-like potassium current and a calcium-dependent potassium
+current in the cell body of the photoreceptor are reduced by 30-40% (Alkon, Lederhendler.
+and Shoukimas, 1982; Alkon et al., 1985). These changes occur postsynaptic to inputs from
+other photoreceptors and from the hair cells, last for days, and are evident after blockage
+of all synaptic input, underlining the fact that learning affects not only synapses but also
+membrane currents at the soma and elsewhere.
+Theoretical work in this area, exploiting both supervised and unsupervised learning rules
+to modify voltage-dependent membrane conductances in the soma and dendrites to achieve
+Fig. 13.9 FIRING FREQUENCY ADAPTATION Is A FORM OF NONSYNAPTIC PLASTICITY 
+Many
+cortical neurons show spike frequency adaptation in response to a prolonged current step. Conceptu-
+ally, this can be thought of as a form of learning, in this case learning to adapt out the sustained, and
+therefore predictable, component of the current. This figure portrays the spike train of a region CA1
+pyramidal neuron in response to a 2-sec, 10-pA current step. Note that the spike rate begins very high
+and declines steadily. Unpublished data from A. Zador, printed with permission.
+
+
+===== Page 22 =====
+13.7 Recapitulation 
+• 
+329
+a particular behavior, is still in its infancy (Zador, Claiborne, and Brown, 1992; Bell, 1992;
+Koch etal., 1996).
+13.7 Recapitulation
+Behavioral plasticity or adaptation is critical to an organism's survival. Adaptation occurs
+throughout the nervous system and on many different time scales, from milliseconds
+to days and even longer. Changes in synaptic strength are widely postulated to be the
+primary biophysical substrate for many forms of behavioral plasticity, including learning
+and memory, although our understanding of the link remains far from complete. Use-
+dependent forms of synaptic plasticity have been characterized in many preparations.
+Synaptic strength or weight can be characterized by the triplet (n, p, q), where n is
+the number of release sites, p the probability of synaptic release, and q the amplitude of
+the postsynaptic response following the docking of a single vesicle. The induction of most
+short-term forms of plasticity depends only upon the history of activity in the presynaptic
+terminal, while longer term forms require that appropriate conditions be met at both the pre-
+and the postsynaptic sites. It is therefore only these longer term forms of plasticity that can
+implement Hebbian type of learning. Biophysical modulation of p underlies most short-term
+forms, and appears to account for at least a component of some long-term forms as well.
+By far the best studied biophysical model of long-term synaptic change is LTP. The
+induction of LTP requires a conjunction of presynaptic neurotransmitter release, combined
+with postsynaptic depolarization of the postsynaptic site. There appears to be quite a
+requirement for the presynaptic input to precede firing activity in the postsynaptic cell.
+These experimentally observed forms of plasticity can be described at a more abstract level
+in terms of synaptic algorithms, in particular by temporally asymmetric Hebbian learning
+rules. Such formulations are useful because a great deal is known from the literature on
+artificial neural networks about the computational possibilities of Hebbian synapses.
+It is important to realize the prevalence of usage-dependent forms of synaptic plasticity.
+While digital transistors have been designed to be as constant as possible at switching
+speeds of hundreds of megahertz over the lifetime of the processor, a single synapse will
+vary its weight considerably in response to two or more consecutive spikes. These short-
+term changes can take many forms, including depression and facilitation. In at least one
+case, the three different types of synaptic input to layer 4 spiny cells show the entire gamut
+of short-term plasticity: none, short-term depression and short-term enhancement (Stratford
+et al., 1996). In summary, synaptic properties show a complex dependency on their previous
+history of usage and on the postsynaptic activity. We are only beginning to understand the
+computational significance of such dynamic switching elements.
+
+

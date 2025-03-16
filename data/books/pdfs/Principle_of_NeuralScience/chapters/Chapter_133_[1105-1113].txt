@@ -1,0 +1,762 @@
+===== Page 1 =====
+1060    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Functional Imaging Has Identified Neural 
+Correlates of Feelings
+Conscious experiences of an emotion are generally 
+referred to as feelings. Evidence for the neural corre-
+lates of feelings comes primarily from functional imag-
+ing studies of humans and from neuropsychological 
+testing of patients with specific brain lesions. A main 
+challenge for these studies is in dissociating the con-
+scious experience of the emotion from other aspects 
+of the emotion, such as the elicitation of physiological 
+responses, since these tend to occur contemporane-
+ously. Another challenge is how to connect such stud-
+ies with studies of emotion in animals, where we have 
+no agreed-upon dependent measures to assay what 
+they consciously experience.
+One early functional imaging study used positron 
+emission tomography to test the idea that feelings are 
+correlated with activity in those cortical and subcortical 
+somatosensory regions that specifically receive inputs 
+related to the internal environment—the viscera, endo-
+crine glands, and musculoskeletal system. Healthy 
+subjects were asked to recall personal episodes and to 
+attempt to reexperience as closely as possible the emo-
+tions that accompanied those events. Activity changed 
+in many regions known to represent and regulate body 
+states, such as the insular cortex, secondary somatosen-
+sory cortex (S-II), cingulate cortex, hypothalamus, and 
+upper brain stem. These results support the idea that at 
+least a part of the neural substrate for feelings involves 
+brain regions that regulate and represent bodily states, 
+a finding that bears some resemblance to the hypoth-
+esis of William James mentioned earlier, that feelings 
+are based on an awareness of bodily reactions.
+The importance of both cortical and subcortical 
+structures in processing feelings is also borne out by 
+more recent fMRI studies. One such study examined 
+the feeling of fear induced by anticipation of electri-
+cal shock (Figure 42–8). In this study, subjects lay in 
+the scanner while they saw a game on a video screen 
+in which a virtual predator (a red dot) gets closer to 
+the subject. Once the predator caught them, they could 
+receive a painful electric shock to the hand. The anxi-
+ety produced when the predator was some distance 
+away was associated with activation of the medial pre-
+frontal cortex; as the predator closed in, the periaque-
+ductal gray became activated, and this was correlated 
+with reports by the subjects of a feeling of dread. This 
+finding supports a role for the medial prefrontal cortex 
+in planning and anticipation related to a distant threat 
+and a role for the periaqueductal gray in mounting 
+the defensive responses required for coping with an 
+immediate threat.
+Another brain region of interest in relation to feel-
+ings is the subgenual sector of the anterior cingulate 
+cortex (Brodmann’s area 25), which has been found in 
+neuroimaging studies to be activated when subjects are 
+experiencing sadness. This region is of special interest 
+because it is also differentially activated in patients 
+with bipolar depression, and it appears thinned in 
+structural MRI scans of patients with chronic depres-
+sion. Direct electrical stimulation of this brain region 
+(deep brain stimulation) can dramatically improve the 
+mood of some patients with severe depression.
+Emotion Is Related to Homeostasis
+While it seems clear that no brain region is special-
+ized for any specific emotion, it is even doubtful that 
+there are any brain regions specialized for emotions 
+in general. It may be that all brain regions involved 
+in emotions also carry out other functions. In fact, 
+those nonemotional functions may give us clues about 
+how emotions evolved and, indeed, may be the basic 
+building blocks through which emotion states are 
+assembled.
+For example, sectors of the human insular cortex 
+that are activated during recall of feelings are also 
+activated during the conscious sensation of pain and 
+temperature. The insular cortex receives homeostatic 
+information (about temperature and pain, changes in 
+blood pH, carbon dioxide, and oxygen) through path-
+ways that originate in peripheral nerve fibers. These 
+afferent fibers include, for example, the C and Aδ fibers 
+that form synapses with neurons in lamina I of the pos-
+terior horn of the spinal cord or the pars caudalis of the 
+trigeminal nerve nucleus in the brain stem. The path-
+ways from lamina I and the trigeminal nucleus project 
+to brain stem nuclei (nucleus of the solitary tract and 
+parabrachial nucleus) and from there to the thalamus 
+and on to the insular cortex. The identification of this 
+functional system is further support for the idea that 
+signals in the afferent somatosensory pathways play a 
+role in the processing of feelings.
+Moreover, in patients with pure autonomic fail-
+ure, a disease in which visceral afferent information 
+is severely compromised, functional imaging studies 
+reveal a blunting of emotional processes and attenu-
+ation of activity in the somatosensory areas that con-
+tribute to feelings. Like other feelings, social feelings 
+engage the insular cortices and the primary and sec-
+ondary somatosensory cortices (S-I and S-II), as has 
+been found in functional neuroimaging experiments 
+evaluating empathy for pain and, separately, admira-
+tion and compassion.
+
+
+===== Page 2 =====
+Chapter 42 / Emotion    1061
+Figure 42–8  Both cortical and subcortical regions come 
+into play during emotion states. Results are from a functional 
+magnetic resonance imaging study in which a subject lies in 
+the scanner while watching a virtual predator (red dot) move 
+around on the screen and get closer to a subject (blue triangle, 
+representing the actual research participant). (Reproduced, with 
+permission, from Mobbs et al. 2007. Copyright © 2007 AAAS.)
+A. Once the predator catches up to the subject, there is a 
+chance that a real and painful electric shock will be delivered to 
+the hand.
+B. When the predator gets closer to the subject, activity in the 
+prefrontal cortex and periaqueductal gray matter increases. 
+Notably, this pattern of neural activation shifts such that a 
+distant predator elicits greater activity in the medial prefrontal 
+cortex, whereas a predator close by elicits more activity in the 
+periaqueductal gray.
+C. Activation of the periaqueductal gray (PAG) is correlated with 
+the subjective sense of dread measured by ratings that sub-
+jects gave while in the scanner.
+A
+B
+C
+Distant threat
+Close threat
+Shock
+Medial
+prefrontal cortex
+(distant threat)
+Periaqueductal gray
+(close threat)
+2
+4
+6
+Dread ratings
+8
+10
+–100
+–200
+0
+100
+200
+300
+400
+PAG activity
+PAG
+
+
+===== Page 3 =====
+1062    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Using these data as support, some influential 
+modern theories build on William James’s original 
+hypothesis and propose that the feeling of all emotions 
+is grounded in the brain’s representation of bodily 
+homeostasis. As in the case of the amygdala’s role in 
+both positive and negative emotions, the insula’s role 
+in processing both interoceptive and emotional infor-
+mation is still compatible with the possibility that these 
+processes are distinct. That is, different populations of 
+neurons within these structures may be involved in 
+processing different emotions. Therefore, fMRI may 
+not provide the level of resolution needed to elucidate 
+distinct yet anatomically intermingled neuronal popu-
+lations, and cellular techniques in animal models may 
+be required.
+Although most neuroscience research thus far has 
+focused on negatively valenced emotions, the neural 
+circuitry for positively valenced emotions is being elu-
+cidated in studies in both humans and animals. These 
+studies consistently implicate the medial prefrontal 
+cortex in computing the subjective value of rewards, as 
+well as the nucleus accumbens and other nuclei of the 
+basal ganglia in processing the hedonic component (or 
+pleasure) of positive emotions. A growing number of 
+functional imaging studies in humans—especially in 
+the fields of neuroeconomics and social neuroscience—
+links the role of these structures in emotion processing 
+to their role in value-based decision making and social 
+behavior.
+Highlights
+1.	 In the overall physiology of regulating the body 
+and behavior of organisms, emotion states carry 
+out functions intermediate to those of the simpler 
+processes of reflexes and homeostatic regulation, 
+on the one hand, and those of cognitive processes 
+and deliberate behavior on the other. Emotions 
+are more flexible, context-dependent, and con-
+trolled than are simple reflexes, but less flexible, 
+context-dependent, and controlled than deliberate 
+behavior. Emotions evolved to produce behavior 
+in response to recurring environmental and inter-
+nal challenges that are too varied for reflexes, but 
+sufficiently stereotyped that they do not require 
+the full flexibility of cognition.
+2.	 Emotion states need to be carefully distinguished 
+from the conscious experience of emotion (feel-
+ings) and also from the concepts and words that 
+we have in everyday language to describe emo-
+tions. For example, a hissing cat’s behavior is 
+caused by an emotion state, but whether the cat 
+consciously feels afraid is unclear. The cat prob-
+ably has no concept, and certainly no words, with 
+which to think about the emotion. Human sub-
+jects who recognize fear while observing a facial 
+expression are attributing fear to another person 
+and are thinking about a particular emotion, but 
+are not themselves necessarily in a state of fear or 
+experiencing fear. It is a major challenge in design-
+ing experiments, especially in humans, to inde-
+pendently control and manipulate these different 
+components of emotion.
+3.	 Emotions coordinate integrated changes in 
+many organismal parameters, including effects 
+on somatic behavior, autonomic and endocrine 
+responses, and cognition. We do not yet under-
+stand how this coordination arises, although it 
+is probably achieved through a combination of 
+hierarchical control (through brain regions that 
+function as “command centers” of sorts) and dis-
+tributed dynamics. Understanding how this is 
+accomplished in biological organisms will also 
+inform how we might engineer robots that exhibit 
+emotional behaviors in the future.
+4.	 Different specific emotions can be thought of cat-
+egorically (eg, happiness, fear, anger) or dimen-
+sionally (in terms of arousal and valence or other 
+dimensional frameworks). It is likely that many of 
+the categories for which we have words in a par-
+ticular language (like the examples just given) will 
+need to be revised once we have a more scientific 
+understanding. New analytic methods applied 
+to data acquired using fMRI, including methods 
+that take into account the spatial and temporal 
+patterns of brain activity and utilize powerful 
+machine-learning algorithms, may provide new 
+insights into how the brain mediates a broad 
+range of emotions.
+5.	 In humans, emotions can be regulated by sev-
+eral mechanisms. Thus, we have some control 
+over how we feel and some control over how we 
+express emotional behaviors, for instance, through 
+facial expressions. Nonhuman animals do not 
+have this same level of control, and so their emo-
+tional behaviors will generally be honest signals of 
+their emotion state, whereas humans often engage 
+in strategic deception.
+6.	 Fear is probably the emotion whose neurobiology 
+is best understood. It depends on the amygdala, 
+in both animals and humans. However, some data 
+suggest that certain types of fear, such as the panic 
+of suffocating induced by inhaling carbon dioxide, 
+are independent of the amygdala. Indeed, we now 
+know that the amygdala is part of a distributed 
+
+
+===== Page 4 =====
+Chapter 42 / Emotion    1063
+brain system, and therefore, many other brain 
+regions also participate in processing fear. Increas-
+ingly, modern studies use sophisticated genetic and 
+cellular techniques to image and to causally manip-
+ulate brain function, allowing us to understand the 
+necessary and sufficient roles of multiple brain struc-
+tures in mediating different emotional behaviors.
+7.	 The ventral and medial prefrontal cortex is inti-
+mately involved in emotion and connected with 
+the amygdala. Social emotions, reward represen-
+tations, and emotion regulation and extinction 
+all involve specific sectors of prefrontal cortex. 
+This region of the brain, together with the insula, 
+may also be the most important for our conscious 
+experience of emotions, an aspect of emotion that 
+remains the most challenging to study.
+ C. Daniel Salzman  
+ Ralph Adolphs 
+Selected Reading
+Amaral DG and Adolphs R (eds). 2016. Living Without an 
+Amygdala. New York: Guilford Press.
+Anderson, DJ, Adolphs R. 2018. The Neuroscience of  
+Emotion in People and Animals: A New Synthesis. Princeton 
+University Press.
+Bechara A, Tranel D, Damasio H, Adolphs R, Rockland C, 
+Damasio AR. 1995. A double dissociation of conditioning 
+and declarative knowledge relative to the amygdala and 
+hippocampus in humans. Science 269:1115–1118.
+Craig AD. 2002. How do you feel? Interoception: the sense of 
+the physiological condition of the body. Nat Rev Neurosci 
+3:655–666.
+Damasio AR. 1994. Descartes’s Error: Emotion, Reason, and the 
+Human Brain. New York: Penguin Books.
+Darwin, C. 1872/1965. The Expression of the Emotions in Man 
+and Animals. Chicago: Univ of Chicago Press.
+Dolan RJ. 2002. Emotion, cognition, and behavior. Science 
+298:1191–1194.
+Feinstein JS, Adolphs R, Damasio A, Tranel D. 2011. The 
+human amygdala and the induction and experience of 
+fear. Curr Biol 21:34–38.
+Feinstein JS, Buzza C, Hurlemann R, et al. 2013. Fear and 
+panic in humans with bilateral amygdala damage. Nat 
+Neurosci 16:270–272.
+Feldman Barrett L, Adolphs R, Marsella S, Martinez AM, 
+Pollack SD. 2019. Emotional expressions reconsidered: 
+challenges to inferring emotion from human facial move-
+ments. Psychol Sci Public Interest 20:1–68.
+McGaugh JL. 2003. Memory and Emotions: The Making of Lasting 
+Memories. New York: Columbia Univ Press.
+Salzman CD, Fusi S. 2010. Emotion, cognition, and mental 
+state representation in amygdala and prefrontal cortex. 
+Ann Rev Neurosci 33:173–202.
+Thornton MA, Tamir DI. 2017. Mental models accurately 
+predict emotion transitions. Proc Natl Acad Sci U S A 
+114:5982–5987.
+Whalen PJ, Phelps EA. 2009. The Human Amygdala. New York: 
+Guilford Press.
+References
+Adolphs R, Gosselin F, Buchanan T, Tranel D, Schyns P, 
+Damasio A. 2005. A mechanism for impaired fear recogni-
+tion in amygdala damage. Nature 433:68–72.
+Anderson SW, Bechara A, Damasio H, Tranel D, Damasio AR. 
+1999. Impairment of social and moral behavior related to 
+early damage in human prefrontal cortex. Nat Neurosci 
+2:1032–1037.
+Berridge KC, Kringelbach ML. 2013. Neuroscience of affect: 
+brain mechanisms of pleasure and displeasure. Curr Opin 
+Neurobiol 23:294–303.
+Cahill L, McGaugh JL. 1998. Mechanisms of emotional 
+arousal and lasting declarative memory. Trends Neurosci 
+21:294–299.
+Clithero JA, Rangel A. 2014. Informatic parcellation of the 
+network involved in the computation of subjective value. 
+Soc Cogn and Affect Neurosci 9:1289–1302.
+Damasio AR, Grabowski TJ, Bechara A, et al. 2000. Feeling 
+emotions: subcortical and cortical brain activity during 
+the experience of self-generated emotions. Nat Neurosci 
+3:1049–1056.
+Damasio H, Grabowski T, Frank R, Galaburda AM, Damasio 
+AR. 1994. The return of Phineas Gage: clues about the brain 
+from the skull of a famous patient. Science 264:1102–1105.
+De Martino B, Kumaran D, Seymour B, Dolan RJ. 2006. 
+Frames, biases, and rational decision-making in the 
+human brain. Science 313:684-687.
+Gore F, Schwartz EC, Brangers BC, et al. 2015. Neural represen-
+tations of unconditioned stimuli in basolateral amygdala 
+mediate innate and learned responses. Cell 162:132–145.
+Holland PC, Gallagher M. 2004. Amygdala-frontal inter-
+actions and reward expectancy. Curr Opin Neurobiol 
+14:148–155.
+Jin J, Gottfried JA, Mohanty A. 2015. Human amygdala 
+represents the complete spectrum of subjective valence.  
+J Neurosci 35:15145–15156.
+LeDoux, JE. 1996. The Emotional Brain. 1996. New York: Simon 
+& Schuster.
+LeDoux JE. 2000. Emotion circuits in the brain. Annu Rev 
+Neurosci 23:155–184.
+Lin D, Boyle MP, Dollar P, Lee H, Perona P, Anderson DJ. 
+2011. Functional identification of an aggression locus in 
+the mouse hypothalamus. Nature 470:221–226.
+MacLean PD. 1990. The Triune Brain in Evolution. New York: 
+Plenum.
+
+
+===== Page 5 =====
+1064    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Mayberg HS, Lozano AM, Voon V, et al. 2005. Deep brain 
+stimulation for treatment-resistant depression. Neuron 
+45:651–660.
+Medina JF, Repa CJ, Mauk MD, LeDoux JE. 2002. Parallels 
+between cerebellum- and amygdala-dependent condi-
+tioning. Nat Rev Neurosci 3:122–131.
+Mobbs D, Petrovic P, Marchant JL, et al. 2007. When fear is 
+near: threat imminence elicits prefrontal-periaqueductal 
+gray shifts in humans. Science 317:1079–1083.
+Nieuwenhuys R, Voogd J, van Huijzen Chr. 1988. The Human 
+Central Nervous System: A Synopsis and Atlas, 3rd ed. Berlin: 
+Springer-Verlag.
+Ochsner KN, Gross JJ. 2005. The cognitive control of emotions. 
+Trends Cogn Sci 9:242–249.
+Paton JJ, Belova MA, Morrison SE, Salzman CD. 2006. The pri-
+mate amygdala represents the positive and negative value of 
+visual stimuli during learning. Nature 439:865–870.
+Pessoa L, Adolphs R. 2010. Emotion processing and the 
+amygdala: from a “low road” to “many roads” of evaluat-
+ing biological significance. Nat Neurosci 11:773–782.
+Phelps EA. 2006. Emotion and cognition: insights from studies 
+of the human amygdala. Annu Rev Psychol 57:27–53.
+Rauch SL, Shin LM, Phelps EA. 2006. Neurocircuitry models 
+of posttraumatic stress disorder and extinction: human 
+neuroimaging research—past, present, and future. Biol 
+Psychiat 60:376–382.
+Redondo RL, Kim J, Arons AL, Ramirez S, Liu X, Tonegawa 
+S. 2014. Bidirectional switch of the valence associated 
+with a hippocampal contextual memory engram. Nature 
+513:426–430.
+Saez A, Rigotti M, Ostojic S, Fusi S, Salzman CD. 2015 
+Abstract context representations in primate amygdala 
+and prefrontal cortex. Neuron 87:869–881.
+Weiskrantz L. 1956. Behavioral changes associated with abla-
+tion of the amygdaloid complex in monkeys. J Comp 
+Physiol Psychol 49:381–391.
+
+
+===== Page 6 =====
+43
+Motivation, Reward, and Addictive States
+different. What has changed is the motivational state 
+of the animal.
+Motivational states influence attentiveness, goal 
+selection, investment of effort in the pursuit of goals, 
+and responsiveness to stimuli. They thus drive approach, 
+avoidance, and action selection. This chapter focuses 
+on the neurobiological basis of motivational states 
+related to rewards and the manner in which reward-
+related brain circuits are implicated in mechanisms 
+underlying drug addiction.
+Both Internal and External Stimuli Contribute to 
+Motivational States
+Motivational states reflect one’s desires, and desires 
+can be influenced by physiological status as well as 
+by stimuli that predict future rewarding and aversive 
+events. Motivational states thus depend on both inter-
+nal and external variables. Internal variables include 
+physiological signals concerning hunger or thirst, as 
+well as variables related to the circadian clock. For 
+example, the frequency and duration of foraging vary 
+with the time of day, the time since an animal has last 
+eaten, and whether, if female, she is lactating.
+Other internal variables are related to cognitive 
+processes. In the game of blackjack, for instance, being 
+dealt the same card in different hands can cause a 
+player to go bust or make 21, leading to very different 
+emotional responses and adjustments in subsequent 
+decision making and action selection. The differential 
+meaning of the same stimulus (a particular card) is made 
+possible by the cognitive understanding of the rules of 
+the game of blackjack. The cognitive understanding of 
+Motivational States Influence Goal-Directed Behavior
+Both Internal and External Stimuli Contribute to 
+Motivational States
+Rewards Can Meet Both Regulatory and Nonregulatory 
+Needs on Short and Long Timescales
+The Brain’s Reward Circuitry Provides a Biological 
+Substrate for Goal Selection
+Dopamine May Act as a Learning Signal
+Drug Addiction Is a Pathological Reward State
+All Drugs of Abuse Target Neurotransmitter Receptors, 
+Transporters, or Ion Channels
+Repeated Exposure to a Drug of Abuse Induces Lasting 
+Behavioral Adaptations
+Lasting Molecular Adaptations Are Induced in Brain 
+Reward Regions by Repeated Drug Exposure
+Lasting Cellular and Circuit Adaptations Mediate 
+Aspects of the Drug-Addicted State
+Natural Addictions Share Biological Mechanisms With 
+Drug Addictions
+Highlights
+Motivational States Influence  
+Goal-Directed Behavior
+O
+ne day a cheetah, taking refuge  from the 
+mid-day sun in the shade of a tree, views a dis-
+tant antelope with apparent indifference. Later 
+in the afternoon, the sighting of the antelope provokes 
+immediate orienting and stalking behavior. The stimu-
+lus is the same, but the behavioral responses are very 
+
+
+===== Page 7 =====
+1066    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+a rule is an internal variable. Similarly, different social 
+situations often elicit distinct behavioral responses to 
+the same stimulus, such as whether one chugs wine at 
+a college party or sips it at a formal dinner.
+External variables also influence motivational 
+states. These variables include rewarding incentive stimuli. 
+For example, when a dehydrated cheetah comes across 
+a watering hole during a search for antelopes, the sight 
+of the water may serve as an incentive stimulus, tip-
+ping the balance between hunger and thirst and driv-
+ing the animal to interrupt its quest for food to drink. 
+However, an internal variable—the state of the chee-
+tah’s hydration—can also lead to a different reward 
+value being assigned to the same sensory stimulus, the 
+watering hole. Even innately rewarding stimuli, such 
+as a sweet tastant that normally elicits pleasure, can 
+in some circumstances become unpleasurable. Choc-
+olate cake may be innately rewarding to chocolate 
+lovers, but satiation to the chocolate—which involves 
+modulation of an internal variable—can decrease the 
+reward value of this stimulus and thereby affect moti-
+vational state.
+Rewards Can Meet Both Regulatory and 
+Nonregulatory Needs on Short and Long Timescales
+Feeding, drinking, and thermoregulatory behaviors and 
+their underlying motivational states typically arise in 
+response to (or anticipation of) a physiological imbal-
+ance. In these cases, actions acquire rewards in a rela-
+tively short timescale. In contrast, some motivational 
+states serve biological imperatives other than short-term 
+physiological homeostasis. More complex long-term 
+goals, such as finding and sustaining a love partner or 
+achieving an educational or professional goal, require 
+goal-oriented actions on longer timescales. Nonregu-
+latory motivational states may resemble those arising 
+from physiological signals, but motivated behaviors 
+often involve sequences of actions in which not every 
+action is immediately rewarded (except in the sense of 
+making progress toward a longer-term goal).
+In general, incentive stimuli, even stimuli that 
+only signal progress toward a longer-term goal, can 
+influence motivational states so that complex behav-
+ioral sequences are completed. A simple example of 
+this concept is when a cheetah must stalk, chase, run 
+down, and kill an antelope, and then drag the carcass 
+to a refuge before beginning to feed. Of course, even 
+the complexity of the actions involved in foraging 
+and feeding is far simpler than the steps required of 
+a student motivated to achieve a graduate degree and 
+develop an academic career. Motivational states must 
+be sustained across challenging circumstances in order 
+to achieve such goals.
+The Brain’s Reward Circuitry Provides a Biological 
+Substrate for Goal Selection
+Rewards are objects, stimuli, or activities that have 
+positive value. Rewards can incite an animal to switch 
+from one behavior to another or to resist interruption 
+of ongoing action. For example, a rat that encounters a 
+seed while scouting the environment may cease explor-
+ing in order to eat the seed or carry it to a safer place; 
+while nibbling the seed, the rat will resist the efforts of 
+another rat to steal the food from its paws. If seeds are 
+made available only at a particular location and time, 
+the rat will go to that location as the expected moment 
+of reward delivery approaches.
+Much contemporary work in neuroscience is 
+directed at elucidating the neural systems that process 
+different types of rewards. These systems must link 
+the initial sensory representation of a reward to differ-
+ent behaviors that respond to physiological needs and 
+environmental challenges and opportunities. Patholo-
+gies such as addiction can highjack these reward sys-
+tems, resulting in maladaptive behavior (discussed in 
+the latter part of this chapter).
+Goal-directed behaviors entail the assessment of 
+risks, costs, and benefits. Straying from the herd may 
+offer an antelope better opportunities for foraging 
+but only at the risk of becoming an easier target for a 
+lurking cheetah. Attacking the venturesome antelope 
+offers the cheetah an easier promise of a meal but at 
+the risk that energetic and hydromineral resources will 
+be depleted needlessly if the antelope gets away. Thus, 
+the neural mechanisms responsible for goal selection 
+must weigh the costs and benefits of different behav-
+iors that might attain a specific goal.
+In 1954, James Olds and Peter Milner reported their 
+work on the neural pathways responsible for reward-
+related behaviors. These classic studies employed 
+electrical brain stimulation as a goal. Rats and other 
+vertebrates ranging from goldfish to humans will 
+work for electrical stimulation of certain brain regions. 
+The avidity and persistence of this self-stimulation 
+are remarkable. Rats will cross electrified grids, run 
+uphill while leaping over hurdles, or press a lever for 
+hours on end in order to trigger the electrical stimula-
+tion. The phenomenon that leads the animal to work 
+for self-stimulation is called brain stimulation reward  
+(Figure 43–1A). Brain stimulation, therefore, elicits a 
+motivational state, a strong drive to perform an action 
+(eg, lever pressing) that will deliver further stimulation.
+Although brain stimulation reward is an artificial 
+goal, it mimics some of the properties of natural goal 
+objects. For example, brain stimulation can compete 
+with, summate with, or substitute for other reward-
+predictive stimuli to induce motivational states that 
+
+
+===== Page 8 =====
+Chapter 43 / Motivation, Reward, and Addictive States    1067
+Figure 43–1  Intracranial self-stimulation recruits reward  
+circuitry and dopaminergic neural pathways.
+A. Classic testing apparatus for self-stimulation experiments. 
+In this example, an electrode is implanted in a brain region of a 
+rodent. Lever pressing by the rodent triggers electrical  
+stimulation of that brain area.
+B. Brain structures that produce self-stimulation behavior  
+typically activate dopaminergic pathways emanating from the 
+ventral tegmental area (VTA), among other pathways.
+C–D. Cocaine and nicotine affect the rate of electrical  
+self-stimulation. The rate at which the animal presses the  
+stimulation lever increases with increases in the frequency  
+of the self-stimulation current. In the presence of the drugs, 
+animals press the lever at lower stimulation frequencies, 
+indicating that the drugs augment the effects of the electrical 
+stimulation.
+VTA
+Dopamine
+Stimulating electrode
+Stimulation frequency (Hz)
+Rate (responses/min)
+100
+60
+40
+Rate (responses/min)
+20
+0
+50
+25
+12.5
+Stimulation frequency (Hz)
+60
+40
+20
+0
+100
+50
+25
+Baseline
+Nicotine
+Baseline
+Cocaine
+C  Cocaine
+D  Nicotine
+B
+A
+Lever that generates
+self-stimulation
+drive goal-directed behaviors. The circuitry that medi-
+ates brain stimulation reward is broadly distributed. 
+Rewarding effects can be produced by electrical stimu-
+lation of sites at all levels of the brain, from the olfac-
+tory bulb to the nucleus of the solitary tract.
+Particularly effective sites lie along the course of 
+the medial forebrain bundle and along longitudinally 
+oriented fiber bundles coursing near the midline of 
+the brain stem. Stimulation of either of these path-
+ways results in activation of dopaminergic neurons 
+in the ventral tegmental area of the midbrain. These 
+neurons project to several areas of the brain, includ-
+ing the nucleus accumbens (the major component of 
+the ventral striatum), the ventromedial portion of the 
+head of the caudate nucleus (in the dorsal striatum), 
+the basal forebrain, and regions of the prefrontal cor-
+tex (Figure 43–1B).
+Activation of dopaminergic neurons in the ventral 
+tegmental area plays a crucial role in brain stimulation 
+reward. The effects of this activation are strengthened 
+
+
+===== Page 9 =====
+1068    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+by increases in dopaminergic synaptic transmission and 
+weakened by decreases. These dopaminergic neurons 
+are excited by glutamatergic cells in the prefrontal cor-
+tex and amygdala as well as from cholinergic cells in the 
+laterodorsal tegmental and pedunculopontine nuclei 
+of the hindbrain, and are inhibited by local GABAergic 
+cells within or just caudal to the ventral tegmental area. 
+Brain stimulation is thought to activate dopaminergic 
+neurons in the ventral tegmental area in part through 
+the activation of these hindbrain cholinergic neurons. 
+Blockade of this cholinergic input reduces the rewarding 
+effects of the electrical stimulation. While most attention 
+has focused on dopamine pathways in mediating brain 
+stimulation reward, it is important to emphasize the 
+involvement of non-dopaminergic pathways as well.
+The strength of brain stimulation reward is indi-
+cated by the finding that starving rats provided with 
+brief daily access to food will forego eating to press 
+a lever for brain stimulation. The heedless pursuit of 
+an artificial goal to the detriment of a biological need 
+is one of many parallels between self-stimulation 
+and drug abuse. Indeed, drugs of abuse augment the 
+rewarding effects of activation of dopaminergic path-
+ways with brain stimulation (Figure 43–1C,D). Lower 
+frequencies of stimulating currents accompanied by 
+cocaine or nicotine administration—both of which 
+enhance dopaminergic neurotransmission through 
+different mechanisms—produce a rate of lever press-
+ing equivalent to that obtained during self-stimulation 
+at higher stimulating currents in the absence of these 
+drugs. These results indicate that cocaine and nicotine 
+amplify the effects of neuronal activation elicited by 
+microstimulation.
+Dopamine May Act as a Learning Signal
+An earlier view of the function of dopamine was that 
+it conveyed “hedonic signals” in the brain and that, in 
+humans, it was directly responsible for subjective pleas-
+ure. From this point of view, addiction would reflect 
+the habitual choice of short-term pleasure despite a 
+host of long-term life problems that emerge. In fact, 
+however, new research indicates that the hedonic prin-
+ciple cannot easily explain the persistence of drug use 
+by addicted persons as negative consequences mount.
+The effects of dopamine have proven to be far 
+more complex than was first thought. Dopamine can 
+be released by aversive as well as by rewarding stim-
+uli, and the short latency component of a dopamine 
+neuron’s response may not be related to the reward-
+ing or aversive qualities of a stimulus at all. Moreover, 
+rodents lacking dopamine—rats in which dopamine is 
+depleted by 6-hydroxydopamine and mice genetically 
+engineered so that they cannot produce dopamine—
+continue to exhibit hedonic responses to sucrose. 
+Dopamine delivery itself is not currently considered to 
+produce hedonic qualities. Instead, the degree to which a 
+particular sensory stimulus is rewarding is thought to be 
+processed by a broad network of brain areas, spanning 
+sensory cortices of different modalities, association cor-
+tex, prefrontal cortex (in particular, orbitofrontal regions), 
+and many subcortical areas such as the amygdala, hip-
+pocampus, nucleus accumbens, and ventral pallidum.
+Many of the brain areas whose activity is modu-
+lated by reward anticipation or receipt receive dopa-
+minergic input. What information do dopaminergic 
+neurons transmit to these brain areas? Wolfram Schultz 
+and his colleagues discovered that dopaminergic neu-
+rons often have a complex and changing pattern of 
+responses to rewards during learning. In one experi-
+ment, Schultz trained monkeys to expect juice at a 
+fixed interval after a visual or auditory cue. Before the 
+monkeys learned the predictive cues, the appearance 
+of the juice was unexpected and produced a transient 
+increase in firing above basal levels by ventral teg-
+mental area dopaminergic neurons. As the monkeys 
+learned that certain cues predict the juice, the timing 
+of the firing changed. The neurons no longer fired in 
+response to presentation of the juice—the reward—
+but earlier, in response to a predictive visual or audi-
+tory cue. If a cue was presented but the reward was 
+withheld, firing paused at the time the reward would 
+have been presented. In contrast, if a reward exceeded 
+expectation or was unexpected, because it appeared 
+without a prior cue, firing was enhanced (Figure 43–2).
+These observations suggest that dopamine release 
+in the forebrain serves not as a pleasure signal but as 
+a prediction error signal. A burst of dopamine would 
+signify a reward or reward-related stimulus that had 
+not been predicted; pauses would signify that the 
+predicted reward is less than expected or absent. If 
+a reward is just as expected based on environmental 
+cues, dopaminergic neurons would maintain their 
+tonic (baseline) firing rates. Alterations in dopamine 
+release are thus thought to modify future responses 
+to stimuli to maximize the likelihood of obtaining 
+rewards and to minimize fruitless pursuits. For natural 
+rewards, like the sweet juice consumed by the mon-
+keys in Schultz’s experiments, once the environmental 
+cues for a reward are learned, dopaminergic neuron 
+firing returns toward baseline levels. Schultz has inter-
+preted this to mean that as long as nothing changes in 
+the environment, there is nothing more to learn and 
+therefore no need to alter behavioral responses.
+Experiments using functional magnetic resonance 
+imaging in humans have provided further evidence 
+
+

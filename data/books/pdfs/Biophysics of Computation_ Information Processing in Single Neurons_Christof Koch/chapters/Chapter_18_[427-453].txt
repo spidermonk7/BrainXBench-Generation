@@ -1,0 +1,1094 @@
+===== Page 1 =====
+SYNAPTIC INPUT TO
+A PASSIVE TREE
+Now that we have quantified the behavior of the cell in response to current pulses and
+current steps as delivered by the physiologist's microelectrode, let us study the behavior
+of the cell responding to a more physiological input. For instance, a visual stimulus in the
+environment will activate cells in the retina and its target, neurons in the lateral geniculate
+nucleus. These, in turn, make on the order of 50 excitatory synapses onto the apical tree
+of a layer 5 pyramidal cell in primary visual cortex such as the one we use throughout the
+book, and about 100-150 synapses onto a layer 4 spiny stellate cell (Peters and Payne,
+1993; Ahmed et al., 1994, 1996; Peters, Payne, and Rudd, 1994). All of these synapses
+will be triggered within a fraction of a millisecond (Alonso, Usrey, and Reid, 1996). Thus,
+any sensory input to a neuron is likely to activate on the order of 102 synapses, rather than
+one or two very specific synapses as envisioned in Chap. 5 in the discussion of synaptic
+AND-NOT logic.
+This chapter will reexamine the effect of synaptic input to a realistic dendritic tree. We
+will commence by considering a single synaptic input as a sort of baseline condition. This
+represents a rather artificial condition; but because the excitatory postsynaptic potential and
+current at the soma are frequently experimentally recorded and provide important insights
+into the situation prevailing in the presence of massive synaptic input, we will discuss them
+in detail. Next we will treat the case of many temporally dispersed synaptic inputs to a leaky
+integrate-and-fire model and to the passive dendritic tree of the pyramidal cell. In particular,
+we are interested in uncovering the exact relationship between the temporal input jitter and
+the output jitter.
+The bulk of this chapter deals with the effect of massive synaptic input onto the firing
+behavior of the cell, by making use of the convenient fiction that the detailed temporal
+arrangement of action potentials is irrelevant for neuronal information processing. This
+allows us to derive an analytical expression relating the synaptic input to the somatic current
+and ultimately to the output frequency of the cell. Under these conditions, continuous input
+variables—the firing rates of the presynaptic neurons—are mapped onto a continuous output
+frequency.
+402
+18
+
+
+===== Page 2 =====
+18.1 Action of a Single Synaptic Input 
+· 403
+18.1 Action of a Single Synaptic Input
+In general, it is very difficult to quantify the effect that an individual synapse has on the
+potential at the soma or on the firing frequency of the cell using a single measure. The
+reason is, of course, that synaptic input needs to be treated as a time-varying conductance
+change somewhere in the dendritic tree acting upon a nonlinear and nonstationary system.
+In neural network models, this is quite a different manner, since the complexity of synapses
+is reduced to a scalar weight w¡j, all synaptic input arrives at a single compartment, and the
+spiking nonlinearity is a stationary one (Chap. 14).
+18.1.1 Unitary Excitatory Postsynaptic Potentials and Currents
+Figure 18.1 illustrates the local and somatic EPSPs in response to a single excitatory, voltage-
+independent synapse at one of three different locations in the tree (apical and basal dendrite
+and the soma; see Fig. 18.6). The resultant EPSP is sometimes also called unitary EPSP.
+We include the situation of an excitatory synapse at the soma—even though no or only
+very few excitatory synapses are located at the cell body of pyramidal neurons—because
+it represents a sort of baseline against which the other cases can be judged. Furthermore,
+a significant fraction of excitatory synapses on smooth, that is, inhibitory, interneurons is
+made onto or close to the soma.
+The local EPSPs peak within 1-1.2 msec, gradually returning to the resting potential
+with a time course dictated by Tm. The somatic EPSPs undershoot Vrest before returning to
+base levels. This small hyperpolarizing response is caused by activation of two potassium
+Fig. 
+18.1 VOLTAGE-INDEPENDENT
+UNITARY SYNAPTIC INPUT 
+Excita-
+tory postsynaptic potential (EPSP) at
+the site of the synapse (A) and at the
+soma (Β). A single fast AMPA synapse
+(gpeak = 1 nS; fpeak = 0.5 msec) was
+either located in the apical tree (ar-
+row in Fig. 18.6; dotted line), toward
+the end of a basal dendrite (arrow
+in Fig. 18.6; dashed line), or at the
+soma (solid line). The undershoot in
+the somatic EPSPs is caused by activa-
+tion of potassium currents. (C) Excita-
+tory postsynaptic current (EPSC) at the
+soma for the same three synaptic inputs
+while the membrane potential at the
+soma is clamped to Vrest. The resulting
+current flows inward, plotted negative
+by convention, and peaks prior to the
+peak in the associated somatic EPSP.
+
+
+===== Page 3 =====
+404 
+· 
+SYNAPTIC INPUT TO A PASSIVE TREE
+currents /A and /M . Phenomenologically, the undershoot arises from the linear but inductive
+nature of the potassium currents for small voltage excursions around rest (Sec. 10.1 and
+Fig. 10.5).
+Figure 18.1 also depicts /C]amp in response to the three synaptic inputs when the somatic
+potential is clamped to Vrest = — 65 mV. The peak current varies fiftyfold, from —1.2 ρ A
+for the distal apical input to —64 pA for the somatic one. The somatic EPSCs peak earlier
+than the associated somatic EPSPs, compatible with the notion that the current leads the
+voltage expected of an RLC circuit dominated by the resistive and capacitive components.
+Note that the EPSC does not correspond to the current flowing during the somatic
+EPSP, since in the former case the somatic potential is clamped (explaining the lack of
+a positive, outward current during the late phases of the EPSC). The actual current flowing
+across the membrane during the EPSP will show such an outward component due to the
+hyperpolarizing swing of the membrane potential. Yet, because the membrane potential
+during the EPSP does not deviate much from Vrest under the conditions extant in Fig. 18.1,
+the EPSC is qualitatively similar to the current flowing during the EPSP.
+Activating a single synapse whose conductance is halfway split between voltage inde-
+pendent AMPA receptors and voltage-dependent NMDA receptors perturbs this picture but
+little. Its primary effect is to prolong the duration of the EPSP and the EPSC. The reason
+for the discrepancy between the small effect of voltage-dependent input in the situation
+considered here and the much larger effect apparent in the experiment of Stern, Edwards,
+and Sakmann (1992) pictured in Fig. 4.9 is that in the former the local EPSP barely reaches
+8 mV, an insufficient depolarization to remove the magnesium blockage of the NMDA
+receptor channels. Thus, blocking the NMDA component (as in Fig. 4.9B) has little effect.
+In the experiment, focal stimulation recruited a much larger number of synapses which
+locally depolarized the membrane sufficiently to activate NMDA input.
+How do these simulated EPSPs and EPSCs stack up against experimental data from layer
+5 pyramidal cells in the rat visual cortex? Figure 18.2 histograms the time course and the
+peak amplitudes of about 1000 spontaneous EPSCs (clamped around the resting potential)
+and close to 500 spontaneous EPSPs (from the monumental efforts of Smetters, 1995).
+The time courses of experimentally recorded somatic EPSPs and EPSCs are comparable
+to those of Fig. 18.1, compatible with a very fast (ipeak = 0.5 msec), AMPA-mediated
+conductance change and a slow membrane time constant. The amplitude histograms of
+the EPSCs encompass the three simulated values from Fig. 18.1C. (The locations of
+the synapses that gave rise to the data in Fig. 18.2 are not known, but are assumed
+to be distributed throughout the dendritic tree.) The somatic EPSPs are, however, much
+larger than the simulated ones, due to a mismatch in input impedances in the two cases.
+This is expected, since the simulated pyramidal cell receives 2 Hz synaptic background
+activity, which substantially lowers the input impedance everywhere (see the following
+section).
+Close inspection of Fig. 18.2 reveals a systematic dependency of the rise time of the
+EPSPs with their width. Rail (1967; Rail et al., 1967) first derived the relationship expected
+between the rise time of a unitary EPSP and its halfwidth; for more distant input, the rise
+time of the somatic EPSP will be longer and it will be more spread out. Plotting these
+two measures of dispersion against each other, known as a shape index plot (Rail et al.,
+1967), can reveal something about the distance between the synapse and the soma. As
+applied to spinal motoneurons, these techniques played an important role in establishing
+the importance of dendritic location (Redman and Walmsley, 1983).
+
+
+===== Page 4 =====
+18.1 Action of a Single Synaptic Input
+405
+Fig. 18.2 EXPERIMENTALLY RECORDED UNITARY EPSPs AND EPSCs 
+Spontaneous (A) EPSPs
+and (C) EPSCs recorded from layer 5 pyramidal cells in slices of rat visual cortex in the presence of
+bicuculline to block synaptic inhibition. The histograms of (B) the peak amplitude of the EPSPs (n =
+479) and (D) the EPSCs (n = 953) reveal a broad distribution, due to the fact that the synaptic origins
+of the observed events are distributed throughout the dendritic tree. Reprinted by permission from
+Smetters(1995).
+18.1.2 Utility of Measures of Synaptic Efficacy
+As discussed extensively in Sec. 3.2, Rail (1962,1964) showed that under certain conditions
+a dendritic tree can be reduced to a single finite cable, the equivalent cylinder. In particular,
+at each branch point the £/3/2 law, governing the relationship between parent and daughter
+branches, must hold and all dendrites must terminate at the same electrical distance from
+the soma. Unfortunately though, dendritic branch points of pyramidal cells, according to
+Larkman et al., (1992; see also Hillman, 1979; Brown, Fricke, and Perkel, 1981; Johnston,
+1981) do not obey the ¿?3/2 law. Furthermore, the apical tree is electrically much longer
+than the basal dendrites, violating another condition needed to reduce the cell to a single
+cylinder.
+In Sec. 3.5, we introduced several measures of synaptic "efficiency," such as the
+electrotonic distance between a site ζ and the soma L¡s (a cumulative measure of the
+normalized electrotonic distance between i and the soma) and the logarithm of the voltage
+attenuation Lv
+is (Eq. 3.38). Recall that in an infinite cable, L = Lv. In Table 18.1 these
+factors are evaluated for the apical and basal synaptic input of Fig. 18.1, where L"f is
+the logarithm of the actual voltage attenuation experienced by the synaptic input. (L"s is
+computed from the dc input and transfer resistances as in Eq. 3.38.) Because the dendritic tree
+cannot be approximated by an equivalent cable but has pronounced asymmetries—current
+flows much more easily toward than away from the soma—the electrotonic distance L is
+
+
+===== Page 5 =====
+406
+SYNAPTIC INPUT TO A PASSIVE TREE
+pretty much useless as a quantitative indicator for attenuation. The log attenuation predicted
+by the stationary input and transfer resistances does a much better job, coming within 14%
+of the true log attenuation. This difference is, of course, due to the transient nature of the
+synaptic input.
+The discrepancies between the actual attenuation of the EPSPs and the attenuation
+predicted by the electrotonic length apparent in Table 18.1 provide a convincing numerical
+argument against using the electrotonic distance L—derived from solving the linear cable
+equation in finite cables—as a measure of the coupling of a synapse to the soma.
+18.1.3 What Do Unitary EPSPs and EPSCs Tell Us about the Threshold?
+As we learned in the previous chapter, the pyramidal cell model possesses a voltage threshold
+Vth (around —49 mV) for rapid synaptic input. We should therefore be able to estimate the
+number of simultaneously excitatory synaptic inputs needed to reach threshold n^ as the
+effective threshold voltage, Vtn — Vrest = 16 mV, divided by the peak unitary somatic EPSP
+amplitude. For an excitatory input at the soma, νρε3)ί = 0.28 mV (solid trace in Fig. 18.1),
+leading to nm = 57. From numerical simulations, we know that the actual number is
+«th = 64. This estimate does not take the changing driving potential into account. (At
+—65 mV, the driving potential for the synaptic input is 16 mV larger than at threshold.)
+The effect of synaptic saturation (Fig. 4.11) at high-impedance sites, such as the distal,
+apical, or the basal tree, complicates this simple analysis. Many distal sites are prevented
+from generating sufficiently large somatic EPSPs to ever reach threshold. At the soma, the
+input (slope) conductance of 60.6 nS is large enough compared to the peak conductance
+change of a single synapse (0.5 nS) for saturation not to play a role. Furthermore all
+voltage-dependent currents but sodium activation can be considered to be stationary, thereby
+approximating the conditions under which Vth was estimated. We conclude that the unitary
+EPSP amplitude can be used to predict the voltage threshold remarkably well (see also
+Koch, Bernander, and Douglas, 1995).
+Applying the same logic to estimate 7th predicts that nine such somatic inputs, each
+delivering 33 pA (Fig. 18.1C), suffice to reach 7th, underestimating the actual number by a
+factor of 7. But, as we pointed out in Sec. 17.3.4, the concept of a current threshold is only
+applicable for sustained inputs. The highly transient EPSCs cannot be used to estimate the
+threshold. (This was illustrated in Fig. 17.5 A, in which the total synaptic current flowing onto
+the spike initiating membrane /S0ma exceeds /th numerous times without initiating a spike.)
+We conclude that when considering rapid synaptic input, the somatic potential due to
+synaptic activity is a more relevant variable than the current obtained under voltage clamp
+for predicting when the cell will trigger an action potential.
+{
+  "table_name": "TABLE 18.1",
+  "description": "Voltage Attenuation of Synaptic Input",
+  "columns": ["Position", "Kit", "Kt,", "Kss", "L", "Γ", "L'"],
+  "rows": [
+    {"Position": "Basal", "Kit": 387.79, "Kt,": 18.47, "Kss": 16.48, "L": 0.24, "Γ": 3.32, "L'": 4.32},
+    {"Position": "Apical", "Kit": 341.68, "Kt,": 10.47, "Kss": 16.48, "L": 0.56, "Γ": 3.48, "L'": 5.07}
+  ]
+}
+
+Actual and expected voltage attenuation between the two synaptic sites used in Fig. 18.1 and the soma as computed from the
+stationary input (Kn in ΜΩ) and transfer resistance (K¡s in ΜΩ). e
+L's is the attenuation expected from the electrotonic length
+measurement (Eq. 3.33); L"is is defined via Eq. 3.38 as the logarithm of the voltage attenuation. In an infinite cable L = V. Due
+to the pronounced asymmetries in the cable structure, these two measures here differ markedly. The natural logarithm of the actual
+voltage attenuation L"'*, as defined by the peak EPSP values in Fig. 18.1, is larger than L"¡s due to the distributed capacitances
+that preferentially remove high temporal frequencies (in particular for the distal, apical input).
+
+
+===== Page 6 =====
+18.2 Massive Synaptic Input 
+· 407
+18.2 Massive Synaptic Input
+Now that we have seen the effect of a single synapse, we are ready to deal with the much more
+physiological situation in which a hundred or more synapses are simultaneously activated.
+How will this affect the somatic potential and current and, ultimately, the firing frequency of
+the cell? Because of the nonlinear relationship between synaptically induced conductance
+changes and the membrane potential, this question is not easy to answer in general. Let
+us start by studying the situation when the neuron is bombarded with numerous individual
+excitatory and inhibitory inputs.
+18.2.1 Relationship between Synaptic Input and Spike Output Jitter
+When a cortical neuron is presented with the appropriate stimulus, it rapidly and reliably
+increases its probability of firing. Individual cortical neurons respond to a dynamic random
+dot motion stimulus with a highly reproducible temporal modulation of their firing rate,
+precise to a few milliseconds (Fig. 15.11). The time that it takes for such a cell to significantly
+modulate its firing rate—as determined by averaging over many presentations of an identical
+stimulus—is almost always less than 10 msec and occurs in neurons that are at least six
+synapses removed from the periphery. This precision is surprising because the propagation
+of an input through a multilayer network with continuous mean rates causes rise times to
+become increasingly shallow (due to the low-pass filtering effect treated in Sec. 14.2.4).
+Yet, as the sensory triggered "wave" of activity propagates through many layers of the
+cortex, the signal does not appear to become appreciably rounded off, but is only delayed
+between consecutive stages by about 10 msec. This has been assessed directly by comparing
+the latency and rise time of neurons in different cortical areas to the same stimulus. In the case
+of an awake monkey, neurons in the primary visual cortex responded to a visual stimulus
+with an average 10-90% rise time of 8 msec while neurons in a subsequent processing
+stage, cortical area V4, show a virtually identical rise time of 7 msec but with an additional
+26 msec latency (Marsalek, Koch, and Maunsell, 1997).
+Let us address this important problem in the following manner. Suppose an instantaneous
+sensory event in the world triggers a volley of activity in η excitatory synaptic inputs. We
+will assume that the arrival time of the input is centered around t — 0 and that its standard
+deviation in time, here called input jitter, is o-m. If we further suppose that these η synapses
+are sufficient to trigger one (or more) spikes (that is, η > n^) we can compute the standard
+deviation in time, termed the output jitter σοιη, of the spike triggered in response to this
+input. This will help us understand to what extent temporal jitter in the input is preserved,
+amplified, or reduced by multiple processing stages.
+We first deal with a simplified problem by assuming that the probability density of the
+arriving synaptic inputs p-m(t) is the uniform density on the interval [0,1]. (p-m(t) = I
+for ί € [0, 1], and 0 otherwise.) Different from before, we assume that each input only
+triggers a single synaptic event of postsynaptic strength ae. These inputs are integrated onto
+the capacitance of a nonleaky integrate-and-fire unit (of voltage threshold Vth = «««*)·
+Together with the uniform density, this assures us that at t = 1 the voltage will be exactly
+nae (in the absence of a threshold).
+The probability that the voltage at time t has attained the value η^αβ is given by the beta
+density (Papoulis, 1984)
+(18.1)
+
+
+===== Page 7 =====
+408 
+· 
+SYNAPTIC INPUT TO A PASSIVE TREE
+The standard deviation of this distribution is
+Or, the output jitter is inversely proportional to the number of excitatory synaptic inputs.
+This makes sense, since the time it takes to reach threshold will be proportional to the drift
+that is dictated by n. The jitter in the time to threshold is inversely related to the drift.
+Of course, our derivation only holds under conditions when the membrane leak can be
+neglected (that is, when most of the synaptic input arrives within a fraction of τ).
+Detailed simulations using a leaky integrate-and-fire model as well as our customary
+layer 5 pyramidal cell compartmental model bear this out (Fig. 18.3A; for the details,
+consult Marsalek, Koch, and Maunsell, 1997). In the presence of massive excitatory input
+(n = 250, with nth = 66; see previous section), whose arrival time has a Gaussian
+distribution in time, the relationship between a-m and aout is a linear one, with a slope of
+around 0.116, as expected from the approximation in Eq. 18.4. Adding inhibitory synaptic
+input increases this slope, but not substantially (Fig. 18.3B). Any more inhibition and the
+cell fails to reach threshold in a growing fraction of all trials.
+In the case of massive synaptic input, the temporal output jitter will be smaller than the
+input jitter. It follows that for a cascade of spiking cells, the output jitter converges to zero
+(Marsalek, Koch, and Maunsell, 1997; see also Abeles et al., 1994; Hermann, Hertz, and
+Priigel-Bennett, 1995). In real networks the jitter is unlikely to become vanishingly small
+since we neglect several additional sources of timing variability. The two most dominant
+sources are likely to be:
+1. The inhomogeneous spike propagation times between consecutive layers of neurons due
+to variations in the diameter and length of the associated axons and axonal terminations
+(wiring jitter). We considered these axonal delays in Fig. 6.17 and found that they are
+small (on the order of ±0.5 msec).
+2. Jitter in the delay between presynaptic spikes and the opening of the postsynaptic synaptic
+channels (synaptic jitter).
+We conclude that the output jitter in a network with many layers of spiking neurons (such
+as in Abeles's (1990) synfire-chain model) converges to a fixed but small number, bounded
+by the "jitter" in the anatomical connections and in the synaptic transduction process.
+(18.2)
+In the case of the uniform probability density, a¡n = 1/2 V3, allowing us to rescaleEq. 18.2
+in terms of the output jitter,
+(18.3)
+What happens if the number of synaptic inputs n greatly exceeds the number of inputs
+required to bring the cell to fire «th? Making the approximations that n + 3 "» n + 2^ n,
+that n + 1 — «th ^ n> and nth + 1 ^ n^, we arrive at
+(18.4)
+
+
+===== Page 8 =====
+18.2 Massive Synaptic Input 
+· 409
+Fig. 18.3 RELATIONSHIP BETWEEN INPUT AND OUTPUT JITTER 
+What is the relationship between
+the standard deviation in time of synaptic input a-m and the standard deviation in time of the resultant
+output spike σοΜΊ Marsalek, Koch, and Maunsell (1997) treated this question using a leaky integrate-
+and-fire model and the more complex layer 5 pyramidal cell compartmental model. (A) 250 excitatory
+fast voltage-independent synaptic inputs are triggered once. The probability density function p-m(t)
+is Gaussian with standard deviation a-m. For the integrate-and-fire model, synapses are assumed to be
+linear current sources, with ae = 0.23 mV; τ = 10 msec. For the compartmental model, synapses are
+of the fast AMPA type, distributed throughout the dendritic tree. In both cases, the effective voltage
+threshold Vth = 16 mV and «u, = 66. Equation 18.4 predicts a linear relationship between σ,η and aout
+with slope 0.116 (line labeled "approximation"). Error bars correspond to the standard deviation from
+five runs with 50 spikes each. (B) A qualitatively similar result is obtained if 62 inhibitory synapses are
+added (hyperpolarizing current synapses with a, = 0.23 mV for the integrator and GABAA synapses
+for the more detailed model). Any more inhibition, and the cell frequently fails to trigger a spike.
+Thus, a spiking cell with a passive dendritic tree can reduce input jitter provided that η is much bigger
+than no,. Reprinted by permission from Marsalek, Koch, and Maunsell (1997).
+
+
+===== Page 9 =====
+410 
+· 
+SYNAPTIC INPUT TO A PASSIVE TREE
+18.2.2 Cable Theory for Massive Synaptic Input
+Standard one-dimensional passive cable theory (Jack, Noble, and Tsien, 1975; Rail, 1989)
+assumes that the electrotonic structure of the cell does not change in response to synaptic
+input. As long as synaptic input is treated as a de- or hyperpolarizing current this is certainly
+true. The independence of the electrical structure from the input allows us to characterize
+the spatio-temporal integrative properties of the cable or the cell in terms of the transfer
+and input impedances as well as space and time constants.
+Yet as we emphasized from the beginning of this book, even the activity of a single
+synapse has an impact on the input impedance Ki{ (t) (e.g., Eq. 4.24). While the actual
+size of this effect is negligible for one or a few isolated synaptic inputs, it can dominate
+the behavior of the system for large inputs. This is particularly true given that patch-clamp
+recordings of pyramidal and Purkinje cells find very high values for the passive membrane
+resistance (on the order of 100,000 Ω-cm
+2; see Appendix A).
+Let us exemplify our argument with some numbers. Assume a small, spherical cell with a
+radius equal to r = 15 μπι. Its input conductance Gjn = 4nr
+2/Rm amounts to only 0.28 nS
+and its time constant to 100 msec for Rm = 100, 000 Ω-cm
+2. Activation of a single synapse
+with gpeak = 0.5 nS will immediately, albeit briefly, triple the effective input conductance
+and reduce the time constant to a third of its original value. A second synapse will not
+find the same electrotonic structure present as the first one did. It is immaterial for this
+argument whether the synapse considered is excitatory or inhibitory, as long as it increases
+the local membrane conductance. The fact that synaptic inputs can significantly affect the
+electrotonic structure of the cell depends on the fact that Rm is high relative to the inverse of
+the synaptic-induced conductance change. For low values of Rm, say in the neighborhood of
+2,000 Ω -cm
+2, many more synaptic inputs would have to be activated in order for the synaptic
+conductance to dominate the conductance contributed by the passive membrane of the cell.
+As expressed in a perfunctory manner in Sec. 4.9.1, Eq. 4.24 describes the dependency of
+Kn(t) on the exact timing of the synaptic input gsyn(t). Clearly, for two or more synapses,
+the dependency can be considerably more complex, since the input impedance and other
+cable properties also depend on the relative timing between the inputs and whether or not
+they are correlated.
+In order to study the effect of massive synaptic input on the cell, we will disregard such
+temporal effects by assuming that the inputs arriving at different synapses are independent
+of each other and replace the series of presynaptic spikes by an instantaneous rate f¡. We
+also disregard any detailed dynamics of the spiking by a "suitable" temporal averaging
+procedure that reduces the total synaptic input from η independent synapses to any one
+particular compartment to a single number,
+(18.5)
+where g[ represents the integrated conductance for a single input,
+(18.6)
+When g¡ (t) has the form of an α function (Eq. 4.5), g[ = egpeakfpeak- If the synapse is of the
+NMDA type, this average conductance will be voltage dependent, rendering the following
+equations slightly more complex. Obviously, this averaging method does not incorporate
+any short-term synaptic changes observed in brain slices (Sec. 13.5.4), such as short-term
+depression and facilitation.
+
+
+===== Page 10 =====
+18.3 Effect of Synaptic Background Activity 
+· 411
+With this averaging procedure in place, we can replace the different types of synapses in
+each compartment (AMPA, NMD A, GAB A A , and so on) as well as the leak conductance
+by a single "effective" conductance,
+(18.7)
+in series with a single effective battery,
+(18.8)
+where A is the membrane area of the compartment needed to convert the leak conductance
+per unit area, Gm, into an absolute conductance. Equation 18.7 tells us that as the presynaptic
+firing frequency (f¡) increases, so does the postsynaptic membrane conductance, regardless
+of whether the synapses are excitatory or inhibitory. Only the conglomerate reversal poten-
+tial £eff is influenced by the signs and amplitudes £,· of the synaptic batteries: if inhibitory
+cells fire more strongly than excitatory ones, the effective synaptic reversal potential will be
+pulled toward more hyperpolarizing values and vice versa. We conclude that the effective
+membrane resistance should not be thought of as a fixed parameter, but as a dynamic variable
+that can change within a fraction of a second, in contrast to the intracellular resistivity and
+the membrane capacity, which appear much more difficult to modulate rapidly.
+For a single infinite cylinder with the appropriate boundary condition, we can write down
+a slightly modified cable equation,
+(18.9)
+which contains a single term accounting for all synaptic conductances. Defining the length
+constant of the cable (Eq. 2.13) as
+(18.10)
+and the time constant as
+(18.11)
+we arrive back at the standard normalized cable equation (Eq. 2.7),
+(18.12)
+In the remainder of this chapter, we will deal with three distinct scenarios of time-averaged
+massive synaptic input. We start off by analyzing the effect of diffuse synaptic activity
+that occurs throughout the cell before we turn toward an analysis of the effect of massive
+excitatory and shunting inhibitory synaptic activity on the cell.
+18.3 Effect of Synaptic Background Activity
+Neurons, just like people, do not exist in isolation but are embedded within a tightly
+interwoven network of other nerve cells. A typical neocortical pyramidal cell is the recipient
+of anywhere between 5000 and 20,000 synapses from other neurons, while Purkinje cells
+
+
+===== Page 11 =====
+412 · SYNAPTIC INPUT TO A PASSIVE TREE
+in the cerebellum may receive up to 200,000 synapses. In the lightly anesthetized animal as
+well as in the awake behaving animal, these cells are "spontaneously" active, which means
+in practice that they generate action potentials that cannot readily be accounted for by the
+presence of any simple sensory stimulus (such as a bright bar or a loud tone). The origin of
+this spontaneous activity is presently unknown but could be due to several sources: (1) the
+remnants of spontaneous activity at the sensory periphery that has percolated to the more
+central stages (e.g., photon shot noise in the photoreceptors), (2) the spontaneous spiking
+due to channel fluctuations (Sec. 8.3.2), or (3) the spontaneous release of synaptic vesicles
+in the absence of significant presynaptic activity.
+Experimentally recorded values of the spontaneous firing in cortex range, from low
+values of 0.25-2.5 spikes per second in the anesthetized cat visual cortex (Gilbert, 1977;
+Leventhal and Hirsch, 1978) to larger values of 5-10 Hz in extrastriate areas, such as the cat
+motor cortex (Woody, Gruen, and McCarley, 1984), the rat sensory-motor cortex (Bindman
+and Prince, 1983), the auditory cortex in rhesus monkeys and baboon (Abeles, 1990), and the
+inferior temporal cortex of the behaving monkey (R. Desimone, personal communication).
+These nonzero rates of background activity are in sharp contrast to the situation prevailing
+for brain slices or for cultured neurons. The removal of afferent fibers (by cutting to
+extract the slice from the brain), combined with the absence of the right combination
+of neuromodulators and growth factors, makes neurons rather reticent about firing in the
+absence of a direct electrical or pharmacological stimulus.
+What consequence does this background activity, expressed via the time-averaged rate
+(fb), have on any one neuron? Barrett (1975) first brought up the possibility that synaptic
+background activity might affect the electrical properties of a motoneurons (see also Rail,
+1974). The subject remained dormant until a number of groups took up the issue via
+detailed compartmental simulations (Holmes and Woody, 1989; Bernander et al., 1991;
+Rapp, Yarom, and Segev, 1992) and analytical investigations (Abbott, 1991).
+We will summarize the results of these studies by focusing on the changes in R-m, Tm, L,
+and Vrest wrought by varying the background firing rate (fb)·
+18.3.1 Input Resistance
+The input resistance of the finite cable (looking toward the sealed end boundary at the other
+terminal) is specified by Eq. 2.21 as
+(18.13)
+where L = Ι/λ is the electrotonic length of the cable. In the limit of an infinite high
+background activity, that is, for (fb) ->· oo, Rm decreases as (fb)~
+l f 2· Basic intuition tells
+us that additional synaptic input, independent of whether excitatory or inhibitory, increases
+the membrane conductance and thereby drives down the effective membrane resistance /?eff
+(Fig. 18.4A).
+The same plot also shows Rm for the compartmental model of the pyramidal cell with
+the standard complement of voltage-dependent somatic membrane conductances ("active"
+neuron) and for the same model but in the absence of these active conductances ("passive"
+model). (The geometry of the single cylinder was adjusted to coincide with the passive
+pyramidal cell model at (fb) = 0.) All three models share the same features: as (fb) is
+turned up from 0 to 2 Hz, the input resistance drops by a factor of 10, from 193 to 20 ΜΩ,
+in the passive case, and by a factor of 4, from 50 to 12 ΜΩ, in the active case. The deviation
+
+
+===== Page 12 =====
+18.3 Effect of Synaptic Background Activity 
+· 413
+Fig. 18.4 EFFECT OF SYNAPTIC BACKGROUND ACTIVITY ON R-m,rm,L, AND Vrest 
+Illustration of
+the effect of varying the synaptic background activity {//,) on four variables characterizing spatio-
+temporal integration in three systems; a finite, passive cylinder (3060 μηι long and 5.8 μτη thick; with
+sealed-end boundary condition; bold line labeled "single cable"), the complete model of the layer 5
+pyramidal cell with active conductances ("active" neuron) and the same model but with all active
+somatic conductances removed ("passive" neuron). All cases show the same effect: as (fb) increases,
+the membrane becomes more and more leaky, and /?¡n as well as rm decrease and the electrotonic
+length of the passive cable or the electrotonic distance between a point in the layer 1 portion of the
+distal apical tree and the soma in the pyramidal cell becomes ever larger. (f¡,) is very close to zero in
+brain slices, while (fb) > 1 Hz corresponds to the situation in the living brain. The behavior of the
+cable is given by the equations in the text. #¡n, rm, and Vrest are all measured at the soma. Inhibitory
+and excitatory synapses are assumed to have identical rates (fb). Note the logarithmic scale on the
+upper two panels. Reprinted by permission from Bernander (1993).
+of the compartmental model from the cylinder at high values of (fb) is largely explained
+by the inhomogeneous synaptic distribution along the pyramidal cell (inhibitory synapses
+cluster in a neighborhood of the soma while excitation is more distal). Further differences
+result from the voltage-dependent components.
+The dependency of /?¡n and other electrical parameters on {fb) becomes more complex in
+the presence of voltage-dependent NMDA input. As discussed in Sec. 17.1.2 and Fig. 17.3,
+incorporating NMDA conductances into the membrane can have the paradoxical effect of
+reducing the slope conductance. For the situation discussed here, this implies that under
+
+
+===== Page 13 =====
+414
+SYNAPTIC INPUT TO A PASSIVE TREE
+certain conditions the input resistance can actually increase as the background firing rate is
+increased (Bernander, 1993).
+18.3.2 Time Constant
+Equation 18.11 characterizes the dependency of the passive time constant on (fb). We
+expect that as (ft,) —> oo, rm goes to zero as I/ (//,). The fractional decrease in the somatic
+time constant is similarly large in the compartmental model: from 100 to 12.8 msec for the
+passive case and from 33.7 to 5.9 msec in the active case (Fig. 18.4B). This decrease in
+τη as (fb) increases implies that the pyramidal cell becomes much more sensitive to the
+degree of temporal dispersion in any synaptic input. To demonstrate this, Bernander and
+colleagues (1991) computed nth> the average number of excitatory non-NMDA synapses,
+distributed throughout the dendritic tree, necessary to trigger a spike. These synapses were
+either all activated simultaneously or spread out over a 25 msec extended time window
+(with each synapse activated only once).
+It is apparent from Fig. 18.5 that for the desynchronized case «th increases significantly
+as (fb) increases. Under slice conditions, 115 synchronized synapses are necessary to bring
+the cell above threshold, whereas 145 are needed if the input is desynchronized. This small
+difference between synchronized inputs and inputs arriving smeared out in time is due to
+the long integration period of the cell (rm = 100 msec). For a 1 Hz background activity,
+113 synchronized or 202 desynchronized inputs are needed to fire the cell. At (fb) = 7 Hz,
+when 35,000 synaptic events are bombarding the cell every second, 3.5 times as many
+Fig. 18.5 TEMPORAL INTEGRATION 
+The ability of the standard layer 5 pyramidal cell to distinguish
+coincident arriving synaptic input from a desynchronized one increases as the spontaneous background
+activity (fb) increases and τη decreases (Fig. 18.4B). The minimal number of excitatory voltage-
+independent synaptic inputs η u, (withgpeak = 0.5 nS) needed to trigger a spike at the soma as a function
+of(fb). The synapses are spread over the dendritic tree in accordance with the known distributions and
+are either all activated simultaneously or activated once over a 25-msec-wide window, independently
+of each other. For (fb) *» 0 (a situation prevalent for most in vitro studies), the difference between
+synchronized and desynchronized inputs is minor but becomes substantial when the overall network
+activity is high. The average background activity can therefore be seen as the signal controlling
+the temporal tuning properties of the cell. Each simulation is run numerous times using a different
+distribution of synapses. Reprinted by permission from Bernander et ah, (1991).
+
+
+===== Page 14 =====
+18.3 Effect of Synaptic Background Activity
+415
+desynchronized inputs are needed to trigger the cell than if the inputs arrive together. As
+(fb) increases, the cell becomes more and more selective to differences in the arrival times
+of synaptic inputs.
+18.3.3 Electroanatomy
+According to Eq. 18.10, the electrotonic length of a finite cable should increase as (fb)l/2. As
+the membrane becomes more and more leaky, distant points are, electrically speaking, less
+and less coupled to the soma. Because the dendritic tree contains no active conductances,
+the electrotonic distance from the soma to a point in the apical bush (about 1 mm away
+from the soma) is the same in the active and the passive model. Given the square root
+dependency of L on (fb), this distance, computed as the sum of all branch segments on the
+path between the location and the soma increases by a factor of 2.5 as {/&) increases from
+0 to 2 Hz.
+A graphic demonstration of the effect of varying (fb) on the electroanatomy of the cell
+is given in Fig. 18.6 using the graphical morphoelectronic transform (MET) (see Sec. 3.5.4)
+of Zador (1993) and Zador, Agmon-Snir, and Segev (1995). Each dendritic compartment
+is "stretched" or "shrunk" such that its length in the graph is proportional to its electrotonic
+Fig. 18.6 VARIABLE ELECTROANATOMY OF PYRAMIDAL CELL Graphic illustration of the change
+of the electrotonic dimensions of the pyramidal cell with synaptic background activity with the aid of a
+morphoelectronic transform. The extent of the individual dendrites is proportional to their electrotonic
+length; the distance of each compartment from the soma is proportional to the electrotonic distance of
+that point from the soma. In the absence of any background activity—approximating the conditions
+prevalent in cultured or in slice neurons—the pyramidal cell is very compact. As (fb) is increased
+to 2 Hz, distal sites on long and thin dendrites are more and more decoupled from the soma. The
+scale bar corresponds to the distance over which the sustained voltage decays by e°·5 in an infinite
+cable. The arrows point to the location of the apical and basal synapses used in Fig. 18.1. Reprinted
+by permission from Bernander et al., (1991).
+
+
+===== Page 15 =====
+416
+SYNAPTIC INPUT TO A PASSIVE TREE
+length L j . L increases from 1.2 to 2.6 for the most distal compartment in layer 1 and from
+0.2 to 0.7 for a synapse at the tip of a basal dendrite. That basal dendrites stretch more than
+apical ones is due to their higher synaptic innervation and the corresponding lower effective
+values of Rm.
+Yet another way to visualize the change in electrotonic properties is to plot the somatic
+EPSPs evoked by a fast non-NMDA excitatory synapse located either in the distal apical
+tree, along a basal dendrite, or at the soma (Fig. 18.7). While the amplitude of the somatic
+and basal EPSPs decrease by a factor of 2 or 3 as (/¿} changes from 0 to 5 Hz, the effect
+on the distal apical synaptic input is much more dramatic. For (fh) = 5 Hz, almost no
+deviation from the somatic resting potential is seen.
+18.3.4 Resting Potential
+Of the four variables considered here, only £eff depends on the balance of excitatory and
+inhibitory input (Eq. 18.8). For large values of {/¿}, Vsoma depolarizes by close to 10 mV
+(Fig. 18.4D). This is a consequence of the fact that 80% of the synapses are excitatory and
+the assumption that the synaptic background activity is the same for excitatory as well as
+for inhibitory afferents. The somatic potential does not increase indefinitely with {/¿}, but
+saturates due to the interaction between the net excitatory and inhibitory synaptic currents
+and the voltage-dependent potassium currents /A and /M, driving the potential to —95 mV
+(for more details, see Bernander, 1993).
+It is known that the resting potential differs significantly between neurons recorded in
+vivo and in vitro. Numerous slice studies of pyramidal cells report resting potentials in the
+range of —84 to —67 mV (with a mean of —74 mV; Thomson, Girdlestone, and West,
+Fig. 18.7 SYNAPTIC INPUT IN THE PRESENCE OF BACKGROUND ACTIVITY Somatic EPSP in
+response to activation of a single non-NMDA synapse at one of three locations in the pyramidal
+cell (from top to bottom: soma, basal, and apical tree; see Fig. 18.6) at three different levels of
+synaptic background activity. The largest EPSPs are obtained under slice conditions ((fh) = 0). For
+25,000 synaptic events per second ((fh) = 5 Hz), the peak somatic, basal, and apical EPSPs are
+reduced by factors of 1.7, 2.8, and 14.9 relative to their peak values at (ft,} = 0. The middle set of
+EPSPs corresponds to the panel of Fig. 18. IB. Notice the much shorter rise and decay times at higher
+background frequencies. Reprinted in modified form by permission from Bernander (1993).
+
+
+===== Page 16 =====
+18.3 Effect of Synaptic Background Activity 
+· 417
+1988; Mason and Larkman, 1990; Spain, Schwindt, and Crill, 1990; Hirsch and Gilbert,
+1991; Mason, Nicoll, and Stratford, 1991), while in vivo Vrest is usually in the range of
+—81 to —57 mV (with a mean of —64.5 mV; Bindman and Prince, 1983; Bindman, Meyer,
+and Prince, 1988; Holmes and Woody, 1989; Pockberger, 1991). Whether this difference is
+caused primarily by the difference in synaptic background activity remains open.
+18.3.5 Functional Implications
+The principal effects of modulating the synaptic background activity on the spatio-temporal
+properties of individual neurons are clear-cut: as {ft,} increases from no activity to physio-
+logical values in the 5-10 Hz range, input resistance, and space and time constants decrease.
+Functionally, the cell becomes more and more extended and sensitive to temporal synchrony.
+This conclusion is not dependent on the numerical details and occurs in simple, analytical
+cable models (Abbott, 1991; Bernander, 1993) as well as in detailed compartment models
+of Purkinje (Rapp, Yarom, and Segev, 1992) and pyramidal cells (Bernander et al., 1991).
+This phenomenon is contingent upon two key assumptions: (1) that the effective membrane
+resistance in the absence of synaptic background activity is high and (2) that on the order
+of several thousand (or more) spontaneous synaptic events occur every second. If these
+conditions are not met, background activity will have either no or only a negligible effect
+on the spatio-temporal properties of the cell. Note well that these effects would not be
+observed if synaptic inputs were treated as current inputs.
+While it is undoubtedly important to understand the effect of (fb) at the level of an
+individual cell, a more functionally relevant question is to what extent the spontaneous
+firing activity is under the control of other brain systems. In particular, to what extent and
+how fast can neuromodulators up or down regulate (fb) for entire groups of neurons? If
+they can, the phenomena discussed here could have a number of interesting implications
+for neuronal information processing strategies.
+For instance, in the dark few cells in the visual cortex will be active and the membrane
+time constant fm will be long, enabling the cell to integrate the input over a long time.
+Conversely, for bright, high contrast visual stimuli, the overall network activity may be
+much higher, leading to a small value of rm and short integration times. This adaptive
+gain-control mechanism is somewhat akin to that used by the network of coupled rods in
+the retina (Detwiler, Hodgkin, and McNaughton, 1980). As exemplified in Fig. 18.6, larger
+values of (fb) decouple distal sites from the soma. Because the apical tufts in layers 1 and 2
+constitute the dominant target zones for cortico-cortical feedback connections (Friedman,
+1983; Rockland, 1994; Salin and Bullier, 1995), a large degree of afferent activity would
+decouple this feedback by increasing its distance from the soma, thereby making the cell
+more responsive to direct sensory input arriving on the proximal parts of the apical trunk.
+It is obvious that the properties of individual neurons influence the behavior of the
+embedding neuronal network, such as whether or not it converges to a fixpoint and its
+convergence time. We have here an instance of the converse, where a collective property of
+the network—its average activity—modulates the properties of individual members of the
+network. Particularly intriguing is the fact that the temporal resolution of neurons increases
+as the mean network activity increases. This illustrates the strong two-way interdependency
+of the many structural levels of neurobiological hardware, in stark contrast to computer
+hardware. An intriguing but open question is the issue of stability: under what conditions
+can a network that modulates the electrical properties of its elements arrive at a stable
+equilibrium point, that is, how can homeostasis be achieved?
+
+
+===== Page 17 =====
+418 
+· 
+SYNAPTIC INPUT TO A PASSIVE TREE
+18.4 Relating Synaptic Input to Output Spiking
+So far, we have always evaluated the effect of synaptic input to the somatic membrane
+potential, since it is here—or in the axonal hillock close to the cell body—that the output
+of the cell—spikes—is generated. But, ultimately, we wish to understand the relationship
+between synaptic input and the firing activity of the cell.
+This is a difficult problem due to the nonstationary nonlinearities at the soma. If EPSPs
+arrive while the somatic potential hovers just below the spiking threshold, it might be
+enough to push the potential above threshold, while the arrival of EPSP following an action
+potential might have a negligible effect on the output frequency. Furthermore, it also makes
+a difference whether the synapse is activated only once or repeatedly. We will sidestep
+these problems by adopting the stance we did in the previous sections, that is, we assume
+that the synaptic inputs are independent of each other and that each individual rate can
+be replaced by a suitable average (Eq. 18.5) which we assume for simplicity's sake to be
+directly proportional to the presynaptic firing frequency.
+As opposed to conventional cable theory, we will not compute the somatic potential
+evoked by synaptic input but the current /syn,j, flowing longitudinally down the dendrite
+into the soma. It is this current that will be seen by the spiking mechanism at the cell body and
+axon hillock and that will ultimately cause the cell to generate axon potentials. Knowledge
+of /syn.s.
+m conjunction with the /-/ curve, allows us to go directly from synaptic input to
+firing output. We here follow the exposition of Bernander, Douglas, and Koch (1994).
+18.4.1 Somatic Current from Distal Synaptic Input
+We follow Abbott (1991) in computing the current flowing out of one terminal of a single
+cable when one or more synapses are activated at the other terminal at X = L. (The cable
+has the electrotonic length L — Ι/λ and diameter d.) We can think of the X — 0 terminal
+as being connected to an RC compartment representing the soma. Activating the synapses
+causes ionic current to flow into the cable and along the transversal intracellular resistivity
+toward the low-impedance cell body.
+Because we are averaging over a fraction of a second or longer we can neglect the
+capacitive term in our modified cable equation (Eq. 18.12), and—following Eq. 2.2—
+express the current /8γη,5 flowing into the soma by the derivative of the voltage along the
+cable divided by the longitudinal resistance,
+(18.14)
+The excitatory synapses increase the membrane conductance at X = LbygJ (fe) (with{/e)
+the presynaptic firing rate of the excitatory synapses and gj the time-averaged conductance
+per area; Eq. 18.6) in series with the synaptic reversal potential Ee. In order to compute the
+current, we need to know the voltage. As in Eq. 2.18, the voltage in this finite cable can be
+expressed as
+(18.15)
+Solving this requires two boundary conditions. The voltage at the synaptic terminal is given
+by the usual synaptic equation (Eq. 4.12) as
+(18.16)
+
+
+===== Page 18 =====
+18.4 Relating Synaptic Input to Output Spiking
+419
+As argued in the preceding chapter, the spike mechanism at the soma acts as a sort of voltage
+clamp, preventing the membrane potential from making long-term excursions beyond Fth-
+For the sake of convenience, Abbott (1991) clamps the potential at the X = 0 terminal
+to 0. This also specifies the input resistance R-m at the synaptic terminal as the resistance
+associated with a killed-end terminal (Eq. 2.24),
+(18.17)
+Remembering that the derivative of sinh(L — X) is cosh(L - Χ)/λ and that sinh
+2(x:) -
+cosh (x) = — 1, we arrive at the following expression for the current flowing into the
+voltage-clamped terminal at X = 0,
+(18.18)
+If the input is small relative to the local input resistance, the current is linearly related to
+the input frequency. As (fe) increases, the local postsynaptic potential starts to saturate,
+limiting the amount of current that enters through the synapse. Finally, the driving potential
+Ee — V(L) is close to zero and no amount of presynaptic firing activity will push any
+additional current through the synapse and toward the other terminal (Fig. 18.8). The
+limiting current (in the sense that it cannot be exceeded without amplification) at the X = 0
+terminal becomes
+(18.19)
+Two important remarks. The saturation of the net current delivered by the synaptic input to
+the soma has very little to do with current losses along the cable. If no current leaks across
+the membrane by postulating Geff —> 0,1^ s only increases by a factor of sinh(L)/L.
+Fig. 18.8 LONGITUDINAL CURRENT IN A SINGLE CABLE 
+Excitatory synaptic input is applied to
+one end of the same finite cable (of electrotonic length L = 1.138 used in Fig. 18.4), and the other
+terminal, conceptually corresponding to the soma, is clamped to the resting potential. The longitudinal
+current /syn,s flowing from the synapses into the X = 0 terminal clamped to 0 (Eq. 18.18), is computed
+as a function of the averaged presynaptic firing rate of the excitatory input {fe}. The saturating
+characteristic has little to do with current leaking out across the membrane. Indeed, preventing any
+current from leaking across the membrane only increases the maximal current 7S
+S^ s by 23%. The
+culprit is local saturation of the membrane potential at the synaptic terminal. No amount of synaptic
+input can generate more current /syni¡ (unless the membrane contains amplifying currents, as discussed
+in the following chapter).
+
+
+===== Page 19 =====
+420 
+· 
+SYNAPTIC INPUT TO A PASSIVE TREE
+Also, /syn,i does not correspond to the current that is computed with the aid of the transfer
+resistances (see the closing comments to Sec. 3.5.3).
+18.4.2 Relating /out to /ta
+The key idea is to assume that the spike generation process at the cell body and axonal hillock
+can be treated as a stationary nonlinearity whose exact form is given by the discharge curve,
+that is, by the plot of the output frequency /out against the amplitude of the injected current
+step (see Figs. 17.10A and 18.10A). It does not matter to this spike triggering mechanism
+whether the current it sees is injected from a microelectrode or is delivered from a synapse
+via the dendritic tree. All that is relevant is that a particular current 7 can be associated
+to a particular output spiking frequency along the /-/ 
+curve. We incorporate the spike
+frequency adaptation into our consideration by directly making use of the fully adapted
+/-/ curve.
+Knowing the relationships between the steady-state input frequency (/¡n) and the somatic
+current 7syn>J (as in Eq. 18.18) on the one hand, and the adapted /-/ 
+curve on the other
+allows us to derive an unique function relating (/¡n) to /out,
+(18.20)
+(see Fig. 18.9).
+Bernander Douglas, and Koch (1994) use this procedure to derive the input-output
+relationship for the layer 5 pyramidal cell. /synjS is estimated on the basis of two different
+Fig. 18.9 COMPLETE MEASURE OF SYNAPTIC EFFICIENCY Schematic illustrating the procedure
+linking the time-averaged presynaptic input frequency (/¡n) to the adapted output frequency /out
+of the cell via Eq. 18.20. It requires knowledge of the relationship between the presynaptic firing
+frequency (/¡n) and the current flowing from the synapse into the soma /syilií (lower right) and the
+discharge curve /-/ (lower left; here a linear function, although this is not necessary). The former
+function accounts for properties of the synapses and the dendritic tree, the latter for the somatic
+spike-generating properties. The resulting function /Out((/m)) accounts for the synaptic conductance
+input, synaptic saturation, and active, voltage-dependent membrane conductances. The intermediate
+variable is current, and not—as in the standard cable equation—voltage. Reprinted by permission
+from Bernander (1993).
+
+
+===== Page 20 =====
+18.4 Relating Synaptic Input to Output Spiking 
+· 421
+methods. Knowledge of /syn,s requires that the somatic membrane potential Vm (t) be known.
+In the derivation of Eq. 18.18 it was assumed that V(0) was clamped to 0. When the cell
+spikes, this is patently wrong. Since the considerations of this section are predicated on
+using a time-averaged input frequency, why not use the time-averaged membrane potential
+(Vm) of Eq. 17.12? As we discussed in Sec. 17.5.2, this quantity changes only little for
+large swings in spiking activity. Indeed, the cumulative action of the voltage-dependent
+somatic currents is to clamp, albeit imperfectly, (Vm) to around —50 mV, corresponding
+to moderate values of /out in the 50-Hz range. Bernander and colleagues (1994) compute
+the clamp current required to hold the somatic potential to —50 mV for a fixed synaptic
+input and subtract the clamp current needed to hold VSoma to —50 mV in the absence of
+any synaptic input. This method was also used experimentally to measure /syn,s in response
+to a constant synaptic input in a motoneurons (Powers, lobinsón, and Konodi, 1992). In
+the second method, /syn,i is computed directly (without voltage clamping the soma) as the
+current flowing between the first segment of the apical tree and the soma. Both methods
+give identical results.
+As can be seen in Fig. 18.10B and C, when 500 excitatory non-NMDA synapses are
+either placed directly onto the cell body or spread throughout the basal dendrites (almost
+exclusively restricted to layer 5), /syn-i is linear in (/¡n) over the range of interest. Saturation
+only becomes evident as the same 500 synapses are moved to layer 4 or to the more distal
+parts of the apical tree in superficial layers. When all inputs are confined to the superficial
+layers 1, 2, and 3, 7syn>i is at most 0.65 nA. The saturation effect is even more extreme
+when synaptic input is restricted to the top two layers 1 and 2. Even if all 500 synapses are
+activated at an unphysiological 500 Hz, at most 0.25 nA of current reaches the soma (and
+this across an apical dendrite that has an unusually thick trunk of about 4.4 μ,ηι). This strong
+saturation is due to the fact that the distal input is associated with high input impedances,
+driving the local potential quickly to the synaptic reversal potential. No amount of further
+synaptic input can increase the synaptic current. Saturation would not occur if synaptic
+input were treated as a pure current. As in the case of the single cable, the minuscule current
+contributed from distal sites is not due to leakage through the membrane as the current
+spreads to the soma. Indeed, eliminating leakage by setting Rm —>· σο causes the maximal
+current to increase by only 2% above base level.
+In the last panel in Fig. 18.10, these somatic currents are translated on the basis of the
+adapted discharge curve (Fig. 18.10A) into an output firing rate. Because of the current
+threshold, synaptic input that delivers less than /th — 0.29 nA current to the soma will be
+cut off. For instance, by itself, input to layers 1 and 2 will not lead to any maintained spike
+discharge, no matter how big the synapses and how vigorous their presynaptic activity,
+while the addition of synapses to layer 3 leads to a very weak discharge. And yet, these
+dendrites make up 26% of the surface area of the tree. Above threshold, the adapted /-/
+curve is reasonably linear (Eq. 17.10), with a slope of 50 spikes per second per nanoampere
+of current, leading to linear input-output relationships for synaptic input to the soma or the
+basal dendrites (contributing 62% of the total membrane area of the neuron). As a sanity
+check, Bernander and colleagues explicitly computed the adapted firing rate as a function
+of the input and superimposed this onto Fig. 18.10D, with little difference.
+18.4.3 Functional Considerations
+The standard measures of the synaptic efficiency of cable theory are voltage or charge
+attenuation (see Chap. 3). The advantage of using the total current /syn,s flowing from one
+or more synapses into the soma (Powers, Tobinson, and Konodi, 1992; Bernander, Douglas,
+
+
+===== Page 21 =====
+422 
+. 
+SYNAPTIC INPUT TO A PASSIVE TREE
+Fig. 18.10 RELATING SYNAPTIC INPUT TO THE FIRING FREQUENCY Characterizing the input-
+output behavior of the layer 5 pyramidal cell using the procedure illustrated in Fig. 18.9. (A) For
+ease of comparison, its adapted /-/ 
+discharge curve. (B), and (C) The input, 500 excitatory non-
+NMDA synapses, is placed onto the soma or the portion of the dendrites running through a specific
+cortical layer. The postsynaptic conductance increase is related linearly to the presynaptic firing rate
+(/in). These synapses cause the current /Syn,s to flow into the soma. The different curves correspond
+to synaptic placement (from top to bottom) onto the soma, layer 5, layer 4, layers 1 to 3, layers 1
+and 2, and layer 1 only. Similar to Eq. 18.18, dendritic saturation causes the distal input to saturate.
+(D) /Syn,i((/in» is passed through the cell's discharge curve to predict the relationship between (/¡n>
+and /out (dashed curves). Computing this function by direct simulation (solid curves) leads to very sim-
+ilar results. Because 7SyniJ for synaptic input from layers 1 and 2 is less than /a, (about 0.295 nA), these
+synapses—assuming a passive dendritic membrane—cannot contribute by themselves to the main-
+tained discharge. Experimentally, it is known that synaptic input to the apical tuft can trigger spikes in
+the cell body far away (Cauller and Connors, 1992, 1994). This argues for the existence of dendritic
+voltage-dependent currents that counteract saturation and amplify /syn,s (see the following chapter).
+and Koch, 1994) is that this measure includes the effects of synaptic nonlinearities and
+interactions among different inputs. Furthermore, as we will show in the following chapter,
+4yn,s can also be derived in the presence of voltage-dependent dendritic conductances,
+when all other measures break down. If two synaptic sites are well separated such that the
+voltage in one does not readily influence the voltage at the other location (for instance, input
+
+
+===== Page 22 =====
+18.5 Shunting Inhibition Acts Linearly 
+· 423
+into the basal dendrites coupled with input to the apical tuft), the total current at the soma
+will be the sum of the individual /syn,i components.
+Computing the current flowing into the soma is relatively straightforward as long as Vsoma
+is fixed (see the derivation of Eq. 18.18). However, this is not the case if /synjS is above /th,
+leading to spike generation. Under these conditions, Vsoma(i) moves on a stable limit cycle,
+making it difficult to characterize synaptic input using a single voltage measure, such as the
+peak somatic EPSP. Yet the method advocated here works despite these complexities (as
+witnessed by the close match in Fig. 18.10D between the predicted input-output curves and
+the actual ones) by making use of the time-averaged somatic potential {Vm} (Eq. 17.12). Its
+key assumption is that the system is in equilibrium, that is, the input can be characterized
+by an averaged input rate and the postsynaptic firing rate has adapted (typically within
+100 msec). In a more sophisticated model, adaptation could be incorporated by making the
+/-/ curve time dependent. Likewise, short-term synaptic facilitation and depression could
+also be dealt with.
+As applied to the pyramidal cell, the main conclusion is that in the absence of voltage-
+dependent dendritic conductances distal synaptic input by itself can only deliver a very
+limited amount of current to the soma. In conjunction with other synaptic input, such as
+to the basal dendrites, distal input could increase the maintained rate by about 12 spikes
+per second.
+In the neocortex, much of the synaptic input into layer 1 originates in higher cortical
+processing stages (Friedman, 1983; Rockland, 1994; Salin and Bullier, 1995). In the
+absence of amplifying dendritic conductances, cortico-cortical feedback could only weakly
+modulate the firing of the pyramidal cell. Yet Cauller and Connors (1992, 1994) have
+provided experimental evidence that synaptic input onto the layer 1 portion of layer 5
+pyramidal cells in the somatosensory cortex can evoke action potentials. This, together with
+the evidence reviewed in the following chapter, argues that voltage-dependent conductances
+in the dendritic tree serve to amplify distal inputs.
+18.5 Shunting Inhibition Acts Linearly
+Inhibitory synaptic input with a reversal potential close or equal to the local resting
+potential, shunting inhibition, first mentioned toward the end of Chap. 1 and treated in
+considerable detail in Sec. 5.1.4, acts nonlinearly, akin to a division (Blomfield, 1974). This
+type of nonlinear operation has been proposed to be the crucial biophysical mechanism
+underlying retinal direction selectivity (Torre and Poggio, 1978; Koch, Poggio, and Torre,
+1982). More recently, both Carandini and Heeger (1994) and Nelson (1994) have made
+shunting inhibition, activated by a recurrent feedback loop, the centerpiece of a gain
+normalization circuit in the visual cortex (Fig. 1.11) and in electric fish. However, none
+of these studies considered the effect that the spiking mechanism has on the divisive
+action of shunting inhibition. When this is done, a surprising conclusion emerges (Holt
+and Koch, 1997).
+For the sake of clarity, let us first consider shunting inhibition to the leaky integrate-
+and-fire model of Eq. 14.7. Using our standard synaptic averaging technique, shunting
+inhibition can be mimicked by decreasing the leak resistance appropriately, with the new
+value given by
+(18.21)
+
+
+===== Page 23 =====
+424
+SYNAPTIC INPUT TO A PASSIVE TREE
+where R is the value of the resistance in the absence of any input. The result can be inspected
+in Fig. 18.11A. Increasing g¡ shifts the curve toward the right, with the slopes remaining
+constant, contrary to what one would expect based on models that only treat the subthreshold
+domain (as in Fig. 1.10 and throughout Chap. 5). Adding a refractory period and adaptation
+does not change this conclusion. The same is also true if one considers the much more
+realistic scenario of GABA^ inhibitory receptors, with a reversal potential of —70 mV,
+which are distributed at and around the soma. As in the previous section, the total amount
+of inhibition is postulated to be proportional to the presynaptic firing frequency (Eq. 18.5).
+Holt and Koch (1997) compute the average /out-/in curve by varying the input frequency of
+the excitatory voltage-independent synaptic input distributed throughout the tree. Changing
+the amount of inhibition leads to a clear shift in the curves with little effect on the slopes
+(Fig. 18.11B).
+Fig. 18.11 SHUNTING INHIBITION AND SPIKING 
+Shunting inhibition has a subtractive rather than a
+divisive effect on firing rates. This is demonstrated in two different single-cell models. (A) Discharge
+curves for a leaky integrate-and-fire unit with different values for the leak conductance gieak — gt+1/R
+(for R = 62.5ΜΩ). g¡ is the amplitude of the inhibitory conductance change whose reversal potential
+is equal to the unit's resting potential (here zero). Varying gieak in steps of 10 nS from 10 to 70 nS
+(from left to right) shifts the curve, rather than changing the slope of the discharge curve. (B) The
+same observation is made in the pyramidal cell model, with GABAA inhibition around the soma and
+excitatory voltage-independent input distributed throughout the cell. The fully adapted postsynaptic
+firing rate is plotted as a function of the average input frequency to the excitatory synapses for four
+different settings of presynaptic firing rates to the GAB A/t synapses (0.5,2,4, and 6 Hz, left to right).
+Reprinted by permission from Holt and Koch (1997).
+
+
+===== Page 24 =====
+18.5 Shunting Inhibition Acts Linearly
+425
+This effect is most easily understood in the integrate-and-fire model. In the absence of
+any spiking threshold, the membrane potential in response to a synaptic input current of the
+shunting type
+rises until
+(18.22)
+(18.23)
+(Fig. 18.12). Under these conditions, the steady-state leak current is proportional to the input
+current and the divisive effect is observed (Eq. 1.35). However, in the integrator model, V
+never rises above the spiking threshold Vth. No matter how large the input current, the leak
+current can never be larger than Vthgieak· The effect of the leak conductance can be replaced
+by a current whose amplitude is equal to the time-average value of the current through the
+leak conductance: {/ieak} = gleak (V) · This trick reduces the leaky integrate-and-fire unit to
+a perfect integrator. The cell will still fire at exactly the same rate because the same charge
+/(Λχη — I\eak)dt is deposited on the capacitor in the same time interval, although for the
+leaky integrator the deposition rate is not constant.
+Fig. 18.12 WHY SHUNTING INHIBITION HAS A SUBTRACTIVE EFFECT 
+(A) Time-dependent
+current across the leak conductance /ieak (in nA and equal to V(f)gieak) in response to a constant
+0.5-nA current injected into a leaky integrate-and-fire unit with (solid line) and without (dashed line)
+a voltage threshold V^,. The sharp drop in /i^ occurs when the cell fires, since the voltage is reset.
+(B) Same for 1-nA current. Note that /ieak in the presence of a voltage threshold has a maximum
+value well below /ieak in the absence of a voltage threshold. (C) Time-averaged leak current (/ieak) (in
+nanoamperes) as a function of input current, computed from Eqs. 18.24 and 18.25. Below threshold,
+the spikeless model and the integrate-and-fire model have the same (/ieak), but above threshold (/ieak)
+is reduced considerably. For /syn just greater than threshold, the cell spends most of its time with
+V K Vth, so (/leak) is high. For high 7syn, the voltage increases approximately linearly with time and
+V has a sawtooth waveform, as shown in B. This means that (/ieak) = (max /ieak)/2 = Vth£ieak/2.
+Reprinted by permission from Holt and Koch (1997).
+
+
+===== Page 25 =====
+426 · SYNAPTIC INPUT TO A PASSIVE TREE
+For a constant input that is just above threshold, {V} will be close to Vth and (/ieak) will
+be large. For larger synaptic input currents, the time-averaged membrane potential becomes
+smaller and smaller (since V has to charge up from the reset point) and, therefore, the time-
+averaged leak current decreases for increasing inputs (compare Fig. 18.12A and B). It can
+be shown that
+(18.24)
+if 7syn < Vthgieak- Otherwise
+(18.25)
+For even quite moderate levels of 7syn just above V^gieak» the lower expression is approxi-
+mately equal to gieak Vth/2, independent of 7syn (Fig. 18.12C), and the leak conductance can
+be replaced—to a good first approximation—by a constant offset current. The discharge
+curve for the resulting perfect integrate-and-fire neuron is
+(18.26)
+The same mechanism explains the result for the compartmental models. Here, the voltage
+does rise above the firing threshold but because the spike repolarization currents are large,
+any current from synapses flowing into the soma is ignored during the brief spike. The
+time-averaged somatic membrane potential (Fig. 17.10B) always remains close to Vih-
+Two caveats. These results hold because inhibition is at or very close to the soma. For
+more distal inhibition, as for instance in retinal ganglion cells, the local potential at the
+inhibitory synapse it not limited by Vth and shunting inhibition will work in a more divisive
+mode. Yet for such distal sites, its effect on the spike triggering zone far away will be
+small. The results discussed here assume that the synaptic input changes slowly. It is at
+present unclear what the effect of very high, but transient input frequencies to the inhibitory
+synapses will be.
+18.6 Recapitulation
+The past few pages treated synaptic input arriving at the passive dendritic tree of a spiking
+cell. Only the cell body is assumed to contain voltage-dependent membrane conductances.
+We first discussed unitary EPSPs and EPSCs, concluding that the former can be used to
+predict quite well the voltage threshold Vth of the cell. We then investigated the exact
+relationship between the temporal jitter in a normally distributed set of synapses σ·1Ώ and
+the jitter in the output spike aout. Surprisingly, we discovered that aout α σίη, with the
+constant of proportionality being much less than unity. Once again (e.g., Chap. 14) for
+strong synaptic input (that is, in the above threshold domain), the passive membrane time
+constant plays only a minor role in determining the temporal behavior of the cell. This has
+important implications, in particular for the faithful conservation of timing relationships
+across many layers of neurons (Abeles, 1990; Marsalek, Koch, and Maunsell, 1997).
+For the remainder of the chapter we assume that synaptic input is not correlated at a fine
+time scale and that, indeed, we can define an average input frequency {/}. This allows us
+to treat massive synaptic input in three separate cases.
+
+
+===== Page 26 =====
+18.6 Recapitulation · 427
+Neurons receive between 103 and 105 synapses onto tneir dendritic tree from other
+neurons that fire spontaneously between 1 to 10 or more spikes per second in the behaving
+animal. This massive synaptic background activity has several effects on the spatio-temporal
+behavior of the cell. As this background firing rate goes up, the electrotonic dimensions
+of the cell increase (that is, distal synaptic input becomes more decoupled) and the input
+resistance and time constant decrease by one or more orders of magnitude. This implies,
+among other things, that the cell becomes more sensitive to temporal coincidences as the
+overall network activity increases. Given the rapid changes in firing activity in large parts
+of the brain, as assessed by EEG and other macroscopic techniques recording large-scale
+brain activity, this implies that the collective behavior of the network can directly influence
+the spatio-temporal integrative properties of individual neurons.
+We also described a method that characterizes the efficiency of massive synaptic input,
+involving the current 7synjJ that is delivered by synaptic input to the soma. Deriving 7syn)i
+for synaptic input to a particular spatial region in the tree firing at a frequency {/;„) has the
+major advantage that the resultant function can be combined with the /-/ 
+curve measured
+at the soma to yield a complete relationship between the sustained presynaptic input firing
+frequency {/¡η) and the adapted output firing rate /out.
+When this method is applied to study synaptic input into the distal part of the apical tree of
+a pyramidal cell, it is seen that the current from these sites (1) saturates already at very small
+presynaptic firing rates and (2) influences the maintained firing rate only marginally. This
+saturation is only to a very minor extent caused by current leaking across the membrane
+between the synaptic site and the soma. As we will see in the next chapter, introducing
+voltage-dependent currents into the dendrite can both prevent saturation and amplify these
+small currents, effectively turning the apical tree into a better "wire."
+Finally, we reexamined the effect of shunting inhibition. While it acts in a divisive manner
+in subthreshold cable models, it behaves in a linear, subtractive manner when spiking is
+accounted for. This is due to the fact that the average somatic membrane potential does
+not exceed the voltage threshold, limiting the maximal inhibitory current. Thus, at least for
+models where inhibition acts in a maintained manner at or close to the cell body, shunting
+inhibition does not implement a divisive normalization operation as postulated by many.
+However, at the next level of organization, the small recurrently connected network,
+linear inhibition can act again in a divisive manner (Douglas et al., 1995). We conclude
+with the observation that a biophysical mechanism that implements one type of operation
+in the subthreshold domain might implement a quite different one in the suprathreshold
+domain. The morale is that it is dangerous in neurobiology to study any one mechanism
+at only a single, isolated level of complexity. Phenomena at multiple levels, such as ionic
+channel, synapse, dendrite, neuron, small network, and so on, interact in highly nonlinear
+and nonintuitive ways. This is, of course, a characteristic of any evolved systems and makes
+them so interesting.
+
+
+===== Page 27 =====
+VOLTAGE-DEPENDENT EVENTS
+IN THE DENDRITIC TREE
+So far, we worked under the convenient fiction that active, voltage-dependent membrane
+conductances are confined to the spike initiation zone at or close to the cell body and that the
+dendritic tree is essentially passive. Under the influence of one-dimensional passive cable
+theory, as refined by Rail and his school (Chaps. 2 and 3), the passive model of dendritic
+integration of synaptic inputs has become dominant and is taught in all the textbooks.
+Paradoxically, from the earliest days of intracellular recordings from the fat dendrites of
+spinal cord motoneurons with the aid of glass microelectrodes, active dendritic responses
+had been witnessed (Brock, Coombs, and Eccles, 1952; Eccles, Libet, and Young, 1958).
+Today, there exists overwhelming evidence for a host of voltage-dependent sodium and
+calcium-conductances in the dendritic tree. In the following section we summarize the
+experimental evidence and discuss current biophysical modeling efforts focusing on the
+question of the existence and genesis of fast all-or-none electrical events in the dendrites.
+We then turn toward possible functional roles of active dendritic processing.
+One word of advice. It has been argued that linear cable theory as applied to dendrites
+and taught in the first chapters of this book is irrelevant in the face of all this evidence for
+active processing and can be relegated to the dustbin. However, this would be a mistake.
+Under many physiological conditions these nonlinearities will not be relevant. Even if they
+are, the resistive and capacitive cable properties of the dendrites profoundly influence the
+initiation and propagation of dendritic action potentials and other active phenomena. Thus,
+for a complete understanding of the events in active dendritic trees we need to be thoroughly
+versed in cable theory.
+19.1 Experimental Evidence for Voltage-Dependent
+Dendritic Membrane Conductances
+The issue of dendritic all-or-none electrical events must be seen as separate from the
+broader question of the existence and nature of active, that is, voltage-dependent, membrane
+conductances in the dendritic tree.
+428
+19
+
+

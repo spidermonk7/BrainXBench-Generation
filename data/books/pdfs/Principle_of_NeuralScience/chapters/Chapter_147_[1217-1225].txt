@@ -1,0 +1,827 @@
+===== Page 1 =====
+1172    Part VII / Development and the Emergence of Behavior
+Figure 47–12  The axons of retinal ganglion cells grow to 
+the optic tectum in discrete steps.  Two neurons that carry 
+information from the nasal half of the retina are shown. The 
+axon of one crosses the optic chiasm to reach the contralateral 
+optic tectum. The axon of the other also crosses the optic chi-
+asm but projects to the lateral geniculate nucleus. The numbers 
+indicate important landmarks on the axon’s journey. The grow-
+ing axon is directed toward the optic nerve head (the junction 
+of the nerve with the retina) (1), enters into the optic nerve 
+(2), extends through the optic nerve (3), swerves to remain 
+ipsilateral (not shown) or crosses to the contralateral side at the 
+optic chiasm (4), extends through the optic tract (5), enters into 
+the optic tectum or lateral geniculate nucleus (not shown) (6), 
+navigates to an appropriate rostrocaudal and dorsoventral position 
+on the tectum (7), turns to enter the neuropil (descends in chicks 
+as shown here; ascends in mammals) (8), stops at an appropriate 
+layer where a rudimentary terminal arbor is formed (9), and finally 
+is remodeled (10). (Abbreviations: A, anterior; P, posterior).
+A
+P
+1
+2
+3
+Optic chiasm
+6
+7
+4
+5
+Optic 
+nerve
+Optic 
+tract
+Lateral
+geniculate
+nucleus
+Optic tectum
+(superior colliculus)
+8
+9
+10
+2
+3
+4
+5
+6
+7
+8
+16
+colliculus, and small numbers project to the pulvinar, 
+superchiasmatic nucleus, and pretectal nuclei. Within 
+these targets, different retinal axons project to differ-
+ent regions. As Sperry showed, the retinal axons form 
+a precise retinotopic map on the tectal surface. Similar 
+maps form in other areas innervated by retinal axons 
+such as the lateral geniculate nucleus.
+Having reached an appropriate position within 
+the tectum, retinal axons need to find an appropriate 
+synaptic partner. To achieve this last leg of their jour-
+ney, retinal axons turn and dive into the tectal neuropil 
+(Figure 47–12), descending (or, in mammals, ascend-
+ing) along the surface of radial glial cells, which pro-
+vide a scaffold for radial axonal growth. Although 
+radial glial cells span the entire extent of the neu-
+roepithelium, each retinal axon confines its synaptic 
+terminals to a single layer. The dendrites of many post-
+synaptic cells extend through multiple layers and form 
+synapses along their entire length, but retinal inputs 
+are restricted to a small fraction of the target neuron’s 
+dendritic tree. These organizational features imply that 
+layer-specific cues arrest axonal elongation and trigger 
+arborization.
+The problem of long-distance axon navigation is 
+therefore solved by dividing the journey into short 
+segments in which intermediate targets guide the 
+axons along the path to their final targets. Some inter-
+mediate targets, such as the optic chiasm, are “decision” 
+regions where axons diverge.
+Reliance on intermediate targets is an effective 
+solution to the problem of long-distance axonal navi-
+gation but is not the only one. In some cases, the first 
+axons reach their targets when the embryo is small and 
+the distance to be covered is short. These “pioneer” 
+axons respond to molecular cues embedded in cells 
+or the extracellular matrix along their way. The first 
+axons to exit the retina fall within this class. Axons that 
+appear later, when distances are longer and obstacles 
+more numerous, can reach their targets by following 
+the pioneers. Yet another guidance mechanism is a 
+molecular gradient. Indeed, as we will see, gradients 
+of cell-surface molecules in the tectum inform axons 
+about their proper termination zone.
+Gradients of Ephrins Provide Inhibitory  
+Signals in the Brain
+So far, we have seen how retinal axons reach the tectum 
+by responding to a series of discrete directional cues. 
+However, these choices during growth do not account 
+
+
+===== Page 2 =====
+Chapter 47 / The Growth and Guidance of Axons    1173
+Figure 47–13  Axons of retinal ganglion neurons diverge as 
+they reach the optic chiasm.
+A. A time lapse series shows axons approaching the midline. 
+Axons that arise from the nasal hemiretina cross the optic chi-
+asm and project to the contralateral tectum (left). In contrast, 
+axons from the temporal hemiretina reach the chiasm but fail 
+to cross and thus project toward the ipsilateral tectum (right). 
+(Reproduced, with permission, from Godement, Wang, and 
+Mason 1994.)
+B. The axons of neurons from the temporal hemiretina, which 
+express the tyrosine kinase receptor EphB1, encounter ephrin-
+B2 expressed by midline radial glial cells at the optic chiasm 
+and so are prevented from crossing the midline. The axons of 
+nasal hemiretina neurons, which lack EphB1 receptors, are 
+unaffected by the presence of ephrin-B2 and cross to the  
+contralateral side. (Abbreviations: A, anterior; P, posterior.)
+C. Higher-power view illustrating the trajectories of retinal  
+ganglion cell axons at the chiasm.
+0
+0
+27
+12
+98
+134
+191
+209 m
+B  
+A  
+EphB1
+expression
+A
+P
+Radial glia 
+express
+ephrin-B2
+No  EphB1
+expression
+63
+114
+147 m
+Midline
+Midline
+Ephrin-B2
+EphB1
+Contralateral projection
+Ipsilateral projection
+C  
+Radial glial cells
+for the smoothly graded connections implied by Sper-
+ry’s analysis of the retinotopic map in the tectum. The 
+quest for the hypothetical “map molecules” became a 
+major focus for developmental neurobiologists, and so 
+we describe it in some detail.
+A key breakthrough in the quest for these mole-
+cules came with the development of bioassays in which 
+explants from defined portions of the retina were laid 
+on substrates of tectal membrane fragments. The mem-
+brane fragments were taken from defined anteroposte-
+rior portions of the tectum and arranged in alternating 
+stripes. Axons from the temporal (posterior) hemiretina 
+were found to grow preferentially on membranes from 
+anterior tectum, a preference similar to that exhibited 
+in vivo (Figure 47–14). This preference was found to 
+result from the presence of inhibitory factors in poste-
+rior membranes rather than from attractive or adhesive 
+substances in anterior membranes. This observation 
+was one of the first to demonstrate the role of inhibitory 
+or repellent substances in axon guidance.
+This stripe assay permitted the characterization 
+of an inhibitory cue, present in membranes from the 
+posterior but not the anterior tectum. Independently, 
+molecular biologists identified a family of receptor 
+tyrosine kinases, the Eph kinases, and a large family of 
+membrane-associated ligands, the ephrins. Both recep-
+tors and ligands are divided into A and B subfamilies. 
+The ephrin-A proteins bind and activate EphA kinases; 
+conversely, ephrin-B proteins bind and activate EphB 
+kinases (Figure 47–11C).
+The two lines of research converged when the tec-
+tal inhibitory cue was identified as ephrin-A5. We now 
+know that the Eph kinases and ephrins serve many 
+functions in neural and nonneural tissues and that 
+each class of proteins can serve as ligands or recep-
+tors, depending on cellular context. In the developing 
+
+
+===== Page 3 =====
+1174    Part VII / Development and the Emergence of Behavior
+Figure 47–14  Repellent signals 
+guide developing retinal axons in 
+vitro.
+A. Retinal ganglion axons from the 
+posterior (temporal) hemiretina 
+project into the anterior developing 
+tectum. Conversely, axons from the 
+anterior (nasal) hemiretina project into 
+the posterior tectum.
+B. Fragments of membrane were 
+taken from specified anteroposterior 
+portions of the tectum and arranged 
+in alternating strips. Axons from 
+explants of posterior retina grow 
+selectively on the fragments from 
+anterior tectum. The preferential 
+growth of axons on anterior mem-
+brane results from an inhibitory cue in 
+the posterior membrane. In contrast, 
+axons from anterior retina grow on 
+both anterior and posterior tectal 
+membrane fragments. (Abbreviations: 
+A, anterior; P, posterior.) (Adapted, 
+with permission, from Walter,  
+Henke-Fahle, and Bonhoeffer 1987.)
+Retina
+Tectum
+A
+P
+A
+P
+Tectal 
+membrane
+Retinal
+tissue
+A
+B
+Anterior
+Posterior
+A
+P
+A
+P
+A
+P
+A
+P
+A
+P
+A
+P
+A
+P
+A
+P
+nervous system, these proteins comprise a major group 
+of repellent signals.
+Ephrin–Eph interactions account in large part for 
+formation of the retinotopic map in the tectum. Levels 
+of ephrin-A2 and ephrin-A5 in the tectum as well as  
+levels of the Eph receptors in the retina are graded along 
+the anteroposterior axis. These gradients run in the 
+same direction.  Ephrin-A concentrations run from pos-
+terior-high to anterior-low in tectum, while Eph A con-
+centrations run from posterior-high to anterior-low in 
+retina (Figure 47–15A). Such counter-gradients account, 
+at least in part, for topographic mapping. Axons from 
+posterior retinal ganglion cells with high levels of EphA 
+receptors are repelled most strongly by the high level of 
+ephrin-A in the posterior tectum and thus are confined 
+to the anterior tectum. The less sensitive axons from the 
+anterior retina are able to penetrate further into the pos-
+terior domain of the tectum. Ephrin-A2 and ephrin-A5 
+are therefore strong candidates for chemospecificity fac-
+tors of the type postulated by Sperry.
+The crucial role of the interaction of ephrins and 
+Eph kinases in the formation of retinotopic maps has 
+been confirmed in vivo. Overexpression of ephrin-A2 
+in the developing optic tectum of chick embryos gen-
+erates small patches of cells in the rostral tectum that 
+are abnormally rich in ephrin-A2. Temporal retinal 
+axons, which normally avoid the ephrin-rich caudal 
+tectum, also avoid these patches in the rostral tectum, 
+and they terminate in abnormal positions. In contrast, 
+nasal retinal axons, which normally grow toward the 
+
+
+===== Page 4 =====
+Chapter 47 / The Growth and Guidance of Axons    1175
+Figure 47–15  The formation of retinotopic maps in vivo 
+depends on ephrin-Eph kinase signaling.
+A. In the retina, EphA receptors are expressed in an  
+anteroposterior (A-P) gradient, and ephrin-B is expressed in a 
+dorsoventral (D-V) gradient. In the tectum, ephrin-A receptors 
+are distributed in an anteroposterior gradient and EphB in a  
+dorsoventral gradient.
+B. Expression of EphA in retinal axons that derive from neu-
+rons in the posterior (temporal) retina directs axon growth to 
+the anterior tectum through avoidance of ephrin-A proteins. In 
+EphA mutant mice, posterior retinal axons are able to project to 
+a more posterior domain within the tectum.
+C. EphB signaling directs the projection of dorsal retinal axons 
+to the ventral tectum. Blocking ephrin-B signaling with soluble 
+EphB protein causes dorsal axons to project to an abnormally 
+dorsal domain within the tectum.
+A
+B  Repulsion: forward signaling
+Ephrin-As
+EphA
+EphA
+Ephrin-A
+Left optic 
+tectum
+Wild type
+EphA mutant
+Ephrin-B signaling blocked
+A
+A
+P
+P
+A
+A
+P
+P
+C  Attraction: reverse signaling
+Ephrin-B
+Ephrin-B
+EphB
+EphB
+Wild type
+V
+V
+D
+D
+Right 
+eye
+D
+V
+A
+P
+D
+V
+A
+P
+D
+V
+A
+P
+D
+V
+D
+V
+caudal tectum, are not perturbed by encounters with 
+excess ephrin-A.
+Conversely, in mice with targeted mutations in 
+the relevant ephA or ephrin-A genes, some posterior 
+retinal axons terminate in inappropriately posterior 
+tectal regions (Figure 47–15B). Anterior retinal axons, 
+which naturally express low levels of EphA proteins, 
+project normally in these mutants. In mice lacking 
+both ephrin-A proteins, these deficits are more severe 
+than with either single mutant. Thus, the interaction of 
+ephrin-A with EphA receptors is crucial for the target-
+ing of retinal axons in the tectum. These ephrin/EphA 
+pairs possess the properties of the recognition mol-
+ecules that Sperry predicted were necessary to direct 
+
+
+===== Page 5 =====
+1176    Part VII / Development and the Emergence of Behavior
+topographic mapping along the anteroposterior axis of 
+the tectum.
+Of course, the retinal map also has a dorsoventral 
+axis. Ephrin/EphB pairs are involved in establishing 
+order along this axis. Just as ephrin-A and EphA are 
+graded along the anteroposterior axis, ephrin-B and 
+EphB are graded along the dorsoventral axis, and 
+manipulation of ephrin-B and EphB levels affects dor-
+soventral mapping (Figure 47–15C). Thus, at a simple 
+level, the retinotopic map is arranged in rectangular 
+coordinates with ephrin-A/EphA and ephrin-B/EphB 
+labeling the anteroposterior and dorsoventral axes, 
+respectively.
+Although this simple view is satisfying, the real-
+ity is more complex. First, EphB kinases are expressed 
+in the tectum as well as in the retina, and ephrins-A 
+are expressed in the retina as well as in the tectum. 
+Thus, so-called “cis” interactions (Eph and ephrin on 
+the same cell) as well as “trans” interactions (Eph on 
+growth cone, ephrin on target cell) may be involved. 
+Second, both ligands and receptors are present at mul-
+tiple points along the optic pathway and play multiple 
+roles. As we have seen, ephrin-B/EphB interactions 
+affect not only dorsoventral mapping but also the 
+decision of an axon to cross to the contralateral side 
+at the optic chiasm. Finally, in developing visual cir-
+cuits, more precise spatial mapping of retinal inputs is 
+regulated by patterns of neural activity, as discussed in 
+the next two chapters. Nonetheless, we now have the 
+outline of a molecular strategy for the initial formation 
+of topographic projections from the eye to the brain.
+Axons From Some Spinal Neurons Are  
+Guided Across the Midline
+One of the fundamental features of the central nervous 
+system is the need to coordinate activity on both sides 
+of the body. To accomplish this task, certain axons need 
+to project to the opposite side.
+We have seen one example of axonal crossing in the 
+optic chiasm. Another example that has been studied in 
+detail is the axonal crossing of commissural neurons that 
+convey sensory information from the spinal cord to the 
+brain at the ventral midline of the spinal cord across 
+the floor plate. After crossing, axons turn abruptly 
+and grow up toward the brain. This simple trajectory 
+raises several questions. How do these axons reach the 
+ventral midline? How do they cross the midline, and 
+after crossing, how do they ignore cues that axons on 
+the other side are using to get to the midline? In other 
+words, why do they turn toward the brain instead of 
+crossing back?
+Netrins Direct Developing Commissural Axons 
+Across the Midline
+Many of the neurons that send axons across the ven-
+tral midline are generated in the dorsal half of the 
+spinal cord. The first task for these axons is to reach 
+the ventral midline. Ramón y Cajal considered the 
+possibility that chemotactic factors emitted by tar-
+gets could attract axons, but this idea lay dormant 
+for nearly a century. We now know that such factors 
+do exist, and one of them, the protein netrin-1, is 
+expressed by cells of the floor plate as well as by pro-
+genitors along the ventral midline. When presented 
+in culture, netrin attracts commissural axons; when 
+mice are deprived of netrin-1 function, axons fail 
+to reach the floor plate (Figure 47–16). It may act as 
+both a secreted factor (chemotaxis) and a membrane 
+guidance molecule (haptotaxis) to guide the axons of 
+commissural neurons to the floor plate.
+The netrin protein is structurally related to the pro-
+tein product of unc-6, a gene shown to regulate axon 
+guidance in the nematode Clostridia elegans. Two other 
+C. elegans genes, unc-5 and unc-40, encode receptors 
+for the unc-6 protein. Vertebrate netrin receptors are 
+related to the unc-5 and unc-40 receptors. The unc-
+5H proteins are homologs of unc-5, and DCC (deleted 
+in colorectal cancer) are related to unc-40 (see Figure 
+47–11G). These receptors are members of the immu-
+noglobulin superfamily, and their functions have been 
+remarkably conserved throughout animal evolution 
+(Figure 47–17). This conservation supports the use 
+of simple and genetically accessible invertebrates to 
+unravel developmental complexities. In no area has 
+this approach been more fruitful than in the analysis 
+of axon guidance. Dozens of genes that affect this 
+process were first identified and cloned in Drosophila 
+and C. elegans and then shown to play important and 
+related roles in mammals.
+Chemoattractant and Chemorepellent Factors 
+Pattern the Midline
+Other signaling systems work with netrins to guide 
+commissural axons. One group consists of bone mor-
+phogenetic proteins, which are secreted by the roof 
+plate. They act as repellents, directing commissural 
+axons ventrally as they begin their journey. Additional 
+factors from the floor plate, such as the hedgehog 
+proteins initially involved in patterning the spinal cord 
+(Chapter 45), may collaborate with netrins at a later 
+stage, serving as axonal attractants.
+Once commissural axons reach the midline, they 
+find themselves exposed to the highest available levels 
+
+
+===== Page 6 =====
+Chapter 47 / The Growth and Guidance of Axons    1177
+Figure 47–16  Netrin signaling attracts the 
+axons of spinal commissural neurons to 
+the floor plate. (Micrographs reproduced, 
+with permission, from Marc Tessier-Lavigne.)
+A. Netrin-1 is generated by floor plate cells 
+and ventral neural progenitors. It attracts the 
+axons of commissural neurons to the floor 
+plate (FP) at the ventral midline of the spinal 
+cord.
+B. Most commissural axons fail to reach the 
+floor plate when netrin or deleted in colorec-
+tal cancer (DCC)  proteins are eliminated.
+Floor plate
+Commissural 
+axon
+Netrin-1
+A  Wild type
+B  Netrin or DCC mutants
+FP
+FP
+FP
+FP
+Commissural
+axons
+Commissural
+axons
+Commissural
+axons
+Commissural
+axons
+Netrin-1 mutant
+DCC mutant
+of netrin-1 and sonic hedgehog. Yet this netrin-rich 
+environment does not keep the axons at the midline 
+indefinitely. Instead they cross to the other side of the 
+spinal cord, even while their contralateral counterparts 
+are navigating up the netrin chemoattractant gradient.
+This puzzling behavior is explained by the fact that 
+growth cones change their responsiveness to attractive 
+and repellent signals as a consequence of exposure to 
+floor plate signals. This switch illustrates an impor-
+tant property of intermediate targets involved in axon 
+guidance. Factors presented by intermediate targets 
+not only guide the growth of axons but also change the 
+sensitivity of the growth cone, preparing it for the next 
+leg of its journey.
+
+
+===== Page 7 =====
+1178    Part VII / Development and the Emergence of Behavior
+Worm
+unc-6
+unc-40
+receptor
+unc-40
++
+unc-5
+receptors
+Vertebrate
+Netrin-1
+DCC
+receptor
+DCC
++
+unc-5H
+receptors
+Fly
+Netrin-A
+Frazzled
+receptor
+Figure 47–17  The expression and activity of netrins have 
+been conserved throughout evolution. Netrins are secreted 
+by ventral midline cells in worms, flies, and vertebrates and 
+interact with receptors on cells or axons that migrate or extend 
+along the dorsoventral axis. The netrin receptors unc-40 (worm), 
+frazzled (fly), and deleted in colorectal cancer (DCC) (vertebrate) 
+mediate netrin’s attractant activity, whereas unc-5 class recep-
+tors mediate its repellent activity.
+–––––
+–––––
+A
+B
+C
+Netrin-DCC signaling attracts 
+axons to the ﬂoor plate.
+BMP signaling directs axons 
+ventrally, away from the roof 
+plate.
+Slit interacts with Robo 
+receptors on axons to 
+prevent midline recrossing. 
+BMP
+Wnt
+Netrin
+BMPR
+DCC
+Fz
+Robo
+Slit
+–––
+D
+Axons turn and travel rostrally, 
+guided by Wnts.
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+Figure 47–18  Guidance cues expressed by roof plate and 
+floor plate cells guide commissural axons in the developing 
+spinal cord.
+A. Bone morphogenetic proteins (BMP) secreted by roof plate 
+cells interact with BMP receptors (BMPR) on commissural 
+axons to direct the axons away from the roof plate.
+B. Netrin expressed by floor plate cells attracts deleted in colo-
+rectal cancer (DCC)-expressing commissural axons to the ven-
+tral midline of the spinal cord. Sonic hedgehog has also been 
+implicated in the ventral guidance of commissural axons.
+C. Slit proteins secreted by floor plate cells interact with Robo 
+receptors on commissural axons to prevent these axons from 
+recrossing the midline. Prior to crossing, but not after, com-
+missural axons express robo3 (Rig-1) in addition to robo1 and 
+robo2. The Rig-1 protein inactivates the Robo receptors, pre-
+venting the axons from responding to the repellent effects of 
+Slits as they approach the ventral midline.
+D. After commissural axons cross the midline, Wnt proteins 
+secreted from floor plate cells and distributed in a rostrocaudal 
+gradient interact with frizzled (Fz) proteins on the commissural 
+axons, guiding the axons toward the brain.
+Once axons arrive at the floor plate, they become 
+sensitive to Slit, a chemorepellent signal secreted by 
+floor plate cells (Figure 47–18). Before commissural 
+axons reach the floor plate, the Robo proteins that serve 
+as Slit receptors are kept inactive by expression of a 
+related protein, Rig-1. As axons reach the floor plate, 
+levels of Rig-1 on their surface decline, unleashing Robo 
+activity and causing axons to respond to the repellant 
+actions of Slit. This repellent action propels growth 
+cones down the Slit gradient into the contralateral side 
+
+
+===== Page 8 =====
+Chapter 47 / The Growth and Guidance of Axons    1179
+of the spinal cord. In addition, activated Robo forms a 
+complex with DCC, rendering these Netrin receptors 
+incapable of responding to their ligand. The decreased 
+sensitivity of growth cones to the attractive proper-
+ties of the floor plate helps to account for the transient 
+influence of floor plate signals on axons.
+Finally, once axons have left the floor plate, they 
+turn rostrally toward their eventual synaptic targets 
+in the brain. A rostrocaudal gradient of Wnt proteins 
+expressed by floor plate cells appears to direct axon 
+growth rostrally at the ventral midline (Figure 47–18D). 
+Thus, different cues guide commissural axons during 
+distinct phases of their overall trajectory. This same 
+process is presumably played out for hundreds and 
+even thousands of classes of neurons to establish the 
+mature pattern of brain wiring.
+Highlights
+  1.  As neurons extend processes, one generally 
+becomes an axon and the others become den-
+drites. This process is called polarization. The 
+two types of processes differ in structure and 
+molecular architecture as well as function.
+  2.  Cell types differ markedly in the shape, size, 
+and branching patterns of their dendrites. 
+Type-specific dendritic features arise both from 
+intrinsic differences in transcriptional programs 
+among types and from extrinsic influences on the 
+developing dendrites.
+  3.  Interactions among dendrites are critical for 
+dendritic 
+patterning. 
+Repellent 
+interactions 
+among the dendrites of a single cell, a process 
+called self-avoidance, leads to even coverage of 
+an area, with minimal gaps or clumps. Repel-
+lent actions between dendrites of neighboring 
+cells, a process called tiling, minimizes over-
+lap of dendritic fields. In some cases, dendrites 
+avoid other dendrites from their own neuron 
+but interact with dendrites of nominally identi-
+cal neighboring cells. This process is called self-/
+non–self-discrimination.
+  4.  Growth cones at the tips of axons serve as both 
+sensory and motor elements to guide axons to 
+their destinations. Cytoskeletal elements of the 
+growth cone, including actin and myosin, propel 
+the growth.
+  5.  Receptors on the growth cone recognize and 
+bind ligands in the environment through which 
+the axon is extending, guiding the growth. These 
+interactions lead to generation of their second 
+messengers that mediate growth, turning and 
+stopping of the growth cone, and branching of 
+the axon.
+  6.  Some growth cones contain protein synthetic 
+machinery including messenger RNAs. In these 
+cases, receptors can promote local synthesis of 
+specific proteins that mediate growth or turning.
+  7.  Ligand–receptor pairs include several key fami-
+lies of molecules including cadherins, Slits and 
+their Robo receptors, semaphorins and their 
+plexin receptors, and ephrins and their Eph 
+kinase receptors.
+  8.  The growth of an axon to a distant target is bro-
+ken into discrete shorter steps. At each step, 
+molecules on the surface of or secreted by neigh-
+boring structures guide the axon. They can also 
+lead to alterations in the growth cone’s comple-
+ment of receptors, allowing it to respond to dif-
+ferent sets of cues at the subsequent stage.
+  9.  Roger Sperry proposed a chemospecificity 
+hypothesis to explain the specific growth of axons 
+from different parts of the retina to different parts 
+of the optic tectum (superior colliculus), forming 
+an orderly retinotopic map. The ephrins and their 
+receptors, the Eph kinases, are key molecules that 
+guide map formation. They are graded in expres-
+sion along the retina and tectum and act in large 
+part by repelling axons from incorrect positions 
+rather than attracting them to correct positions.
+10.  Both attractive and repellent molecules guide 
+axons across midline structures, a process called 
+decussation. Evolutionarily conserved signals 
+include Slits, netrins, and Wnts. Mutations in 
+genes that encode these ligands and receptors can 
+result in developmental neurological disorders.
+ Joshua R. Sanes 
+Selected Reading
+Bentley M, Banker G. 2016. The cellular mechanisms that 
+maintain neuronal polarity. Nat Rev Neurosci 17:611–622.
+Cang J, Feldheim DA. 2013. Developmental mechanisms of 
+topographic map formation and alignment. Annu Rev 
+Neurosci 36:51–77.
+Dong X, Shen K, Bülow HE. 2015. Intrinsic and extrinsic 
+mechanisms of dendritic morphogenesis. Annu Rev 
+Physiol 77:271–300.
+Herrera E, Erskine L, Morenilla-Palao C. 2017. Guidance of reti-
+nal axons in mammals. Semin Cell Dev Biol pii: S1084-9521.
+
+
+===== Page 9 =====
+1180    Part VII / Development and the Emergence of Behavior
+Jung H, Gkogkas CG, Sonenberg N, Holt CE. 2014. Remote 
+control of gene function by local translation. Cell 
+157:26–40. 
+Lai Wing Sun K, Correia JP, Kennedy TE. 2011. Netrins: ver-
+satile extracellular cues with diverse functions. Develop-
+ment 138:2153–2169.
+Lefebvre JL, Sanes JR, Kay JN. 2015. Development of dendritic 
+form and function. Annu Rev Cell Dev Biol 31:741–777. 
+Tojima T, Hines JH, Henley JR, Kamiguchi H. 2011. Second 
+messengers and membrane trafficking direct and organ-
+ize growth cone steering. Nat Rev Neurosci 12:191–203.
+Zhang C, Kolodkin AL, Wong RO, James RE. 2017. Establish-
+ing wiring specificity in visual system circuits: from the 
+retina to the brain. Annu Rev Neurosci 40:395–424.
+Zipursky SL, Grueber WB. 2013. The molecular basis of self-
+avoidance. Annu Rev Neurosci 36:547–568.
+References
+Barnes AP, Lilley BN, Pan YA, et al. 2007. LKB1 and SAD 
+kinases define a pathway required for the polarization of 
+cortical neurons. Cell 129:549–563.
+Bridgman PC, Dailey ME. 1989. The organization of myosin 
+and actin in rapid frozen nerve growth cones. J Cell Biol 
+108:95–109.
+Campbell DS, Holt CE. 2001. Chemotropic responses of reti-
+nal growth cones mediated by rapid local protein synthe-
+sis and degradation. Neuron 32:1013–1026.
+Fazeli A, Dickinson SL, Hermiston ML, et al. 1997. Pheno-
+type of mice lacking functional Deleted in colorectal can-
+cer (Dcc) gene. Nature 386:796–804.
+Forscher P, Smith SJ. 1988. Actions of cytochalasins on the 
+organization of actin filaments and microtubules in a neu-
+ronal growth cone. J Cell Biol 107:1505–1516.
+Frisen J, Yates PA, McLaughlin T, Friedman GC, O’Leary DD, 
+Barbacid M. 1998. Ephrin-A5 (AL-1/RAGS) is essential for 
+proper retinal axon guidance and topographic mapping 
+in the mammalian visual system. Neuron 20:235–243.
+Godement P, Wang LC, Mason CA. 1994. Retinal axon diver-
+gence in the optic chiasm: dynamics of growth cone 
+behavior at the midline. J Neurosci 14:7024–7039.
+Grueber WB, Jan LY, Jan YN. 2003. Different levels of the 
+homeodomain protein cut regulate distinct dendrite 
+branching patterns of Drosophila multidendritic neurons. 
+Cell 112:805–818.
+Harrison RG. 1959. The outgrowth of the nerve fiber as a 
+mode of protoplasmic movement. J Exp Zool 142:5–73.
+Heidemann SR. 1996. Cytoplasmic mechanisms of axonal and 
+dendritic growth in neurons. Int Rev Cytol 165:235–296.
+Kaech S, Banker G. 2006. Culturing hippocampal neurons. 
+Nat Protoc 1:2406–2415.
+Kalil K, Dent EW. 2014. Branch management: mechanisms 
+of axon branching in the developing vertebrate CNS. Nat 
+Rev Neurosci 15:7–18.
+Kapfhammer JP, Grunewald BE, Raper JA. 1986. The selec-
+tive inhibition of growth cone extension by specific neur-
+ites in culture. J Neurosci 6:2527–2534.
+Keino-Masu K, Hinck L, Leonardo ED, Chan SS, Culotti 
+JG, Tessier-Lavigne M. 1996. Deleted in colorectal cancer 
+(DCC) encodes a netrin receptor. Cell 87:75–85.
+Kidd T, Brose K, Mitchell KJ, et al. 1998. Roundabout controls 
+axon crossing of the CNS midline and defines a novel sub-
+family of evolutionarily conserved guidance receptors. 
+Cell 92:205–215.
+Kishi M, Pan YA, Crump JG, Sanes JR. 2005. Mammalian 
+SAD kinases are required for neuronal polarization. 
+Science 307:929–932.
+Lefebvre JL, Kostadinov D, Chen WV, Maniatis T, Sanes JR. 
+2012. Protocadherins mediate dendritic self-avoidance in 
+the mammalian nervous system. Nature 488:517–521.
+Letourneau PC. 1979. Cell-substratum adhesion of neurite 
+growth cones, and its role in neurite elongation. Exp Cell 
+Res 124:127–138.
+Leung K-M, van Horck FPG, Lin AC, Allison R, Standart N, 
+Holt CE. 2006. Asymmetrical beta-actin mRNA translation 
+in growth cones mediates attractive turning to netrin-1. 
+Nat Neurosci 9:1247–1256.
+Ming GL, Song HJ, Berninger B, Holt CE, Tessier-Lavigne M, 
+Poo MM. 1997. cAMP-dependent growth cone guidance 
+by netrin-1. Neuron 19:1225–1235.
+Polleux F, Morrow T, Ghosh A. 2000. Semaphorin 3A is a 
+chemoattractant for cortical apical dendrites. Nature 
+404:567–573.
+Serafini T, Colamarino SA, Leonardo ED, et al. 1996. Netrin-1 
+is required for commissural axon guidance in the devel-
+oping vertebrate nervous system. Cell 87:1001–1014.
+Shigeoka T, Jung H, Jung J, et al. 2016. Dynamic axonal translation 
+in developing and mature visual circuits. Cell 166:181–192.
+Sperry RW. 1943. Visuomotor coordination in the newt 
+(Triturus viridescens) after regeneration of the optic nerve.  
+J Compar Neurol 79:33–55.
+Sperry RW. 1945. Restoration of vision after crossing of optic 
+nerves and after contralateral transplantation of eye.  
+J Neurophysiol 8:17–28.
+Thu CA, Chen WV, Rubinstein R, et al. 2014. Single-cell iden-
+tity generated by combinatorial homophilic interactions 
+between α, β, and γ protocadherins. Cell 158:1045–1059.
+Walter J, Henke-Fahle S, Bonhoeffer F. 1987. Avoidance of 
+posterior tectal membranes by temporal retinal axons. 
+Development 101:909–913.
+Wang L, Marquardt T. 2013. What axons tell each other: 
+axon-axon signaling in nerve and circuit assembly. Curr 
+Opin Neurobiol 23:974–982.
+Weiss P. 1941. Nerve patterns: the mechanics of nerve growth. 
+Growth 5:163–203. Suppl.
+Zhang XH, Poo MM. 2002. Localized synaptic potentiation 
+by BDNF requires local protein synthesis in the developing 
+axon. Neuron 36:675–688.
+
+

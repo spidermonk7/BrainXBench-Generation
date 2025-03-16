@@ -1,0 +1,844 @@
+===== Page 1 =====
+732    Part V / Movement
+Figure 30–13  Learning new coordination patterns in 
+walking.
+A. A subject walks on a split-belt treadmill. When the two belts 
+move at the same speed, subjects have a symmetric gait pat-
+tern with equal step lengths.
+B. In an adaptation study, the speeds of the belts are initially 
+the same, then become split so that the right belt moves faster 
+than the left, and then finally return to the same speed (top). 
+Step length symmetry is initially lost when the belts move at 
+different speeds, causing the subject to limp. Over time, the 
+symmetry is restored and the limping is abolished. When the 
+belts are once again moving at the same speed, an aftereffect 
+is seen (middle).
+  Maurice Smith and colleagues have shown that this type 
+of adaptation is composed of multiple underlying processes 
+that adapt on different timescales (bottom). The change in the 
+step length symmetry is composed of two processes: a fast 
+process (light green line) that adapts quickly but also rapidly 
+forgets what has been learned, and a slow process (dark green 
+line) that learns more slowly but has better retention. These 
+processes both adapt to learn from the error, and the sum of 
+these processes is the final adaptation (blue line). This dual-
+rate learning system gives rise to the typical double exponential 
+learning curves seen in many forms of adaptation in which 
+adaptation is initially fast but tends to slow down as learning 
+proceeds. (Adapted, with permission, from Roemmich, Long, 
+and Bastian 2016.)
+0
+0
+A
+B
+Step length
+asymmetry
+Symmetry
+change
+Baseline
+Adaptation
+Deadaptation
+Belt speed
+Fast belt
+Fast belt
+Step length
+Slow belt
+Slow belt
+200 steps
+that shift visual space, for example, they initially miss 
+when reaching to targets but soon learn to reach cor-
+rectly. After repeated trials, the mere feel of the glasses, 
+without the prisms in place, is sufficient to evoke the 
+adaptive behavior appropriate for the prisms.
+In general, we can quantify performance with 
+two measurements, accuracy and precision. Accuracy 
+is a measure of systematic errors or biases, for exam-
+ple, on average how far a series of thrown darts are 
+away from the target. In contrast, precision is a meas-
+ure of random errors, or statistical variability, in our 
+actions. Both accuracy and precision contribute to 
+performance. In general, accuracy can be improved 
+by adapting or calibrating motor commands so as to 
+reduce systematic errors. Although there is always 
+some variability in movement arising from irreducible 
+sensory and motor noise, the variability, as we have 
+seen, can be reduced through planning so as to have 
+minimal impact on task success. Most motor learning 
+tends to become automatic (ie, implicit) with time, but 
+early learning of some tasks can be aided by explicit 
+learning (ie, strategy), such as a verbal instruction on 
+how best to approach the task.
+Not all sensory modalities are equally important 
+in learning all motor tasks. In learning dynamic tasks, 
+proprioception and tactile input are more important 
+than vision. We normally learn dynamic tasks equally 
+well with or without vision. However, individuals 
+who have lost proprioception and tactile input have 
+particular difficulty controlling the dynamic proper-
+ties of their limbs or learning new dynamic tasks with-
+out vision (Box 30–3).
+Skill Learning Relies on Multiple Processes  
+for Success
+In contrast to error-based learning in which the sensori-
+motor system adapts to a perturbation to return to pre-
+perturbation performance, learning skills such as tying 
+one’s shoelaces, juggling, typing, or playing the piano 
+instead involves improving performance in the absence 
+of a perturbation. Such learning tends to improve the 
+speed–accuracy trade-off. Initially, we may be able to hit 
+the correct keys on a keyboard when paced 1 second apart, 
+but with practice, the same accuracy can be achieved at 
+an increasingly quickening pace.
+
+
+===== Page 2 =====
+Chapter 30 / Principles of Sensorimotor Control    733
+While visual impairment certainly has limiting effects 
+on sensorimotor control, blind people are able to walk 
+normally and reach and grasp known objects with ease. 
+This is in stark contrast to the rare loss of proprioceptive 
+and tactile sense.
+Some sensory neuropathies selectively damage the 
+large-diameter sensory fibers in peripheral nerves and 
+dorsal roots that carry most proprioceptive informa-
+tion. Impairments in motor control resulting from loss of 
+proprioception have fascinated neurologists and physi-
+ologists for well over a century. Studies of patients with 
+sensory neuropathies provide invaluable insight into the 
+interactions between sensation and movement planning.
+As expected, such patients lose joint position sense, 
+vibration sense, and fine tactile discrimination (as well 
+as tendon reflexes), but both pain and temperature 
+senses are fully preserved. Patients with peripheral neu-
+ropathies are unable to maintain a steady posture, for 
+example, while holding a cup or standing, with the eyes 
+closed. Movements also become clumsy, uncoordinated, 
+and inaccurate.
+Some recovery of function may occur over many 
+months as the patient learns to use vision as a substitute 
+for proprioception, but this compensation still leaves 
+patients completely incapacitated in the dark. Some of 
+this difficulty reflects an inability to detect errors that 
+develop during unseen movements, as occurs if the 
+weight of an object differs from expectation.
+Peripheral neuropathies are particularly incapaci-
+tating when patients try to make movements with rapid 
+direction reversals. Analyses of the joint torques during 
+these movements show that subjects with intact pro-
+prioception anticipate intersegmental torques, whereas 
+those without proprioception fail to do so (Figure 30–14).
+However, the same patients easily adapt to dras-
+tic kinematic changes, such as tracing a drawing while 
+viewing their hand in a mirror. In fact, they perform 
+better than normal subjects, perhaps because they have 
+learned to guide their movements visually and, because 
+they lack proprioception, do not experience any conflict 
+between vision and proprioception.
+Even in normal subjects, the relative importance of 
+tactile input in manipulation tasks can be easily demon-
+strated. It is relatively easy to light a match with one’s 
+eyes closed. However, if the tips of the digits are made 
+numb with local anesthetic, then even under full vision 
+the task is remarkably hard because the match tends to 
+slip from the fingers.
+Box 30–3  Proprioception and Tactile Sense Are Critical for Sensorimotor Control
+5 cm
+125°
+0°
+60°
+20°
+Control
+Subject with proprioceptive loss
+Elbow
+Shoulder
+Extend
+Flex
+Figure 30–14  Patients lacking proprioception cannot 
+make an accurate movement that requires a rapid 
+reversal in path.  (Left) The subject tries to trace a template 
+(gray line) while her hand is hidden from view. The joint 
+angles for the elbow and shoulder of a normal subject show 
+good alignment (Right top), leading to an accurate reversal 
+(Left top). In contrast, the timing of the joint reversal is poor 
+in subjects who lack proprioceptive input (Right bottom), lead-
+ing to large errors in the path (Left bottom). These patients 
+cannot anticipate and correct for the intersegmental dynam-
+ics that occur around the path reversal. (Adapted, with per-
+mission, from Sainburg et al. 1995.)
+
+
+===== Page 3 =====
+734    Part V / Movement
+For some skills, there can be a complex relation 
+between the actions performed and success or failure 
+at the task. For example, when children first sit on a 
+swing, they have to learn the complex sequence of leg 
+and body movements required to make the swing go 
+higher. In contrast to error-based learning, there is no 
+readily available error signal that can be used to adjust 
+the current action because the swing’s height is not 
+directly determined by the current action but by a long 
+history of body and leg motion. Learning in such com-
+plex scenarios can be achieved using reinforcement 
+learning in which the sensorimotor system adjusts 
+its commands in an effort to maximize reward, that 
+is, task success. In the most general form, the perfor-
+mance measure that the reinforcement learning tries to 
+maximize is the sum of all future rewards. However, 
+as we tend to favor an immediate versus time-delayed 
+reward, the sum is typically weighted to reflect this by 
+progressively discounting future rewards.
+Reinforcement learning is more general than error-
+based learning in that the training signal is success 
+or failure, rather than an error at each point in time. 
+Another distinguishing property of reinforcement 
+learning is that the success or failure that the learning 
+system receives can depend in nontrivial ways on the 
+history of the actions taken. For tasks that require a 
+complex sequence of actions to take place to achieve a 
+goal, such as tying one’s shoelaces, and the outcome or 
+reward is removed in time from the action, error-based 
+learning cannot easily be applied. A key problem that 
+reinforcement solves is that of credit assignment: 
+Which action within a sequence should we credit or 
+blame when we eventually succeed or fail? This is just 
+the sort of problem reinforcement learning algorithms 
+are good at solving.
+There are two main classes of reinforcement 
+learning, those that depend on an internal model and 
+those that do not. Model-based reinforcement builds 
+a model of the task (eg, the structure of a maze). With 
+such a model, the learner can efficiently plan in a 
+goal-directed manner. In contrast, with model-free 
+reinforcement learning, the learner simply associates 
+movements with success or failure; those that lead to 
+success are more likely to be performed again. Such 
+learning can lead to motor habits. While model-free 
+learning avoids the computational burden of building 
+a model, it is also less able to generalize to novel situ-
+ations. These two types of reinforcement learning can 
+even act together, and different tasks can rely on them 
+to different extents. Dopaminergic systems in the basal 
+ganglia have been tied to signals that one would expect 
+in reinforcement learning, such as expected reward. 
+Moreover, dysfunction in these systems is related to 
+movement disorders, addiction, and other problems that 
+could be related to reinforcement signals (Chapter 38).
+Finally, the development of efficient strategies plays 
+a key part in motor skill acquisition. Skill learning for 
+real-world tasks typically involves a sequence of 
+decision-making processes at different spatiotemporal 
+scales. The skill of a tennis player, for example, is not only 
+determined by the precision with which she can strike 
+the ball but also by the speed with which she can make 
+the correct decision on where to aim it and how well she 
+uses her senses to extract task-relevant information.
+Sensorimotor Representations Constrain Learning
+The information obtained during a single movement is 
+often too sparse or noisy to unambiguously determine 
+the source of error. For example, if a tennis player hits 
+a shot into the net on the serve, the problem could be 
+that the ball was not thrown high enough, the ball was 
+hit too early, the racquet strings are loose, there was a 
+gust of wind, or the player is fatigued. If the racquet 
+dynamics have changed, the player would do well to 
+adapt to these for the next shot. If a temporary gust of 
+wind was the problem, then no adjustment is needed. 
+To resolve this issue, the sensorimotor learning system 
+constrains the way in which the system is updated in 
+response to errors. These constraints reflect the internal 
+assumptions about the task structure and the source of 
+errors and determine how the system represents the 
+task. Indeed, on a slower timescale, learning itself can 
+alter the representation.
+While the final output of the motor system is the 
+contraction of its 600 or so muscles, it is not the case that 
+the brain controls each independently. In current mod-
+els of sensorimotor control, motor commands are gener-
+ated by multiple modules that can be selectively engaged 
+depending on the requirements of the task. Examples of 
+modular architectures include multiple internal models, 
+motor primitives, and motor synergies (Chapter 36).
+Motor primitives can be thought of as neural con-
+trol modules that can be flexibly combined to gener-
+ate a large repertory of behaviors. A primitive might 
+represent the temporal profile of a particular muscle 
+activity or a set of muscles that are activated together, 
+termed a synergy. The overall motor output will be the 
+sum of all primitives, weighted by the level of the acti-
+vation of each module. The makeup of the population 
+of such primitives then determines which structural 
+constraints are imposed on learning. For example, a 
+behavior for which the motor system has many primi-
+tives will be easy to learn, whereas a behavior that can-
+not be approximated by any existing primitives would 
+be impossible to learn.
+
+
+===== Page 4 =====
+Chapter 30 / Principles of Sensorimotor Control    735
+Highlights
+  1.  The primary purpose of the elaborate informa-
+tion processing and storage that occurs in the 
+brain is to enable us to interact with our environ-
+ment through our motor system.
+  2.  Our infinitely varied and purposeful motor 
+behaviors are governed by the integrated actions 
+of the motor systems, including the motor cortex, 
+spinal cord, cerebellum, and basal ganglia.
+  3.  To control action, the central nervous system 
+uses a hierarchy of sensorimotor transformations 
+that convert incoming sensory information into 
+motor outputs.
+  4.  There is a trade-off in the speed versus sophistica-
+tion of the different levels of sensorimotor response 
+from rapid reflexes to slower voluntary control.
+  5.  The motor systems generate commands using 
+feedforward circuits or error-correcting feedback 
+circuits; most movement involves both types of 
+control.
+  6.  The brain uses internal models of the sensorimo-
+tor system to facilitate control.
+  7.  The state of the body is estimated using both sen-
+sory and motor signals together with a forward 
+predictive mode to reduce the adverse effects of 
+delays in feedback.
+  8.  Variability in the sensory inputs and motor out-
+puts together with inaccuracies in sensorimotor 
+transformations underlie the errors and variabil-
+ity in movement, leading to the trade-off between 
+speed and accuracy.
+  9.  Motor planning can use the redundancy of the 
+motor system to move in such a way as to reduce 
+the negative consequences of motor noise while 
+reducing effort.
+10.  Motor control circuits are not static but undergo 
+continual modification and recalibration through-
+out life.
+11.  Motor learning improves motor control in novel 
+situations, and different forms of sensory infor-
+mation are vital for learning. Error-based learn-
+ing is particularly important for adapting to 
+simple sensorimotor perturbations. Reinforce-
+ment learning is particularly important for more 
+complex skill learning and can rely on a model 
+(model-based) or on simply reinforcing motor 
+actions directly (model-free).
+12.  The motor representations used by the brain con-
+strain the way the sensorimotor system updates 
+during learning.
+13.  Studies of sensorimotor control have focused 
+on developing a detailed understanding of 
+relatively simple tasks, such as reaching and 
+walking. Although these tasks are amenable to 
+analysis and modeling, they do not capture the 
+full complexity of real-world motor control. The 
+challenge will be to determine if these principles 
+can be generalized to tasks such as tying shoe-
+laces and learning to skateboard.
+ Daniel M. Wolpert 
+  Amy J. Bastian 
+Selected Reading
+Diedrichsen J, Shadmehr R, Ivry RB. 2010. The coordina-
+tion of movement: optimal feedback control and beyond. 
+Trends Cogn Sci 14:31–39.
+Roemmich RT, Bastian AJ. 2018. Closing the loop: From motor 
+neuroscience to neurorehabilitation. Annu Rev Neurosci 
+41:415–429.
+Scott SH. 2016. A functional taxonomy of bottom-up sensory 
+feedback processing for motor actions. Trends Neurosci 
+39:512–526.
+Shadmehr R, Smith MA, Krakauer JW. 2010. Error correc-
+tion, sensory prediction, and adaptation in motor control. 
+Annu Rev Neurosci 33:89–108.
+Wolpert DM, Diedrichsen J, Flanagan JR. 2011. Principles of 
+sensorimotor learning. Nat Rev Neurosci 12:739–751.
+Wolpert DM, Flanagan JR. 2016. Computations underlying 
+sensorimotor learning. Curr Opin Neurobiol 37:7–11.
+References
+Blakemore SJ, Frith CD, Wolpert DM. 1999. Spatio-temporal 
+prediction modulates the perception of self-produced 
+stimuli. J Cogn Neurosci 11:551–559.
+Blakemore SJ, Goodbody S, Wolpert DM. 1998. Predicting the 
+consequences of our own actions: the role of sensorimotor 
+context estimation. J Neurosci 18:7511–7518.
+Brashers-Krug T, Shadmehr R, Bizzi E. 1996. Consolidation 
+in human motor memory. Nature 382:252–255.
+Burdet E, Osu R, Franklin DW, Milner TE, Kawato M. 2001. 
+The central nervous system stabilizes unstable dynamics 
+by learning optimal impedance. Nature 414:446–449.
+Craik KJW. 1943. The Nature of Explanation. Cambridge: Cam-
+bridge Univ. Press.
+Crapse TB, Sommer MA. 2008. Corollary discharge across 
+the animal kingdom. Nature Rev Neurosci 9:587.
+Crevecoeur F, Scott SH. 2013. Priors engaged in long-latency 
+responses to mechanical perturbations suggest a rapid 
+update in state estimation. PLoS Comput Biol 9:e1003177.
+
+
+===== Page 5 =====
+736    Part V / Movement
+Crevecoeur F, Scott SH. 2014. Beyond muscles stiffness: 
+importance of state-estimation to account for very fast 
+motor corrections. PLoS Comput Biol 10:e1003869.
+Diedrichsen J, Kornysheva K. 2015. Motor skill learn-
+ing between selection and execution. Trends Cogn Sci 
+19:227–233.
+Ernst MO, Bulthoff HH. 2004. Merging the senses into a 
+robust percept. Trends Cogn Sci 8:162–169.
+Faisal AA, Selen LP, Wolpert DM. 2008. Noise in the nervous 
+system. Nat Rev Neurosci 9:292–303.
+Flanagan JR, Beltzner MA. 2000. Independence of perceptual 
+and sensorimotor predictions in the size-weight illusion. 
+Nat Neurosci 3:737–741.
+Goodale MA, Milner AD. 1992. Separate visual pathways for 
+perception and action. Trends Neurosci 15:20–25.
+Harris CM, Wolpert DM. 1998. Signal-dependent noise deter-
+mines motor planning. Nature 394:780–784.
+Huberdeau DM, Krakauer JW, Haith AM. 2015. Dual-process 
+decomposition in human sensorimotor adaptation. Curr 
+Opin Neurobiol 33:71–77.
+Krakauer JW, Mazzoni P. 2011. Human sensorimotor learn-
+ing: adaptation, skill, and beyond. Curr Opin Neurobiol 
+21:636–644.
+Land MF, McLeod P. 2000. From eye movements to actions: 
+how batsmen hit the ball. Nat Neurosci 3:1340–1345.
+McDougle SD, Ivry RB, Taylor JA. 2016. Taking aim at the 
+cognitive side of learning in sensorimotor adaptation 
+tasks. Trends Cogn Sci 20:535-544.
+Morasso P. 1981. Spatial control of arm movements. Exp 
+Brain Res 42:223–227.
+Muller H, Sternad D. 2004. Decomposition of variability in 
+the execution of goal-oriented tasks: three components of 
+skill improvement. J Exp Psychol Hum Percept Perform 
+30:212–233.
+O’Doherty JP, Lee SW, McNamee D. 2015. The structure of 
+reinforcement-learning mechanisms in the human brain. 
+Curr Opin Behav Sci 1:94–100.
+Pruszynski JA, Scott SH. 2012. Optimal feedback control 
+and the long-latency stretch response. Exp Brain Res 
+218:341–359.
+Raibert MH. 1977. Motor control and learning by the state space 
+model. Ph.D. Dissertation. Cambridge, MA: Artificial 
+Intelligence Laboratory, MIT.
+Reisman DS, Block HJ, Bastian AJ. 2005. Interlimb coordina-
+tion during locomotion: what can be adapted and stored? 
+J Neurophysiol 94:2403–2415.
+Roemmich RT, Long AW, Bastian AJ. 2016. Seeing the errors 
+you feel enhances locomotor performance but not learn-
+ing. Curr Biol 26:1–10.
+Rothwell JC, Traub MM, Day BL, Obeso JA, Thomas PK, 
+Marsden CD. 1982. Manual motor performance in a deaf-
+ferented man. Brain 105:515–542.
+Sainburg RL, Ghilardi MF, Poizner H, Ghez C. 1995. Control 
+of limb dynamics in normal subjects and patients without 
+proprioception. J Neurophysiol 73:820–835.
+Schmidt RA, Zelaznik H, Hawkins B, Frank JS, Quinn JT. 
+1979. Motor-output variability: a theory for the accuracy 
+of rapid motor acts. Psychol Rev 47:415–451.
+Scott SH, Cluff T, Lowrey CR, Takei T. 2015. Feedback con-
+trol during voluntary motor actions. Curr Opin Neurobiol 
+33:85–94.
+Sing GC, Joiner WM, Nanayakkara T, Brayanov JB, Smith MA. 
+2009. Primitives for motor adaptation reflect correlated 
+neural tuning to position and velocity. Neuron 64:575–589.
+Smith MA, Ghazizadeh A, Shadmehr R. 2006. Interacting 
+adaptive processes with different timescales underlie 
+short-term motor learning. PLoS Biol 4:e179.
+Todorov E, Jordan MI. 2002. Optimal feedback control as a 
+theory of motor coordination. Nat Neurosci 5:1226–1235.
+Torres-Oviedo G, Macpherson JM, Ting LH. 2006. Muscle 
+synergy organization is robust across a variety of postural 
+perturbations. J Neurophysiol 96:1530–1546.
+Valero-Cuevas FJ, Venkadesan M, Todorov E. 2009. Struc-
+tured variability of muscle activations supports the 
+minimal intervention principle of motor control. J Neuro-
+physiol 102:59–68.
+van Beers RJ, Sittig AC, Gon JJ. 1999. Integration of proprio-
+ceptive and visual position-information: an experimen-
+tally supported model. J Neurophysiol 81:1355–1364.
+Wolpert DM, Flanagan JR. 2001. Motor prediction. Curr Biol 
+11:R729–732.
+Yang SC-H, Wolpert DM, Lengyel M. 2016. Theoretical per-
+spectives on active sensing. Curr Opin Behav Sci 11:100–108.
+
+
+===== Page 6 =====
+31
+The Motor Unit and Muscle Action
+activate the muscles that provide the forces needed to 
+move in a particular way. This is not a simple task. Not 
+only must the nervous system decide which muscles to 
+activate, how much to activate them, and the sequence 
+in which they must be activated in order to move one 
+part of the body, but it must also control the influence 
+of the resultant muscle forces on other body parts and 
+maintain the required posture.
+This chapter examines how the nervous system 
+controls muscle force and how the force exerted by a 
+limb depends on muscle structure. We also describe 
+how muscle activation changes to perform different 
+types of movement.
+The Motor Unit Is the Elementary Unit of 
+Motor Control
+A Motor Unit Consists of a Motor Neuron and 
+Multiple Muscle Fibers
+The nervous system controls muscle force with signals 
+sent from motor neurons in the spinal cord or brain 
+stem to the muscle fibers. A motor neuron and the 
+muscle fibers it innervates are known as a motor unit, 
+the basic functional unit by which the nervous system 
+controls movement, a concept proposed by Charles 
+Sherrington in 1925.
+A typical muscle is controlled by a few hun-
+dred motor neurons whose cell bodies are clustered 
+in a motor nucleus in the spinal cord or brain stem. 
+The axon of each motor neuron exits the spinal cord 
+through the ventral root or through a cranial nerve in 
+the brain stem and runs in a peripheral nerve to the 
+The Motor Unit Is the Elementary Unit of Motor Control
+A Motor Unit Consists of a Motor Neuron and Multiple 
+Muscle Fibers
+The Properties of Motor Units Vary
+Physical Activity Can Alter Motor Unit Properties
+Muscle Force Is Controlled by the Recruitment and 
+Discharge Rate of Motor Units
+The Input–Output Properties of Motor Neurons Are 
+Modified by Input From the Brain Stem
+Muscle Force Depends on the Structure of Muscle
+The Sarcomere Is the Basic Organizational Unit of 
+Contractile Proteins
+Noncontractile Elements Provide Essential  
+Structural Support
+Contractile Force Depends on Muscle Fiber Activation, 
+Length, and Velocity
+Muscle Torque Depends on Musculoskeletal Geometry
+Different Movements Require Different Activation Strategies
+Contraction Velocity Can Vary in Magnitude  
+and Direction
+Movements Involve the Coordination of Many Muscles
+Muscle Work Depends on the Pattern of Activation
+Highlights
+A
+ny action—ascending a flight of stairs, typing 
+on a keyboard, even holding a pose—requires 
+ coordinating the movement of body parts. This 
+is accomplished by the interaction of the nervous sys-
+tem with muscle. The role of the nervous system is to 
+
+
+===== Page 7 =====
+738    Part V / Movement
+Figure 31–1  A typical muscle consists of many thousands 
+of muscle fibers working in parallel and organized into a 
+smaller number of motor units. A motor unit comprises a 
+motor neuron and the muscle fibers it innervates, illustrated 
+here by motor neuron A1. The motor neurons innervating one 
+muscle are usually clustered into an elongated motor nucleus 
+that may extend over one to four segments within the ventral 
+spinal cord. The axons from a motor nucleus exit the spinal 
+cord in several ventral roots and peripheral nerves but are 
+collected into one nerve bundle near the target muscle. In 
+the figure, motor nucleus A includes all those motor neurons 
+innervating muscle A; likewise, motor nucleus B includes all 
+the motor neurons that innervate muscle B. The extensively 
+branched dendrites of each motor neuron (not shown in the 
+figure) tend to intermingle with those of motor neurons from 
+other nuclei.
+muscle. When the axon reaches the muscle, it branches 
+and innervates from a few to several thousand muscle 
+fibers (Figure 31–1).
+Once synaptic input depolarizes the membrane 
+potential of a motor neuron above threshold, the neu-
+ron generates an action potential that is propagated 
+along the axon to its terminals in the muscle. The 
+action potential releases acetylcholine at the neuro-
+muscular synapse, triggering an action potential at the 
+sarcolemma of the muscle fiber (Chapter 12). A mus-
+cle fiber has electrical properties similar to those of a 
+large-diameter, unmyelinated axon, and thus, action 
+Ventral root
+Motor
+nucleus B
+Motor
+neuron A1
+Motor
+nucleus A
+Muscle A
+Muscle B
+Muscle
+ﬁbers
+Aponeurosis
+Tendon
+potentials propagate along the sarcolemma, although 
+more slowly due to the higher capacitance of the fiber 
+resulting from the transverse tubules (see Figure 31–9). 
+Because the action potentials in all the muscle fibers 
+of a motor unit occur at approximately the same time, 
+they contribute to extracellular currents that sum to 
+generate a field potential near the active muscle fibers.
+Most muscle contractions involve the activation of 
+many motor units, whose currents sum to produce sig-
+nals (compound action potentials) that can be detected by 
+electromyography. The electromyogram (EMG) is typi-
+cally large and can be easily recorded with electrodes 
+
+
+===== Page 8 =====
+Chapter 31 / The Motor Unit and Muscle Action    739
+Table 31–1  Innervation Numbers in Human Skeletal Muscles
+Muscle
+Alpha 
+motor 
+axons
+Muscle 
+fibers
+Average 
+innervation 
+number
+Biceps brachii
+774
+580,000
+750
+Brachioradialis
+333
+129,200
+410
+Cricothyroid
+112
+18,550
+155
+Gastrocnemius (medial)
+579
+1,042,000
+1,800
+Interossei dorsales (1)
+119
+40,500
+340
+Lumbricales (1)
+96
+10,269
+107
+Masseter
+1,452
+929,000
+640
+Opponens pollicis
+133
+79,000
+595
+Platysma
+1,096
+27,100
+25
+Posterior cricoarytenoid
+140
+16,200
+116
+Rectus lateralis
+4,150
+22,000
+5
+Temporalis
+1,331
+1,247,000
+936
+Tensor tympani
+146
+1,100
+8
+Tibialis anterior
+445
+272,850
+613
+Transverse arytenoid
+139
+34,470
+247
+Source: Adapted, with permission, from Enoka 2015. © Human 
+Kinetics, Inc.
+placed on the skin over the muscle. The timing and 
+amplitude of EMG activity, therefore, reflect the acti-
+vation of muscle fibers by the motor neurons. EMG 
+signals are useful for studying the neural control of 
+movement and for diagnosing pathology (Chapter 57).
+Each fiber in most mature vertebrate muscles is 
+innervated by a single motor neuron. The number of 
+muscle fibers innervated by one motor neuron, the 
+innervation number, varies across muscles. In human 
+skeletal muscles, the innervation number ranges from 
+average values of 5 for an eye muscle to 1,800 for a 
+leg muscle (Table 31–1). Because innervation number 
+denotes the number of muscle fibers within a motor 
+unit, differences in innervation number determine the 
+differences in increments in force produced by activa-
+tion of different motor units in the same muscle. Thus, 
+the innervation number also indicates the fineness of 
+control of the muscle at low forces; the smaller the 
+innervation number, the finer the control achieved by 
+varying the number of activated motor units.
+The differences in innervation numbers between 
+motor units in the same muscle can be substantial. For 
+example, motor units of the first dorsal interosseous 
+muscle of the hand have innervation numbers ranging 
+from approximately 21 to 1,770. The strongest motor 
+unit in the hand’s first dorsal interosseous muscle can 
+exert approximately the same force as the average 
+motor unit in the leg’s medial gastrocnemius muscle 
+due to different ranges of innervation numbers in the 
+two muscles.
+The muscle fibers of a single motor unit are dis-
+tributed throughout the muscle and intermingle with 
+fibers innervated by other motor neurons. The muscle 
+fibers innervated by a single motor unit can be distrib-
+uted across 8% to 75% of the volume in a limb muscle, 
+with 2 to 5 muscle fibers belonging to the same motor 
+unit among 100 muscle fibers. Therefore, the muscle 
+fibers in a cross-section through the middle of an entire 
+muscle are associated with 20 to 50 different motor 
+units. This distribution and even the number of motor 
+units change with age and with some neuromuscular 
+disorders (Chapter 57). For example, muscle fibers that 
+lose their innervation after the death of a motor neuron 
+can be reinnervated by collateral sprouts from neigh-
+boring axons.
+Some muscles comprise discrete compartments 
+that are each innervated by a different primary branch 
+of the muscle nerve. Branches of the median and ulnar 
+nerves in the forearm, for example, innervate distinct 
+compartments in three multitendon extrinsic hand 
+muscles that enable the fingers to be moved relatively 
+independently. The muscle fibers belonging to each 
+motor unit in such muscles tend to be confined to one 
+compartment. A muscle can therefore consist of several 
+functionally distinct regions.
+The Properties of Motor Units Vary
+The force exerted by a muscle depends not only on 
+the number of motor units that are activated during 
+a contraction but also on three properties of motor 
+units: contraction speed, maximal force, and fatiga-
+bility. These properties are assessed by examining the 
+force exerted by individual motor units in response 
+to variations in the number and rate of evoked action 
+potentials.
+The mechanical response to a single action poten-
+tial is known as a twitch contraction. The time it takes 
+the twitch to reach its peak force, the contraction time, 
+is one measure of the contraction speed of the muscle 
+fibers that compose a motor unit. The motor units in a 
+muscle typically exhibit a range of contraction times 
+from slow to fast contracting. The mechanical response 
+to a series of action potentials that produce overlapping 
+twitches is known as a tetanic contraction or tetanus.
+The force exerted during a tetanic contraction 
+depends on the extent to which the twitches overlap 
+
+
+===== Page 9 =====
+740    Part V / Movement
+Figure 31–2  The force exerted by a motor unit varies with 
+the rate at which its neuron generates action potentials.
+A. Traces show the forces exerted by fast- and slow-contracting 
+motor units in response to a single action potential (top trace) 
+and a series of action potentials (set of four traces below). The 
+time to the peak twitch force, or contraction time, is briefer in 
+the faster unit. The rates of the action potentials used to evoke 
+the tetanic contractions range from 17 to 100 Hz in the slow-
+contracting unit to 46 to 100 Hz in the fast-contracting unit. The 
+peak tetanic force evoked by 100-Hz stimulation is greater for 
+the fast-contracting unit. Note the different force scales for the 
+two sets of traces. (Adapted, with permission, from Botterman, 
+Iwamoto, and Gonyea 1986; adapted from Fuglevand,  
+Macefield, and Bigland-Ritchie 1999; and Macefield, Fuglevand, 
+and Bigland-Ritchie 1996.)
+B. Relation between peak force and the rate of action poten-
+tials for fast- and slow-contracting motor units. The absolute 
+force (left plot) is greater for the fast-contracting motor unit at 
+all frequencies. At lower stimulus rates (right plot), the force 
+evoked in the slow-contracting motor unit (longer contraction 
+time) sums to a greater relative force (percent of peak force) 
+than in the fast-contracting motor unit (shorter contraction time).
+and summate (ie, the force varies with the contraction 
+time of the motor unit and the rate at which the action 
+potentials are evoked). At lower rates of stimulation, 
+the ripples in the tetanus denote the peaks of individ-
+ual twitches (Figure 31–2A). The peak force achieved 
+during a tetanic contraction varies as a sigmoidal 
+function of action potential rate, with the shape of the 
+curve depending on the contraction time of the motor 
+unit (Figure 31–2B). Maximal force is reached at lower 
+100 Hz
+60
+56
+46
+200 ms
+400 ms
+100 mN
+40 ms
+40 ms
+Slow twitch
+100 Hz
+25
+21
+17
+5 mN
+Fast twitch
+Fast
+Slow
+0
+20
+40
+60
+80
+100
+0
+100
+200
+300
+400
+500
+Peak force (mN)
+Frequency (Hz)
+0
+20
+40
+60
+80
+100
+20
+0
+40
+60
+80
+100
+Peak force (% maximum)
+Frequency (Hz)
+Fast
+Slow
+300
+200
+100
+500
+400
+0
+Force (mN)
+75
+50
+25
+100
+0
+Force (mN)
+A
+B
+action potential rates for slow-contracting motor units 
+than the rates needed to achieve maximal force in fast-
+contracting units.
+The functional properties of motor units vary across 
+the population and between muscles. At one end of the 
+distribution, motor units have long twitch contraction 
+times and produce small forces, but are less fatigable. 
+At the other end of the distribution, motor units have 
+short contraction times, produce large forces, and are 
+
+

@@ -1,0 +1,686 @@
+===== Page 1 =====
+604    Part IV / Perception
+membrane in a continuous array (Figure 26–3F). In the 
+19th century, the German physiologist Hermann von 
+Helmholtz was the first to appreciate that the basi-
+lar membrane’s operation is essentially the inverse 
+of a piano’s. The piano synthesizes a complex sound 
+by combining the pure tones produced by numerous 
+vibrating strings; the cochlea, by contrast, deconstructs 
+a complex sound by isolating the component tones at 
+the appropriate segments of the basilar membrane.
+For any frequency within the auditory range, 
+there is a characteristic place along the basilar mem-
+brane at which the magnitude of vibration is maximal. 
+Although the morphological gradients of the basilar 
+membrane are key to the process, the actual disper-
+sion of a sound’s frequency components along the 
+cochlea’s longitudinal axis depends on the mechani-
+cal properties of the cochlear partition as a whole. In 
+particular, as we shall detail later, the hair cells within 
+the organ of Corti provide active mechanical feed-
+back that sharpens mechanical tuning of the basilar 
+membrane and enhances its sensitivity to sound. The 
+arrangement of vibration frequencies along the basilar 
+membrane is an example of a tonotopic map. The rela-
+tionship between frequency and position along the 
+basilar membrane varies monotonically, but is not lin-
+ear; the logarithm of the frequency decreases roughly 
+in proportion to the distance from the cochlea’s base. 
+The frequencies from 20 kHz to 2 kHz, those between 
+2 kHz and 200 Hz, and those spanning 200 Hz to 20 Hz 
+are each represented by approximately one-third of 
+the basilar membrane’s extent.
+Analysis of the response to a complex sound illus-
+trates how the basilar membrane operates in daily life. 
+A vowel sound in human speech, for example, ordinar-
+ily comprises three dominant frequency components 
+termed formants. Each frequency component of the 
+stimulus establishes a traveling wave that, to a first 
+approximation, is independent of the waves evoked by 
+the others (Figure 26–3G) and reaches its peak excur-
+sion at a point on the basilar membrane appropriate for 
+that frequency component. The basilar membrane thus 
+acts as a mechanical frequency analyzer by distribut-
+ing the energies associated with the different frequency 
+components of the stimulus to hair cells arrayed along 
+its length. In doing so, the basilar membrane begins the 
+encoding of the frequencies in a sound.
+The Organ of Corti Is the Site of Mechanoelectrical 
+Transduction in the Cochlea
+The organ of Corti, a ridge of epithelium extending 
+along the basilar membrane, is the receptor organ of the 
+inner ear. Each organ of Corti contains approximately 
+16,000 hair cells that are innervated by approximately 
+30,000 afferent nerve fibers; these are fibers that carry 
+information into the brain along the eighth cranial 
+nerve. Like the basilar membrane itself, each hair cell 
+is most sensitive to a particular frequency, and these 
+frequencies are logarithmically mapped in descend-
+ing order from the cochlea’s base to its apex. Thus, 
+the information transmitted by these sensory cells 
+to their innervating nerve fibers is also tonotopically 
+organized.
+The organ of Corti includes a variety of cells, some 
+of unknown function, but four types have obvious 
+importance. First, there are two types of hair cells. The 
+inner hair cells form a single row of approximately 3,500 
+cells, whereas approximately 12,000 outer hair cells lie 
+in three rows farther from the central axis of the coch-
+lear spiral (Figure 26–4). The space between the inner 
+and outer hair cells is delimited and mechanically sup-
+ported by pillar cells. The outer hair cells are supported 
+at their bases by Deiters’s (phalangeal) cells.
+A second epithelial ridge adjacent to the organ of 
+Corti, but nearer the cochlea’s central axis, gives rise 
+to the tectorial membrane, a gelatinous shelf that 
+covers the organ of Corti (Figure 26–4). The tectorial 
+membrane is anchored at its base, and its tapered 
+distal edge forms a fragile connection with the organ 
+of Corti.
+Hair cells are not neurons; they lack both dendrites 
+and axons (Figure 26–5A). A special saline solution, 
+the endolymph that fills scala media, bathes the cell’s 
+apical aspect. Tight junctions between hair cells and 
+supporting cells separate this liquid from the stand-
+ard extracellular fluid, or perilymph, that contacts 
+the basolateral surface of the cell. Immediately below 
+the tight junctions, a desmosomal junction provides 
+a strong mechanical attachment for the hair cell to its 
+neighbors.
+The hair bundle, which serves as a receptive antenna 
+for mechanical stimuli, projects from the flattened api-
+cal surface of the hair cell. Each bundle comprises a few 
+tens to a few hundred cylindrical processes, the stereo-
+cilia, arranged in 2 to 10 parallel rows and extending 
+several micrometers from the cell surface. Successive 
+stereocilia across a cell’s surface vary monotonically in 
+height; a hair bundle is beveled like the tip of a hypoder-
+mic needle (Figure 26–5B). The inner hair-cell bundles 
+of the mammalian cochlea, when viewed from above, 
+have a roughly linear form. Outer hair-cell bundles, in 
+contrast, have a V or W shape (Figure 26–6).
+Each stereocilium is a rigid cylinder whose core 
+consists of a fascicle of actin filaments that are heav-
+ily cross-linked by the proteins plastin (fimbrin), fas-
+cin, and epsin. Cross-linking renders a stereocilium 
+
+
+===== Page 2 =====
+Chapter 26 / Auditory Processing by the Cochlea    605
+A
+B
+Bony wall
+of cochlea
+Stria 
+vascularis
+Scala vestibuli
+Scala tympani
+Basilar
+membrane
+Scala
+media
+Spiral 
+ganglion
+Tectorial
+membrane
+Organ 
+of Corti
+Pillar
+cells
+Deiters’s
+cells
+Basilar
+membrane
+Tectorial
+membrane
+Outer
+hair cell
+Inner
+hair cell
+Figure 26–4  Cellular architecture of the 
+human organ of Corti. Although there are 
+differences among species, the basic plan 
+is similar for all mammals.
+A. The organ of Corti, the inner ear’s 
+receptor organ, is an epithelial strip that 
+surmounts the elastic basilar membrane. 
+The organ contains some 16,000 hair cells 
+arrayed in four rows: a single row of inner 
+hair cells and three rows of outer hair cells. 
+The mechanically sensitive hair bundles of 
+these receptor cells protrude into endo-
+lymph, the liquid within the scala media. 
+Reissner’s membrane, which provides the 
+upper boundary of the scala media, sepa-
+rates the endolymph from the perilymph 
+in the scala vestibuli. The hair bundles of 
+outer hair cells are attached at their tops 
+to the lower surface of the tectorial mem-
+brane, a gelatinous shelf that extends the 
+full length of the basilar membrane.
+B. The hair cells are separated and sup-
+ported by pillar cells and Deiters’s cells. 
+One hair cell has been removed from the 
+middle row of outer hair cells to reveal the 
+three-dimensional relationship between 
+supporting cells and hair cells. Afferent and 
+efferent nerve endings are colored in red 
+and green, respectively.
+much more rigid than would be expected for a bundle 
+of unconnected actin filaments. The actin core of the 
+stereocilium is covered by a tubular sheath of plasma 
+membrane. Although a stereocilium is of constant 
+diameter along most of its length, it tapers just above 
+its basal insertion (see Figure 25–5B). Correspondingly, 
+the number of actin filaments diminishes from sev-
+eral hundred to only a few dozen. This thin cluster of 
+microfilaments anchors the stereocilium in the cuticu-
+lar plate, a thick mesh of interlinked actin filaments 
+beneath the apical cell membrane. Because of this 
+tapered structure, a mechanical force applied at the tip 
+causes the stereocilium to pivot around its basal inser-
+tion. Horizontal top connectors interconnect adjacent 
+stereocilia near their tips. These extracellular filaments 
+restrict the bundle to move as a unit during stimula-
+tion at low frequencies. At high frequencies, the viscos-
+ity of the liquid between the stereocilia also opposes 
+their separation and thus ensures the unitary motion 
+of the hair bundle.
+
+
+===== Page 3 =====
+606    Part IV / Perception
+Figure 26–5  (Left) Structure of a vertebrate hair cell.
+A. The epithelial character of the hair cell is evident in this 
+drawing of the sensory epithelium from a frog’s internal ear. 
+The cylindrical hair cell is joined to adjacent supporting cells 
+by a junctional complex around its apex. The hair bundle, a 
+mechanically sensitive organelle, extends from the cell’s apical 
+surface. The bundle comprises some 60 stereocilia arranged 
+in stepped rows of varying length. At the bundle’s tall edge 
+stands the single kinocilium, an axonemal structure with a 
+bulbous swelling at its tip; in the mammalian cochlea, this 
+organelle degenerates around the time of birth. Deflection of 
+the hair bundle’s top to the right depolarizes the hair cell; move-
+ment in the opposite direction elicits hyperpolarization. The hair 
+cell is surrounded by supporting cells, whose apical surfaces 
+bear a stubble of microvilli. Afferent and efferent synapses con-
+tact the basolateral surface of the plasma membrane.
+B. This scanning electron micrograph of a hair cell’s apical sur-
+face reveals the hair bundle protruding approximately 8 μm into 
+the endolymph. (Image reproduced, with permission, from A.J. 
+Hudspeth.)
+Microvilli
+Cuticular
+plate
+Kinocilium
+Basal body
+Tight junction
+Belt
+desmosome
+Supporting
+cell
+Basal lamina
+Stereocilia
+Nucleus
+A
+Efferent
+nerve ending
+Afferent
+nerve ending
+B
+During its early development, every hair bundle 
+includes at its tall edge a single true cilium, the 
+kinocilium (Figure 26–5). Like other cilia, this structure 
+possesses at its core an axoneme, or array of nine paired 
+microtubules, and often an additional central pair of 
+microtubules. The kinocilium is not essential for mecha-
+noelectrical transduction, for in mammalian cochlear hair 
+cells, it degenerates around the time of birth.
+Hair Cells Transform Mechanical Energy Into 
+Neural Signals
+Deflection of the Hair Bundle Initiates 
+Mechanoelectrical Transduction
+Just as in vestibular organs (Chapter 27), mechani-
+cal deflection of the hair bundle is the stimulus that 
+excites hair cells of the cochlea. Stimuli elicit an elec-
+trical response, the receptor potential, by opening or 
+closing—a process termed “gating”—mechanically 
+sensitive ion channels. The hair cell’s response depends 
+on the direction and magnitude of the stimulus.
+In an unstimulated cell, 10% to 50% of the chan-
+nels involved in stimulus transduction are open. As a 
+result, the cell’s resting potential, which lies within a 
+range of approximately –70 to –30 mV, is determined in 
+part by the influx of cations through these channels. A 
+stimulus that displaces the bundle toward its tall edge 
+opens additional channels, thereby depolarizing the 
+cell (Figure 26–7). In contrast, a stimulus that displaces 
+the bundle toward its short edge shuts transduction 
+channels that are open at rest, thus hyperpolarizing 
+
+
+===== Page 4 =====
+Chapter 26 / Auditory Processing by the Cochlea    607
+Outer hair cells
+Inner hair cells
+A
+B
+Figure 26–6  Arrangement of the hair cells in the organ of Corti. 
+(Images reproduced, with permission, from D. Furness,  
+Keele University, United Kingdom.)
+A. Inner hair cells form a single row, and the stereocilia of each 
+cell are arranged linearly. In contrast, outer hair cells are distrib-
+uted in three rows, and the stereocilia of each cell are arranged 
+in a V configuration. The apical surfaces of several other cells 
+are visible: from left to right, inner spiral sulcus cells, pillar cells, 
+Deiters’s cells, and Hensen’s cells (see Figure 26–4).
+B. Higher magnification shows the linear configuration of 
+the hair bundle atop an inner hair cell (left) and the V con-
+figuration of an outer hair-cell bundle (right), as well as the 
+arrangement of the stereocilia in rows of increasing  
+heights.
+
+
+===== Page 5 =====
+608    Part IV / Perception
+Figure 26–7  (Left) Mechanical sensitivity of a hair cell.
+A. A recording electrode is inserted into a frog hair cell.
+B. A probe attached to the bulbous tip of the stereocilium is 
+moved by a piezoelectric stimulator, deflecting the elastic hair 
+bundle from its resting position. The actual deflections are gen-
+erally only one-tenth as large as those portrayed.
+C. When the top of a hair bundle is displaced back and forth 
+(upper trace), the opening and closing of mechanically sensi-
+tive ion channels produce an oscillatory receptor potential 
+(lower trace) that—as here—may saturate in both the depolar-
+izing and the hyperpolarizing directions.
+D. The relation between hair-bundle deflection (abscissa) and 
+receptor potential (ordinate) is sigmoidal. The entire operating 
+range is only approximately 100 nm, less than the diameter 
+of an individual stereocilium. At rest, the hair bundle operates 
+within the steep region of the sigmoid, which ensures signifi-
+cant receptor potentials in response to weak stimuli.
+Kinocilium
+Rootlet
+Force
++200 nm
++200 nm
+–200 nm
+–200 nm
+–57 mV
+–40 mV
+–60 mV
+–40 mV
+–60 mV
+Force
+Tip link
+Lateral contact
+A
+B
+C
+D
+Basal link
+Stereocilium
+the cell. Hair cells respond most to stimuli parallel to 
+the hair bundle’s axis of morphological mirror sym-
+metry: Stimuli at right angles to the axis produce little 
+change from the resting potential. An oblique stimulus 
+elicits a response proportional to its vectorial projec-
+tion along the axis of sensitivity.
+A hair cell’s receptor potential is graded. As the 
+stimulus amplitude increases, the receptor potential 
+grows progressively larger up to the point of satura-
+tion. The receptor potential of an inner hair cell can be 
+as great as 25 mV in peak-to-peak magnitude. The rela-
+tion between a bundle’s deflection and the resulting 
+electrical response is sigmoidal (Figure 26–7D). A dis-
+placement of only ±100 nm represents approximately 
+90% of the response range. During normal stimulation, 
+a hair bundle moves through an angle of ±1° or so, that 
+is, by much less than the diameter of one stereocilium.
+When observed in vitro, a hair bundle exhibits 
+Brownian motion of approximately ±3 nm, whereas 
+the threshold of hearing corresponds to basilar-
+membrane movements of as little as ±0.3 nm. There 
+are at least three mechanisms that explain how the 
+hair bundle may respond to motion smaller than its 
+own noise. First, because the cochlear partition does 
+not move as a rigid body, the movement of the hair 
+bundle is larger than that of the basilar membrane. 
+Second, frequency-selective amplification of low stim-
+uli actively pulls the signal out of the noise. Finally, 
+mechanical coupling to a group of neighbors results in 
+synchronization that effectively reduces noise. At hear-
+ing threshold, a stimulus evokes a receptor potential 
+near 100 μV in amplitude.
+The ion channels in hair cells that mediate mecha-
+noelectrical transduction are relatively nonselective, 
+cation-passing pores with a conductance near 100 pS. 
+From the known size of small organic cations and 
+fluorescent molecules that can traverse the channel, 
+the transduction channel’s pore must be about 1.3 nm 
+in diameter. Most of the transduction current is car-
+ried by K+, the cation with the highest concentration 
+in the endolymph bathing the hair bundle. Although 
+
+
+===== Page 6 =====
+Chapter 26 / Auditory Processing by the Cochlea    609
+endolymph is relatively poor in Ca2+, a small fraction 
+of the transduction current is carried by this ion. Flu-
+orescent indicators indicate that Ca2+ entry, and thus 
+mechanoelectrical transduction, occurs precisely at 
+the stereociliary tips of a deflected hair bundle. Single-
+channel recordings, together with the observation that 
+the magnitude of the transduction current is roughly 
+proportional to the number of functional stereocilia 
+remaining in a microdissected bundle, indicate that 
+there are probably only two active transduction chan-
+nels per stereocilium.
+The large diameter and poor selectivity of the 
+pore permit transduction channels to be blocked by 
+aminoglycoside antibiotics such as streptomycin, gen-
+tamicin, and tobramycin. When used in large doses to 
+counter bacterial infections, these drugs have a toxic 
+effect on hair cells; the antibiotics damage hair bun-
+dles and eventually kill hair cells. These drugs pass 
+through transduction channels at a low rate and thus 
+cause long-term toxic effects by interfering with pro-
+tein synthesis on the mitochondrial ribosomes, which 
+resemble bacterial ribosomes. Consistent with this 
+hypothesis, human sensitivity to aminoglycosides is 
+maternally inherited, as are the mitochondria, and in 
+many instances reflects a single base change in the 12S 
+ribosomal RNA gene of the mitochondrion.
+Mechanical Force Directly Opens  
+Transduction Channels
+The mechanism for gating of transduction channels in 
+hair cells differs fundamentally from the mechanisms 
+used for electrical signals in neurons such as the action 
+potential or postsynaptic potential. Many ion channels 
+respond to changes in membrane potential or to spe-
+cific ligands (Chapters 8, 10, and 12–14). In contrast, 
+two lines of evidence suggest that the mechanoelectri-
+cal transduction channels in the hair cell are activated 
+by mechanical strain.
+First, a bundle is stiffer along its axis of mechani-
+cal sensitivity than at a right angle. This observation 
+suggests that a portion of the work done in deflecting a 
+bundle goes into elastic elements, termed gating springs, 
+which pull on the molecular gates of the transduction 
+channels. Because the gating springs contribute over 
+half of a hair bundle’s stiffness, the transduction chan-
+nels efficiently capture the energy supplied when a 
+bundle is deflected. In addition, the mechanical prop-
+erties of a hair bundle vary during channel gating: 
+When channels open or close, stiffness decreases and 
+friction increases. Both phenomena are expected if the 
+channels are gated directly through a mechanical link-
+age to the hair bundle.
+A second indication that transduction channels 
+are directly controlled by gating springs is the rapidity 
+with which hair cells respond. The response latency is 
+so brief, only a few microseconds, that gating is more 
+likely to be direct than to involve a second messenger 
+(Chapter 14). Moreover, the electrical responses of hair 
+cells to a series of step stimuli of increasing magnitude 
+become both larger and faster. This behavior favors a 
+kinetic scheme in which mechanical force controls the 
+rate constant for channel gating.
+The tip link is a probable component of the gating 
+spring. A tip link is a fine molecular braid joining the 
+distal end of one stereocilium to the side of the long-
+est adjacent process (Figure 26–8A). Deflection of a 
+hair bundle toward its tall edge tenses the tip link and 
+promotes channel opening; movement in the opposite 
+direction slackens the link and allows the associated 
+channels to close (Figure 26–8B).
+Three experimental results suggest that the tip links 
+are components of the gating springs. First, tip links are  
+universal features of hair bundles and are situated at 
+the site of transduction. The transduction channels 
+are indeed located at the stereociliary tips, thus near 
+the lower insertion point of the tip link. Second, the 
+orientation of the links is consistent with the vectorial 
+sensitivity of transduction. The links invariably inter-
+connect stereocilia in a direction parallel with the hair 
+bundle’s axis of mechanosensitivity. Finally, when tip 
+links are disrupted by exposing hair cells to Ca2+ chela-
+tors, transduction vanishes. As the tip links regenerate 
+over the course of approximately 12 hours, a hair cell 
+regains mechanosensitivity. It remains unclear whether 
+the elasticity of gating springs resides primarily in the 
+tip links or in the structures at their two insertions.
+In the mammalian cochlea, hair bundles are 
+deflected through their linkage to the tectorial mem-
+brane. When the basilar membrane oscillates up 
+and down in response to a sound, the organ of Corti 
+and the overlying tectorial membrane move with it. 
+Because the basilar and tectorial membranes pivot 
+about different lines of insertion, however, their up-
+and-down motion is accompanied by a back-and-
+forth shearing motion between the upper surface of 
+the organ of Corti and the lower surface of the tecto-
+rial membrane. This is the motion that is detected by 
+hair cells (Figure 26–9).
+The hair bundles of outer hair cells, whose tips are 
+firmly attached to the tectorial membrane, are directly 
+deflected by this movement. The hair bundles of inner 
+hair cells, which do not contact the tectorial membrane, 
+are deflected by movement of the liquid beneath the 
+membrane. This mode of stimulation affords some 
+mechanical magnification of the signals reaching hair 
+
+
+===== Page 7 =====
+610    Part IV / Perception
+Figure 26–8  Mechanoelectrical trans-
+duction by hair cells.
+A. A tip link connects each stereocilium to 
+the side of the longest adjacent stereocil-
+ium, as seen in a scanning electron micro-
+graph (left) and a transmission electron 
+micrograph (right) of a hair bundle’s top 
+surface. Each tip link is only 3 nm in diam-
+eter and 150 to 200 nm in length. The 
+links appear stouter in the illustration on 
+the left because of metallic coating during 
+specimen preparation. (Reproduced, with 
+permission, from Assad, Shepherd, and 
+Corey 1991; reproduced, with permission, 
+from Hudspeth and Gillespie 1994.)
+B. Top: Ion flux through the channel that 
+underlies mechanoelectrical transduction 
+in hair cells is regulated by a molecular 
+gate. The opening and closing of the gate 
+are controlled by the tension in an elastic 
+element, the gating spring, which senses 
+hair-bundle displacement. (Adapted, with 
+permission, from Howard and Hudspeth 
+1988.)
+Bottom: When the hair bundle is at rest, 
+each transduction channel fluctuates 
+between closed and open states, spend-
+ing most of its time shut. Displacement 
+of the bundle in the positive direction 
+increases the tension in the gating spring, 
+here assumed to be in part a tip link, 
+attached to each channel’s molecular 
+gate. The enhanced tension promotes 
+channel opening and the influx of cations, 
+thereby producing a depolarizing receptor 
+potential. (Adapted, with permission, from 
+Hudspeth 1989.)
+A
+B
+Tip link
+bundles. At least for high-frequency stimuli, the move-
+ments of hair bundles are thought to be severalfold 
+greater than that of the basilar membrane.
+Direct Mechanoelectrical Transduction Is Rapid
+Hair cells operate much more quickly than do other 
+sensory receptor cells of the vertebrate nervous system 
+and, indeed, more quickly than neurons themselves. 
+To deal with the frequencies of biologically relevant 
+sounds, transduction by hair cells must be rapid. 
+Given the behavior of sound in air and the dimen-
+sions of sound-emitting and sound-absorbing organs 
+such as vocal cords and eardrums, optimal audi-
+tory communication occurs in the frequency range of  
+10 Hz to 100 kHz. Much higher frequencies propagate 
+
+
+===== Page 8 =====
+Chapter 26 / Auditory Processing by the Cochlea    611
+Figure 26–9  Forces acting on cochlear hair cells. Hair cells 
+in the cochlea are stimulated when the basilar membrane is 
+driven up and down by differences in the pressure between the 
+scala vestibuli and scala tympani. This motion is accompanied 
+by shearing movements between the tectorial membrane and 
+organ of Corti. These motions deflect the hair bundles of outer 
+hair cells, which are attached to the lower surface of the tecto-
+rial membrane. The hair bundles of inner hair cells, which are 
+not attached to the tectorial membrane, are deflected by the 
+movement of liquid in the space beneath that structure. In both 
+instances, the deflection initiates mechanoelectrical transduc-
+tion of the stimulus.
+A. When the basilar membrane is driven upward, shear 
+between the hair cells and the tectorial membrane deflects hair 
+bundles in the excitatory direction, toward their tall edge.
+B. At the midpoint of an oscillation, the hair bundles resume 
+their resting position.
+C. When the basilar membrane moves downward, the hair bun-
+dles are driven in the inhibitory direction.
+Tectorial membrane
+Inner
+hair cell
+Outer
+hair cells
+Basilar membrane
+A
+B
+C
+poorly through air; much lower frequencies are inef-
+ficiently produced and poorly captured by animals of 
+moderate size. Even in animals sensitive to relatively 
+low frequencies, such as frogs, the in vitro transduc-
+tion current in response to a step stimulus of moder-
+ate intensity rises with a time constant of only 80 μs 
+at room temperature. For mammals to be able to 
+respond to frequencies greater than 100 kHz, the hair 
+cells evidently display gating times that are an order 
+of magnitude smaller. Locating sound sources, one 
+of the most important functions of hearing, sets even 
+more stringent limits on the speed of transduction  
+(Chapter 28). A sound from a source directly to one 
+side of a person reaches the nearer ear somewhat 
+sooner than the farther, by at most 700 μs in humans. 
+An observer can locate sound sources on the basis of 
+much smaller delays, about 10 μs. For this to occur, 
+hair cells must be capable of transducing acoustic 
+waveforms with microsecond-level resolution.
+Deafness Genes Provide Components of the 
+Mechanotransduction Machinery
+Genetic studies of deafness in both humans and mouse 
+models have provided entry points into the molecular 
+composition of the mechanotransduction machinery of 
+the hair cell. In particular, the upper two-thirds of the 
+tip link consist of two parallel molecules of cadherin-23, 
+whereas the lower third comprises two parallel mol-
+ecules of protocadherin-15 (Figure 26–10). The two 
+components are joined at their tips in a Ca2+-sensitive 
+manner; lowering the extracellular Ca2+ concentration 
+below approximately 1 μM disrupts their association. 
+In humans, mutations in the genes coding for cadherin 
+23 (USH1D) and protocadherin 15 (USH1F) lead to the 
+most severe form of the Usher syndrome, an autosomal 
+recessive disorder that associates severe-to-profound 
+congenital deafness, constant vestibular dysfunction, 
+and retinitis pigmentosa with a prepubertal onset. The 
+study of other genes involved in this type of Usher 
+syndrome has revealed that the upper end of the tip 
+link is anchored to the actin core of a stereocilium by a 
+protein complex that includes the scaffolding proteins 
+sans (USH1G) and harmonin (USH1C), as well as the 
+molecular motor myosin 7a (USH1B).
+The small number of channels in a hair cell, along 
+with the lack of high-affinity ligands with which to 
+label them, explains why the biochemical identity of 
+the transduction channels has long remained uncertain. 
+However, recent genetic, biochemical, and biophysical 
+experiments indicate that four integral transmembrane 
+proteins are intimately related to the transduction 
+channel: transmembrane channel-like proteins 1 and 
+
+
+===== Page 9 =====
+612    Part IV / Perception
+Figure 26–10  Molecular composition of the transduction 
+machinery.
+A. The tip link is composed of the heterophilic association of 
+protocadherin 15 and cadherin 23. Two transduction channels 
+are localized near the lower insertion point of the tip link at 
+the tip of the shorter stereocilium. Each channel is part of a 
+molecular complex that includes the proteins TMC1/2, LHFPL5, 
+and TMIE. At the upper insertion point on the flank of the 
+longer stereocilium, cadherin 23 interacts with harmonin b and 
+the molecular motor myosin 7a, which both bind to actin and 
+thus anchor the tip link. The protein sans serves as a scaffolding 
+protein. In vestibular hair cells, myosin 1c may set the tip link 
+under tension, but the presence of this motor protein is uncer-
+tain in cochlear hair cells.
+B. Model of the transduction-channel complex. TMC1/2, LHFPL5, 
+and TMIE interact with protocadherin 15 and, thus, with the lower 
+end of the tip link. TMIE also interacts with LHFPL5. The detailed 
+arrangement of these proteins within the transduction apparatus 
+is still unknown. Unlike what the figure suggests, TMC1 has been 
+proposed to assemble as a dimer, with each TMC1 molecule  
+contributing a permeation pathway for cations. (Adapted, with  
+permission, from Wu and Müller 2016 and Pan et al. 2018.)
+TMIE
+LHFPL5
+Protocadherin-15
+Model of the transduction-channel complex
+TMC1/2
+Actin
+ﬁlament
+Myosin 7a /1c
+Harmonin b
+Sans
+Protocadherin-15
+Tip link
+Cadherin-23
+Channel complex
+LHFPL5, TMIE, TMC1/2
+B
+A
+2 (TMC1 and TMC2), tetraspan membrane protein 
+in hair-cell stereocilia (TMHS; official nomenclature 
+LHFPL5), and transmembrane inner-ear-expressed 
+gene (TMIE; Figure 26–10). Mechanotransduction 
+is abolished in mouse hair cells lacking TMIE, even 
+though all other known components of the trans-
+duction machinery appear to be properly in place. 
+However, because TMIE contains only two pre-
+dicted transmembrane domains, it seems highly 
+unlikely that this protein alone constitutes an ion 
+channel. In the absence of LHFPL5, the conductance 
+of the transduction channel is reduced, but signifi-
+cant transduction currents can still be measured, 
+suggesting that this protein is not an essential part 
+of the channel pore.
+Multiple lines of evidence advocate for TMC1 and 
+TMC2 as components of the transduction channel. 
+Both proteins are localized near the lower insertion 
+point of the tip link, where the transduction current 
+enters the hair cell, interact with the tip-link constit-
+uent protocadherin 15, and their onset of expression 
+coincides with that of mechanoelectrical transduction. 
+In addition, transduction channels in a mouse carrying 
+a single point mutation in the Tmc1 gene show lower 
+conductance and Ca2+ permeability, indicating that 
+TMC1 is very close to the channel’s pore. Individual 
+
+

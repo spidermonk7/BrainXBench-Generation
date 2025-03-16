@@ -1,0 +1,715 @@
+===== Page 1 =====
+50
+Repairing the Damaged Brain
+have been renowned for their ability to localize lesions 
+with great precision but until recently have had little 
+to offer in terms of treatment. This situation is now 
+changing.
+Advances in our understanding of the structure, 
+function, and chemistry of the brain’s neurons, glial 
+cells, and synapses have led to new ideas for treat-
+ment. Many of these are now in clinical trials, and 
+some are already available to patients. Developmental 
+neuroscience is emerging as a major contributor to this 
+sea change for three main reasons. First, efforts to pre-
+serve or replace neurons lost to damage or disease rely 
+on recent advances in our understanding of the mecha-
+nisms that control the generation and death of nerve 
+cells in embryos (Chapters 45 and 46). Second, efforts 
+to improve the regeneration of neural pathways fol-
+lowing injury draw heavily on what we have learned 
+about the growth of axons and the formation of syn-
+apses (Chapters 47 and 48). Third, there is increasing 
+evidence that some devastating brain disorders, such 
+as autism and schizophrenia, are the result of distur-
+bances in the formation of neural circuits in embryonic 
+or early postnatal life. Accordingly, studies of normal 
+development provide an essential foundation for dis-
+covering precisely what has gone wrong in disease.
+In this chapter, we focus on the first two of these 
+issues: how neuroscientists hope to augment the lim-
+ited ability of neurons to recover normal function. We 
+shall begin by describing how axons degenerate fol-
+lowing the separation of the axon and its terminals 
+from the cell body. The regeneration of severed axons 
+is robust in the peripheral nervous system of mam-
+mals and in the central nervous system of lower verte-
+brates, but very poor in the central nervous system of 
+Damage to the Axon Affects Both the Neuron and 
+Neighboring Cells
+Axon Degeneration Is an Active Process
+Axotomy Leads to Reactive Responses in Nearby Cells
+Central Axons Regenerate Poorly After Injury
+Therapeutic Interventions May Promote Regeneration of 
+Injured Central Neurons
+Environmental Factors Support the Regeneration of 
+Injured Axons
+Components of Myelin Inhibit Neurite Outgrowth
+Injury-Induced Scarring Hinders Axonal Regeneration
+An Intrinsic Growth Program Promotes Regeneration
+Formation of New Connections by Intact Axons Can 
+Lead to Recovery of Function Following Injury
+Neurons in the Injured Brain Die but New Ones Can Be Born
+Therapeutic Interventions May Retain or Replace Injured 
+Central Neurons
+Transplantation of Neurons or Their Progenitors Can 
+Replace Lost Neurons
+Stimulation of Neurogenesis in Regions of Injury May 
+Contribute to Restoring Function
+Transplantation of Nonneuronal Cells or Their 
+Progenitors Can Improve Neuronal Function
+Restoration of Function Is the Aim of  
+Regenerative Therapies
+Highlights
+F
+or much of its history, neurology has been a 
+discipline of outstanding diagnostic rigor but lit-
+tle therapeutic efficacy. Simply put, neurologists 
+
+
+===== Page 2 =====
+Chapter 50 / Repairing the Damaged Brain    1237
+Figure 50–1  Axotomy affects the injured neuron and its 
+synaptic partners.
+A. A normal neuron with an intact functional axon wrapped by 
+myelinating cells contacts a postsynaptic neuron. The neuron’s 
+cell body is itself a postsynaptic target.
+B. After axotomy, the nerve terminals of the injured neuron 
+begin to degenerate (1). The distal axonal stump separates 
+from the parental cell body, becomes irregular, and undergoes 
+Wallerian degeneration (2). Myelin begins to fragment (3) and 
+the lesion site is invaded by phagocytic cells (4). The cell body 
+of the damaged neuron undergoes chromatolysis: The cell 
+body swells and the nucleus moves to an eccentric position 
+(5). Synaptic terminals that contact the damaged neuron with-
+draw and the synaptic site is invaded by glial cell processes (6). 
+The injured neuron’s inputs (7) and targets (8) can atrophy and 
+degenerate.
+mammals. Many investigators have sought the reasons 
+for these differences in the hope that understanding 
+them will lead to methods for augmenting recovery 
+of the human brain and spinal cord following injury. 
+Indeed, we shall see that several differences in regen-
+erative capacity of mammalian neurons have been 
+discovered, each of which has opened promising new 
+approaches to therapy.
+We shall then consider an even more dire conse-
+quence of neural injury: the death of neurons. The ina-
+bility of the adult brain to form new neurons has been 
+a central dogma of neuroscience since the pioneering 
+neuroanatomist Santiago Ramón y Cajal asserted that 
+in the injured central nervous system, “Everything 
+may die, nothing may be regenerated.” This pessi-
+mistic view dominated neurology for most of the last 
+century despite the fact that Ramón y Cajal added, “It 
+is for the science of the future to change, if possible, 
+this harsh decree.” Remarkably, in the past few dec-
+ades, evidence has accumulated that neurogenesis 
+does occur in certain regions of the adult mammalian 
+brain. This discovery has helped accelerate the pace 
+of research on ways to stimulate neurogenesis and to 
+replace neurons following injury. More than a century 
+later, neuroscientists are finally beginning to reverse 
+Cajal’s “harsh decree.”
+Damage to the Axon Affects Both the  
+Neuron and Neighboring Cells
+Because many neurons have very long axons and 
+cell bodies of modest size, most injuries to the cen-
+tral or peripheral nervous system involve damage to 
+axons. Transection of the axon, either by cutting or by 
+crushing, is called axotomy, and its consequences are 
+numerous.
+Axon Degeneration Is an Active Process
+Axotomy divides the axon in two: a proximal segment 
+that remains attached to the cell body and a distal seg-
+ment that has lost this crucial attachment. Axotomy 
+dooms the distal segment of the axon because energy 
+supplies dwindle during a short-lived latent period. 
+Soon the alterations become irreversible. Synaptic 
+transmission fails at severed nerve terminals, and 
+calcium levels increase within the axon. The calcium 
+activates proteases, initiating a program of cytoskeletal 
+disassembly and degradation, and physical degenera-
+tion of the axon ensues. Once the denervation begins, 
+its progression is relatively rapid and inexorably pro-
+ceeds to completion (Figure 50–1). This degenerative 
+response is the first step in an elaborate constellation 
+Nissl substance
+A
+B
+Myelin
+Transneuronal
+degeneration
+(retrograde)
+Transneuronal
+degeneration
+(anterograde)
+Retraction of
+synaptic terminals
+and glial cell
+invasion
+Chromatolysis
+Microglia
+macrophage
+inﬁltration
+Myelin
+debris
+Wallerian
+degeneration
+Terminal
+degeneration
+Oligodendrocyte
+or Schwann cell
+7
+6
+5
+4
+3
+2
+1
+8
+Glial 
+cell
+
+
+===== Page 3 =====
+1238    Part VII / Development and the Emergence of Behavior
+Figure 50–2  Axonal degeneration is delayed in Wlds 
+mutant mice. In wild type animals, axons in the distal 
+stump degenerate rapidly after sectioning of a peripheral 
+nerve, as shown by disrupted axonal fragments (yel-
+low) and the lack of myelinated axonal profiles at the 
+electron micrographic level. In Wlds mutant mice the 
+distal portion of severed axons persists for a long time. 
+(Confocal micrographs reproduced, with permission, from 
+Beirowski et al. 2004. Copyright © 2004 Elsevier B.V.; 
+electron micrographs reproduced, with permission, from 
+Mack TGA, Reiner M, Beirowski B, et al. 2001. Copyright 
+© 2001 Springer Nature.)
+of changes, called Wallerian degeneration, that were ini-
+tially described in 1850 by Augustus Waller.
+The degeneration of transected axons was long 
+thought to be a passive process, the consequence of 
+separation from the cell body, where most of the cell’s 
+proteins are synthesized. Lacking a source of new pro-
+tein, the distal stump was thought to simply wither 
+away. But the discovery and analysis in mice of a spon-
+taneously occurring mutation called Wlds (Wallerian 
+degeneration slow) challenged this view (Figure 50–2). 
+In Wlds mutant mice, the distal stumps of peripheral 
+nerves persist for several weeks after transection, 
+about 10-fold longer than in normal mice. This remark-
+able finding suggested that degeneration is not a pas-
+sive consequence of separation from the cell body, but 
+is rather an actively regulated response.
+Analysis of the Wlds mutant mice led to insights 
+into the nature of this regulation. The mutation led to 
+formation of a mutant form of nicotinamide mononu-
+cleotide adenyltransferase 1 (NMNAT1), an enzyme 
+involved in biosynthesis of a metabolic cofactor, nicoti-
+namide adenine dinucleotide (NAD). A related enzyme, 
+NMNAT2, which is normally present in the axon, 
+becomes quite unstable and breaks down rapidly fol-
+lowing axotomy, leading to loss of NAD, which is criti-
+cal for maintenance of energy homeostasis in the axon. 
+Although normal NMNAT1 is confined to the nucleus, 
+the mutant Wlds form mislocalizes to the axon, where 
+it substitutes for NMNAT2 to prolong axonal survival. 
+Surprisingly, a main way that both the wild type and 
+Wlds forms of NMNAT maintain NAD levels is not 
+by synthesizing it but by inhibiting another protein, 
+SARM1, that breaks down NAD. Thus, loss of SARM 
+protects damaged axons, whereas activation of SARM1 
+leads to degeneration (Figure 50–3A). Several other pro-
+teins modulate this core pathway (Figure 50–3B).
+10–12 
+days later
+Wild type
+Wlds mutant
+
+
+===== Page 4 =====
+Figure 50–3  A core pathway regulates axon degeneration 
+following axotomy in mice.
+A. Damage to neurites in vitro leads to degeneration of the por-
+tions separated from the cell body. Likewise, axotomy in vivo 
+leads to Wallerian degeneration, as shown by loss of myelin 
+profiles in the cross section. Both in vitro and in vivo axons are 
+spared if the SARM1 gene is deleted. (From Gerdts et al. 2013.)
+B. NMNAT2, closely related to the mutant Wlds protein, is  
+normally present in axons. It can generate nicotinamide 
+adenine dinucleotide (NAD) and inhibit SARM1, which 
+degrades NAD. High NAD levels are required for  
+energy metabolism, keeping adenosine triphosphate (ATP)  
+levels high and calcium levels low in the axon. Following  
+axotomy, NMNAT2 levels decrease rapidly, disinhibiting 
+SARM1. NAD levels fall, ATP is depleted, calcium levels rise, 
+calcium-dependent proteases are activated, and the axon is 
+degraded. Kinases (MAPK) and a ubiquitin ligase (Phr1) regulate 
+the pathway.
+A
+Uninjured
+Injured
+B
+Uninjured
+Injured
+Wild type
+In vitro
+In vivo
+Wild type
+SARM1 KO
+Axonal
+integrity
+Axonal
+transport
+?
+?
+Ca2+ LOW
+ATP HIGH
+NAD
+NMNAT2
+NAM
+SARM1OFF
+PHR1
+MAPK2
+NMN
+Axonal
+degeneration
+Axonal
+damage
+Ca2+ HIGH
+ATP LOW
+NAD
+NMNAT2
+NAM
+SARM1ON
+PHR1
+MAPK2
+NMN
+
+
+===== Page 5 =====
+1240    Part VII / Development and the Emergence of Behavior
+Together, these exciting new discoveries provide 
+an answer to the question of why, following axotomy, 
+the distal stump degenerates while the proximal 
+stump is preserved. The conventional explanation 
+that the distal stump is deprived of nutrients normally 
+delivered from the cell body is incomplete. Instead, 
+a signaling pathway in the axon senses damage and 
+rapidly triggers degeneration. In this scenario, the 
+key element supplied by the axon is NMNAT2. Its 
+breakdown following axotomy disinhibits SARM1 
+and, perhaps in parallel with activation of factors that 
+stimulate SARM1, triggers the loss of NAD, lead-
+ing to the energy crisis that results in Wallerian 
+degeneration.
+These recent discoveries may be useful in devising 
+treatments for neurological disorders in which axonal 
+degeneration is prominent and generally precedes 
+neuronal death. A fatal disease of motor neurons, 
+amyotrophic lateral sclerosis, falls into this category. 
+Other possibilities include some forms of spinal mus-
+cular atrophy, Parkinson disease, and even Alzhei-
+mer disease. Axon degeneration that occurs in these 
+diseases, as well as after metabolic, toxic, or inflam-
+matory insults, resembles the degeneration that 
+follows acute trauma and may be regulated in similar 
+ways. Thus, while methods for saving transected distal 
+axons are unlikely to be useful clinically for treating 
+patients who have suffered traumatic injury, the same 
+techniques could be useful in treating neurodegenera-
+tive diseases.
+Even though the proximal portion of the axon 
+remains attached to the cell body, it too suffers. And in 
+some cases, the neuron itself dies by apoptosis, prob-
+ably because axotomy isolates the cell body from its 
+supply of target-derived trophic factors. Even when 
+this does not occur, the cell body often undergoes a 
+series of cellular and biochemical changes called the 
+chromatolytic reaction: The cell body swells, the nucleus 
+moves to an eccentric position, and the rough endo-
+plasmic reticulum becomes fragmented (Figure 50–1B). 
+Chromatolysis is accompanied by other metabolic 
+changes, including an increase in protein and RNA 
+synthesis as well as a change in the pattern of genes 
+that the neuron expresses. These changes are reversed 
+if regeneration is successful.
+Axotomy Leads to Reactive Responses  
+in Nearby Cells
+Axotomy sets in motion a cascade of responses in 
+numerous types of neighboring cells. Among the most 
+important responses are those of the glial cells that 
+ensheath the distal nerve segment. One is fragmentation 
+of the myelin sheath, which is then removed by phago-
+cytes. This process is rapid in the peripheral nervous 
+system, where the myelin-producing Schwann cells 
+break the myelin into small fragments and engulf it. 
+Schwann cells, which then divide, secrete factors that 
+recruit macrophages from the blood stream. The mac-
+rophages in turn assist the Schwann cells in disposing 
+of debris. Schwann cells also produce growth factors 
+that promote axon regeneration, a point to which we 
+will return later.
+In contrast, in the central nervous system, the 
+myelin-forming oligodendrocytes have little or no 
+ability to dispose of myelin, and removal of debris 
+depends on resident phagocytic cells called microglia. 
+This difference in cellular properties may help explain 
+the observation that Wallerian degeneration proceeds 
+to completion much more slowly in the central nerv-
+ous system.
+Axotomy also affects both the synaptic inputs to 
+and the synaptic targets of the injured neuron. When 
+axotomy disrupts the major inputs to a cell—as hap-
+pens in denervated muscle, or to neurons in the lateral 
+geniculate nucleus when the optic nerve is cut—the 
+consequences are severe. Usually the target atrophies 
+and sometimes dies. When targets are only partially 
+denervated, their responses are more limited. In addi-
+tion, axotomy affects presynaptic neurons. In many 
+instances, synaptic terminals withdraw from the cell 
+body or dendrites of chromatolytic neurons and are 
+replaced by the processes of glial cells—Schwann cells 
+in the periphery and microglia or astrocytes in the 
+central nervous system. This process, called synaptic 
+stripping, depresses synaptic activity and can impair 
+functional recovery.
+Although the mechanism of synaptic stripping 
+remains unclear, two possibilities have been sug-
+gested. One is that postsynaptic injury causes axon 
+terminals to lose their adhesiveness to synaptic sites so 
+that they are subsequently wrapped by glia. The other 
+is that glia initiate the process of synaptic stripping in 
+response to factors released from the injured neuron 
+or to changes in its cell surface. Whatever the trigger, 
+the activation of microglia and astrocytes by axotomy 
+clearly contributes to the stripping process. In addi-
+tion, biochemically altered astrocytes, called reactive 
+astrocytes, contribute to formation of a glial scar near 
+sites of injury.
+As a result of these transsynaptic effects, neu-
+ronal degeneration can propagate through a circuit 
+in both anterograde and retrograde directions. For 
+example, a denervated neuron that becomes severely 
+atrophic can fail to activate its target, which in turn 
+becomes atrophic. Likewise, when synaptic stripping 
+
+
+===== Page 6 =====
+Chapter 50 / Repairing the Damaged Brain    1241
+Figure 50–4  Axons in the periphery regenerate better than 
+those in the central nervous system. After sectioning of a 
+peripheral nerve, the perineural sheath reforms rapidly and 
+Schwann cells in the distal stump promote axonal growth by 
+producing trophic and attractant factors and expressing high 
+levels of adhesive proteins. After sectioning of an axona in the 
+central nervous system, the distal segment disintegrates and 
+myelin fragments. In addition, reactive astrocytes and mac-
+rophages are attracted to the lesion site. This complex cellular 
+milieu, termed a glial scar, inhibits axonal regeneration.
+prevents an afferent neuron from obtaining sufficient 
+sustenance from its target cell, the afferent neuron’s 
+inputs are placed at risk. Such chain reactions help to 
+explain how injury in one area in the central nervous 
+system eventually affects regions far from the site of 
+the injury.
+Central Axons Regenerate Poorly After Injury
+Central and peripheral nerves differ substantially in 
+their ability to regenerate after injury. Peripheral nerves 
+can often be repaired following injury. Although the 
+distal segments of peripheral axons degenerate, con-
+nective tissue elements surrounding the distal stump 
+generally survive.
+Axonal sprouts grow from the proximal stump, 
+enter the distal stump, and grow along the nerve toward 
+its targets (Figure 50–4). The mechanisms that drive 
+this process are related to those that guide embryonic 
+axons. Chemotropic factors secreted by Schwann cells 
+attract axons to the distal stump, adhesive molecules 
+within the distal stump promote axon growth along 
+cell membranes and extracellular matrices, and inhibi-
+tory molecules in the perineural sheath prevent regen-
+erating axons from going astray.
+Once regenerated peripheral axons reach their tar-
+gets, they are able to form new functional nerve end-
+ings. Motor axons form new neuromuscular junctions; 
+autonomic axons successfully reinnervate glands, 
+blood vessels, and viscera; and sensory axons reinner-
+vate muscle spindles. Finally, those axons that lost their 
+myelin sheaths are remyelinated, and chromatolytic 
+cell bodies regain their original appearance. Thus, in 
+all three divisions of the peripheral nervous system—
+motor, sensory, and autonomic—the effects of axotomy 
+are reversible. Peripheral regeneration is not perfect, 
+however. In the motor system, recovery of strength 
+may be substantial, but recovery of fine movements is 
+usually impaired. Some motor axons never find their 
+targets, some form synapses on inappropriate muscles, 
+and some motor neurons die. Nevertheless, the regen-
+erative capacities in the peripheral nervous system are 
+impressive.
+Myelin
+Schwann cell
+Peripheral nervous system
+Myelin
+Oligodendrocyte
+Central nervous system
+Reactive 
+astrocyte
+invasion
+Glial
+scar
+Macrophage
+inﬁltration
+Sheath 
+reforms
+Schwann cells 
+promote growth
+Perineural 
+sheath
+
+
+===== Page 7 =====
+1242    Part VII / Development and the Emergence of Behavior
+Figure 50–5  A transplanted peripheral nerve provides 
+a favorable environment for the regeneration of central 
+axons. Left: After sectioning of the spinal cord, ascending and 
+descending axons fail to cross the lesion site. Right: Insertion 
+of a peripheral nerve graft that bypasses the lesion site pro-
+motes regeneration of both ascending and descending axons. 
+(Adapted from David and Aguayo 1981.)
+In contrast, regeneration after injury is poor in 
+the central nervous system (Figure 50–4). The proxi-
+mal stumps of damaged axons can form short sprouts, 
+but these soon stall and form swollen endings called 
+“retraction bulbs”, which fail to progress. Long-distance 
+regeneration is rare. The failure of central regenera-
+tion is what led to the long-standing belief that inju-
+ries to the brain and spinal cord are largely irreversible 
+and that therapy must be restricted to rehabilitative 
+measures.
+For some time, neurobiologists have been seeking 
+the reasons why regenerative capacity in the central 
+and peripheral nervous systems differs so dramati-
+cally. The goal of this work has been to identify the 
+crucial barriers to regeneration so that they can be 
+overcome. These studies have begun to bear fruit, and 
+there is now cautious optimism that the injured human 
+brain and spinal cord have a regenerative capacity that 
+can eventually be exploited.
+Before discussing these new developments, it is 
+helpful to consider the problem of neural regenera-
+tion in a broader biological context. Is it the ability of 
+peripheral axons to regenerate that is unusual, or the 
+inability of central axons to do so? It is in fact the latter. 
+Obviously, central axons grow well during develop-
+ment. More surprisingly, axons in immature mammals 
+can also regenerate following transection in the brain 
+or spinal cord. Moreover, regeneration is robust in the 
+adult central nervous systems of lower vertebrates 
+such as fish and frogs, as exemplified by the studies of 
+Roger Sperry on restoration of vision following dam-
+age to the optic nerve (Chapter 47).
+So why have mature mammals lost this seemingly 
+important capacity for repair? The answer may lie in 
+what the mammalian brain can do peerlessly, which 
+is to remodel its basic wiring diagram in accordance 
+with experience during critical periods in early post-
+natal life, so that each individual’s brain is optimized 
+to deal with the changes and challenges of internal 
+and external worlds (Chapter 49). Once remodeling 
+has occurred, it must be stabilized. Although it is 
+obviously useful to reassign cortical space to one eye 
+if the other is blinded in childhood, we would not 
+want our cortical connections similarly rearranged in 
+response to a brief period of unusual illumination or 
+darkness. Maintaining constancy in the face of small 
+perturbations in connectivity may therefore have the 
+unavoidable consequence of limiting the ability of cen-
+tral connections to regenerate in response to injury. In 
+this view, our limited regenerative capacity is a Faus-
+tian bargain in which we have sacrificed recuperative 
+power to ensure the maintenance of precisely wired 
+circuits that underlie our superior intellectual capacity.
+Therapeutic Interventions May Promote 
+Regeneration of Injured Central Neurons
+In seeking reasons for the poor regeneration of central 
+axons, one critical question is whether it reflects an ina-
+bility of neurons themselves to grow or an inability of 
+the environment to support axonal growth. This issue 
+was addressed by Albert Aguayo and his colleagues 
+in the early 1980s. They inserted segments of a central 
+nerve trunk into a peripheral nerve, and segments of a 
+peripheral nerve into the brain or spinal cord, to find 
+out how axons would respond when confronted with 
+a novel environment.
+As expected, axons in the grafts, which were sep-
+arated from their somata, promptly degenerated, leav-
+ing “distal stumps” containing glia, support cells, and 
+extracellular matrix. What was striking was the behavior 
+of axons near the translocated segments. Spinal axons 
+that regenerated poorly following spinal cord injury 
+grew several centimeters into the peripheral graft 
+(Figure 50–5). Similarly, retinal axons, which regener-
+ated poorly following damage to the optic nerve, grew 
+long distances into a peripheral graft placed in their path.  
+Peripheral
+nerve graft
+Central
+nervous
+system
+
+
+===== Page 8 =====
+Chapter 50 / Repairing the Damaged Brain    1243
+Figure 50–6  Peripheral and central nerves differ in their 
+ability to support axonal regeneration.
+A. In the peripheral nervous system, severed axons regrow 
+past the site of injury. Insertion of a segment of optic nerve 
+into a peripheral nerve suppresses the ability of the peripheral 
+nerve to regenerate.
+B. In the central nervous system, severed axons typically  
+fail to regrow past the site of injury. Insertion of a sec-
+tion of peripheral nerve into a central nerve tract promotes 
+regeneration.
+Conversely, peripheral axons regenerated well through 
+their own distal nerve trunk, but fared poorly when 
+paired with a severed optic nerve (Figure 50–6).
+Aguayo extended these studies to show that axons 
+from multiple regions, including the olfactory bulb, 
+brain stem, and mesencephalon, could all regenerate 
+long distances if provided with a suitable environment. 
+Even an optimal environment cannot fully restore the 
+growth potential of central axons for reasons we will 
+discuss in a later section. Nevertheless, these pioneer-
+ing experiments focused attention on components of the 
+central environment that inhibit regenerative ability and 
+motivated an intensive search for the molecular culprits.
+Environmental Factors Support the Regeneration  
+of Injured Axons
+In probing the differences between peripheral and 
+central growth environments, initial searches were 
+influenced by the results of experiments performed 
+by Ramón y Cajal’s student Francisco Tello nearly a 
+century before Aguayo’s studies. Tello transplanted 
+segments of peripheral nerves into the brains of exper-
+imental animals and found that injured central axons 
+grew toward the implants, whereas they barely grew 
+when implants were not available.
+This result implied that peripheral cells provide 
+growth-promoting factors to the injured areas, factors 
+normally absent from the brain. Ramón y Cajal rea-
+soned that central nerve pathways lacked “substances 
+able to sustain and invigorate the indolent and scanty 
+growth” similar to those provided by peripheral path-
+ways. Numerous studies over the succeeding century 
+identified constituents of peripheral nerves that are 
+potent promoters of neurite outgrowth. These include 
+components of Schwann cell basal laminae, such as 
+laminin, and cell adhesion molecules of the immuno-
+globulin superfamily. In addition, cells in denervated 
+Cut peripheral nerve
+Cut optic nerve
+Regeneration
+Poor regeneration
+Cut and transplant  
+peripheral nerve
+Cut and transplant  
+optic nerve
+Regeneration
+No regeneration
+Spinal cord
+Muscle
+Retina
+Tectum
+A  Peripheral nervous system 
+ 
+(motor and sensory nerve)
+B  Central nervous system
+ 
+(optic nerve) 
+
+
+===== Page 9 =====
+1244    Part VII / Development and the Emergence of Behavior
+Figure 50–7  Myelin inhibits regeneration of central 
+axons. (Adapted, with permission, from Schwegler, Schwab, 
+and Kapfhammer 1995.)
+A. Sensory fibers normally extend rostrally in a myelin-rich  
+spinal cord.
+B. Right dorsal root fibers were sectioned in 2-week-old normal 
+rats. Regeneration of the fibers was assessed histochemically 
+20 days later. The central branches of the sectioned axons 
+degenerated, leaving a portion of the spinal cord denervated. 
+Little regeneration occurred in the myelin-rich cord.
+C. Some littermates received local x-irradiation to block myeli-
+nation. In these animals, sensory fibers that entered the cord 
+through neighboring uninjured roots sprouted new collaterals 
+following denervation.
+distal nerve stumps begin to produce neurotrophins 
+and other trophic molecules of the sort described in 
+Chapter 46. Together, these molecules nourish neurons 
+and guide growing axons in the embryonic nervous 
+system, so it makes sense that they also promote the 
+regrowth of axons. By contrast, central neuronal tis-
+sue is a poor source of these molecules, containing lit-
+tle laminin and low levels of trophic molecules. Thus, 
+in the embryo, both central and peripheral nervous 
+systems provide environments that promote axon out-
+growth. But only the peripheral environment retains 
+this capacity in adulthood or is able to regain it effec-
+tively following injury.
+The practical implications of this view are that 
+supplementing the central environment with growth-
+promoting molecules might improve regeneration. To 
+this end, investigators have infused neurotrophins 
+into areas of injury or inserted fibers rich in extracel-
+lular matrix molecules such as laminin to serve as scaf-
+fold for axonal growth. In some attempts, Schwann 
+cells themselves, or cells engineered to secrete trophic 
+factors, have been grafted into sites of injury. In many 
+of these cases, injured axons grow more extensively 
+than they do under control conditions. Yet regenera-
+tion remains limited, with axons generally failing to 
+extend long distances. More important, functional 
+recovery is minimal.
+Components of Myelin Inhibit Neurite Outgrowth
+What accounts for such disappointingly limited regen-
+eration? One part of the explanation is that the envi-
+ronment encountered by severed central axons is not 
+only poor in growth-promoting factors but also rich in 
+growth-inhibiting factors, some of which are derived 
+from myelin. In culture, fragments of central but not 
+peripheral myelin potently inhibit neurite outgrowth 
+from co-cultured central or peripheral neurons. Con-
+versely, sprouting of spinal axon collaterals following 
+injury is enhanced in rats treated to prevent myelin 
+formation in the spinal cord (Figure 50–7).
+These findings implied that although both central 
+and peripheral environments might contain a supply 
+of growth-promoting elements, central nerves also 
+contain inhibitory components. The fact that myelin 
+inhibits neurite growth may seem peculiar, but not if 
+we consider that myelination normally occurs postna-
+tally, after axon extension is largely complete.
+Searches for the inhibitory components of central 
+myelin turned up an embarrassment of riches. Several 
+classes of molecules that occur at higher levels in cen-
+tral myelin compared to peripheral myelin are able to 
+inhibit neurite outgrowth when presented to cultured 
+neurons. The first to be discovered was identified when 
+an antibody generated against myelin proteins proved 
+A  Normal
+B  Limited regeneration 
+ 
+in myelin-rich cord
+C  Regeneration in 
+ 
+myelin-free cord
+Myelin
+Myelin free
+Sensory 
+ﬁbers
+
+

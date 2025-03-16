@@ -1,0 +1,275 @@
+===== Page 1 =====
+BURSTING CELLS
+Some neurons throughout the animal kingdom respond to an intracellular current injection
+or to an appropriate sensory stimulus with a stereotypical sequence of two to five fast spikes
+riding upon a slow depolarizing envelope. The entire event, termed a burst, is over within
+10-40 msec and is usually terminated by a profound afterhyperpolarization (ΑΗΡ). Such
+bursting cells are not a random feature of a certain fraction of all cells but can be identified
+with specific neuronal subpopulations. What are the mechanisms generating this intrinsic
+firing pattern and what is its meaning?
+Bursting cells can easily be distinguished from a cell firing at a high maintained frequency
+by the fact that bursts will persist even at a low firing frequency. As illustrated by the thalamic
+relay cell of Fig. 9.4, some cells can switch between a mode in which they predominantly
+respond to stimuli via single, isolated spikes and one in which bursts are common. Because
+we believe that bursting constitutes a special manner of signaling important information, we
+devote a single, albeit small chapter to this topic. In the following, we describe a unique class
+of cells that frequently signal with bursts, and we touch upon the possible biophysical mecha-
+nisms that give rise to bursting. We finish this excursion by focussing on a functional study of
+bursting cells in the electric fish and speculate about the functional relevance of burst firing.
+16.1 Intrinsically Bursting Cells
+Neocortical cells are frequently classified according to their response to sustained current
+injections. While these distinctions are not all or none, there is broad agreement for three
+classes: regular spiking, fast spiking, and intrinsically bursting neurons (Connors, Gutnick,
+and Prince, 1982; McCormick et al., 1985; Connors and Gutnick, 1990; Agmon and
+Connors, 1992; Baranyi, Szente, and Woody, 1993; Nunez, Amzica, and Steriade, 1993;
+Gutnick and Crill, 1995; Gray and McCormick, 1996). Additional cell classes have been
+identified (e.g., the chattering cells that fire bursts of spikes with interburst intervals ranging
+from 15 to 50 msec; Gray and McCormick, 1996), but whether or not they occur widely
+has not yet been settled. The cells of interest to us are the intrinsically bursting cells.
+In response to a just-threshold current stimulus, an intrinsically bursting (IB) cell
+fires a single burst. If the current amplitude increases, some IB cells burst repeatedly
+374
+16
+
+
+===== Page 2 =====
+16.1 Intrinsically Bursting Cells
+375
+at a constant frequency of between 5 and 12 Hz (as in Fig. 16.1C), while others re-
+spond by repetitive single spikes. It is not uncommon for an IB cell to flip back and
+forth between these two firing modes. Even more complex behavior, such as the initi-
+ation of a long train of bursts in response to a brief hyperpolarizing current stimulus,
+has been reported (Silva, Amitai, and Connors, 1991). The spikes themselves are con-
+ventional sodium carried ones. Their amplitude during the burst frequently decreases—
+presumably because the sustained depolarization partially inactivates /N-,—while their
+duration increases.
+Intrinsic bursting cells show a unique laminar distribution and morphology. In studies
+using intracellular staining, IB cells correspond to large pyramidal neurons restricted—with
+few exceptions—to layer 5, with stereotyped dendritic morphologies and axonal projection
+patterns. IB cells have an extended apical bush in layers 1 and 2, while nonbursting cells
+in layer 5 lack this feature (Fig. 16.ID; Larkman and Mason, 1990; Gray and McCormick,
+1996; Yang, Seamans, and Gorelova, 1996).
+Fig. 16.1 INTRINSICALLY BURSTING AND REGULAR SPIKING PYRAMIDAL CELLS Structure-
+function relationship among pyramidal cells from rodent cortex. Typical firing patterns seen in
+response to an intracellularly injected current step in (A) re guiar spiking, and (C) intrinsically bursting
+layer 5 pyramidal cells from mouse cortex (Agmon and Connors, 1992). Drawings of biocytin-filled
+layer 5 (B) regular spiking and (D) intrinsically bursting (IB) pyramidal cells from the rat. IB cells
+tend to have an extensive apical dendrite (reaching all the way up to layer 1) while regular spiking
+cells show a smaller degree of dendritic arborization. The output targets of the two cell types are quite
+distinct, with bursting cells projecting outside the cortex proper. Unpublished data from L. J. Cauller,
+I. Biilthoff, and B. W. Connors, printed with permission.
+
+
+===== Page 3 =====
+376 
+« 
+BURSTING CELLS
+Neurons whose cell bodies are located in layer 5 constitute the primary output of the
+neocortex. Whenever the cortex decides to do something, the message has to be sent
+outside the cortical system via layer 5 cells. This includes the one-million-axon (in humans)
+pyramidal tract that leaves the motor cortex and adjacent areas and projects into the spinal
+cord (Porter and Lemon, 1993).
+Some evidence suggests that the cells projecting outside the cortex are of the bursting
+type. IB cells project to the pons and to the superior colliculus, while nonbursting layer
+5 pyramidal cells project to the contralateral cortex via the corpus callosum (Wang and
+McCormick, 1993; Kasper et al., 1994). It is known that many of the identified layer 5
+cells in the rat motor cortex that project to the spinal cord have the firing characteristics
+of IB cells (Tseng and Prince, 1993). It is obviously important to know whether all cells
+projecting to subcortical (and nonthalamic) targets are of the bursting type.
+16.2 Mechanisms for Bursting
+Bursting cells have been analyzed using biophysically based conductance models as pio-
+neered by Traub and his colleagues (Traub and Llinás, 1979;Traub, 1979,1982; Traub etal.,
+1991; summarized in the monograph by Traub and Miles, 1991) and from the perspective
+of dynamical systems theory (Chap. 7; Rinzel, 1987; Wang and Rinzel, 1996; Rinzel and
+Ermentrout, 1997).
+There is likely to be aplurality of mechanisms that cause bursts. In Sec. 9.1.4 we discussed
+the critical role of a somatic low-threshold calcium current responsible for mediating bursts
+in thalamic cells (Fig. 9.4).
+Central to the genesis of bursting in cortical cells are fast, sodium-driven action potentials
+at the cell body, which not only propagate forward along the axon, but also invade the
+dendritic tree (Rhodes and Gray, 1994). Backpropagation is aided by a low density of
+dendritic sodium channels that boost the signal. (For a more detailed discussion of this, see
+Sees. 19.1 and 19.2.) Dendritic calcium conductances build up local depolarization. In the
+meantime, somatic repolarization establishes a pronounced potential difference between
+the cell body and the dendritic tree, giving rise to ohmic currents. These will depolarize
+the soma and the spike initiating zone in the form of an afterdepolarizing potential (ADP).
+It is this ADP that causes the rapid sequence of fast sodium spikes. The entire chain of
+events is finished off by a hyperpolarization induced by a combination of voltage- and
+calcium-dependent potassium currents.
+In this view of bursting, dendritic calcium currents are at the root of the prolonged
+depolarization that triggers the fast, somatic sodium spikes. However, it appears that in
+some systems one or more sodium currents, in combination with the "right" dendritic tree
+morphology, can by themselves initiate bursting (Turner et al., 1994; Franceschetti et al.,
+1995; Azouz, Jensen, and Yaari, 1996).
+Mainen and Sejnowski (1996) derive what this right morphology should be. They
+simulate the dynamics of spiking in a number of reconstructed cortical cells with different
+dendritic anatomies and endowed with the same distribution and density of voltage-
+dependent sodium, potassium, and calcium currents (Fig. 16.2). Changing only the dendritic
+tree geometry, but not the mix of voltage-dependent conductances, gives rise to the entire
+spectrum of intrinsic responses observed in the cortex: from nonadapting and adapting cells
+to bursting ones. The large dendritic tree associated with layer 5 pyramidal cells prolongs
+the sodium spike propagating back into the dendritic arbor sufficiently for bursts to occur,
+
+
+===== Page 4 =====
+16.3 What Is the Significance of Bursting? 
+· 377
+Fig. 16.2 CELLULAR MORPHOL-
+OGY AND INTRINSIC FIRING PAT-
+TERNS Different 
+reconstructed
+neurons are endowed with the same
+densities of voltage-dependent con-
+ductances in soma and dendritic tree
+in a computer model: a fast sodium
+current, three potassium currents,
+and a high-threshold calcium cur-
+rent (Mainen and Sejnowski, 1996).
+The distinct firing patterns, evoked
+in response to sustained current in-
+jection (of 50, 70, 100, and 200 pA
+for A to D, respectively), run the
+gamut of adapting, nonadapting,
+and bursting behavior seen in the
+cortex. The four cells are (A) layer 3
+aspiny stellate cell from rat cortex,
+(B) layer 4 spiny stellate, (C) layer
+3 pyramid, and (D) layer 5 pyramid
+from cat visual cortex. Reprinted
+by permission from Mainen and Se-
+jnowski (1996).
+while no such behavior is observed in the much more compact population of stellate or
+pyramidal cells in superficial layers.
+These results go hand in hand with the observed correlation between cellular morphology
+and intrinsic firing pattern reported above and emphasizes the often subtle and complex
+interplay between membrane-bound conductances and cable structure.
+16.3 What Is the Significance of Bursting?
+Anytime two spatially overlapping but morphologically distinct cell classes project to
+different locations (as the layer 5 bursting and nonbursting cells), one should assume that
+they encode and transmit different features (since otherwise the job could be done with the
+
+
+===== Page 5 =====
+378 · 
+BURSTING CELLS
+help of a single cell class whose axons branch to innervate both areas). Viewed in this light,
+the existence of a cell type that responds to sustained current steps in a bursty manner and
+projects outside the cortical system demands an explanation in functional terms.
+One broad hypothesis, first entertained by Crick (1984a), is that bursting constitutes
+a specialized signal, a particular code symbol, distinct from isolated spikes, conveying a
+particular type of information.
+The relevance of bursts for conveying information reliably has been ascertained for the
+electrosensory system of the electric fish (Gabbiani et al., 1996). Although of a quite distinct
+evolutionary lineage than the cerebral cortex, it is profitable to review this study briefly.
+Given the conservative nature of biology, reinventing and reusing the same mechanism
+over and over again, it would not be surprising if its lesson also applied to the cortex
+(Heiligenberg, 1991).
+Gabbiani et al., (1996) subject the fish Eigenmannia to random amplitude modulations of
+an electric field in the water whose carrier frequency is equal to the fish's own electrical organ
+discharge frequency that has been pharmacologically disabled (Fig. 16.3A), while recording
+from pyramidal cells in the electrosensory lateral line lobe (ELL). Signal detection theory
+can be used to determine which particular features of the electric field are represented by the
+firing of these cells. Assuming that the ELL pyramidal cells implement a linear summation
+and threshold operation, it can be inferred that the cells respond best to up or down strokes
+of the electric field.
+Slightly more than half of the spikes generated by the pyramidal cells occur in short
+bursts (on average three spikes with a mean spike separation of 9 msec; Fig. 16.3A). The
+signal-to-noise ratio of this signal detection operation—based only on those spikes that
+make up a burst—is substantially higher than the signal-to-noise ratio of the signal based
+on isolated spikes (Fig. 16.3B). In other words, spikes taken from a burst signal the presence
+of a particular stimulus feature, here an "abrupt" change in the electric field, more reliably
+than isolated spikes. Intracellular evidence implicates the apical dendritic tree of the ELL
+pyramidal cells as the locus where the burst computation is carried out (Turner et al., 1994).
+It is possible that bursty neurons communicate their messages to their target cells with the
+aid of two output channels multiplexed onto a single axon, one employing isolated spikes
+and the other bursts. Depending on the type and amount of short-term synaptic plasticity
+present at the output synapses of bursting cells, they could transmit one or the other channel
+(Sec. 13.5.4; Abbott et al., 1997; Lisman, 1997).
+This would work in the following fashion. Initially the output synapses of bursting cells
+have a very low probability of synaptic release po. A single spike is unlikely to cause a
+release of a vesicle but will, very briefly, enhance the probability of release for the next
+spike. Such transient but powerful facilitation would lead to isolated spikes being effectively
+disregarded while bursts would cause a synaptic release with probability close to 1. The price
+the nervous system would pay for the usage of bursts is their limited temporal resolution as
+compared to individual spikes (in the Gabbiani et al., 1996, study, the interval between the
+first and the last spike is 18 ± 9 msec).
+Conversely, a synapse with high initial probability of release and a powerful but short act-
+ing short-term depression will disregard the additional spikes contained within a burst. This
+hypothesis predicts that synapses made by the axon of a bursting cell have low p0 and show
+a very short lasting but powerful facilitation not present at the synapses of nonbursting cells.
+Koch and Crick (1994) speculate that bursting could be one of the biophysical correlates
+of short-term memory (via elevated, presynaptic calcium concentration during such a burst).
+The stimulus feature represented by a population of bursting cells would correspond to the
+feature "stored" in short-term memory. Because of the close association between short-
+
+
+===== Page 6 =====
+16.4 Recapitulation
+379
+Fig. 16.3 RELIABLE ENCODING OF SENSORY
+INFORMATION IN BURSTS 
+(A) In experi-
+ments carried out in the electric fish Eigenman-
+nia, Gabbiani and colleagues (1996) stimulate
+its electrosensory system using zero-mean ran-
+dom amplitude modulations (thick smooth line)
+superimposed onto a fixed carrier frequency of
+an electric field while recording from pyrami-
+dal cells in the electrosensory lateral line lobe
+(ELL). A large fraction of all spikes belongs to
+bursts (#) that show up as a prominent peak in
+the interspike intervals (here bursts are defined
+as spikes separated by < 14 msec; see the inset).
+(B) On the basis of signal detection theory in-
+dividual pyramidal cells can be shown to detect
+either up or down strokes of the electric field
+amplitude with up to 85% accuracy. The signal-
+to-noise ratio of this pattern discrimination op-
+eration, which assumes that ELL pyramidal
+cells perform a linear threshold computation,
+is enhanced (by more than a factor of 2) when
+considering only spikes from bursts compared
+to isolated spikes. In other words, burst spikes
+encode information in a more reliable manner
+than isolated action potentials. Reprinted by
+permission from Gabbiani et al., (1996).
+term memory and awareness, it is possible that bursting cells are preferentially involved
+in mediating the neuronal correlate of awareness, in particular considering their strategic
+location in the cortical layer projecting to the tectum, pulvinar, and other extracortical targets
+(Crick and Koch, 1995).
+Quite a different explanation for the utility of a particular subclass of spike patterns has
+been advanced in Traub et al., (1996). In some cells, spike doublets, consisting of two fast
+spikes separated by a stereotyped 4-5 msec interspike interval, are frequently observed.
+Spike doublets are characteristic of GAB Aergic, axo-axonic cortical interneurons (Buhl et
+al., 1994). Computer modeling of the underlying cortical networks show that such doublets
+mediate the frequently observed temporal synchronization of distant neuronal populations.
+Their oscillatory activities are synchronized with a near-zero phase lag, even though they
+are separated by propagation delays of 5 msec or more.
+16.4 Recapitulation
+Bursts, that is, two to five closely spaced, sodium-dependent fast action potentials riding
+on top of a much slower depolarization, are a dominant feature of a number of cell classes,
+
+
+===== Page 7 =====
+380 · 
+BURSTING CELLS
+not only in the cortex but also among thalamic relay neurons and elsewhere. In the cortex,
+intrinsically bursting cells have a unique morphology and are confined to layer 5, where
+they constitute the dominant output cell class.
+The biophysical mechanisms underlying bursting are diverse. A low-threshold calcium
+current at the soma is the principal agent for bursting in thalamic cells (Sec. 9.1.4). Bursts
+in pyramidal cells can originate when sodium spikes propagate back into the dendritic tree,
+causing parts of the arbor to be depolarized. Under the right circumstances, for instance,
+when amplified by dendritic sodium and/or calcium currents, this signals returns to the soma
+in the form of an afterdepolarization that triggers several fast sodium spikes.
+It has been argued that bursting represents a special code, quite distinct from the firing
+of an isolated action potential. This hypothesis has some experimental support from the
+electrosensory system of the electric fish. Spikes taken from bursts signal the presence of
+particular features in the input in a much more reliable manner than isolated spikes.
+This implies that spiking cells are not restricted to using an asynchronous binary code
+but might employ a two-channel multiplexing strategy, with the decoding being carried out
+by rapidly adapting synapses.
+A non-exclusive alternative is that bursts serve to synchronize distant neuronal pop-
+ulations.
+
+

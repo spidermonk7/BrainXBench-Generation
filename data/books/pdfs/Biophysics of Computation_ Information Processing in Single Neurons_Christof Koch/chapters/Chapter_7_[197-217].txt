@@ -1,0 +1,846 @@
+===== Page 1 =====
+PHASE SPACE ANALYSIS OF
+NEURONAL EXCITABILITY
+The previous chapter provided a detailed description of the currents underlying the gener-
+ation and propagation of action potentials in the squid giant axon. The Hodgkin-Huxley
+(1952d) model captures these events in terms of the dynamical behavior of four variables:
+the membrane potential and three state variables determining the state of the fast sodium
+and the delayed potassium conductances. This quantitative, conductance-based formalism
+reproduces the physiological data remarkably well and has been extremely fertile in terms
+of providing a mathematical framework for modeling neuronal excitability throughout the
+animal kingdom (for the current state of the art, see McKenna, Davis, and Zornetzer, 1992;
+Bower and Beeman, 1998; Koch and Segev, 1998). Collectively, these models express
+the complex dynamical behaviors observed experimentally, including pulse generation
+and threshold behavior, adaptation, bursting, bistability, plateau potentials, hysteresis, and
+many more.
+However, these models are difficult to construct and require detailed knowledge of
+the kinetics of the individual ionic currents. The large number of associated activation and
+inactivation functions and other parameters' usually obscures the contributions of particular
+features (e.g., the activation range of the sodium activation particle) toward the observed
+dynamic phenomena. Even after many years of experience in recording from neurons or
+modeling them, it is a dicey business predicting the effect that varying one parameter, say,
+the amplitude of the calcium-dependent slow potassium current (Chap. 9), has on the overall
+behavior of the model. This precludes the development of insight and intuition, since the
+numerical complexity of these models prevents one from understanding which important
+features in the model are responsible for a particular phenomenon and which are irrelevant.
+Qualitative models of neuronal excitability, capturing some of the topological aspects
+of neuronal dynamics but at a much reduced complexity, can be very helpful in this regard,
+since they highlight the crucial features responsible for a particular behavior. By topological
+1. The electrical model of the spiking behavior of the bullfrog sympathetic ganglion cells, illustrated in Figs. 9.10-9.12,
+includes eight ionic currents, which are described with the help of two dozen voltage and/or calcium-dependent functions and an
+equal number of additional parameters. And this is for a spherical neuron devoid of any dendrites.
+172
+7
+
+
+===== Page 2 =====
+7.1 The FitzHugh-Nagumo Model 
+• 
+173
+aspects we mean those properties that remain unchanged in spite of quantitative changes
+in the underlying system. These typically include the existence of stable solutions and
+their basins of attraction, limit cycles, bistability, and the existence of strange attractors. In
+this chapter we discuss two-dimensional models of spiking systems, a qualitative as well
+as quantitative, biophysical model, that will help us to understand a number of important
+features of the Hodgkin-Huxley (and related) membrane patch models using the theory of
+dynamical systems and phase space analysis. In particular, the FitzHugh-Nagumo model
+explains the origin and onset of neuronal oscillations, that is, periodic spike trains, in
+response to a sustained current input. It is considerably easier—from both a numerical
+and a conceptual point of view—to study the dynamics of populations of neuronal "units"
+described by such simplified dynamics rather than simulating the behavior of a network of
+biophysically complex neurons.
+For a general introduction to the theory of dynamical systems, see the classical treatise of
+Hirsch and Smale (1974) or the informal and very friendly account by Strogatz (1994) that
+stresses applications. Two eminently readable introductions to physiological applications
+of this theory are the monograph by Glass and Mackey (1988) and the chapter by Rinzel
+and Ermentrout (1998).
+Following the ancient wisdom that "there's no such thing as a free lunch," we can well
+ask what is the price that one pays for this elegance? The answer is that simple models
+usually lack numerically accurate predictions. As we will see below, we can understand
+why oscillations in one system will be initiated with a nonzero firing frequency, as in the
+squid giant axon, while other systems, such as neocortical pyramidal cells, can respond
+with a train of spikes having very long interspike intervals. Yet, in general, these models
+do not allow precise predictions to be made concerning the exact threshold for the onset
+of spikes and so on. This drawback is less serious than in other fields of science, however,
+since in almost all situations of interest, precise knowledge of the relevant biophysical
+parameters is lacking anyway. Given the fantastic diversity and variability among neurons,
+simple generic models are frequently much superior at capturing key aspects of neuronal
+function, in particular at the network level, than detailed ones.
+7.1 The FitzHugh-Nagumo Model
+The simplified model of spiking is justified by the observation that in the Hodgkin-Huxley
+equations, both the membrane potential V(t) as well as the sodium activation m(t) evolve
+on similar time scales during an action potential, while sodium inactivation h(t) and
+potassium activation n(t) change on similar, albeit much slower time scales. This can
+be visualized by plotting V and m, representing the "excitability" of the system, using
+normalized coordinates in response to a current step (Fig. 7.1 A). Given the great similarity
+between both variables, it makes sense to lump them into a single "activation" variable
+V (Fig. 7.1C). The same observation can be made if one plots the degree of potassium
+activation n together with the amount of sodium inactivation 1 — h for the identical current
+stimulus (Fig. 7. IB). Again, because both variables show the same changes of almost the
+same amplitude over time, we combine both into a single variable W, characterizing the
+degree of "accommodation" or "refractoriness" of the system (Fig. 7. ID). The behavior
+of such a two-dimensional system with constant parameters is qualitatively very similar
+to the behavior of the four-dimensional Hodgkin-Huxley model with voltage-dependent
+functions moc(V), Tm(V) and so on.
+
+
+===== Page 3 =====
+174
+PHASE SPACE ANALYSIS OF NEURONAL EXCITABILITY
+Fig. 7.1 REDUCING THE HODGKIN-HUXLEY MODEL TO THE FITZHUGH-NAGUMO SYSTEM
+Evolution of the space-clamped Hodgkin-Huxley and the FitzHugh-Nagumo equations in response to
+a current step of amplitude 0.18 n A in A and B and of amplitude I = 0.35 in C and D. (A) Membrane
+potential V(t) and sodium activation m(t) (see also Fig. 6.8). Sodium activation closely follows
+the dynamics of the membrane potential. (B) Sodium inactivation 1 — h and potassium activation n
+of the Hodgkin-Huxley system. (C) "Excitability" V (t) of the two-dimensional FitzHugh-Nagumo
+equations (Eqs. 7.1) with constant parameters has a very similar time course to V and m of the squid
+axon (notice the different scaling). (D) The "accommodation" variable W shows modulations similar
+to 1 — h and n of the Hodgkin-Huxley equations.
+We will let Fig. 7.1 (and others to follow) be sufficient justification for this reduction.
+We refer those of our readers who are not satisfied by the somewhat ad hoc nature of
+this procedure to Kepler, Abbott, and Marder (1992), who describe a general method for
+reducing Hodgkin-Huxley-like systems using "equivalent potentials."
+Historically, the equations underlying the FitzHugh-Nagumo model have their origin
+in the work of van der Pol (1926), who formulated a nonlinear oscillator model (termed
+a relaxation oscillator) and applied it to the cardiac pacemaker (van der Pol and van der
+Mark, 1928). Using the phase space method explored by Bonhoeffer (1948) in the context
+of a chemical reaction bearing some similarities to nerve cell excitation, FitzHugh (1961,
+1969) and, independently, Nagumo, Arimoto, and Yoshizawa (1962) derived the following
+two equations to qualitatively describe the events occurring in an excitable neuron:
+(7.1)
+where we use the conventional shorthand of writing V for the temporal derivative of
+
+
+===== Page 4 =====
+7.1 The FitzHugh-Nagumo Model 
+• 
+175
+V, dV/dt. Equations 7.1 describe the so-called FitzHugh-Nagumo model or, in deference
+to earlier work by van der Pol (1926) and Bonhoeffer (1948), the Bonhoeffer-van der
+Pol model. The parameters a, b, and <j> are dimensionless and positive, with a number of
+different versions of these equations in usage. In this chapter, we assume a = 0.7, b = 0.8,
+and (p = 0.08 (Cronin, 1987). The amplitude of 0, corresponding to the inverse of a time
+constant, determines how fast the variable W changes relative to V. With <j> = 0.08, V
+changes substantially more rapidly than W (since V is typically 1/0.08 = 12.5 times
+larger than W).
+Equations 7.1 represent an instance of a singularly perturbed system, where one variable
+(or set of variables) evolves much faster than the other variable (or set of variables). This
+has the consequence that the evolution of the system consists of "rapid" segments, in
+which the fast variable V evolves so rapidly that the slow variable W can be considered
+stationary, interconnected with "slow" segments, during which the slow variable will not
+remain constant, as during the fast segments, but will be an instantaneous function of the
+fast variable W = W(V(t)) (for more details, see Cronin, 1987).
+Because of the nonlinear nature of these differential equations, closed-form solutions
+are difficult to derive and we are forced to integrate the equations numerically. We can,
+however, deduce the qualitative topological properties of these equations without explicitly
+solving them. The key concept here is to consider the evolution of the system, specified by
+the vector r(t) = (V(t), W(t)), in the associated two-dimensional phase space, spanned
+by V and W (Fig. 7.2). For every state or phase point r in this plane, Eqs. 7.1 assign a
+vector r = (V, W) to this point, specifying how the system will evolve in time. Indeed,
+these equations can be thought of as a vector field in phase space, akin to the motion of an
+imaginary laminar fluid on the plane. While only a few representative vectors are drawn in
+Fig. 7.2, they completely fill the plane. Such plots are known as phase plane portraits and
+provide an intuitive and geometrical way to understand certain qualitative aspects of the
+solution of the associated ordinary differential equations.
+In cases such as Eqs. 7.1, where the derivatives on the right-hand side do not depend
+explicitly on time, different trajectories can never cross, since if two would intersect, there
+would be two different solutions starting from the same (crossing) point. This is ruled
+out by the existence and uniqueness theorem associated with a set of coupled differential
+equations, such as these, that are smooth enough. Thus, from any point in the phase space,
+the system can only evolve in one way, giving phase portraits their orderly looks.
+7.1.1 Nullclines
+In order to understand how the system evolves in time, let us consider two of its isoclines.
+An isocline is a curve in the (V, W) plane along which one of the derivatives is constant.
+In particular, the null isocline, or nullcline, is the curve along which either V or W is zero.
+The nullcline associated with the fast variable V, defined by V = 0, is the cubic function
+W = V — V3/3 + /. If the system currently is located on the V nullcline, its imminent
+future trajectory must be vertical, pointing either upward (for W > 0) or downward (for
+W < 0). Furthermore, for all points in the plane above this cubic polynomial, V < 0,
+while the converse is true for all points below the curve W = V — V3/3 +1.
+The nullcline associated with the slow variable, W = 0, is specified by the linear equation
+W = (V + a)/b. Thus, if the evolution of the system brings it onto the W nullcline, its
+trajectory in the immediate future must be horizontal, for only V, but not W, can change.
+Furthermore, all phase points in the half-plane to the left of W = (V + a)/b have a
+
+
+===== Page 5 =====
+176
+PHASE SPACE ANALYSIS OF NEURONAL EXCITABILITY
+Fig. 7.2 PHASE PLANE PORTRAIT OF THE FITZHUGH-NAGUMO MODEL 
+Phase plane associated
+with the FitzHugh-Nagumo Eqs. 7.1 for 7 = 0. The fast variable V corresponds to membrane
+excitability while the slower variable W can be visualized as the state of membrane accommodation.
+The nullcline for the V variable, that is, all points with V = 0, is a cubic polynomial, and the W
+nullcline (all points with W = 0) is a straight line. The system can only exist in equilibrium at the
+intersection of these curves. For our choice of parameters and for / = 0, a single equilibrium point
+exists: (V, W) = (—1.20, —0.625). The arrows are proportional to (V, W) and indicate the direction
+and rate of change of the system: V usually changes much more rapidly than W.
+negative W derivative and therefore move downward, while points in the right half-plane
+are associated with increasing W values.
+As mentioned above, the FitzHugh-Nagumo equations are an example of an autonomous
+system whose derivatives do not explicitly depend on time (assuming that / has some
+constant value for t > 0). If the right-hand side of Eqs. 7.1 would contain terms that
+explicitly depended on time t (such as a time-dependent forcing term / (t)), the nullclines
+would change with time. The trajectory (V(t), W(t)) of the system in phase space can now
+cross itself and our simple analysis no longer applies.
+7.7.2 Stability of the Equilibrium Points
+Let us first analyze the resting states of the system and their stability. The fixed, critical, or
+singular points of the system r* are all those points (V,, W,) at which both derivatives are
+zero, that is, for which (V(V{, Wi), W(Vt, Wf)) = (0, 0). For Eqs. 7.1 with our choice
+of parameter values and 7 = 0, the two nullclines meet at a single point r* = (V, W) —
+(— 1.20, —0.625). If the system started out exactly at this point, it would not move to any
+other point in phase space. This is why it is known as an equilibrium point. However, in the
+real world, the system will never be precisely at the critical point but in some neighborhood
+around this point. Or, if the system started exactly at the critical point (V, W), any noise
+would perturb it and carry it to a point in the immediate neighborhood (V +8V, W + 8W).
+The subsequent fate of the perturbed system depends on whether^ the_fixed point is stable
+or not. In the former case, the system will eventually return to (V, W). If the equilibrium
+point is not stable, the system will diverge away from the singular point.
+The stability of the equilibrium point can be evaluated by linearizing the system around
+the singular point and computing its eigenvalues. Conceptually, this can be thought of
+as zooming into the immediate neighborhood of this point. The linearization procedure
+
+
+===== Page 6 =====
+7.1 The FitzHugh-Nagumo Model 
+• 
+177
+corresponds to moving the origin of the coordinate system to the singular point and
+considering the fate of points in the immediate neighborhood of the origin (Fig. 7.3A).
+The associated eigenvalues of the linear system completely characterize the behavior in
+this neighborhood. Following Eqs. 7.1, we can write for any perturbation S r around the
+fixed point r*,
+(7.2)
+Remembering that (~V -V"3/3 - W + I) = 0 and </> (V + a - bW) = 0 (the definition of
+the critical point) as well as V = W = 0 and neglecting higher order terms in 8 V (since
+the perturbation is assumed to be small), we arrive at
+(7.3)
+or, in obvious vector notation,
+(7.4)
+with the matrix M given by
+(7.5)
+This corresponds to the matrix of partial derivatives associated with Eqs. 7.1 and evaluated
+at the critical point.
+Equation 7.4 describes how any perturbation <5r evolves in the neighborhood of the
+singular point r*. We can characterize the behavior around this point by finding the
+eigenvalues of M. The associated characteristic equation is
+Fig. 7.3 BEHAVIOR 
+AROUND THE EQUILIBRIUM
+POINT The behavior of the FitzHugh-Nagumo equa-
+tions in a small neighborhood around the fixed point is
+determined by linearizing these equations around their
+fixed point and computing the associated pair of eigen-
+values. (A) Evolution of (S V, S W) in a coordinate system
+centered at the equilibrium point r* for 7=0. Because
+the real part of both eigenvalues is negative, a small
+perturbation away from the fixed point will decay to zero,
+rendering this point asymptotically stable. Any point in
+this plane will ultimately converge to the fixed point at
+the origin. (B) Similar analysis for the equilibrium point
+r*' for a sustained input with / = 1 (Fig. 7.5A). The
+fixed point is unstable.
+
+
+===== Page 7 =====
+178 
+. 
+PHASE SPACE ANALYSIS OF NEURONAL EXCITABILITY
+(7.6)
+The eigenvalues correspond to the solutions of this equation,
+(7.7)
+The evolution of the system therefore takes the following form:
+(7.8)
+with FI and r2 the two eigenvectors associated with the eigenvalues AI and "ki and c\ and
+€2 depending on the initial conditions of the system.
+In the two-dimensional case considered here, the different types of solutions of Eqs. 7.1
+are easy to classify and understand geometrically in terms of the eigenvalues. In order to
+study the ultimate fate of the fixed points, the exact values of A^ and A.2 do not matter. What
+does matter is whether or not the eigenvalues are real or imaginary and the sign of their real
+parts. (For a thorough discussion of this see Hirsch and Smale, 1974, and Strogatz, 1994.)
+1. If AI and A.2 are both real and at least one of them is positive, the perturbation 8r(t)
+will grow without bounds and the solution will diverge from the fixed point: the critical
+point is unstable. If both eigenvalues are positive, the point is called a source; if one of
+them is positive and the other negative, the point is called a saddle.
+2. When the eigenvalues are real and both negative, 8r(t) -> 0 and the system will decay
+back to its resting state: the critical point is stable and termed a sink.
+3. If the expression under the square root in Eq. 7.7 becomes negative, the two eigenvalues
+form a complex conjugate pair with AI = a + iu> and A 2 = a — ico, and we have
+(7.9)
+Note that the eigenvectors r are complex, since the A's are. Exploiting Euler's formula,
+eia>t _ cosft)f _|_ i sinoif, we can reexpress the evolution of the perturbation as a
+combination of terms involving e°" cos(fttf) and e°" sin(otf).
+This evolution equation has two parts; the first one, e°", specifies whether the system
+will converge back to its resting state or whether it will diverge, depending on the sign of
+a, that is, on the sign of the real part of the eigenvalues. The second part can be thought
+of as a rotation around the origin, with the oscillation frequency given by / = a)/(2n).
+For &> > 0, the trajectories will be traversed counterclockwise and clockwise if a) < 0. If
+a — 0, the system will always remain at a fixed distance from the center and will neither
+approach nor recede from this periodic trajectory. For a < 0, the system will display
+damped oscillations and converge toward the equilibrium state. Here, the fixed point
+(V, W) is termed a stable spiral or attractor. Conversely, if a > 0, the oscillations will
+grow exponentially in amplitude and the equilibrium point is an unstable spiral or focus.
+Returning to the FitzHugh-Nagumo model in the case of no current input, the two eigen-
+values associated with the equilibrium point at rest (7 = 0) are —0.50 ± 0.42z. According
+to our argumentation, this implies that any perturbation <5r decays in an exponential manner
+back to zero, that is, back to the equilibrium point, since the real part of the eigenvalues is
+
+
+===== Page 8 =====
+7.1 The FitzHugh-Nagumo Model 
+• 
+179
+negative (see Fig. 7.3A). Because the solution will also oscillate, the equilibrium point is a
+stable spiral or attractor.
+How large is the neighborhood around the equilibrium point within which any perturba-
+tion will ultimately die out? The size of the largest such neighborhood is called the basin of
+attraction associated with this stable point, that is, the set of initial conditions TO = (Vo> Wo)
+in phase space that will ultimately "fall into" this stable point. In our case, the basin is the
+entire plane. In other words, no matter what the initial conditions, in the absence of any
+stimulus current / the system will ultimately always come to rest at r*.
+This illustrates the power of phase space analysis. The stability of any nonlinear au-
+tonomous system of differential equations can be analyzed in terms of the stability of
+the linearized system; the signs of the real part of the eigenvalues then determine the
+qualitative behavior of the system in some neighborhood around the equilibrium point
+(Hirsch and Smale, 1974). By looking for the intersections of the nullclines when changing
+the differential equations characterizing the system, one can immediately understand in an
+intuitive manner the steady-state properties of the system (see Strogatz, 1994, for many
+biologically inspired examples of this).
+7.7.3 Instantaneous Current Pulses: Action Potentials
+How will the FitzHugh-Nagumo model respond if an instantaneous current pulse / (t) =
+QS(t) (with Q > 0) is applied? The initial value of V will jump by Q, thereby moving
+the system in phase space a certain horizontal distance away from the equilibrium point
+(dashed line in Fig. 7.4A). The direction of the movement is determined by the sign of the
+current input.
+If the amplitude of the current input is small, the system will almost immediately return
+to rest following a tight trajectory around the equilibrium point. In the process, V will over-
+and undershoot the resting state V = —1.2 (since the eigenvalues are complex), typical of
+a system with an inductance-like behavior (see Chap. 10). However, in order to see these
+oscillations around r*, Fig. 7.4B would have to be enlarged. The trajectory of V reminds us
+of the subthreshold response of the Hodgkin-Huxley membrane model (Fig. 6.5B). There,
+a short current pulse also depolarizes the membrane, activating some potassium current and
+slightly hyperpolarizing the membrane, before finally settling down at the resting potential.
+Both in the Hodgkin-Huxley and in the FitzHugh-Nagumo systems, graded "potentials"
+can be obtained by varying the amplitude of the initial displacement over a small range
+of values.
+What happens if the amplitude of the current pulse is made larger? If V is moved
+instantaneously past —0.64, the evolution of the system sharply veers away from the V
+nullcline, with V rapidly increasing while W remains more or less stationary until the
+rightmost branch of the V nullcline is encountered, defining the maximal value of V. The
+reason for this rapid change is that V is large, while W, due to the small size of $, is
+small (the slope dW/dV of the trajectory is on the order of $; Eqs. 7.1). During the next
+phase, the system slowly "crawls" upward along the V nullcline until it reaches the knee
+at the top of this curve. This slow phase is dictated by the fact that V is very small in the
+neighborhood of this curve, causing W to be an instantaneous function of V (the slope
+of the trajectory dW/dV is large here). A third "fast" phase follows, where V is rapidly
+reduced, undershooting the resting value of V in the process. Finally, the system slowly
+loses its accommodation W, crawling back to the resting state along the left branch of the
+nullcline. This trajectory is very much reminiscent of a Hodgkin-Huxley action potential
+
+
+===== Page 9 =====
+180
+PHASE SPACE ANALYSIS OF NEURONAL EXCITABILITY
+Fig. 7.4 RESPONSE or THE FITZHUGH-NAGUMO MODEL TO CURRENT PULSES 
+(A) The qui-
+escent system is excited by a current pulse of different amplitudes I = Q8(t), displacing the system
+from its resting state r* along the dashed horizontal line. Following Eqs. 7.1, this briefly increases
+V, in agreement with physical intuition, since a brief current pulse will cause a transient capacitive
+current C dV/dt to flow. The evolution of the voltage V and of the adaptation variable W is plotted in
+(B) and (C). Changing V from its initial value of — 1.2 to —0.8 or —0.65 only causes quick excursions
+of the voltage around the equilibrium point with the system rapidly returning to rest (the oscillatory
+manner in which the system does so is not readily apparent at the scale of these panels). If the current
+pulse is large enough so that V exceeds —0.64, a stereotyped "all-or-none" sequence is triggered: V
+rapidly increases to positive values but then dives below its resting value V before finally coming to
+rest again at r*. Notice that the trajectory in this case consists of "fast" segments, where V changes
+rapidly but W remains essentially constant (upper and lower segments), interconnected by "slow"
+segments, where the system changes so slowly that V is always in equilibrium (the "slow" segments
+closely coincide with the V nullcline).
+(Fig. 6.5), with V and sodium activation m changing rapidly, while sodium inactivation h
+and potassium activation n vary at a more leisurely pace.
+While the system is "hyperpolarized," that is, traveling along the leftmost branch of the
+V nullcline, it is clear that the inactivation variable W must be brought down below its
+
+
+===== Page 10 =====
+7.1 The FitzHugh-Nagumo Model 
+• 
+181
+resting value of about —0.625 before the system can cross over the W nullcline and once
+again execute its standard trajectory. This is equivalent to a refractory period, during which
+much larger current pulses are needed in order to trigger another spike.
+As emphasized above, this behavior, with "fast" segments along which accommodation
+varies little but V changes rapidly, connected by "slower" segments where V is in equi-
+librium as W changes slowly, is typical of singularly perturbed systems (Cronin, 1987).
+Injecting larger current pulses will not change this basic trajectory, even though each value
+of / is associated with its own unique trajectory in phase space.
+Although we stated above that the system goes through its stereotypical trajectory once
+V exceeds —0.64, the FitzHugh-Nagumo system shows no true threshold behavior. From
+a numerical point of view, the amplitude Q of the current pulse can be varied by minute
+amounts between —0.65 and —0.64, giving rise to all possible intermediate trajectories
+between sub- and suprathreshold (filling in the available phase space between the two
+associated trajectories in Fig. 7.4A). Indeed, it is known both computationally (Cooley and
+Dodge, 1966) and experimentally (at higher temperature; Cole, Guttman, and Bezanilla,
+1970) that the squid action potential does not behave in a true all-or-none manner. In both
+systems, no true saddle exists in the sense that all points to one side of the saddle will
+remain below and all points beyond the saddle will be above threshold. However, if </> is
+small, points close to the middle part of the V nullcline act approximately as a separatrix,
+from which neighboring paths diverge sharply to the left or to the right. The "width" of the
+separatrix over which intermediate forms between sub- and suprathreshold responses exist is
+so small that from a physiological point of view (given the ambient level of variability in the
+membrane potential), the system does show threshold behavior, with the horizontal distance
+between the resting point and the separatrix corresponding to the amplitude of the threshold.
+7.1.4 Sustained Current Injection: A Limit Cycle Appears
+Let us stimulate the quiescent system with a sustained current step of amplitude / at t = 0.
+This input will, different from a current pulse, change the associated phase space diagram.
+We can visualize the new phase diagram by noticing that for a positive current step the V
+nullcline is shifted upward, while the W nullcline does not change (Fig. 7.5A). This, of
+course, changes the position of the equilibrium point. In the presence of a positive current
+up to three fixed points now coexist, since the cubic V nullcline can intersect the linear W
+nullcline at up to three different locations. However, both geometrical intuition (the slope
+of the W nullcline is too steep to intersect the V nullcline more than once) as well as an
+algebraic criterion (Cardan's solution) tell us that for b < 1 only a single solution exists.
+The solution is stable as long as the real part of the two eigenvalues is negative. Once
+the real part becomes zero and then positive, even infinitesimal small perturbations will
+become amplified and diverge away from the equilibrium point. Following Eq. 7.7, the real
+part changes sign at the two locations where
+(7.10)
+Thus, the equilibrium point is stable whenever the W nullcline meets the cubic nullcline
+along its right- and leftmost branches. Here the slope is negative and | V \ > 1. However,
+along the central part of the V nullcline, | V \ < ^\ — b(j>, and the eigenvalues will acquire
+a positive real part, rendering the fixed point unstable.
+Assuming that the system is in its quiescent state r* = (V, W) = (—1.20, —0.625),
+then as long as the amplitude of the current step is small enough, the real part of the
+
+
+===== Page 11 =====
+182 
+. 
+PHASE SPACE ANALYSIS OF NEURONAL EXCITABILITY
+Fig. 7.5 RESPONSE or THE FITZ-
+HUGH-NAGUMO MODEL TO CUR-
+RENT STEPS (A) The quiescent sys-
+tem is subject to a current step of am-
+plitude /. For / < 0.32, the new equi-
+librium r*' is stable: the system depolar-
+izes but remains subthreshold. For larger
+steps (here / = 1), the new equilibrium
+point lies along the middle portion of
+the V nullcline and is unstable. Because
+the system has a stable limit cycle, it
+will not diverge; rather, it generates a
+train of "action potentials" whose time
+course is shown in (B). Regardless of the
+initial state of the system, it will always
+converge rapidly onto this limit cycle.
+eigenvalues associated with the new equilibrium point r*' remains negative and r*' is stable.
+Because of the upward shift of the V nullcline, the new resting state of the membrane
+potential V is more positive than V, that is, the system is depolarized.
+For a critical value of the input current /_, the nullclines intersect along the central
+part of the V nullcline at V- (defined by Eq. 7.10) and local stability breaks down (as
+in Fig. 7.5B). Due to the cubic nonlinearity in Eqs. 7.1, the system does not diverge2 but
+follows a stereotypical trajectory around r*'. As demonstrated in Fig. 7.5, the system moves
+from its starting point rapidly to the right ("the membrane depolarizes") until it meets the
+rightmost branch of the V nullcline where it will slowly creep upward (adaptation builds
+up). Subsequently, V decays rapidly by moving horizontally toward the right and down the
+leftmost branch of the V nullcline. So far, the behavior of the equations is very similar to
+that seen earlier, with fast phases alternating with phases during which the system crawls
+along the V nullclines (the arrows in Fig. 7.2 give a good feeling for the relative speed of
+these processes).
+Different from before, the system does not return to its new equilibrium point r*', since
+this is unstable. Rather the trajectory of the system undershoots r*' and traces a path almost
+parallel to the V axis until it meets its previous trajectory, which it then follows. As
+long as the input /o persists, the system continues to evolve along the same trajectory,
+producing a constant and infinite stream of action potentials (Figs. 7.1C and 7.5B). Since
+these oscillations are stable, but the term "steady-state" usually refers to an unchanging
+and not to a changing state, another label is needed. The French mathematician Poincare,
+to whom we owe phase space analysis of differential equations with two variables, called
+such steady oscillations a stable limit cycle.
+2. As it would in a purely linear system once the system looses stability.
+
+
+===== Page 12 =====
+7.1 The FitzHugh-Nagumo Model 
+• 
+183
+If the system starts out at a location in phase space inside the limit cycle, its trajectory
+will spiral outward until it meets the limit cycle. Likewise, for any point outside the limit
+cycle, the system will spiral into the limit cycle. Thus, the basin of attraction of the limit
+cycle is the entire phase plane (with the exception of the equilibrium point). The limit cycle
+is stable, since small perturbations away from the cycle will be quickly suppressed and
+the system will return to the limit cycle. In order for a closed, that is, oscillatory, solution
+to be a limit cycle is must have an isolated trajectory. This implies that any neighboring
+trajectories must either spiral toward (as they do here) or away from the limit cycle (unstable
+limit cycle). This is where the sense of the word "limit" in limit cycles comes from.
+Limit cycles are inherently nonlinear phenomena; they cannot occur in a linear system.
+Obviously, linear systems can oscillate, as shown by the harmonic oscillator, that is they
+have closed orbits. Yet these trajectories are not isolated. If r(0 is an oscillatory solution,
+so will cr(f )> for any value of c. For such a system, the initial conditions will always dictate
+the exact orbit chosen by the system. The system never forgets this, no matter how long one
+waits. This is quite distinct from a limit cycle in a nonlinear system, such as the Hodgkin-
+Huxley or the FitzHugh-Nagumo equations, where, given a strong enough input, the system
+will ultimately converge to the limit cycle. The cubic nonlinearity in Eqs. 7.1 is essential
+for the overall behavior of the system.
+Limit cycles cannot exist in systems with only one degree of freedom that are governed
+by a first-order differential equation, no matter whether linear or nonlinear. Such systems
+either converge toward their fixed points or they diverge to infinity. No overshooting or
+damped oscillations can occur.
+7.1.5 Onset of Nonzero Frequency Oscillations: The Hopf Bifurcation
+What governs the onset of oscillations? Is it possible to obtain spiking with arbitrarily low
+frequencies? The coupled nonlinear differential equations that arise within a biophysical
+context can display two fundamentally different types of onset of oscillations, one related to
+a Hopf bifurcation and one related to the creation of a saddle. Both behave in very different
+ways, which are of functional relevance. We will study the first type of bifurcation here,
+deferring the second one to the following section.
+As discussed in the previous section, increasing the amplitude of the injected current /
+from zero to more positive values shifts the intersection of the two nullclines (Fig. 7.5). As
+/ increases, so does the real part a of the eigenvalue associated with the equilibrium point
+at its resting value. Breakdown of stability occurs when ce changes sign, since for a > 0,
+small perturbations in the neighborhood^of the equilibrium point will fail to die out. Based
+on Eq. 7.7, a = 0 occurs if and only if V = ±^/l — b<f>. These two voltages are associated
+with two different values of the input current, /_ = 0.33 and /+ = 1.42.
+At these two values of the input current, the equilibrium point ceases to be stable and
+develops into an unstable source. The system starts to oscillate, with a frequency determined
+by the imaginary part of the associated eigenvalues (Fig. 7.6B). Whether or not these
+oscillations develop into a stable limit cycle, as here or as in the case of the Hodgkin-Huxley
+equations, depends on the global character of the equations and cannot be determined based
+on a local criterion.
+This type of dynamical phenomenon, in which stable large-amplitude oscillations arise
+abruptly as one particular parameter, known as the bifurcation parameter (here /), varies
+smoothly, is called hard excitation, or subcritical Hopf bifurcation. Hard excitation is feared
+in engineering applications, since one of its salient properties is that the amplitudes of the
+
+
+===== Page 13 =====
+184
+PHASE SPACE ANALYSIS OF NEURONAL EXCITABILITY
+Fig. 7.6 DISCHARGE CURVE OF THE FrrzHucH-NAGUMO MODEL 
+(A) Steady-state membrane
+potential and (B) oscillation frequency of the limit cycle for the FitzHugh-Nagumo equations as a
+function of a sustained current /. As the membrane is depolarized in response to increasing injection of
+current, it loses stability at /_ = 0.33 (arrow) and moves on a stable limit cycle. An important property
+of this type of bifurcation phenomenon, known as hard excitation or subcritical Hopf bifurcation, is
+that oscillations occur with nonzero frequency. This behavior is also characteristic for the Hodgkin—
+Huxley equations. Between /_ and /+ = 1.42, the system moves along the limit cycle. The frequency
+of the oscillation is a function of / (dashed line in panel A). Beyond /+, the equilibrium point becomes
+stable again, and the system remains "locked" at a depolarized level (not shown).
+oscillations are nonzero and can be fairly large. A soft excitation—also known as supercrit-
+ical Hopf bifurcation—occurs when oscillations arise with arbitrarily small amplitudes and
+gradually increase as the bifurcation parameter is ramped up. Hard excitation constitutes
+one of the generic mechanisms for the onset of oscillations in coupled nonlinear differential
+equations (Glass andMackey, 1988; Strogatz, 1994). A subcritical Hopf bifurcation requires
+that a stable spiral or attractor change into an unstable spiral and is surrounded by a stable
+limit cycle.
+A key feature of a Hopf bifurcation is the onset of a stable limit cycle with a nonzero
+oscillation frequency (since u> is finite). It is a well-known feature of the Hodgkin-Huxley
+model that the minimal stable spiking frequency is about 50 Hz (at 6.3°; see Fig. 6.9B).
+Experimentally, this is true for most axonal membranes as well as for the generation of
+spike trains at the cell body of certain neuronal types, for instance, the nonadapting cortical
+interneurons. As we keep on increasing /, the frequency of these stable oscillations first
+increases before the /-/ curve peaks and decreases back to 22.8 Hz at /+.
+Also plotted in Fig. 7.6 is the steady-state voltage V as a function of the sustained
+current Iss flowing across the membrane. Iss can be obtained solving for / in Eqs. 7.1 under
+steady-state conditions. Similar to the steady-state I—V relationship for the squid axon
+membrane (Fig. 6.9A), this curve is a monotonically increasing function. Operationally, it
+
+
+===== Page 14 =====
+7.2 The Morris-Lecar Model 
+• 
+185
+can be obtained by injecting a current step of amplitude / into the system and plotting the
+resulting membrane potential.
+7.2 The Morris-Lecar Model
+It has been argued that the FitzHugh-Nagumo equations do not faithfully represent any
+particular neuronal membrane and that phase space analysis therefore is not a particular
+useful tool to understand the dynamics of "real" neurons. Because we think otherwise, we
+will apply phase space analysis to a second set of equations, which is meant to capture
+the dynamics of the membrane potential in the muscle of barnacles. Here all terms can be
+directly identified with various voltages and conductances. These equations also allow us
+to demonstrate a very different way in which the onset of oscillations can occur. In the
+so-called saddle bifurcation, oscillations first emerge with an arbitrarily small frequency.
+As the amplitude of the injected current is smoothly increased, the frequency of the spike
+trains also increases.
+Barnacle muscle fibers that are subject to constant current inputs respond with a variety of
+oscillatory voltage patterns. In order to describe these, Morris and Lecar (1981) postulated
+a set of coupled, ordinary differential equations (neglecting any spatial dependencies)
+incorporating two ionic currents: an outward going, noninactivating potassium current and
+an inward going, noninactivating calcium current. Because the Ca2+ current responds much
+faster than the K+ current, we assume that /ca (0 is always in equilibrium for the time scales
+we are considering. This allows us to neglect the dynamics of the calcium current and we
+only need to treat the two-dimensional reduced version of the equations. Different variants
+of the Morris-Lecar equations are in usage. We will follow the presentation in Rinzel and
+Ermentrout (1998) which demonstrates best the two distinct manners in which a system can
+start to oscillate.
+7.2.1 Abrupt Onset of Oscillations
+In their reduced form, the equations showing this generic type of behavior are
+(7.11)
+where Vm is the absolute membrane potential (in millivolts), Cm = 1/xF/cm2, ID is the
+activation variable for potassium, all currents are in units of microamperes per square
+centimeter (/nA/cm2) and time t is measured in milliseconds. The ionic current has three
+components,
+(7.12)
+*As stated above, we assume that the calcium current is always at equilibrium, with its
+activation curve given by
+(7.13)
+The potassium activation variable follows the standard first-order Eq. 6.7 with steady-state
+activation
+
+
+===== Page 15 =====
+186 
+. 
+PHASE SPACE ANALYSIS OF NEURONAL EXCITABILITY
+(7.14)
+and time constant
+(7.15)
+The other parameters are GCa = 1.1, GK = 2.0, Gm = 0.5, ECa - 100, EK = -70,
+and Vrest = —50 (all conductances are in units of millisiemens per square centimeter and
+the reversal potentials in millivolts).
+Following the methods described in the first part of this chapter, we characterize the phase
+space associated with these equations by the two nullclines (Fig 7.7A). For the parameters
+used here, the nullclines intersect at a single location, no matter what the amplitude of
+the injected current /. We obtain a physiological picture of events in a muscle when we
+depolarize the membrane by injecting a sustained current 7 = 15 /iiA/cm2. Under these
+conditions, the equilibrium point is stable and the resting membrane potential is — 31.7 mV.
+Applying current pulses that briefly depolarize the system from its resting state demon-
+strates the existence of a threshold and a limit cycle. As long as the membrane is depolarized
+to less than —14.8 mV, the system quickly returns to its resting state (after a brief hyperpo-
+larization; see Fig. 7.7). Depolarizing the membrane past —14.8 mV triggers a stereotypical
+behavior, following a very similar limit cycle to the one shown by the FitzHugh-Nagumo
+model. Indeed, different initial conditions (in the case of Fig. 7.7 depolarizing the membrane
+to either —14.7 or to —12 mV) has little effect on the phase space trajectory (besides
+speeding up initiation of the spike).
+Figure 7.8 summarizes the behavior of the system to constant current steps. Panel 7.8A is
+a plot of the steady-state membrane potential as a function of the applied current. Following
+Eqs. 7.11, this is identical to the steady-state ionic current /ionic(Vm, u>oo(Vm))- In this
+system, the sustained I—V relationship is strictly monotonic. As more and more current is
+injected, the membrane is depolarized from rest at —31.7 mV (in the presence of the stabi-
+lizing 15-/MA/cm2 current injection), and the w nullcline intersects the Vm nullcline along its
+middle portion (Fig. 7.7A). Similar to the FitzHugh-Nagumo equations which experience
+the onset of oscillations via a subcritical Hopf bifurcation, the real part of the two conjugate
+eigenvalues goes to zero (at /_ = 24.9 /zA/cm2) and then becomes positive, indicating loss
+of stability. At the same time, a stable limit cycle appears: the system generates an infinite
+train of action potentials. For a limited region of current amplitudes, the equilibrium point
+remains unstable (as indicated by dashes in Fig. 7.8A) and the system spikes. All of this
+is more or less identical to what happens in the FitzHugh-Nagumo equations. Let us now
+change these equations in a minor way to obtain quite a different behavior.
+7.2.2 Oscillations with Arbitrarily Small Frequencies
+A key property of a Hopf bifurcation is that if the system oscillates, it will oscillate at a
+well-defined minimum frequency, as the squid axonal membrane and indeed most axons.
+However, numerous cell types, such as pyramidal cells in cortex, can generate trains of
+spikes with large interspike intervals, that is, with very low oscillation frequencies upon
+current injection (see Fig. 9.7; Connor and Stevens, 1971c).
+Here, the onset of oscillations is governed by a dynamical mechanism different from
+the Hopf bifurcation, which can be observed in a slightly modified version of the Morris-
+Lecar equations. What has to occur is that the nullclines must intersect several times. We
+
+
+===== Page 16 =====
+7.2 The Morris-Lecar Model 
+• 
+187
+Fig. 7.7 RESPONSE OF THE MORRIS-LECAR MODEL TO CURRENT PULSES Equations 7.11,
+describing electrical events in the muscle cells of barnacles (Morris and Lecar, 1981), show a
+qualitatively similar behavior to the squid axon membrane and to the FitzHugh-Nagumo equations.
+(A) Phase plane portrait (here membrane potential Vm versus potassium activation ti>) for different
+stimulus conditions. The nullclines are plotted in bold. In the presence of a stabilizing current injection,
+the resting potential is —31.7 mV. From this state, the system is stimulated by brief current pulses,
+instantly depolarizing the membrane (thin lines). If the stimulus depolarizes the muscle to either —18
+or to —14.8 mV, the system responds with a subthreshold excursion around the resting potential (two
+innermost loops around the resting potential). For larger values, the system moves along a limit cycle:
+it spikes. (B) Evolution of the membrane potential Vm for this stimulus paradigm.
+can achieve this by assuming, for example, that the potassium activation is a much steeper
+function of voltage than before. Following Rinzel and Ermentrout (1998), we modify the
+potassium activation as well as its dynamics,
+(7-16)
+and
+(7.17)
+We also decrease the amount of calcium conductance by 10% to Gca = 1. All other
+parameters remain unchanged.
+As witnessed by Fig. 7.9, this fundamentally changes the character of the phase portrait.
+Now, three equilibrium points exist. If we were to carry out a linear stability analysis, we
+would find that the lower point is a stable sink (that is, both eigenvalues are real and negative),
+
+
+===== Page 17 =====
+188
+PHASE SPACE ANALYSIS OF NEURONAL EXCITABILITY
+Fig. 7.8 SUSTAINED SPIKING IN THE MORRIS-LECAR MODEL (A) Steady-state voltage and
+(B) oscillation frequency as a function of the amplitude of the sustained current / for the reduced
+Morris-Lecar model (Eqs. 7.11). The steady-state /-V curve can also be viewed as the cumultative,
+steady-state ionic current flowing at any particular membrane potential Vm. At /_ = 24.9 /LtA/cm2
+(arrow), the single equilibrium point (Fig. 7.7A) loses stability via hard excitation (a subcritical Hopf
+bifurcation) when the real part of the two conjugate eigenvalues goes through zero and becomes
+positive. As in the case for the Hodgkin-Huxley and FitzHugh-Nagumo equations, this type of onset
+of oscillations implies a nonzero oscillation frequency (here a minimum of 50 Hz).
+the middle one is an unstable saddle (one eigenvalue is positive and the other negative),
+while the upper equilibrium point is an unstable spiral (the eigenvalues are complex, with
+their real part being positive; Fig. 7.9A). Indeed, the lower resting state at Vm — —29.2 mV
+and w = 0.0045 is a globally attracting rest state. A local perturbation in its neighborhood
+leads to a prompt decay back to rest, while a large input pulse will cause the system to
+move on its usual trajectory around the phase space, a trajectory that ultimately ends at rest
+again: the system responds to a brief current pulse with a spike before settling down again.
+However, different from the previous systems we analyzed, this one shows a true threshold
+due to the presence of the unstable saddle.
+The middle equilibrium point, associated with the negative and the positive real eigen-
+values, is called a saddle because it comes with a curve, called the separatrix curve, which
+sharply distinguishes between sub- and suprathresholds: any phase point to the left of this
+curve will veer away from equilibrium toward the stable sink, while any point to the right
+of the separatrix will move in that direction and generate a spike (Fig. 7.9B). If the initial
+condition places the system near the threshold separatrix, the system will display a long
+latency before decaying back or spiking, because being close to both nullclines implies that
+both variables Vm and w change only slowly.
+What happens if the amplitude of the injected current is increased? This has the effect of
+lifting the Vm nullcline closer to the w nullcline and moving the two lower equilibrium points
+
+
+===== Page 18 =====
+7.2 The Morris-Lecar Model 
+• 
+189
+Fig. 7.9 SYSTEM WITH MULTIPLE EQUILIBRIUM POINTS The Morris-Lecar equations were
+modified by changing the dynamics of potassium activation and making its voltage dependency
+steeper (Eqs. 7.16 and 7.17). (A) Under these conditions, the two nullclines can intersect up to three
+times. Here, the lower equilibrium point is a globally attracting, stable sink, the middle one an unstable
+saddle, and the upper one an unstable spiral. (B) Phase space portrait around the two lower equilibrium
+points. The separatrix curve (thin line) at the saddle strictly separates sub- and suprathreshold regions
+of phase space. Points to the left of this curve will decay back to the stable sink, while points to
+the right will lead to a spike. If the current injected into the system is further increased, these two
+equilibrium points will move toward each other, coalesce, and disappear. If the initial state of the
+system lies in the neighborhood of these two curves, it will evolve very slowly since, by definition,
+Vm = 0 along the Vm nullcline and w = 0 along the w nullcline, explaining why the system is able
+to spike at very low frequencies.
+closer and closer to each other. For a critical value I\ = 8.326 /xA/cm2, the stable sink
+and the unstable saddle meet and coalesce and—upon further increases of /— disappear
+entirely. A saddle-node bifurcation has just occurred (Rinzel and Ermentrout, 1998), with
+the system losing two of its equilibrium points. At the point when the two critical points
+meet, the two eigenvalues are identical to zero.
+If the state of the system is in the neighborhood of these two points (as in Fig. 7.9B), it
+will take a long time to move into a different region of phase space. (After all, by definition,
+the change in one or the other variable along the nullclines is zero.) Indeed, the closer the
+system is to the nullclines, the slower it will move. At I\, that is, when the two equilibrium
+points have coalesced, the period of the oscillations is infinite. It can be shown under some
+fairly generic conditions (Strogatz, 1994) that the oscillation frequency is proportional to
+VT^Ti" (Figs. 7.10 and 7.11B).
+A property of systems with a saddle-node bifurcation is an N-shaped relationship between
+the membrane potential and the injected current, or between the potential and the sustained
+current (Fig. 7.11 A). In other words, for a range of membrane currents three different steady
+
+
+===== Page 19 =====
+190
+PHASE SPACE ANALYSIS OF NEURONAL EXCITABILITY
+Fig. 7.10 SPIKING AT Low FREQUENCIES 
+Response of the modified Morris-Lecar equations
+(Eqs. 7.16 and 7.17) using current steps (starting at t =0) of variable amplitude. In response to
+a current step of 7.9 /u.A/cm2 amplitude, the membrane depolarizes. Close to l\ = 8.326 ;u.A/cm2, the
+onset of spiking can be delayed almost indefinitely, similar to the delay observed in pyramidal cells
+due to the presence of the A-like current (Fig. 9.7). This is not caused by the very slow time constant
+of any one ionic current, but it is due to the structure of the nullclines in phase space (Fig. 7.9B).
+Fig. 7.11 SUSTAINED SPIKING IN THE
+MODIFIED MORRIS-LECAR MODEL 
+(A)
+Steady-state voltage and (B) oscillation fre-
+quency as a function of / for the modified
+Morris-Lecar model (Eqs. 7.16 and 7.17).
+Different from Fig. 7.8, the I-V relationship
+is N-shaped. Spiking first occurs at I\ (arrow)
+when the slope of this curve is infinite and
+then becomes negative. This happens when
+the two lower equilibrium points in the phase
+portrait of Fig. 7.9 merge, creating oscilla-
+tions with arbitrarily long interspike intervals
+via a saddle-node bifurcation.
+state voltages exist, of which only one, however, is stable (solid portion of the curve). When
+the injected current is slowly increased, oscillations first occur when the slope of the I-V
+curve becomes infinite (for / = I\) and then negative. If very large stimulus currents are
+used, the system locks up at very depolarized levels and spiking ceases.
+
+
+===== Page 20 =====
+7.4 Recapitulation 
+• 
+191
+In this model, the transition from a stable equilibrium point to a stable limit cycle is
+marked by arbitrarily low firing rates without having to rely on arbitrarily slow activation
+rates. Having a saddle is a necessary condition for such a continuous /-/ relationship. In our
+case, this is achieved via a steep nonlinear relationship between the membrane potential and
+activation of the potassium conductance. As we will see in Chap. 9, this is the characteristic
+action of a transient potassium current (the I A current of Connor and Stevens, 197 Ic), which
+has a steep voltage dependency in the neighborhood of the resting state of the cell.
+7.3 More Elaborate Phase Space Models
+So far, we reviewed models of spiking that are constrained to a two-dimensional phase
+space. However, a variety of higher dimensional models have been studied to characterize
+more complex behavior, in particular bursting and intrinsic rhythmic behavior.
+Thalamic cells can respond to input by either firing a few fast action potentials or
+generating a slow calcium, all-or-none event, on top of which ride a series of fast, con-
+ventional sodium spikes. Which response type occurs depends on the level of membrane
+depolarization (Jahnsen and Llinas, 1984a,b; Fig. 9.4). Researchers have generated detailed
+biophysical models of the various ionic currents that are responsible for this behavior
+(McCormick and Huguenard, 1992). Given the potential significance of bursting as a special
+means of communicating a privileged symbol, we dedicated Chap. 16 to this topic.
+Rose and Hindmarsh (1985) use phase space models with three variables: one for
+the membrane potential, one for the degree of accommodation, and one to mimic slow
+adaptation. They proved that it is this slow variable that is responsible for determining
+whether the neuron fires in a tonic or in a burst mode in response to sustained current input.
+Indeed, a classification of bursting based on this type of phase-space analysis is beginning
+to emerge (Wang and Rinzel, 1995).
+As reviewed extensively by Llinas (1988), many neurons do not behave at all like the
+squid axon membrane, but have a great deal of diversity of electrical behaviors. For instance,
+subsets of thalamic cells express complex intrinsic oscillations of the membrane potential in
+very different frequency bands (from a few to 40 Hz or more) depending on the behavioral
+state of the animal (sleep, arousal, etc.; see Steriade, McCormick, and Sejnowski, 1993). In
+order to understand the interplay between intrinsic cellular properties and network properties
+that generate these period phenomena, networks of thalamic cells with more than half a
+dozen ionic conductances have been simulated (Destexhe, McCormick, and Sejnowski,
+1993; Wang, 1994; Contreras et al., 1997). Although the underlying phase spaces are
+high-dimensional, their projection onto suitable two-dimensional subspaces has shown the
+usefulness of analyzing the behavior of these systems in terms of the concepts introduced
+in this chapter.
+7.4 Recapitulation
+The theory of nonlinear dynamics represents a powerful tool to characterize the generic
+mechanisms giving rise to the threshold response, the stereotypical shape of action poten-
+tials, or the onset of oscillations. It allows us to understand why these phenomena occur even
+when we have insufficient information concerning the detailed kinetics or the exact shape of
+the various rate and time constants. In this chapter, we apply the theory of dynamical systems
+
+
+===== Page 21 =====
+192 
+. 
+PHASE SPACE ANALYSIS OF NEURONAL EXCITABILITY
+to analyze two-dimensional systems with the help of the phase portrait. In particular, we
+focus on the FitzHugh-Nagumo (FitzHugh, 1961,1969; Nagumo, Arimoto, and Yoshizawa,
+1962) and the Morris-Lecar (1981) models of spiking.
+The FitzHugh-Nagumo model was based on the observation that the membrane potential
+and the sodium activation in the four-dimensional Hodgkin-Huxley equations evolve on a
+similar time scale, while the sodium inactivation and the potassium activation also share
+similar behavior, albeit on a slower scale. This feature can be exploited by expressing the
+membrane excitability via the two-dimensional FitzHugh-Nagumo equations with constant
+coefficients, with V corresponding to the excitability of the system and W its degree of
+accommodation. Linear stability analysis allows us to understand why the resting state is
+stable and when spiking first occurs. It is also helpful to explain the all-or-none shape of the
+action potential as an example of a limit cycle, upon which the system will rapidly converge
+once threshold is exceeded.
+We also acquainted the reader with a qualitativly similar system of equations that
+describes muscle fiber excitability in terms of a leak, a calcium, and a potassium current
+(Morris and Lecar, 1981). Following the lead of Rinzel and Ermentrout (1998), we assume
+that the calcium current is so rapid that it is always in the steady-state with respect to
+the membrane potential and the potassium activation, and we discuss two variants of
+these equations. The first behaves similar to the squid axon and to the FitzHugh-Nagumo
+equations, generating oscillations with a nonzero oscillation frequency (via a subcritical
+Hopf bifurcation). Modifying the potassium conductance to be a steeper function of Vm
+allows the system to spike at very low frequencies via a saddle-node bifurcation, similar
+to what occurs in cells that have a marked delay between the onset of current injection and
+the first spike (due to the presence of /A).
+The advantage of using models based on a very small number of variables—rather than
+relying on biophysical very detailed models with an excuberance of variables—is that they
+offer us a qualitative, geometrical way to understand why a cell spikes and why it switches
+between two modes of firing without necessarily having to know every single detail of
+the system.
+Given the enormous numerical load involved in simulating the dynamics of hundreds
+or thousands of neurons, such a simplified single-cell model will allow us to study neural
+networks containing realistic numbers of neurons. The price one pays for this reduced
+complexity is a lack of quantitative predictions.
+
+

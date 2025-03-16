@@ -1,0 +1,733 @@
+===== Page 1 =====
+35
+The Control of Gaze
+I
+n preceding chapters, we learned about the motor 
+systems that control the movements of the body in 
+space. In this and the next chapter, we consider the 
+motor systems that control our gaze, balance, and posture 
+as we move through the world around us. In examining 
+these motor systems, we will focus on three biological 
+challenges that these systems resolve: How do we visu-
+ally explore our environment quickly and efficiently? 
+How do we compensate for planned and unplanned 
+movements of the head? How do we stay upright?
+In this chapter, we describe the oculomotor sys-
+tem and how it uses visual information to guide eye 
+movements. It is one of the simplest motor systems, 
+requiring the coordination of only the 12 evolutionar-
+ily old muscles that move the two eyes. In humans 
+and other primates, the primary objective of the ocu-
+lomotor system is to control the position of the fovea, 
+the central point in the retina that has the highest den-
+sity of photoreceptors and thus the sharpest vision. 
+The fovea is less than 1 mm in diameter and covers 
+less than 1% of the visual field. When we want to 
+examine an object, we must move its image onto the 
+fovea (Chapter 22).
+The Eye Is Moved by the Six Extraocular Muscles
+Eye Movements Rotate the Eye in the Orbit
+To a good approximation, the eye is a sphere that sits 
+in a socket, the orbit. Eye movements are simply rota-
+tions of the eye in the orbit. The eye’s orientation can 
+be defined by three axes of rotation—horizontal, ver-
+tical, and torsional—that intersect at the center of the 
+eyeball, and eye movements are described as rotations 
+The Eye Is Moved by the Six Extraocular Muscles
+Eye Movements Rotate the Eye in the Orbit
+The Six Extraocular Muscles Form Three Agonist–
+Antagonist Pairs
+Movements of the Two Eyes Are Coordinated
+The Extraocular Muscles Are Controlled by  
+Three Cranial Nerves
+Six Neuronal Control Systems Keep the Eyes on Target
+An Active Fixation System Holds the Fovea on a 
+Stationary Target
+The Saccadic System Points the Fovea Toward  
+Objects of Interest
+The Motor Circuits for Saccades Lie in the Brain Stem
+Horizontal Saccades Are Generated in the Pontine 
+Reticular Formation
+Vertical Saccades Are Generated in the Mesencephalic 
+Reticular Formation
+Brain Stem Lesions Result in Characteristic Deficits in 
+Eye Movements
+Saccades Are Controlled by the Cerebral Cortex Through the 
+Superior Colliculus
+The Superior Colliculus Integrates Visual and Motor 
+Information into Oculomotor Signals for the Brain Stem
+The Rostral Superior Colliculus Facilitates Visual Fixation
+The Basal Ganglia and Two Regions of Cerebral Cortex 
+Control the Superior Colliculus
+The Control of Saccades Can Be Modified by Experience
+Some Rapid Gaze Shifts Require Coordinated Head and 
+Eye Movements
+The Smooth-Pursuit System Keeps Moving Targets on the Fovea
+The Vergence System Aligns the Eyes to Look at Targets at 
+Different Depths
+Highlights
+
+
+===== Page 2 =====
+Chapter 35 / The Control of Gaze    861
+Figure 35–1  The different actions of eye movements and 
+the muscles that control them.
+A. View of the left eye and the three dimensions of eye 
+movement.
+B. 1. Lateral view of the left eye with the orbital wall cut away. Each 
+rectus muscle inserts in front of the equator of the globe so that 
+contraction rotates the cornea toward the muscle. Conversely, the 
+oblique muscles insert behind the equator, and contraction rotates 
+the cornea away from the insertion. The superior oblique tendon 
+passes through the trochlea, a bony pulley on the nasal side of the 
+orbit, before it inserts on the globe. The levator muscle of the upper 
+eyelid raises the lid. 2. Superior view of the left eye with the roof 
+of the orbit and the levator muscle cut away. The superior rectus 
+passes over the superior oblique and inserts in front of it on the 
+globe.
+around these axes. Horizontal and vertical eye move-
+ments change the line of sight by redirecting the 
+fovea; torsional eye movements rotate the eye around 
+the line of sight but do not change where the eyes are 
+looking.
+Horizontal rotation of the eye away from the nose 
+is called abduction, and rotation toward the nose is 
+adduction (Figure 35–1A). Vertical movements are referred 
+to as elevation (upward rotation) and depression (down-
+ward rotation). Finally, torsional movements include 
+B  Muscles
+1  Lateral view
+A  Eye movements
+2  Superior view
+Trochlea
+Lateral rectus
+Lateral
+rectus
+Medial
+rectus
+Inferior
+oblique
+Superior
+oblique
+Superior
+rectus
+Superior rectus
+Inferior rectus
+Inferior oblique
+Superior oblique
+Levator (cut)
+Levator
+(cut)
+Optic
+nerve
+Abduction
+Adduction
+Depression
+Elevation
+Extorsion
+Intorsion
+intorsion (rotation of the top of the cornea toward the 
+nose) and extorsion (rotation away from the nose).
+Most eye movements are conjugate; that is, both 
+eyes move in the same direction. These eye movements 
+are called version movements. For example, during 
+gaze to the right, the right eye abducts and the left eye 
+adducts. Similarly, if the right eye extorts, the left eye 
+intorts. When you change your gaze from far to near, the 
+eyes move in opposite directions—both eyes adduct. 
+These movements are called vergence movements.
+
+
+===== Page 3 =====
+862    Part V / Movement
+Figure 35–2  The effect of orbital position on the action of 
+the superior oblique muscle.
+A. When the eye is adducted (looking toward the nose), con-
+traction of the superior oblique depresses the eye.
+B. When the eye is abducted (looking away from the nose), 
+contraction of the superior oblique intorts the eye.
+The Six Extraocular Muscles Form Three  
+Agonist–Antagonist Pairs
+Each eye is rotated by six extraocular muscles arranged 
+in three agonist–antagonist pairs (Figure 35–1B). The 
+four rectus muscles (lateral, medial, superior, and infe-
+rior) share a common origin, the annulus of Zinn, at 
+the apex of the orbit. They insert on the surface of the 
+eye, or sclera, anterior to the center of the eye, so the 
+superior rectus elevates the eye and the inferior rectus 
+depresses it. The origin of the inferior oblique muscle 
+is on the medial wall of the orbit; the superior oblique 
+muscle’s tendon passes through the trochlea, or pul-
+ley, before inserting on the globe, so that its effective 
+origin is also on the anteromedial wall of the orbit. The 
+oblique muscles insert posterior to the center of the eye, 
+so the superior oblique depresses the eye and the infe-
+rior oblique elevates it.
+Each muscle has a dual insertion. The part of the 
+muscle farthest from the eye inserts on a soft-tissue 
+pulley through which the rest of the muscle passes on 
+its way to the eye. When the extraocular muscles con-
+tract, they not only rotate the eye but also change their 
+pulling directions as a result of these pulleys.
+The actions of the extraocular muscles are deter-
+mined by their geometry and by the position of the 
+eye in the orbit. The medial and lateral recti rotate the 
+eye horizontally; the medial rectus adducts, whereas 
+the lateral rectus abducts. The superior and inferior 
+recti and the obliques rotate the eye both vertically and 
+torsionally. The superior rectus and inferior oblique 
+elevate the eye, and the inferior rectus and superior 
+oblique depress it. The superior rectus and superior 
+oblique intort the eye, whereas the inferior rectus and 
+inferior oblique extort it.
+The superior and inferior recti and the obliques 
+are often called the cyclovertical muscles because 
+they produce both vertical and torsional eye rotation. 
+The relative amounts of each rotation depend on eye 
+position. The superior and inferior recti exert their 
+maximal vertical action when the eye is abducted, 
+that is, when the line of sight is parallel to the mus-
+cles’ pulling directions, while the oblique muscles 
+exert their maximal vertical action when the eye is 
+adducted (Figure 35–2).
+Movements of the Two Eyes Are Coordinated
+Humans and other frontal-eyed animals have binocu-
+lar vision—the fields of vision of the two eyes over-
+lap. This facilitates stereopsis, the ability to perceive 
+a visual scene in three dimensions, as well as depth 
+perception. At the same time, binocular vision requires 
+A  In adduction, the superior
+oblique depresses the eye
+B  In abduction, the superior
+    oblique intorts the eye
+Axis of
+rotation
+Pulling
+direction
+y
+x
+Axis of
+rotation
+Pulling
+direction
+Nasal
+side
+Nasal
+side
+y
+x
+precise coordination of the movements of the two eyes 
+so that both foveae are always directed at the target 
+of interest. For most eye movements, both eyes must 
+move by the same amount and in the same direction. 
+This is accomplished, in large part, through the pairing 
+of eye muscles in the two eyes.
+Just as each eye muscle is paired with its antagonist 
+in the same orbit (eg, the medial and lateral recti), it is 
+also paired with the muscle that moves the opposite eye 
+in the same direction. For example, coupling of the left 
+lateral rectus and right medial rectus moves both eyes 
+to the left during a leftward saccade. The orientations 
+of the vertical muscles are such that each pair consists 
+of one rectus muscle and one oblique muscle. For exam-
+ple, the left superior rectus and the right inferior oblique 
+both move the eyes upward in left gaze, while the right 
+inferior rectus and the left superior oblique both move 
+the eyes downward in right gaze (Table 35–1).
+The Extraocular Muscles Are Controlled by  
+Three Cranial Nerves
+The extraocular muscles are innervated by groups of 
+motor neurons whose cell bodies are clustered in the 
+three oculomotor nuclei in the brain stem (Figure 35–3). 
+
+
+===== Page 4 =====
+Chapter 35 / The Control of Gaze    863
+Table 35–1  Vertical Muscle Action in Adduction and 
+Abduction
+Muscle
+Action in 
+adduction
+Action in 
+abduction
+Superior rectus
+Intorsion
+Elevation
+Inferior rectus
+Extorsion
+Depression
+Superior oblique
+Depression
+Intorsion
+Inferior oblique
+Elevation
+Extorsion
+Figure 35–3  The oculomotor nuclei in the brain stem.  The 
+nuclei are shown in a parasagittal section through the thala-
+mus, pons, midbrain, and cerebellum of a rhesus monkey. The 
+oculomotor nucleus (cranial nerve III) lies in the midbrain at the 
+level of the mesencephalic reticular formation; the trochlear 
+nucleus (nerve IV) is slightly caudal; and the abducens nucleus 
+(nerve VI) lies in the pons at the level of the paramedian pontine 
+reticular formation, adjacent to the fasciculus of the facial nerve 
+(VII). Compare with Figure 40–5. (Abbreviations: iC, interstitial 
+nucleus of Cajal; iMLF, interstitial nucleus of the medial longi-
+tudinal fasciculus; nD, nucleus of Darkshevich; VN, vestibular 
+nuclei.) (Adapted from Henn, Hepp, and Büttner-Ennever 1982.)
+Cerebellum
+3 mm
+Thalamus
+Rostral
+iMLF
+nD
+Pontine
+nuclei
+Paramedian
+pontine reticular
+formation
+Mesencephalic
+reticular
+formation
+Posterior commissure
+VI
+III
+IV
+iC
+VII
+VN
+Superior colliculus
+Inferior colliculus
+Medial
+longitudinal
+fasciculus
+Oculomotor
+Trochlear
+Abducens
+The lateral rectus is innervated by the abducens nerve 
+(cranial nerve VI), whose nucleus lies in the pons in the 
+floor of the fourth ventricle. The superior oblique muscle 
+is innervated by the trochlear nerve (cranial nerve IV), 
+whose nucleus is located in the contralateral midbrain at 
+the level of the inferior colliculus. (The trochlear nerve 
+gets its name from the trochlea, the bony pulley through 
+which the superior oblique muscle travels.)
+All the other extraocular muscles—the medial, 
+inferior, and superior recti, and the inferior oblique—
+are innervated by the oculomotor nerve (cranial nerve III), 
+whose nucleus lies in the midbrain at the level of the 
+superior colliculus. Superior rectus axons cross the mid-
+line and join the contralateral oculomotor nerve. Thus, 
+both superior rectus and superior oblique motor neu-
+rons innervate their respective muscles on the opposite 
+side. The oculomotor nerve also contains fibers that 
+innervate the levator muscle of the upper eyelid. Cell 
+bodies of axons innervating both eyelids are located in 
+the central caudal nucleus, a single midline structure 
+within the oculomotor complex. Finally, traveling with 
+the oculomotor nerve are parasympathetic fibers that 
+innervate the iris sphincter muscle, which constricts the 
+pupil, and the ciliary muscles that adjust the curvature 
+of the lens to focus the eye during vergence movements 
+from far to near, the process of accomodation.
+The pupil and eyelid also have sympathetic inner-
+vation, which originates in the intermediolateral cell 
+column of the ipsilateral upper thoracic spinal cord. 
+Fibers of these neurons synapse on cells in the supe-
+rior cervical ganglion in the upper neck. Axons of these 
+postganglionic cells travel along the carotid artery to 
+the cavernous sinus and then into the orbit. Sympa-
+thetic pupillary fibers innervate the iris dilator mus-
+cle, causing the pupil to dilate and thus providing the 
+pupillary component of the so-called “fight or flight” 
+response. Sympathetic fibers also innervate Müller’s 
+muscle, a secondary elevator of the upper eyelid. The 
+sympathetic control of pupillary dilatation and lid 
+elevation is responsible for the “wide-eyed” look of 
+excitement and sympathetic overload.
+The best way to understand the actions of the 
+extraocular muscles is to consider the eye movements 
+that remain after a lesion of a specific nerve (Box 35–1).
+The force generated by an extraocular muscle is 
+determined both by the firing rate of the motor neu-
+rons and the number of motor units recruited. Like the 
+motor units for skeletal muscle (Chapter 31), eye motor 
+units are recruited in a fixed sequence. For example, 
+as the eye moves laterally, the number of active abdu-
+cens neurons and their individual firing rates both 
+increase, thereby increasing the strength of lateral rec-
+tus contraction.
+
+
+===== Page 5 =====
+864    Part V / Movement
+Patients with lesions of the extraocular muscles or their 
+nerves complain of double vision (diplopia) because the 
+images of the object of gaze no longer fall on the corre-
+sponding retinal locations in both eyes. Lesions of each 
+nerve produce characteristic symptoms that depend on 
+which extraocular muscles are affected. In general, dou-
+ble vision increases when the patient tries to look in the 
+direction of the weak muscle.
+Abducens Nerve
+A lesion of the abducens nerve (VI) causes weakness of 
+the lateral rectus. When the lesion is complete, the eye 
+cannot abduct beyond the midline, such that a hori-
+zontal diplopia increases when the subject looks in the 
+direction of the affected eye.
+Trochlear Nerve
+A left trochlear nerve (IV) lesion affects both torsional 
+and vertical eye movements by weakening the superior 
+oblique muscle (Figure 35–4). Vertical misalignment in 
+superior oblique paresis is also affected by the position 
+of the head. A tilt to one side, such that the ear moves 
+toward the shoulder, induces a small torsion of the eye 
+in the opposite direction, known as ocular counter-roll. 
+For example, when the head tilts to the left, the left eye 
+is ordinarily intorted by the left superior rectus and left 
+superior oblique, while the right eye is extorted by the 
+right inferior rectus and right inferior oblique. In the left 
+eye, the elevation action of the superior rectus is canceled 
+by the depression action of the superior oblique, so the 
+eye only rotates about the line of sight. When the head 
+tilts to the right, the inferior oblique and inferior rectus 
+extort the left eye and the superior oblique and the supe-
+rior rectus relax.
+With paresis of the left superior oblique, the elevat-
+ing action of the superior rectus is unopposed when the 
+head tilts to the left such that the left eye moves further 
+upward. In contrast, tilting the head to the right relaxes 
+the superior rectus and superior oblique (Figure 35–4D). 
+Thus, patients with trochlear nerve lesions often prefer 
+to keep their heads tilted away from the affected eye 
+because this reduces the misalignment and can elimi-
+nate diplopia.
+Oculomotor Nerve
+A lesion of the oculomotor nerve (III) has complex 
+effects because this nerve innervates multiple muscles. 
+A complete lesion spares only the lateral rectus and 
+superior oblique muscles. Thus, the paretic eye is typi-
+cally deviated downward and abducted at rest and can-
+not move medially or upward. Downward movement 
+is also affected because the inferior rectus muscle is 
+weak; because the eye is abducted, the primary action 
+of the intact superior oblique is intorsion rather than 
+depression.
+Because the fibers that control lid elevation, accom-
+modation, and pupillary constriction travel in the oculo-
+motor nerve, damage to this nerve also results in drooping 
+of the eyelid (ptosis), blurred vision for near objects, and 
+pupillary dilation (mydriasis). Although sympathetic 
+innervation is still intact with an oculomotor nerve lesion, 
+the ptosis is essentially complete, since Müller’s muscle 
+contributes less to elevation of the upper eyelid than does 
+the levator muscle of the upper eyelid.
+Sympathetic Oculomotor Nerves
+Sympathetic fibers innervating the eye arise from the 
+thoracic spinal cord, traverse the apex of the lung, and 
+ascend to the eye on the outside of the carotid artery. 
+Interruption of the sympathetic pathways to the eye 
+leads to Horner syndrome, which includes a partial ipsi-
+lateral ptosis owing to weakness of Müller’s muscle and 
+a relative constriction (miosis) of the ipsilateral pupil. 
+The pupillary asymmetry is most pronounced in low 
+light because the normal pupil is able to dilate but the 
+pupil affected by Horner syndrome is not.
+Box 35–1  Extraocular Muscle or Nerve Lesions
+
+
+===== Page 6 =====
+Chapter 35 / The Control of Gaze    865
+Figure 35–4  Effect of a left trochlear nerve palsy.  The 
+trochlear nerve innervates the superior oblique muscle, which 
+inserts behind the equator of the eye. It depresses the eye 
+when it is adducted and intorts the eye when it is abducted.
+A. Hypertropia, a permanent upward deviation of the eye, 
+can be seen when a patient is looking straight ahead. The 
+right eye is in the center of the orbit, but the affected left 
+eye is slightly above the right eye.
+B. The hypertropia is worse when the eye is adducted 
+because the unopposed inferior oblique pushes the eye 
+higher (left). The condition is improved when the eye is 
+abducted (right) because the superior oblique contributes 
+less to depression than to intorsion.
+C. When the patient looks to the right, the hypertropia is 
+worse on downward gaze (left) than it is on upward gaze 
+(right).
+D. The hypertropia is improved by head tilt to the right (left) 
+and worsened by tilt to the left (right). The ocular counter-
+rolling reflex induces intorsion of the left eye on leftward 
+head tilt and extorsion of the eye on rightward head tilt 
+(Chapter 27). With leftward head tilt, intorsion requires 
+increased activity of the superior rectus, whose elevating 
+activity is unopposed by the weak superior oblique, caus-
+ing increased hypertropia. With rightward head tilt and 
+extorsion of the left eye, the unopposed superior rectus 
+muscle is less active, and the hypertropia decreases.
+A
+B
+C
+D
+Trochlear 
+nerve 
+Superior
+oblique
+
+
+===== Page 7 =====
+866    Part V / Movement
+Figure 35–5  Eye movements track the outline of an object 
+of attention. An observer looks at a picture of a woman for 
+1 minute. The resulting eye positions are then superimposed 
+on the picture. As shown here, the observer concentrated on 
+certain features of the face, lingering over the woman’s eyes 
+and mouth (fixations) and spending less time over intermediate 
+positions. The rapid movements between fixation points are 
+saccades. (Reproduced, with permission, from Yarbus 1967.)
+Six Neuronal Control Systems Keep  
+the Eyes on Target
+The oculomotor nuclei are the final common targets 
+for all types of eye movements generated by higher 
+brain networks. Hermann Helmholtz and other 19th-
+century psychophysicists appreciated that analysis of 
+eye movements was essential for understanding visual 
+perception, but they assumed that all eye movements 
+were smooth. In 1890, Edwin Landott discovered that 
+during reading the eyes do not move smoothly along 
+a line of text but make fast intermittent movements 
+called saccades (French, jerks), each followed by a 
+short pause.
+By 1902, Raymond Dodge outlined five distinct 
+types of eye movement that direct the fovea to a visual 
+target and keep it there. All of these eye movements 
+share an effector pathway originating in the three ocu-
+lomotor nuclei in the brain stem.
+• Saccadic eye movements shift the fovea rapidly to 
+a new visual target.
+• Smooth-pursuit movements keep the image of a 
+moving target on the fovea.
+• Vergence movements move the eyes in opposite 
+directions so that the image of an object of inter-
+est is positioned on both foveae regardless of its 
+distance.
+• Vestibulo-ocular reflexes stabilize images on the 
+retina during brief head movements.
+• Optokinetic movements stabilize images during 
+sustained head rotation or translation.
+A sixth system, the fixation system, holds the eye 
+stationary during intent gaze when the head is not 
+moving by actively suppressing eye movement. The 
+optokinetic and vestibular systems are discussed in 
+Chapter 27. We consider the other four systems here.
+An Active Fixation System Holds the Fovea  
+on a Stationary Target
+Vision is most accurate when the eyes are still. The 
+gaze system actively prevents the eyes from moving 
+when we examine an object of interest. It is not as 
+active in suppressing movement when we are doing 
+something that does not require vision, such as men-
+tal arithmetic. Patients with disorders of the fixation 
+system—for example, patients with irrepressible sac-
+cadic eye movements (opsoclonus)—have poor vision 
+not because their visual acuity is deficient but because 
+they cannot hold their eyes still enough for the visual 
+system to work correctly.
+The Saccadic System Points the Fovea Toward 
+Objects of Interest
+Our eyes explore the world in a series of very quick 
+saccades that move the fovea from one fixation point 
+to another (Chapter 25) (Figure 35–5). Saccades allow 
+us to scan the environment quickly and to read. Highly 
+stereotyped, they have a standard waveform with a 
+single smooth increase and decrease of eye velocity. 
+Saccades are also extremely fast, occurring within a 
+fraction of a second at angular speeds up to 900° per 
+second (Figure 35–6A). The velocity of a saccade is 
+determined only by its size. We can voluntarily change 
+
+
+===== Page 8 =====
+Chapter 35 / The Control of Gaze    867
+Figure 35–6  Saccadic and smooth-pursuit eye move-
+ments. Eye position, target position, and eye velocity are  
+plotted against time.
+A. The human saccade. At the beginning of the plot, the eye is 
+on the target (the traces representing eye and target positions 
+are superimposed). Suddenly, the target jumps to the right, and 
+within 200 ms, the eye moves to bring the target back to the 
+fovea. Note the smooth, symmetric velocity profile. Because 
+eye movements are rotations of the eye in the orbit, they are 
+described by the angle of rotation. Similarly, objects in the visual 
+field are described by the angle of arc they subtend at the eye. 
+Viewed at arm’s length, a thumb subtends an angle of approxi-
+mately 1°. A saccade from one edge of the thumb to the other 
+therefore traverses 1° of arc. (Abbreviations: L, left; R, right.)
+B. Human smooth pursuit. In this example, the subject is asked 
+to make a saccade to a target that jumps away from the center 
+of gaze and then slowly moves back to center. The first  
+movement seen in the position and velocity traces is a smooth-
+pursuit movement in the same direction as the target move-
+ment. The eye briefly moves away from the target before a 
+saccade is initiated because the latency of the pursuit system 
+is shorter than that of the saccade system. The smooth-pursuit 
+system is activated by the target moving back toward the 
+center of gaze, the saccade adjusts the eye’s position to catch 
+the target, and thereafter, smooth pursuit keeps the eye on 
+the target. The recording of saccade velocity is clipped so that 
+the movement can be shown on the scale of the pursuit move-
+ment, an order of magnitude slower than the saccade.
+Saccade
+Smooth 
+pursuit
+R
+L
+Eye and 
+target
+position
+Eye and 
+target
+position
+Eye
+velocity
+600°/s
+200 ms
+20°
+–20
+20
+200 ms
+Eye 
+velocity
+°/s
+Eye position
+Target position
+Target moving
+0
+A  Saccade
+B  Smooth pursuit
+10°
+the amplitude and direction of saccades but not their 
+speed, although fatigue, drugs, or pathological states 
+can slow saccades.
+Ordinarily, there is no time for visual feedback to 
+modify the course of a saccade as it is being made; instead, 
+corrections to the direction and/or amplitude of move-
+ment are made over the course of successive saccades. 
+Accurate saccades can be made not only to visual targets 
+but also to sounds, tactile stimuli, memories of locations 
+in space, and even verbal commands (eg, “look left”).
+When a saccade is made, the activity of neurons 
+in higher brain centers that control gaze specify only 
+a desired change in eye position (eg, 20° to the right 
+of current gaze, usually based on a target location in 
+the visual field). For the eye movement to be made, 
+this location signal must be transformed into signals 
+for the eye muscles that execute the desired velocity 
+and change in eye position. We can illustrate how the 
+gaze system generates eye movements by considering 
+the activity of an oculomotor neuron during a saccade 
+(Figure 35–7A). To move the eye quickly to a new posi-
+tion in the orbit and keep it there, two passive forces 
+must be overcome: the elastic force of the orbital tis-
+sues, which tends to restore the eye to a central posi-
+tion, and a velocity-dependent viscous force that 
+opposes rapid movement. Thus, the motor signal for 
+an eye movement must include both a position com-
+ponent to counter the elastic force and a velocity com-
+ponent to overcome orbital viscosity and move the eye 
+quickly to the new position.
+This eye position and velocity information are 
+coded by the discharge frequencies of oculomotor neu-
+rons. When a saccade is made, the firing rate of a neu-
+ron rises rapidly as eye velocity increases; this is called 
+the saccadic pulse (Figure 35–7B). The frequency of this 
+pulse determines the speed of the saccade, whereas the 
+length of the pulse controls the duration of the saccade 
+and thus its amplitude. When the saccade is completed 
+and the eye has reached its goal, there must be a new 
+level of tonic input to the eye muscles that is appropri-
+ate for the elastic restoring force at that orbital position. 
+This difference in the tonic firing rate between before 
+and after the saccade is called the saccadic step (Figure 
+35–7B). If the size of the step is not properly matched to 
+
+
+===== Page 9 =====
+868    Part V / Movement
+Figure 35–7  Oculomotor neurons signal eye position and 
+velocity.
+A. The record is from an abducens neuron of a monkey. When the 
+eye is positioned in the medial side of the orbit, the cell is silent 
+(position θ0). As the monkey makes a lateral saccade, there is a 
+burst of firing (D1), but in the new position (θ1), the eye is still too 
+far medial for the cell to discharge continually. During the next 
+saccade, there is a burst (D2), and at the new position (θ2), there 
+is a tonic position-related discharge. Before and during the next 
+saccade (D3), there is again a pulse of activity and a higher tonic 
+discharge when the eye is at the new position (θ3). When the eye 
+makes a medial movement, there is a period of silence during the 
+saccade (D4) even though the eye ends up at a position (θ4) asso-
+ciated with a tonic discharge. (Adapted from Fuchs and Luschei 
+1970.)
+B. Saccades are associated with a step of activity, which signals 
+the change in eye position, and a pulse of activity, which signals 
+eye velocity. The neural activity corresponding to eye position and 
+velocity is illustrated both as a train of individual spikes and as an 
+estimate of the instantaneous firing rate (spikes per second).
+Medial
+Lateral
+Horizontal 
+eye position 
+(degrees)
+Abducens 
+motor 
+neuron
+Spikes /s
+Spikes
+Pulse
+Step
+Eye position
+5 ms
+Lateral
+Eye velocity
+D1
+D2
+D3
+D4
+Lateral 
+rectus
+Abducens
+motor neuron
+(N. VI)
+Recording
+A
+B
+Time
+Medial
+θ
+θ1
+θ0
+θ2
+θ4
+θ3
+the pulse, then the eye drifts away from the target after 
+the saccade. As described later, the pulse and step are 
+generated by different brain stem structures.
+The Motor Circuits for Saccades Lie in  
+the Brain Stem
+Horizontal Saccades Are Generated in the  
+Pontine Reticular Formation
+The neuronal signal for horizontal saccades origi-
+nates in the paramedian pontine reticular formation, 
+adjacent to the abducens nucleus to which it projects 
+(Figure 35–8A). The paramedian pontine reticular for-
+mation contains a family of burst neurons that gives 
+rise to the saccadic pulse. These cells fire at a high 
+frequency just before and during ipsiversive saccades 
+(toward the same side as the discharging neurons), and 
+their activity resembles the pulse component of oculo-
+motor neuron discharge (Figure 35–7B).
+There are several types of burst neurons (Figure 
+35–8B). Medium-lead excitatory burst neurons make 
+direct excitatory connections to motor neurons and 
+interneurons in the ipsilateral abducens nucleus. 
+
+

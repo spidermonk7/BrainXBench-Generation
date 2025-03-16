@@ -1,0 +1,291 @@
+===== Page 1 =====
+972    Part V / Movement
+14.  BMIs raise new neuroethics questions, which 
+need to be considered together with the ben-
+efits provided by BMIs to people with injury or 
+disease.
+ Krishna V. Shenoy 
+ Byron M. Yu 
+Selected Reading
+Andersen RA, Hwang EJ, Mulliken GH. 2010. Cognitive neu-
+ral prosthetics. Annu Rev Psychol 61:169–190.
+Donoghue JP, Nurmikko A, Black M, Hochberg LR. 2007. 
+Assistive technology and robotic control using motor cor-
+tex ensemble-based neural interface systems in humans 
+with tetraplegia. J Physiol 579:603–611.
+Fetz EE. 2007. Volitional control of neural activity: implica-
+tions for brain-computer interfaces. J Physiol 579:571–579.
+Green AM, Kalaska JF. 2011. Learning to move machines 
+with the mind. Trends Neurosci 34:61–75.
+Hatsopoulos NG, Donoghue JP. 2009. The science of neural 
+interface systems. Annu Rev Neurosci 32:249–266.
+Kao JC, Stavisky SD, Sussillo D, Nuyujukian P, Shenoy KV. 
+2014. Information systems opportunities in brain-machine 
+interface decoders. Proc IEEE 102:666–682.
+Nicolelis MAL, Lebedev MA. 2009. Principles of neural 
+ensemble physiology underlying the operation of brain-
+machine interfaces. Nat Rev Neurosci 10:530–540.
+Schwartz AB. 2016. Movement: how the brain communicates 
+with the world. Cell 164:1122–1135.
+Shenoy KV, Carmena JM. 2014. Combining decoder design 
+and neural adaptation in brain-machine interfaces. Neuron 
+84:665–680.
+References
+Aflalo T, Kellis S, Klaes C, et al. 2015. Decoding motor 
+imagery from the posterior parietal cortex of a tetraplegic 
+human. Science 348:906–910.
+Ajiboye AB, Willett FR, Young DR, et al. 2017. Restoration of 
+reaching and grasping movements through brain-controlled 
+muscle stimulation in a person with tetraplegia: a proof-
+of-concept demonstration. Lancet 389:1821–1830.
+Anumanchipalli GK, Chartier J, Chang EF. 2019. Speech syn-
+thesis from neural decoding of spoken sentences. Nature 
+568:493–498.
+Blabe CH, Gilja V, Chestek CA, Shenoy KV, Anderson KD, 
+Henderson JM. 2015. Assessment of brain-machine inter-
+faces from the perspective of people with paralysis. J Neural 
+Eng 12:043002.
+Bouton CE, Shaikhouni A, Annetta NV, et al. 2016. Restoring 
+cortical control of functional movement in a human with 
+quadriplegia. Nature 533:247–250.
+Carmena JM, Lebedev MA, Crist RE, et al. 2003. Learning to 
+control a brain-machine interface for reaching and grasp-
+ing by primates. PLoS Biol 1:E42.
+Chapin JK, Moxon KA, Markowitz RS, Nicolelis MA. 1999. Real-
+time control of a robot arm using simultaneously recorded 
+neurons in the motor cortex. Nat Neurosci 2:664–670.
+Collinger JL, Wodlinger B, Downey JE, et al. 2013. High-
+performance neuroprosthetic control by an individual 
+with tetraplegia. Lancet 381:557–564.
+Dadarlat MC, O’Dohert JE, Sabes PN. 2015. A learning-based 
+approach to artificial sensory feedback leads to optimal 
+integration. Nat Neurosci 18:138–144.
+Ethier C, Oby ER, Bauman MJ, Miller LE. 2012. Restoration of 
+grasp following paralysis through brain-controlled stimu-
+lation of muscles. Nature 485:368–371.
+Fetz EE. 1969. Operant conditioning of cortical unit activity. 
+Science 163:955–958.
+Flesher SN, Collinger JL, Foldes ST, et al. 2016. Intracortical 
+microstimulation of human somatosensory cortex. Sci 
+Transl Med 8:361ra141.
+Ganguly K, Carmena JM. 2009. Emergence of a stable corti-
+cal map for neuroprosthetic control. PLoS Biol 7:e1000153.
+Gilja V, Nuyujukian P, Chestek CA, et al. 2012. A high-
+performance neural prosthesis enabled by control algo-
+rithm design. Nat Neurosci 15:1752–1757.
+Gilja V, Pandarinath C, Blabe CH, et al. 2015. Clinical trans-
+lation of a high-performance neural prosthesis. Nat Med 
+21:1142–1145.
+Golub MD, Chase SM, Batista AP, Yu BM. 2016. Brain-
+computer interfaces for dissecting cognitive processes 
+underlying sensorimotor control. Curr Opin Neurobiol 
+37:53–58.
+Hochberg LR, Bacher D, Jarosiewicz B, et al. 2012. Reach and 
+grasp by people with tetraplegia using a neurally con-
+trolled robotic arm. Nature 485:372–375.
+Hochberg LR, Serruya MD, Friehs GM, et al. 2006. Neuronal 
+ensemble control of prosthetic devices by a human with 
+tetraplegia. Nature 442:164–171.
+Humphrey DR, Schmidt EM, Thompson WD. 1970. Predict-
+ing measures of motor performance from multiple corti-
+cal spike trains. Science 170:758–762.
+Jackson A, Mavoori J, Fetz EE. 2006. Long-term motor cortex 
+plasticity induced by an electronic neural implant. Nature 
+444:56–60.
+Jarosiewicz B, Sarma AA, Bacher D, et al. 2015. Virtual typ-
+ing by people with tetraplegia using a self-calibrating 
+intracortical brain-computer interface. Sci Transl Med 
+7:313ra179.
+Kennedy PR, Bakay RA. 1998. Restoration of neural output 
+from a paralyzed patient by a direct brain connection. 
+Neuroreport 9:1707–1711.
+Kim SP, Simeral JD, Hochberg LR, Donoghue JP, Black MJ. 
+2008. Neural control of computer cursor velocity by 
+decoding motor cortical spiking activity in humans with 
+tetraplegia. J Neural Eng 5:455–476.
+
+
+===== Page 2 =====
+Chapter 39 / Brain–Machine Interfaces    973
+Koralek AC, Costa RM, Carmena JM. 2013. Temporally pre-
+cise cell-specific coherence develops in corticostriatal net-
+works during learning. Neuron 79:865–872.
+McFarland DJ, Sarnacki WA, Wolpaw JR. 2010. Electroen-
+cephalographic (EEG) control of three-dimensional move-
+ment. J Neural Eng 7:036007.
+Moritz CT, Perlmutter SI, Fetz EE. 2008. Direct control of par-
+alysed muscles by cortical neurons. Nature 456:639–642.
+Musallam S, Corneil BD, Greger B, Scherberger H, Andersen 
+RA. 2004. Cognitive control signals for neural prosthetics. 
+Science 305:258–262.
+O’Doherty JE, Lebedev MA, Ifft PJ, et al. 2011. Active tactile 
+exploration using a brain-machine-brain interface. Nature 
+479:228–231.
+Pandarinath C, Nuyujukian P, Blabe CH, et al. 2017. High 
+performance communication by people with paralysis 
+using an intracortical brain-computer interface. eLife 
+6:e18554.
+Sadtler PT, Quick KM, Golub MD, et al. 2014. Neural con-
+straints on learning. Nature 512:423–426.
+Santhanam G, Ryu SI, Yu BM, Afshar A, Shenoy KV. 2006. 
+A high-performance brain-computer interface. Nature 
+442:195–198.
+Schalk G, Miller KJ, Anderson NR, et al. 2008. Two-dimensional 
+movement control using electrocorticographic signals in 
+humans. J Neural Eng 5:75–84.
+Serruya MD, Hatsopoulos NG, Paninski L, Fellows MR, 
+Donoghue JP. 2002. Instant neural control of a movement 
+signal. Nature 416:141–142.
+Shenoy KV, Meeker D, Cao S, et al. 2003. Neural prosthetic 
+control signals from plan activity. Neuroreport 14:591–596.
+Stavisky SD, Willett FR, Wilson GH, Murphy BA, Rezaii P, 
+Avansino DT, et al. 2019. Neural ensemble dynamics in 
+dorsal motor cortex during speech in people with paraly-
+sis. eLife;8:e46015.
+Suminski AJ, Tkach DC, Fagg AH, Hatsopoulos NG. 2010. 
+Incorporating feedback from multiple sensory modali-
+ties enhances brain-machine interface control. J Neurosci 
+30:16777–16787.
+Taylor DM, Tillery SIH, Schwartz AB. 2002. Direct cortical con-
+trol of 3d neuroprosthetic devices. Science 296:1829–1832.
+Velliste M, Perel S, Spalding MC, Whitford AS, Schwartz AB. 
+2008. Cortical control of a prosthetic arm for self-feeding. 
+Nature 453:1098–1101.
+Wessberg J, Stambaugh CR, Kralik JD, et al. 2000. Real-time 
+prediction of hand trajectory by ensembles of cortical neu-
+rons in primates. Nature 408:361–365.
+Wodlinger B, Downey JE, Tyler-Kabara EC, Schwartz AB, 
+Boninger ML, Collinger JL. 2015. Ten-dimensional anthro-
+pomorphic arm control in a human brain-machine inter-
+face: difficulties, solutions, and limitations. J Neural Eng 
+12:016011.
+
+
+===== Page 3 =====
+This page intentionally left blank 
+
+
+===== Page 4 =====
+Part VI
+
+
+===== Page 5 =====
+Preceding Page
+Embracing couple mourning someone’s death, perhaps buried in a nearby funerary urn. 
+(Mali, Djenné style. Inland Delta of the Niger River, 13th–15th centuries AD. University 
+of Iowa Stanley Museum of Art, The Stanley Collection of African Art. X1986.451.)
+
+
+===== Page 6 =====
+VI
+The Biology of Emotion, 
+Motivation, and Homeostasis
+E
+motional and homeostatic behaviors all involve  the 
+coordination of one or more somatic, autonomic, hormonal, or 
+cognitive processes. Subcortical brain regions concerned with a 
+range of functions—including feeding, drinking, heart rate, breath-
+ing, temperature regulation, sleep, sex, and facial expressions—play 
+a critical role in this coordination. Subcortical brain regions are bidi-
+rectionally connected with cortical brain areas, providing a means 
+for reperesentations of internal state variables (eg, visceral informa-
+tion) to influence cognitive operations, such as subjective feelings, 
+decision-making, and attention, and for cognitive functions to regu-
+late or extinguish neural representations in subcortical brain areas 
+that help coordinate behavior reflecting emotional states.
+Our consideration of these systems begins with the brain stem, a 
+structure critical for wakefulness and conscious attention on the one 
+hand and sleep on the other. The significance of this small region of 
+the brain—located between the spinal cord and the diencephalon—is 
+disproportionate to its size. Damage to the brain stem can profoundly 
+affect motor and sensory processes because it contains all of the 
+ascending tracts that bring sensory information from the surface of 
+the body to the cerebral cortex and all of the descending tracts from 
+the cerebral cortex that deliver motor commands to the spinal cord. 
+Finally, the brain stem contains neurons that control respiration and 
+heartbeat as well as nuclei that give rise to most of the cranial nerves 
+that innervate the head and neck.
+Six neurochemical modulatory systems in the brain stem modu-
+late sensory, motor, and arousal systems. The dopaminergic path-
+ways that connect the midbrain to the limbic system and cortex are 
+particularly important, because they are involved in processing stim-
+uli and events in relation to reinforcement expectation, and therefore 
+contribute to motivational state and learning. Addictive drugs such 
+as nicotine, alcohol, opiates, and cocaine are thought to produce their 
+actions by co-opting the same neural pathways that positively rein-
+force behaviors essential for survival. Other modulatory transmitters 
+
+
+===== Page 7 =====
+regulate sleep and wakefulness, in part by controlling information 
+flow between the thalamus and cortex. Disorders of electrical excita-
+tion in corticothalamic circuits can result in seizures and epilepsy.
+Rostral to the brain stem lies the hypothalamus, which func-
+tions to maintain the stability of the internal environment by keep-
+ing physiological variables within the limits favorable to vital bodily 
+processes. Homeostatic processes in the nervous system have pro-
+found consequences for behavior that have intrigued many of the 
+founders of modern physiology, including Claude Bernard, Walter 
+B. Cannon, and Walter Hess. Neurons controlling the internal envi-
+ronment are concentrated in the hypothalamus, a small area of the 
+diencephalon that comprises less than 1% of the total brain volume. 
+The hypothalamus, with closely linked structures in the brain stem  
+and limbic system, acts directly on the internal environment, through 
+its control of the endocrine system and autonomic nervous system, 
+to achieve goal-directed behavior. It acts indirectly through its con-
+nections to higher brain regions to modulate emotional and moti-
+vational states. In addition to influencing motivated behaviors, the 
+hypothalamus, together with the brain stem below and the cerebral 
+cortex above, maintains a general state of arousal, which ranges from 
+excitement and vigilance to drowsiness and stupor.
+The neurobiological investigation of emotion has relied on exper-
+iments that define emotions in terms of specific measures ranging 
+from subjective reports of feelings in humans, to approach or defen-
+sive behaviors, to physiological responses such as autonomic reac-
+tivity. Charles Darwin observed in his seminal book The Expression of 
+the Emotions in Man and Animals that many emotions are conserved 
+across species, making clear the relevance of studying emotions by 
+using animal models to probe neural mechansisms. In experimental 
+frameworks, emotional states are thereby considered to be central 
+brain states that can cause coordinated behavioral, physiological, 
+and cognitive responses across species.
+In recent years, much work on emotion has focused on the amyg-
+dala, which can orchestrate different responses via its connections to 
+the cortex, hypothalamus, and brain stem. Lesions of the amygdala 
+in humans impair fear learning and expression, as well as fear recog-
+nition in others, due to decreased allocation of attention to features 
+of faces that communicate fear. Symptoms in a variety of psychiat-
+ric disorders—ranging from addiction to anxiety to social deficits—
+likely involve amygdala dysfunction. However, the amygdala is 
+only one component of a larger set of brain regions that includes 
+parts of the hypothalamus, the brain stem, and cortical areas also 
+responsible for coordinating emotional responses. In particular, the 
+medial and ventral prefrontal cortex and amygdala are closely inter-
+connected. Dynamic processing within and between these structures 
+likely subserves many functions beyond coordinated emotional 
+behavior, including extinction, the cognitive regulation of emotional 
+
+
+===== Page 8 =====
+states, interactions between social and emotional domains, and the 
+influence of the amgydalar representations on decision-making and 
+subjective feelings.
+Part Editors: C. Daniel Salzman and John D. Koester
+Part VI
+Chapter 40	
+The Brain Stem
+Chapter 41	
+The Hypothalamus: Autonomic, Hormonal, and 
+Behavioral Control of Survival
+Chapter 42	
+Emotion
+Chapter 43	
+Motivation, Reward, and Addictive States
+Chapter 44	
+Sleep and Wakefulness
+
+
+===== Page 9 =====
+This page intentionally left blank 
+
+

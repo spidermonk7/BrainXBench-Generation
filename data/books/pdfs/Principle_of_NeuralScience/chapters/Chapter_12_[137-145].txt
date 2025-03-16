@@ -1,0 +1,693 @@
+===== Page 1 =====
+92    Part I / Overall Perspective
+nuclei in the brain stem contain neurons that synthe-
+size and release the modulatory neurotransmitter nor-
+epinephrine (the locus coeruleus) and serotonin (the 
+dorsal raphe nucleus). Such neurons set the general 
+arousal level of an animal through their widespread 
+connections with forebrain structures. A group of 
+cholinergic modulatory neurons, the basal nucleus of 
+Meynert, is involved in arousal or attention (Chapter 40). 
+This nucleus is located beneath the basal ganglia in the 
+basal forebrain portion of the telencephalon. The axons 
+of its neurons project to essentially all portions of the 
+neocortex.
+If a predator finds potential prey, a variety of cor-
+tical and subcortical systems determine whether the 
+prey is edible. Once food is recognized, other cortical 
+and subcortical systems initiate a comprehensive vol-
+untary motor program to bring the animal into contact 
+with the prey, capture it and place it in the mouth, and 
+chew and swallow.
+Finally, the physiological satisfaction the animal 
+experiences in eating reinforces the behaviors that led 
+to the successful predation. A group of dopaminergic 
+neurons in the midbrain are important for monitoring 
+reinforcements and rewards. The power of the dopa-
+minergic modulatory systems has been demonstrated 
+by experiments in which electrodes were implanted 
+into the reward regions of rats and the animals were 
+freely allowed to press a lever to electrically stimu-
+late their brains. They preferred this self-stimulation 
+to obtaining food or water, engaging in sexual behav-
+ior, or any other naturally rewarding activity. The 
+role of the dopaminergic modulatory system in learn-
+ing through reinforcement of exploratory behavior is 
+described in Chapter 38.
+How the brain’s modulatory systems, concerned 
+with reward, attention and motivation, interact with 
+the sensory and motor systems is one of the most 
+interesting questions in neuroscience, one that is also 
+fundamental to our understanding of learning and 
+memory storage (Chapter 40).
+The Peripheral Nervous System Is 
+Anatomically Distinct From the Central 
+Nervous System
+The peripheral nervous system supplies the central 
+nervous system with a continuous stream of infor-
+mation about both the external environment and the 
+internal environment of the body. It has somatic and 
+autonomic divisions (Figure 4–16).
+The somatic division includes the sensory neurons 
+that receive information from the skin, muscles, and 
+Figure 4–16  The peripheral nervous system has somatic 
+and autonomic divisions. The somatic division carries infor-
+mation from the skin to the brain and from the brain to mus-
+cles. The autonomic division regulates involuntary functions, 
+including activity of the heart and smooth muscles in the gut 
+and glands.
+Peripheral Nervous System
+Somatic
+Autonomic
+
+
+===== Page 2 =====
+Chapter 4 / The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior    93
+joints. The cell bodies of these sensory neurons lie in 
+the dorsal root ganglia and cranial ganglia. Receptors 
+associated with these cells provide information about 
+muscle and limb position and about touch and pressure 
+at the body surface. In Part IV (Perception), we shall 
+see how remarkably specialized these receptors are in 
+transducing one or another type of physical energy (eg, 
+deep pressure or heat) into the electrical signals used 
+by the nervous system. In Part V (Movement), we shall 
+see that sensory receptors in the muscles and joints are 
+crucial to shaping coherent movement of the body.
+The autonomic division of the peripheral nervous 
+system mediates visceral sensation as well as motor 
+control of the viscera, vascular system, and exocrine 
+glands. It consists of the sympathetic, parasympathetic, 
+and enteric systems. The sympathetic system partici-
+pates in the body’s response to stress, whereas the para-
+sympathetic system acts to conserve body resources and 
+restore homeostasis. The enteric nervous system, with 
+neuronal cell bodies located in or adjacent to the viscera, 
+controls the function of smooth muscle and secretions 
+of the gut. The functional organization of the autonomic 
+nervous system is described in Chapter 41 and its role in 
+emotion and motivation in Chapter 42.
+Memory Is a Complex Behavior Mediated by 
+Structures Distinct From Those That Carry Out 
+Sensation or Movement
+Research over the past 50 years has provided a sophis-
+ticated view of memory systems in the brain. We now 
+know that different forms of memory (eg, fear memory 
+versus skill memory) are mediated by different brain 
+regions. Here we contrast the organization of the sys-
+tem responsible for coding and storing our experiences 
+of other individuals, places, facts, and episodes, a pro-
+cess called explicit memory.
+We know that a structure called the hippocampus 
+(or more properly the hippocampal formation, since 
+it is several cortical regions) is a key component of a 
+medial temporal lobe memory system that encodes 
+and stores memories of our lives (Figure 4–17). This 
+understanding is based largely on the analysis of the 
+Figure 4–17  Coronal section of the human hippocam-
+pal formation stained by the Nissl methods to demon-
+strate cell bodies. The main cytoarchitectonic fields are 
+shown in this section of the human hippocampal formation. 
+(Abbreviations: CA3 and CA1, subdivisions of the hippocampus; 
+DG, dentate gyrus; EC, entorhinal cortex; F, fimbria;  
+Sub, subiculum.)
+F
+Sub
+EC
+CA3
+CA1
+DG
+
+
+===== Page 3 =====
+94    Part I / Overall Perspective
+famous patient Henry Molaison (referred to as HM by 
+the scientists who studied him during his life), who in 
+the early 1950s had bilateral temporal lobe surgery to 
+reduce his life-threatening epilepsy. In contrast to the 
+six-layered neocortex, the hippocampus, along with 
+olfactory cortex (piriform cortex), is a three-layered 
+cortical structure referred to as archicortex, one of the 
+phylogenetically older areas of cortex.
+The reason we briefly describe the hippocampal 
+formation in this chapter is to emphasize that not all 
+brain circuits are alike. In fact, whether one talks about 
+the olfactory bulb, where the sense of smell begins to be 
+processed, or the cerebellum, where fine motor move-
+ments are refined, the general principle is that the struc-
+ture of a circuit is specific to the function that it mediates. 
+And the hippocampal circuit is as different from the cir-
+cuits that mediate sensory perception or motor move-
+ment as one could imagine. Hippocampal circuitry of 
+the brain will be dealt with in much more detail in later 
+chapters. Chapter 5 introduces the idea that the hip-
+pocampus encodes information about an animal’s spa-
+tial location in its environment and that the encoding 
+of explicit memory (including spatial memory) requires 
+plastic changes in synaptic function. Chapters 52 and 54 
+explore human memory function and the cellular and 
+molecular bases of explicit memory and spatial repre-
+sentation, respectively.
+The Hippocampal System Is Interconnected With 
+the Highest-Level Polysensory Cortical Regions
+Sensory systems are hierarchical and process progres-
+sively more complex stimuli at higher levels, particu-
+larly of the neocortex. Moreover, from the highest levels 
+of each modality, circuits connect with polysensory 
+cortical regions located at various places around the 
+cortex, where information from many sensory modali-
+ties converges onto single neurons. The hippocampal 
+system receives most of its input, the raw material with 
+which it makes memories, from a few specific polysen-
+sory regions. These include the perirhinal and para-
+hippocampal cortices, located in the medial temporal 
+lobe, as well as the retrosplenial cortex, located in the 
+caudal portion of the cingulate gyrus. These polysen-
+sory regions converge on the entry structure to the hip-
+pocampal system, the entorhinal cortex (Figure 4–18). 
+The polysensory information that enters the entorhinal 
+cortex can be thought of as providing summaries of 
+immediate experience.
+The Hippocampal Formation Comprises Several 
+Different but Highly Integrated Circuits
+The hippocampal formation is made up of a number of 
+distinct cortical regions that are simpler in organization 
+than the neocortex—at least they have fewer layers. The 
+regions include the dentate gyrus, hippocampus, subicu-
+lum, and entorhinal cortex. Each of these regions is made 
+up of subregions containing many neuronal cell types. 
+The simplest subregion of the hippocampal formation is 
+the dentate gyrus, which has a single principal neuron 
+called the granule cell. The subregions of the hippocam-
+pus termed CA1, CA2, and CA3, consist of a single layer 
+of pyramidal cells whose dendrites extend above and 
+below the cell body layer and receive inputs from several 
+regions. The subiculum (divided into subiculum, presub-
+iculum and parasubiculum) is another region made up 
+largely of pyramidal cells. Finally, the most complex part 
+of the hippocampal formation is the entorhinal cortex, 
+which has multiple layers but still has an organization 
+distinctly different from the neocortex. For example, it 
+lacks a layer IV and has a much more prominent layer II.
+Figure 4–18  Hierarchical organization of connections to 
+the hippocampal formation. The hippocampal formation 
+receives highly processed sensory information, primarily 
+through the entorhinal cortex, from multimodal association 
+regions such as the perirhinal, parahippocampal, and  
+retrosplenial cortices.
+Entorhinal 
+cortex
+Perirhinal
+cortex
+Parahippocampal
+cortex
+Hippocampus
+Retrosplenial
+cortex
+Unimodal
+association
+areas
+Polymodal
+association
+areas
+Hippocampal formation
+Subiculum
+Dentate
+gyrus
+
+
+===== Page 4 =====
+Chapter 4 / The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior    95
+The Hippocampal Formation Is Made Up Mainly of 
+Unidirectional Connections
+Here we describe the fundamental circuitry of the hip-
+pocampal formation. The circuitry is described in more 
+detail in Chapter 54. The simplified version of the hip-
+pocampal circuit shown in Figure 4–19 emphasizes 
+its stepwise serial processing of multimodal sensory 
+information, with each hippocampal region contribut-
+ing to the formation of explicit memories. This serial 
+processing implies that damage to any one of the com-
+ponents of this system would lead to memory impair-
+ment. And, in fact, another famous patient, known by 
+the initials R.B., did suffer profound memory impair-
+ment due to loss of cells in the CA1 region after an 
+ischemic episode.
+As it turns out, while the hippocampal formation 
+is essential for the initial formation of memories of our 
+lives, these memories are ultimately stored elsewhere in 
+the brain. In patients such as HM, in whom the entorhi-
+nal cortex and much of the rest of the hippocampal sys-
+tem was removed, memories prior to the surgery were 
+largely intact. Thus, to achieve creation and long-term 
+storage of the memories of our lives, the hippocampus 
+and entorhinal cortex must communicate with circuits 
+Figure 4–19  Simplified diagram on internal connections 
+within the hippocampal formation. The circuit begins from 
+cells in layer II of the entorhinal cortex to the dentate gyrus, 
+which then projects to the CA3 region of the hippocampus. The 
+CA3 portion of the hippocampus projects to CA1, and CA1 then 
+projects to the subiculum. The hippocampal circuit is closed 
+when the subiculum projects to the deep layers of the entorhi-
+nal cortex. Not shown are the feedback pathways from entorhi-
+nal cortex to the same multimodal areas from which it receives 
+sensory information.
+Hippocampal formation
+CA1
+Entorhinal
+cortex
+Neocortex
+II
+III
+V / VI
+Dentate
+gyrus
+Subiculum
+CA3
+in the cerebral cortex. Where and precisely how that 
+happens remain a mystery.
+Highlights
+1.	 Individual neurons are not able to carry out 
+behavior. They must be incorporated into circuits 
+that comprise different types of neurons that are 
+interconnected by excitatory, inhibitory, and mod-
+ulatory connections.
+2.	 Sensory and motor information is processed in the 
+brain in a variety of discrete brain regions that are 
+active simultaneously.
+3.	 A functional pathway is formed by the serial con-
+nection of identifiable brain regions, and each brain 
+region’s circuits process more complex or specific 
+information than the preceding brain region.
+4.	 The sensations of touch and pain are mediated by 
+pathways that run between different circuits in the 
+spinal cord, brain stem, thalamus, and neocortex.
+5.	 All sensory and motor systems follow the pat-
+tern of hierarchical and reciprocal processing of 
+information, whereas the hippocampal memory 
+system is organized largely for serial processing 
+of very complex, polysensory information. A gen-
+eral principle is that circuits in the brain have an 
+organizational structure that is suited for the func-
+tions that they are carrying out.
+6.	 Contrary to an intuitive analysis of our personal 
+experience, perceptions are not precise copies of 
+the world around us. Sensation is an abstraction, 
+not a replication, of reality. The brain’s circuits con-
+struct an internal representation of external physi-
+cal events after first analyzing various features of 
+those events. When we hold an object in the hand, 
+the shape, movement, and texture of the object are 
+simultaneously analyzed in different brain regions 
+according to the brain’s own rules, and the results 
+are integrated in a conscious experience.
+7.	 How sensation is integrated in a conscious 
+experience—the binding problem—and how con-
+scious experience emerges from the brain’s analy-
+sis of incoming sensory information are two of the 
+most intriguing questions in cognitive neurosci-
+ence (Chapter 56). An even more complex issue is 
+how these conscious impressions are encoded into 
+memories that are stored for decades.
+David G. Amaral
+
+
+===== Page 5 =====
+96    Part I / Overall Perspective
+Selected Reading
+Brodal A. 1981. Neurological Anatomy in Relation to Clinical 
+Medicine, 3rd ed. New York: Oxford Univ. Press.
+Carpenter MB. 1991. Core Text of Neuroanatomy, 4th ed.  
+Baltimore: Williams and Wilkins.
+England MA, Wakely J. 1991. Color Atlas of the Brain and 
+Spinal Cord: An Introduction to Normal Neuroanatomy.  
+St. Louis: Mosby Year Book.
+Martin JH. 2012. Neuroanatomy: Text and Atlas, 4th ed.  
+New York: McGraw Hill.
+Nieuwenhuys R, Voogd J, van Huijzen Chr. 1988. The Human 
+Central Nervous System: A Synopsis and Atlas, 3rd rev. ed. 
+Berlin: Springer-Verlag.
+Peters A, Jones EG (eds). 1984. Cerebral Cortex. Vol. 1, Cellular 
+Components of the Cerebral Cortex. New York: Plenum.
+Peters A, Palay S, Webster H de F. 1991. The Fine Structure of 
+the Nervous System, 3rd ed. New York: Oxford Univ. Press.
+References
+Brodmann K. 1909. Vergleichende Lokalisationslehre der Gross-
+hirnrinde in ihren Prinzipien dargestellt auf Grund des  
+Zellenbaues. Leipzig: Barth.
+Felleman DJ, Van Essen DC. 1991. Distributed hierarchical 
+processing in the primate cerebral cortex. Cereb Cortex 1: 
+1–47.
+Heimer L. 1994. The Human Brain and Spinal Cord: Functional 
+Neuroanatomy and Dissection Guide, 2nd ed. New York: 
+Springer.
+Jones EG. 1988. The nervous tissue. In: Cell and Tissue Biology: 
+A Textbook of Histology, 6th ed., pp. 305–341. Baltimore: 
+Urban & Schwarzenberg.
+Jones EG. 1986. Connectivity of the primate sensory-motor 
+cortex. In: EG Jones, A Peters (eds), Cerebral Cortex, Vol. 5, 
+Chapter 4: Sensory-Motor Areas and Aspects of Cortical 
+Connectivity, pp. 113–183. New York/London: Plenum.
+Kaas JH. 2006. Evolution of the neocortex. Curr Biol 16: 
+R910–914.
+Kaas JH, Qi HX, Burish MJ, Gharbawie OA, Onifer SM, 
+Massey JM. 2008. Cortical and subcortical plasticity in 
+the brains of humans, primates, and rats after damage to 
+sensory afferents in the dorsal columns of the spinal cord. 
+Exp Neurol 209:407–416.
+McKenzie AL, Nagarajan SS, Roberts TP, Merzenich MM, Byl 
+NN. 2003. Somatosensory representation of the digits and 
+clinical performance in patients with focal hand dystonia. 
+Am J Phys Med Rehabil 82:737–749.
+Penfield W, Boldrey E. 1937. Somatic motor and sensory rep-
+resentation in the cerebral cortex of man as studied by 
+electrical stimulation. Brain 60:389–443.
+Penfield W, Rasmussen T. 1950. The Cerebral Cortex of Man: 
+A Clinical Study of Localization of Function. New York: 
+Macmillan.
+Ramón y Cajal S. 1995. Histology of the Nervous System of Man 
+and Vertebrates. 2 vols. N Swanson, LW Swanson (transl). 
+New York: Oxford Univ. Press.
+Rockland KS, Ichinohe N. 2004. Some thoughts on cortical 
+minicolumns. Exp Brain Res 158:265–277.
+Zola-Morgan S, Squire LR, Amaral DG. 1986. Human amne-
+sia and the medial temporal region: enduring memory 
+impairment following a bilateral lesion limited to field 
+CA1 of the hippocampus. J Neurosci 6:2950–2967.
+
+
+===== Page 6 =====
+5
+The Computational Bases of Neural Circuits  
+That Mediate Behavior
+Although much has been learned by recording 
+from just one or a few neurons at a time, advances in 
+miniaturization and electronics technology now make 
+it possible to record action potentials simultaneously 
+from many hundreds of individual neurons across 
+multiple brain areas, often in the context of a sensory, 
+motor, or cognitive task (Box 5–1). Such advances, 
+together with computational approaches for managing 
+and making sense of large data sets, promise to revolu-
+tionize our understanding of neural function.
+At the same time, modern genetic approaches 
+based on mRNA sequencing from individual neurons 
+are revealing the numerous types of cells that contrib-
+ute to population activity. Genetic-based approaches 
+also allow defined types of neurons to be activated 
+or silenced during an experiment, supporting tests of 
+causality (Box 5–2).
+High-throughput anatomical methods, at the scales 
+of both light and electron microscopy, are providing 
+information about circuit wiring at an unprecedented 
+level of detail and completeness. The complexity of 
+neural circuits and the large data sets collected from 
+them has motivated the development and application 
+of statistical, computational, and theoretical methods 
+for extracting, analyzing, modeling, and interpreting 
+results. These methods are used to study a broad range 
+of issues: experimental design, the extraction of signals 
+from raw data, the analysis of large complex data sets, 
+the construction and analysis of models simulating the 
+data, and, finally and most importantly, building some 
+form of understanding from the results.
+Signal extraction is often done on the basis of a 
+Bayesian approach, inferring the most likely signal 
+Neural Firing Patterns Provide a Code for Information
+Sensory Information Is Encoded by Neural Activity
+Information Can Be Decoded From Neural Activity
+Hippocampal Spatial Cognitive Maps Can Be Decoded to 
+Infer Location
+Neural Circuit Motifs Provide a Basic Logic for Information 
+Processing
+Visual Processing and Object Recognition Depend on a 
+Hierarchy of Feed-Forward Representations
+Diverse Neuronal Representations in the Cerebellum 
+Provide a Basis for Learning
+Recurrent Circuitry Underlies Sustained Activity and 
+Integration
+Learning and Memory Depend on Synaptic Plasticity
+Dominant Patterns of Synaptic Input Can Be Identified 
+by Hebbian Plasticity
+Synaptic Plasticity in the Cerebellum Plays a Key Role in 
+Motor Learning
+Highlights
+T
+he previous chapter focused on the neuroanat-
+omy of the brain and the connections between 
+different brain regions. An understanding of how 
+these connections mediate behavior requires insight 
+into how the information represented by the activity of 
+different populations of neurons is communicated and 
+processed. Much of this understanding has come from 
+recordings of the minute electrical signals generated 
+by individual neurons.
+
+
+===== Page 7 =====
+98    Part I / Overall Perspective
+Box 5–1  Optical Neuroimaging
+Optical imaging methods are a rapidly advancing field 
+of technology for large-scale monitoring of neural cir-
+cuit dynamics. Most of these approaches use fluorescent 
+sensors—synthetic dyes or genetically engineered and 
+encoded proteins—that signal changes in neural activity 
+via changes in the magnitude or the wavelength of their 
+emitted light following excitation. Various florescence 
+imaging approaches have been developed, depending 
+on the source of fluorescence excitation, including single-
+photon, multiphoton, and super-resolution fluorescent 
+microscopic imaging.
+The most commonly used fluorescence indicators 
+signal changes in intracellular calcium levels as a proxy 
+for the electrical activity of neurons. While the temporal 
+resolution of fluorescence calcium imaging is generally 
+lower than that of electrophysiology, fluorescent imag-
+ing with genetically encoded calcium indicators enables 
+simultaneous monitoring of many thousands of indi-
+vidually identified neurons in the behaving animal over 
+several days to weeks and months.
+In addition to calcium imaging, synthetic and 
+genetically encoded fluorescent indicators of electri-
+cal activity (eg, genetically encoded voltage indicators 
+[GEVIs]), neurotransmitter concentration reporters (eg, 
+glutamate-sensing fluorescent reporter [GluSnFR]), 
+activity states of intracellular signaling molecules, and 
+gene expression provide rapidly expanding and versa-
+tile techniques for monitoring neural activity on multi-
+ple spatial and temporal scales.
+present in a noisy recording. Data analysis often con-
+sists of reducing the dimensionality of a large data set, 
+not simply to make it more compact but to identify the 
+essential components from which it is built.
+Models of neural systems range from detailed 
+simulations of the morphology and electrophysiology 
+of individual neurons to more abstract models of large 
+populations of neurons. Whatever the level of detail, 
+the aim of models is to reveal how the measured fea-
+tures of a neuron or network of neurons contribute to 
+the function of the neuron or neural circuit.
+In addition, at the highest levels of functionality, 
+such as identifying images, playing games, or perform-
+ing tasks at human levels, ideas from machine learning 
+are increasingly impacting neuroscience research.
+In this chapter, we introduce ideas, techniques, 
+and approaches that are used to characterize and inter-
+pret the activity of neural populations and circuits, 
+with examples drawn from a number of areas of brain 
+research. Many of these topics are covered in greater 
+detail later in the book.
+Neural Firing Patterns Provide a Code for 
+Information
+Sensory Information Is Encoded by Neural Activity
+Animals and humans continually accumulate infor-
+mation about the world through their senses, make 
+decisions on the basis of that information, and, when 
+necessary, take action. In order for sensory information 
+to be processed for decision making and action, it must 
+be transformed into electrical signals that produce 
+patterns of neural activity in the brain. Studying such 
+neural representations and their relationship to exter-
+nal sensory cues, known collectively as neural coding, 
+is a major area of neuroscience research. The process 
+through which features of a stimulus are represented 
+by neural activity is called encoding.
+The structure of a neural representation plays an 
+important role in how information is further processed 
+by the nervous system. For example, visual informa-
+tion is initially encoded in the retina by photorecep-
+tor responses to the color and light intensity over a 
+small region of the visual field. This information is 
+then transformed in the brain within the primary vis-
+ual cortex to encode a visual scene on the basis of the 
+edges and shapes that define the scene as well as on 
+where these features are located. Further transforma-
+tions occur in higher-order visual areas that extract 
+complex shapes and further structure from the scene, 
+including the identification of objects and even indi-
+vidual faces. In other brain areas, auditory encoding 
+reflects the frequency spectrum of sounds, and touch 
+is encoded in maps that represent the surface of the 
+body. The sequence of action potentials fired by a 
+neuron in response to a sensory stimulus represents 
+how that stimulus changes over time. Research on 
+neural coding aims to understand both the stimulus 
+features that drive a neuron to respond and the tem-
+poral structure of the response and its relationship to 
+changes in the external world.
+
+
+===== Page 8 =====
+Chapter 5 / The Computational Bases of Neural Circuits That Mediate Behavior     99
+Information Can Be Decoded From Neural Activity
+Sensory neurons encode information by firing action 
+potentials in response to sensory features. Other brain 
+areas, such as those that lead to decisions or generate 
+motor actions, must correctly interpret the meaning 
+of action potential sequences that they receive from 
+sensory areas in order to respond appropriately. The 
+process by which information is extracted from neural 
+activity is called decoding.
+The decoding of neural signals can be done experi-
+mentally and in clinical contexts by neuroscientists. 
+Such decoding can infer what an animal or a human 
+is seeing or hearing from recordings of visual or audi-
+tory neurons, for example. In practice, only certain fea-
+tures of the stimulus are likely to be inferred, but the 
+results can nevertheless be impressive. A large number 
+of decoding procedures have been developed, ranging 
+from simple weighted sums of neuronal firing rates to 
+sophisticated statistical methods.
+Decoding methods are central to the development 
+of neuroprosthetics for people with various nervous 
+system impairments that result in extensive paralysis 
+(Chapter 39). To accomplish this, neurons are recorded 
+in the parietal or motor cortices through implanted elec-
+trodes, and online decoding procedures are used to inter-
+pret the movement intentions that are represented by the 
+recorded neural activity. The inferred intentions are then 
+used to control a computer cursor or drive a robotic limb.
+Decoding recorded neural activity also gives us 
+a remarkable view of what is going on in a neural 
+circuit, which in turn provides insight into memory 
+Box 5–2  Optogenetic and Chemogenetic Manipulation of Neuronal Activity
+Functional analysis of neural circuits relies on the ability 
+to accurately manipulate identified circuit elements to 
+elucidate their roles in physiology and behavior. Geneti-
+cally encoded neural perturbation tools have been 
+developed for remotely controlling neuron function 
+using light (optogenetics) or small molecules (chemoge-
+netics) that activate engineered receptors.
+Genetically encoded foreign proteins can be 
+expressed in molecularly, genetically, or spatially speci-
+fied subsets of neurons using viruses or transgenic ani-
+mals for subsequent selective perturbations of these 
+cell populations. Optogenetic approaches involve the 
+expression of light-sensitive proteins and subsequent 
+light delivery to the resulting photosensitized neurons. 
+Depending on the type of optogenetic actuator, light acti-
+vation will then enhance neural activity (eg, light-gated 
+ion channels like channelrhodopsin) or suppress it (eg, 
+light-gated ion pumps like halorhodopsin and archaer-
+hodopsin) by depolarizing or hyperpolarizing the cell’s 
+membrane, respectively.
+Alternatively, selected neuronal populations can 
+be remotely activated or silenced using chemogenetic 
+actuators, which are genetically engineered receptors 
+that are targeted to defined neuronal populations using 
+genetic methods; they can be activated via small-
+molecule synthetic ligands that selectively interact with 
+these receptors upon delivery (eg, DREADDs [designer 
+receptors exclusively activated by designer drugs]).
+These optogenetic and chemogenetic tools offer 
+precise spatiotemporal control over neuronal activity 
+to probe the causal relationship between neuronal cell 
+types, circuit physiology, and behavior.
+storage and retrieval, planning and decision making, 
+and other cognitive functions. The following section 
+illustrates these insights using a particularly interest-
+ing neural representation, the encoding of spatial loca-
+tion in the rodent hippocampus.
+Hippocampal Spatial Cognitive Maps Can Be 
+Decoded to Infer Location
+One of the most complex cognitive challenges an ani-
+mal faces is identifying and remembering its location in 
+an environment relative to the location of other salient 
+objects. For example, seed-caching birds can remem-
+ber the location of hundreds of different places where 
+they have stored food over a period of several months. 
+The neural circuitry involved in formation of explicit 
+memory—the memory of people, places, things, and 
+events—was briefly introduced in the previous chap-
+ter. This form of memory requires the hippocampus, 
+entorhinal cortex, and related structures in the tempo-
+ral lobe. In 1971, John O’Keefe discovered physiologi-
+cal evidence of a neural representation of the spatial 
+environment in the hippocampus. In 2014, he was 
+awarded the Nobel Prize in Physiology or Medicine, 
+together with May-Britt Moser and Edvard Moser, for 
+their discoveries concerning the neuronal representa-
+tion of space.
+O’Keefe discovered that individual cells in the 
+rat hippocampus, termed place cells, fire only when 
+the animal traverses a particular area of the environ-
+ment, termed the cell’s place field (Figure 5–1). Sub-
+sequent research uncovered place cell–like activity in 
+
+
+===== Page 9 =====
+100    Part I / Overall Perspective
+Figure 5–1  Hippocampal place cells and place cell maps.
+A. Input–output transformations occur in the trisynaptic  
+circuitry of the mammalian hippocampus, proceeding  
+from the dentate gyrus input region, to the CA3 area, and to 
+the CA1 output region, with principal excitatory neurons (red) 
+in each region as primary processing units. Activity of  
+principal cells is modulated by local circuit GABAergic  
+interneurons (gray).
+B. Place cell firing in the hippocampus. The path taken by a rat 
+is shown in black as it traverses a square arena. Electrodes 
+were implanted within the hippocampus to record from indi-
+vidual cells. Above: A single place cell increases firing (each 
+action potential represented by a red dot) at discrete locations 
+in the environment. Below: A color-coded heat map of firing 
+frequency of the schematic place cell. Lower wavelength colors 
+(yellow and red) represent higher firing rates on a background 
+of no activity (dark blue).
+C. Color-coded heat maps showing the firing of 25 different 
+place cells recorded simultaneously in the hippocampal CA1 
+region as the rat explores a square box.
+Cortex
+B
+A
+C
+CA3
+Dentate 
+region
+CA1
+the hippocampus of several other mammalian species, 
+including bats, monkeys, and humans. Distinct sets of 
+place cells are activated by distinct locations in a given 
+environment. Consequently, although individual place 
+cells represent relatively small spatial areas, the full 
+diverse population of place cells in the hippocampus 
+tiles the entire environment, and any given location is 
+encoded by a unique ensemble of cells. The hippocam-
+pal place coding network provides an example of a 
+cognitive map, initially postulated by the psychologist 
+Edward Tolman, that enables an animal to successfully 
+remember and then navigate its environment. The role 
+of the hippocampus in memory formation and the 
+mechanisms by which the hippocampal spatial map is 
+encoded are explored in detail in Chapters 52 and 54.
+The electrophysiological methods available to 
+O’Keefe in 1971 were limited to recording one place 
+cell at a time, but subsequent advances allowed inves-
+tigators to record dozens, and more recently hundreds, 
+of place cells simultaneously. Critically, while single 
+place cells encode only specific parts of the environ-
+ment and are prone to occasional noisy firing out-
+side of their place fields, entire populations of place 
+cells provide more complete spatial coverage and the 
+
+

@@ -1,0 +1,852 @@
+===== Page 1 =====
+1028    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Figure 41–12  The hypothalamus controls the pituitary 
+gland both directly and indirectly through neuroendocrine 
+neurons. Neurons in the magnocellular neuroendocrine sys-
+tem (blue) send their axons directly to the posterior pituitary 
+(neurohypophysis) where they release the peptides vasopres-
+sin and oxytocin into the general circulation. Neurons in the 
+parvocellular neuroendocrine system (yellow) send their axons 
+to the hypophysial portal system in the median eminence and 
+pituitary stalk. Portal veins transport hypothalamic hormones 
+(peptides and dopamine) to the anterior pituitary (adenohy-
+pophysis) where they increase the release of hormones from 
+five classic types of endocrine cells (Figure 41–11). The output 
+of neuroendocrine neurons is regulated in large part by inputs 
+from other regions of the brain. (Adapted from Reichlin 1978, 
+and Gay 1972.)
+Hypothalamus
+Pituitary stalk
+Inferior hypophysial
+artery
+Superior hypophysial
+artery
+Long portal
+vessels
+Short portal vessels
+Median eminence
+Adenohypophysis
+(Anterior pituitary)
+Neurohypophysis
+(Posterior pituitary)
+Endocrine Cells in the Anterior Pituitary Secrete 
+Hormones in Response to Specific Factors Released 
+by Hypothalamic Neurons
+In the 1950s, Geoffrey Harris proposed that the ante-
+rior pituitary, or adenohypophysis, is regulated indi-
+rectly by the hypothalamus. He showed that the 
+hypophysial portal veins, which carry blood from the 
+hypothalamic median eminence to the anterior pitui-
+tary, transport factors released from hypothalamic 
+neurons that control anterior pituitary hormone 
+secretion (Figure 41–12). In the 1970s, Andrew 
+Schally, Roger Guillemin, and Wylie Vale determined 
+the structure of a group of hypothalamic peptide hor-
+mones that control pituitary hormone secretion from 
+the five classic endocrine cell types in the anterior 
+pituitary. These hormones, which are released into 
+the median eminence by hypothalamic neurons, fall 
+into two classes: releasing hormones and release-
+inhibiting hormones. Only one anterior pituitary hor-
+mone, prolactin, is under predominantly inhibitory 
+control (mediated by dopamine).
+The parvocellular neuroendocrine motor zone of 
+the hypothalamus is centered along the wall of the 
+third ventricle (Figure 41–2A) and contains neu-
+rons that project to and release their hormones into 
+the median eminence. The parvocellular neurons 
+releasing gonadotropin-releasing hormone (GnRH) are 
+atypical in that they are scattered in a continuum 
+extending from the medial septum through to the 
+mediobasal hypothalamus. They are controlled by 
+upstream neurons that release kisspeptin. The remain-
+ing parvocellular neuroendocrine neurons lie within 
+the paraventricular and arcuate nuclei and the short 
+periventricular region between them (Figures 41–2 
+and 41–11).
+Distinct pools of neurons in and around the para-
+ventricular nucleus release corticotropin-releasing hor-
+mone (CRH), thyrotropin-releasing hormone (TRH), or 
+somatostatin (or growth hormone release-inhibiting 
+hormone) (Figure 41–11). The CRH neurons control 
+the release of anterior pituitary adrenocorticotropic 
+hormone (ACTH), which in turn controls the release 
+of cortisol (glucocorticoids) from the adrenal cortex. 
+Thus, this pool of CRH neurons is the “final com-
+mon pathway” for all centrally mediated glucocorti-
+coid stress hormonal responses. The arcuate nucleus 
+contains two pools of parvocellular neuroendocrine 
+neurons. One group releases growth hormone–releasing  
+hormone (GHRH) and the other dopamine, which 
+inhibits prolactin secretion. Some of the dopaminergic 
+neurons are distributed dorsally as far as the paraven-
+tricular nucleus.
+The axons of all these parvocellular neuroendo-
+crine neurons travel in the hypothalamo-hypophysial 
+tract and end in the specialized proximal end of the 
+pituitary stalk, the median eminence (Figure 41–12). 
+There, in a region of capillary loops in the external 
+zone of the median eminence, the axon terminals 
+release the various hypophysiotropic factors. While 
+the median eminence is within the brain, it is con-
+sidered outside the blood–brain barrier. This is due 
+to the fenestrated nature of the median eminence 
+
+
+===== Page 2 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1029
+Table 41–3  Hypothalamic Substances That Release or 
+Inhibit the Release of Anterior Pituitary Hormones
+Hypothalamic substance
+Anterior pituitary hormone
+Releasing:
+ 
+Thyrotropin-releasing  
+hormone (TRH)
+Thyrotropin (TSH), prolactin 
+(PRL)
+Corticotropin-releasing  
+hormone (CRH)
+Adrenocorticotropin 
+(ACTH), β-lipotropin
+Gonadotropin-releasing  
+hormone (GnRH)
+Luteinizing hormone (LH), 
+follicle-stimulating hormone 
+(FSH)
+Growth hormone–releasing 
+hormone (GHRH or GRH)
+Growth hormone (GH)
+Inhibiting:
+ 
+Prolactin release-inhibiting 
+hormone (PIH), dopamine
+Prolactin
+Growth hormone release-
+inhibiting hormone (GIH or 
+GHRIH; somatostatin)
+Growth hormone, 
+thyrotropin
+capillaries, which allow diffusion of the hypophysi-
+otropic factors into the portal circulation. The median 
+eminence capillary loops are the proximal end of the 
+hypophysial portal system of veins that carry the fac-
+tors to the anterior pituitary, where they act on cog-
+nate receptors on the five types of endocrine cells 
+(Figure 41–12 and Table 41–3).
+Dedicated Hypothalamic Systems Control 
+Specific Homeostatic Parameters
+Body Temperature Is Controlled by Neurons in the 
+Median Preoptic Nucleus
+Body Temperature Reflects the Balance Between Heat 
+Production and Loss
+The body generates heat through all of its exothermic 
+biochemical reactions and ion fluxes. These processes 
+can be greatly increased above a baseline level, the rest-
+ing metabolic rate, by exercise and shivering (both of 
+which increase skeletal muscle heat production), by the 
+digestion and assimilation of food (the so-called thermic 
+effect of food), and by sympathetic stimulation of ther-
+mogenic activity in brown adipose tissue (Box 41–1).
+The body loses heat by radiation, convection, con-
+duction (if immersed in cool water), and endothermic 
+evaporation of either sweat from the skin or moisture 
+from the respiratory tract (a process augmented in 
+some species by panting). The defensive reaction to 
+cold, in addition to producing heat, involves sympa-
+thetically mediated cutaneous vasoconstriction and 
+piloerection (goose bumps). By sending less blood to 
+the skin, vasoconstriction conserves core temperature. 
+Piloerection helps insulate the skin by creating a layer 
+of motionless air near the skin’s surface. Conversely, 
+defenses against overheating include inhibition of 
+sympathetic pathways that activate cutaneous vasodi-
+lation and brown adipose tissue. Voluntary behavioral 
+responses like taking a swim or putting on a sweater 
+play a particularly important role in thermoregulation. 
+Brown adipose tissue is a remarkably specialized heat-
+producing tissue that is especially abundant in newborns 
+and small mammals, but is also found in adult humans. 
+It has a rich blood supply for delivery of fuel and oxy-
+gen and for removal of heat and is densely innervated 
+by postganglionic sympathetic nerves. Brown adipo-
+cytes, the producers of heat, are found in concentrated 
+deposits in and around the core and also as isolated cells 
+within larger white adipose tissue depots.
+Sympathetic stimulation of β-adrenergic receptors 
+activates uncoupling protein-1 (UCP1), a mitochon-
+drial proton transport protein that is unique to brown 
+adipocytes. When activated, UCP1 “leaks” protons across 
+the mitochondrial inner membrane into the mitochon-
+drial matrix, down the proton electrochemical gradient. 
+This uncouples mitochondrial respiration from adenosine 
+triphosphate (ADP) availability, greatly increasing fuel oxi-
+dation and, importantly, the production of heat.
+Exercise and shivering, on the other hand, increase 
+heat production by using adenosine triphosphate (ATP) 
+to perform work. The resulting increase in ADP activates 
+proton transport into mitochondria via ATP synthase, 
+which then increases coupled mitochondrial respiration, 
+fuel oxidation, and ultimately the production of heat.
+Box 41–1  Brown Adipose Tissue, Bioenergetics, and Sympathetically Driven Thermogenesis
+
+
+===== Page 3 =====
+1030    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+They usually begin before the onset of physiologic 
+responses. Like thirst/drinking and hunger/eating, 
+activities generated in response to cold or hot chal-
+lenges are motivated behaviors.
+Body Temperature Is Detected at Multiple Sites
+Core temperature is held relatively constant. At the 
+shell, on the other hand, temperature fluctuates exten-
+sively because the shell is adjacent to the external envi-
+ronment, it has a high surface-to-mass ratio (in the 
+case of limbs favoring heat loss over heat production), 
+and thermal challenges dramatically affect its supply 
+of warm blood (decreased when heat needs to be con-
+served; increased when heat needs to be lost).
+Most primary afferents that detect temperature 
+have their cell bodies in the spinal dorsal root ganglia. 
+Neurons that detect noxious temperatures are part of 
+the pain pathway (Chapter 20). Their function is to 
+limit local tissue damage by promoting withdrawal as 
+opposed to regulating body temperature. Neurons that 
+respond to innocuous temperatures are often called 
+thermoreceptors. Some thermoreceptor neurons have 
+their endings in the skin, just below the epidermis, and 
+these respond to shell temperature. They are predomi-
+nantly, but not entirely, cold-responsive. Other thermo-
+receptor neurons have their endings in and around the 
+large organs and respond to core temperature. They 
+are also largely, but not entirely, cold-responsive. The  
+fibers for the deep-tissue thermoreceptor neurons 
+travel in the splanchnic nerves and, like the thermore-
+ceptor neurons in the shell, have their cell bodies in the 
+dorsal root ganglia. In addition, some also travel in the 
+vagal afferent nerve. Finally, there are warm-sensing 
+neurons in the hypothalamic medial preoptic area.
+The molecular sensors utilized by thermorecep-
+tor neurons for detecting changes in temperature are a 
+subset of excitatory transient receptor potential (TRP) 
+channels. Different TRP channels respond to different 
+ranges of temperatures (Chapter 20). Recent studies 
+have implicated specific TRP channel types in various 
+forms of sensing innocuous temperature in the three 
+sites mentioned above: TRMP8 channels mediate cold-
+sensing by shell thermoreceptor neurons, and TRPM2 
+channels mediate warm-sensing both by somatosen-
+sory thermoreceptor neurons and by neurons in the 
+hypothalamic preoptic area.
+Multiple Thermoreceptor/Thermoeffector Loops  
+Control Temperature
+Involuntary thermal regulation is controlled by a 
+multisensor, multieffector thermoregulatory system. 
+Thermal information from the shell and the viscera 
+ascends via primary afferents whose cell bodies are in 
+the dorsal root ganglia. They project to second-order 
+neurons in the dorsal horn of the spinal cord. These 
+neurons project via the spinothalamic tract to the lat-
+eral parabrachial nucleus where neurons relay cold-
+sensing and warm-sensing information to neurons in 
+the hypothalamic MnPO. Activation of the cold-sensing 
+or warm-sensing afferent pathways induces appro-
+priate physiological responses aimed at increasing or 
+decreasing body temperature.
+The neurons in the MnPO that indirectly respond 
+to cold and warmth send efferent signals via relays 
+through the medial preoptic area, dorsomedial hypo-
+thalamus, and raphe pallidus in the ventral medulla, 
+and from there on to the sympathetic preganglionic 
+neurons in the intermediolateral nucleus of the spi-
+nal cord. These latter neurons excite postganglionic 
+sympathetic neurons that project to blood vessels, 
+sweat glands, and arrector muscles of hair follicles 
+to control cutaneous blood flow, sweating, and pilo-
+erection, respectively, as well as to brown adipose 
+tissue to control thermogenesis. In addition, cold 
+causes shivering when gamma motor neurons in 
+the ventral horn of the spinal cord are activated by 
+excitatory neurons in the raphe pallidus (Chapter 32). 
+The resultant contraction of intrafusal muscle fibers 
+within muscle spindles activates IA afferents from the 
+spindles to alpha motor neurons. This proprioceptive 
+feedback increases activity of alpha motor neurons, as 
+well as their propensity to undergo rhythmic bursts 
+of activity, causing increased muscle tone and frank 
+shivering.
+The neural pathways controlling voluntary ther-
+moregulatory behaviors involve the same thermo-
+receptor pathways. Stimulation of warm-sensitive 
+neurons in and around the MnPO evokes dramatic 
+cold-seeking behavior, decreases heat production, and 
+increases heat loss. The conscious perception of body 
+temperature relies upon the same first-order thermo-
+receptor neurons, but the afferent pathway diverges 
+to activate second-order neurons in the dorsal horn, 
+which project directly or indirectly to neurons in the 
+ventromedial nucleus of the thalamus. These thalamic 
+neurons project to the insular cortex.
+From the above discussion, it is clear that there is 
+neither a set point for body temperature nor a “thermo-
+stat” that maintains it at 37°C. Instead, as mentioned 
+earlier, an apparent set point for body temperature 
+emerges as a settling point controlled by multiple sensory-
+motor feedback loops containing thermoreceptors and 
+thermoeffectors. It is a major achievement of evolution 
+that this multicomponent afferent/efferent system is 
+
+
+===== Page 4 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1031
+so effective in keeping the temperature of the body 
+core remarkably constant.
+Dysregulation of Circuits Controlling Temperature  
+Causes Fever
+In the past, when the set point view of thermoregu-
+lation was dominant, fever was thought to be caused 
+by raising the body temperature set point—a view 
+that still persists in major medical textbooks. Based on 
+the advances described above, fever is now thought 
+to arise through modulation of the afferent/efferent 
+loops, particularly as they traverse the hypothalamic 
+preoptic area. Prostaglandin E2, generated by the 
+action of inflammatory cytokines on endothelial cells 
+in the preoptic area, inhibits warm-activated GABAer-
+gic neurons in the MnPO, thus disinhibiting the effec-
+tor pathways that promote cutaneous vasoconstriction, 
+brown adipose tissue thermogenesis, and shivering. 
+Nonsteroidal anti-inflammatory drugs, such as aspirin, 
+ibuprofen, and acetaminophen, reduce fever by inhibit-
+ing hypothalamic generation of prostaglandin E2.
+Water Balance and the Related Thirst Drive Are 
+Controlled by Neurons in the Vascular Organ of the 
+Lamina Terminalis, Median Preoptic Nucleus, and 
+Subfornical Organ
+Changes in Blood Osmolarity Cause Cells to Shrink  
+or Swell
+Driven by osmosis, water moves freely across cell 
+membranes. This has a number of important conse-
+quences. First, because of its large size, the intracellular 
+compartment contains two-thirds of the body’s water. 
+Second, if blood osmolarity changes from its normal 
+value (~290 mOsm/kg)—because water is gained by 
+drinking or lost by renal excretion and by sweating, 
+or because solutes have been added by eating (or by 
+drinking, eg, sea water—1000 mOsm/kg)—water will 
+move and the osmolarity of all compartments will 
+equilibrate, including the intracellular one.
+Because the intracellular content of osmotically 
+active molecules is relatively fixed over the short term, 
+increases in blood osmolarity cause cells to shrink, and 
+conversely, decreases cause cells to swell. This is par-
+ticularly dangerous for the brain because it is encased 
+by the rigid skull. With extreme hyperosmolarity (too 
+little water), the brain shrinks, pulling away from the 
+skull and tearing blood vessels. With hypo-osmolarity 
+(too much water), the brain swells, causing cerebral 
+edema, seizures, and coma. To prevent such incidents, 
+the brain acts to maintain normal osmolarity. It does 
+this by detecting changes in osmolarity and then regu-
+lating the motivation to drink (thirst) and the kidney’s 
+capacity to excrete water.
+Osmolarity Is Affected When Water Is Lost or Gained and 
+When Food Is Ingested
+Water is gained by drinking and, to a small degree, by 
+the oxidation of fuel (fuel + O2 → CO2 + H2O). It is lost 
+in a number of ways—by breathing (dry air in, humid-
+ified air out), via the gastrointestinal tract (especially 
+when diarrhea is present), by sweating, and by urina-
+tion. Eating also increases blood osmolarity by moving 
+water from the blood to the gut to aid digestion and 
+by adding solutes to the bloodstream as food is broken 
+down and absorbed.
+Because of these effects, there are significant inter-
+actions between neural systems that control hunger 
+and thirst. For example, eating is such a significant 
+osmotic challenge that dehydration and its associated 
+hyperosmolarity strongly suppress hunger (dehydra-
+tion-induced anorexia). Conversely, the act of eating 
+itself, even in an individual with normal water content, 
+rapidly stimulates thirst so as to mitigate the antici-
+pated, eating-induced increase in osmolarity.
+Vasopressin Released From the Posterior Pituitary Regulates 
+Renal Water Excretion
+The ability of the kidney to excrete water is tightly con-
+trolled by vasopressin. When it is absent, humans can 
+excrete up to approximately 900 mL/h of urine, and 
+when it is at maximal levels, humans excrete as little as 
+approximately 15 mL/h. Vasopressin decreases water 
+excretion by increasing its reabsorption from urine by 
+the kidney.
+Osmolarity Is Detected by Osmoreceptor Neurons
+The brain maintains water balance by monitoring sen-
+sory input from osmoreceptors—sensory neurons that 
+respond to osmolarity—which reflects the body’s state 
+of hydration. Osmoreceptor neurons are found in the 
+periphery and on neurons in and around the hypo-
+thalamus. The central osmoreceptors monitor systemic 
+osmolarity, while the peripheral osmoreceptors monitor 
+osmolarity in and around the gut and related structures.
+Peripheral Osmoreceptors Allow Changes in Systemic 
+Osmolarity to Be Anticipated
+Sensory information about peripheral osmolarity ena-
+bles the brain to make preemptive changes in thirst 
+
+
+===== Page 5 =====
+1032    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Figure 41–13  Neural and endocrine components combine 
+to regulate fluid balance.  The circuitry is shown in a sagittal 
+section through the rat brain. Information from baroreceptors in 
+the circulatory system and from sensory receptors in the mouth, 
+throat, and viscera is conveyed to the nucleus of the solitary tract 
+and neighboring structures in the caudal brain stem through the 
+glossopharyngeal (IX) and vagal (X) nerves. The hormone angio-
+tensin II (ANG II) provides the brain with an additional signal con-
+cerning low blood volume. Circulating angiotensin II is sensed by 
+receptors in the subfornical organ (SFO); SFO neurons project 
+to the median preoptic area (MnPO), paraventricular nucleus 
+of the hypothalamus (PVH), supraoptic nucleus (SON), and the 
+vascular organ of the lamina terminalis (OVLT). The osmolality 
+of the blood is sensed by receptors in and near the OVLT that 
+project to the MnPO, PVH, and SON. Neurosecretory cells in 
+the PVH and SON nuclei trigger release of vasopressin from the 
+posterior pituitary, thus decreasing water excretion by the kidney. 
+(Adapted, with permission, from Swanson 2000.)
+and vasopressin secretion that anticipate and miti-
+gate future shifts in systemic osmolarity, such as the 
+decrease that occurs with drinking or the increase that 
+occurs with eating. Such regulation serves to prevent 
+overshooting normal osmolarity, which would other-
+wise occur when previously ingested water, which has 
+not yet affected systemic osmolarity, is slowly absorbed 
+from the gut. Indeed, when a dehydrated, hyperosmo-
+lar individual ingests water, thirst and vasopressin 
+secretion rapidly decrease, well before systemic osmo-
+larity falls. The identity of peripheral osmoreceptors is 
+unknown.
+Central Osmoreceptors and the Afferent/Efferent Circuits 
+Control Water Balance
+Three nuclei in the lamina terminalis, which forms the 
+anterior wall of the third ventricle, play a key role in 
+detecting and in responding to disturbances in systemic 
+osmolarity (Figure 41–13). From ventral to dorsal, they 
+are the OVLT, the MnPO, and the SFO. The OVLT and 
+SFO are circumventricular organs, and like the previ-
+ously discussed median eminence, they lie outside the 
+blood–brain barrier. Because of this, neurons in these 
+SON
+PVH
+OVLT
+SFO
+Posterior
+pituitary
++
+–
++
+Sensory signals 
+from mouth, 
+throat, and viscera
+Hypothalamus
+Blood
+Osmolality
+Blood volume
+(ANG II)
+MnPO
+Vasopressin
+Nucleus of the
+solitary tract
+Cranial nerves
+IX, X
+two nuclei can rapidly detect changes in blood osmo-
+larity as well as blood-borne circulating factors that are 
+unable to cross the blood–brain barrier (an important 
+example being angiotensin II).
+Consistent with this arrangement, osmoreceptor 
+neurons in the OVLT and SFO make extensive connec-
+tions to neurons in the MnPO. While MnPO neurons 
+themselves do not directly sense osmolarity, they are 
+indirectly responsive to osmolarity via relays from the 
+OVLT and SFO. While all neurons in the OVLT and 
+SFO appear to be dedicated to the regulation of water 
+balance, some neurons in the MnPO are involved in 
+regulation of body temperature (as noted earlier), car-
+diovascular function, and sleep. Regulation of water 
+balance or body temperature is carried out by subsets 
+of modality-specific neurons in the MnPO.
+Neurons from all three lamina terminalis nuclei 
+send dense excitatory projections to secretory vaso-
+pressin neurons in the paraventricular hypothalamic 
+nucleus (PVH) and supraoptic nucleus. As described 
+below, these three lamina terminalis nuclei are also 
+able to cause thirst.
+Central osmoreceptors, and probably also periph-
+eral osmoreceptors, detect changes in osmolarity by 
+
+
+===== Page 6 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1033
+responding to changes in cell volume. Shrinking or 
+swelling, which increases or decreases, respectively, 
+their cation permeability, causes increases or decreases 
+in firing rate.
+Decreased intravascular volume—for example, 
+that due to acute blood loss—also potently stimulates 
+thirst and vasopressin secretion. Low blood volume is 
+detected by the kidney, which increases its secretion 
+of renin. Renin is a protease that converts circulating 
+angiotensinogen to angiotensin I (ANG I). ANG I is then 
+further cleaved by angiotensin-converting enzyme in 
+the lung, generating angiotensin II (ANG II). ANG II 
+excites SFO neurons that directly, and also via a relay 
+in the MnPO, drive vasopressin neurons and presump-
+tive thirst neurons.
+Thirst Is Controlled by Neurons in the OVLT, MnPO,  
+and SFO
+As with vasopressin secretion, all three lamina ter-
+minalis structures participate in generating the moti-
+vational state of thirst, the desire to seek and ingest 
+water. Lesion of all three structures completely blocks 
+dehydration- and ANG II–induced thirst, as well as 
+secretion of vasopressin. Electrical stimulation of these 
+structures, on the other hand, elicits drinking. Activa-
+tion of excitatory glutamatergic neurons in the SFO 
+and MnPO induces intense drinking in an otherwise 
+water-satiated mouse within seconds.
+Thus, excitatory neurons in the SFO and MnPO, 
+and likely also in the OVLT, have a remarkable capac-
+ity to induce thirst. Importantly, the behavior induced 
+is specific—only water drinking occurs. Notably, the 
+excitatory SFO neurons driving this behavior are the 
+same subset of SFO neurons that are activated by 
+dehydration and that express ANG II receptors. The 
+downstream pathway by which these neurons stimu-
+late thirst is presently unknown.
+The activity of both the thirst neurons in the SFO 
+and vasopressin neurons in the SON and PVH decreases 
+or increases rapidly in response to sensory cues, such as 
+drinking or eating, respectively, that anticipate future 
+homeostatic disturbances. This rapid regulation occurs 
+independent of any changes in systemic osmolarity 
+and is therefore independent of feedback; hence, it is 
+an example of feedforward control. The likely function 
+of this feedforward regulation is to anticipate distur-
+bances, institute preemptive corrective actions, and thus 
+greatly reduce or eliminate their impact.
+In summary, years of research have led to a clear 
+model. Dehydration (water deficiency) increases the 
+activity of neurons in the SFO and OVLT, and in the 
+MnPO via relays from the SFO and OVLT, and this 
+increase in activity enhances thirst and vasopressin 
+secretion. As we shall see, a similar general system, 
+but with different neural structures, controls caloric 
+deficiency–based regulation of hunger and energy 
+metabolism.
+Energy Balance and the Related Hunger Drive Are 
+Controlled by Neurons in the Arcuate Nucleus
+As with temperature and water balance, energy bal-
+ance is regulated by feedback signals from the body 
+that modulate activity of key hypothalamic neurons, 
+which then initiate adaptive changes in both physiol-
+ogy and behavior. Regulation of energy balance dif-
+fers, however, in important ways.
+First, the feedback signals monitored are numerous 
+and, in many cases, only very indirectly related to the 
+key parameter, energy balance. Examples of this feed-
+back include neural and hormonal signals from the gut, 
+leptin from adipocytes, insulin from pancreatic beta 
+cells, and metabolite levels in the blood. This is in strik-
+ing contrast to the single, directly sensed signals moni-
+tored for thermoregulation and water balance. Second, 
+energy can be stored as fat. The amount of energy that 
+can be accumulated is remarkably high, so high that 
+the energy needs of a starving person can be met for 
+more than a month. Heat and water, in contrast, are not 
+stored. Thus, organisms have an “energy buffer” that 
+allows survival during prolonged deficiency.
+Third, since storage has benefits, regulation of 
+energy balance, as opposed to temperature and water 
+balance, is asymmetric in that low energy stores are 
+defended against very aggressively, while high stores 
+are defended against only very weakly—hence the 
+high prevalence of obesity in societies with calorically 
+dense, palatable food. Fourth, energy storage can be a 
+liability—when excessive, it promotes diseases such as 
+obesity, diabetes, heart disease, and cancer. Finally, in 
+circuits regulating energy balance, neuropeptides play 
+a remarkably important role.
+Fat Is Stored When Intake of Energy Exceeds Expenditure
+Consistent with the first law of thermodynamics, the 
+calories that are stored as fat equal the number of calo-
+ries ingested minus calories expended. While there is 
+only one way to gain energy—by eating—there are 
+many ways to expend energy.
+Most energy is expended by biochemical reac-
+tions that are required for basic life functions. As these 
+processes are constantly in operation, such “obliga-
+tory energy expenditure” is fixed and not regulated. 
+Two other types of energy expenditure, however, 
+
+
+===== Page 7 =====
+1034    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+are dramatically different; one is voluntary physical 
+activity, while the other is involuntary, resulting from 
+sympathetic stimulation of brown adipose tissue and 
+shivering. Sympathetically controlled energy expendi-
+ture, often referred to as adaptive thermogenesis, is 
+controlled by the brain. Its function is to respond to 
+perturbations in temperature and in energy stores.
+The Intake and Expenditure of Energy Are Usually Matched
+For most individuals, body fat stores are relatively con-
+stant over time. Thus, calories ingested roughly equal 
+calories expended. A simple calculation demonstrates 
+this point. An average middle-aged person expends 
+3,392 kcal per day (kcal corresponds to the common 
+term “calorie”). Over the course of a year, this typical 
+person gains 350 g of fat (which equates to 9 kcal of 
+fat per day). Thus, on average, 9 kcal extra must have 
+been consumed per day to account for this gain. This 
+is the amount of energy found in 4% of a typical candy 
+bar or expended by walking about 150 meters. Thus, 
+the mismatch between intake and expenditure (9 kcal) 
+is tiny—only 0.27% of total energy expenditure.
+Such close matching is the result of powerful 
+homeostatic mechanisms that use feedback from the 
+body to regulate intake and expenditure. As is true 
+for regulation of temperature and osmolarity, the 
+constancy of body weight, and the close matching 
+between intake and expenditure, is unrelated to any 
+specific “set point.” Instead, this remarkable control is 
+the emergent settling point of multiple afferent/efferent 
+feedback loops.
+Obesity Is Caused by Genes and Recent Lifestyle Changes
+Dysregulation of the above-mentioned afferent/efferent 
+feedback loops results in obesity. While some cases of 
+obesity are due to known mutations in genes required 
+for homeostatic regulation, most are of undetermined 
+cause. Of these, many are likely due to multiple muta-
+tions, many of which are uncharacterized. Because the 
+incidence of obesity in Western societies has increased 
+greatly in recent years, too fast to be due to new muta-
+tions, changes in diet and physical activity must also 
+play an important role. Homeostatic systems that 
+evolved to achieve energy balance in hunter-gatherers 
+are likely overwhelmed by abundant, palatable, calori-
+cally dense food.
+But even in our modern obesogenic environment, 
+there are still large variations in fat stores: Only 41% 
+to 70% of interindividual variation in fat stores can 
+be attributed to genetic factors. Thus, genetic predis-
+position and environment together cause obesity. Of 
+interest, many of the predisposing genetic loci identi-
+fied to date involve genes that affect brain function.
+Multiple Afferent Signals Control Appetite
+The major afferent signals affecting energy balance can 
+be divided into two major categories. (1) Short-term 
+signals from cells that line the gastrointestinal tract 
+report the status of food in the gut. All but one of these 
+signals increase with eating and function to terminate 
+meals; the exception is ghrelin, which increases with 
+fasting and stimulates hunger. (2) Longer-term sig-
+nals report the status of energy reserves (ie, fat stores). 
+These include the pancreatic hormone insulin and the 
+adipocyte hormone leptin, both of which are released 
+in proportion to fat stores. Their levels, especially that 
+of leptin, inform the brain whether fat stores are ade-
+quate (Figure 41–14A).
+Signals From the Gut Trigger Meal Termination.  During 
+eating, as food enters the stomach and intestine, physi-
+cal distention increases firing of stretch-sensitive vagal 
+afferents. In addition, chemodetection of food by intes-
+tinal endocrine cells stimulates secretion of hormones 
+such as cholecystokinin (CCK), glucagon-like peptide-1 
+(GLP-1), and peptide YY (PYY). These responses have 
+three primary functions.
+First, they cause contraction of the pyloric sphinc-
+ter, a valve between the stomach and intestine. This 
+limits further passage of food, preventing the small 
+intestine from being overloaded. Second, the intestinal 
+hormones stimulate secretion of bile and enzymes into 
+the intestinal lumen to aid digestion. Third, the vagal 
+afferents and the intestinal hormones decrease subse-
+quent food intake, bringing about meal termination 
+(satiation). The intestinal hormones accomplish this 
+primarily by stimulating local vagal afferent terminals, 
+which in turn excite neurons in the caudal region of 
+the NTS.
+Two of these hormones, GLP-1 and PYY, may also 
+directly stimulate neurons in the brain. The activated 
+neurons in the NTS project directly, or via a relay in 
+the lateral parabrachial nucleus, to neurons in the 
+forebrain, including the amygdala and hypothala-
+mus. Neurons in the lateral parabrachial nucleus that 
+express calcitonin gene-related polypeptide (CGRP) 
+are one such important relay involved in satiation. 
+These circuits then bring about meal termination.
+When food is absorbed, the increase in blood 
+glucose stimulates β-cells to release insulin and the 
+hormone amylin. Amylin then excites neurons in the 
+area postrema (a circumventricular organ outside 
+the blood–brain barrier, located just above the NTS). 
+
+
+===== Page 8 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1035
+Circulating amylin increases within minutes following 
+a meal, decreasing subsequent food intake.
+Ghrelin is released by endocrine cells in the stom-
+ach. Unlike the factors described above, its secretion 
+is high before eating and falls during the meal. It may 
+play a role in meal initiation. Indeed, ghrelin is the 
+only known systemic factor that increases hunger and 
+thus eating. It excites neurons in a number of sites, 
+including agouti-related peptide neurons in the arcu-
+ate nucleus (see below). The physiological significance 
+of ghrelin is unclear because deletion of its gene does 
+not appear to affect hunger.
+Blood Glucose and Insulin Affect Appetite.  Glucose is 
+sensed by neurons in the periphery, hindbrain, and 
+hypothalamus. Although glucose sensing does not 
+appear to play a role in the day-to-day regulation of 
+energy balance, the detection of and response to danger-
+ously low blood glucose levels (glucopenia) is an impor-
+tant function of the brain. Two adaptive responses are 
+initiated: (1) intense glucoprivic hunger, due at least 
+in part to indirect activation of agouti-related peptide 
+neurons, and (2) secretion of glucagon, epinephrine, 
+and corticosteroids, which stimulate hepatic glucose 
+production. The hormonal responses are caused by 
+increases in sympathetic outflow as well as activation 
+of the CRH pathway associated with stress (Chapter 
+61). Amino acids also can be sensed and, consequently, 
+regulate energy balance and dietary choice—the latter 
+to ensure ingestion of sufficient quantity and quality 
+of protein.
+Insulin, on the other hand, is thought to signal an 
+increase in fat stores. Insulin’s primary function is to 
+control blood glucose, the stimulus for its secretion. 
+Insulin lowers blood glucose by driving it into mus-
+cle and fat cells and by decreasing its production by 
+the liver. As fat stores increase, its ability to do this 
+is decreased (a phenomenon called insulin resist-
+ance). Thus, higher fat stores increase basal and meal-
+stimulated insulin secretion in an effort to overcome 
+resistance and normalize glucose. The fat store–mediated 
+increase in insulin levels inhibits neurons in the hypo-
+thalamus, especially the arcuate nucleus, which is 
+thought to decrease hunger.
+The Fat Cell Hormone Leptin Signals the Brain About Fat 
+Stores and Affects Hunger and Energy Expenditure.  In 
+1949, scientists at the Jackson Laboratory in Maine 
+noted the appearance of “some very plump young 
+mice.” This obesity was due to a genetic mutation, 
+which they named obese (ob). Sixteen years later, they 
+identified another obesity mutation, diabetes (db). The 
+extreme obesity of ob/ob and db/db mice results from 
+intense hyperphagia and reduced brown fat thermo-
+genesis. Based on a series of parabiosis experiments, 
+Douglas Coleman proposed that ob/ob mice lack a 
+circulating satiety factor and that db/db mice lack its 
+receptor.
+In a tour-de-force positional cloning effort led by 
+Jeffrey Friedman and Rudolph Leibel, the ob gene was 
+localized on a small region on chromosome 6. Fried-
+man and his lab then homed in on and identified the 
+ob gene. Renamed the leptin gene, it encodes leptin, a 
+167-amino acid protein secreted by adipocytes in pro-
+portion to the size of fat stores. Treating ob/ob mice with 
+leptin cures their obesity. The db gene was identified a 
+few years later, and as predicted by Coleman, it turned 
+out to encode leptin’s receptor and was found to be 
+expressed by neurons in the hypothalamus. It is an 
+interleukin-6–type class I cytokine receptor that pro-
+duces its antiobesity effects by activating the JAK2/
+STAT3 signaling pathway.
+Much has been learned subsequently about leptin. 
+First, humans with a genetic deficiency of leptin or its 
+receptor, like the mutant mice, are massively obese; 
+hence, leptin’s function is highly conserved, and such 
+mutations are extremely rare. Second, humans with 
+common forms of obesity have very high circulating 
+levels of leptin, a by-product of their increased fat stores. 
+This finding initially led to the view, later questioned, 
+that “garden variety” obesity is caused by resistance 
+to leptin action. Third, starvation, which reduces fat 
+stores, drastically decreases leptin levels. This reduc-
+tion is of interest because fasting causes many adaptive 
+responses that are also seen in mice and humans that 
+lack leptin: hunger, low energy expenditure, decreased 
+fertility, and other altered neuroendocrine responses. 
+Indeed, restoration of normal leptin levels in fasted 
+individuals reverses or ameliorates many of fasting’s 
+effects. Thus, leptin’s primary function is to signal, 
+when its levels are low, that fat stores are inadequate.
+These low leptin levels then bring about key adap-
+tive responses such as increased hunger, decreased 
+sympathetically mediated thermogenesis (to conserve 
+limited fuel stores), decreased fertility (to prevent 
+pregnancy when its demands cannot be met), and oth-
+ers. According to this view, leptin’s dynamic range for 
+signaling extends from the very low levels seen with 
+fasting, signaling that fat stores are too low, to the lev-
+els found in well-fed, nonobese individuals, signaling 
+that fat stores are sufficient. Levels above this may 
+produce some effect to restrain obesity, but this effect, 
+if present, is remarkably weak. Thus, the defense of 
+energy balance is asymmetric—strong against low 
+stores, weak against high stores. A corollary of this is 
+that obese individuals do not have leptin resistance; 
+
+
+===== Page 9 =====
+1036    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Liver
+Nucleus of the
+solitary tract
+Long-term signals
+Pancreas
+Fat
+mass
+Short-term signals
+A  Maintenance of energy balance
+B
+Blood
+Blood
+Hypothalamus
+B
+Vagus
+nerve
+Cervical spine
+SNS afferents
+GLP-1
+PYY
+CCK
+Ghrelin
+Insulin
+Leptin
+Satiety
+Hunger
+AgRP
+POMC
+VGLUT2
+Arcuate
+nucleus
+Hypothalamus
+MC4R
+GABA
+AgRP
+Glutamate
+–
++
+NPY
+αMSH
+Hunger
+promoting
+Satiety 
+promoting
+PVH satiety neuron
+Lateral parabrachial nucleus
+
+

@@ -1,0 +1,720 @@
+===== Page 1 =====
+1092    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+These studies suggest that in each stage of sleep 
+the cerebral cortex undergoes synaptic reorganiza-
+tion to consolidate the memory of specific types of 
+salient information. Conversely, this memory consoli-
+dation is lost when subjects are deprived of sleep or 
+have fragmented sleep. A related theory, proposed 
+by Giulio Tononi and Chiara Cirelli, is that rebalanc-
+ing of synaptic strengths based on recent experience 
+(synaptic homeostasis) occurs during sleep. The size 
+of many excitatory synapses is increased during learn-
+ing, requiring that some excitatory inputs be reduced 
+to avoid overexciting the target neuron. Tononi and 
+Cirelli found that the size of smaller synapses in motor 
+and sensory cortex is reduced during sleep, resulting 
+in strong inputs being strengthened while competing 
+weaker ones are removed.
+Diseases that cause sleep loss or that wake people 
+from sleep can impair cognition. For example, obstructive 
+sleep apnea can severely fragment sleep, resulting in 
+daytime sleepiness, inattention, and other cognitive 
+impairments. Fragmented sleep is also common in 
+Alzheimer disease. Alzheimer patients tend to have 
+fewer neurons in the ventrolateral preoptic nucleus, 
+and the extent of neuronal loss correlates with their 
+degree of sleep fragmentation. Whether treating sleep 
+fragmentation can improve cognition in Alzheimer 
+patients remains to be determined.
+Sleep Changes With Age
+Sleep changes with age in striking and characteristic 
+ways. As every new parent quickly learns, the lengthy 
+sleep time of a newborn is distributed almost ran-
+domly throughout the day. Although the EEG rhythms 
+in newborns are not as well formed as those of older 
+children or adults, more than 50% (8–9 hours per day) 
+of that sleep is spent in a state much like REM sleep.
+Sleep recordings from a premature infant exhibit 
+an even higher percentage of REM-like sleep, indicat-
+ing that in utero the fetus spends a large fraction of 
+the day in a brain-activated but movement-inhibited 
+state. As neuronal activity influences the development 
+of functional circuits in the brain (Chapters 48 and 49), 
+it is reasonable to think that the spontaneous activity of 
+the immature brain during sleep facilitates the devel-
+opment of neural circuits.
+By approximately 4 months of age, the average 
+baby begins to show diurnal rhythms that are synchro-
+nized with day and night, much to the relief of weary 
+parents. The total duration of sleep gradually declines, 
+and by 5 years of age, the child may sleep 11 hours 
+each night plus a nap, and 10 hours of sleep is typical 
+around age 10. At these early ages, sleep is deep; stage 
+N3 is prominent, with an abundance of delta waves in 
+the EEG. As a result, children are not easily wakened 
+by environmental stimuli.
+With age, sleep becomes lighter and more frag-
+mented. The percentage of time spent in stage N3 
+sleep drops across adulthood, and by the age of 50 to 
+60, it is not unusual for N3 to fade entirely, especially in 
+men. This shift toward lighter stages of non-REM sleep 
+results in two to three times as many spontaneous 
+awakenings and more easily disrupted sleep. Many 
+sleep disorders, including insomnia and sleep apnea, 
+become more prevalent with age, and insomnia is com-
+mon, often due to waking in response to neural signals 
+to empty the bladder or due to discomfort from meno-
+pausal symptoms or from arthritis and other diseases. 
+Why this change occurs with age is unclear; homeo-
+static sleep pressure appears normal, but the neural 
+mechanisms for producing deep non-REM sleep may 
+be less effective.
+Disruptions in Sleep Circuitry Contribute to 
+Many Sleep Disorders
+Insomnia May Be Caused by Incomplete Inhibition 
+of the Arousal System
+Insomnia is one of the most common problems in all 
+of medicine, yet the underlying neurobiology remains 
+a mystery. Insomnia is defined as difficulty falling 
+asleep or trouble staying asleep, so that function the 
+next day is impaired. Positron emission tomography 
+studies in patients with chronic insomnia demonstrate 
+unusual activation of brain arousal systems during 
+sleep, and the EEG often shows persistence of high-
+frequency activity (15–30 Hz) that is usually seen only 
+during wake.
+In addition, rats exposed to acute stress show 
+high-frequency EEG activity during sleep, as well as 
+simultaneous activity in neurons of the ventrolateral 
+preoptic nucleus and components of the arousal sys-
+tem, such as the locus ceruleus and histamine neurons. 
+This simultaneous activation can produce a unique 
+state in which the EEG shows slow waves consistent 
+with sleep along with high-frequency activity consist-
+ent with the awake state; this may explain why some 
+patients appear asleep on the polysomnogram record-
+ing but they may feel awake.
+Clinically, insomnia is often treated with cogni-
+tive behavioral therapy that is aimed at reducing 
+the hyperarousal and improving sleep habits. Some 
+patients may be treated with benzodiazepines and 
+
+
+===== Page 2 =====
+Chapter 44 / Sleep and Wakefulness    1093
+Figure 44–8  An episode of sleep apnea. At the start of this 
+polysomnogram, an individual is in stage N2 sleep. Some 
+snoring is detected, but nasal airflow is good and oxygen 
+saturation is normal. The individual then experiences an 
+obstructive apnea with no nasal airflow; nevertheless, res-
+piratory effort persists (shown by the abdominal movement). 
+The apnea is terminated by a brief awakening (low-voltage 
+fast electroencephalogram [EEG]), accompanied by a  
+loud snore, increased electromyographic activity, intensified 
+respiratory effort, and opening of the airway. Oxygen satura-
+tion drops by about 3%, reaching its nadir about 15 seconds 
+after the apnea finishes, as it takes time for blood to get 
+from the lungs to the fingertip where oxygen saturation is 
+measured.
+related drugs that potentiate GABA transmission and, 
+therefore, may help reduce activity in arousal-promoting 
+brain regions. Other patients derive benefit from drugs 
+that block the arousal system more directly, such as 
+antihistamines.
+Sleep Apnea Fragments Sleep and Impairs Cognition
+Sleep apnea is one of the most common sleep dis-
+orders, affecting about 5% of adults and children. 
+Patients with obstructive sleep apnea have repeated epi-
+sodes of airway obstruction that force the individual to 
+briefly awaken from sleep to resume breathing. During 
+sleep, muscle tone falls, and in people with small air-
+ways, relaxation of airway dilator muscles such as the 
+genioglossus (which normally acts to pull the tongue 
+forward) results in collapse of the airway. This causes 
+a brief period of no air flow, and consequently, blood 
+levels of carbon dioxide rise while oxygen levels fall, 
+activating chemosensory systems in the medulla that 
+increase respiratory effort.
+These chemosensory systems also activate neu-
+rons in the parabrachial nucleus that promote awaken-
+ing, which results in a further increase in muscle tone 
+that reopens the airway. These airway obstructions can 
+occur hundreds of times per night, but the arousals are 
+usually so brief that the individual may not remem-
+ber them in the morning. Many people with obstruc-
+tive sleep apnea do not feel rested in the morning; they 
+feel sleepy all day and they have difficulty with a wide 
+variety of cognitive tasks, especially those that require 
+vigilance or learning.
+Clinicians often treat sleep apnea with a continuous 
+positive airway pressure (CPAP) device that delivers mildly 
+pressurized air via the nose to inflate and open the air-
+way during sleep. Sleep apnea can also be treated with 
+upper airway surgery to remove obstructions such as 
+large tonsils, a dental device to move the tongue for-
+ward, or weight loss to reduce adipose tissue in the 
+neck. Treated patients often feel more alert and have 
+better cognitive function, although there may be some 
+residual cognitive impairment, possibly due to neu-
+ronal injury from repeated episodes of low oxygen 
+saturation or hypoxia (Figure 44–8).
+Narcolepsy Is Caused by a Loss of  
+Orexinergic Neurons
+Narcolepsy was first described in the late 1800s, 
+but the underlying cause, a deficiency in a single 
+Arousal
+EEG
+Stage N2
+Stage N2
+Chin EMG
+Snore
+microphone
+Snoring
+Nasal
+airﬂow
+Apnea
+Chest
+movement
+Abdominal
+movement
+Oxygen
+saturation
+97
+96
+94
+94
+5 sec
+
+
+===== Page 3 =====
+1094    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Figure 44–9  Narcolepsy is associated with a loss of hypo-
+thalamic neurons that produce the orexin neuropeptides. A 
+dramatic loss of orexinergic neurons (green dots) is evident in 
+these drawings of sections through the brain at the level of the 
+mammillary bodies in an individual with narcolepsy (right) com-
+pared to a normal brain (left). (Reproduced, with permission, 
+from Crocker et al. 2005. Copyright © 2005 American Academy 
+of Neurology.)
+neurotransmitter, has become clear only in the last two 
+decades. Narcolepsy typically begins in the teen years 
+as moderate to severe sleepiness every day, even with 
+ample amounts of sleep at night. People with narco-
+lepsy can easily fall asleep in class, while driving, or 
+during other activities when sleep might be embar-
+rassing or dangerous. Unlike sleep apnea, their sleep is 
+restorative, and they often feel much more alert after a 
+15- to 20-minute nap.
+In addition, in people with narcolepsy, elements of 
+REM sleep often occur during wakefulness. For exam-
+ple, at night, while falling asleep or waking up, an 
+individual with narcolepsy might find himself unable 
+to move (sleep paralysis) or may have vivid dream-like 
+hallucinations (hypnagogic or hypnopompic hallucinations) 
+superimposed on wakefulness. Even more mysteri-
+ously, during the day, when surprised with a good 
+joke or by unexpectedly seeing a friend, a person with 
+narcolepsy can develop cataplexy, emotionally trig-
+gered muscle weakness that is similar to the paralysis 
+of REM sleep. Mild cataplexy can cause weakness of 
+the face and neck, but when severe, the individual can 
+lose all muscle control, collapse to the ground, and be 
+unable to move for 1 to 2 minutes.
+Narcolepsy remained mysterious until the late 
+1990s when a new family of peptide neurotransmitters, 
+Control
+Internal
+capsule
+Internal
+capsule
+Fornix
+Fornix
+3rd
+ventricle
+3rd
+ventricle
+Medial
+mammillary
+nucleus
+Medial
+mammillary
+nucleus
+Narcolepsy
+orexins (also known as hypocretins), was discovered. 
+There are two orexin peptides, derived from the same 
+mRNA precursor, and they are found only in cells in 
+the posterior lateral hypothalamus. It was soon found 
+that loss of orexin signaling in animals or humans 
+could reproduce the entire narcolepsy phenotype. 
+People with narcolepsy show a highly selective loss 
+of more than 90% of their orexin neurons, while other 
+types of hypothalamic neurons are spared. This cell 
+loss is probably due to an autoimmune attack as it is 
+linked to genes that affect immune function and has 
+been triggered by seasonal influenza epidemics and 
+use of a certain influenza vaccine. Recently, researchers 
+discovered that people with narcolepsy have immune 
+cells (T lymphocytes) that target the orexin neuropep-
+tides (Figure 44–9).
+Orexinergic neurons promote wakefulness and 
+suppress REM sleep, in part by activating monoamin-
+ergic neurons in the locus ceruleus and dorsal raphe as 
+well as REM-off GABAergic neurons in the periaque-
+ductal gray matter, all of which inhibit the REM sleep 
+generating neurons in the pons. Thus, people and ani-
+mals with loss of orexinergic neurons have great dif-
+ficulty remaining awake for long periods, and REM 
+sleep is disinhibited, such that REM sleep (or com-
+ponents of REM sleep, such as motor atonia during 
+
+
+===== Page 4 =====
+Chapter 44 / Sleep and Wakefulness    1095
+wakefulness, or cataplexy) breaks through at inappro-
+priate times during the day.
+In terms of sleep circuitry, loss of orexinergic neu-
+rons can be considered to destabilize both the wake–
+sleep and the REM/non-REM switches in the brain. 
+Thus, patients with narcolepsy can easily doze off dur-
+ing the day but also spontaneously wake from sleep 
+more frequently at night. The dysregulation of REM 
+sleep is also apparent on the Multiple Sleep Latency 
+Test; healthy individuals almost never experience 
+REM sleep during the day as it is under tight circadian 
+control, but patients with narcolepsy often experience 
+REM sleep during daytime naps.
+The absence of orexin signaling also explains the 
+mysterious symptom of cataplexy. Evidence from mice 
+lacking orexins suggests that pleasant experiences turn 
+on neurons in the prefrontal cortex and amygdala that 
+can activate the brain stem pathways that trigger REM 
+sleep paralysis. This influence is normally opposed by 
+the orexin system, so that one may feel slightly “weak 
+with laughter.” When orexin signaling is absent, full-
+blown paralysis can occur.
+Narcolepsy is treated with medications and 
+behavioral approaches. Sleepiness can be substantially 
+attenuated with wake-promoting medications such 
+as amphetamine and modafinil. One to two strategi-
+cally timed naps during the day are often helpful and 
+can improve alertness for a couple of hours. Cataplexy 
+often responds well to antidepressants such as sero-
+tonin or norepinephrine reuptake inhibitors, as these 
+drugs strongly suppress REM sleep. Sodium oxy-
+bate taken during the night enhances deep sleep, and 
+through an unknown mechanism, it helps consolidate 
+wakefulness and reduce cataplexy during the day.
+REM Sleep Behavior Disorder Is Caused by Failure 
+of REM Sleep Paralysis Circuits
+REM sleep behavior disorder—the loss of paralysis 
+during REM sleep in some older adults—is the direct 
+opposite of cataplexy. The lack of paralytic inhibition 
+permits the patients to act out their dreams. The indi-
+vidual often calls out and may grab or violently punch 
+or kick; injuries from hitting nearby furniture or the 
+bed partner are not unusual. These dramatic move-
+ments typically awaken the patient, who can then 
+recall a dream about fighting off an attacker in a way 
+that closely matches the actual movements.
+REM sleep behavior disorder was first identi-
+fied in 1986 by Mahowald and Schenck. Ten years 
+later, they reported that 40% of their original cohort 
+of 19 patients had developed Parkinson disease or a 
+related neurodegenerative disorder with deposition of 
+alpha-synuclein, such as Lewy body dementia or mul-
+tiple system atrophy. Subsequent studies have shown 
+that about half of patients with REM sleep behavior 
+disorder develop a synucleinopathy by 12 to 14 years 
+after onset, and nearly all by 25 years. It is now thought 
+that the synucleinopathy begins in the brain stem and 
+early on damages the subceruleus neurons that nor-
+mally drive REM sleep paralysis. If this relationship is 
+confirmed, the diagnosis of REM sleep behavior dis-
+order may identify individuals with nascent synucle-
+inopathies who could be treated with drugs, not yet 
+developed, that slow the neurodegeneration.
+Restless Legs Syndrome and Periodic Limb 
+Movement Disorder Disrupt Sleep
+Restless legs syndrome occurs in about 10% of the pop-
+ulation and is characterized by an irresistible urge to 
+move the legs, usually accompanied by an annoying 
+internal discomfort like “ants in the pants.” This rest-
+less sensation typically occurs in the evening and first 
+half of the night and often makes it hard to fall asleep. 
+The sensation is much worse with rest and improves 
+by moving the legs in bed or walking about.
+Many people suffering from restless legs syndrome 
+also experience periodic limb movement disorder, in which 
+the legs and sometimes arms flex in a stereotyped way 
+every 20 to 40 seconds during non-REM sleep. These 
+leg movements fragment sleep and can produce day-
+time sleepiness. Iron deficiency is a common cause 
+of restless legs, and treatment with iron can be very 
+helpful. Genome-wide association studies have found 
+genes common to both conditions, but the underlying 
+pathophysiology is not yet understood. Patients with 
+both disorders often improve with low doses of a D2 
+dopamine agonist, the antiepileptic drug pregabalin, 
+or an opiate drug.
+Non-REM Parasomnias Include Sleepwalking, 
+Sleep Talking, and Night Terrors
+Parasomnias are unusual behaviors that occur during 
+either REM or non-REM sleep. Non-REM parasomnias 
+are common in children and include sleepwalking, 
+sleep talking, confusional arousals, bed-wetting, and 
+night terrors. About 15% of young adolescents have 
+some sleepwalking, but this usually fades over time, 
+so only about 1% of adults regularly sleepwalk.
+The non-REM parasomnias typically begin with a 
+sudden arousal from stage N3 sleep, which can occur 
+spontaneously or be triggered by a noise or airway 
+obstruction from sleep apnea. These are not full arous-
+als, as for the first minute or two, the EEG still shows 
+
+
+===== Page 5 =====
+1096    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+the slow EEG delta waves typical of stage N3 sleep 
+even as the child walks, dresses, or eats. Over time, 
+the EEG changes to the pattern typical of wakefulness 
+and eventually the individual wakes up. Sleepwalkers 
+or talkers often have no memory of these events, so 
+that reports from the family are necessary to make the 
+diagnosis. Bed-wetting (enuresis) may also occur dur-
+ing deep non-REM sleep in some children.
+Night terrors also occur in stage N3 sleep and are 
+common in children age 2 to 5. The child often sits up 
+and cries as if in great fear, sometimes with dilated 
+pupils and a fast heart rate. During the episode, the 
+child is inconsolable; attempts to calm or wake the 
+child may only cause the screams and fearful behavior 
+to worsen. Like sleep walking, but in contrast to ordi-
+nary nightmares, the child usually does not remem-
+ber the night terror, and the events are typically much 
+more difficult for the parent than the child.
+The underlying cause of non-REM parasomnias 
+is unknown. They are usually managed by ensuring 
+adequate sleep to reduce pressure for deep non-REM 
+sleep, reducing stress, and treating underlying sleep 
+disorders such as sleep apnea that might trigger arous-
+als from sleep. Fluid restriction in the evening may 
+help with enuresis. Most children outgrow non-REM 
+parasomnias as their N3 sleep decreases in late ado-
+lescence. Drugs that reduce the amount of N3 sleep, 
+such as tricyclic antidepressants, are sometimes used 
+as well. As with REM sleep behavior disorder, people 
+can be seriously hurt sleepwalking if they fall down 
+stairs or trip over furniture, and it is important to make 
+the bedroom layout safe. The amount of time spent in 
+stage N3 sleep is high in individuals with high homeo-
+static sleep pressure, so getting adequate sleep is also 
+helpful.
+Sleep Has Many Functions
+Although there has been remarkable progress in our 
+understanding of the brain circuitry that regulates 
+sleep and wakefulness, we still understand relatively 
+little about the actual functions of sleep. For an activ-
+ity that occupies one-third of the life of humans, and 
+much more in some other species, we have very little 
+understanding of sleep’s purposes. Allan Rechtschaffen, 
+who first systematized the stages of sleep (and was an 
+author of this chapter in earlier editions of this book), 
+once said that if sleep did not have a vital function 
+it would be the biggest mistake that evolution ever 
+made. He found that rats would die of overwhelm-
+ing infection and hypothermia if chronically deprived 
+of sleep. However, the methods for keeping animals 
+continuously awake were stressful, and it is unclear 
+whether the consequences observed were due to loss 
+of sleep or continuous stress. Indeed, it is not clear if 
+prolonged sleep loss and stress can be dissociated.
+One proposed function of sleep suggests that a 
+period of brain inactivity is needed to permit metabolic 
+recovery of the brain. The role of adenosine as a sleep-
+promoting humoral factor is based on the rundown 
+of adenosine triphosphate (ATP) stores to adenosine 
+during the awake period. Another idea is that sleep 
+may permit the body to reconstitute injured tissue and 
+replenish energy stores, but there is little evidence that 
+sleep deprivation impairs any of these processes.
+A recent hypothesis has been raised by the obser-
+vation that during sleep the extracellular space in the 
+brain expands, thus permitting the cerebrospinal fluid 
+to “clean out” undesirable molecules that should not be 
+allowed to build up extracellularly. The waking brain 
+has very little extracellular space, largely due to ion 
+fluxes to and from neurons during synaptic communi-
+cation. These fluxes establish an osmotic gradient that 
+drives most fluid in the brain into cells. During sleep, 
+neurons and glia may shrink as that fluid moves back 
+into the extracellular space. Among the molecules that 
+may be washed out from the extracellular space during 
+sleep are beta-amyloid peptides. In mice engineered 
+to produce high levels of human beta-amyloid, sleep 
+deprivation reduces the clearance of beta-amyloid 
+from the extracellular space in the brain, thus acceler-
+ating its deposition in the plaques that are characteris-
+tic of Alzheimer disease (Chapter 64). Because buildup 
+of beta-amyloid peptide in the brain is thought to be 
+an early step in Alzheimer disease, work is now under-
+way to determine whether poor sleep may predispose 
+people to this disease.
+In addition to these biochemical functions, sleep 
+also promotes memory formation. As described earlier, 
+the synaptic homeostasis model suggests that synapses 
+are rebalanced during sleep, although it is not clear 
+why this process would require sleep. A more basic 
+need may be to provide a time for synapses to con-
+solidate new memory traces. During the waking state, 
+experience can modify synaptic strength on the fly by 
+such processes as protein phosphorylation, insertion 
+of premade receptors into the postsynaptic membrane, 
+or translation of mRNA in the dendrites into new pro-
+tein. But some portion of the synaptic remodeling that 
+underlies memory formation requires nuclear-dependent 
+transcription of new mRNA. Because synaptic sites 
+on dendrites may be a millimeter from the nucleus or 
+even more in some neurons, time is required for mes-
+senger molecules that are produced at the synapse to 
+reach the nucleus and alter transcription and then for 
+
+
+===== Page 6 =====
+Chapter 44 / Sleep and Wakefulness    1097
+the resulting mRNA to be transported back to the den-
+drite where it can result in new protein synthesis. This 
+process may require a time when these messengers are 
+not competing with new incoming signals to complete 
+their work in stabilizing memories.
+One thing about sleep is certain: It is required 
+for normal brain function, and inadequate sleep, as 
+defined by an increased tendency to fall asleep during 
+the day, is associated with impaired cognitive function. 
+Medical training programs are now being redesigned 
+to reduce the risk of interns and residents making criti-
+cal medical decisions while sleep deprived. Similar 
+approaches to school start times, drowsy driving, and 
+other aspects of our society could potentially improve 
+productivity and save many lives.
+Highlights
+  1.  Sleep involves distinct changes in the electro-
+encephalogram (EEG), electromyogram (EMG), 
+and electro-oculogram (EOG) that are recorded 
+on a polysomnogram. These changes can be used 
+to divide sleep into rapid eye movement (REM) 
+sleep—during which the EEG is similar to wake, 
+but the body has such low muscle tone that it is 
+essentially paralyzed—and three stages of non-
+REM sleep (N1–N3), with low to high amounts 
+of slow waves in the EEG.
+  2.  During the night, sleep alternates between 
+periods of non-REM sleep followed by bouts of 
+REM sleep, with the entire cycle taking about 
+90 minutes. Over the course of a night, non-REM 
+sleep becomes progressively lighter, while REM 
+sleep bouts become longer.
+  3.  The waking state is actively produced by an 
+ascending arousal network. The key neurons 
+required to drive wakefulness are glutamatergic 
+neurons in the parabrachial and pedunculopon-
+tine tegmental nuclei, dopaminergic neurons 
+in the midbrain, glutamatergic neurons in the 
+supramammillary nucleus, and GABAergic and 
+cholinergic neurons in the basal forebrain that 
+directly innervate the cerebral cortex. Modula-
+tory cell groups, using mainly monoamines such 
+as norepinephrine, serotonin, and histamine 
+as neurotransmitters, can drive arousal under 
+appropriate conditions, but unlike the main path-
+ways, lesions of these cell groups do not impair 
+baseline wakefulness.
+  4.  During sleep, the ascending arousal system is 
+inhibited by GABAergic neurons in the ventro-
+lateral preoptic nuclei and the parafacial zone. 
+Conversely, during wake, the ventrolateral 
+preoptic neurons are inhibited by neurons in 
+the ascending arousal system. These mutually 
+antagonistic pathways produce a neural circuit 
+resembling an electrical flip-flop switch, which 
+favors rapid and complete transitions between 
+sleep and wakefulness. Similarly, populations of 
+mutually inhibitory neurons in the caudal mid-
+brain and pons govern transitions between REM 
+and non-REM sleep. Monoamine neurotrans-
+mitters, such as serotonin and norepinephrine, 
+also act on these switching neurons and prevent 
+transitions into REM sleep during wakefulness. 
+Orexin neurons in the lateral hypothalamus acti-
+vate REM sleep-suppressing neurons, preventing 
+transitions from wake into REM sleep.
+  5.  Sleep is regulated by a homeostatic drive to sleep, 
+so that the longer one is awake, the more intense 
+the drive, and the more sleep is required to satisfy 
+the need to sleep. There is also a circadian influ-
+ence on sleep that inhibits sleep during the day 
+but promotes it at night, especially during the 
+latter part of the night, when homeostatic sleep 
+drive wanes. The circadian cycle is synchronized 
+with the outside world by light signals from the 
+retina to the brain’s master circadian clock in the 
+suprachiasmatic nucleus. The suprachiasmatic 
+nucleus then activates hypothalamic pathways 
+that regulate wake–sleep states, as well as many 
+other behaviors, hormonal cycles, and physiolog-
+ical adjustments.
+  6.  Sleep needs change throughout development, 
+from about 16 hours per day in a newborn to 
+about 8 hours per day in a healthy young adult. 
+However, sleep-promoting mechanisms weaken 
+with aging, and so individuals over 70 years old 
+have more fragmented sleep and sleep about an 
+hour less per day.
+  7.  Sleep apnea is a condition in which the airway 
+collapses due to reduced muscle tone during 
+sleep. This impaired breathing causes frequent 
+awakenings and can impair cognition. Restoring 
+airway patency with continuous positive airway 
+pressure (CPAP) can overcome this problem.
+  8.  Insomnia may be caused by hyperactivation of 
+the arousal system, and it is best treated with 
+cognitive behavioral therapy.
+  9.  Narcolepsy is caused by selective loss of the 
+orexin (also called hypocretin) neurons in the 
+hypothalamus. The orexin neuropeptides nor-
+mally promote wake and regulate REM sleep, 
+and loss of orexin signaling results in chronic 
+daytime sleepiness and poor control of REM sleep. 
+
+
+===== Page 7 =====
+1098    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Specifically, people with narcolepsy may quickly 
+transition into REM sleep after dozing off, and 
+they can have fragments of REM sleep, such as 
+cataplexy and hypnogogic hallucinations, during 
+wake. Narcolepsy is usually treated with medi-
+cations that promote wake and suppress REM 
+sleep.
+10.  REM sleep behavior disorder is due to loss of 
+atonia during REM sleep, causing patients to act 
+out their dreams. REM sleep behavior disorder is 
+usually an early manifestation of either Parkin-
+son disease or Lewy body dementia.
+11.  Restless legs syndrome is a genetically influenced 
+disorder in which people feel that they have to 
+move their legs. This makes them very uncom-
+fortable when awake, and they can have periodic 
+leg movements during sleep that disrupt sleep.
+12.  Sleepwalking and related parasomnias usually 
+occur in young children during deep (stage N3) 
+non-REM sleep. They are best managed by ensur-
+ing adequate, good-quality sleep.
+13.  Sleep loss impairs the ability to maintain sus-
+tained attention and clouds judgment. The 
+reasons for this are not understood. Theories 
+about the brain requiring down time to recharge 
+its metabolic status or to allow it to flush out 
+unwanted products from the extracellular space 
+have received attention, but it is unclear whether 
+this accounts for the penalty paid due to lack 
+of sleep. One attractive theory for the function 
+of sleep is that it may be required for synaptic 
+remodeling that is necessary for certain types of 
+learning.
+ Clifford B. Saper 
+  Thomas E. Scammell 
+Selected Reading
+Buhr ED, Takahashi JS. 2013. Molecular components of 
+the mammalian circadian clock. Handb Exp Pharmacol 
+217:3–27.
+Kryger MH, Roth T, Dement WC. 2017. Principles and Practice 
+of Sleep Medicine, 6th ed. Philadelphia: Elsevier.
+Saper CB. 2013. The central circadian timing system. Curr 
+Opin Neurobiol 23:747–751.
+Saper CB, Fuller PM, Pedersen NP, Lu J, Scammell TE. 2010. 
+Sleep state switches. Neuron 68:1023–1042.
+Scammell TE, Arrigoni E, Lipton JO. 2017. Neural circuitry of 
+wakefulness and sleep. Neuron 93:747–765.
+References
+Achermann P, Borbely AA. 2003. Mathematical models of 
+sleep regulation. Front Biosci 8:683–693.
+Anaclet C, Pedersen NP, Ferrari LL, et al. 2015. Basal fore-
+brain control of wakefulness and cortical rhythms. Nat 
+Commun 6:8744.
+Aschoff J. 1965. Circadian rhythms in man. Science 148: 
+1427–1432.
+Aserinsky E, Kleitman N. 1953. Regularly occurring periods 
+of eye motility and concomitant phenomena during sleep. 
+Science 118:273–274.
+Bal T, von Krosigk M, McCormick DA. 1995. Synaptic and 
+membrane mechanisms underlying synchronized oscil-
+lations in the ferret lateral geniculate nucleus in vitro. J 
+Physiol 483:641–663.
+Boeve BF. 2013. Idiopathic REM sleep behaviour disorder in 
+the development of Parkinson’s disease. Lancet Neurol 
+12:469–482.
+Buyssee DJ, Germain A, Hall M, Monk TH, Nofzinger EA. 
+2011. A neurobiological model of insomnia. Drug Discov 
+Today Dis Models 8:124–137.
+Chemelli RM, Willie JT, Sinton CM, et al. 1999. Narcolepsy in 
+orexin knockout mice: molecular genetics of sleep regula-
+tion. Cell 98:437–451.
+Crocker A, Espana RA, Papadopoulou M, et al. 2005. Con-
+comitant loss of dynorphin, NARP, and orexin in narco-
+lepsy. Neurology 65:1184–1188.
+Dement W, Kleitman N. 1957. Cyclic variations in EEG dur-
+ing sleep and their relation to eye movements, body motil-
+ity, and dreaming. Electroencephalogr Clin Neurophysiol 
+Suppl 9:673–690.
+de Vivo L, Bellesi M, Marshall W, et al. 2017. Ultrastructural 
+evidence for synaptic scaling across the wake/sleep cycle. 
+Science 355:507–510.
+Dijk DJ, Czeisler CA. 1995. Contribution of circadian pace-
+maker and sleep homeostat to sleep propensity, sleep 
+structure, electroencephalographic slow waves, and sleep 
+spindle activity in humans. J Neurosci 15:3526–3538.
+Fuller PM, Sherman D, Pedersen NP, Saper CB, Lu J. 2011. 
+Reassessment of the structural basis of the ascending 
+arousal system. J Comp Neurol 519:933–956.
+Lim AS, Ellison BA, Wang JL, et al. 2014. Sleep is related to 
+neuron numbers in the ventrolateral preoptic/intermedi-
+ate nucleus in older adults with and without Alzheimer’s 
+disease. Brain 137:2847–2861.
+Lin L, Faraco J, Li R, et al. 1999. The sleep disorder canine 
+narcolepsy is caused by a mutation in the hypocretin 
+(orexin) receptor 2 gene. Cell 98:365–376.
+Lu J, Sherman D, Devor M, Saper CB. 2006. A putative flip-
+flop switch for control of REM sleep. Nature 41:589–594.
+Mahowald MW, Schenck CH. 2005. Insights from studying 
+human sleep disorders. Nature 437:1279–1285.
+McCormick DA, Bal T. 1997. Sleep and arousal: thalamocorti-
+cal mechanisms. Annu Rev Neurosci 20:185–215.
+
+
+===== Page 8 =====
+Chapter 44 / Sleep and Wakefulness    1099
+Moruzzi G, Magoun HW. 1949. Brain stem reticular forma-
+tion and activation of the EEG. Electroencephalogr Clin 
+Neurophysiol Suppl 1:455–473.
+Peyron C, Faraco J, Rogers W, et al. 2000. A mutation in a 
+case of early onset narcolepsy and a generalized absence 
+of hypocretin peptides in human narcoleptic brains. Nat 
+Med 6:991–997.
+Saper CB, Scammell TE, Lu J. 2005. Hypothalamic regulation 
+of sleep and circadian rhythms. Nature 437:1257–1263.
+Stickgold R. 2005. Sleep-dependent memory consolidation. 
+Nature 437:1272–1278.
+Tononi G, Cirelli C. 2014. Sleep and the price of plasticity: 
+from synaptic and cellular homeostasis to memory con-
+solidation and integration. Neuron 81:12–34.
+Xie L, Kang H, Xu Q, et al. 2013. Sleep drives metabolite 
+clearance from the adult brain. Science 342:373–377.
+Xu M, Chung S, Zhang S, et al. 2015 Basal forebrain circuit for 
+sleep-wake control. Nat Neurosci 18:1641–1647.
+
+
+===== Page 9 =====
+This page intentionally left blank 
+
+

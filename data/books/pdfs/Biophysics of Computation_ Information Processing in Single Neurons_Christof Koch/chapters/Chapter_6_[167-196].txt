@@ -1,0 +1,1232 @@
+===== Page 1 =====
+THE HQDGKIN-HUXLEY MODEL
+OF ACTION
+POTENTIAL GENERATION
+The vast majority of nerve cells generate a series of brief voltage pulses in response to
+vigorous input. These pulses, also referred to as action potentials or spikes, originate at or
+close to the cell body, and propagate down the axon at constant velocity and amplitude.
+Fig. 6.1 shows the shape of the action potential from a number of different neuronal and
+nonneuronal preparations. Action potentials come in a variety of shapes; common to all
+is the all-or-none depolarization of the membrane beyond 0. That is, if the voltage fails
+to exceed a particular threshold value, no spike is initiated and the potential returns to its
+baseline level. If the voltage threshold is exceeded, the membrane executes a stereotyped
+voltage trajectory that reflects membrane properties and not the input. As evident in Fig. 6.1,
+the shape of the action potential can vary enormously from cell type to cell type.
+When inserting an electrode into a brain, the small all-or-none electrical events one
+observes extracellularly are usually due to spikes that are initiated close to the cell body
+and that propagate along the axons. When measuring the electrical potential across the
+membrane, these spikes peak between +10 and +30 mV and are over (depending on the
+temperature) within 1 or 2 msec. Other all-or-none events, such as the complex spikes in
+cerebellar Purkinje cells (Fig. 6.1G) or bursting pyramidal cells in cortex (Fig. 6.1H and
+Fig. 16.1C), show a more complex wave form with one or more fast spikes superimposed
+onto an underlying, much slower depolarization. Finally, under certain conditions, the
+dendritic membrane can also generate all-or-none events (Fig. 6.1H) that are much slower
+than somatic spikes, usually on the order to 50-100 msec or longer. We will treat these
+events and their possible significance in Chap. 19.
+Only a small fraction of all neurons is unable—under physiological conditions—to
+generate action potentials, making exclusive use of graded signals. Examples of such
+nonspiking cells, usually spatially compact, can be found in the distal retina (e.g., bipolar,
+horizontal, and certain types of amacrine cells) and many neurons in the sensory-motor
+pathway of invertebrates (Roberts and Bush, 1981). They appear to be absent from cortex,
+142
+6
+
+
+===== Page 2 =====
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+143
+Fig. 6.1 ACTION POTENTIALS OF THE WORLD Action potentials in different invertebrate and verte-
+brate preparations. Common to all is a threshold below which no impulse is initiated, and a stereotypical
+shape that depends only on intrinsic membrane properties and not on the type or the duration of the
+input. (A) Giant squid axon at 16° C. Reprinted by permission from Baker, Hodgkin, and Shaw (1962).
+(B) Axonal spike from the node of Ranvier in a myelinated frog fiber at 22° C. Reprinted by permission
+from Dodge (1963). (C) Cat visual cortex at 37° C. Unpublished data from J. Allison, printed with
+permission. (D) Sheep heart Purkinje fiber at 10° C. Reprinted by permission from Weidmann (1956).
+(E) Patch-clamp recording from a rabbit retinal ganglion cell at 37° C. Unpublished data from F. Amthor,
+printed with permission. (F) Layer 5 pyramidal cell in the rat at room temperatures. Simultaneous
+recordings from the soma and the apical trunk. Reprinted by permission from Stuart and Sakmann
+(1994). (G) A complex spike—consisting of a large EPSP superimposed onto a slow dendritic calcium
+spike and several fast somatic sodium spikes—from a Purkinje cell body in the rat cerebellum at 36° C.
+Unpublished data from D. Jaeger, printed with permission. (H) Layer 5 pyramidal cell in the rat at room
+temperature. Three dendritic voltage traces in response to three current steps of different amplitudes
+reveal the all-or-none character of this slow event. Notice the fast superimposed spikes. Reprinted by
+permission from Kim and Connors (1993). (I) Cell body of a projection neuron in the antennal lobe in
+the locust at 23° C. Unpublished data from G. Laurent, printed with permission.
+thalamus, cerebellum, and associated structures (although it is difficult, on a priori grounds,
+to completely rule out their existence).
+Action potentials are such a dominant feature of the nervous system that for a considerable
+amount of time it was widely held—and still is in parts of the theoretical community— that
+all neuronal computations only involve these all-or-none events. This belief provided much
+of the impetus behind the neural network models that originated in the late 1930s and early
+1940s (Rashevsky, 1938; McCullough and Pitts, 1943).
+
+
+===== Page 3 =====
+144 • 
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+The ionic mechanisms underlying the initiation and propagation of action potentials in
+nervous tissue were elucidated in the squid giant axon by a number of workers, most notably
+by Hodgkin and Huxley in Cambridge, England (1952a,b,c,d). Together with Eccles, they
+shared the 1963 Nobel prize in physiology and medicine. (For a historical account see
+Hodgkin, 1976.) Their quantitative model (Hodgkin and Huxley, 1952d) represents one of
+the high points of cellular biophysics and has been extremely influential in terms of enabling
+a large class of quite diverse membrane phenomena to be analyzed and modeled in terms
+of simple underlying variables. This is all the more surprising since the kinetic description
+of membrane permeability changes within the framework of the Hodgkin-Huxely model
+was achieved without any knowledge of the underlying ionic channels.
+A large number of excellent papers and books describing in great detail various aspects
+of the Hodgkin-Huxley model are available today. Nothing matches the monograph by
+Jack, Noble, and Tsien (1975) for its 200-page extended coverage of various analytical
+and numerical approaches to understand all relevant aspects of initiation and conduction
+of action potentials. Cronin (1987) presents a mathematical account of the more formal
+aspects of Hodgkin and Huxley's model as well as related models, while Scott (1975)
+pays particular attention to questions of interest to physicists and applied mathematicians.
+The books by Hille (1992), Johnston and Wu (1995) and Weiss (1996) provide up-to-date
+and very readable accounts of the biophysical mechanisms underlying action potentials in
+neuronal tissues. The edited volume by Waxman, Kocsis, and Stys (1995) concentrates on
+the morphology and the pathophysiology of myelinated and unmyelinated axons.
+Because the biophysical mechanisms underlying action potential generation in the cell
+body and axons of both invertebrates and vertebrates can be understood and modeled by
+the formalism Hodgkin and Huxley introduced 40 years ago, it becomes imperative to
+understand their model and its underlying assumptions. We will strive in this chapter to
+give an account of those properties of the Hodgkin-Huxley model that are of greatest
+relevance to understanding the initiation of the action potential. We will also discuss the
+propagation of spikes along unmyelinated and myelinated fibers. Chapter 9 extends the
+Hodgkin-Huxley framework to the plethora of other currents described since their days.
+6.1 Basic Assumptions
+Hodgkin and Huxley carried out their analysis in the giant axon of the squid. With its half-
+millimeter diameter, this fiber is a leviathan among axons. (The typical axon in cortex has a
+diameter more than 1000 times smaller; Braitenberg and Schiiz, 1991.) In order to eliminate
+the complexity introduced by the distributed nature of the cable, a highly conductive axial
+wire was inserted inside the wke. This so-called space clamp keeps the potential along the
+entire axon spatially uniform, similar to the situation occurring in a patch of membrane. This,
+together with voltage clamping the membrane and the usage of pharmacological agents to
+block various currents, enabled Hodgkin and Huxley to dissect the membrane current into
+its constitutive components. The total membrane current is the sum of the ionic currents
+and the capacitive current,
+(6.1)
+With the help of these tools, Hodgkin and Huxley (1952a,b,c) carried out a large number of
+experiments, which lead them to postulate the following phenomenological model of the
+
+
+===== Page 4 =====
+6.1 Basic Assumptions
+145
+Fig. 6.2 ELECTRICAL CIRCUIT
+FOR A PATCH OF SQUID AXON
+Hodgkin and Huxley modeled the
+membrane of the squid axon us-
+ing four parallel branches: two
+passive ones (membrane capaci-
+tance Cm and the leak conductance
+Gm = \/Rm) and two time- and
+voltage-dependent ones represent-
+ing the sodium and potassium con-
+ductances.
+events underlying the generation of the action potential in the squid giant axon (Fig. 6.2;
+Hodgkin and Huxley, 1952d).
+1. The action potential involves two major voltage-dependent ionic conductances, a sodium
+conductance GNa and a potassium conductance GK- They are independent from each
+other. A third, smaller so-called "leak" conductance (which we term Gm) does not depend
+on the membrane potential. The total ionic current flowing is the sum of a sodium current,
+a potassium current, and the leak current:
+(6.2)
+2. The individual ionic currents /,(£) are linearly related to the driving potential via
+Ohm's law,
+(6.3)
+where the ionic reversal potential £,• is given by Nernst's equation for the appropriate
+ionic species. Depending on the balance between the concentration difference of the
+ions and the electrical field across the membrane separating the intracellular cytoplasm
+from the extracellular milieu, each ionic species has such an associated ionic battery (see
+Eq. 4.3). Conceptually, we can use the equivalent circuit shown in Fig. 6.2 to describe
+the axonal membrane.
+3. Each of the two ionic conductances is expressed as a maximum conductance, G^& and
+GK, multiplied by a numerical coefficient representing the fraction of the maximum
+conductance actually open. These numbers are functions of one or more fictive gating
+particles Hodgkin and Huxley introduced to describe the dynamics of the conductances.
+In their original model, they talked about activating and inactivating gating particles.
+Each gating particle can be in one of two possible states, open or close, depending on time
+and on the membrane potential. In order for the conductance to open, all of these gating
+particles must be open simultaneously. The entire kinetic properties of their model are
+contained in these variables. We will consider the physical and molecular interpretation
+of these gating particles in terms of numerous all-or-none microscopic ionic channels in
+Chap. 8.
+
+
+===== Page 5 =====
+146 
+• 
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+6.2 Activation and Inactivation States
+Let us specify how these activation and inactivation states determine the two ionic currents.
+This is important, since the vast majority of state-of-the-art ionic models is formulated in
+terms of such particles.
+6.2.1 Potassium Current IK
+Hodgkin and Huxley (1952d) model the potassium current as
+(6-4)
+where the maximal conductance GK = 36 mS/cm2 and the potassium battery is EK =
+— 12 mV relative to the resting potential of the axon. n describes the state of a fictional
+activation particle and is a dimensionless number between 0 and 1. Note that with today's
+physiological conventions, /R as outward current is always positive (for V > £R; see
+Fig. 6.5).
+Chapter 8 treats the underlying microscopic and stochastic nature associated with the
+macroscopic and deterministic current. Let us for now develop our intuition by assuming
+that the probability of finding one activation particle in its permissive or open state is n (and
+it will be with probability 1 — n in its nonpermissive or closed state where no current flows
+through the conductance). Equation 6.4 states that in order for the channel to be open, the
+four gating particles must simultaneously be in their open state. We can also think of n as
+the proportion of particles in their permissive state; potassium current can only flow if four
+particles are in their permissive state.
+If we assume that only these two states exist (for a single particle) and that the transition
+from one to the other is governed by first-order kinetics, we can write the following reaction
+scheme:
+(6-5)
+where «„ is a voltage-dependent rate constant (in units of I/sec), specifying how many
+transitions occur between the closed and the open states and fln expresses the number of
+transitions from the open to the closed states (in units of I/sec). Mathematically, this scheme
+corresponds to a first-order differential equation,
+(6.6)
+The key to Hodgkin and Huxley's model—as well as the most demanding part of their
+investigation—was the quantitative description of the voltage dependency of the rate
+constants. Instead of using rate constants an and /3n, we can reexpress Eq. 6.6 in terms
+of a voltage-dependent time constant rn(V) and a steady-state value n^V) with
+(6.7)
+where
+(6.8)
+and
+
+
+===== Page 6 =====
+6.2 Activation and Inactivation States 
+• 
+147
+(6.9)
+Both descriptions, either in terms of rate constants an and fln or in terms of a time constant
+rn and a steady-state variable «oo» are equivalent. While Hodgkin and Huxely used the
+former, we will use the latter, due to its simpler physical interpretation.
+One of the most striking properties of the squid membrane is the steepness of the
+relation between conductance and membrane potential. Below about 20 mV, the steady-
+state potassium membrane conductance GK increases e-fold by varying V by 4.8 mV,
+while the voltage sensitivity of the sodium conductance is even higher (an e-fold change for
+every 3.9 mV). For higher levels of depolarization, saturation in the membrane conductance
+sets in (Hodgkin and Huxley, 1952a). This steep relationship must be reflected in the voltage
+dependency of the rate constants. Hodgkin and Huxley (1952d) approximated the voltage
+dependencies of the rate constants by
+(6.10)
+and
+(6.11)
+where V is the membrane potential relative to the axon's resting potential in units of
+millivolt. Figure 6.3 shows the voltage dependency of the associated time constant and
+the steady-state value of the potassium activation variable. While rn has a bell-shaped
+dependency, «<» is a monotonically increasing function of the membrane potential. The
+curve relating the steady-state potassium conductance to the membrane potential is an
+even steeper function, given the fourth-power relationship between GK and n. This is a
+hallmark of almost all ionic conductances: depolarizing the membrane potential increases
+its effective conductance.' One of the few exceptions is the appropriately named anomalous
+rectifier current /AR (frequently also termed inward rectifier), which turns on with increasing
+membrane hyperpolarization (Spain, Schwindt, and Crill, 1987).
+The fraction of the steady-state potassium conductance open at any particular voltage
+V, that is, for / -> oo, is identical to «oo(^)4. At Vrest this number is very small,
+noo(0)4 = 0.01, that is, only about 1% of the total potassium conductance is activated.
+Using the voltage-clamp setup, we now move the membrane potential as rapidly as possible
+to V and clamp it there. The evolution of the potassium conductance is dictated by the
+differential Eq. 6.7,
+(6.12)
+where «o is the initial value of the potassium activation, «o = «oo(0) = 0.32, and «<*>
+its final value, n^ = n^V). The time course of any one activation variable follows an
+exponential, a reflection of the underlying assumption of a first-order kinetic scheme. The
+time course of the fourth power of n(t) is plotted on the right-hand side of Fig. 6.4, following
+a sudden shift in the membrane potential, from rest to the various voltage values indicated.
+Superimposed are the experimentally measured values of the potassium conductance. It
+is remarkable how well the points fall onto the curve. Upon stepping back to the original
+membrane potential, n slowly relaxes back to its original low value.
+These rate constants have a probabilistic interpretation, covered in more depth in Chap. 8.
+1. Whether or not the associated ionic current also increases depends on the relevant ionic reversal potential (Eq. 6.3).
+
+
+===== Page 7 =====
+148
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+Fig. 6.3 VOLTAGE DEPENDENCY OF THE GATING PARTICLES Time constants (A) and steady-
+state activation and inactivation (B) as a function of the relative membrane potential V for sodium
+activation m (solid line) and inactivation h (long dashed line) and potassium activation n (short,
+dashed line). The steady-state sodium inactivation hx is a monotonically decreasing function of V,
+while the activation variables nx and m^ increase with the membrane voltage. Activation of the
+sodium and potassium conductances is a much steeper function of the voltage, due to the power-law
+relationship between the activation variables and the conductances. Around rest, Gfla increases e-fold
+for every 3.9 mV and GR for every 4.8 mV. Activating the sodium conductance occurs approximately
+10 times faster than inactivating sodium or activating the potassium conductance. The time constants
+are slowest around the resting potential.
+6.2.2 Sodium Current /Na
+As can be seen on the left hand side of Fig. 6.4, the dynamics of the sodium conductance
+that we will explore now are substantially more complex.
+In order to fit the kinetic behavior of the sodium current, Hodgkin and Huxley had to
+postulate the existence of a sodium activation particle m as well as an inactivation particle h,
+(6.13)
+where GNH is the maximal sodium conductance, G^a = 120 mS/cm2, andENa is the sodium
+reversal potential, E^a = 115 mV, relative to the axon's resting potential, m and h are
+dimensionless numbers, with 0< m, h < 1. By convention the sodium current is negative,
+that is, inward, throughout the physiological voltage range (for V < E^a; see Fig. 6.5).
+The amplitude of the sodium current is contingent on four hypothetical gating particles
+making independent first-order transitions between an open and a closed state. Since these
+
+
+===== Page 8 =====
+6.2 Activation and Inactivation States
+149
+Fig. 6.4 K+ AND NA+ CONDUCTANCES DURING A VOLTAGE STEP Experimentally recorded
+(circles) and theoretically calculated (smooth curves) changes in G^a and GK in the squid giant
+axon at 6.3° C during depolarizing voltage steps away from the resting potential (which here, as
+throughout this chapter, is set to zero). For large voltage changes, GNS briefly increases before it
+decays back to zero (due to inactivation), while GK remains activated. Reprinted by permission from
+Hodgkin (1958).
+particles are independent, the probability for the three m and the one h particle to exist
+in this state is nr'h. Notice that h is the probability that the inactivating particle is not in
+its inactivating state. Formally, the temporal change of these particles is described by two
+first-order differential equations,
+(6.14)
+and
+(6.15)
+Empirically, Hodgkin and Huxley derived the following equations for the rate constants:
+(6.16)
+(6.17)
+(6.18)
+(6.19)
+The associated time constants and steady-state variables are plotted in Fig. 6.3 as a function
+
+
+===== Page 9 =====
+150 
+• 
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+Fig. 6.5 HODGKIN-HUXLEY AC-
+TION POTENTIAL Computed ac-
+tion potential in response to a 0.5-
+msec current pulse of 0.4-nA am-
+plitude (solid lines) compared to
+a subthreshold response following
+a 0.35-nA current pulse (dashed
+lines). (A) Time course of the two
+ionic currents. Note their large sizes
+compared to the stimulating current.
+(B) Membrane potential in response
+to threshold and subthreshold stim-
+uli. The injected current charges
+up the membrane capacity (with an
+effective membrane time constant
+r =0.85 msec), enabling sufficient
+/Na to be recruited to outweigh the
+increase in /K (due to the increase in
+driving potential). The smaller cur-
+rent pulse fails to trigger an action
+potential, but causes a depolariza-
+tion followed by a small hyperpo-
+larization due to activation of /K-
+(C) Dynamics of the gating parti-
+cles. Sodium activation m changes
+much more rapidly than either h or
+n. The long time course of potas-
+sium activation n explains why the
+membrane potential takes 12 msec
+after the potential has first dipped
+below the resting potential to return
+to baseline level.
+of voltage. Similar to before, both rm and TH are bell-shaped curves,2 but with a tenfold
+difference in duration. While m^ is a monotonically increasing function of V, as expected of
+an activation variable, h^ decreases with increasing membrane depolarization, the defining
+feature of an inactivating particle. Without inactivation, the sodium conductance would
+remain at its maximum value in response to a depolarizing voltage step.
+The fraction of the steady-state sodium conductance open at rest is less than 1% of
+the peak sodium conductance. Inspection of Fig. 6.3 immediately reveals the reason: for
+voltages below or close to the resting potential of the axon, the activation variable m is
+close to zero while at positive potentials the inactivation variable h is almost zero. Thus,
+2. Note that the voltage-dependent membrane time constant for the activation variable Tm has the same symbol as the passive
+membrane time constant. When in doubt, we will refer to the latter simply as T.
+
+
+===== Page 10 =====
+6.3 Generation of Action Potentials 
+• 
+151
+the steady-state sodium current G^am^h^V — E^a), also known as the window current,
+is always very small. The secret to obtaining the large sodium current needed to rapidly
+depolarize the membrane lies in the temporal dynamics of m and h. At values of the
+membrane close to the resting potential, h takes on a value close to 1. When a sudden
+depolarizing voltage step is imposed onto the membrane as in Fig. 6.4, m changes within
+a fraction of a millisecond to its new value close to 1, while h requires 5 msec or longer
+to relax from its previous high value to its new and much smaller value. In other words,
+two processes control the sodium conductance: activation is the rapid process that increases
+GNa upon depolarization and outpaces inactivation, the much slower process that reduces
+GNS upon depolarization.
+6.2.3 Complete Model
+Similar to most other biological membranes, the axonal membrane contains a voltage-
+independent "leak" conductance Gm, which does not depend on the applied voltage and re-
+mains constant over time. The value measured by Hodgkin and Huxley, Gm =0.3 mS/cm2,
+corresponds to a passive membrane resistivity of Rm — 3333 £2 • cm2. The passive
+component also has a reversal potential associated with it. Hodgkin and Huxley did
+not explicitly measure Vrest, but adjusted it so that the total membrane current at the
+resting potential V = 0 was zero. In other words, Vrest was denned via the equation
+GNa(0)£Na + GK(O)£K + Gm Vrest = 0» and came out to be +10.613 mV. The membrane
+capacity Cm = I /iF/cm2. At the resting potential, the effective membrane resistance due
+to the presence of the sum of the leak, the potassium, and the (tiny) sodium conductances
+amounts to 857 £2 • cm2, equivalent to an effective "passive" membrane time constant of
+about 0.85 msec.
+We can now write down a single equation for all the currents flowing across a patch of
+axonal membrane,
+(6.20)
+where /jnj is the current that is injected via an intracellular electrode. This nonlinear
+differential equation, in addition to the three ordinary linear first-order differential equations
+specifying the evolution of the rate constants (as well as their voltage dependencies),
+constitutes the four-dimensional Hodgkin and Huxley model for the space-clamped axon
+or for a small patch of membrane. Throughout the book, we shall refer to Eq. 6.20, in
+combination with the rate constants (Eqs. 6.7, 6.14, and 6.15) at 6.3° C as the standard
+Hodgkin-Huxley membrane patch model. In our simulations of these equations, we solve
+Eq. 6.20 for an equipotential 30 x 30 x n /iim2 patch of squid axonal membrane and
+therefore express lm in units of nanoamperes (nA), and not as current density.
+We will explain in the following sections how this model reproduces the stereotyped
+sequence of membrane events that give rise to the initiation and propagation of all-or-none
+action potentials.
+6.3 Generation of Action Potentials
+One of the most remarkable aspect of the axonal membrane is its propensity to respond in
+either of two ways to brief pulses of depolarizing inward current. If the amplitude of the
+pulse is below a given threshold, the membrane will depolarize slightly but will return to the
+
+
+===== Page 11 =====
+152 
+• 
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+membrane's resting potential, while larger currents will induce a pulse-like action potential,
+whose overall shape is relatively independent of the stimulus required to trigger it.
+Consider the effect of delivering a short (0.5-msec) inward current pulse /inj (t) of 0.35-
+nA amplitude to the membrane (Fig. 6.5). The injected current charges up the membrane
+capacitance, depolarizing the membrane in the process. The smaller this capacitance, the
+faster the potential will rise. The depolarization has the effect of slightly increasing m and n,
+in other words, increasing both sodium and potassium activation, but decreasing h, that is,
+decreasing potassium inactivation. Because the time constant of sodium activation is more
+than one order of magnitude faster than rn and TV, at these voltages, we can consider the
+latter two for the moment to be stationary. But the sodium conductance GNS will increase
+somewhat. Because the membrane is depolarized from rest, the driving potential for the
+potassium current, V — £K, has also increased. The concomitant increase in /K outweighs
+the increase in /Na due to the increase in G^a and the overall current is outward, driving
+the axon's potential back toward the resting potential. The membrane potential will slightly
+undershoot and then overshoot until it finally returns to Vrest. The oscillatory response
+around the resting potential can be attributed to the small-signal behavior of the potassium
+conductance acting phenomenologically similar to an inductance (see Chap. 10 for further
+discussion).
+If the amplitude of the current pulse is increased slightly to 0.4 nA, the depolarization
+due to the voltage-independent membrane components will reach a point where the amount
+of /Na generated exceeds the amount of /K. At this point, the membrane voltage undergoes a
+runaway reaction: the additional 7Na depolarizes the membrane, further increasing m, which
+increases /Na, causing further membrane depolarization. Given the almost instantaneous
+dynamics of sodium activation (rm ~ 0.1-0.2 msec at these potentials), the inrushing
+sodium current moves the membrane potential within a fraction of a millisecond to 0 mV
+and beyond. In the absence of sodium inactivation and potassium activation, this positive
+feedback process would continue until the membrane would come to rest at E^a. As we
+saw already in Fig. 6.4, after a delay both the slower sodium inactivation variable h as well
+as the potassium activation n will turn on (explaining why /K is also called the delayed
+rectifier current /DR)- Sodium inactivation acts to directly decrease the amount of sodium
+conductance available, while the activation of the potassium conductance tends to try to
+bring the axon's membrane potential toward EH by increasing /K. Thus, both processes
+cause the membrane potential to dip down from its peak. Because the total sodium current
+quickly falls to zero after 1 msec, but /K persists longer at small amplitudes (not readily
+visible in Fig. 6.5), the membrane potential is depressed to below its resting level, that is,
+the axon hyperpolarizes. At these low potentials, eventually potassium activation switches
+off, returning the system to its initial configuration as V approaches the resting potential.
+6.3.1 Voltage Threshold for Spike Initiation
+What are the exact conditions under which a spike is initiated? Does the voltage have to
+exceed a particular threshold value V^, or does a minimal amount of current 7^ have to
+be injected, or does a certain amount of electrical charge Qth have to be delivered to the
+membrane in order to initiate spiking? These possibilities and more have been discussed in
+the literature and experimental evidence exists to support all of these views under different
+circumstances (Hodgkin and Rushton, 1946; Cooley, Dodge, and Cohen, 1965; Noble and
+Stein, 1966; Cole, 1972;Rinzel, 1978; for a thorough discussion see Jack, Noble, and Tsien,
+1975). Because the squid axon is not a good model for spike encoding in central neurons,
+
+
+===== Page 12 =====
+6.3 Generation of Action Potentials
+153
+we will defer a more detailed discussion of this issue to Sees. 17.3 and 19,2. We here
+limit ourselves to considering spike initiation in an idealized nonlinear membrane, without
+dealing with the complications of cable structures (such as the axon).
+To answer this question, we need to consider the I-V relationship of the squid axonal
+membrane. Because we are interested in rapid synaptic inputs, we assume that the risetime
+of the synaptic current is faster than the effective passive time constant, T = 0.85 msec,
+and make use of the observation that the dynamics of sodium activation m is very rapid (the
+associated time constant is always less than 0.5 msec) and at least a factor of 10 faster than
+sodium inactivation h and potassium activation n (see Fig. 6.3). With these observations
+in mind, we ask what happens if the input depolarizes the membrane very rapidly to a new
+value VI Let us estimate the current that will flow with the help of the instantaneous I-V
+relationship Io(V) (Fig. 6.6).
+/o is given by the sum of the ionic and the leak currents. We approximate the associated
+sodium and potassium conductances by assuming that h and n have not had time to change
+from the value they had at the resting potential V — 0, while m adjusts instantaneously to
+its new value at V. In other words,
+(6.21)
+Figure 6.6 shows the inverted U-form shape of /o in the neighborhood of the resting
+potential, as well as its three ionic components /Na, /K» and I\ea^.
+In the absence of any input, the system rests at V = 0. If a small depolarizing voltage
+step is applied, the system is displaced to the right, generating a small, positive current. This
+current is outward since the increase in m (increasing the amplitude of /Na) is outweighed
+by the increase in the driving potential V — EK (increasing 7K) and the decrease in /leak-
+Fig. 6.6 CURRENT-VOLTAGE RELATIONSHIP AROUND REST Instantaneous I-V 
+relationship,
+/o, associated with the standard patch of squid axon membrane and its three components: /o =
+/Na + IK. + /leak (Eq. 6.21). Because m changes much faster than either h or n for rapid inputs, we
+computed G^ and GK. under the assumption that m adapts instantaneously to its new value at V,
+while h and n remain at their resting values, /o crosses the voltage axis at two points: a stable point at
+V = 0 and an unstable one at Va, « 2.5 mV. Under these idealized conditions, any input that exceeds
+FO, will lead to a spike. For the "real" equations, m does not change instantaneously and nor do n and
+h remain stationary; thus, /o only crudely predicts the voltage threshold which is, in fact, 6.85 mV
+for rapid synaptic input. Note that /o is specified in absolute terms and scales with the size of the
+membrane patch.
+
+
+===== Page 13 =====
+154 
+. 
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+This forces the membrane potential back down toward the resting potential: the voltage
+trajectory corresponds to a subthreshold input. Similarly, if a hyperpolarizing current step
+is injected, moving the system to below V = 0, a negative inward current is generated,
+pulling the membrane back up toward Vrest. The slope of the I-V curve around the resting
+potential dl/dV, termed the membrane slope conductance, is positive (for a substantial
+discussion of this concept, see Sec. 17.1.2). That is, the point V = 0 is a stable attractor.
+(For these and related notions, we defer the reader to the following chapter.)
+/o( V) has a second zero crossing at V = V& « 2.5 mV. If an input moves the membrane
+potential to exactly Vth, n° current flows and the system remains at Vth (Fig- 6.6). Because
+the slope conductance is negative, the point is unstable, and an arbitrarily small perturbation
+will carry the system away from the zero crossing. A negative perturbation will carry the
+system back to Vrest- Conversely, a positive voltage displacement, no matter how minute,
+causes a small inward current to flow, which further depolarizes the membrane (due to the
+negative slope conductance), leading in turn to a larger inward current, and so on. The
+membrane potential rapidly increases to above absolute zero, that is, an action potential is
+triggered. During this phase, very large inward currents are generated, far exceeding the
+amplitude of the modest stimulus current. (Recall that around these potentials, /Na increases
+e-fold every 3.9 mV.) For the patch of squid membrane simulated here (where the current
+scales linearly with the area of the patch), the peak of /Na is about 23 nA.
+This qualitative account of the origin of the voltage threshold for an active patch of
+membrane argues that in order for an action potential to be initiated, the net inward current
+must be negative. For rapid input, this first occurs at V = Vth- This analysis was based on the
+rather restrictive assumption that m changes instantaneously, while h and n remain fixed. In
+practice, neither assumption is perfect. Indeed, while our argument predicts Vth = 2.5 mV,
+the voltage threshold for spike initiation for rapid EPSPs for the Hodgkin-Huxley equation
+is, in fact, equal to 6.85 mV (Noble and Stein, 1966). As discussed in Sec. 17.3, reaching
+a particular value of the voltage for a rapid input in a single compartment is equivalent to
+rapidly dumping a threshold amount of charge £)th into the system.
+Applying a current step that increases very slowly in amplitude—allowing the system to
+relax always to its stationary state—prevents any substantial sodium current from flowing
+and will therefore not cause spiking. Thus, not only does a given voltage level have to
+be reached and exceeded but also within a given time window. We take up this issue in
+Sec. 17.3 in the context of our full pyramidal cell model and in Sec. 19.2 to explore how
+Vth is affected by the cable structure.
+6.3.2 Refractory Period
+Once the rapid upstroke exceeding 0 has been generated, the membrane potential should
+be pulled back to its resting potential, that is, repolarized, as rapidly as possible in order to
+enable the system to generate the next impulse.3
+This is accomplished by inactivating GNJJ and by increasing a potassium conductance,
+GK- This conductance remains activated even subsequent to spike polarization (for up to
+12 msec following the peak of the action potential in Fig. 6.5), causing the membrane
+to undergo a hyperpolarization. During this period, it is more difficult to initiate an action
+potential than before; the membrane remains in a refractory state. The reason for the reduced
+ability of the membrane to discharge again is the inactivation of 7Na (that is, h is small) and
+the continuing activation of /K (n only decays slowly).
+3. Given a specific membrane capacitance of 1 /ctF/cm2, the 100 mV spike depolarization amounts to transferring about 6,000
+positively charged ions per n,m of membrane area.
+
+
+===== Page 14 =====
+6.3 Generation of Action Potentials
+155
+This refractory period can be documented by the use of a second current pulse (Fig. 6.7).
+At t = 1 msec a 0.5-msec current pulse is injected into our standard patch of squid axonal
+membrane. The amplitude of this pulse, I\ = 3.95 nA, is close to the minimal one needed
+to generate an action potential. The input causes a spike to be triggered that peaks at
+around 5 msec and repolarizes to V = 0 at t = 1 msec. This time, at which the membrane
+potential starts to dip below the resting potential (Fig. 6.5), is somewhat arbitrarily assigned
+to Af = 0. Following this point, a second 0.5-msec-long current pulse of amplitude /2 is
+applied A? msec later. The amplitude of /2 is increased until a second action potential is
+generated. This first occurs at At = 2 msec (that is, 2 msec after the membrane potential
+has repolarized to zero). At this time, h/I\ = 23.7, that is, the amplitude of the second
+pulse must be 23.7 times larger than the amplitude of the first pulse in order to trigger a
+spike. Since such large current amplitudes are unphysiological, the membrane is de facto
+not excitable during this period, which is frequently referred to as the absolute refractory
+period. The threshold for initiation of the second spike is elevated up to 11 msec after
+repolarization of the membrane due to the first spike (relative refractory period; Fig. 6.7).
+This is followed by a brief period of mild hyperexcitability, when a spike can be elicited by
+a slightly (15%) smaller current than under resting conditions.
+From a computational point of view, it is important to realize that the threshold behavior
+of the Hodgkin-Huxley model depends on the previous spiking history of the membrane.
+In the squid axon, as in most axons, the threshold rises only briefly, returning to baseline
+levels after 20 msec or less. As warming the axon to body temperatures speeds up the rates
+of gating two- to fourfold,4 the minimal separation time is expected to be only 1-2 msec
+Fig. 6.7 REFRACTORY PERIOD A 0.5-msec brief current pulse of I\ = 0.4 nA amplitude causes
+an action potential (Fig. 6.5). A second, equally brief pulse of amplitude /2 is injected At msec after
+the membrane potential due to the first spike having reached V = 0 and is about to hyperpolarize
+the membrane. For each value of Af, /2 is increased until a second spike is generated (see the inset
+for Af = 10 msec). The ratio h/h of the two pulses is here plotted as a function of At. For
+several milliseconds following repolarization, the membrane is practically inexcitable since such large
+currents are unphysiological (absolute refractory period). Subsequently, a spike can be generated,
+but it requires a larger current input (relative refractory period). This is followed by a brief period of
+reduced threshold (hyperexcitability). No more interactions are observed beyond about A? = 18 msec.
+4. A crucial parameter in determining the dynamics of the action potential is the temperature. As first mentioned in footnote
+5 in Sec. 4.6, if the temperature is reduced, the rate at which the ionic channels underlying the action potential open or close
+slows down, while the peak conductance remains unchanged. Hodgkin and Huxley recorded most of their data at 6.3° C and
+the rate constants are expressed at these temperatures (Eqs. 6.10, 6.11 and 6.16-6.19). To obtain the action potential at any other
+temperature T, all a's and /8's need to be corrected by Q\0 
+,with 210 between 2 and 4 (Hodgkin, Huxley, and Katz, 1952;
+
+
+===== Page 15 =====
+156 • 
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+for axons in warm-blooded animals. Nerve cells—as compared to axons—often display a
+much longer increase in their effective spiking threshold, depending on the number of action
+potentials generated within the last 100 msec or longer (Raymond, 1979). Section 9.3 will
+treat the biophysical mechanism underlying this short-term firing frequency adaptation in
+more detail.
+6.4 Relating Firing Frequency to Sustained Current Input
+What happens if a long-lasting current step of constant amplitude is injected into the space-
+clamped axon (Agin, 1964; Cooley, Dodge, and Cohen, 1965; Stein, 1967a)? If the current
+is too small, it will give rise to a persistent subthreshold depolarization (Fig. 6.8). Plotting
+the steady-state membrane depolarization as a function of the applied membrane current
+(Fig. 6.9A) reveals the linear relationship between the two. If the input is of sufficient
+amplitude to exceed the threshold, the membrane will generate a single action potential
+(Fig. 6.8). The minimal amount of sustained current needed to generate at least one action
+potential (but not necessarily an infinite train of spikes) is called rheobase (Cole, 1972).
+For our standard membrane patch, rheobase corresponds to 0.065 nA. (This current is
+obviously far less than the amplitude of the brief current pulse used previously.) After the
+spike has been trigged and following the afterhyperpolarization, V(t) stabilizes at around
+2 mV positive to the resting potential, limiting the removal of sodium inactivation as well
+as enhancing /K. As the current amplitude is increased, the offset depolarization following
+the action potential and its hyperpolarization increases until, when the amplitude of the
+current step is about three times rheobase (0.175 nA), a second action potential is initiated.
+At around 0.18 nA (/i in Fig. 6.9A), the Hodgkin-Huxley equations will start to generate
+an indefinite train of spikes, that is, the membrane fires repetitively. After the membrane
+potential goes through its gyrations following each action potential, V creeps past Vth and
+the cycle begins anew: the system travels on a stable limit cycle. In a noiseless situation, the
+interval between consecutive spikes is constant and the cell behaves as a periodic oscillator
+with constant frequency.
+Figure 6.9A shows the associated steady-state I—V relationship. Experimentally, it can
+be obtained by clamping the membrane potential to a particular value V and measuring
+the resultant clamp current 7. The equations generate infinite trains of action potentials for
+I > /i (dashed line in Fig. 6.9A).
+A mathematical curiosity of uncertain relevance is the observation that for a range of
+amplitudes of the current step, the Hodgkin-Huxley equations can display several solutions,
+including the stable and periodic oscillation emphasized here, a stable but steady-state
+depolarizing solution, and an unstable periodic solution (Troy, 1978; Rinzel and Miller,
+1980). Which one is actually realized depends on the initial conditions.
+If the current amplitude is further increased, the interspike intervals begin to decrease and
+the spiking frequency increases. Figure 6.9B shows the relationship between the amplitude
+of the injected current and the spiking frequency around threshold, and Fig. 6.10A over
+a larger current range. It is referred to as the frequency-current or /-/ 
+curve. Overall,
+(continued) Beam and Donaldson, 1983; for a definition of Q\Q see footnote 5 in Sec. 4.6). The Q\Q for the peak conductances is
+a modest 1.3. As the temperature is increased, the upstroke, that is, the rate at which the voltage rises during the rapid depolarizing
+phase of the action potential, increases, because the speed at which /Na is activated increases. At the same time, both sodium
+inactivation and potassium activation increase. Altogether, the total duration of the spike decreases. At temperatures above 33° C no
+spike is generated (Hodgkin and Katz, 1949; of course, the squid axon lives in far more frigid waters than these balmy temperatures).
+
+
+===== Page 16 =====
+6.4 Relating Firing Frequency to Sustained Current Input 
+• 
+157
+Fig. 6.8 REPETITIVE SPIKING 
+Voltage trajectories
+in response to current steps of various amplitudes in
+the standard patch of squid axonal membrane. The
+minimum sustained current necessary to initiate a
+spike, termed rheobase, is 0.065 nA. In order for the
+membrane to spike indefinitely, larger currents must
+be used. Experimentally, the squid axon usually stops
+firing after a few seconds due to secondary inactiva-
+tion processes not modeled by the Hodgkin-Huxley
+equations (1952d).
+Fig. 6.9 SUSTAINED SPIKING IN THE HODGKIN-HUXLEY EQUATIONS 
+(A) Steady-state I-V
+relationship and (B) /-/ or discharge curve as a function of the amplitude of the sustained current /
+associated with the Hodgkin-Huxley equations for a patch of squid axonal membrane. For currents
+less than 0.18 nA, the membrane responds by a sustained depolarization (solid curve). At /i, the
+system loses its stability and generates an infinite train of action potentials: it moves along a stable
+limit cycle (dashed line). A characteristic feature of the squid membrane is its abrupt onset of firing
+with nonzero oscillation frequency. The steady-state I-V curve can also be viewed as the sum of all
+steady-state ionic currents flowing at any particular membrane potential Vm.
+there is a fairly limited range of frequencies at which the membrane fires, between 53 and
+138 Hz. If a current at the upper amplitude range is injected in the axon, the membrane fails
+to repolarize sufficiently between spikes to relieve sodium inactivation. Thus, although
+
+
+===== Page 17 =====
+158
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+Fig. 6.10 HODGKIN-HUXLEY /-/ 
+CURVE AND NOISE (A) Relationship between the amplitude
+of an injected current step and the frequency of the resultant sustained discharge of action potentials
+(/-/ 
+curve) for a membrane patch of squid axon at 6.3° C (solid line) and its numerical fit (dashed
+line) by / = 33.2 log / + 106. Superimposed in bold is the /-/ curve for the standard squid axon
+cable (using normalized current). Notice the very limited bandwidth of axonal firing. (B) /-/ 
+curve
+for the membrane patch case around its threshold (rheobase) in the presence of noise. White (2000-
+Hz band-limited) current noise whose amplitude is Gaussian distributed with zero mean current is
+added to the current stimulus. In the absence of any noise (solid line) the /-/ curve shows abrupt
+onset of spiking. The effect of noise (dotted curve—standard deviation of 0.05 nA; dashed curve—
+0.1 n A) is to linearize the threshold behavior and to increase the bandwidth of transmission (stochastic
+linearization). Linear /-/ curves are also obtained when replacing the continuous and deterministic
+Hodgkin-Huxley currents by discrete and stochastic channels (see Sec. 8.3).
+the membrane potential does show oscillatory behavior, no true action potentials are
+generated.
+In the laboratory, maintained firing in the squid axon is not that common (Hagiwara and
+Oomura, 1958; see, however, Chapman, 1963). This is most likely due to secondary inacti-
+vation mechanisms which are not incorporated into the Hodgkin-Huxley equations. Yet for
+short times, the theoretical model of Hodgkin and Huxley makes reasonably satisfactory
+predictions of the behavior of the space-clamped axon (for a detailed comparison between
+experimental observations and theoretical predictions see Guttman and Barnhill, 1970 as
+well as Chap. 11 in the ever trustworthy Jack, Noble, and Tsien, 1975), in particular with
+respect to the small dynamic range of firing frequencies supported by the axonal membrane
+and the abrupt onset of spiking at a high firing frequency. The /-/ 
+curve can be well
+approximated by either a square root or a logarithmic relationship between frequency and
+injected current (Agin, 1964; see Fig. 6.10).
+The /-/ 
+curves of most neurons, and not just the squid axon, bend over and saturate
+for large input currents. This justifies the introduction of a smooth, sigmoidal nonlinearity
+
+
+===== Page 18 =====
+6.5 Action Potential Propagation along the Axon 
+• 
+159
+mimicking the neuronal input-output transduction process in continuously valued neural
+network models (Hopfield, 1984). It is important to keep in mind that the paradigm under
+which the /-/ 
+curves are obtained, sustained current input* represents only a very crude
+approximation to the dynamic events occurring during synaptic bombardment of a cell
+leading to very complex spike discharge patterns (see Chap. 14).
+An important feature of the Hodgkin-Huxley model is that the frequency at the onset of
+repetitive activity has a well-defined nonzero minimum (about 53 Hz at 6.3° C; Fig. 6.10B).
+The membrane is not able to sustain oscillations at lower frequencies. This behavior,
+generated by a so-called Hopf bifurcation mechanism, is generic to a large class of oscillators
+occurring in nonlinear differential equations (Cronin, 1987; Rinzel and Ermentrout, 1998)
+and will be treated in more detail in the following chapter.
+As first explicitly simulated by Stein (1967b), adding random variability to the input can
+increase the bandwidth of the axon by effectively increasing the range within which the
+membrane can generate action potentials. If the input current is made to vary around its mean
+with some variance, reflecting for instance the spontaneous release of synaptic vesicles, the
+sharp discontinuity in the firing frequency at low current amplitudes is eliminated, since even
+with an input current that is on average below threshold, the stimulus will become strong
+enough to generate an impulse with a finite, though small, average frequency. Depending
+on the level of noise, the effective minimal firing frequency can be reduced to close to
+zero (Fig. 6.1 OB). A similar linearization behavior can be obtained if the continuous,
+deterministic, and macroscopic currents inherent in the Hodgkin-Huxley equations are
+approximated by the underlying discrete, stochastic, and microscopic channels (Skaugen
+and Walloe, 1979; see Sec. 8.3).
+Adding noise to a quantized signal to reduce the effect of this discretization is a standard
+technique in engineering known as dithering or stochastic linearization (Gammaitoni, 1995;
+Stemmler, 1996).
+A large number of neurons can generate repetitive spike trains with arbitrarily small
+frequencies. As first shown by Connor and Stevens (1971c) in their Hodgkin-Huxley-like
+model of a gastropod nerve cell, the addition of a transient, inactivating potassium current
+(termed the I A current) enables the cell to respond to very small sustained input currents
+with a maintained discharge of very low frequency. (This topic will be further pursued in
+Sec. 7.2.2.) Such low firing frequencies are also supported by pyramidal cells (Fig. 9.7).
+6.5 Action Potential Propagation along the Axon
+Once the threshold for excitation has been exceeded, the all-or-none action potential can
+propagate from the stimulus site to other areas of the axon. The hypothesis that this
+propagation is mediated by cable currents flowing from excited to neighboring, nonexcited
+regions was suggested already around the turn of the century by Hermann (1899). It was
+not until Hodgkin (1937) that direct experimental proof became available. A quantitative
+theory of this propagation had to await Hodgkin and Huxley's 1952 study. Because this
+has been a very well explored chapter in the history of biophysics, we will be brief here,
+only summarizing the salient points. Chapter 10 in Jack, Noble, and Tsien (1975) provides a
+deep and thorough coverage of nonlinear cable theory as applied to the conduction of action
+potentials. Section 19.2 will deal with how cable structures, such as an infinite cylinder,
+affect the voltage threshold for spike initiation.
+
+
+===== Page 19 =====
+160
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+6.5.1 Empirical Determination of the Propagation Velocity
+The equivalent electrical circuit replicates the patch of sodium, potassium, and leak conduc-
+tances and batteries (Fig. 6.2) along the cable in a fashion we are already familiar with from
+the passive cable (Fig. 6.11). Equation 2.5 specifies the relationship between the membrane
+current (per unit length) and the voltage along the cable,
+(6.22)
+In Eq. 6.20, we derived the membrane current (per unit area) flowing in a patch of axonal
+membrane. Combining the two with the appropriate attention to scaling factors leads to
+an equation relating the potential along the axon to the electrical property of the active
+membrane,
+(6.23)
+where d is the diameter of the axon. Hodgkin and Huxley (1952d) used a d = 0.476 mm
+thick axon in their calculations and a value of /?, = 35.4 Q-cm. This nonlinear partial
+differential equation, in conjunction with the three equations describing the dynamics of
+m, h, and n and the appropriate initial and boundary conditions, constitutes the complete
+Hodgkin-Huxley model.
+This type of second-order equation, for which no general analytical solution is known,
+is called a reaction-diffusion equation, because it can be put into the form of
+(6.24)
+with D > 0 constant. We will meet this type of equation again when considering the
+dynamics of intracellular calcium (see Chap. 11). Under certain conditions, it has wave-like
+solutions.
+Because Hodgkin and Huxley only had access to a very primitive hand calculator,
+they could not directly solve Eq. 6.23. Instead, they considered a particular solution
+to these equations. Since they observed that the action potential propagated along the
+axon without changing its shape, they postulated the existence of a wave solution to this
+equation, in which the action potential travels with constant velocity u along the axon,
+that is, V(x, t) = V(x — ut). Taking the second spatial and temporal derivative of this
+Fig. 6.11 ELECTRICAL CIRCUIT or THE SQUID GIANT AXON One-dimensional cable model of
+the squid giant axon. The structure of the cable is as in the passive case (Fig. 2.2B), with the RC
+membrane components augmented with circuit elements modeling the sodium and potassium currents
+(Fig. 6.2).
+
+
+===== Page 20 =====
+6.5 Action Potential Propagation along the Axon 
+• 
+161
+expression and using the chain rule leads to a second-order hyperbolic partial differential
+equation,
+(6.25)
+Replacing the second spatial derivative term in Eq. 6.23 with this expression yields
+(6.26)
+with K = 4Riu2Cm/d and 7j0nic denned in Eq. 6.2. Equation 6.26 is an ordinary second-
+order differential equation, whose solution is much easier to compute than the solution to
+the full-blown partial differential equation. It does require, though, a value for u. By a
+laborious trial-and-error procedure, Hodgkin and Huxley iteratively solved this equation
+until they found a value of u leading to a stable propagating wave solution. In a truly
+remarkable test of the power of their model, they estimated 18.8 m/sec (at 18.3° C) for the
+velocity at which the spike propagates along the squid giant axon, a value within 10% of the
+experimental value of 21.2 m/sec. This is all the more remarkable, given that their model
+is based on voltage- and space-clamped data, and represents one of the rare instances in
+which a neurobiological model makes a successful quantitative prediction.
+We can establish the dependency of the velocity on the diameter of the fiber using the
+following argumentation. Because both /,• and Cm are expressed as current and capacitance
+per unit membrane area, their ratio is independent of the fiber diameter. The voltage across
+the membrane and its temporal derivatives must also be independent of d. This implies that
+the constant K in Eq. 6.26 must remain invariant to changes in diameter. Assuming that
+Cm and Rj do not depend on d, we are lead to the conclusion that the velocity u must be
+(6-27)
+In other words, the propagation velocity in unmyelinated fibers is expected to be proportional
+to the square root of the axonal diameter.5 Indeed, this predicted relationship is roughly
+followed in real neurons (see Fig. 6.16; Ritchie, 1995).
+This implies that if the delay between spike initiation at the cell body and the arrival of
+the spike at the termination of an axon needs to be cut in half, the diameter of the axon needs
+to increase by a factor of 4, a heavy price to pay for rapid communication. The premium
+put on minimizing propagation delay in long cable structures is most likely the reason the
+squid evolved such thick axons. As we will see further below, many axons in vertebrates
+use a particular form of electrical insulation, termed myelination, to greatly speed up spike
+propagation without a concomitant increase in fiber diameter.
+It was more than 10 years later that Cooley, Dodge, and Cohen (1965; see also Cooley
+and Dodge, 1966) solved the full partial differential equation (Eq. 6.23) numerically using
+an iterative technique. Figure 6.12 displays the voltage trajectory at three different locations
+along the axon; at x = 0 a short suprathreshold current pulse charges up the local membrane
+capacitance. This activates the sodium conductance and Na+ ions rush in, initiating the
+full-blown action potential (not shown). The local circuit current generated by this spike
+leads to an exponential rise in the membrane potential in the neighboring region, known
+as the "foot" of the action potential. This capacitive current in turn activates the local
+sodium conductance, which will increase rapidly, bringing this region above threshold:
+5. Notice that we derived a similar square-root relationship between diameter and "pseudovelocity" for the decremental wave
+in the case of a passive cable (Eq. 2.53).
+
+
+===== Page 21 =====
+162
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+the spike propagates along the axon. Different from the space-clamped axon, where the
+capacitive current is always equal and opposite to the ionic currents once the stimulus
+current has stopped flowing (Eq. 6.20), the time course of current is more complex
+during the propagated action potential due to the local circuit currents. Because some
+fraction of the local membrane current depolarizes neighboring segments of the axonal
+cable (the so-called local circuit currents; see Fig. 6.13), the current amplitude required
+to trigger at least one action potential is larger than the current amplitude in the space-
+clamped case
+If the voltage applied to the squid membrane is small enough, one can linearize the mem-
+brane, describing its behavior in terms of voltage-independent resistances, capacitances, and
+inductances. This procedure was first carried out by Hodgkin and Huxley (1952d) and will
+be discussed in detail in Chap. 10. Under these circumstances, a space constant A can be
+associated with the "linearized" cable, describing how very small currents are attenuated
+along the axon. At rest, the dc space constant for the squid axon is A. = 5.4 mm, about 10
+times larger than its diameter.
+When long current steps of varying amplitudes are injected into the axon, the squid axon
+responds with regular, periodic spikes. However, the already small dynamic range of the
+/-/ curve of the space-clamped axon (Fig. 6.10A) becomes further reduced to a factor of
+less than 1.7 when the sustained firing activity in the full axon is considered (from 58 to
+96 Hz at 6.3° C). Thus, while the Hodgkin-Huxley model describes to a remarkable degree
+the behavior of the squid's giant axon, the equations do not serve as an adequate model for
+impulse transduction in nerve cells, most of which have a dynamic range that extends over
+two orders of magnitude.
+As predicted by Huxley (1959), Cooley and Dodge (1966) found a second solution to the
+Hodgkin-Huxley equations. When the amplitude of the injected current step is very close
+to the threshold for spike initiation, they observed a decremental wave propagating away
+Fig. 6.12 PROPAGATING ACTION POTENTIAL 
+Solution to the complete Hodgkin-Huxley model
+for a 5-cm-long piece of squid axon for a brief suprathreshold current pulse delivered to one end
+of the axon. This pulse generates an action potential that travels down the cable and is shown here
+at the origin as well as 2 and 3 cm away from the stimulating electrode (solid lines). Notice that
+the shape of the action potential remains invariant due to the nonlinear membrane. The effective
+velocity of the spike is 12.3 m/sec (at 6.3° C). If the amplitude of the current pulse is halved, only
+a local depolarization is generated (dashed curve) that depolarizes the membrane 2 cm away by a
+mere 0.5 mV (not shown). This illustrates the dramatic difference between active and passive voltage
+propagation.
+
+
+===== Page 22 =====
+6.5 Action Potential Propagation along the Axon
+163
+Fig. 6.13 LOCAL CIRCUIT CURRENT IN THE SQUID AXON Illustration of the events occurring in
+the squid axon during the propagation of an action potential. Since the spike behaves like a wave
+traveling at constant velocity, these two panels can be thought of either as showing the voltages and
+currents in time at one location or as providing a snapshot of the state of the axon at one particular
+instant (see the space/time axes at the bottom). (A) Distribution of the voltage (left scale) or the number
+of open channels (right scale) as inferred from the Hodgkin-Huxley model at 18.5° C. (B) Local circuit
+currents that spread from an excited patch of the axon to neighboring regions bringing them above
+threshold, thereby propagating the action potential. The diameter of the axon (0.476 mm) is not drawn
+to scale. Reprinted by permission from Hille (1992).
+from the source. This solution quickly dies away to zero potential as x increases and is only
+observed if the amplitude of the current step is within 0.1 % of the threshold current needed to
+obtain at least one spike. This phenomenon reveals the fact that the Hodgkin-Huxley model
+does not possess a strict threshold in the true sense of the word. In other words, there exists
+a continuous transformation between the subthreshold and the threshold voltage response.
+Yet in order to reveal these intermediate solutions the excitation must be adjusted with
+a degree of accuracy impossible to achieve physiologically. Practically speaking, given
+unavoidable noise in any neuronal system, only the propagating wave solution (with its
+associated threshold) plays a significant role in propagating information along the axon.
+Cooley and Dodge (1966) also considered what happens if the density of voltage-
+dependent channels underlying GNa and GK is attenuated by a factor of r\ (with 0< r\ < 1;
+the value of Vrest and Gieak were adjusted so that the resting potential and resting conductance
+
+
+===== Page 23 =====
+164 
+« 
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+were held constant). Reducing these conductances is somewhat analogous to the action of
+certain local anesthetics, such as lidocaine or procaine as used by dentists, in blocking
+action potential propagation. As rj is reduced below 1, the velocity of propagation as well
+as the peak amplitude of the spike are reduced. For r\ < 0.26, no uniform wave solution is
+possible and the "action potential" decrements with distance.
+6.5.2 Nonlinear Wave Propagation
+Spikes moving down an axon are but one instance of a nonlinear propagating wave—
+nonlinear since in a linear dispersive medium, such as a passive cable, the different Fourier
+components associated with any particular voltage disturbance will propagate at a different
+velocity and the disturbance will lose its shape. This is why propagating spikes and the like
+are frequently referred to by mathematicians as resulting from nonlinear diffusion. Other
+examples include sonic shock waves or the digital pulses in an optical cable.
+Scott (1975) argues for a broad classification of such phenomena into (1) those systems
+for which energy is conserved and which obey a conservation law and (2) those for which
+solitary traveling waves imply a balance between the rate of energy release by some
+nonlinearity and its consumption.
+Waves associated with the first type of systems are known as solitons and are always
+based on energy conservation (Scott, Chu, and McLaughlin, 1973). Solitons emerge from a
+balance between the effects of nonlinearity, which tend to draw the wave together, fighting
+dispersion, which tends to spread the pulse out. This implies that solitons can propagate
+over a range of speeds. Furthermore, they can propagate through each other without any
+interference. Solitons have been observed in ocean waves and play a major role in high-
+speed optical fibers.
+Action potentials are an example of the second type of propagating wave, similar to
+an ordinary burning candle (Scott, 1975). Diffusion of heat down the candle releases wax
+which burns to supply the heat. If P is the power (in joules per second) necesssary to feed
+the flame and E the chemical energy stored per unit length of the candle (joules per meter),
+the nonlinear wave in the form of the flame moves down the candle at a fixed velocity u
+given by
+(6.28)
+In other words, the velocity is fixed by the properties of the medium and does not depend
+on the initial conditions. Were we to light flames at both ends of a candle, the flames would
+move toward each other and annihilate themselves. This is also true if action potentials
+are initiated at the opposite ends of an axon. When they meet, they run into each other's
+refractory period and destroy each other. Thus, spikes are not solitons.
+6.6 Action Potential Propagation in Myelinated Fibers
+The successful culmination of the research effort by Hodgkin and Huxley heralded the
+coming of age of neurobiology. While we will deal in Chap. 9 with their methodology as
+applied in the past decades to the ionic currents found at the cell body of nerve cells, let
+us here briefly summarize spike propagation in myelinated axons (for more details, see
+Waxman, Kocsis, and Stys, 1995; Ritchie, 1995; Weiss, 1996).
+Axons come in two flavors, those covered by layers of the lipid myelin and those that are
+not. The squid axon is an unmyelinated fiber, common to invertebrates. In vertebrates, many
+
+
+===== Page 24 =====
+6.6 Action Potential Propagation in Myelinated Fibers
+165
+fibers are wrapped dozens or even hundreds of times with myelin, the actual diameter of the
+axon itself being only 60% or 70% of the total diameter (Fig. 6.14). This insulating material
+is formed by special supporting cells, called Schwann cells in the peripheral nervous system
+and oligodendrocytes in the central nervous system.
+A second specialization of myelinated fibers is that the myelin sheet is interrupted at
+regular intervals along the axon by nodes, named for their discoverer nodes of Ranvier.
+Here, the extracellular space gains direct access to the axonal membrane. Typically, the
+length of a node is very small (0.1%) compared to the length of the internodal segment
+(Fig. 6.15). In the vertebrate, single myelinated fibers range in diameter from 0.2 to 20 /^m,
+while unmyelinated fibers range between 0.1 and 1 //,m. In stark contrast, the diameters of
+unmyelinated invertebrate fibers range from under 1 jiim to 1 mm.
+In myelinated axons, conduction does not proceed continuously along the cable, but
+jumps in a discontinuous manner from one node to the next. This saltatory conduction
+(from the Latin saltus, to leap) was clearly demonstrated by Huxley and Stampfli (1949)
+and Tasaki (1953). What these and similar experiments on frog, rabbit, and rat myelinated
+fibers made clear is that ionic currents are strikingly inhomogeneously distributed across the
+axonal membrane (Fig. 6.15; FitzHugh, 1962; Frankenhaeuser and Huxley, 1964; Stampfli
+and Hille, 1976; Rogart and Ritchie, 1977; Chiu et al., 1979; Chiu and Ritchie, 1980).
+Spike generation essentially only takes place at the small nodes of Ranvier, which are
+loaded with fast sodium channels (between 700 and 2000 per square micrometer). In
+mammalian myelinated nerves, the repolarization of the spike is not driven by a large
+outward potassium current, as in the squid axon6 but is achieved using a rapid sodium
+inacti vation in combination with a large effective leak conductance. Indeed, action potentials
+do not show any hyperpolarization (Fig. 6. IB), unlike those in the squid giant axon. The
+origin of the large voltage-independent leak might involve an extracellular pathway beneath
+the myelin that connects the nodal and internodal regions (Barrett and Barrett, 1982; Ritchie,
+Fig. 6.14 MYELINATED AXONS
+Electron micrograph of across sec-
+tion through a portion of the optic
+fiber in an adult rat. The complete
+transverse section through a sin-
+gle myelinated axon is shown in
+close neighborhood to other axons.
+About four wrappings of myelin
+insulation are visible. The circu-
+lar structures inside the axonal
+cytoplasm are transverse sections
+through microtubules. 
+Reprinted
+by permission from Peters, Palay,
+and Webster (1976).
+6. Pharmacological blockage of potassium channels has no effect on the shape of the action potential in the rabbit fibers
+(Ritchie, Rang, and Pellegrino, 1981).
+
+
+===== Page 25 =====
+166
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+Fig. 6.15 ELECTRICAL CIRCUIT FOR A MYELINATED AXON Geometrical and electrical layout
+of the myelinated axon from the frog sciatic nerve (Frankenhaeuser and Huxley, 1964; Rogart and
+Ritchie, 1977). The diameter of the axon and its myelin sheath is 15 /um, the diameter of the axon
+itself 10.5 [im, the difference being made up by 250 wrappings of myelin. The myelin is interrupted
+every 1.38 mm by a node ofRanvier that is 2.5 /u,m wide. The total distributed capacitance for the
+internode (2.2 pF) is only slightly larger than the capacitance of the much smaller node (1.6 pF). The
+same is also true of the distributed resistance. At each node, the spike is reamplified by a fast sodium
+current and is repolarized by a potassium current. Little or no potassium current is found at the nodes
+of Ranvier in mammalian myelinated axons. There, repolarization is accomplished by rapid sodium
+inactivation in conjunction with a large effective "leak" current.
+
+
+===== Page 26 =====
+6.6 Action Potential Propagation in Myelinated Fibers 
+• 
+167
+1995). Potassium channels are present under the myelin sheet along the internodal section,
+although their functional role is unclear (Waxman and Ritchie, 1985).
+The function of the numerous tightly drawn layers of myelin around the internodal
+segments is to reduce the huge capacitive load imposed by this very large cable segment,
+as well as to reduce the amount of longitudinal current that leaks out across the membrane.
+The effective membrane capacitance of the entire myelin sheath, which in the case of the
+frog axon illustrated in Fig. 6.15, is made up of 250 myelin layers, is Cm/250, with Cm
+the specific capacitance of one layer of myelin (similar to that of the axonal membrane),
+while the effective resistance is 250 times higher than the Rm of one layer of myelin.
+Even though the length of the interaxial node is typically 1000 times larger than the node,
+its total capacitance has the same order of magnitude (Fig. 6.15). This allows the action
+potential to spread rapidly from one node to the next, "jumping" across the intervening
+internodal areas and reducing metabolic cost (since less energy must be expended to restore
+the sodium concentration gradient following action potential generation). There is a safety
+factor built into the system, since blocking one node via a local anesthetic agent does
+not prevent blockage of the impulse across the node (Tasaki, 1953). Detailed computer
+simulations of the appropriately modified Hodgkin-Huxely equations (based on the circuit
+shown in Fig. 6.15) have confirmed all of this (Frankenhaeuser and Huxley, 1964; Rogart
+and Ritchie, 1977).
+Single axons can extend over 1 m or more,7 making conduction velocity of the electrical
+impulses something that evolution must have tried to maximize at all cost. Measurements
+(Huxley and Stampfli, 1949) and computations indicate that the time it takes for the currents
+at one node to charge up the membrane potential at the next node is limited by the time it takes
+to charge up the intervening internodal membrane. This is determined by the time constant of
+the membrane r, which is independent of the geometry of the axon. In this time the spike will
+have moved across the internodal distance, making the propagation velocity proportional
+to this distance divided by r. Since anatomically the internodal distance is linearly related
+to the diameter of the axon, the velocity of spike propagation will be proportional to the
+fiber diameter,
+(6.29)
+rather than the square-root dependency found for unmyelinated fibers (Eq. 6.27). Rushton
+(1951) gave this argument a precise form using the principle of dimensional scaling. If,
+he argued, axons had the same specific membrane properties, then in order for points
+along two axons with different diameters to be in "corresponding states," certain scaling
+relationships must hold. In particular, space should increase in units of the internodal
+length and velocity should be roughly proportional to the fiber diameter (for more details,
+see Weiss, 1996). The latter is actually the case (Fig. 6.16). When comparing the fiber
+diameter against the propagation velocity for myelinated cat axons, a roughly linear rela-
+tionship can be observed (Hursh, 1939; Rushton, 1951; Ritchie, 1982). With the exception
+of a l.l-/zm-thick unmyelinated mammalian fiber that propagates action potentials at
+2.3 mm/msec (Gasser, 1950), spike velocity in very small fibers has, so far, been difficult
+to record.
+The functional importance of myelinated fibers is clear. They provide a reliable and rapid
+means of communicating impulses at a much reduced cost compared to unmyelinated fibers
+(at the same conduction velocity, a myelinated fiber can be up to 50 times thinner than an
+7. Think about the spinal nerve axons of an elephant or of the extinct Brontosaurus.
+
+
+===== Page 27 =====
+168
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+Fig. 6.16 DIAMETER AND PROPA-
+GATION VELOCITY Relationship be-
+tween (internal) diameter d of adult cat
+peripheral myelinated fibers and prop-
+agation velocity u of the action poten-
+tial. The data are shown as dots (Hursh,
+1939) and the least-square fit as a line.
+Peripheral myelinated fibers are bigger
+than 1 fim, while myelinated fibers in
+the central nervous system can be as
+thin as 0.2 /xm, with an expected veloc-
+ity in the 1-mm/msec range. Reprinted
+by permission from Ritchie (1982).
+unmyelinated fiber). This large (x 2500) factor in packing allows the brain to squeeze more
+than a million axons into a single nerve that supplies the brain with visual information. The
+primary cost of this insulation is the added developmental complexity and the possibility
+that demyelinating diseases, such as multiple sclerosis, can incapacitate the organism.
+6.7 Branching Axons
+The all-or-none nature of action potentials has lead to the idea that the axon serves mainly
+as a reliable transmission line, making a highly secure, one-way point-to-point connection
+among two processing devices. Furthermore, because of its high propagation velocity,
+the action potential is thought to arrive almost simultaneously to all of its output sites.
+Indeed, both properties have been used to infer that spikes propagating parallel fibers in
+the cerebellum serve to implement a very precise timing circuit (Braitenberg and Atwood,
+1958; Braitenberg, 1967).
+It will not come as a surprise that the axon-as-a-wire concept is not quite true and needs
+to be revised. Experimentally, it is known that trains of action potentials show failure at
+certain regions along the axon, most likely at the branch points. In other words, the train
+of spikes generated at the soma may have lost some of its members by the time it reaches
+the presynaptic terminals, with individual spikes "deleted" (Barron and Matthews, 1935;
+Tauc and Hughes, 1963; Chung, Raymond, andLettvin, 1970; Parnas, 1972; Smith, 1983).
+For instance, conduction across a branching point in a lobster axon fails at frequencies
+above 30 Hz (Grossman, Parnas, and Spira, 1979a). This conduction block first appears
+in the thicker daughter branch and only later in the thinner branch, most likely due to a
+differential buildup of potassium ions (Grossman, Parnas, and Spira, 1979b). Physiological
+evidence indicates that such a switching mechanism might subserve a specific function in
+the case of the motor axon innervating the muscle used for opening the claw in the crayfish
+(Bittner, 1968). Depending on the firing frequencies, spikes are routed differentially into
+two branches of the axon going to separate muscle fibers.
+
+
+===== Page 28 =====
+6.7 Branching Axons 
+• 
+169
+These experimental studies have shown that action potentials may fail to invade the
+daughter branches of a bifurcating axon successfully. As the theoretical analysis by Gold-
+stein and Rail (1974) pointed out, the single most important parameter upon which propa-
+gation past the bifurcation depends is its associated geometric ratio
+(6.30)
+where the d's are the fiber diameters and it is assumed that the specific membrane properties
+are constant in all three branches. This should remind us, of course, of the analysis of the
+branching passive cables (Sees. 3.1,3.2, and Eq. 3.15) and, indeed, the reasoning is identical.
+GR equals the ratio of the input impedances if all cables are semi-infinite.
+Goldstein and Rail's (1974) and subsequent analytical and modeling investigations
+(Khodorov and Timin, 1975; Parnas and Segev, 1979; Moore, Stockbridge, and Wester-
+field, 1983; Luscher and Shiner, 1990a,b; Manor, Koch, and Segev, 1991) established the
+following principles. For GR = 1, impedances match perfectly and the spike propagates
+without any perturbation past the branch point (indeed, electrically speaking, for GR = 1
+the branching configuration can be reduced to a single equivalent cable, albeit an active
+one; see Sec. 3.2). If GR < 1, the action potential behaves as if the axon tapers and it will
+slightly speed up. The far more common situation is GR > 1, that is, the combined electrical
+load of the daughters exceeds the load of the main branch. As long as GR is approximately
+< 10, propagation past the branch point is assured, although with some delay (that can
+be substantial for large values of GR). If GR> 10, propagation into both branches fails
+simultaneously, since the electrical load of the daughters has increased beyond the capacity
+of the electrical current from the parent branch to initiate a spike in the daughter branches.
+Parnas and Segev (1979) emphasize that for each constant geometric ratio, changes in the
+diameter ratio between the daughter branches never yields differential conduction into one
+of the daughters if the specific membrane properties are identical in both. This implies that
+the experimentally observed differential conduction (Bittner, 1968; Grossman, Parnas, and
+Spira, 1979a) must be due to other factors, such as a rundown in the ionic concentration
+across the membrane or saturation of the ionic pumps that are sensitive to the ratio of area
+to volume (and would thus be expected to occur earlier in larger fibers). Note that all of
+these modeling studies have assumed unmyelinated fibers and that axonal branch points
+appear to be devoid of myelin.
+Up to 10-12 bifurcations (see the heavily branched axonal terminal arbor in Fig. 3.1M)
+can occur before the action potential reaches its presynaptic terminal where it initiates
+vesicular release. The delay at branch points with GR >1, in conjunction with other
+geometrical inhomogeneities, such as the short swellings at sites of synaptic terminals called
+varicosities, might add up to a considerable number, leading to a substantial broadening of
+spike arrival times at their postsynaptic targets.
+The degree of temporal dispersion was simulated in the case of an axon from the
+somatosensory cortex of the cat (Manor, Koch, and Segev, 1991). Since it is almost entirely
+confined to cortical gray matter, it was taken to be unmyelinated (Fig. 6.17). In the absence
+of better data, Hodgkin-Huxley dynamics (at 20° C) were assumed. About 1000 boutons
+were added to the axon and the propagation time between spike initiation just beyond the
+cell body and these boutons is shown in the histogram of Fig. 6.17. The first peak (with
+a mean of 3.8 ± 0.5 msec) is contributed from terminals along the branches in cortical
+areas 3a and 3b (see the inset in Fig. 6.17A) and the more delayed one from those in area
+
+
+===== Page 29 =====
+170
+THE HODGKIN-HUXLEY MODEL OF ACTION POTENTIAL GENERATION
+4 (mean of 5.8± 0.4 msec). Of the total delay, about 22-33% is due to the branch points
+and geometrical inhomogeneities; the majority is simple propagation delay. Manor, Koch,
+and Segev (1991) conclude that temporal dispersion in the axonal tree will be minor, on the
+order of 0.5-1 msec.
+Let us conclude with one observation. Computer simulations of branching axons by the
+author have shown that a strategically located inhibitory synapse of the shunting type onto
+one branch of the axon, following the on-the-path theorem (Sec. 5.1.3), can selectively
+veto an action potential from invading this branch while not affecting spike invasion
+into the second branch. This would allow for very fast synaptic switching or routing of
+information in an axonal tree (similar to a telephone network). While inhibitory synapses
+can be found directly at the axon initial segment (Kosaka, 1983; Soriano and Frotscher,
+1989), no synapses, whether excitatory or inhibitory, have been observed on or around
+axonal branching points. It is anybody's guess why the nervous system did not avail itself
+of this opportunity to precisely (in space and time) filter or gate action potentials.
+Fig. 6.17 PROPAGATION DELAYS ALONG A BRANCHING AXON Delays that action potentials incur
+as they propagate through a highly branching axonal tree (A), simulated in the case of an HRP
+labeled axon originated in layer 5 of the somatosensory cortex of the adult cat (see inset). Reprinted
+by permission from Schwark and Jones (1989). (B) Histogram of the delay incurred between action
+potential initiation just beyond the cell body and the 977 terminals distributed in the terminal branches
+of the axon. The two humps correspond to locations in the proximal and distal parts of the axonal tree.
+Over the 3.5 mm of the tree, the total delay is 6.5 msec and temporal dispersion is minimal. Reprinted
+by permission from Manor, Koch, and Segev (1991).
+
+
+===== Page 30 =====
+6.8 Recapitulation 
+• 
+171
+6.8 Recapitulation
+The Hodgkin-Huxley 1952 model of action potential generation and propagation is the
+single most successful quantitative model in neuroscience. At its heart is the depiction
+of the time- and voltage-dependent sodium and potassium conductances G^a and GK in
+terms of a number of gating particles. The state of Gna is governed by three activation
+particles m and one inactivating particle h, while the fate of the potassium conductance
+is regulated by four activating particles n. The dynamics of these particles are governed
+by first-order differential equations with two voltage-dependent terms, the steady-state
+activation (or inactivation), and the time constant. The key feature of activating particles is
+that their amplitude increases with increasing depolarization, while the converse is true for
+inactivating particles. For rapid input to a patch of squid axonal membrane, spike initiation
+is exceeded whenever the net inward current becomes negative, that is, when a particular
+voltage threshold Va, is exceeded.
+Inclusion of the cable term leads to a four-dimensional system of coupled, nonlinear
+differential equations with a wave solution that propagates at a constant velocity down
+the axon. This wave, the action potential, is due to the balance between dispersion and
+restoration caused by the voltage-dependent membrane. When injecting sustained currents
+into the axon, the equations predict two important aspects of the squid axon: the abrupt
+onset of sustained firing with a high spiking frequency and the very limited bandwidth of
+the firing frequency.
+The Hodgkin-Huxley formalism represents the cornerstone of quantitative models of
+nerve cell excitability, and constitutes a remarkable testimony to the brilliance of these
+researchers. It should be remembered that their model was formulated at a time when the
+existence of ionic channels, the binary, microscopic, and stochastic elements underlying
+the continuous macroscopic, and deterministic ionic currents, was not known.
+Wrapping axons in insulating material, such as the many layers of myelin observed
+in myelinated fibers that are found in all vertebrates, leads to a dramatic speedup over
+unmyelinated fibers. Conversely, at the same spike propagation speed, myelinated fibers
+can be up to 50 times thinner than unmyelinated fibers. In mammals, axons above 1 /w,m are
+usually myelinated, with speeds in the 5-mm/msec range, and rarely exceed 20 /^m. When
+axons reach their target zone, they branch profusely, enabeling them to make thousands
+of contacts on postsynaptic processes. As trains of spikes attempt to propagate past these
+points, they can be slowed down, depending on the exact geometry of the junction. In the
+more extreme cases, individual spikes can fail to propagate past branch points.
+We conclude that pulses can communicate along axons reliably, rapidly (at speeds
+between 1 and 100 mm/sec) and with little temporal dispersion. The main exception to
+this appears to be the propagation of trains of spikes past branching points. Here, due
+to a variety of phenomena, conduction block can occur, which will differentially route
+information into one of the daughter branches or prevent conduction altogether.
+
+

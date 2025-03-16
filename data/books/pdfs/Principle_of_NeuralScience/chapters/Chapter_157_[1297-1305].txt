@@ -1,0 +1,662 @@
+===== Page 1 =====
+1252    Part VII / Development and the Emergence of Behavior
+Figure 50–14  Loss of dopaminergic (DA) neurons in  
+Parkinson disease can be treated by grafting embryonic 
+cells into the putamen.
+A. In the healthy brain, dopaminergic projections from the sub-
+stantia nigra (SN) innervate the putamen, which in turn activates 
+neurons in the globus pallidus (GP). Pallidal outputs to the brain 
+and spinal cord facilitate movement. The image below shows 
+melanin-rich dopaminergic neurons in human substantia nigra.
+B. In Parkinson disease, the loss of dopaminergic neurons in 
+the substantia nigra deprives the putamen–globus pallidus 
+pathways of their drive. The image beneath the diagram shows 
+the virtual absence of melanin-rich dopaminergic neurons in the 
+substantia nigra of an individual with Parkinson disease.
+C. Direct injection of embryonic dopaminergic neurons into the 
+putamen reactivates the globus pallidus output pathways. The 
+image below shows tyrosine hydroxylase expression in the cell 
+bodies and axons of embryonic mesencephalic dopaminergic 
+neurons grafted into the putamen of a human patient. (Image 
+reproduced, with permission, from Kordower and  
+Sortwell 2000. Copyright © 2000. Published by Elsevier B.V.)
+One is to replace dopaminergic cells that die in 
+Parkinson disease. When transplanted into the stria-
+tum, these neurons release dopamine onto their tar-
+gets without the need to grow long axons or form 
+elaborate synapses (Figure 50–14). Another is to 
+transplant immature inhibitory interneurons from 
+the ganglionic eminences in which they are pro-
+duced (Chapter 46) to the cortex, where they mature 
+and form synapses. By enhancing inhibition, these 
+neurons attenuate the manifestations of disorders in 
+which insufficient inhibitory drive plays a role, such 
+as epilepsy and anxiety.
+Unfortunately, application of these methods to 
+human patients has been fraught with difficulties. One 
+is the difficulty of obtaining and growing develop-
+ing neurons in sufficient numbers and with sufficient 
+purity. Second, it has been challenging to modify neu-
+rons by introducing new genes so as to improve their 
+chances of functioning in a new environment. Third, in 
+many cases, the grafted neurons are already too mature 
+A  Normal
+Spinal
+cord
+GP
+Putamen
+B  Parkinson disease
+C  Recovery 
+SN
+GP
+Putamen
+SN
+Injection of
+DA neurons
+
+
+===== Page 2 =====
+Chapter 50 / Repairing the Damaged Brain    1253
+Figure 50–15  Induced pluripotent stem cells can be repro-
+grammed to generate precursors of many neuronal and 
+glial types.  The precursors can then be transplanted into the 
+brain or spinal cord, where cells complete their differentiation 
+and integrate into functional circuits. (Abbreviations: DA,  
+dopamine; DG, dentate gyrus; NPC, neural progenitor cell; 
+OPC, oligodendrocyte progenitor cell.) (Adapted, with permission, 
+from Wen et al. 2016. Copyright © 2016 Elsevier Ltd.)
+to differentiate properly or to integrate effectively into 
+functional circuits.
+These obstacles can be overcome by transplanting 
+neural precursors into the adult brain where they can 
+go on to differentiate into neurons in a hospitable envi-
+ronment. Several classes of precursors have been trans-
+planted successfully, including neural stem cells and 
+committed precursors. Some initial success has been 
+obtained with embryonic stem (ES) cells. These cells are 
+derived from early blastocyst stage embryos and can 
+give rise to all cells of the body. Because they can divide 
+indefinitely in culture, large numbers of cells can be 
+generated, induced to differentiate, and then engrafted.
+More recently, this technology has been enhanced 
+by the molecular reprogramming of skin fibroblast 
+cells to create induced pluripotent stem (iPS) cells 
+(Figure 50–15). These cells have a distinct advantage 
+over ES cells; embryos are not required for their pro-
+duction, effectively bypassing a minefield of practi-
+cal, political, and ethical concerns that have hindered 
+research using human ES cells. Another advantage of 
+iPS cells is that they can be generated from an indi-
+vidual patient’s own skin cells, neatly avoiding issues 
+of immunological incompatibility. It is also possible to 
+genetically modify the iPS cells in culture by repairing 
+a defective gene before transplantation.
+Because ES and iPS cells have the potential to gener-
+ate any cell type, it is essential that their differentiation 
+be guided along specific pathways in culture before they 
+are transplanted. Methods for generating specific classes 
+of neural precursors, neurons, and glial cells from ES 
+and iPS cells have now been devised (Figure 50–15). 
+Neuronal
+subtypes
+BMP/ TGFβ / WNT
+SHH
+BMP/ TGFβ 
+SHH/WNT/ FGF8
+WNT3a
+BMP/ TGFβ / SHH
+FGF / PDGF-A
+BMP/ TGFβ / SHH
+Treatment
+Progenitor
+cells
+Dorsal forebrain
+NPCs
+Ventral forebrain
+NPCs
+Midbrain floor plate
+NPCs
+Hippocampal
+NPCs
+OPC
+Myelinating
+oligodendrocyte
+Midbrain
+DA neuron
+Cortical GABAergic
+neuron
+Cortical glutamatergic
+neuron
+Hippocampal
+DG granule cell
+Human- induced 
+pluripotent 
+stem cells
+
+
+===== Page 3 =====
+1254    Part VII / Development and the Emergence of Behavior
+Figure 50–16  Induced pluripotent stem cells 
+derived from an individual with amyotrophic 
+lateral sclerosis (ALS) can differentiate into 
+spinal motor neurons. Fibroblasts from the 
+skin of a patient with ALS were used to generate 
+induced pluripotent stem (iPS) cells, which were 
+then directed to a motor neuron fate (see Figure 
+50–15). These cells can be used to analyze mech-
+anisms that underlie motor neuron loss in ALS. 
+The images at right show (from top to bottom) 
+cultured fibroblasts, an iPS cell clump, and differ-
+entiated motor neurons expressing characteristic 
+nuclear transcription factors (green) and axonal 
+proteins (red). (Micrographs reproduced, with 
+permission, from C. Henderson, H. Wichterle,  
+G. Croft, and M. Weygandt.)
+For example, it is possible to generate neurons that pos-
+sess many or all of the properties of the spinal motor 
+neurons that are lost in amyotrophic lateral sclerosis 
+(Figure 50–16) or to generate the dopaminergic neurons 
+lost from the striatum in Parkinson disease and then to 
+engraft such neurons into the spinal cord or brain.
+Although many hurdles need to be overcome, 
+clinical trials using ES and iPS cell-derived neurons 
+are underway. In addition, these cells are being used in 
+chemical screens to identify compounds that counteract 
+the cellular defects that underlie human neurodegenera-
+tive disease.
+Stimulation of Neurogenesis in Regions of Injury 
+May Contribute to Restoring Function
+What if, following injury in adults, endogenous neu-
+ronal precursors could be stimulated to produce 
+neurons capable of replacing those that have been lost? 
+Two sets of recent findings suggest that this idea is not 
+so far-fetched.
+First, precursors capable of forming neurons in 
+culture have been isolated from many parts of the 
+adult nervous system, including the cerebral cortex 
+and spinal cord, even though neurogenesis in adults 
+is ordinarily confined to the olfactory bulb and hip-
+pocampus. This diversion of cell fate led to the idea 
+that neurogenesis in the adult occurs in only a few 
+sites, because only they contain appropriate permissive 
+or stimulatory factors. This hypothesis has spurred a 
+search for such factors, in the hope that they could be 
+used to render a larger range of sites capable of sup-
+porting neurogenesis.
+Second, in a few cases, the generation of new neu-
+rons can be stimulated by traumatic or ischemic injury 
+(akin to stroke), even in areas such as the cerebral cortex 
+Collect 
+skin ﬁbroblasts
+Reprogram 
+skin ﬁbroblasts
+to iPS cells
+Retinoic acid
+Hedgehog
+ALS 
+patient
+Skin 
+ﬁbroblasts
+Motor 
+neurons 
+iPS cells
+
+
+===== Page 4 =====
+Chapter 50 / Repairing the Damaged Brain    1255
+Figure 50–17  Restoration of 
+myelination in the central nervous 
+system by transplanted oligo-
+dendrocyte stem cells. In rodents 
+with demyelinated axons, grafts of 
+oligodendrocyte precursor cells can 
+restore myelination to near normal. 
+Sections through central nerve tracts 
+are shown in the images at right. 
+(Adapted, with permission, from 
+Franklin and ffrench-Constant 2008. 
+Copyright © 2008 Springer Nature.)
+or spinal cord in which neurogenesis normally fails to 
+occur. The fact that recovery after stroke and injury is 
+poor demonstrates that spontaneous compensatory 
+neurogenesis, if it occurs in humans, is insufficient for 
+tissue repair. However, injury-induced neurogenesis 
+has been enhanced in experimental animals in several 
+ways. In one, administration of growth factors pro-
+motes neuronal production from progenitors grown in 
+culture. In another, glial cells that retain the capacity to 
+divide, such as Müller glia in the retina or astrocytes 
+in the cortex, are reprogrammed to differentiate into 
+neurons. If such interventions could be adapted to 
+humans, the range of neurons subject to replacement 
+would be greatly increased.
+Transplantation of Nonneuronal Cells or Their 
+Progenitors Can Improve Neuronal Function
+Cells other than neurons are lost after brain injury. 
+Among the most profound losses are those of oligo-
+dendrocytes, the cells that form the myelin sheath 
+around central axons. The stripping of myelin contin-
+ues long after traumatic injury and contributes to pro-
+gressive loss of function of axons that may not have 
+been injured directly.
+Although the adult brain and spinal cord are capa-
+ble of generating new oligodendrocytes and replacing 
+lost myelin, this production is insufficient to restore 
+function in many cases. Since several common neuro-
+logical diseases, most notably multiple sclerosis, are 
+accompanied by a profound state of demyelination, 
+there is strong interest in providing the nervous sys-
+tem with additional oligodendrocyte precursors in 
+order to augment remyelination.
+Neural stem cells, multipotential progenitors, ES 
+cells, and iPS cells can give rise not only to neurons 
+but also to nonneural cells, including oligodendrocytes 
+and their direct precursors. Indeed, at present, human 
+ES cells are being channeled into oligodendrocyte pro-
+genitor cells and implanted into injured spinal cords of 
+experimental animals. Transplanted cells that differen-
+tiate into oligodendrocytes enhance remyelination and 
+substantially improve the locomotor ability of experi-
+mental animals (Figure 50–17).
+Restoration of Function Is the Aim of  
+Regenerative Therapies
+We need to bear in mind that efforts to replace central 
+neurons or to enhance the regeneration of their axons 
+Demyelination 
+Normal 
+Remyelination
+
+
+===== Page 5 =====
+1256    Part VII / Development and the Emergence of Behavior
+Figure 50–18  Regenerated retinal ganglion axons in the 
+optic nerve can form functional synapses. (Adapted, with 
+permission, from Keirstead et al. 1989. Copyright © 1989 
+AAAS.)
+A. A segment of optic nerve in an adult rat was removed, and 
+a segment of sciatic nerve was grafted in its place. The other 
+end of the sciatic nerve was attached to the superior collicu-
+lus. Some retinal ganglion cell axons regenerated through the 
+sciatic nerve and entered the superior colliculus.
+B. Once the axons of the retinal ganglion neurons had regen-
+erated, recordings were made from the superior colliculus. 
+Flashes of light delivered to the eye elicited action potentials 
+in collicular neurons, demonstrating that at least some regen-
+erated axons had formed functional synapses.
+would be of little use if these axons were unable to 
+form functional synapses with their target cells. The 
+same fundamental questions asked about axon regen-
+eration in adults therefore apply to synaptogenesis: 
+Can it happen, and if not, why not?
+It has been difficult to address these questions 
+because axonal regeneration following experimentally 
+induced injury is usually so poor that the axons never 
+reach appropriate target fields. However, several of the 
+studies discussed earlier in this chapter offer hope that 
+synapse formation is possible within the dense adult 
+neuropil. In fact, axon branches that regenerate follow-
+ing injury can form synapses on nearby targets. For 
+example, Aguayo and his colleagues found that retinal 
+axons were able to regrow into the superior colliculus 
+when they were channeled through a peripheral nerve 
+that had been grafted into the optic nerve (Figure 
+50–18A). Remarkably, some collicular neurons fired 
+action potentials when the eye was illuminated, show-
+ing that functional synaptic connections had been 
+reestablished (Figure 50–18B). More recent studies have 
+promoted regeneration of severed axons by enhancing 
+their intrinsic growth programs, as described above, 
+and observed some restoration of function.
+Likewise, neurons that arise endogenously or 
+are implanted by investigators can form and receive 
+synapses. Thus, there is reason to believe that if injured 
+axons can be induced to regenerate, or new neurons 
+supplied to replace lost ones, they will wire up in ways 
+that help restore lost functions and behaviors.
+Highlights
+  1.  When axons are transected, the distal segment 
+degenerates, a process called Wallerian degen-
+eration. The proximal segment and cell body also 
+undergo changes, as do the injured neuron’s syn-
+aptic inputs and targets.
+  2.  It was long thought that Wallerian degeneration 
+was a passive and inevitable consequence of the 
+distal segment being deprived of sustenance 
+from the cell body, but it is not known to be an 
+active, regulated process. Genes called NMNAT 
+and SARM1 are key components of a core sign-
+aling pathway that controls the process. Inter-
+vention in the pathway can slow or even halt 
+degeneration.
+  3.  Axons can regenerate and form new synapses 
+following injury, but in mammals, regeneration is 
+far more widespread and effective in peripheral 
+axons than in central axons.
+Stimulation
+Graft
+A
+B
+Superior
+colliculus
+Optic nerve
+(removed)
+
+
+===== Page 6 =====
+Chapter 50 / Repairing the Damaged Brain    1257
+  4.  A key factor in the differential response of 
+peripheral and central axons is that the environ-
+ment confronting injured central axons is poor at 
+supporting growth. It both lacks nutritive factors 
+present in the pathway of peripheral nerves and 
+contains growth-inhibitory factors absent from 
+peripheral nerves.
+  5.  Structures that inhibit regeneration include 
+myelin fragments that persist following Walle-
+rian degeneration and astrocytes that form glial 
+scars at injury sites. Inhibitory factors in myelin 
+include Nogo and myelin-associated glycopro-
+tein. Inhibitory factors secreted by astrocytes 
+include chondroitin sulfate proteoglycans.
+  6.  Central regeneration is also hindered by intrin-
+sic decreased ability of adult central neurons 
+to grow, due to downregulation of growth pro-
+grams active during development. Interven-
+tions that restore or disinhibit growth pathways, 
+such as JAK/STAT and mTOR signaling, enable 
+regeneration.
+  7.  However, it is important to note that the failure 
+of regeneration following injury may be related 
+to the stabilization of connections that occurs at 
+the end of critical periods. For example, myelina-
+tion, which occurs largely at the end of a critical 
+period, may have the secondary effect of prevent-
+ing further, large-scale rearrangement of synap-
+tic connections. Thus, caution will be needed to 
+ensure that treatments aimed at fostering recov-
+ery following injury do not end up promoting 
+formation of maladaptive circuits.
+  8.  Another approach for restoring function fol-
+lowing damage is to harness the ability of intact 
+axons to form new connections, generating adap-
+tive circuits that can compensate to some extent 
+for those lost to injury.
+  9.  The traditional view that all neurogenesis occurs 
+during or shortly after gestation has now been 
+modified by the discovery that new neurons are 
+born throughout life in a few brain areas. These 
+neurons arise from resident stem cells and can 
+integrate into functional circuits.
+10.  Cells capable of forming new neurons are also 
+present in many other areas of the brain and 
+spinal cord but remain quiescent. Attempts to 
+activate them by providing growth factors or 
+introducing growth-promoting genes (tran-
+scriptional reprogramming) could harness their 
+potential following injury or in neurodegenera-
+tive disease.
+11.  Another approach to neuronal replacement is 
+to implant developing neurons. Although fetal 
+neurons are sometimes used for this purpose in 
+experimental animals, a more useful source may 
+be neurons derived from ES or iPS cells. They can 
+be grown in large quantities, genetically modi-
+fied if necessary, and treated to differentiate into 
+specific neuronal types. Clinical studies using 
+this approach are now beginning.
+ Joshua R. Sanes 
+Selected Reading
+Benowitz LI, He Z, Goldberg JL. 2017. Reaching the brain: 
+advances in optic nerve regeneration. Exp Neurol 
+287:365–373.
+Dell’Anno MT, Strittmatter SM. 2017. Rewiring the spinal 
+cord: direct and indirect strategies. Neurosci Lett 652: 
+625–634.
+Gerdts J, Summers DW, Milbrandt J, DiAntonio A. 2016. 
+Axon self-destruction: new links among SARM1, MAPKs, 
+and NAD+ metabolism. Neuron 89:449–460.
+He Z, Jin Y. 2016. Intrinsic control of axon regeneration. Neuron 
+90:437–451.
+Magnusson JP, Frisén J. 2016. Stars from the darkest night: 
+unlocking the neurogenic potential of astrocytes in differ-
+ent brain regions. Development 143:1075–1086.
+McComish SF, Caldwell MA. 2018. Generation of defined 
+neural populations from pluripotent stem cells. Philos 
+Trans R Soc Lond B Biol Sci 373:pii: 20170214.
+Zhao C, Deng W, Gage FH. 2008. Mechanisms and functional 
+implications of adult neurogenesis. Cell 132:645–660.
+References
+Alilain WJ, Horn KP, Hu H, Dick TE, Silver J. 2011. Func-
+tional regeneration of respiratory pathways after spinal 
+cord injury. Nature 475:196–200.
+Altman J. 1969. Autoradiographic and histological stud-
+ies of postnatal neurogenesis. IV. Cell proliferation and 
+migration in the anterior forebrain, with special reference 
+to persisting neurogenesis in the olfactory bulb. J Comp 
+Neurol 137:433–457.
+Altman J, Das GD. 1965. Autoradiographic and histological 
+evidence of postnatal hippocampal neurogenesis in rats.  
+J Comp Neurol 124:319–335.
+Bareyre FM, Kerschensteiner M, Raineteau O, Mettenleiter 
+TC, Weinmann O, Schwab ME. 2004. The injured spinal 
+cord spontaneously forms a new intraspinal circuit in 
+adult rats. Nat Neurosci 7:269–277.
+Bei F, Lee HHC, Liu X, et al. 2016. Restoration of visual func-
+tion by enhancing conduction in regenerated axons. Cell 
+164:219–232.
+
+
+===== Page 7 =====
+1258    Part VII / Development and the Emergence of Behavior
+Beirowski B, Berek L, Adalbert R, et al. 2004. Quantitative 
+and qualitative analysis of Wallerian degeneration using 
+restricted axonal labelling in YFP-H mice. J Neurosci 
+Methods 134:23–35.
+Bradbury EJ, McMahon SB. 2006. Spinal cord repair strate-
+gies: why do they work? Nat Rev Neurosci 7:644–653.
+Bradbury EJ, Moon LD, Popat RJ, et al. 2002. Chondroitinase 
+ABC promotes functional recovery after spinal cord 
+injury. Nature 416:636–640.
+Caroni P, Schwab ME. 1988. Antibody against myelin-
+associated inhibitor of neurite growth neutralizes nonper-
+missive substrate properties of CNS white matter. Neuron 
+1:85–96.
+Conforti L, Gilley J, Coleman MP. 2014. Wallerian degenera-
+tion: an emerging axon death pathway linking injury and 
+disease. Nat Rev Neurosci 15:394–409.
+David S, Aguayo AJ. 1981. Axonal elongation into peripheral 
+nervous system “bridges” after central nervous system 
+injury in adult rats. Science 214:931–933.
+Dimos JT, Rodolfa KT, Niakan KK, et al. 2008. Induced pluri-
+potent stem cells generated from patients with ALS can be 
+differentiated into motor neurons. Science 321:1218–1221.
+Duan X, Qiao M, Bei F, Kim IJ, He Z, Sanes JR. 2015. Subtype-
+specific regeneration of retinal ganglion cells following 
+axotomy: effects of osteopontin and mTOR signaling. 
+Neuron 85:1244–1256.
+Essuman K, Summers DW, Sasaki Y, Mao X, DiAntonio A, 
+Milbrandt J. 2017. The SARM1 toll/interleukin-1 recep-
+tor domain possesses intrinsic NAD+ cleavage activity 
+that promotes pathological axonal degeneration. Neuron 
+93:1334–1343.
+Ferri A, Sanes JR, Coleman MP, Cunningham JM, Kato AC. 
+2003. Inhibiting axon degeneration and synapse loss 
+attenuates apoptosis and disease progression in a mouse 
+model of motoneuron disease. Curr Biol 13:669–673.
+Franklin RJ, ffrench-Constant C. 2008. Remyelination in 
+the CNS: from biology to therapy. Nat Rev Neurosci 
+9:839–855.
+Galtrey CM, Fawcett JW. 2007. The role of chondroitin sulfate 
+proteoglycans in regeneration and plasticity in the central 
+nervous system. Brain Res Rev 54:1–18.
+Gerdts J, Brace EJ, Sasaki Y, DiAntonio A, Milbrandt J. 2015. 
+SARM1 activation triggers axon degeneration locally via 
+NAD+ destruction. Science 348:453–457.
+Gerdts J, Summers DW, Sasaki Y, DiAntonio A, Milbrandt J. 
+2013. Sarm1-mediated axon degeneration requires both 
+SAM and TIR interactions. J Neurosci 33:13569–13580.
+Goldman SA, Kuypers NJ. 2015. How to make an oligoden-
+drocyte. Development 142:3983-3995.
+Guo Z, Zhang L, Wu Z, Chen Y, Wang F, Chen G. 2014. In 
+vivo direct reprogramming of reactive glial cells into 
+functional neurons after brain injury and in an Alzheimer’s  
+disease model. Cell Stem Cell 14:188–202.
+Imayoshi I, Sakamoto M, Ohtsuka T. 2008. Roles of continu-
+ous neurogenesis in the structural and functional integ-
+rity of the adult forebrain. Nat Neurosci 10:1153–1161.
+Jorstad NL, Wilken MS, Grimes WN, et al. 2017. Stimulation 
+of functional neuronal regeneration from Müller glia in 
+adult mice. Nature 548:103–107.
+Keirstead HS, Nistor G, Bernal G, et al. 2005. Human embry-
+onic stem cell-derived oligodendrocyte progenitor cell 
+transplants remyelinate and restore locomotion after spi-
+nal cord injury. J Neurosci 25:4694–4705.
+Keirstead SA, Rasminsky M, Fukuda Y, Carter DA, Aguayo 
+AJ, Vidal-Sanz M. 1989. Electrophysiologic responses in 
+hamster superior colliculus evoked by regenerating reti-
+nal axons. Science 246:255–257.
+Kordower J, Sortwell C. 2000. Neuropathology of fetal 
+nigra transplants for Parkinson’s disease. Prog Brain Res 
+127:333–344.
+Lim DA, Alvarez-Buylla A. 2016. The adult ventricular-
+subventricular zone (V-SVZ) and olfactory bulb (OB) 
+Neurogenesis. Cold Spring Harb Perspect Biol 8:pii: a018820.
+Lois C, Alvarez-Buylla A. 1994. Long-distance neuronal 
+migration in the adult mammalian brain. Science 264: 
+1145–1148.
+Mack TGA, Reiner M, Beirowski B, et al. 2001. Wallerian 
+degeneration of injured axons and synapses is delayed by 
+a Ube4b/Nmnat chimeric gene. Nat Neurosci 4:1199–1206. 
+Magavi SS, Leavitt BR, Macklis JD. 2000. Induction of neuro-
+genesis in the neocortex of adult mice. Nature 405:951–955.
+Magnusson JP, Göritz C, Tatarishvili J, et al. 2014. A latent 
+neurogenic program in astrocytes regulated by Notch 
+signaling in the mouse. Science 346:237–241.
+Maier IC, Schwab ME. 2006. Sprouting, regeneration and 
+circuit formation in the injured spinal cord: factors and 
+activity. Philos Trans R Soc Lond B Biol Sci 361:1611–1634.
+Osterloh JM, Yang J, Rooney TM, et al. 2012. dSarm/Sarm1 
+is required for activation of an injury-induced axon death 
+pathway. Science 337:481–484.
+Schwab ME, Thoenen H. 1985. Dissociated neurons regener-
+ate into sciatic but not optic nerve explants in culture irre-
+spective of neurotrophic factors. J Neurosci 5:2415–2423.
+Schwegler G, Schwab ME, Kapfhammer JP. 1995. Increased 
+collateral sprouting of primary afferents in the myelin-
+free spinal cord. J Neurosci 15:2756–2767.
+Smith PD, Sun F, Park KK, et al. 2009. SOCS3 deletion 
+promotes optic nerve regeneration in vivo. Neuron 
+64:617–623.
+Sohur US, Emsley JG, Mitchell BD, Macklis JD. 2006. Adult 
+neurogenesis and cellular brain repair with neural pro-
+genitors, precursors and stem cells. Philos Trans R Soc 
+Lond B Biol Sci 361:1477–1497.
+Southwell DG, Nicholas CR, Basbaum AI, et al. 2014. 
+Interneurons from embryonic development to cell-based 
+therapy. Science 344:1240622.
+Takahashi K, Tanabe K, Ohnuki M, et al. 2007. Induction of 
+pluripotent stem cells from adult human fibroblasts by 
+defined factors. Cell 131:861–872.
+Takahashi K, Yamanaka S. 2006. Induction of pluripotent 
+stem cells from mouse embryonic and adult fibroblast 
+cultures by defined factors. Cell 126:663–676.
+
+
+===== Page 8 =====
+Chapter 50 / Repairing the Damaged Brain    1259
+Tavazoie M, Van der Verken L, Silva-Vargas V, et al. 2008. A 
+specialized vascular niche for adult neural stem cells. Cell 
+Stem Cell 3:279–288.
+Thuret S, Moon LD, Gage FH. 2006. Therapeutic inter-
+ventions after spinal cord injury. Nat Rev Neurosci 7: 
+628–643.
+Torper O, Ottosson DR, Pereira M, et al. 2015. In vivo repro-
+gramming of striatal NG2 glia into functional neurons 
+that integrate into local host circuitry. Cell Rep 12:474–481.
+Wen Z, Christian KM, Song H, Ming GL. 2016. Modeling psy-
+chiatric disorders with patient-derived iPSCs. Curr Opin 
+Neurobiol 36:118–127.
+Wernig M, Zhao JP, Pruszak J, et al. 2008. Neurons derived from 
+reprogrammed fibroblasts functionally integrate into the 
+fetal brain and improve symptoms of rats with Parkinson’s 
+disease. Proc Natl Acad Sci U S A 105:5856–5861.
+Winkler C, Kirik D, Bjorklund A. 2005. Cell transplantation 
+in Parkinson’s disease: how can we make it work? Trends 
+Neurosci 28:86–92.
+Yiu G, He Z. 2006. Glial inhibition of CNS axon regeneration. 
+Nat Rev Neurosci 7:617–627.
+Zhou FQ, Snider WD. 2006. Intracellular control of develop-
+mental and regenerative axon growth. Philos Trans R Soc 
+Lond B Biol Sci 361:1575–1592.
+
+
+===== Page 9 =====
+51
+Sexual Differentiation of the Nervous System
+The physical differences between men and women 
+that underlie partner recognition and reproduction are 
+obvious to all of us, and their developmental origins 
+are well understood. In contrast, our understanding of 
+behavioral differences between the sexes is primitive. 
+In many cases, their very existence remains contro-
+versial, and the origins of those that have been clearly 
+demonstrated remain unclear.
+In this chapter, we first briefly summarize the 
+embryological basis of sexual differentiation. We then 
+discuss at greater length the behavioral differences 
+between the two sexes, focusing on those differences 
+or dimorphisms for which some neurobiological basis 
+has been found. These dimorphisms include physio-
+logical responses (erection, lactation), drives (maternal 
+behavior), and even more complex behaviors (gender 
+identity). In analyzing these dimorphisms, we will dis-
+cuss three issues.
+First, what are the genetic origins of sexual differ-
+ences? Human males and females have a complement 
+of 23 chromosomal pairs, and only one differs between 
+the sexes. Females have a pair of X chromosomes (and 
+are therefore XX), whereas males have one copy of 
+the X chromosome paired with a Y chromosome (XY). 
+The other 22 chromosome pairs, called autosomes, are 
+shared between males and females. We will see that 
+the initial genetic determinants arise from a single gene 
+on the Y chromosome, while later ones arise indirectly 
+from sex-specific patterns of expression imposed upon 
+other genes as development proceeds.
+Second, how are sexual differences initiated by the 
+Y chromosome translated into differences between the 
+brains of men and women? We will see that key inter-
+mediates are the sex hormones, a set of steroids that 
+Genes and Hormones Determine Physical Differences 
+Between Males and Females
+Chromosomal Sex Directs the Gonadal Differentiation of 
+the Embryo
+Gonads Synthesize Hormones That Promote  
+Sexual Differentiation
+Disorders of Steroid Hormone Biosynthesis Affect  
+Sexual Differentiation
+Sexual Differentiation of the Nervous System Generates 
+Sexually Dimorphic Behaviors
+Erectile Function Is Controlled by a Sexually Dimorphic 
+Circuit in the Spinal Cord
+Song Production in Birds Is Controlled by Sexually 
+Dimorphic Circuits in the Forebrain
+Mating Behavior in Mammals Is Controlled by a Sexually 
+Dimorphic Neural Circuit in the Hypothalamus
+Environmental Cues Regulate Sexually Dimorphic Behaviors
+Pheromones Control Partner Choice in Mice
+Early Experience Modifies Later Maternal Behavior
+A Set of Core Mechanisms Underlies Many Sexual 
+Dimorphisms in the Brain and Spinal Cord
+The Human Brain Is Sexually Dimorphic
+Sexual Dimorphisms in Humans May Arise From 
+Hormonal Action or Experience
+Dimorphic Structures in the Brain Correlate with Gender 
+Identity and Sexual Orientation
+Highlights
+F
+ew words are more loaded with meaning than 
+the word “sex.” Sexual activity is a biological 
+imperative and a major human preoccupation. 
+
+

@@ -1,0 +1,948 @@
+===== Page 1 =====
+Appendix A
+Passive Membrane
+Parameters
+A vexing and confusing question concerns the use of the all-important membrane parameters
+R¡, Cm, and Rm and their associated units.
+A.1 Intracellular Resistivity R¡
+In physics, the amount of resistance a piece of bulk material offers to electrical current
+flowing across the material is characterized by its specific resistivity p\ its units are ohms-
+centimeter (Ω-cm). If the piece of material has a constant cross section A and length £, its
+total resistance will be
+(A.I)
+In biophysics, the specific resistance of the intracellular medium, also known as the
+intracellular resistivity, is denoted by /?,·, which can be thought of as the total resistance
+across a 1 cm cube of intracellular cytoplasm.
+Given a cylindrical axon or dendrite of diameter d and length €, its total resistance will
+be 4/?,·£/ττί/
+2 and its resistance per unit length € of cable,
+(A.2)
+Conversely, given a neural process with axial resistance per unit length ra, the total axial
+resistance will be tra. The units of ra are ohms per centimeter (Ω/cm).
+The resistivity of seawater, from where we all came half a billion years ago, is 20 Ω-cm,
+that of mammalian saline about 60, and that of physiological Ringer solution 80 Ω-cm. This
+is not surprising, since the resistivity decreases as salts are added to a solution. Computing
+the intracellular resistivity on the basis of the Nernst-Planck electrodiffusion equation yields
+33.4 Ω-cm for K
++ ions and 267 Ω-cm for Na
++ ions (Eq. 11.33). Under the assumption that
+these are the dominant charge carriers, this leads to a final value of /?,· = 29.7 Ω-cm (see
+Sec. 11.3.1).
+Because the intracellular environment contains many structures in addition to electrolyte,
+such as endoplasmic reticulum, the cytoskeleton, the Golgi apparatus, and so on, that restrict
+charge redistribution within neurons, the above cited values set a lower bound on the true
+481
+
+
+===== Page 2 =====
+482 · PASSIVE MEMBRANE PARAMETERS
+value of /?,· in neurons. The value of /?,· conventionally used is in the 70-100 Ω-cm range,
+based on measurements in neurons and axons of marine invertebrates (Foster, Bidinger,
+and Carpenter, 1976; Gilbert, 1975) and on data taken from cat motoneurons (Barrett and
+Crill, 1974)
+However, much higher values have been reported. Neher (1970) directly measured a
+value of 180 Ω -cm for the resistivity of the cell body of snail neurons, while Shelton (1985)
+and Segev et al., (1992) require values of 225-250 Ω-cm for cerebellar Purkinje cells in
+order to fit various experimentally observed records, such as pulse attenuation and input
+resistance, against detailed cable models.
+In a careful study of this problem using in vitro cortical pyramidal cells recorded and
+stained with sharp intracellular electrodes and whole-cell patch pipettes, Major (1992; see
+also Major, Evans, and Jack, 1993a) concludes that a good match between his physiological
+records and a detailed cable model requires a R¡ in the 200-300 Ω-cm range (see also
+Spruston and Johnston, 1992, and Spruston, Jaffe, and Johnston, 1994). Tissue shrinkage
+during the histological recovery of the cell's anatomy does, however, affect these numbers.
+After decreasing the diameters of all dendrites by 20% while simultaneously increasing all
+lengths by 20% to invert the effect of shrinkage, Major and his colleagues infer a reduced
+value of R¡ = 187 Ω-cm.
+A.2 Membrane Resistance Rm
+The passive membrane resistivity, that is, the resistance associated with a unit area of
+membrane, of the electrical component of the neuronal membrane that does not depend on
+synaptic input or on the membrane potential is denoted by Rm, measured in units of ohms-
+square centimeter (Ω-cm
+2). Its inverse is known as the passive conductance per unit area
+of dendritic membrane or, for short, as the leak conductance Gm = l/Rm and is measured
+in units of Siemens per square centimeter (S/cm
+2).
+The molecular correlate of this leak conductance is not precisely known. A pure phos-
+pholipid in saline solution has an extremely high resistance of up to ΙΟ
+15 Ω - cm
+2 (Hille,
+1992). Since measured membrane resistances are considerably lower, some mechanism has
+to permit ions to pass across the membrane.
+The evidence for voltage-independent "leak" channels is not strong. Patch-clamp studies
+of frog sympathetic neurons reveal a nearly ohmic region between —70 and —110 mV
+(Jones, 1989). The underlying conductance is only weakly voltage dependent and is
+insensitive to blockers that block other known conductances in the cell. After adjusting for
+a 10 mV contribution of the sodium-potassium pump, the remainder of the "leak" current
+is carried by potassium ions and reverses around —65 mV. Evidence from hippocampal
+pyramidal cells suggests a very weakly voltage-dependent potassium current that is active
+at rest and that can be blocked by cholinergic input (Madison, Lancaster, and Nicoll, 1987).
+In a cylindrical fiber of length I and cross section A — πάί, the membrane resistance
+per unit length of fiber is defined as
+(A.3)
+in units of Ω -cm. The total membrane resistance in a fiber of length € is identical to rm ft. Rm
+varies widely from preparation to preparation, with the quality of the intracellular recording,
+with the amount of synaptic input to the cell, and other parameters. As intracellular recording
+techniques become more mature and sophisticated, the estimates of Rm increase.
+
+
+===== Page 3 =====
+A.3 Membrane Capacitance Cm 
+· 483
+Note that the "effective" specific resistivity associated with the membrane, on the order
+of 10
+5 Q-cm
+2/4Q A= 2.5 χ ΙΟ
+11 Ω-cm, is approximately one billion times larger than
+that of the intracellular fluid, explaining why by far the largest fraction of the cytoplasmic
+current flows within the dendrite or axon rather than across the membrane.
+A.3 Membrane Capacitance c,,,
+The capacitance of the neuronal membrane is characterized by the specific capacitance per
+unit area Cm, measured in units of farads per square centimeter (F/cm
+2). The generally
+agreed upon value for Cm is 1 μΡ/cm
+2. This amounts to 10~
+7 coulomb (C) charge being
+distributed on both sides of a 1 cm
+2 piece of neuronal membrane in the presence of a 100 mV
+voltage difference across the membrane. Assuming a parallel plate capacitor configuration
+and a dielectric constant of 2.1 for the hydrocarbon chains making up the bilipid layers, this
+implies a separation of 23 A (Hille, 1992). Hence, the reason for the slow time constants
+in the millisecond time range is the molecular dimension of the neuronal membrane.
+It is intriguing to compare the biological value of Cm against the capacitance in the analog
+CMOS circuit technology used to design neuromorphic electronic circuits (Mead, 1989;
+Mahowald and Douglas, 1991; Douglas, Mahowald, and Mead, 1995). Here, a capacitance
+is created by separating two layers of polysilicon with a 40-nm-thick layer of silicon oxide.
+The specific capacitance is about 0.5 μΡ/cm
+2, about 20 times lower than its biological
+counterpart (compatible with the larger separation between the two layers). The higher value
+of Cm in biology is partly compensated for by the fact that the voltages across membranes
+(on the order of 0.1 V) are much smaller than the typical gate voltages of around 5 V in
+electronic circuits. Ultimately, this is due to the multiple gating charges of the voltage-
+dependent channels (see Chap. 8) allowing them to work on a much steeper exponential
+than transistors.
+The 1 μΡ/cm
+2 value of Cm appears to be somewhat of an overestimate. The membrane
+capacitance of a pure bilayer lipid membrane without proteins is between 0.6 and 0.8 /¿F/cm2
+(Cole, 1972; Fettiplace, Andrews, and Haydon, 1971; Benz et al., 1975), placing a lower
+bound on Cm. Mammalian red blood cells have a measured Cm of between 0.8 and
+0.9 μΡ/cm
+2. The "traditional" value of unity for Cm is based on the membrane of the
+squid giant axon and includes the nonlinear capacitances associated with the gating currents
+(for a discussion see Adrian, 1975). In a detailed investigation on dissociated hippocampal
+pyramidal cells, Sah, Gibb, and Gage (1988) report Cm = 1.0 ± 0.2 μΡ/cm
+2, while a
+more recent investigation of neocortical pyramidal cells finds values between 0.65 and
+0.8 μΡ/cm
+2 (Major, 1992).
+A further complication are membrane invaginations and foldings which can multiply
+the effective membrane area—and therefore Cm—manyfold (as for instance in bullfrog
+sympathetic ganglion cells, where Cm = 3 μΡ/cm
+2 has been inferred from the measured
+total cell capacitance and the area of these spherical cells (Yamada, Koch, and Adams,
+1998; see also Segev et al., 1992).
+Frequently, one defines
+(A.4)
+as capacitance per unit fiber of diameter d (in units of F/cm), in analogy to rm. The total
+capacitance of all of the membrane in a process of length t is given by cml.
+
+
+===== Page 4 =====
+Appendix B
+A Miniprimer on Linear
+Systems Analysis
+For those readers who forgot linear systems analysis, crucial to this book, we here provide
+the briefest of reviews.
+A system is always linear or nonlinear with respect to some particular input and output
+variable. Indeed, the same physical system can be linear when using one sort of input-output
+pairing and nonlinear when considering a different one. If we restrict ourselves to the case
+when the input and output variables are single-valued functions of time, termed x(t) and
+y(t), respectively, then for a system L, defined as
+y(f) = L[je(f)] 
+(B.I)
+to be linear, it must obey two constraints. Firstly, it must be homogeneous, that is,
+(B.2)
+For instance, doubling the input should double the output. Secondly, the system must also
+be additive,
+L[*i(0 + Jt2(f)] = L[jd(f)] + L[*2(0] · 
+(B.3)
+The response of the system to the sum of two inputs is given by the sum of the responses to the
+individual inputs. These two properties are sometimes also summarized in the superposition
+principle, expressed as
+(B.4)
+A further property that some (not all) linear systems possess is shift or time invariance;
+in other words, if the input is delayed by some Δί, the output will be delayed by the same
+interval. A linear system is shift invariant if and only if
+y(t)=L[x(t)] 
+implies y(t - f,) = L[x(f - fj)]. 
+(B.5)
+If a system possesses these three properties, then its entire behavior can be summarized
+by its response to an impulse or delta function <5(f)·' The impulse response or Green's
+function of the system is exactly what its name imples, namely, the response of the system
+to an impulse,
+1. The delta, unit, or Dirac "function" is defined by being zero for all values of Í except at the origin, where it diverges. It
+has the immensely useful property that f_™ f(t)S(t)dt 
+= f(0).
+484
+
+
+===== Page 5 =====
+A Miniprimer on Linear Systems Analysis 
+· 485
+(B.6)
+Any input signal can be treated as an infinite sum of appropriately shifted and scaled
+impulses, or
+(B-7)
+The properties of homogeneity, additivity, and shift invariance ensure that the response
+to any arbitrary input x(t) can be obtained by summing over appropriately shifted and
+scaled responses to an impulse function (or, equivalently, the output is a weighted sum of
+its inputs). In short,
+(B.8)
+The shorthand form of this integral operation, known as a convolution, is *, as in
+(B-9)
+We conclude that once we know h(t), the response of a linear system to an impulse, the
+response to an arbitrary input waveform can be obtained by the linear convolution operation.
+Before we end this short digression, we briefly want to remind the reader of another way
+to analyze time-invariant linear systems, namely, by using sinusoidal inputs. If the input
+to a linear system is a sinusoidal wave of a particular frequency / (in hertz), the output is
+another sinusoidal of the same frequency but shifted in time and scaled,
+(B.10)
+The function A ( f ) is known as the amplitude response and determines how much the output
+is scaled for an input at frequency /, while the phase φ (/) determines by how much the
+sinusoidal wave at the output is shifted in time with respect to the input.
+Any input can always be represented as a sum of shifted and scaled sinusoidals. For
+a linear system, the impulse response function and the amplitude and phase functions are
+closely related by way of the Fourier transform. The Fourier transform of the impulse
+response function h(t) is
+(B.ll)
+The amplitude of this filter h ( f ) corresponds to the amplitude of the Fourier transform of
+the impulse response function. Note that h ( f ) (throughout the book, the h symbol denotes
+the Fourier transform of some function h) is a complex function. We then have
+(B.12)
+The reason we frequently talk in this book about the input being "filtered" by the filter
+function h ( f ) is that formally the output can be obtained by convolving (another name for
+filtering) the input by the filter function. In the frequency space representation, convolution
+is turned into a straight multiplication, and Eq. B.8 can be rewritten as
+(B.13)
+As emphasized before, when discussing linearity it is crucial to discuss with respect to what
+variable. There are a number of instances in which neurobiological systems can be treated,
+
+
+===== Page 6 =====
+486 
+· 
+A MINIPRIMER ON LINEAR SYSTEMS ANALYSIS
+to some degree of approximation, by linear systems analysis. Prominent examples are linear
+cable theory, when the input is current and the output voltage (but not when the input is a
+conductance change; see Chap. 1), or receptive field analysis of retinal or cortical neurons
+in the visual system (Palmer, Jones, and Stepnoski, 1991). Here, the input is usually the
+stimulus contrast and the output the mean firing rate.
+Certain nonlinear systems can frequently be treated as a linear system with the addition
+of a simple type of static nonlinearities, such as a threshold (Palm, 1978; French and
+Korenberg, 1989).
+A perhaps surprising linear system is the one that relates a continuous input, call it
+μ(0, to a continuous firing rate f ( t ) via a spiking process. The input, suitably scaled,
+can be thought of as input into an integrate-and-fire unit (Chap. 14) with no leak and no
+refractory period. The threshold for generating spikes Vth is not fixed but is some probability
+distribution pa¡(V) (Gestri, 1971; Gabbiani and Koch, 1997): every time a spike has been
+generated the threshold is set to a new value drawn from p^V).2
+For any input μ(ί) this unit generates a particular random spike train sequence, ab-
+breviated here as J3; 5(f — í¡)· Obviously, the relationship between the continuous input
+μ(ί) and the discrete spike train is highly nonlinear. However, let us assume a population
+of independent but otherwise identically integrate-and-fire units with identical distributed
+voltage thresholds. If all receive the same input μ(ί) one can average, as discussed in
+Sec. 14.1, over this ensemble and define an instantaneous output rate /(().
+It can be proven (Gestri, 1971) that varying the input by αμ(?) changes the instantaneous
+firing rate of this fictive population of cells by af(t). In other words, the relationship
+between the input and the instantaneous output rate is a linear one.
+2. If pth(V) is exponentially distributed, the spikes generated by this process have the convenient property that they are
+Poisson distributed (Chap. 15).
+
+
+===== Page 7 =====
+Appendix C
+Sparse Matrix Methods for
+Modeling Single Neurons
+Barak A. Pearlmutter and Anthony Zador
+In this appendix we describe numerical methods used in the efficient solution of the linear
+and nonlinear cable equations that describe single neuron dynamics. Our exposition is
+limited to the scale of a whole neuron; we will ignore both the simulation of circuits of
+neurons (see, for example, the monographs by Bower and Beeman, 1998 and by Koch and
+Segev, 1998), as well as the simulation of the stochastic equations governing single ion
+channel kinetics (Skaugen and Walloe, 1979; Chow and White, 1996).
+The appendix is divided into two parts. The first deals with the solution of the linear
+component of the cable equation. Since the cable as well as the diffusion equation are linear
+second-order parabolic partial differential equations (PDE), this part draws on techniques
+and principles developed in the many other fields that deal with similar equations, though
+naturally the discussion will focus on those problems of particular interest in neurobiology.
+The theme common to this part is that for the purposes of numerical solution, the cable
+equation is best discretized into a system of ordinary differential equations coupled by sparse
+matrices. The main difficulty is that the resulting equations are stiff, that is, they display
+time scales of very different magnitude; even so it is possible to apply widely available
+and efficient techniques for sparse matrices. The second part deals with the nonlinear
+components of neurodynamics, particularly equations of the Hodgkin-Huxley type and
+those arriving from calcium dynamics. These nonlinearities are surprisingly benign, and
+can readily be handled with a few simple techniques, provided that the linear component is
+treated properly.
+Many of the techniques described are implemented in widely used and freely available
+neural simulators (in particular GENESIS and NEURON; see DeSchutter, 1992; Hiñes, 1998;
+Bower and Beeman, 1998) in a manner that is relatively transparent to the user. Nevertheless,
+there are at least three good reasons for understanding the foundations of these numerical
+methods. Firstly, when such simulators produce surprising—and possibly spurious—results,
+an understanding of their internal workings can help determine whether the numerical
+method is to blame. Secondly, when conducting original research it is inevitable that some
+problem will arise for which the software must be customized. Finally, and most important,
+understanding these techniques provides insight into the underlying neurodynamics itself,
+and hence into the behavior of neurons.
+487
+
+
+===== Page 8 =====
+488 
+· 
+SPARSE MATRIX METHODS FOR MODELING SINGLE NEURONS
+C.1 Linear Cable Equation
+C. 1.1 Unbranched Cables and Tridiagonal Matrices
+Discretization in Space
+The passive cable equation (Eq. 2.7) describes the spread of potential in one dimension
+along an unbranched homogeneous cable,
+(C.I)
+where Gm = l/Rm and J(x, t) is the injected current. (In this appendix, we use J rather
+than / to distinguish it from the identity matrix I below.) For the sake of convenience,
+we set the reversal potential in Eq. C.I to zero; it can be thought of as being absorbed
+into the offset current J(x, t). The membrane parameters Cm, R¡, Gm, and d are assumed
+to be independent of position along the cable. Note that the subscript on the intracellular
+resistivity R¡ is not used here as a numerical index. We now discretize this partial differential
+equation in space by replacing the second spatial derivative with its simplest, second-order
+discrete approximation,
+(C.2)
+resulting in the system of coupled, ordinary differential equations
+(C.3)
+Here V¿ = V(x¡,t) and J¡ = J(x¡,t) denote, respectively, the membrane potential
+and injected current, at some point x¡, where i is the discretization index, and the time
+variable t has been suppressed. Physically, these indices correspond to the locations along
+the cable—the nodes or compartments—at which the voltage is specified (see Fig. 2.2B).
+The resulting system of coupled ordinary differential equations can be written compactly
+in matrix form as
+(C.4)
+where the matrix Β is given by
+(C-5)
+with ψ· — £//(47?¡Ajt2). Here Β' is a tridiagonal second difference matrix with elements
+—2 along the diagonal and +1 off the diagonal
+(C.6)
+and C and G are diagonal matrices with Cm and Gm, respectively, along their diagonals
+(that is, scalar multiples of the identity matrix). Since the matrices C and G are diagonal,
+
+
+===== Page 9 =====
+C.1 Linear Cable Equation · 489
+they do not contribute to the interaction between equations; coupling is exclusively through
+B'. This is consistent with our physical expectations, since points along the cable interact
+only through the second spatial derivative (scaled by the effective axial R¡) captured in B'.
+As discussed in detail below, the corner elements of this matrix determine the boundary
+conditions, which here correspond to V(x) = 0 at the boundaries—the killed-end or
+Dirichlet condition, which we have choosen here for the sake of convenience (Sec. C.I.3).
+For the sealed-end or von Neumann boundary condition, we have dV/dx = 0 at the
+boundary, and B' takes slightly different values in the upper and lower rows. Although the
+von Neumann condition arises more often, here we consider only the Dirichlet condition
+because it gives rise to a simpler form.
+This set of coupled differential equations is (almost) the same set that arises from a
+network of discrete passive electrical components, for instance, the one shown in Figs. 2.3
+and 3.4B. This is no coincidence. Another way to arrive at this set of equations is to first
+approximate the spatially continuous electrical structure specified by Eq. C. 1 with a discrete
+electrical network that approximates its properties. As we shall see, however, the analogy
+with a discrete electrical circuit breaks down at the endpoints of the cable, so care must be
+taken to ensure the exact boundary conditions.
+Eigenvalue Analysis
+It is helpful to analyze the behavior of Eq. C.4 in terms of the eigenvalues of B. For
+now we neglect the injected current term. We will first consider the eigenvalues of B'—the
+second difference matrix from which B is derived—and then consider the eigenvalues of B
+itself. Recall that the eigenvalues mz of any matrix B are those numbers that satisfy
+(C.7)
+where V(z) is the eigenvector corresponding to the z-th eigenvalue. For an η χ η matrix Β'
+there are η eigenvalues and η associated eigenvectors, and the index ζ ranges from 1 to n.
+We show below that the eigenvalues of the second difference matrix B' are given by
+(C.8)
+and the corresponding eigenvectors are
+(C.9)
+The two sides are proportional rather than equal, since we are free to choose the magnitude
+of the right-hand side: any multiple of an eigenvector is itself and eigenvector. If the
+eigenvectors are scaled so that | |V
+(z)
+ 11 = 1, then the solutions to Eq. C.4 can be expressed
+as a sum of exponentials,
+(C.10)
+where V¡ 
+is the ι'-th component of the z-th eigenvector, and rz' the reciprocal of the
+
+
+===== Page 10 =====
+490 
+· 
+SPARSE MATRIX METHODS FOR MODELING SINGLE NEURONS
+corresponding eigenvalue.1 The constants c\,..., cn are determined by the projection of
+the initial conditions V¡ (0) onto the eigenvectors,
+(C.ll)
+or c = MrVo. This last expression holds since the eigenvectors of the symmetric matrix
+Β are orthogonal. If we denote by Μ the matrix that has the eigenvectors in Eq. C.9 as its
+columns, then the vector solution in Eq. C.10 can be rewritten compactly in matrix form as
+(C.12)
+where VQ is the vector of initial conditions and m' is the vector of eigenvalues.
+These equations tell us several things. (1) The eigenvalues appear as the time constants
+in a sum of exponentials. This sum represents the decay of voltage with time. It is precisely
+these time constants that are "peeled" in the classical Rail analysis of electrotonic structure
+(see Sec. 2.3.2). Second, the eigenvalues m'z range from m'j = — 2 + 2cos[jr/(n + l)] < 0
+tom'n — —2+ 2cos[njr/(n + 1)] > —4. (2) The smallest eigenvalue m\ of Bis just less
+than 0, so the solution always decays to 0, even in the absence of a membrane leak term;
+this is due to the killed-end boundary condition we are considering. For the sealed-end case,
+the matrix is conservative for Gm = 0, charge only redistributes spatially without net loss
+or gain, so 0 is an eigenvalue (that is, the voltage decays to a constant). (3) Finally, note
+that the end elements V\ and Vn do not equal zero, contrary to what we might expect from
+the boundary conditions. Only when we consider the "phantom" elements at i = 0 and
+ι = η + 1 do we see that the boundary conditions, VQ = 0 and Vn+\ = 0, are satisfied.
+How do the eigenvalues of Β—which is the operator that governs the physical behavior
+of the cable equation—relate to those of B'? In general, if the eigenvalues of a matrix Β are
+mz, then the eigenvalues of (B — b\)/c, where I is the identity matrix, are (mz — b)/c; the
+eigenvectors remain unchanged. The dependence on b is called the shifting property? The
+eigenvalues mz can be obtained from those of the second difference matrix (Eq. C.8),
+(C.13)
+where as before ζ ranges from 1 to n. For B, the smallest eigenvalue (associated with
+z — 1) is just larger than Gm/Cm (since cos[;rz/(n + !)]-> 1 for large n), which
+is just the inverse of the membrane time constant. The largest eigenvalue is just smaller
+than 4i/f/Cm + Gm/Cm (for large n). However, in a cable of fixed length as the number of
+compartments becomes larger and larger, the spatial discretization step Δ* becomes smaller
+and smaller and this eigenvalue goes to infinity (and the corresponding time constant to 0),
+as expected from the corresponding eigenvalues of the continuous cable equation.
+How do these expressions for the eigenvalues and eigenvectors arise? One way to
+understand their origin is by analogy to the continuous diffusion equation. The eigen-
+functions of the continuous second derivative operator with a Dirichlet boundary condition
+(corresponding to a killed-end condition) on the interval [0, 1] are the sinusoidals
+1. Following neuroscience convention, we express the solution in terms of τ'ζ = —\/m'z rather than m'v
+2. This shifting property can be used in the change of variables W = Ve''
+T, with Γ — Cm/Gm, for reducing the cable
+equation (Eq. C.I) in V to the diffusion equation CmdW/dt — .. n
+m. 9 W/dx 
+in W. This shifting property is a special case
+of the property that for any polynomial (or more generally, any analytic function) p(·), the eigenvectors of /?(B) are p(mz),
+and the eigenvectors are unchanged.
+
+
+===== Page 11 =====
+C.1 Linear Cable Equation 
+· 491
+(C.14)
+where — (πζ)
+2 is the e-th eigenvalue. We need to find the corresponding expression for the
+discrete second difference operator Ü2:
+(C.15)
+We posit that the eigenvectors of ΌΪ correspond to the eigenfunctions of the continuous
+operator, and we write the expression
+(C.16)
+and solve for m'z. Application of the appropriate trigonometric identities confirms our
+expression Eq. C.8 for m'z.
+Another interpretation is in terms of the discrete Fourier transform (DFT) or rather its
+cousin, the discrete sine transform (DST). Although the DST is usually efficiently computed
+using the FFT algorithm, the DST is a linear transform, and can therefore be represented as
+a matrix S. For an η χ η operator S—required to find the transform of a 1 χ η vector—the
+elements of S are given by
+(C.17)
+The columns of this matrix are precisely the eigenvectors of B. Therefore, S diagonalizes B,
+(C.18)
+This is entirely in analogy with the Fourier transform in the continuous case.
+Explicit Discretization in Time
+While the sum of exponentials suggests a possible solution to the equation, it does
+not generalize well to nonlinear problems and for many problems it is computationally
+inefficient (because η exponentials must be evaluated at each time point). In order to solve
+this system numerically, we transform the system of ordinary differential equations into a
+system of algebraic difference equations to be advanced by discrete time steps Δί. Just as
+before we replaced the spatial derivative by its finite difference approximation, we replace
+the temporal derivative by its first-order difference
+(C.19)
+where the superscript refers to the index of discretized time. Now we have a choice for how
+to combine this with the right-hand side of Eq. C.4: do we use V or V'
++1 ? The temptation
+is to use V
+r, since then V
+i+1 is an explicit function of V',
+(C.20)
+This choice for d V/dt is the basis of the forward Euler scheme. We can advance one time
+step at a very reasonable cost of three multiplications per node—one for the self-connection
+V¡ and one each for the adjacent nodes V¡±\.
+We can rewrite a single iteration of the forward Euler scheme as
+
+
+===== Page 12 =====
+492 
+· 
+SPARSE MATRIX METHODS FOR MODELING SINGLE NEURONS
+(C.21)
+where By is a tridiagonal matrix and V is a vector. The matrix By is obtained by solving for
+V'
++1 in the previous equation and is equal to Δί Β with an additional 1 along the diagonal,
+(C.22)
+where I is the identity matrix. If we set J = 0, then after ρ iterations, the solution can be
+written as a power of By,
+where in the second line the solution is expressed in terms of the eigenvalues fz of By and
+the c's are once again determined by the initial conditions. Note that while in the solution
+of the continuous differential equation (Eq. C.10) the eigenvalues appear in the exponent,
+here in the discrete difference equation they are raised to a power. This imposes a stability
+constraint on the eigenvalues. Stability refers to the behavior of the solution for t -» oo,
+which for the discrete case translates into ρ —> oo. For the discrete case the solution is
+stable if
+(C.23)
+for all z, since the eigenvalues are raised to a power. If any eigenvalue does not satisfy
+this condition, then for sufficiently large ρ it eventually diverges to infinity. By contrast,
+in the continuous case the eigenvalues appeared in the exponent, so the condition was that
+mz < 0 for all z.
+The forward Euler method is unstable if Δί is chosen too large. Consider the eigenvalues
+of the difference matrix By, which we compute from Eq. C.13 using the shift property,
+(C.24)
+These eigenvalues are almost identical to those of the original differential system, but with
+the addition of the 1, which imposes a condition on the discretization parameters. Recall that
+we know only that mz < 0, so there will exist discretization parameters such that | fz | > 1.
+For η —> oo and Gm = 0, that is, no membrane leak, the stability condition simplifies to
+|4^rAi/Cm —1| < l,orAí < R¡Cm&.x2/d. Thus if the spatial discretization ΔΛ is made
+twice as small, the temporal discretization Δί must be made four times smaller to preserve
+stability. Since doubling the spatial discretization step also doubles the size of the matrix,
+computation time scales as the third power of n. This very rapidly becomes the limiting
+factor for large numbers of compartments.
+Implicit Discretization in Time
+One alternative is to use an implicit or backward Euler scheme, where the spatial
+derivative is evaluated at r + 1,
+(C.25)
+Setting 7/
++1 = 0, we can rewrite (C.25) in matrix form as
+(C.26)
+
+
+===== Page 13 =====
+C.1 Linear Cable Equation 
+· 493
+where
+(C.27)
+Using the result that the eigenvalues of the inverse of a matrix are just the inverse of the
+eigenvalues (and the eigenvectors unchanged), we write the eigenvalues bz of B¿,
+(C.28)
+The denominator is identical to Eq. C.24, except for the sign of the — 1. This makes all the
+difference, since now \bt \ < 1 for all z, and the system is stable for all discretization steps.
+This does not guarantee, of course, that the solution to the discretized equation is close to
+the solution to the underlying continuous equations. This still requires small values of Ax
+and Δί.
+The stability of the implicit scheme comes at a very high apparent cost: the inversion of an
+η χ η matrix B(, at each time step. Now in general, the inversion ofannxn matrix requires
+Ο (η
+3) time; this is the same cost as the explicit scheme. Note that Bj is very sparse—in fact,
+it is tridiagonal. This sparseness is critical, since the solution to Eq. C.26 can be obtained
+by Gaussian elimination in O(n) steps. (We defer the description of Gaussian elimination
+for the tridiagonal matrix until Sec. C.I.2, where it appears as a special case.) Thus, the
+implicit scheme is stable for all time steps and can be implemented in an efficient manner
+that scales linearly with the grain of spatial discretization.
+Semi-Implicit Discretization in Time
+The choice defining the implicit scheme, evaluating the spatial derivative at V
+i+1, is not
+the only one that leads to a stable scheme. We could also choose to evaluate the spatial
+derivative at the the midpoint between V'
++1 and V' (that is, by using the discretization
+scheme V
+t+1/2 = (V'
++1 + V')/2), to 
+obtain
+(C.29)
+This choice is called the semi-implicit or Cmnk-Nicolson algorithm. Setting /,· = 0 as
+before, the resulting matrix equations can be expressed in terms of the implicit and explicit
+matrices,
+(C.30)
+Stability is therefore determined by the eigenvalues ez of B^B/. Since B¿ and B/ share
+eigenvectors, the eigenvalues of B¿"'B/ are simply the product of the eigenvalues of B¿'
+and By,
+(C.31)
+Observe that since mz < 0 the numerator is always less than the denominator, so that the
+absolute value of this expression is less than unity. Hence the Crank-Nicolson method is
+stable for all choices of discretization parameters. This method is almost always preferable
+to the implicit method, because it is more accurate (as well as being stable).
+
+
+===== Page 14 =====
+494 
+· 
+SPARSE MATRIX METHODS FOR MODELING SINGLE NEURONS
+The accuracy of any numerical method is measured by performing a Taylor expansion
+about At = 0. If there is a nonzero coefficient associated with At then the method is
+first-order, while if the first nonzero coefficient is associated with At2 then the method is
+second-order. Both the explicit and the implicit discretizations are only first-order, while
+the semi-implicit discretization is correct up to second-order.
+C. 1.2 Branched Cables and Hiñes Matrices
+So far we have developed techniques only for unbranched cables. Since many neurons
+have very extended and complex dendritic trees (see Fig. 3.1), these techniques must be
+extended if they are to be useful. The primary complication introduced by branching is that
+while the connectivity of an unbranched cable can be represented by a tridiagonal matrix,
+connectivity of a branched neuron can only be represented by a special matrix, a Hiñes
+matrix, of which the tridiagonal is a special case. This matrix has the same number of
+elements as a tridiagonal matrix, 3« — 2 in the η χ η case, but they can be scattered, rather
+than concentrated along the diagonals. Hiñes (1984) first introduced this transformation in
+the context of dendritic modeling and showed how to invert this matrix in O(ri) steps—
+the same as any tridiagonal matrix. This observation was key: until then implicit matrix
+techniques were believed inefficient for branched cables because the matrix inversion was
+thought to require O(n3) steps. We will see below that there are other cases where the
+sparseness of this matrix can be used to construct algorithms as efficient as those for the
+tridiagonal case.
+The Hiñes matrix is defined by the structure of its sparseness. A matrix Β is a Hiñes
+matrix if three conditions are satisfied: (1) The diagonal elements B¡¡ are nonzero; (2) BÍJ
+is nonzero if and only if Bj¡ is nonzero; and (3) for any nonzero B¡j with i < j, there is no
+h such that h > j and B¡h is nonzero. The second condition requires Β to be structurally
+although not numerically symmetric, and the third requires that Β have no more than one
+nonzero element to the right of the diagonal in any row, and by structural symmetry, no
+more than one nonzero element below the diagonal in any column. Notice that while there
+are only two tridiagonal matrices corresponding to an unbranched cable (since numbering
+can start from either end), there are many Hiñes matrices corresponding to a single tree
+structure.
+In order to convert a graph into a matrix, the nodes must be numbered sequentially.
+There is a simple algorithm for appropriately labeling the nodes of a tree to construct
+a Hiñes matrix. The algorithm given here is a generalization of that proposed in Hiñes
+(1984).
+Sequentially number nodes that have at most one unnumbered neighbor until there are no
+unnumbered nodes left.
+At each step in the algorithm there may be many choices for which node to number next;
+although all choices are equally suitable for the algorithms discussed, the particular choice
+of numbering adjacent nodes successively wherever possible leads to the matrix elements
+maximally concentrated near the diagonal.
+The advantage of this numbering scheme is that Gaussian elimination can be applied
+directly. At the abstract level, it amounts to solving for Vi+1 in the matrix equation
+BV+i _ y' by
+
+
+===== Page 15 =====
+C.1 Linear Cable Equation 
+· 495
+Consider the matrix [B|V'J.
+Using row operations, put it in the form [I|A], where I is the identity matrix.
+Now h = V
+I+1 =B
+- 1V
+f.
+The standard scheme for solving tridiagonal systems is a special case of this algorithm.
+C.1.3 Boundary Conditions
+The partial differential equation for a single unbranched cable (Eq. C.I) has a unique solution
+only if boundary conditions (BC) are specified at the endpoints. The BCs determine the
+behavior of the membrane potential or its derivative at the boundary points. The membrane
+potential along a branched cable is governed by a system of coupled partial differential
+equations, one for each branch, and BCs must be specified at the branch points. In matrix
+notation the BCs at the origin of the cable correspond to the first row of the matrix B, and
+at the end of the cable to the last row of the matrix B. Similarly the BCs at a branch point
+correspond to the matrix elements at that point. We shall see that the implementation of
+BCs at a branch point is just a natural extension of the elements at any point along the cable
+and so poses few problems. The BCs at endpoints is rather more subtle and requires careful
+consideration.
+In general there are many BCs corresponding to different physical situations. For
+example, in the killed-end or Dirichlet case (see Sec. 2.2.2) the voltage is clamped to
+zero and the axial current "leaks" out to ground. The matrix B' we have been considering
+above in the eigenvalue analysis implements this condition. To see this, assume that the
+fictive point at χ = 0, that is, VQ is assumed to be zero. Following Eq. C.3, the difference
+equation for the point at χ = AJC is proportional to V2 — 2 Vj + VQ = V-i — 1V\. Thus, the
+top two entries in B' are —2 and 1, as are the bottom two entries. The killed-end solution
+is a special case of the voltage-clamp condition, where the voltage at the endpoint is held
+at some arbitrary value. This condition is simply V0 = Kiamp·
+Here we limit our attention to the most important class of boundary conditions for nerve
+equations, the so-called sealed-end or von Neumann condition (Sec. 2.2.2). The sealed-end
+condition requires that no current flow out of the end. Mathematically, this is expressed as
+dV/dx = 0 at the boundary (Eq. 2.19).
+There are several ways this boundary condition associated with the continuous equation
+can be implemented in a discretized system. Perhaps the most intuitive is the one that arises
+from consideration of an equivalent electrical circuit model, as in Fig. 3.4B. Following
+Ohm's law, the current flow in the axial direction is proportional to Vi — V\. Thus, the
+diagonal element is — 1 or half the size of the elements along the rest of the diagonal.
+Because the endpoint is connected only to a single neighbor, while all other nodes are
+connected to two neighbors, it seems reasonable that the loss to neighbors should be half of
+that at all other nodes. With these choices the resulting matrix B' turns out to be symmetric,
+which is in line with our intuition. For a single unbranched cable with a sealed end at both
+ends, we have
+(C.32)
+
+
+===== Page 16 =====
+496 
+· 
+SPARSE MATRIX METHODS FOR MODELING SINGLE NEURONS
+This implementation has been widely used in neural simulators (but not by Mascagni, 1989,
+or Hiñes, 1989).
+Our intuition can be misleading, that is, the associated electrical circuit (as in Fig. 3.4B)
+does not approximate well a finite cable with a sealed-end boundary. While such a matrix
+does implement a form of the von Neumann condition, it is correct only to first order,
+that is, the error is Ο(Δχ). This implementation introduces systematic errors or "phantom
+currents" (Niebur and Niebur, 1991).
+A more accurate scheme can be derived by considering the Taylor expansion of the
+potential around χ = 0 for a "ficticious" element just beyond the end of the cable at
+χ = — AJC,
+(C.33)
+We can now solve for V-\ in terms of VQ and V\ by setting the first derivative to 0 (the BC
+corresponding to no axial current across the membrane at χ = 0) and setting the second
+derivative to the second difference approximation, d
+2V/dx
+2\x=o = (V^\+V\— 2Vo)/&x
+2,
+to obtain
+V.i = V,. 
+(C.34)
+This gives us the matrix with the second-order correct von Neumann boundary conditions:
+(C.35)
+C. 1.4 Eigensystems and Model Fitting
+We have seen how the morphology of a neuron—its branching geometry and connectivity—
+together with the passive membrane parameters—Rm, Cm, and /?,·—collectively determine
+the sparse matrix Β which governs the dynamic behavior of the neuron. Equation C. 10 shows
+how the eigensystem acts as the link between dynamics and morphology: the time course
+of membrane potentials can be expressed as the sum of exponentials whose decay constants
+are the eigenvalues of B. Thus, starting from the physical description of the neuron, we can
+use the eigensystem to compute its response to stimuli, although in practice it is usually
+more efficient to use an implicit matrix scheme.
+Suppose we wish to determine the eigensystem of a model neuron. For very simple
+morphologies, for instance, a single terminated cylinder, and homogeneous membrane
+parameters, Rail (1977) has used the underlying partial differential equation to derive some
+relatively simple expressions for the eigenvalues as a function of the membrane parameters
+(as in Eq. 2.38). These expressions provide some insight into the behavior of passive cables.
+For somewhat more complex morphologies (for instance, several cylinders attached to a
+single lumped soma) there are correspondingly more complex expressions involving the
+roots of transcendental equations. But as the morphologies become more complex the
+expressions become more difficult to evaluate and provide less insight. Analytic solutions
+are not generally useful for arbitrary dendritic trees.
+
+
+===== Page 17 =====
+C.1 Linear Cable Equation 
+· 497
+For arbitrary trees there are at least two options for determining the eigensystem. First, we
+could compute a solution V¡ (?) from initial conditions, using for example an implicit matrix
+scheme as outlined above, and then attempt to extract the time constants τζ and associated
+coefficients c'iz = V¡ cz by fitting them to the solution. One method of fitting is the so-
+called "exponential peeling" or just "peeling" method (Rail, 1977). In fact, exponential
+fitting is intrinsically very difficult. The reason is that exponentials are a poor set of basis
+functions, because they are so far from orthogonal. The inner product of two exponentials
+over an infinite interval is given by
+(C.36)
+Orthogonality would require that this expression be zero when τ\ Φ τι, which is not the case.
+In fact, the general exponential fitting problem is equivalent (in the limit of a large number
+of time constants) to numerically inverting a Laplace transform, which is well known to
+be ill-conditioned (Bellman, Kalaba, and Locket, 1966). Since many combinations of time
+constants and coefficients fit almost equally well, no technique can reliably extract the time
+constants in the presence of noise. Typically only the first two or three eigenvalues can be
+extracted, as suggested by the characteristic decrease in the eigenvalues in Eq. C.8.
+If we are working with a model of a neuron, a second and much more reasonable
+alternative is to extract the eigenvalues directly from the matrix B. (This option is not
+available to us if we are working with a real neuron, in which case we must fall back on some
+nonlinear fitting technique.) Typically we are interested only in the first few eigenvalues,
+so we exploit the sparseness of Β by observing that multiplication of Β with a vector is
+cheap—O(n) for an η χ η Hiñes matrix. We use the power method, which depends on the
+fact that the principal eigenpair dominates. Defining a new matrix Ρ = αϊ — Β (where I
+is the identity matrix) with eigenvalues pz — a — mz, the smallest eigenvalue of Β (that
+is, the largest time constant) can be determined by the following algorithm, which finds the
+principal eigenpair of Ρ for any initial V:
+repeat
+(C.37)
+until V is stable.
+Standard deflation can be used to extend this procedure directly to the computation of the
+next several smallest eigenvalues of Β (Stoer and Bulirsch, 1980).
+C.1.5 Green's Functions and Matrix Inverses
+Prior to the ascent of sparse matrix techniques, methods based on Green's functions (also
+called transfer impedances) and Laplace transforms were widely used (Butz and Cowan,
+1984; Koch and Poggio, 1985a; Holmes, 1986; see Sec. 3.4). The Green's function gives
+the response at any point ζ to a delta pulse of current applied at some other point _/;
+their properties were discussed in Sec. 2.3.1 (e.g., Eq. 2.31). These methods have been
+largely abondoned because they are typically less efficient and more difficult to generalize
+to synaptic and nonlinear conductances. Nevertheless, for theoretical work they are often
+very convenient, and can sometimes offer a different perspective (see also Abbott, 1992).
+One interesting application of the Green's function is the morphoelectrotonic transform
+
+
+===== Page 18 =====
+498 
+· 
+SPARSE MATRIX METHODS FOR MODELING SINGLE NEURONS
+(Zador, Agmon-Snir, and Segev, 1995; see Sec. 3.5.4). Another is in analyzing the effects
+of Hebbian learning (Pearlmutter, 1995). Here we reconsider the Green's functions in terms
+of sparse matrix methods.
+One way to compute the Green's function is in terms of the eigensystem of the matrix
+B. First we expand the solution V¡ (t) at a point Xj in terms of the initial conditions V¡ (0)
+at ( = 0 and the Green's function K'ij(t),
+(C.38)
+Notice that K'ij is identical to K¡j of Eq. 3.16 and in the following, except for a constant of
+proportionality with the dimensions of an impedance. Because the eigenvectors V¡ 
+form
+a complete basis, we can use them to represent the initial conditions,
+(C.39)
+with c7 constants. From Eq. C.10 we can write Vj(t) as
+(C.40)
+By orthogonality and completeness we can compute the constants as the projection of the
+initial condition vector on the eigenvectors,
+(C.41)
+Hence
+(C.42)
+that is,
+(C.43)
+Understanding the eigenvalue expansion of the Green's function can be useful in theoretical
+work and for small test problems. In practice, computing the Green's function from the
+eigensystem is often not the most efficient way. Rather, it is often better to exploit the fact
+that the Green's function can be considered an inverse operator. This reduces the problem
+to computing the inverse of a matrix. Once again, we can exploit the sparseness of Β to
+compute the Green's function.
+Extension to Two and Three Spatial Dimensions
+The techniques we have described for solving the cable and diffusion equations in one
+dimension are readily generalized to two or even three spatial dimensions. Although the
+solution of electrical potential in several dimensions is not common (see, however, Chap. 2),
+the diffusion of second messengers such as Ca
+2+ often requires a consideration of two- or
+three-dimensional effects.
+The separability of the three-dimensional diffusion operator suggests an easy and efficient
+method for solving multidimensional diffusion. Consider the three-dimensional Laplacian
+operator in Cartesian coordinates,
+
+
+===== Page 19 =====
+C.2 Nonlinear Cable Equations 
+· 499
+(C.44)
+Similarly we can write the discrete approximation using matrix operators,
+(C.45)
+Here L^, L^, and Lz are very sparse matrices that approximate the second derivative in the
+x, y, and ζ directions, respectively. These operators can be applied sequentially, using for
+example a stable implicit method, to advance the solution from t to t + 1.
+The main difficulty associated with solving three-dimensional diffusion is bookkeeping,
+although the bookkeeping with this approach is simpler than if L,^ is used directly. The
+matrices that comprise L3(< are sparse, but not tridiagonal or Hiñes. The locations of the
+nonzero entries depend on the precise spatial discretization.
+C.2 Nonlinear Cable Equations
+We have focused on the numerical solution of the linear cable equation for two reasons.
+First, it is impossible to solve the nonlinear equations efficiently without first understanding
+the techniques for linear solution. Second, the methods of numerical solution provide insight
+into the equations themselves. Our approach was to compare the eigensystems of the discrete
+and continuous systems, and the correspondences were strong.
+Here we consider two important classes of nonlinear cable equations that arise frequently
+in the study of single neurons. The first class is a generalization of the Hodgkin-Huxley equa-
+tions, which describe the propagation of the action potential. The second class arises from
+the effect of nonlinear saturable ionic buffering in diffusion. Unfortunately, we know of no
+approach to understanding the numerical solutions of these nonlinear equations that provides
+the same kind of insight. This may be because most numerical techniques begin by lineariza-
+tion (eliminating the interesting properties of these equations), while the behavior of the non-
+linear equations is best understood using phase space analysis (see Chap. 7) or by numerical
+simulation. In the first section we provide an overview of the most widely used and efficient
+method for solving generalizations of the Hodgkin-Huxley equations. It is a direct method
+that is so easy to implement that since its introduction a decade ago (Hiñes, 1984) it seems
+largely to have supplanted the predictor-corrector method of Cooley and Dodge (1966) that
+reigned before. It is now standard on many widely distributed neural simulators, including
+GENESIS and NEURON (see www.klab.caltech/MNM for more information on these). In the
+next section we describe a simple scheme for handling nonlinear saturable buffers.
+C.2.1 Generalized Hodgkin-Huxley Equations
+The method we consider applies to a class of nonlinear cable equations generalized from the
+Hodgkin-Huxley equations. They differ from the linear cable equation only by the addition
+of a term, Ini(V(x,t),t), which gives the current contributed by voltage-dependent
+membrane channels,
+(C.46)
+The most general form we need to consider for /i«(V, x, t) includes k different ionic
+currents,
+
+
+===== Page 20 =====
+500 
+· 
+SPARSE MATRIX METHODS FOR MODELING SINGLE NEURONS
+Im(V(x, 0, 0 = gi«i(V, 0 (V(je, 0 - Ei) + · · -+gigk(V, t) (V(x, t) - Ek)(CA7)
+(see Eq. 6.20). The total current is the sum of the contributions of the k individual currents
+in the membrane patch considered. Here ~gl is the density of type 1 membrane channels at
+any point along the neuron; V(x, t) — E\ is the driving force for this conductance; and
+0 < gi(V, t) < 1 is the fraction of total conductance of the current, that is, the fraction
+of total channels of that type that is open in one patch of membrane. The interesting term
+in this expression is the function g(V, t), because it includes the nonlinearity. It has the
+general form
+(C.48)
+where y is a gating particle, and r is an integer corresponding to the number of identical
+gating particles that need to be simultaneously present in order for current to flow (see
+Sec. 6.2). In many cases, there are two or even three gating particles, usually activating and
+inactivating particles. In this case, a slightly more general product of the form g(V, t) =
+ym(V, tYmyh(V, tYh must be used. This introduces no conceptual difficulties but does clutter
+the notation.
+We have suppressed the spatial dependence of the currents, since this occurs only through
+V(x,t). This fact simplifies the solution, since it means that the system of equations
+governing g in the spatially discretized system is diagonal. The variable y (V, t) (or variables
+ym and vft) in turn obeys a first-order, nonlinear differential equation of the form
+(C.49)
+Here the function yoo(V) governs the steady-state behavior of y. It is monotonic and
+bounded between 0 and 1—it must be, for g to be guaranteed to always fall in the same
+range. The Ty(V) governs the rate at which equilibrium is reached. For numerical solution
+an equivalent but more convenient form is
+(C.50)
+The method we describe depends on the fact that the generalized Hodgkin-Huxley
+system is conditionally linear (Mascagni, 1989), meaning that the system is linear in Vf+1
+if g'h is known, and likewise linear in g^+ if V* is known. Thus we can alternate between
+solving for V' at the times V', V'+1, V'+2,..., and solving for gh at intermediate points
+g'+ 2; g'+2, 
+We do this implicitly,
+(C.51)
+We can solve this expression explicitly for y'+? in terms of y'~i and V, both of which are
+known. The algebra is straightforward and the details are well described in Hiñes (1984).
+C.2.2 Calcium Buffering
+Chapter 11 deals with how, under certain conditions, the equations describing calcium
+dynamics are formally equivalent to the cable equation. Furthermore, over a wide range
+of parameters, the linearized equations offer an adequate approximation to the nonlinear
+dynamics. Nevertheless, in some cases it is of interest to explore the behavior of the full
+nonlinear equations. (If linear two- or three-dimensional diffusional behavior is of interest,
+
+
+===== Page 21 =====
+C.2 Nonlinear Cable Equations 
+· 501
+the methods of Sec. C. 1.5 can be used.) For the most part the semi-implicit method described
+above generalizes directly to calcium dynamics. A nonlinear saturable buffer raises special
+issues that must be considered separately.
+Let us treat the common case of a second-order buffer (Sec. 11.4.1),
+(C.52)
+where the rate constants / and b govern the equilibrium of free and bound calcium and
+[Ca 
+],· is the concentration of free, intracellular calcium. (To simplify our exposition,
+we consider only the case of a second-order buffer, but higher-order buffers introduce no
+qualitative differences.)
+Together with the basic diffusion equation, with a simple calcium extrusion process
+Ρ ([Ca
+2+],), and a saturable nondiffusible buffer (see also Eqs. 11.37,11.43and 11.48) we
+have,
+(C.53)
+(C.54)
+where the calcium concentration [Ca
+2+],(jc, i) at time t and position χ in response to the
+applied calcium current density i (x, i) depends on the partial derivatives of [Ca
+ +],·, the dif-
+fusion constant D of Ca
+2+, the diameter d of the cable, and the concentration of total buffer
+TB (the sum of the free buffer and the bound buffer). The first equation specifies the rate of
+change in concentration of calcium as a function of diffusion, extrusion, buffer dynamics
+and influx. The second equation gives the rate of change in bound buffer concentration as
+a function of buffer diffusion and buffer binding and unbinding (see also Eq. 11.48).
+The difficulty arises because [Ca
+2+]; enters into Eq. C.53 in an essentially nonlinear
+way as [Ca
+2+],-[B], and not in the conditionally linear way as in the case of the Hodgkin-
+Huxley equations. However, we can discretize Eq. C.53 in such a way that the system
+becomes conditionally linear. That is, we can rewrite the right-hand side of Eq. C.53 in
+terms of [Ca2+]¿+1 and [B · Ca]',
+(C.55)
+and then write Eq. C.54 in terms of [Ca2+]^ and [B · Ca]'+1,
+(C.56)
+These implicit equations can now be advanced each time step by an O(ri) step (a single
+sparse matrix inversion for the Hiñes matrix) for Eq.C.55, and another O(n) step for the
+diagonal matrix specified in Eq. C.56.
+C.2.3 Conclusion
+Although this appendix has ostensibly been about efficient numerical methods for single
+neuron simulation, the real aim has been to provide a deeper understanding of the equations
+
+
+===== Page 22 =====
+502 
+· 
+SPARSE MATRIX METHODS FOR MODELING SINGLE NEURONS
+that govern neurodynamics. In the case of the linear cable equation our approach has been to
+carefully analyze the properties of the discrete eigensystem corresponding to the continuous
+partial differential equations underlying the cable equation. This led to stable and efficient
+methods for simulating the cable equation, to an understanding of why fitting passive models
+to neurophysiological data is hard, and to a different way of looking at the Green's functions.
+For the nonlinear case our goals were more modest, namely, an overview of the best existing
+method for solving equations of the Hodgkin-Huxley class, and of some special problems
+that arise in the solution of calcium dynamics.
+
+

@@ -1,0 +1,751 @@
+===== Page 1 =====
+620    Part IV / Perception
+Mammals are not alone in possessing sensitive and 
+frequency-selective hearing. Amphibians and rep-
+tiles, including birds, also do. It is a remarkable fact 
+that these various groups of land vertebrates actually 
+acquired their good hearing systems largely indepen-
+dently. The small, dedicated auditory receptor organ 
+was present in the inner ear of their common ancestor. 
+Much later, the ancestors of modern lizards, birds, and 
+mammals each independently evolved middle-ear sys-
+tems with eardrums collecting sound from the outside 
+world. Some species, such as birds and their relatives, 
+even evolved two groups of sensory hair cells that have 
+a division of labor similar to that of mammalian inner 
+and outer hair cells. Comparison of middle-ear and 
+inner-ear structures and functions across all living ver-
+tebrate groups has revealed that they share many com-
+mon features and that hearing performance is largely 
+comparable between them. Sound amplification associ-
+ated with active hair-bundle motility was already pre-
+sent in the very first hair cells that evolved, even before 
+the first fishes. This amplifying system was inherited 
+by all groups and, as described earlier, plays a critical 
+role in improving hearing sensitivity and sharpening 
+frequency selectivity. The greatest difference between 
+mammals and the other groups is that the upper fre-
+quency limit of hearing is generally higher in mam-
+mals. Nonmammalian ears are limited in response to 
+frequencies lower than about 12 to 14 kHz, whereas 
+some mammals can hear beyond 100 kHz.
+In addition to active hair-bundle motility, the second 
+mechanism that tunes individual hair cells to specific 
+frequencies in many nonmammalian ears is electrical 
+in nature. In many fishes, amphibians, and birds, the 
+membrane potential of each hair cell resonates at a par-
+ticular frequency. Several factors, including alternative 
+splicing of the mRNA encoding cochlear K+ channels 
+and expression of these channels’ auxiliary β subunit, 
+tune the characteristic frequency of the resonance along 
+the tonotopic axis of the auditory organ. Whether elec-
+trical resonance contributes to frequency tuning in the 
+ears of mammals, including humans, remains uncertain. 
+It is plausible that mammalian hair cells use instead an 
+interplay between somatic electromotility, which seems 
+absent in nonmammalian species, and the microme-
+chanical environment, including hair-bundle motility, to 
+actively amplify and filter their inputs.
+The key signatures of a Hopf bifurcation have been 
+recognized in spontaneous mechanical oscillations of 
+the hair bundle, in electrical oscillations of the mem-
+brane potential, and in sound-evoked vibration of the 
+basilar membrane. It is likely that the parallel evolu-
+tion of hearing organs in different groups of vertebrates 
+resulted in several ways of benefitting from the generic 
+properties of critical oscillation.
+Box 26–2  The Evolutionary History of Hearing Resulted in Similarities Between Groups
+chemical neurotransmitter is released. An active zone 
+is characterized by four prominent morphological fea-
+tures (Figure 26–16).
+A presynaptic dense body or synaptic ribbon 
+lies in the cytoplasm adjacent to the release site. This 
+fibrillar structure may be spherical, ovoidal, or flat-
+tened, and usually measures a few hundred nanometers 
+across. The dense body resembles the synaptic rib-
+bon of a photoreceptor cell and represents a special-
+ized elaboration of the smaller presynaptic densities 
+found at many other synapses. In addition to molecu-
+lar components shared with conventional synapses, 
+ribbon synapses contain large amounts of the protein 
+ribeye.
+The presynaptic ribbon is surrounded by clear 
+synaptic vesicles, each 35 to 40 nm in diameter, which 
+are attached to the dense body by tenuous filaments. 
+Between the dense body and the presynaptic cell mem-
+brane lies a striking presynaptic density that comprises 
+several short rows of fuzzy-looking material. Within 
+the cell membrane, rows of large particles are aligned 
+with the strips of presynaptic density. These particles 
+include the Ca2+ channels involved in the release of 
+transmitter as well as the K+ channels that participate 
+in electrical resonance in nonmammalian vertebrates.
+Studies of nonmammalian experimental models 
+show that, as with most other synapses (Chapter 15),  
+the release of transmitter by hair cells is evoked by 
+presynaptic depolarization and requires influx of Ca2+ 
+from the extracellular medium. Hair cells lack synap-
+totagmins 1 and 2, however, and the role of those pro-
+teins as rapid Ca2+ sensors has probably been assumed 
+by the protein otoferlin, which also promotes the 
+replenishment of synaptic vesicles. Although gluta-
+mate is the principal afferent neurotransmitter, other 
+substances are released as well.
+The presynaptic apparatus of hair cells has several 
+unusual features that underlie the signaling abilities of 
+
+
+===== Page 2 =====
+Chapter 26 / Auditory Processing by the Cochlea    621
+Figure 26–16  The presynaptic active zone of a hair cell.  This 
+transmission electron micrograph shows the spherical presyn-
+aptic dense body or synaptic ribbon that is characteristic of 
+the hair cell’s presynaptic active zone. It is surrounded by clear 
+synaptic vesicles. Beneath the ribbon lies a presynaptic density, 
+in the middle of which one vesicle is undergoing exocytosis. A 
+modest postsynaptic density lies along the inner aspect of the 
+plasmalemma of the afferent terminal. (Reproduced, with per-
+mission, from Jacobs and Hudspeth 1990.)
+Presynaptic
+dense body
+Synaptic
+vesicles
+Presynaptic
+density
+Postsynaptic
+density
+these cells. At rest, inner hair cells continuously release 
+synaptic transmitter. The rate of transmitter release 
+can be modulated upward or downward, depending 
+on whether the hair cell is respectively depolarized 
+or hyperpolarized. Consistent with this observation, 
+some Ca2+ channels of hair cells are activated at the 
+resting potential, providing a steady leak of Ca2+ that 
+evokes transmitter release from unstimulated cells. 
+Another unusual feature of the hair cell’s synapses is 
+that, like those of photoreceptors, they must be able 
+to release neurotransmitter reliably in response to a 
+threshold receptor potential of only 100 μV or so. This 
+feature, too, depends on the fact that the presynaptic 
+Ca2+ channels are activated at the resting potential.
+Outer hair cells receive inputs from neurons in the 
+brainstem in the form of large boutons on their baso-
+lateral surfaces (Figure 26–4). This efferent system 
+desensitizes the cochlea by hyperpolarizing outer hair 
+cells, which turns down the active process. The effer-
+ent terminals contain numerous clear synaptic vesicles 
+about 50 nm in diameter, as well as a smaller number 
+of larger, dense-core vesicles. The principal transmit-
+ter at these synapses is acetylcholine (ACh); calcitonin 
+gene–related peptide (CGRP) also occurs in efferent 
+terminals and may be co-released with ACh. ACh 
+binds to nicotinic ionotropic receptors consisting of α9 
+and α10 subunits that have a substantial permeability 
+to Ca2+ as well as to Na+ and K+. The Ca2+ that enters 
+through these channels activates small-conductance 
+Ca2+-sensitive K+ channels (SK channels), whose open-
+ing leads to a protracted hyperpolarization. The cyto-
+plasm of a hair cell immediately beneath each efferent 
+terminal holds a single cisterna of smooth endoplasmic 
+reticulum. This structure may be involved in the reup-
+take of the Ca2+ that enters the cytoplasm in response 
+to efferent stimulation, thus accelerating the return to 
+the cell’s resting potential.
+Auditory Information Flows Initially Through 
+the Cochlear Nerve
+Bipolar Neurons in the Spiral Ganglion Innervate 
+Cochlear Hair Cells
+Information flows from cochlear hair cells to neu-
+rons whose cell bodies lie in the cochlear ganglion. 
+The central processes of these bipolar neurons form 
+the cochlear division of the vestibulocochlear nerve 
+(eighth cranial nerve). Because this ganglion follows 
+a spiral course around the bony core of the cochlea, 
+it is also called the spiral ganglion. Approximately 
+30,000 ganglion cells innervate the hair cells of each 
+inner ear.
+The afferent pathways from the human cochlea 
+reflect the functional distinction between inner and 
+outer hair cells. At least 90% of the spiral ganglion 
+cells terminate on inner hair cells (Figure 26–17). Each 
+axon contacts only a single inner hair cell, but each 
+cell directs its output to many nerve fibers, on aver-
+age nearly 10. This arrangement has three important 
+consequences.
+First, the neural information from which hearing 
+arises originates almost entirely at inner hair cells. 
+Second, because the output of each inner hair cell is 
+
+
+===== Page 3 =====
+622    Part IV / Perception
+Outer hair cells
+Inner hair cells
+Spiral ganglion
+cells
+To cochlear
+nuclei (afferent)
+From superior
+olivary complex
+(efferent)
+Figure 26–17  Innervation of cochlear hair 
+cells.  The great majority of sensory axons 
+(orange) in the cochlea carry signals from 
+inner hair cells, each of which constitutes 
+the sole input to an average of 10 axons. A 
+few sensory axons of small caliber transmit 
+information from the outer hair cells. Effer-
+ent axons (green) largely innervate the 
+outer hair cells and do so directly. In con-
+trast, efferent innervation of inner hair cells 
+is sparse and occurs on the sensory axon 
+terminals. (Adapted, with permission, from 
+Spoendlin 1974.)
+sampled by many afferent nerve fibers, the informa-
+tion from one receptor is encoded independently in 
+parallel channels. Third, at any point along the coch-
+lear spiral, or at any position within the spiral gan-
+glion, each ganglion cell responds best to stimulation 
+at the characteristic frequency of the presynaptic hair 
+cell. The tonotopic organization of the auditory neu-
+ral pathways thus begins at the earliest possible site, 
+immediately postsynaptic to inner hair cells.
+Relatively few cochlear ganglion cells contact 
+outer hair cells, and each such neuron extends branch-
+ing terminals to numerous outer hair cells. Although 
+the ganglion cells that receive input from outer hair 
+cells are known to project into the central nervous 
+system, these neurons are so few that it is not certain 
+whether their projections contribute significantly to 
+the analysis of sound.
+The patterns of efferent and afferent connections 
+of cochlear hair cells are complementary. Mature inner 
+hair cells do not receive efferent input; just beneath 
+these cells, however, are extensive axo-axonic synaptic 
+contacts between efferent axon terminals and the end-
+ings of afferent nerve fibers. In contrast, other effer-
+ent nerves have extensive connections with outer hair 
+cells on their basolateral surfaces. Each outer hair cell 
+receives input from several large efferent terminals, 
+which fill most of the space between the cell’s base and 
+the associated supporting cell, leaving little space for 
+afferent terminals.
+Cochlear Nerve Fibers Encode Stimulus Frequency 
+and Level
+The acoustic sensitivity of axons in the cochlear nerve 
+mirrors the connection pattern of the spiral ganglion 
+cells to the hair cells. Each axon is most responsive to 
+a characteristic frequency. Stimuli of lower or higher 
+frequency also evoke responses, but only when pre-
+sented at greater levels. An axon’s responsiveness may 
+be characterized by a frequency selectivity, or tuning, 
+curve, which is V-shaped like the curves for basilar-
+membrane motion and hair-cell sensitivity (Figure 
+26–11). The tuning curves for nerve fibers with differ-
+ent characteristic frequencies resemble one another but 
+are shifted along the frequency axis.
+The relationship between sound level in decibels 
+SPL and firing rate in each fiber of the cochlear nerve 
+is approximately linear. Because of the dependence of 
+decibel level on sound pressure, this relation implies 
+that sound pressure is logarithmically encoded by neu-
+ronal activity. At the upper end of a fiber’s dynamic 
+range, very loud sounds saturate the response. Because 
+an action potential and the subsequent refractory 
+period each last almost 1 ms, the greatest sustainable 
+firing rate is about 500 spikes per second.
+Even among nerve fibers with the same character-
+istic frequency, the threshold of responsiveness varies 
+from axon to axon. The most sensitive fibers, whose 
+response thresholds extend down to approximately 
+
+
+===== Page 4 =====
+Chapter 26 / Auditory Processing by the Cochlea    623
+Figure 26–18  The firing pattern of a cochlear nerve fiber.  A 
+cochlear nerve fiber is stimulated for somewhat more than  
+250 ms with a tone burst at about 5 kHz, the cell’s character-
+istic frequency. After a quiet period, the stimulus is repeated. 
+Histograms show the average response patterns of the fiber as 
+a function of stimulus level. The sample period is divided into 
+discrete temporal bins, and the number of spikes occurring in 
+each bin is displayed. An initial, phasic increase in firing is cor-
+related with the onset of the stimulus. The discharge continues 
+during the remainder of the stimulus during adaptation, but 
+decreases following termination. This pattern is evident when 
+the stimulus is 20 dB or more above threshold. Activity gradu-
+ally returns to baseline during the interval between stimuli. 
+(Adapted, with permission, from Kiang 1965.)
+0 dB SPL, characteristically have high rates of sponta-
+neous activity and produce saturating responses for 
+stimulation at moderate intensities, approximately 
+30 dB SPL. At the opposite extreme, the least sensitive 
+afferent fibers have very little spontaneous activity 
+and much higher thresholds, but respond in a graded 
+fashion to levels even in excess of 100 dB SPL. The 
+activity patterns of most fibers range between these 
+extremes.
+The afferent neurons of lowest sensitivity contact 
+the surface of an inner hair cell nearest the axis of the 
+cochlear spiral. The most sensitive afferent neurons, on 
+the other hand, contact the hair cell’s opposite side. The 
+multiple innervation of each inner hair cell is therefore 
+not redundant. Instead, the output from a given hair 
+cell is directed into parallel channels of differing sensi-
+tivity and dynamic range.
+The firing pattern of fibers in the eighth cranial 
+nerve exhibits both phasic and tonic components. 
+Brisk firing occurs at the onset of a tone but, as adap-
+tation occurs, the firing rate declines to a plateau level 
+over a few tens of milliseconds. When stimulation 
+ceases, there is usually a transitory cessation of activ-
+ity with a similar time course to that of adaptation, 
+before gradual resumption of the spontaneous firing 
+rate (Figure 26–18).
+When a periodic stimulus such as a pure tone is 
+presented, the firing pattern of a cochlear nerve fiber 
+encodes information about the periodicity of the stim-
+ulus. For example, a relatively low-frequency tone at a 
+moderate intensity might produce one spike in a nerve 
+fiber during each cycle of stimulation. The phase of 
+firing is also stereotyped. Each action potential might 
+occur, for example, during the compressive phase of 
+the stimulus. As the stimulation frequency rises, the 
+stimuli eventually become so rapid that the nerve fiber 
+can no longer produce action potentials on a cycle-by-
+cycle basis. Up to a frequency in excess of 3 kHz, how-
+ever, phase-locking persists; a fiber may produce an 
+action potential only every few cycles of the stimulus, 
+but its firing continues to occur at a particular phase in 
+the stimulus cycle.
+Periodicity in neuronal firing enhances the infor-
+mation about the stimulus frequency. Any pure tone 
+of sufficient level evokes firing in numerous cochlear 
+nerve fibers. Those fibers whose characteristic fre-
+quency coincides with the frequency of the stimulus 
+respond at the lowest stimulus level, but respond still 
+more briskly for stimuli of moderate intensity. Other 
+nerve fibers with characteristic frequencies further 
+from the stimulus also respond, although less vigor-
+ously. Regardless of their characteristic frequencies, 
+however, all the responsive fibers may display phase 
+10 dB
+20 dB
+30 dB
+40 dB
+0
+250
+Time (ms)
+Duration of tone at characteristic frequency
+
+
+===== Page 5 =====
+624    Part IV / Perception
+locking: Each tends to fire during a particular part of 
+the stimulus cycle.
+The central nervous system can therefore gain 
+information about stimulus frequency in two ways. 
+First, there is a place code: The fibers are arrayed in a 
+tonotopic map in which the position is related to char-
+acteristic frequency. Second, there is a frequency code: 
+The phase-locked firing of the fiber provides informa-
+tion about the frequency of the stimulus, at least for 
+frequencies below 3 kHz.
+Sensorineural Hearing Loss Is Common but Is 
+Amenable to Treatment
+Whether mild or profound, most deafness falls into 
+the category of sensorineural hearing loss, often mis-
+named “nerve deafness.” Although hearing loss can 
+result from direct damage to the eighth cranial nerve, 
+for example from an acoustic neuroma, deafness stems 
+primarily from the loss of cochlear hair cells and their 
+afferent fibers.
+The 16,000 hair cells in each human cochlea are 
+not replaced by cell division but must last a lifetime. 
+However, in amphibians and birds, supporting cells 
+can be induced to divide and their progeny to produce 
+new hair cells. In the zebrafish and in birds, some hair 
+cell populations are regenerated continually by the 
+activity of stem or supporting cells. Researchers have 
+recently succeeded in replenishing mammalian hair 
+cells in vitro. Until we understand how hair cells can 
+be restored to the organ of Corti, however, we must 
+cope with hearing loss.
+The past few decades have brought remarkable 
+advances in our ability to treat deafness. For the major-
+ity of patients who have significant residual hearing, 
+hearing aids can amplify sounds to a level sufficient 
+to activate the surviving hair cells. A modern aid is 
+custom-tailored to compensate for each individual’s 
+hearing loss, so that the device amplifies sounds at fre-
+quencies to which the wearer is least sensitive, while 
+providing little or no enhancement to those that can 
+still be heard well.
+When most or all of a person’s cochlear hair cells 
+have degenerated, no amount of amplification can 
+assist hearing. However, a degree of hearing can be 
+restored by bypassing the damaged organ of Corti 
+with a cochlear prosthesis or implant. A user wears a 
+compact unit that picks up sounds, separates their fre-
+quency components, and forwards electronic signals 
+representing these constituents along separate wires 
+to small antennae situated just behind the auricle. The 
+signals are then transmitted transdermally to receiving 
+antennae implanted in the temporal bone. From there, 
+fine wires bear the signals to appropriate electrodes 
+implanted as an array in the cochlea at various posi-
+tions along the scala tympani. Activation of the elec-
+trodes excites action potentials in any nearby axons 
+that have survived the degeneration of the hair cells 
+(Figure 26–19).
+The cochlear prosthesis takes advantage of the tono-
+topic representation of stimulus frequency along the 
+cochlea—the place code (Figure 26–11 and Chapter 28).  
+The axons innervating each segment of the cochlea are 
+concerned with a specific, narrow range of frequen-
+cies. Each electrode in a prosthesis can excite a clus-
+ter of nerve fibers that represent similar frequencies. 
+The stimulated neurons then forward their outputs 
+along the eighth nerve to the central nervous system, 
+where these signals are interpreted as a sound of the 
+frequency represented at that position on the basilar 
+membrane. An array of approximately 20 electrodes 
+can mimic a complex sound by appropriately stimulat-
+ing several clusters of neurons.
+The number of implanted cochlear prostheses 
+worldwide is now approaching 350,000. Their effec-
+tiveness, however, varies widely from person to per-
+son. In the best outcome, an individual can, under 
+quiet conditions, understand speech nearly as well as 
+a normally hearing person and can even conduct tele-
+phone conversations. At the other extreme are patients 
+who derive little benefit from prostheses, presumably 
+because of extensive degeneration of the nerve fibers 
+near the electrode array. Most patients find their pros-
+theses of great value. Even if hearing is not completely 
+restored, the devices help in lip reading and alert 
+patients to noises in the environment.
+Hearing loss is often accompanied by another 
+distressing symptom, tinnitus, or “ringing in the 
+ears.” By interfering with concentration and disrupt-
+ing sleep, tinnitus can exasperate, depress, and even 
+madden its victims. Because on rare occasions tinni-
+tus stems from lesions to the auditory pathways, such 
+as acoustic neuromas, it is important in neurological 
+diagnosis to exclude such causes. Most tinnitus, how-
+ever, is idiopathic: Its cause is uncertain. More and 
+more studies implicate stress as an important factor. 
+Some drugs also trigger the condition; antimalarial 
+drugs related to quinine and aspirin at the high dos-
+ages used in the treatment of rheumatoid arthritis are 
+notorious for this. Often, however, tinnitus occurs at 
+high frequencies to which a damaged ear is no longer 
+sensitive. In these instances, tinnitus may reflect 
+hypersensitivity in the deafferented central nervous 
+system, a phenomenon analogous to phantom limb 
+pain (Chapter 20).
+
+
+===== Page 6 =====
+Chapter 26 / Auditory Processing by the Cochlea    625
+Figure 26–19  A cochlear prosthesis.  
+(Reproduced, with permission, from Loeb 
+et al. 1983.)
+A. Transmitting antennas receive elec-
+trical signals from a sound processor, 
+located behind the subject’s auricle or on 
+the frame of his eyeglasses, and transmit 
+them across the skin to receiving anten-
+nas implanted subdermally behind the 
+auricle. The signals are then conveyed in 
+a fine cable (dark purple) to an electrode 
+array in the cochlea.
+B. This cross section of the cochlea 
+shows the placement of pairs of elec-
+trodes in the scala tympani. A portion of 
+the extracellular current passed between 
+an electrode pair is intercepted by nearby 
+cochlear nerve fibers, which are thus 
+excited and send action potentials to the 
+brain.
+Spiral
+ganglion
+cell
+Cochlear
+nerve
+Skin
+Receiving antennas
+Mastoid bone
+Receiver circuitry
+Cochlea
+Auditory
+nerve
+Electrode
+array
+Round
+window
+Ear
+drum
+External
+auditory
+meatus
+Connection
+from sound
+processor
+Transmitting
+antennas
+A  Sound transmission to cochlea
+B  Electrode array in cochlea
+B
+Scala vestibuli
+Reissner’s
+membrane
+Organ
+of Corti
+Scala
+tympani
+Basilar
+membrane
+Electrodes
+Plastic
+
+
+===== Page 7 =====
+626    Part IV / Perception
+Highlights
+  1.  Hearing begins with capture of sound by the ear. 
+Mechanical energy captured by the outer ear flows 
+through the middle ear to the cochlea, where it 
+causes the elastic basilar membrane to oscillate.
+  2.  The basilar membrane supports the receptor 
+organ of the inner ear—the organ of Corti, an epi-
+thelial strip that contains approximately 16,000 
+mechanosensory hair cells. Hair cells transduce 
+basilar-membrane vibrations into receptor poten-
+tials that cause sensory neurons to fire.
+  3.  The frequency components of a sound stimulus 
+are detected at different locations along the basi-
+lar membrane by different hair cells, following a 
+tonotopic map. Mechanical gradients of the basi-
+lar membrane contribute to frequency analysis 
+by the cochlea. In addition, each hair cell is tuned 
+at a characteristic frequency according to its mor-
+phological, mechanical, and electrical properties, 
+which vary continuously along the tonotopic axis 
+of the cochlea.
+  4.  Hair cells operate much more quickly than do 
+other sensory receptors, which allows them to 
+respond to sound frequencies beyond 100 kHz in 
+some mammalian species. Accordingly, the mech-
+anoelectrical transduction channels in the hair cell 
+are activated directly by mechanical strain.
+  5.  Each hair cell projects from its apical surface 
+a tuft of cylindrical stereocilia—the hair bun-
+dle, which works as a mechanical antenna that 
+vibrates in response to sound stimuli. The trans-
+duction channels occur at the stereociliary tips. 
+Their open probability is modulated by tension 
+changes in tip links that interconnect neighbor-
+ing stereocilia.
+  6.  Uniquely among sensory receptors, hair cells 
+amplify their inputs to enhance their sensitivity, 
+sharpen their frequency selectivity, and widen 
+the range of stimulus levels that they can detect. 
+Two forms of cellular motility contribute to this 
+active process. First, receptor potentials evoke 
+length changes of the somata of outer hair cells, 
+a biological analog of piezoelectricity called elec-
+tromotility. Second, the hair bundle—the mecha-
+nosensory antenna of the hair cell—can vibrate 
+autonomously.
+  7.  The ear not only receives sound but also emits 
+sound called otoacoustic emissions. Spontaneous 
+and evoked otoacoustic emissions result from the 
+cochlea’s active amplification processes.
+  8.  The cochlea does not work as a high-fidelity 
+sound receiver; instead, it introduces conspicuous 
+distortions that contribute to sound perception. 
+The auditory nonlinearity originates in the cochlea, 
+which amplifies preferentially weak sound stimuli, 
+and constitutes a hallmark of sensitive hearing that 
+is used to screen hearing deficits in newborns.
+  9.  A large variety of experimental observations at 
+the level of a single hair bundle, of the basilar 
+membrane, and in psychoacoustics are readily 
+explained if the cochlea contains active mechani-
+cal modules that each operate on the verge of an 
+oscillatory instability—the Hopf bifurcation. The 
+Hopf bifurcation provides a general principle 
+of auditory detection that simplifies our under-
+standing of hearing.
+10.  The evolutionary history of hearing reveals that the 
+various groups of land vertebrates acquired their 
+hearing systems largely independently, but that 
+their sensitivity and frequency selectivity are 
+similar. In particular, both mammalian and non-
+mammalian ears benefit from mechanical ampli-
+fication of sound inputs and show otoacoustic 
+emissions. Mammals most notably differ from 
+other groups in that their hearing range extends 
+to frequencies beyond 12 to 14 kHz.
+11.  Analysis of the genetic forms of deafness has pro-
+vided information on dozens of proteins key to 
+the function of the hair cell, in particular those 
+responsible for mechanoelectrical transduction 
+and for synaptic transmission between hair cells 
+and fibers of the auditory nerve. Although these 
+genes may serve as potential targets for future 
+therapies, sensorineural hearing loss is cur-
+rently treated mostly with hearing aids or coch-
+lear prostheses. New strategies, such as hair-cell 
+replenishment via stem-cell differentiation or 
+optogenetic stimulation of the spiral ganglion, 
+provide promising avenues for research on hear-
+ing restoration.
+ Pascal Martin  
+ Geoffrey A. Manley 
+Selected Reading
+Hudspeth AJ. 1989. How the ear’s works work. Nature 
+341:397–404.
+Hudspeth AJ. 2014. Integrating the active process of hair cells 
+with cochlear function. Nat Rev Neurosci 15:600–614.
+
+
+===== Page 8 =====
+Chapter 26 / Auditory Processing by the Cochlea    627
+Hudspeth AJ, Jülicher F, Martin P. 2010. A critique of the 
+critical cochlea: Hopf—a bifurcation—is better than none.  
+J Neurophysiol 104:1219–1229.
+Kazmierczak P, Sakaguchi H, Tokita J, et al. 2007. Cadherin 
+23 and protocadherin 15 interact to form tip-link filaments 
+in sensory hair cells. Nature 449:87–91.
+Loeb GE. 1985. The functional replacement of the ear. Sci Am 
+252:104–111.
+Pickles JO. 2008. An Introduction to the Physiology of Hearing, 
+3rd ed. New York: Academic.
+Robbles L. Ruggero MA. 2001. Mechanics of the mammalian 
+cochlea. Physiol Rev 81:1305–1352.
+Zheng J, Shen W, He DZZ, Long KB, Madison LD, Dallos P. 
+2000. Prestin is the motor protein of cochlear outer hair 
+cells. Nature 405:149–155.
+References
+Art JJ, Crawford AC, Fettiplace R, Fuchs PA. 1985. Efferent 
+modulation of hair cell tuning in the cochlea of the turtle. 
+J Physiol 360:397–421.
+Ashmore JF. 2008. Cochlear outer-hair-cell motility. Physiol 
+Rev 88:173–210.
+Assad JA, Shepherd GM, Corey DP. 1991. Tip-link integrity 
+and mechanical transduction in vertebrate hair cells. 
+Neuron 7:985–994.
+Avan P, Buki B, Petit C. 2013. Auditory distortions: origins 
+and functions. Physiol Rev 93:1563–1619.
+Barral J, Dierkes K, Lindner B, Jülicher F, Martin P. 2010. 
+Coupling a sensory hair-cell bundle to cyber clones 
+enhances nonlinear amplification. Proc Natl Acad Sci 
+USA 107:8079–8084.
+Barral J, Martin P. 2012. Phantom tones and suppressive 
+masking by active nonlinear oscillation of the hair-cell 
+bundle. Proc Natl Acad Sci USA 109:E1344–E1351.
+Beurg M, Fettiplace R, Nam J-H, Ricci AJ. 2009. Localiza-
+tion of inner hair cell mechanotransducer channels using 
+high-speed calcium imaging. Nat Neurosci 12:553–558.
+Chan DK, Hudspeth AJ. 2005. Ca2+ current-driven nonlin-
+ear amplification by the mammalian cochlea in vitro. Nat 
+Neurosci 8:149–155.
+Corey D, Hudspeth AJ. 1983. Kinetics of the receptor current 
+in bullfrog saccular hair cells. J Neurosci 3:962–976.
+Crawford AC, Fettiplace R. 1981. An electrical tuning mecha-
+nism in turtle cochlear hair cells. J Physiol 312:377–412.
+Fettiplace R, Kim KX. 2014. The physiology of mechano-
+electrical transduction channels in hearing. Physiol Rev 
+94:951–986.
+Frolenkov GI, Atzori M, Kalinec F, Mammano F, Kachar, B. 
+1998. The membrane-based mechanism of cell motility in 
+cochlear outer hair cells. Mol Biol Cell 9:1961–1968.
+Glowatzki E, Fuchs PA. 2002. Transmitter release at the hair 
+cell ribbon synapse. Nat Neurosci 5:147–154.
+Helmholtz HLF. [1877] 1954. On the Sensations of Tone as a 
+Physiological Basis for the Theory of Music. New York: Dover.
+Holley MC, Ashmore JF. 1988. On the mechanism of a high-
+frequency force generator in outer hair cells isolated 
+from the guinea pig cochlea. Proc R Soc Lond B Biol Sci 
+232:413–429.
+Howard J, Hudspeth AJ. 1988. Compliance of the hair bun-
+dle associated with gating of mechanoelectrical transduc-
+tion channels in the bullfrog’s saccular hair cell. Neuron 
+1:189–199.
+Hudspeth AJ, Gillespie PG. 1994. Pulling springs to tune 
+transduction: adaptation by hair cells. Neuron 12:1–9.
+Jacobs RA, Hudspeth AJ. 1990. Ultrastructural correlates of 
+mechanoelectrical transduction in hair cells of the bull-
+frog’s internal ear. Cold Spring Harbor Symp Quant Biol 
+55:547–561.
+Johnson SL, Beurg M, Marcotti W, Fettiplace R. 2011. Prestin-
+driven cochlear amplification is not limited by the outer 
+hair cell membrane time constant. Neuron 70:1143–1154.
+Kemp DT. 1978. Stimulated acoustic emissions from 
+within the human auditory system. J Acoust Soc Am 
+64:1386–1391.
+Kiang NY-S. 1965. Discharge Patterns of Single Fibers in the 
+Cat’s Auditory Nerve. Cambridge, MA: MIT Press.
+Kiang NY-S. 1980. Processing of speech by the auditory nerv-
+ous system. J Acoust Soc Am 68:830–835.
+Liberman MC. 1982. Single-neuron labeling in the cat audi-
+tory nerve. Science 216:1239–1241.
+Loeb GE, Byers CL, Rebscher SJ, et al. 1983. Design and fab-
+rication of an experimental cochlear prosthesis. Med Biol 
+Eng Comput 21:241–254.
+Manley GA. 2012. Evolutionary paths to mammalian coch-
+leae. J Assoc Res Otolaryngol 13:733–743.
+Manley GA, Köppl C. 1998. Phylogenic development of the 
+cochlea and its innervation. Curr Opin Neurobiol 8:468–474.
+Martin P, Hudspeth AJ. 1999. Active hair-bundle movements 
+can amplify a hair cell’s response to oscillatory mechani-
+cal stimuli. Proc Natl Acad Sci USA 96:14306–14311.
+Michalski N, Petit C. 2015. Genetics of auditory mechano-
+electrical transduction. Pflugers Arch 467:49–72.
+Murphy WJ, Tubis A, Talmadge CL, Long GR. 1995. Relaxa-
+tion dynamics of spontaneous otoacoustic emissions per-
+turbed by external forces. II. Suppression of interacting 
+emissions. J Acoust Soc Am 97:3711–3720.
+Oshima K, Shin K, Diensthuber M, Peng AW, Ricci AJ, 
+Heller S. 2010. Mechanosensitive hair cell-like cells from 
+embryonic and induced pluripotent stem cells. Cell 141: 
+704–716.
+Pan B, Akyuz N, Liu XP, et al. 2018. TMC1 forms the pore 
+of mechanosensory transduction channels in vertebrate 
+inner ear hair cells. Neuron 99:736–753.
+Probst R, Lonsbury-Martin BL, Martin GK. 1991. A review 
+of otoacoustic emissions. J Acoust Soc Am 89:2027–2067.
+Reichenbach T, Hudspeth AJ. 2014. The physics of hearing: 
+fluid mechanics and the active process of the inner ear. 
+Rep Prog Phys 77:0706601.
+Ricci AJ, Crawford AC, Fettiplace R. 2003. Tonotopic vari-
+ation in the conductance of the hair cell mechanotrans-
+ducer channel. Neuron 40:983–990.
+Sotomayor M, Weihofen WA, Gaudet R, Corey DP. 2012. Struc-
+ture of a force-conveying cadherin bond essential for the 
+inner-ear mechanotransduction. Nature 492:128–132.
+
+
+===== Page 9 =====
+628    Part IV / Perception
+Spoendlin H. 1974. Neuroanatomy of the cochlea. In:  
+E Zwicker, E Terhardt (eds). Facts and Models in Hearing, 
+pp. 18–32. New York: Springer-Verlag.
+Stauffer EA, Scarborough JD, Hirono M, et al. 2005. Fast 
+adaptation in vestibular hair cells requires myosin-1c 
+activity. Neuron 47:541–553.
+Tinevez JY, Jülicher F, Martin P. 2007. Unifying the various 
+incarnations of active hair-bundle motility by the verte-
+brate hair cell. Biophys J 93:4053–4067.
+von Békésy G. 1960. Experiments in Hearing. EG Wever (ed, 
+transl). New York: McGraw-Hill.
+Wilson JP. 1980. Evidence for a cochlear origin for acoustic 
+re-emissions, threshold fine-structure and tonal tinnitus. 
+Hear Res 2:233–252.
+Wu Z, Müller U. 2016. Molecular identity of the mecha-
+notransduction channel in hair cells: not quiet there yet.  
+J Neurosci 36:10927–10934.
+
+

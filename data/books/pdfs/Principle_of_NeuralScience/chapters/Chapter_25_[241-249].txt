@@ -1,0 +1,1051 @@
+===== Page 1 =====
+Net currents
+Na+
+K+
+A  K+ channels only
+K+
+K+ driving forces
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
+B  K+ and Na+ channels
+K+
+Net driving forces
+Na+
+K+
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
+Na+
+C  Steady state
+D
+K+
+A
+0
+ENa
+Vr
+EK
+Vm
+B
+Time
+C
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
+Na+
+Na+ driving forces
+Chemical  Electrical
+Chemical  Electrical
+Figure 9–4  The resting potential of a cell is determined by 
+the proportions of different types of ion channels that are 
+open, together with the value of their equilibrium poten-
+tials. The channels in the figures represent the entire comple-
+ment of K+ or Na+ channels in this hypothetical cell membrane. 
+The lengths of the arrows within the channels represent the 
+relative amplitudes of the electrical (red) and chemical (blue) 
+driving forces acting on Na+ or K+. The lengths of the arrows 
+in the diagram on the right denote the relative sizes of the net 
+driving force (the sum of the electrical and chemical driving 
+forces) for Na+ and K+ and the net ion currents. Three  
+hypothetical situations are illustrated.
+A. In a resting cell in which only K+ channels are present, K+ 
+ions are in equilibrium and Vm = EK.
+B. Adding a few Na+ channels to the resting membrane allows 
+Na+ ions to diffuse into the cell, and this influx begins to depo-
+larize the membrane.
+C. The resting potential settles at a new level (Vr), where the 
+influx of Na+ is balanced by the efflux of K+. In this example, the 
+aggregate conductance of the K+ channels is much greater than 
+that of the Na+ channels because the K+ channels are more 
+numerous. As a result, a relatively small net driving force for K+ 
+drives a current equal and opposite to the Na+ current driven by 
+the much larger net driving force for Na+. This is a steady-state 
+condition, in which neither Na+ nor K+ is in equilibrium but the 
+net flux of charge is null.
+D. Membrane voltage changes during the hypothetical situa-
+tions illustrated in parts A, B, and C.
+
+
+===== Page 2 =====
+Chapter 9 / Membrane Potential and the Passive Electrical Properties of the Neuron    197
+diffusion mechanisms discussed earlier. During peri-
+ods of intense neuronal activity, the increased influx 
+of Na+ leads to an increase in Na+-K+ pump activity 
+that generates a prolonged outward current, leading 
+to a hyperpolarizing after-potential that can last for 
+several minutes, until the normal Na+ concentration is 
+restored. The Na+-K+ pump is inhibited by ouabain or 
+digitalis plant alkaloids, an action that is important in 
+the treatment of heart failure.
+The Na+-K+ pump is a member of a large family 
+of pumps known as P-type ATPases (because the phos-
+phoryl group of ATP is temporarily transferred to the 
+pump). P-type ATPases include a Ca2+ pump that trans-
+ports Ca2+ across cell membranes (Figure 9–5A). All cells 
+normally maintain a very low cytoplasmic Ca2+ con-
+centration, between 50 and 100 nM. This concentration 
+is more than four orders of magnitude lower than the 
+external concentration, which is approximately 2 mM 
+Figure 9–5  Pumps and transporters regulate the  
+chemical concentration gradients of Na+, K+, Ca2+, and 
+Cl− ions.
+A. The Na-K+ pump and Ca2+ pump are two examples of active 
+transporters that use the energy of adenosine triphosphate 
+(ATP) hydrolysis to transport ions against their concentration 
+gradient. The α-subunit of a Na-K+ pump or homologous Ca2+ 
+pump (below) has 10 transmembrane segments, a cytoplas-
+mic amino terminus, and a cytoplasmic carboxyl terminus. 
+There are also cytoplasmic loops important for binding ATP 
+(N), ATP hydrolysis and phosphorylation of the pump (P), and 
+transducing phosphorylation to transport (A). The Na+-K+ pump 
+also contains a smaller β-subunit with a single transmembrane 
+domain plus a small accessory integral membrane protein 
+FXYD, which modulates pump kinetics (not shown).
+B. The Na+-Ca2+ exchanger uses the potential energy of the 
+electrochemical gradient of Na+ to transport Ca2+ out of a cell. 
+The Na+-Ca2+ exchanger contains nine transmembrane seg-
+ments, two reentrant membrane loops important for ion trans-
+port, and a large cytoplasmic regulatory loop. Chloride ions are 
+transported into the cell by the Na+-K+-Cl− cotransporter and 
+out of the cell by the K+-Cl− cotransporter. These transporters 
+are members of a family of Cl− transport proteins with 12 trans-
+membrane segments (below).
+In
+Out
+In
+COOH
+A   Primary active transport
+B   Secondary active transport
+H+
+NH2
+K+
+Na+
+ATP ADP
+Na+ – K+ pump
+Na+ – Ca2+
+exchanger
+ATP ADP
+Ca2+ pump
+K+
+Ca2+
+N
+ATP
+P
+Na+ – K+ pump, Ca2+ pump
+A
+COOH
+NH2
+K+ – Cl– cotransporter
+Na+
+Na+
+Cl–
+Na+ – K+ – Cl–
+cotransporter
+K+ – Cl–
+cotransporter
+K+
+Cl–
+Ca2+
+Out
+in mammals. Calcium pumps in the plasma membrane 
+transport Ca2+ out of the cell; other Ca2+ pumps located 
+in internal membranes, such as the smooth endoplas-
+mic reticulum, transport Ca2+ from the cytoplasm into 
+these intracellular Ca2+ stores. Calcium pumps are 
+thought to transport two Ca2+ ions for each ATP mol-
+ecule that is hydrolyzed, with two protons transported 
+in the opposite direction.
+The Na+-K+ pump and Ca2+ pump have similar 
+structures. They are formed from 110 kD α-subunits, 
+whose large transmembrane domain contains 10 
+membrane-spanning α-helixes (Figure 9–5A). In the 
+Na+-K+ pump, an α-subunit associates with an obliga-
+tory β-subunit that is required for proper assembly and 
+membrane expression of the pump. In humans, four 
+genes encode highly related Na+-K+ pump α-subunits 
+(ATP1A1, ATP1A2, ATP1A3, ATP1A4). Mutations in 
+ATP1A2 result in familial hemiplegic migraine, a form 
+
+
+===== Page 3 =====
+198    Part II / Cell and Molecular Biology of Cells of the Nervous System
+of migraine associated with an aura and muscle weak-
+ness. Certain mutations in the neuron-specific ATP1A3 
+isoform lead to rapid-onset dystonia parkinsonism, a 
+movement disorder that first occurs in late adolescence 
+or early adulthood. A different set of mutations lead to 
+a distinct neurological disorder, alternating hemiple-
+gia of childhood, a paralysis that affects one side of the 
+body and develops in children under the age of 2.
+Most neurons have relatively few Ca2+ pumps in 
+the plasma membrane. Instead, Ca2+ is transported 
+out of the cell primarily by the Na+-Ca2+ exchanger  
+(Figure 9–5B). This membrane protein is not an ATPase 
+but a different type of molecule called a cotransporter. 
+Cotransporters move one type of ion against its elec-
+trochemical gradient by using the energy stored in the 
+electrochemical gradient of a second ion. (The CLC 
+Cl--H+ cotransporter discussed in Chapter 8 is a type 
+of exchanger.) In the case of the Na+-Ca2+ exchanger, 
+the electrochemical gradient of Na+ drives the efflux 
+of Ca2+. The exchanger transports three or four Na+ 
+ions into the cell (down the electrochemical gradient 
+for Na+) for each Ca2+ ion it removes (against the elec-
+trochemical gradient of Ca2+). Because Na+ and Ca2+ 
+are transported in opposite directions, the exchanger 
+is termed an antiporter. Ultimately, it is the hydrolysis 
+of ATP by the Na+-K+ pump that provides the energy 
+(stored in the Na+ gradient) to maintain the function of 
+the Na+-Ca2+ exchanger. For this reason, ion flux driven 
+by cotransporters is often referred to as secondary active 
+transport, to distinguish it from the primary active 
+transport driven directly by ATPases.
+Chloride Ions Are Also Actively Transported
+So far, for simplicity, we have ignored the contribution 
+of chloride (Cl−) to the resting potential. However, in 
+most nerve cells, the Cl− gradient across the cell mem-
+brane is controlled by one or more active transport 
+mechanisms so that ECl differs from Vr. As a result, the 
+presence of open Cl− channels will bias the mem-
+brane potential toward its Nernst potential. Chloride 
+transporters typically use the energy stored in the gra-
+dients of other ions—they are cotransporters.
+Cell membranes contain a number of different 
+types of Cl− cotransporters (Figure 9–5B). Some trans-
+porters increase intracellular Cl− to levels greater 
+than those that would be passively reached if the Cl− 
+Nernst potential was equal to the resting potential. In 
+such cells, ECl is positive to Vr so that the opening of 
+Cl− channels depolarizes the membrane. An example 
+of this type of transporter is the Na+-K+-Cl− cotrans-
+porter. This protein transports two Cl− ions into the cell 
+together with one Na+ and one K+ ion. As a result, the 
+transporter is electroneutral. The Na+-K+-Cl− cotrans-
+porter differs from the Na+-Ca2+ exchanger in that the 
+former transports all three ions in the same direction—
+it is a symporter.
+In most neurons, the Cl− gradient is determined by 
+cotransporters that move Cl− out of the cell. This action 
+lowers the intracellular concentration of Cl− so that ECl 
+is typically more negative than the resting potential. 
+As a result, the opening of Cl− channels leads to an 
+influx of Cl− that hyperpolarizes the membrane. The 
+K+-Cl− cotransporter is an example of such a transport 
+mechanism; it moves one K+ ion out of the cell for each 
+Cl− ion it exports.
+Interestingly, in early neuronal development, 
+cells tend to express primarily the Na+-K+-Cl− cotrans-
+porter. As a result, at this stage the neurotransmitter 
+γ-aminobutyric acid (GABA), which activates ligand-
+gated Cl− channels, typically has an excitatory (depo-
+larizing) effect. As neurons develop, they begin to 
+express the K+-Cl- cotransporter, such that in most 
+mature neurons GABA typically hyperpolarizes the 
+membrane and thus acts as an inhibitory neurotrans-
+mitter. In some pathological conditions in adults, such 
+as certain types of epilepsy or chronic pain syndromes, 
+the expression pattern of the Cl− cotransporters may 
+revert to that of the immature nervous system. This 
+will lead to aberrant depolarizing responses to GABA 
+that can produce abnormally high levels of excitation.
+The Balance of Ion Fluxes in the Resting 
+Membrane Is Abolished During the  
+Action Potential
+In the nerve cell at rest, the steady Na+ influx is balanced 
+by a steady K+ efflux, so that the membrane potential 
+is constant. This balance changes when the membrane 
+is depolarized toward the threshold for an action 
+potential. As the membrane potential approaches this 
+threshold, voltage-gated Na+ channels open rapidly. 
+The resultant increase in membrane conductance to 
+Na+ causes the Na+ influx to exceed the K+ efflux once 
+threshold is exceeded, creating a net influx of positive 
+charge that causes further depolarization. The increase 
+in depolarization causes still more voltage-gated Na+ 
+channels to open, resulting in a greater influx of Na+, 
+which accelerates the depolarization even further.
+This regenerative, positive feedback cycle develops 
+explosively, driving the membrane potential rapidly 
+toward the Na+ equilibrium potential of +55 mV:
+E
+RT
+F ln [Na]
+[Na]
+58 mV
+log [440]
+[50] = +55 mV.
+Na
+o
+i
+=
+=
+×
+
+
+===== Page 4 =====
+Chapter 9 / Membrane Potential and the Passive Electrical Properties of the Neuron    199
+However, the membrane potential never quite reaches 
+ENa because K+ efflux continues throughout the depo-
+larization. A slight influx of Cl− into the cell also 
+counteracts the depolarizing effect of the Na+ influx. 
+Nevertheless, so many voltage-gated Na+ channels 
+open during the rising phase of the action potential that 
+the cell membrane’s Na+ conductance is much greater 
+than the conductance of either Cl− or K+. Thus, at the 
+peak of the action potential, the membrane potential 
+approaches the Na+ equilibrium potential, just as at 
+rest (when permeability to K+ is predominant), the 
+membrane potential tends to approach the K+ equilib-
+rium potential.
+The Contributions of Different Ions to 
+the Resting Membrane Potential Can Be 
+Quantified by the Goldman Equation
+Although K+, Na+, and Cl− fluxes set the value of the 
+resting potential, Vm is not equal to EK, ENa, or ECl but 
+lies at some intermediate value. As a general rule, 
+when Vm is determined by two or more species of ions, 
+the contribution of one species is determined not only 
+by the concentrations of the ion inside and outside the 
+cell but also by the ease with which the ion crosses the 
+membrane.
+One convenient measure of how readily the ion 
+crosses the membrane is the permeability (P) of the 
+membrane to that ion, which has units of velocity 
+(cm/s). This measure is similar to that of a diffusion 
+constant, which determines the rate of solute move-
+ment in solution driven by a local concentration gradient. 
+The dependence of membrane potential on ionic per-
+meability and concentration is given by the Goldman 
+equation:
+V
+RT
+F
+P
+P
+P
+P
+P
+P
+ln
+[K ] +
+[Na ] +
+[Cl ]
+[K ] +
+[Na ] +
+[Cl ] .
+m
+K
++
+o
+Na
++
+o
+Cl
+–
+i
+K
++
+i
+Na
++
+i
+Cl
+–
+o
+=
+Goldman Equation
+This equation applies only when Vm is not chang-
+ing. It states that the greater the concentration of an 
+ion species and the greater its membrane permeabil-
+ity, the greater is its contribution to determining the 
+membrane potential. In the limit, when permeability 
+to one ion is exceptionally high, the Goldman equation 
+reduces to the Nernst equation for that ion. For example, if 
+PK >> PCl or PNa, as in glial cells, the equation becomes 
+as follows:
+Vm ≅
+ 
+RT
+F
+K
+K
+ln [
+]
+[
+] .
++
++
+o
+i
+Alan Hodgkin and Bernard Katz used the Goldman 
+equation to analyze changes in membrane potential 
+in the squid giant axon. They measured the varia-
+tions in membrane potential in response to systematic 
+changes in the extracellular concentrations of Na+, Cl−, 
+and K+. They found that if Vm is measured shortly after 
+the extracellular concentration is changed (before the 
+internal ionic concentrations are altered), [K+]o has a 
+strong effect on the resting potential, [Cl−]o has a mod-
+erate effect, and [Na+]o has little effect. The data for the 
+membrane at rest could be fit accurately by the Gold-
+man equation using the following permeability ratios:
+PK : PNa : PCl = 1.0 : 0.04 : 0.45.
+At the peak of the action potential, there is an instant in 
+time when Vm is not changing and the Goldman equation 
+is applicable. At that point, the variation of Vm with 
+external ionic concentrations is fit best if a quite differ-
+ent set of permeability ratios is assumed:
+PK : PNa : PCl = 1.0 : 20 : 0.45.
+For these values of permeability, the Goldman equation 
+approaches the Nernst equation for Na+:
+Vm ≅
+ 
+= +
++
++
+RT
+F ln [Na ]
+[Na ]
+55 mV.
+o
+i
+Thus, at the peak of the action potential, when the 
+membrane is much more permeable to Na+ than to any 
+other ion, Vm approaches ENa. However, the finite per-
+meability of the membrane to K+ and Cl− results in K+ 
+efflux and Cl− influx that partially counterbalance Na+ 
+influx, thereby preventing Vm from quite reaching ENa.
+The Functional Properties of the Neuron  
+Can Be Represented as an Electrical  
+Equivalent Circuit
+The utility of the Goldman equation is limited because 
+it cannot be used to determine how membrane poten-
+tial changes with time or distance within a neuron in 
+response to a local change in permeability. It is also 
+inconvenient for determining the magnitude of the 
+individual Na+, K+, and Cl− currents. This information 
+can be obtained using a simple mathematical model 
+derived from electric circuit theory. The model, called 
+an equivalent circuit, represents all of the important 
+electrical properties of the neuron by a circuit consist-
+ing of conductors or resistors, batteries, and capaci-
+tors. Equivalent circuits provide us with an intuitive 
+understanding as well as a quantitative description of 
+
+
+===== Page 5 =====
+200    Part II / Cell and Molecular Biology of Cells of the Nervous System
+how current caused by the movement of ions gener-
+ates electrical signals in nerve cells.
+The first step in developing an equivalent circuit is 
+to relate the membrane’s discrete physical properties 
+to its electrical properties. The lipid bilayer endows 
+the membrane with electrical capacitance, the ability 
+of an electrical nonconductor (insulator) to separate 
+electrical charges on either side of it. The nonconduct-
+ing phospholipid bilayer of the membrane separates 
+the cytoplasm and extracellular fluid, both of which 
+are highly conductive environments. The separation of 
+charges on the inside and outside surfaces of the cell 
+membrane (the capacitor) gives rise to the electrical 
+potential difference across the membrane. The electri-
+cal potential difference or voltage across a capacitor is
+V = Q/C,
+where Q is the net excess positive or negative charge 
+on each side of the capacitor and C is the capacitance.
+Capacitance is measured in units of farads (F), and 
+charge is measured in coulombs (where 96,500 cou-
+lombs of a univalent ion is equivalent to 1 mole of that 
+ion). A charge separation of 1 coulomb across a capaci-
+tor of 1 F produces a potential difference of 1 volt. A 
+typical value of membrane capacitance for a nerve cell 
+is approximately 1 μF per cm2 of membrane area. Very 
+few charges are required to produce a significant poten-
+tial difference across such a capacitance. For example, 
+the excess of positive and negative charges separated 
+by the membrane of a spherical cell body with a diam-
+eter of 50 μm and a resting potential of −60 mV is  
+29 × 106 ions. Although this number may seem large, it 
+represents only a tiny fraction (1/200,000) of the total 
+number of positive or negative charges in solution 
+within the cytoplasm. The bulk of the cytoplasm and 
+the bulk of the extracellular fluid are electroneutral.
+The membrane is a leaky capacitor because it is 
+studded with ion channels that can conduct charge. 
+Ion channels endow the membrane with conductance 
+and with the ability to generate an electrical potential 
+difference. The lipid bilayer itself has effectively zero 
+conductance or infinite resistance. However, because 
+ion channels are highly conductive, they provide path-
+ways of finite electrical resistance for ions to cross the 
+membrane. Because neurons contain many types of 
+channels selective for different ions, we must consider 
+each class of ion channel separately.
+In an equivalent circuit we can represent each K+ 
+channel as a resistor or conductor of ionic current with 
+a single-channel conductance γK (remember, conduct-
+ance = 1/resistance) (Figure 9–6A). If there were no K+ 
+concentration gradient, the current through a single K+ 
+Figure 9–6  Chemical and electrical forces contribute to cur-
+rent through an ion channel.
+A. A concentration gradient for K+ gives rise to an electromo-
+tive force, which has a value equal to EK, the Nernst potential 
+for K+. This can be represented by a battery. In this circuit, the 
+battery EK is in series with the conductor γK, representing the 
+conductance of the K+ channel.
+B. The current-voltage relation for a K+ channel in the presence 
+of both electrical and chemical driving forces. The membrane 
+potential at which the current is zero is equal to the K+ Nernst 
+potential.
+Cl–
+Cl–
+Na+
+A–
+Extracellular
+side
+i
+slope = γK
+EK
+V
+A
+B
+Cytoplasmic
+side
+γK
+EK
+=
+K+
+K+
+–
++
+channel would be given by Ohm’s law: iK = γK × Vm. 
+However, normally there is a K+ concentration gradi-
+ent, and thus also a chemical force driving K+ across 
+the membrane, represented in the equivalent circuit 
+by a battery. (A source of electrical potential is called 
+an electromotive force [EMF], and an electromotive force 
+generated by a difference in chemical potentials is 
+called a battery.) The electromotive force of this battery 
+is given by EK, the Nernst potential for K+ (Figure 9–6).
+In the absence of voltage across the membrane, the 
+normal K+ concentration gradient causes an outward 
+K+ current. According to our convention for current, an 
+outward movement of positive charge across the mem-
+brane corresponds to a positive current. According to 
+the Nernst equation, when the concentration gradient 
+for a positively charged ion, such as K+, is directed 
+
+
+===== Page 6 =====
+Chapter 9 / Membrane Potential and the Passive Electrical Properties of the Neuron    201
+outward (ie, the K+ concentration inside the cell is 
+higher than outside), the equilibrium potential for that 
+ion is negative. Thus, the K+ current that flows solely 
+because of its concentration gradient is given by iK = 
+−γK × EK (the negative sign is required because a nega-
+tive equilibrium potential produces a positive current 
+at 0 mV).
+Finally, for a real neuron that has both a membrane 
+potential and a K+ concentration gradient, the net K+ 
+current is given by the sum of the currents caused by 
+the electrical and chemical driving forces:
+           iK = (γK × Vm) − (γK × EK) = γK × (Vm − EK).     (9–1)
+The factor (Vm − EK) is called the electrochemical 
+driving force. It determines the direction of ionic cur-
+rent and (along with the conductance) its magnitude. 
+This equation is a modified form of Ohm’s law that 
+takes into account the fact that ionic current through 
+a membrane is determined not only by the voltage 
+across the membrane but also by the ionic concentra-
+tion gradients.
+A cell membrane has many resting K+ channels, 
+all of which can be combined into a single equivalent 
+circuit element consisting of a conductor in series with 
+a battery. In this equivalent circuit, the total conduct-
+ance of all the K+ channels (gK), ie, the K+ conductance 
+of the cell membrane in its resting state, is equal to the 
+number of resting K+ channels (NK) multiplied by the 
+conductance of an individual K+ channel (γK):
+gK = NK × γK.
+Because the battery in this equivalent circuit 
+depends solely on the concentration gradient for K+ 
+and is independent of the number of K+ channels, its 
+value is the equilibrium potential for K+, EK.
+Like the population of resting K+ channels, all the 
+resting Na+ channels can be represented by a single 
+conductor in series with a single battery, as can the 
+resting Cl− channels. Because the K+, Na+, and Cl− chan-
+nels account for the bulk of the passive ionic current 
+through the membrane in the cell at rest, we can calcu-
+late the resting potential by incorporating these three 
+pathways into a simple equivalent circuit of a neuron 
+(Figure 9–7).
+To complete this circuit, we first connect the ele-
+ments representing each type of channel at their two 
+ends with elements representing the extracellular 
+fluid and cytoplasm. The extracellular fluid and cyto-
+plasm are both good conductors (compared with 
+the membrane) because they have relatively large 
+cross-sectional areas and many ions available to carry 
+charge. In a small region of a neuron, the extracellular 
+Figure 9–7  An equivalent circuit of passive and active 
+current in a resting neuron. The total K+ conductance rep-
+resented by the symbol gK is the product of γK × N, the total 
+number of open K+ channels in the resting membrane. The total 
+conductances for Na+ and Cl− channels are determined in a sim-
+ilar fashion. Under steady-state conditions, the passive Na+ and 
+K+ currents are balanced by active Na+ and K+ fluxes (I ′Na and  
+I ′K) driven by the Na-K+ pump. The active Na+ flux (I ′Na) is 50% 
+greater than the active K+ flux (I ′K) because the Na+-K+ pump 
+transports three Na+ ions out for every two K+ ions it transports 
+into the cell. As a result, for the cell to remain in a steady state, 
+INa must be 50% greater than IK (arrow size is proportional to 
+current magnitude). There is no current through the Cl− chan-
+nels because in this example Vm is at ECl, the Cl− equilibrium 
+potential.
+gNa
+ENa
+gK
+EK
+gCl
+ECl
++ + ++
+– – – –
+IK
+I′K
+I′Na
+INa
+Cm
+Na+– K+ pump
+Extracellular side
+Cytoplasmic side
++
+–
+–
++
+–
++
+and cytoplasmic resistances can be approximated by 
+a short circuit—a conductor with zero resistance. The 
+membrane capacitance (Cm) is determined by the insu-
+lating properties of the lipid bilayer and its area.
+Finally, the equivalent circuit can be made com-
+plete by incorporating the active ion fluxes driven 
+by the Na+-K+ pump, which extrudes three Na+ ions 
+from the cell for every two K+ ions it pumps in. This 
+electrogenic ATP-dependent pump, which keeps the 
+ionic batteries charged, is represented in the equiva-
+lent circuit by the symbol for a current generator  
+(Figure 9–7). The use of the equivalent circuit to ana-
+lyze neuronal properties quantitatively is illustrated in 
+Box 9–2, where the equivalent circuit is used to calcu-
+late the resting potential.
+The Passive Electrical Properties of the  
+Neuron Affect Electrical Signaling
+Once an electrical signal is generated in part of a neu-
+ron, for example in response to a synaptic input on 
+a branch of a dendrite, it is integrated with the other 
+inputs to the neuron and then propagated to the axon 
+initial segment, the site of action potential genera-
+tion. When synaptic potentials, receptor potentials, or 
+action potentials are generated in a neuron, the mem-
+brane potential changes rapidly.
+
+
+===== Page 7 =====
+202    Part II / Cell and Molecular Biology of Cells of the Nervous System
+Figure 9–8  The electrical 
+equivalent circuit used to cal-
+culate the resting membrane 
+potential. In this example, it is 
+assumed that the Cl− cotrans-
+porter maintains intracellular 
+Cl− at a relatively low value. As a 
+result, the Cl− equilibrium poten-
+tial is more negative than the 
+resting potential.
+An equivalent circuit model of the resting membrane can 
+be used to calculate the resting potential (Figure 9–8).  
+To simplify the calculation, we ignore the electrogenic 
+influence of the Na+-K+ pump because it is small. 
+We also ignore membrane capacitance because Vm is 
+unchanging, so the charge on the capacitance is also not 
+changing.
+Because there are more resting channels for K+ than 
+for Na+, the membrane conductance for K+ is much 
+greater than that for Na+. In the equivalent circuit in  
+Figure 9–8, gK (10 × 10−6 S) is 20 times higher than gNa 
+(0.5 × 10−6 S). For most nerve cells, the value of gCl ranges 
+from one-fourth to one-half of gK. In this example, gCl 
+equals 4.0 × 10−6 S. Given these values and the values of 
+EK, ECl, and ENa, we can calculate Vm as follows.
+Since the membrane potential is constant, there is 
+no net current through the three sets of ion channels:
+                            IK+ ICl + INa = 0.                           (9–2)
+We can easily calculate each current in two steps. 
+First, we add up the separate potential differences across 
+each branch of the circuit. For example, in the K+ branch, 
+the total potential difference is the sum of the the battery 
+EK and the voltage drop across gK given by Ohm’s law 
+(Vm = IK/gK):*
+Vm = EK + IK/gK
+Similarly, for the Na+ and Cl− conductance branches:
+Vm = ECl + ICl/gCl
+Vm = ENa + INa/gNa
+Next, we rearrange and solve for the ionic current I 
+in each branch:
+                     INa = gNa × (Vm − ENa)                        (9–3a)
+                      IK = gK × (Vm − EK)                          (9–3b)
+                      ICl = gCl × (Vm – ECl).                         (9–3c)
+These equations are similar to Equation 9–1, in 
+which the net current through a single ion channel 
+is derived from the currents caused by the individual 
+Box 9–2  Using the Equivalent Circuit Model to Calculate Resting Membrane Potential
+gNa = 0.5 × 10–6 S
+ENa = +55 mV
+INa
+ICl
+gCI = 4.0 × 10–6 S
+ECI = – 73 mV
+gK = 10 × 10–6 S
+EK = –75 mV
+Vm
+Extracellular side
+Cytoplasmic side
++
+–
+–
++
+IK
+–
++
+*Because we have defined Vm as Vin − Vout, the following convention must be used for these equations. Outward current (in this case 
+IK) is positive and inward current is negative. Batteries whose positive pole is directed toward the inside of the membrane (eg, ENa) 
+are given positive values in the equations. The reverse is true for batteries whose negative pole is directed toward the inside, such 
+as the K+ battery.
+What determines the rate of change in potential 
+with time or distance? What determines whether a 
+stimulus will or will not produce an action potential? 
+Here we consider the neuron’s passive electrical prop-
+erties and geometry and how these relatively constant 
+properties affect the cell’s electrical signaling. The 
+actions of the gated channels and the ionic currents 
+that change the membrane potential are described in 
+the next five chapters.
+Neurons have three passive electrical properties 
+that are important for electrical signaling. We have 
+already described the resting membrane conductance 
+or resistance (gr = 1/Rr) and the membrane capaci-
+tance, Cm. A third important property that determines 
+signal propagation along dendrites or axons is their 
+intracellular axial resistance (ra). Although the resistiv-
+ity of cytoplasm is much lower than that of the mem-
+brane, the axial resistance along the entire length of an 
+
+
+===== Page 8 =====
+Chapter 9 / Membrane Potential and the Passive Electrical Properties of the Neuron    203
+Figure 9–9  The Na+, K+, and Cl− resting channels can 
+be simplified to a single conductance and battery. For 
+an equivalent circuit model of the resting membrane (eg, 
+Figure 9–8), the total membrane conductance (gr) is calcu-
+lated from the sum of the Na+, K+, and Cl− conductances, 
+and the value of the resting potential battery (Er) is calcu-
+lated from Equation 9–4.
+driving forces. As these equations illustrate, the ionic 
+current through each conductance branch is equal to 
+the conductance of that branch multiplied by the net 
+electrochemical driving force. Thus, for the K+ current, 
+the conductance is proportional to the number of open 
+K+ channels, and the driving force is equal to the differ-
+ence between Vm and EK. If Vm is more positive than EK  
+(−75 mV), the driving force is positive and the current 
+is outward; if Vm is more negative than EK, the driving 
+force is negative and the current is inward.
+Similar equations are used in a variety of contexts 
+throughout this book to relate the magnitude of a par-
+ticular ionic current to its membrane conductance and 
+driving force.
+As we saw in Equation 9–2, INa + IK + ICl = 0. If we 
+now substitute Equations 9–3a,b,c for INa, IK, and ICl in 
+Equation 9–2, multiply through, and rearrange, we 
+obtain the following expression:
+Vm × (gNa + gK + gCl) = (ENa × gNa) + (EK × gK)
++ (ECl × gCl).
+Solving for Vm, we obtain an equation for the rest-
+ing membrane potential that is expressed in terms of 
+membrane conductances g and batteries E:
+       
+V
+E
+g
+E
+g
+E
+g
+g
+g
+g
+(
+)
+(
+) + (
+) .
+m
+Na
+Na
+K
+K
+Cl
+Cl
+Na
+K
+Cl
+=
+×
++
+×
+×
++
++
+       
+(9–4)
+From this equation, using the values in our equiva-
+lent circuit (Figure 9–8), we calculate that Vm = −70 mV.
+Equation 9–4 states that Vm approaches the value 
+of the ionic batteries that have the greater conductance. 
+This principle can be illustrated by considering what 
+happens during the action potential. At the peak of the 
+action potential, gK and gCl are essentially unchanged 
+from their resting values, but gNa increases as much as 
+500-fold. This increase in gNa is caused by the opening 
+of voltage-gated Na+ channels. In the equivalent circuit 
+in Figure 9–8, a 500-fold increase would change gNa from 
+0.5 × 10−6 S to 250 × 10−6 S.
+If we substitute this new value of gNa into  
+Equation 9–4 and solve for Vm, we obtain +48  mV. 
+Vm is closer to ENa than to EK at the peak of the action 
+potential because gNa is now 25-fold greater than gK 
+and 62.5-fold greater than gCl, so that the Na+ battery 
+becomes much more important than the K+ and Cl– 
+batteries in determining Vm.
+Equation 9–4 is similar to the Goldman equation in 
+that the contribution to Vm of each ionic battery is weighted 
+in proportion to the conductance of the membrane for that 
+particular ion. In the limit, if the conductance for one ion is 
+much greater than that for the other ions, Vm approaches 
+the value of that ion’s Nernst potential.
+The equivalent circuit can be further simplified by 
+lumping the conductance of all the resting channels that 
+contribute to the resting potential into a single conduct-
+ance, gr, and replacing the battery for each conductance 
+channel with a single battery Er, whose value is given by 
+Equation 9–4 (Figure 9–9). Here the subscript r stands 
+for the resting channel pathway. Because the resting 
+channels provide a pathway for the steady leakage of 
+ions across the membrane, they are sometimes referred 
+to as leakage channels (Chapter 10). This consolidation of 
+resting pathways will prove useful when we consider 
+the effects on membrane voltage of current through volt-
+age-gated and ligand-gated channels in later chapters.
+gr = gCI + gNa +gK = 14.5 × 10–6 S
+gK EK + gCI ECI + gNa ENa
+Er =
+gCI + gNa + gK 
+= –70 mV
+–
++
+Extracellular side
+Cytoplasmic side
+extended thin neuronal process can be considerable. 
+Because these three elements provide the return path-
+way to complete the electrical circuit when active ionic 
+currents flow into or out of the cell, they determine the 
+time course of the change in synaptic potential gen-
+erated by the synaptic current. They also determine 
+whether a synaptic potential generated in a dendrite 
+will depolarize the trigger zone at the axon initial seg-
+ment enough to fire an action potential. Finally, the 
+passive properties influence the speed at which an 
+action potential is conducted.
+Membrane Capacitance Slows the Time Course of 
+Electrical Signals
+The steady-state change in a neuron’s voltage in 
+response to subthreshold current resembles the behav-
+ior of a simple resistor, but the time course of the change 
+
+
+===== Page 9 =====
+204    Part II / Cell and Molecular Biology of Cells of the Nervous System
+does not. A true resistor responds to a step change in 
+current with a similar step change in voltage, but the 
+neuron’s membrane potential rises and decays more 
+slowly than the step change in current because of its 
+capacitance (Figure 9–10).
+To understand how the capacitance slows down 
+the voltage response, recall that the voltage across a 
+capacitor is proportional to the charge stored on the 
+capacitor. To alter the voltage, charge Q must be added 
+to or removed from the capacitor C:
+ΔV = ΔQ/C.
+To change the charge across the capacitor (the 
+membrane lipid bilayer), there must be current across 
+the capacitor (Ic). Since current is the flow of charge per 
+unit time (Ic = ΔQ/Δt), the change in voltage across a 
+capacitor is a function of the magnitude and duration 
+of the current:
+ΔV = Ic · Δt/C.
+Thus, the magnitude of the change in voltage across 
+a capacitor in response to a current pulse depends on 
+the duration of the current, because time is required to 
+deposit and remove charge from the capacitor.
+If the membrane had only resistive properties, 
+a step pulse of outward current would change the 
+membrane potential instantaneously. Conversely, if 
+the membrane had only capacitive properties, the 
+membrane potential would change linearly with time 
+∆Vm
+a
+b
+63% ∆Vm
+τ
+Im
+Ii
+Ic
+Ic
+Ii
+Im
+Out
+In
+Time
+0
+Figure 9–10  The rate of change in the membrane potential 
+is slowed by the membrane capacitance. The upper plot 
+shows the response of the membrane potential (ΔVm) to a step 
+current pulse (Im). The shape of the actual voltage response 
+(red line) combines the properties of a purely resistive element 
+(dashed line a) and a purely capacitive element (dashed line 
+b). The time taken to reach 63% of the final voltage defines 
+the membrane time constant, τ. The lower plot shows the two 
+elements of the total membrane current (Im) during the current 
+pulse: the ionic current (Ii) across the resistive elements of the 
+membrane (ion channels) and the capacitive current (Ic).
+in response to the same step of current. Because the 
+membrane has both capacitive and resistive properties 
+in parallel, the actual change in membrane potential 
+combines features of the two pure responses. The ini-
+tial slope of the change reflects a purely capacitive ele-
+ment, whereas the final slope and amplitude reflect a 
+purely resistive element (Figure 9–10, upper plot).
+In the simple case of the spherical cell body of a 
+neuron, the time course of the potential change is 
+described by the following equation:
+ΔVm (t) = ImRm(1 − e–t/τ),
+where e is the base of the system of natural logarithms 
+with a value of approximately 2.72, and τ is the mem-
+brane time constant, given by the product of the mem-
+brane resistance and capacitance (RmCm). The time 
+constant can be measured experimentally as the time 
+it takes the membrane potential to rise to 1 − 1/e, or 
+approximately 63% of its steady-state value (Figure 9–10, 
+upper plot). Typical values of τ for neurons range from 
+20 to 50 ms. We shall return to the time constant in 
+Chapter 13 where we consider the temporal summa-
+tion of synaptic inputs in a cell.
+Membrane and Cytoplasmic Resistance Affect  
+the Efficiency of Signal Conduction
+So far, we have considered the effects of the passive 
+properties of neurons on signaling only within the cell 
+body. Distance is not a factor in the propagation of a 
+signal in the neuron’s soma because the cell body can 
+be approximated as a sphere whose membrane voltage 
+is uniform. However, a subthreshold voltage signal 
+traveling along extended structures (dendrites, axons, 
+and muscle fibers) decreases in amplitude with dis-
+tance from the site of initiation because some charge 
+leaks out of the resting membrane conductance as it 
+flows along the dendrite or axon. To show how this 
+attenuation occurs, we will consider how the geometry 
+of a neuron influences the distribution of current.
+If current is injected into a dendrite at one point, 
+how will the membrane potential change along its 
+length? For simplicity, consider how membrane poten-
+tial varies with distance after a constant-amplitude cur-
+rent pulse has been on for some time (t >> τ). Under 
+these conditions, the membrane capacitance is fully 
+charged, so membrane potential reaches a steady value. 
+The variation of the potential with distance depends 
+on the fraction of charge that leaks out of the dendrite 
+compared to the fraction that flows inside the dendrite 
+towards the soma. Since charge flows along the path of 
+least resistance, this depends on the relative values of 
+the membrane resistance in a unit length of dendrite rm 
+
+

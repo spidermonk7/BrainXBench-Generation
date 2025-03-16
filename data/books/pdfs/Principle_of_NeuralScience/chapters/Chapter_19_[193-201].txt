@@ -1,0 +1,732 @@
+===== Page 1 =====
+148    Part II / Cell and Molecular Biology of Cells of the Nervous System
+Cytoplasmic
+protein
+Proteins
+Ribosome
+mRNA emerging
+Forms
+polysome
+Mitochondrion
+Peroxisome
+Rough endoplasmic
+reticulum
+Ribosomes
+Smooth endoplasmic
+reticulum
+Secretory granules
+Golgi apparatus
+Lysosome
+Nuclear
+pore
+Endoplasmic
+membrane
+Secretory
+protein
+Integral 
+membrane
+protein
+Figure 7–13  Protein synthesis in the endoplasmic reticu-
+lum. Free and membrane-bound polysomes translate mRNA 
+that encodes proteins with a variety of destinations. Mes-
+senger RNA, transcribed from genomic DNA in the neuron’s 
+nucleus, emerges into the cytoplasm through nuclear pores to 
+form polyribosomes (see enlargement). The polypeptides that 
+become secretory and membrane proteins are translocated 
+across the membrane of the rough endoplasmic reticulum.
+in the reducing environment of the cytosol. Disulfide 
+linkages are crucial to the tertiary structure of these 
+proteins.
+Proteins may be modified by cytosolic enzymes 
+either during synthesis (cotranslational modification) 
+or afterward (posttranslational modification). One 
+example is N-acylation, the transfer of an acyl group 
+to the N-terminus of the growing polypeptide chain. 
+Acylation by a 14-carbon fatty acid myristoyl group 
+permits the protein to anchor in membranes through 
+the lipid chain.
+C O
+N
+(CH2)12
+CH3
+Other fatty acids can be conjugated to the sulfhy-
+dryl group of cysteine, producing a thioacylation:
+C O
+S
+Cys
+(CH2)14
+CH3
+Isoprenylation is another posttranslational modifi-
+cation important for anchoring proteins to the cytosolic 
+side of membranes. It occurs shortly after synthesis of the 
+protein is completed and involves a series of enzymatic 
+steps that result in thioacylation by one of two long-chain 
+hydrophobic polyisoprenyl moieties (farnesyl, with 
+15 carbons, or geranyl-geranyl, with 20) of the sulfhydryl 
+group of a cysteine at the C-terminus of proteins.
+
+
+===== Page 2 =====
+Chapter 7 / The Cells of the Nervous System    149
+Some posttranslational modifications are readily 
+reversible and thus used to regulate the function of a 
+protein transiently. The most common of these modifi-
+cations is the phosphorylation at the hydroxyl group in 
+serine, threonine, or tyrosine residues by protein kinases. 
+Dephosphorylation is catalyzed by protein phosphatases. 
+(These reactions are discussed in Chapter 14.) As with all 
+posttranslational modifications, the sites to be phos-
+phorylated are determined by particular sequences 
+of amino acids around the residue to be modified. 
+Phosphorylation can alter physiological processes in a 
+reversible fashion. For example, protein phosphoryla-
+tion–dephosphorylation reactions regulate the kinetics 
+of ion channels, the activity of transcription factors, 
+and the assembly of the cytoskeleton.
+Still another important posttranslational modifi-
+cation is the addition of ubiquitin, a highly conserved 
+protein with 76 amino acids, to the ∈-amino group of 
+specific lysine residues in the protein molecule. Ubiqui-
+tination, which regulates protein degradation, is medi-
+ated by three enzymes. E1 is an activating enzyme that 
+uses the energy of ATP. The activated ubiquitin is next 
+transferred to a conjugase, E2, which then transfers 
+the activated moiety to a ligase, E3. The E3, alone or 
+together with E2, transfers the ubiquitinyl group to the 
+lysine residue in a protein. Specificity arises because a 
+given protein molecule can only be ubiquinated by a 
+specific E3 or combination of E3 and E2. Some E3s also 
+require special cofactors—ubiquitination occurs only 
+in the presence of E3 and a cofactor protein.
+Monoubiquitination tags a protein for degradation 
+in the endosomal–lysosomal system. This is especially 
+important in endocytosis and recycling of surface 
+receptors. Ubiquitinyl monomers are successively 
+linked to the ∈-amino group of a lysine residue in the 
+previously added ubiquitin moiety. Addition of more 
+than five ubiquitins to the multiubiquitin chain tags 
+the protein for degradation by the proteasome, a large 
+complex containing multifunctional protease subunits 
+that cleave proteins into short peptides.
+UbC
+O
+N
++ Ub
+Lys
+Lys
+UbC
+O
+N
+UbC
+O
+N
+Lys
+The ATP–ubiquitin–proteasome pathway is a 
+mechanism for the selective and regulated proteolysis 
+of proteins that operates in the cytosol of all regions of 
+the neuron—dendrites, cell body, axon, and terminals. 
+Until recently, this process was thought to be primarily 
+directed to poorly folded, denatured, or aged and dam-
+aged proteins. We now know that ubiquitin-mediated 
+proteolysis can be regulated by neuronal activity and 
+plays specific roles in many neuronal processes, includ-
+ing synaptogenesis and long-term memory storage.
+Another important protein modification is glyco-
+sylation, which occurs on amino groups of asparagine 
+residues (N-linked glycosylation) and results in the 
+addition en bloc of complex polysaccharide chains. 
+These chains are then trimmed within the endoplasmic 
+reticulum by a series of reactions controlled by chaper-
+ones, including heat shock proteins, calnexin, and cal-
+reticulin. Because of the great chemical specificities of 
+oligosaccharide moieties, these modifications can have 
+important implications for cell function. For example, 
+cell-to-cell interactions that occur during develop-
+ment rely on molecular recognition between glycopro-
+teins on the surfaces of the two interacting cells. Also, 
+because a given protein can have somewhat different 
+oligosaccharide chains, glycosylation can diversify the 
+function of a protein. It can increase the hydrophilicity 
+of the protein (useful for secretory proteins), fine-tune 
+its ability to bind macromolecular partners, and delay 
+its degradation.
+An interesting posttranslational modification 
+of mRNA is RNA interference (RNAi), the targeted 
+destruction of double-stranded RNAs. This mecha-
+nism, which is believed to have arisen to protect cells 
+against viruses and other rogue fragments of nucleic 
+acids, shuts down the synthesis of any targeted protein. 
+Double-stranded RNAs are taken up by an enzyme 
+complex that cleaves the molecule into oligomers. 
+The RNA sequences are retained by the complex. As 
+a result, any homologous hybridizing RNA strands, 
+either double- or single-stranded, will be destroyed. 
+The process is regenerative: The complex retains a 
+hybridizing fragment and goes on to destroy another 
+RNA molecule until none remain in the cell. Although 
+the physiological role of RNAi in normal cells is 
+unclear, transfection or injection of RNAi into cells is 
+of great research and clinical importance (Chapter 2).
+Secretory Proteins Are Modified in the  
+Golgi Complex
+Proteins from the endoplasmic reticulum are carried 
+in transport vesicles to the Golgi complex where they 
+are modified and then moved to synaptic terminals 
+and other parts of the plasma membrane. The Golgi 
+complex appears as a grouping of membranous sacks 
+aligned with one another in long ribbons.
+The mechanism by which vesicles are trans-
+ported between stations of the secretory and endocytic 
+
+
+===== Page 3 =====
+150    Part II / Cell and Molecular Biology of Cells of the Nervous System
+pathways has been remarkably conserved from simple 
+unicellular prokaryotes (yeast) to neurons and glia of 
+multicellular organisms. Transport vesicles develop 
+from membrane, beginning with the assembly of 
+proteins that form coats, or coat proteins, at selected 
+patches of the cytosolic surface of the membrane. A 
+coat has two functions. It forms rigid cage-like struc-
+tures that produce evagination of the membrane into a 
+bud shape, and it selects the protein cargo to be incor-
+porated into the vesicles.
+There are several types of coats. Clathrin coats 
+assist in evaginating Golgi complex membrane and 
+plasmalemma during endocytosis. Two other coats, 
+COPI and COPII, cover transport vesicles that shut-
+tle between the endoplasmic reticulum and the Golgi 
+complex. Coats usually are rapidly dissolved once free 
+vesicles have formed. The fusion of vesicles with the 
+target membrane is mediated by a cascade of molec-
+ular interactions, the most important of which is the 
+reciprocal recognition of small proteins on the cytosolic 
+surfaces of the two interacting membranes: vesicular 
+soluble N-ethylmaleimide–sensitive factor attachment 
+protein receptors (v-SNAREs) and t-SNAREs (target-
+membrane SNAREs). The role of SNARE proteins 
+in neurotransmitter release through synaptic vesi-
+cle fusion with the plasma membrane is discussed in 
+Chapter 15.
+Vesicles from the endoplasmic reticulum arrive at 
+the cis side of the Golgi complex (the aspect facing the 
+nucleus) and fuse with its membranes to deliver their 
+contents into the Golgi complex. These proteins travel 
+from one Golgi compartment (cisterna) to the next, 
+from the cis to the trans side, undergoing a series of 
+enzymatic reactions. Each Golgi cisterna or set of cis-
+ternae is specialized for a particular type of reaction. 
+Several types of protein modifications, some of which 
+begin in the endoplasmic reticulum, occur within the 
+Golgi complex proper or within the transport station 
+adjacent to its trans side, the trans-Golgi network (the 
+aspect of the complex typically facing away from the 
+nucleus toward the axon hillock). These modifications 
+include the addition of N-linked oligosaccharides, 
+O-linked (on the hydroxyl groups of serine and threo-
+nine) glycosylation, phosphorylation, and sulfation.
+Both soluble and membrane-bound proteins that 
+travel through the Golgi complex emerge from the 
+trans-Golgi network in a variety of vesicles that have 
+different molecular compositions and destinations. 
+Proteins transported from the trans-Golgi network 
+include secretory products as well as newly synthe-
+sized components for the plasmalemma, endosomes, 
+and other membranous organelles (see Figure 7–2). 
+One class of vesicles carries newly synthesized 
+plasmalemmal proteins and proteins that are continu-
+ously secreted (constitutive secretion). These vesicles 
+fuse with the plasma membrane in an unregulated 
+fashion. An important type of these vesicles delivers 
+lysosomal enzymes to late endosomes.
+Still other classes of vesicles carry secretory pro-
+teins that are released by an extracellular stimulus 
+(regulated secretion). One type stores secretory prod-
+ucts, primarily neuroactive peptides, in high concen-
+trations. Called large dense-core vesicles because of their 
+electron-dense (osmophilic) appearance in the electron 
+microscope, these vesicles are similar in function and 
+biogenesis to peptide-containing granules of endocrine 
+cells. Large dense-core vesicles are targeted primarily 
+to axons but can be seen in all regions of the neuron. 
+They accumulate in the cytoplasm just beneath the 
+plasma membrane and are highly concentrated at axon 
+terminals, where their contents are released through 
+Ca2+-regulated exocytosis.
+Recent work has demonstrated that small syn-
+aptic vesicles—the electron-lucent vesicles responsi-
+ble for the rapid release of neurotransmitter at axon  
+terminals—are actively transported toward the synap-
+tic terminals as individual cargoes. It is thought that 
+protein components of small synaptic vesicles origi-
+nate from large precursor vesicles from the trans-Golgi 
+network. These synaptic vesicles already incorporate 
+most of the proteins that enable their fusion at the pre-
+synaptic active zone. The neurotransmitter molecules 
+stored in these synaptic vesicles are released by exocy-
+tosis regulated by Ca2+ influx through channels close 
+to the release site. The vesicles can then undergo cycles 
+of recycling/exocytosis as described in Chapter 15.  
+Importantly, these vesicles are refilled through spe-
+cialized transporters called vesicular transporters that 
+are specific for each neurotransmitter (eg, glutamate, 
+γ-aminobutyric acid [GABA], acetylcholine).
+Surface Membrane and Extracellular 
+Substances Are Recycled in the Cell
+Vesicular traffic toward the cell surface is continuously 
+balanced by endocytic traffic from the plasma membrane 
+to internal organelles. This traffic is essential for main-
+taining the area of the membrane in a steady state. It 
+can alter the activity of many important regulatory 
+molecules on the cell surface (eg, by removing recep-
+tors and adhesion molecules). It also removes nutrients 
+and molecules, such as expendable receptor ligands and 
+damaged membrane proteins, to the degradative com-
+partments of the cells. Finally, it serves to recycle synap-
+tic vesicles at nerve terminals (Chapter 15).
+
+
+===== Page 4 =====
+Chapter 7 / The Cells of the Nervous System    151
+A significant fraction of endocytic traffic is carried 
+in clathrin-coated vesicles. The clathrin coat interacts 
+selectively through transmembrane receptors with 
+extracellular molecules that are to be taken up into the 
+cell. For this reason, clathrin-mediated uptake is often 
+referred to as receptor-mediated endocytosis. The vesicles 
+eventually shed their clathrin coats and fuse with the 
+early endosomes, in which proteins to be recycled to 
+the cell surface are separated from those destined for 
+other intracellular organelles. Patches of the plasma-
+lemma can also be recycled through larger, uncoated 
+vacuoles that also fuse with early endosomes (bulk 
+endocytosis).
+Glial Cells Play Diverse Roles in  
+Neural Function
+Ramón y Cajal recognized the close association of glia 
+with neurons and synapses in the brain (Figure 7–14). 
+Although their function was at that time a mystery, he 
+predicted that glia must do more than hold neurons 
+together. Indeed, it is now clear that glial cells are 
+critical players in brain development, function, and 
+disease.
+Glia Form the Insulating Sheaths for Axons
+A major function of oligodendrocytes and Schwann 
+cells is to provide the insulating material that allows 
+rapid conduction of electrical signals along the axon. 
+These cells produce thin sheets of myelin that wrap 
+concentrically, many times, around the axon. CNS 
+myelin, produced by oligodendrocytes, is similar, but 
+not identical, to peripheral nervous system myelin, 
+produced by Schwann cells.
+Both types of glia produce myelin only for seg-
+ments of axons. This is because the axon is not con-
+tinuously wrapped in myelin, a feature that facilitates 
+propagation of action potentials (Chapter 9). One 
+Schwann cell produces a single myelin sheath for one 
+segment of one axon, whereas one oligodendrocyte 
+produces myelin sheaths for segments of as many as 
+30 axons (Figures 7–1 and 7–15).
+The number of layers of myelin on an axon is pro-
+portional to the diameter of the axon—larger axons 
+have thicker sheaths. Axons with very small diameters 
+are not myelinated; nonmyelinated axons conduct 
+action potentials much more slowly than do myeli-
+nated axons because of their smaller diameter and lack 
+of myelin insulation (Chapter 9).
+The regular lamellar structure and biochemical 
+composition of the sheath are consequences of how 
+Figure 7–14  Astrocytes interact with neurons and synapses 
+in the brain. This drawing by Ramón y Cajal (based on tissue 
+stained with the sublimated gold chloride method) shows astro-
+cytes of the pyramidal layer and stratum radiatum of Ammon’s 
+horn in the human brain. (A) A large astrocyte ensheathes a 
+pyramidal neuron. (B) Twin astrocytes form a nest around a 
+nerve cell body (C). One of the astrocytes sends two branches 
+to form another nest (D). (E) A cell shows signs of autolysis. (F) 
+Capillary vessel. (Reproduced, with permission, from the  
+Instituto Cajal, Madrid, Spain.)
+myelin is formed from the glial plasma membrane. 
+In the development of the peripheral nervous system, 
+before myelination takes place, the axon lies within a 
+trough formed by Schwann cells. Schwann cells line 
+up along the axon at regular intervals that become the 
+myelinated segments of axon. The external membrane 
+of each Schwann cell surrounds the axon to form a 
+double membrane structure called the mesaxon, which 
+elongates and spirals around the axon in concentric 
+layers (Figure 7–15C). As the axon is ensheathed, the 
+cytoplasm of the Schwann cell is squeezed out to form 
+a compact lamellar structure.
+The regularly spaced segments of myelin sheath 
+are separated by unmyelinated gaps, called nodes of 
+Ranvier, where the plasma membrane of the axon is 
+exposed to the extracellular space for approximately  
+1 μm (Figure 7–16). This arrangement greatly increases 
+the speed at which nerve impulses are conducted 
+
+
+===== Page 5 =====
+152    Part II / Cell and Molecular Biology of Cells of the Nervous System
+Oligodendrocyte
+A  Myelination in the central nervous system
+C  Development of myelin sheath in the peripheral nervous system
+4
+B  Myelination in the peripheral nervous system
+1
+2
+3
+Outer
+mesaxon
+Axon
+Inner
+mesaxon
+Sc Cyt
+Ax
+IM
+Ml
+OM
+1 µm
+SM
+Figure 7–15  Glial cells produce the myelin that insulates 
+the axons of central and peripheral neurons.
+A. Axons in the central nervous system are wrapped in several 
+layers of myelin produced by oligodendrocytes. Each oligoden-
+drocyte can myelinate many axons. (Adapted from Raine 1984.)
+B. This electron micrograph of a transverse section through an 
+axon (Ax) in the sciatic nerve of a mouse shows the origin of 
+a sheet of myelin (MI) at a structure called the inner mesaxon 
+(IM). The myelin arises from the surface membrane (SM) of 
+a Schwann cell, which is continuous with the outer mesaxon 
+(OM). In this image, the Schwann cell cytoplasm (Sc Cyt) 
+still surrounds the axon; eventually it is squeezed out and the 
+myelin layers become compact, as shown in part C. (Repro-
+duced, with permission, from Dyck et al. 1984.)
+C. A peripheral nerve fiber is myelinated by a Schwann cell 
+in several stages. In stage 1, the Schwann cell surrounds the 
+axon. In stage 2, the outer aspects of the plasma membrane 
+have become tightly apposed in one area. This membrane 
+fusion reflects early myelin membrane formation. In stage 3, 
+several layers of myelin have formed because of continued 
+rotation of the Schwann cell cytoplasm around the axon. In 
+stage 4, a mature myelin sheath has formed; much of the 
+Schwann cell cytoplasm has been squeezed out of the inner-
+most loop. (Adapted, with permission, from Williams et al. 1989.)
+(up to 100 m/s in humans) because the signal jumps 
+from one node to the next, a mechanism called salta-
+tory conduction (Chapter 9). Nodes are easily excited 
+because the density of Na+ channels, which gener-
+ate the action potential, is approximately 50 times 
+greater in the axon membrane at the nodes than in 
+myelin-sheathed regions of membrane. Cell adhesion 
+molecules around nodes keep the myelin boundaries 
+stable.
+In the human femoral nerve, the primary sensory 
+axon is approximately 0.5 m long and the internodal 
+distance is 1 to 1.5 mm; thus, approximately 300 to 
+500 nodes of Ranvier occur along a primary afferent 
+fiber between the thigh muscle and the cell body in the 
+
+
+===== Page 6 =====
+Chapter 7 / The Cells of the Nervous System    153
+Peripheral nervous system
+Central nervous system
+Al
+Al
+M
+M
+Ax
+Ax
+Nd
+Juxtaparanode
+Internode
+Paranode
+Caspr 2
+K+ channels 
+Caspr 2
+Contactin
+Node
+Na+ channels
+ankG
+NrCAM
+PNP
+PNL
+PNL
+PNL
+Basal 
+lamina
+Schwann cell
+Oligodendrocyte
+A
+B
+Nd
+Figure 7–16  The myelin sheath of axons has regular gaps 
+called the nodes of Ranvier.
+A. Electron micrographs show the region of nodes in axons 
+from the peripheral nervous system and spinal cord. The axon 
+(Ax) runs vertically in both micrographs. The layers of myelin 
+(M) are absent at the nodes (Nd), where the axon’s membrane 
+(axolemma, Al) is exposed. (Reproduced, with permission, 
+from Peters et al. 1991.)
+B. Regions on both sides of a node of Ranvier are rich in 
+stable contacts between myelinating cells and the axon, to 
+ensure that the nodes do not move or change in size and to 
+restrict the localization of K+ and Na+ channels in the axon. 
+Potassium-permeable channels and the adhesion protein 
+Caspr2 are concentrated in the juxtaparanode. Paranodal loops 
+(PNL) of Schwann cell or oligodendrocyte cytoplasm form a 
+series of stable junctions with the axon. The paranode region is 
+rich with adhesion proteins such as Caspr2, contactin, and neu-
+rofascin (NF155). At the nodes in central axons, perinodal astro-
+glial processes (PNP) contact the axonal membrane, which is 
+enormously enriched with Na+ channels. This localization of Na+ 
+permeability is a major basis for the saltatory conduction in 
+myelinated axons. The membrane-cytoskeletal linker ankyrin G 
+(ankG) and the cell adhesion molecules NrCAM and NF186 are 
+also concentrated at the nodes. (Reproduced, with permission, 
+from Peles and Salzer 2000. Copyright © 2000 Elsevier.)
+
+
+===== Page 7 =====
+154    Part II / Cell and Molecular Biology of Cells of the Nervous System
+dorsal root ganglion. Because each internodal segment 
+is formed by a single Schwann cell, as many as 500 
+Schwann cells participate in the myelination of each 
+peripheral sensory axon.
+Myelin has bimolecular layers of lipid interspersed 
+between protein layers. Its composition is similar to 
+that of the plasmalemma, consisting of 70% lipid and 
+30% protein with high concentrations of cholesterol 
+and phospholipid. In the CNS, myelin has two major 
+proteins: myelin basic protein, a small, positively 
+charged protein that is situated on the cytoplasmic 
+surface of compact myelin, and proteolipid protein, a 
+hydrophobic integral membrane protein. Presumably, 
+both provide structural stability for the sheath.
+Both have also been implicated as important 
+autoantigens against which the immune system can 
+react to produce the demyelinating disease multiple 
+sclerosis. In the peripheral nervous system, myelin 
+contains a major protein, P0, as well as the hydrophobic 
+protein PMP22. Autoimmune reactions to these pro-
+teins produce a demyelinating peripheral neuropathy, 
+the Guillain-Barré syndrome. Mutations in myelin pro-
+tein genes also cause a variety of demyelinating dis-
+eases in both peripheral and central axons (Box 7–3). 
+Demyelination slows down, or even stops, conduction 
+of the action potential in an affected axon, because it 
+allows electrical current to leak out of the axonal mem-
+brane. Demyelinating diseases thus have devastating 
+effects on neuronal circuits in the central and periph-
+eral nervous systems (Chapter 57).
+Astrocytes Support Synaptic Signaling
+Astrocytes are found in all areas of the brain; indeed, 
+they constitute nearly half the number of brain cells. 
+They play important roles in nourishing neurons and 
+in regulating the concentrations of ions and neurotrans-
+mitters in the extracellular space. But astrocytes and 
+neurons also communicate with each other to modu-
+late synaptic signaling in ways that are still poorly 
+understood. Astrocytes are generally divided into two 
+main classes, which are distinguished by morphology, 
+location, and function. Protoplasmic astrocytes are found 
+in gray matter, and their processes are closely associ-
+ated with synapses as well as blood vessels. Fibrillary 
+(or fibrous) astrocytes in white matter contact axons and 
+nodes of Ranvier. In addition, specialized astrocytes 
+include Bergmann glia in the cerebellum and Müller 
+glia in the retina.
+Astrocytes have large numbers of thin processes 
+that enfold all the blood vessels of the brain and 
+ensheathe synapses or groups of synapses. By their 
+intimate physical association with synapses, often 
+closer than 1 μm, astrocytes are positioned to regulate 
+extracellular concentrations of ions, neurotransmitters, 
+and other molecules (Figure 7–19). In fact, astrocytes 
+express many of the same voltage-gated ion channels 
+and neurotransmitter receptors that neurons do and 
+are thus well equipped to receive and transmit signals 
+that could affect neuronal excitability and synaptic 
+function.
+How do astrocytes regulate axonal conduction and 
+synaptic activity? The first recognized physiological 
+role was that of K+ buffering. When neurons fire action 
+potentials, they release K+ ions into the extracellular 
+space. Because astrocytes have high concentrations 
+of K+ channels in their membranes, they can act as  
+spatial buffers: They take up K+ at sites of neuronal 
+activity, mainly synapses, and release it at distant con-
+tacts with blood vessels. Astrocytes can also accumu-
+late K+ locally within their cytoplasmic processes along 
+with Cl− ions and water. Unfortunately, accumulation 
+of ions and water in astrocytes can contribute to severe 
+brain swelling after head injury.
+Astrocytes also regulate neurotransmitter concen-
+trations in the brain. For example, high-affinity trans-
+porters located in the astrocyte’s plasma membrane 
+rapidly clear the neurotransmitter glutamate from the 
+synaptic cleft (Figure 7–19C). Once within the glial cell, 
+glutamate is converted to glutamine by the enzyme 
+glutamine synthetase. Glutamine is then transferred 
+to neurons, where it serves as an immediate precur-
+sor of glutamate (Chapter 16). Interference with these 
+uptake mechanisms results in high concentrations of 
+extracellular glutamate that can lead to the death of 
+neurons, a process termed excitotoxicity. Astrocytes 
+also degrade dopamine, norepinephrine, epinephrine, 
+and serotonin.
+Astrocytes sense when neurons are active because 
+they are depolarized by the K+ released by neurons 
+and have neurotransmitter receptors similar to those 
+of neurons. For example, Bergmann glia in the cerebel-
+lum express glutamate receptors. Thus, the glutamate 
+released at cerebellar synapses affects not only post-
+synaptic neurons but also astrocytes near the synapse. 
+The binding of these ligands to glial receptors increases 
+the intracellular free Ca2+ concentration, which has 
+several important consequences. The processes of one 
+astrocyte connect to those of neighboring astrocytes 
+through intercellular aqueous channels called gap 
+junctions (Chapter 11), allowing transfer of ions and 
+small molecules between many cells. An increase in 
+free Ca2+ within one astrocyte increases Ca2+ concen-
+trations in adjacent astrocytes. This spread of Ca2+ 
+through the astrocyte network occurs over hundreds of 
+micrometers. It is likely that this Ca2+ wave modulates 
+
+
+===== Page 8 =====
+Chapter 7 / The Cells of the Nervous System    155
+Because in myelinated axons normal conduction of the 
+nerve impulse depends on the insulating properties of 
+the myelin sheath, defective myelin can result in severe 
+disturbances of motor and sensory function.
+Many diseases that affect myelin, including some ani-
+mal models of demyelinating disease, have a genetic basis. 
+The shiverer (or shi) mutant mice have tremors and frequent 
+convulsions and tend to die young. In these mice, the mye-
+lination of axons in the central nervous system is greatly 
+deficient and the myelination that does occur is abnormal.
+The mutation that causes this disease is a deletion of 
+five of the six exons of the gene for myelin basic protein, 
+which in the mouse is located on chromosome 18. The 
+mutation is recessive; a mouse develops the disease only 
+if it has inherited the defective gene from both parents. 
+Shiverer mice that inherit both defective genes have only 
+approximately 10% of the myelin basic protein (MBP) 
+found in normal mice (Figure 7–17A).
+When the wild-type gene is injected into fertilized 
+eggs of the shiverer mutant with the aim of rescuing the 
+mutant, the resulting transgenic mice express the wild-
+type gene but produce only 20% of the normal amounts 
+of MBP. Nevertheless, myelination of central neurons 
+in the transgenic mice is much improved. Although 
+they still have occasional tremors, the transgenic mice 
+do not have convulsions and have a normal life span 
+(Figure 7–17B).
+In both the central and peripheral nervous systems, 
+myelin contains a protein termed myelin-associated 
+glycoprotein (MAG). MAG belongs to the immunoglob-
+ulin superfamily that includes several important cell 
+surface proteins thought to be involved in cell-to-cell 
+recognition, eg, the major histocompatibility complex 
+of antigens, T-cell surface antigens, and the neural cell 
+adhesion molecule (NCAM).
+Box 7–3  Defects in Myelin Proteins Disrupt Conduction of Nerve Signals
+Normal mouse has abundant myelination
+A
+Transfected normal gene improves myelination
+Normal
+Shiverer
+Transgenic
+B
+Shiverer mutant has scant myelination
+Figure 7–17  A genetic disorder of myelination in mice 
+can be partially cured by transfection of the normal 
+gene that encodes myelin basic protein.
+A. Electron micrographs show the state of myelination in 
+the optic nerve of a normal mouse, a shiverer mutant, and 
+a shiverer mutant with the transfected gene for myelin 
+basic protein.
+B. The shiverer mutant exhibits poor posture and weak-
+ness. Injection of the wild-type gene into the fertilized egg 
+of the mutant improves myelination; the treated mutant 
+looks as perky as a normal mouse. (Reproduced, with per-
+mission, from Readhead et al. 1987.)
+(continued)
+
+
+===== Page 9 =====
+156    Part II / Cell and Molecular Biology of Cells of the Nervous System
+Figure 7–18  Charcot-Marie-Tooth disease (type 1A) 
+results from increased production of peripheral myelin 
+protein 22.
+A. A patient with Charcot-Marie-Tooth disease shows 
+impaired gait and deformities. (Reproduced, with permis-
+sion, from Charcot’s original description of the disease, 
+Charcot and Marie 1886.)
+In the peripheral nervous system, MAG is expressed 
+by Schwann cells early during production of myelin and 
+eventually becomes a component of mature (compact) 
+myelin. Its early expression, subcellular location, and 
+structural similarity to other surface recognition pro-
+teins suggest that it is an adhesion molecule important 
+for the initiation of the myelination process. Two iso-
+forms of MAG are produced from a single gene through 
+alternative RNA splicing.
+The major protein in mature peripheral myelin, 
+myelin protein zero (MPZ or P0), spans the plasmalemma 
+of the Schwann cell. It has a basic intracellular domain 
+and, like MAG, is a member of the immunoglobulin 
+superfamily. The glycosylated extracellular part of the 
+protein, which contains the immunoglobulin domain, 
+functions as a homophilic adhesion protein dur-
+ing myelin-ensheathing by interacting with identi-
+cal domains on the surface of the apposed membrane. 
+Genetically engineered mice in which the function of 
+P0 has been eliminated have poor motor coordination, 
+tremors, and occasional convulsions.
+Observation of trembler mouse mutants led to the 
+identification of peripheral myelin protein 22 (PMP22). 
+This Schwann cell protein spans the membrane four 
+times and is normally present in compact myelin. 
+PMP22 is altered by a single amino acid in the mutants. 
+A similar protein is found in humans, encoded by a gene 
+on chromosome 17.
+Mutations of the PMP22 gene on chromosome 17 
+produce several hereditary peripheral neuropathies, 
+while a duplication of this gene causes one form of 
+Charcot-Marie-Tooth disease (Figure 7–18). This disease 
+is the most common inherited peripheral neuropathy 
+and is characterized by progressive muscle weakness, 
+greatly decreased conduction in peripheral nerves, and 
+cycles of demyelination and remyelination. Because 
+both duplicated genes are active, the disease results 
+from increased production of PMP22 (a two- to three-
+fold increase in gene dosage). Mutations in a number of 
+genes expressed by Schwann cells can produce inherited 
+peripheral neuropathies.
+In the central nervous system, more than half of 
+the protein in myelin is the proteolipid protein (PLP), 
+which has five membrane-spanning domains. Proteolip-
+ids differ from lipoproteins in that they are insoluble in 
+water. Proteolipids are soluble only in organic solvents 
+because they contain long chains of fatty acids that are 
+covalently linked to amino acid residues throughout the 
+proteolipid molecule. In contrast, lipoproteins are non-
+covalent complexes of proteins with lipids and often 
+serve as soluble carriers of the lipid moiety in the blood.
+Many mutations of PLP are known in humans as 
+well as in other mammals, eg, the jimpy mouse. One 
+example is Pelizaeus-Merzbacher disease, a heterogene-
+ous X-linked disease in humans. Almost all PLP muta-
+tions occur in a membrane-spanning domain of the 
+molecule. Mutant animals have reduced amounts of 
+(mutated) PLP, hypomyelination, and degeneration and 
+death of oligodendrocytes. These observations suggest 
+that PLP is involved in the compaction of myelin.
+A
+Box 7–3  Defects in Myelin Proteins Disrupt Conduction of Nerve Signals (continued)
+
+

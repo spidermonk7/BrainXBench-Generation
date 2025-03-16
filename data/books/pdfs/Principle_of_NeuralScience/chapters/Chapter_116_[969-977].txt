@@ -1,0 +1,753 @@
+===== Page 1 =====
+924    Part V / Movement
+Figure 37–11  Long-term depression of the synaptic input 
+from parallel fibers to Purkinje cells is one plausible mecha-
+nism for cerebellar learning.
+A. Two different groups of parallel fibers and the presynaptic 
+climbing fibers are electrically stimulated in vitro. Repeated 
+stimulation of one set of parallel fibers (PF1) at the same 
+time as the climbing fibers produces a long-term reduction 
+in the responses of those parallel fibers to later stimulation. 
+The responses of a second set of parallel fibers (PF2) are not 
+depressed because they are not stimulated simultaneously 
+with the presynaptic climbing fibers. (Abbreviations: CF,  
+climbing fiber; EPSP, excitatory postsynaptic potential.) 
+(Adapted from Ito et al. 1982.)
+B. Top: An accurate wrist movement by a monkey is accom-
+panied by a burst of simple spikes in a Purkinje cell, followed 
+later by discharge of a single climbing fiber in one trial. Middle: 
+When the monkey must make the same movement against 
+a novel resistance (adaptation), climbing-fiber activity occurs 
+during movement in every trial and the movement itself over-
+shoots the target. Bottom: After adaptation, the frequency of 
+simple spikes during movement is quite attenuated, and the 
+climbing fiber is not active during movement or later. This is the 
+sequence of events expected if long-term depression in the 
+cerebellar cortex plays a role in learning. Climbing fiber activity 
+is usually low (1/s) but increases during adaptation to a novel 
+load. (Adapted, with permission, from Gilbert and Thach 1977.)
+Climbing-Fiber Activity Changes the Synaptic 
+Efficacy of Parallel Fibers
+Climbing fibers can selectively induce long-term 
+depression in the synapses between parallel fibers 
+and Purkinje cells that are activated concurrently 
+with the climbing fibers. Many studies in brain slices 
+and cultured Purkinje cells have found that concur-
+rent stimulation of climbing fibers and parallel fibers 
+depresses the Purkinje cell responses to subsequent 
+stimulation of the same parallel fibers. The depres-
+sion is selective for the parallel fibers that were acti-
+vated in conjunction with the climbing-fiber input 
+A
+B
+Accurate movement prior to loading
+Adaptation to novel load
+After adaptation
+Climbing
+ﬁber ﬁres
+PF1
+PF2
+PF2
+PF2
+PF1/CF
+PF1
+Test
+Adapt
+Test
+Parallel ﬁber EPSPs recorded in Purkinje cell
+Training
+Paired (PF1)        
+Unpaired (PF2)
+Before 
+training
+After 
+training
+Purkinje
+cell
+Wrist
+movement
+Granule 
+cell
+Purkinje
+cell
+Mossy 
+ﬁber
+Climbing
+ﬁber
+PF1
+PF2
+Inferior Olive
+and does not appear in synapses from parallel fibers 
+that had not been stimulated along with climbing fib-
+ers (Figure 37–11A). The resulting depression can last 
+for minutes to hours.
+Many studies in a variety of motor learning sys-
+tems have recorded activity in Purkinje cells that is 
+consistent with the predictions of the cerebellar learn-
+ing theory. For example, if an unexpected resistance is 
+applied to a well-practiced arm movement, extra mus-
+cle tension will be required to move. Climbing fiber 
+activity can signal error until the unexpected resist-
+ance is learned. They presumably depress the synaptic 
+
+
+===== Page 2 =====
+Chapter 37 / The Cerebellum    925
+strength of parallel fibers involved in generating those 
+errors, namely those that drove Purkinje simple-spike 
+firing at the time of the climbing-fiber activity (Figure 
+37–11B). With successive movements, the parallel-fiber 
+inputs conveying the flawed central command are 
+increasingly suppressed, a more appropriate pattern of 
+simple-spike activity emerges, and eventually move-
+ment errors disappear, along with the climbing-fiber 
+error signal. Although this kind of result is consistent 
+with the theory of cerebellar learning, it stops short of 
+proving that the neural and behavioral learning was 
+caused by long-term depression of the synapses from 
+parallel fibers onto Purkinje cells.
+The Cerebellum Is Necessary for Motor Learning in 
+Several Different Movement Systems
+The cerebellum is involved in learning a wide variety 
+of movements, ranging from limb and eye movements 
+to walking. In each movement system, motor learning 
+operates to improve the feedforward control of move-
+ment. Errors render motor control transiently depend-
+ent on sensory feedback, and motor learning restores 
+the ideal situation where performance is accurate 
+without relying on sensory feedback.
+Adaptation of limb movements that rely on eye–
+hand coordination can be demonstrated by having 
+people wear prisms that deflect the light path side-
+ways. When a person plays darts while wearing prism 
+goggles that displace the entire visual field to the left, 
+the initial dart throw lands to the left side of the tar-
+get by an amount proportional to the strength of the 
+prisms. The subject gradually adapts to the distortion 
+through practice; within 10 to 30 throws, the darts land 
+on target (Figure 37–12). When the prisms are removed, 
+the adaptation persists, and the darts hit to the right of 
+the target by roughly the same distance as the initial 
+prism-induced error. Patients with a damaged cerebel-
+lar cortex or inferior olive are severely impaired or 
+unable to adapt at all in this test.
+Classical conditioning of the eye-blink response 
+also depends on an intact cerebellum. In this form of 
+associative learning, a puff of air is directed at the cor-
+nea, causing the eye to blink at the end of a neutral 
+stimulus such as a tone. If the tone and the puff are 
+paired repeatedly with a fixed duration of the tone, 
+then the brain learns the tone’s predictive power and 
+the tone alone is sufficient to cause a blink. Michael 
+Mauk and his colleagues have shown that the brain 
+also can learn about the timing of the stimulus so that 
+the eye blink occurs at the right time. It is even possible 
+to learn to blink at different times in response to tones 
+of different frequencies.
+All forms of conjugate eye movement require the 
+cerebellum for correct performance, and each form is 
+subject to motor learning that involves the cerebel-
+lum. For example, the vestibulo-ocular reflex normally 
+keeps the eyes fixed on a target when the head is rotated 
+(Chapter 27). Motion of the head in one direction is 
+sensed by the vestibular labyrinth, which initiates eye 
+movements in the opposite direction to prevent visual 
+images from slipping across the retina. When humans 
+and experimental animals wear glasses that change the 
+size of a visual scene, the vestibulo-ocular reflex ini-
+tially fails to keep images stable on the retina because 
+the amplitude of the reflex is inappropriate to the new 
+conditions. After the glasses have been worn continu-
+ously for several days, however, the size of the reflex 
+becomes progressively reduced (for miniaturizing 
+glasses) or increased (for magnifying glasses) (Figure 
+37–13A). These changes are required to prevent images 
+from slipping across the retina because magnified (or 
+miniaturized) images also move faster (or slower). The 
+performance of the baseline vestibulo-ocular reflex 
+does not depend heavily on the cerebellum, but its 
+adaptation does and can be blocked in experimental 
+animals by lesions of the lateral part of the vestibu-
+locerebellum called the floccular complex.
+Saccadic eye movements also depend on the integ-
+rity of Purkinje cells in the oculomotor vermis in lobules 
+V, VI, and VII of the vermis (Figure 37–2C). These cells 
+discharge prior to and during saccades, and lesions 
+of the vermis cause saccades to become hypermetric, 
+much as we see in the arm movements of cerebellar 
+patients. The outputs from neurons of the vermis con-
+cerned with saccades are transmitted through a very 
+small region of the caudal fastigial nucleus to the sac-
+cade generator in the reticular formation.
+The same Purkinje cells participate in a form of 
+motor learning called saccadic adaptation. This adap-
+tation is demonstrated by having a monkey fixate on a 
+target straight ahead and then displaying a new target 
+at an eccentric location. During the saccade to the new 
+target, the experimenter moves the new target to a more 
+eccentric location. Initially, the subject needs to make a 
+second saccade to fixate on the target. Gradually, over 
+several hundred trials, the first saccade grows in ampli-
+tude so that it brings the eye directly to the final loca-
+tion of the target (Figure 37–13B). Recordings during 
+saccadic adaptation have revealed that climbing fiber 
+inputs to the Purkinje cells in the oculomotor vermis 
+signal saccadic errors during learning, and the simple-
+spike firing rate of the same cells adapts gradually 
+along with the monkey’s eye movements. Thus, the 
+oculomotor vermis is a likely site for motor learning 
+of the amplitude of saccadic eye movements. The story 
+
+
+===== Page 3 =====
+926    Part V / Movement
+Figure 37–12  Adjustment of eye–hand coordination to a 
+change in optical conditions.  The subject wears prism gog-
+gles that bend the optic path to her right. She must look to her 
+left along the bent light path to see the target directly ahead. 
+(Adapted, with permission, from Martin et al. 1996).
+A. Without prisms, the subject throws with good accuracy (I). 
+The first hit after the prisms have been put in place is displaced 
+left of center because the hand throws where the eyes are 
+directed. Thereafter, hits trend rightward toward the target, 
+away from where the eyes are looking (II). After removal of the 
+prisms, the subject fixes her gaze in the center of the target; 
+the first throw hits to the right of center, away from where the 
+eyes are directed. Thereafter, hits trend toward the target (III). 
+Immediately after removing the prisms, the subject directs her 
+gaze toward the target; her adapted throw is to the right of the 
+direction of gaze and to the right of the target (IV). After recov-
+ery from adaptation, she again looks at and throws toward the 
+target (V). Data during and after prism use have been fit with 
+exponential curves. Gaze and throw directions are indicated 
+by the blue and brown arrows, respectively, on the right. The 
+inferred gaze direction assumes that the subject is fixating the 
+target.
+B. Adaptation fails in a patient with unilateral infarctions in the 
+territory of the posterior inferior cerebellar artery that affect the 
+inferior cerebellar peduncle and inferior lateral posterior cer-
+ebellar cortex.
+A
+B
+–50
+0
+50
+Left
+Right
+Before
+Throw direction
+Gaze direction
+I
+II
+III
+IV
+V
+Prisms
+After
+Before
+Prisms
+After
+–50
+0
+Left
+Right
+50
+Horizontal displacement (cm)
+Horizontal displacement (cm)
+Time
+
+
+===== Page 4 =====
+Chapter 37 / The Cerebellum    927
+Figure 37–13  Cerebellar learning in the vestibulo-ocular 
+reflex and in saccadic eye movements.
+A. Motor learning in the vestibulo-ocular reflex of a monkey 
+wearing magnifying spectacles. The columns show normal 
+conditions before learning, the situation when the monkey first 
+dons the spectacles (day 0), and after complete adaptation (day 
+3). Eye movements are normally equal and opposite to head 
+turns, and the banana stays stable in the retina during head 
+turns. With the spectacles on, the banana appears larger; when 
+the head turns, the vestibulo-ocular reflex is too small and the 
+banana’s image slips across the retina. After adaptation, the 
+eye movements are large enough that the image of the banana 
+again remains stable on the retina during head turns. (Adapted, 
+with permission, from Lisberger 1988.)
+B. Motor learning in saccadic eye movements. The columns 
+show saccades under normal conditions, on the first adaptation 
+trial, and after full adaptation. Normally, the saccade responds 
+to a change in target position by bringing the eye almost per-
+fectly to the new target position. During adaptation, the target 
+moves to a new position during the initial saccade, requiring a 
+second saccade to bring the eye to the new, final target posi-
+tion. After adaptation, the original target position evokes a 
+larger saccade that is appropriate to bring the eye to the new 
+target position, even though the target does not move.
+A
+Normal
+Wearing magnifying spectacles
+B
+Normal
+Target
+Eye
+1
+2
+1
+2
+3
+1
+2
+3
+Adaptation to displaced target
+Time
+After adaptation
+Day 0
+Head
+rotation
+Head
+movement
+Slippage
+Eye
+movement
+Eye
+movement
+Retinal
+image
+Day 3
+
+
+===== Page 5 =====
+928    Part V / Movement
+Figure 37–14  Learning in the cerebellar microcircuit can 
+occur in the cerebellar cortex and the deep cerebellar 
+nuclei.  The diagram is based on classical conditioning of blink-
+ing, which is driven by pairing a tone (so-called conditioned 
+stimulus carried by mossy fibers) and an air puff (the uncon-
+ditioned stimulus carried by climbing fibers). Learning occurs 
+at the parallel fiber–Purkinje cell synapses when the climbing 
+fiber and parallel fibers are active together. Learning also occurs 
+at the mossy-fiber synapse onto the deep cerebellar nuclei. 
+(Sites of learning are denoted by asterisks.) While this example 
+diagrams a classical conditioning paradigm, plasticity occurs at 
+the same sites during adaptation of the vestibulo-ocular reflex 
+when head turns are associated with image motion on the 
+retina (Chapter 27). (Adapted, with permission, from Carey and 
+Lisberger 2002.)
+is very similar for smooth-pursuit eye movements, 
+except that the relevant part of the cerebellum is the 
+floccular complex, using the same Purkinje cells that 
+participate in adaptation of the vestibulo-ocular reflex.
+Finally, learning of new walking patterns has 
+been studied in cerebellar patients using a split-belt 
+treadmill that requires one leg to move faster than the 
+other. Cerebellar damage does not impair the ability 
+to use feedback to immediately change the walking 
+pattern when the two belt speeds differ: Patients can 
+lengthen the time that they stand on the slower tread-
+mill belt and shorten the time that they stand on the 
+faster treadmill belt. However, cerebellar patients can-
+not learn over hundreds of steps to make their walking 
+pattern symmetric, whereas healthy individuals can 
+(see Figure 30–14).
+Learning Occurs at Several Sites in the Cerebellum
+We know now that there are many sites of synaptic and 
+cellular plasticity in the cerebellar microcircuit. Almost 
+every synapse that has been studied undergoes either 
+potentiation or depression, and the theory of cerebel-
+lar learning has been broadened accordingly. Detailed 
+analyses of the role of cerebellar circuits in motor learn-
+ing have been conducted in several motor systems: 
+adaptation of multiple kinds of eye movements, clas-
+sical conditioning of the eye blink, and motor learning 
+in arm movements.
+In today’s broadened theory of cerebellar learn-
+ing, learning occurs not only in the cerebellar cortex, 
+as postulated by Marr, Albus, and Ito, but also in the 
+deep cerebellar nuclei (Figure 37–14). Our under-
+standing of learning in the cerebellar cortex is based 
+partly on long-term depression of the synapses from 
+parallel fibers to Purkinje cells, but many other syn-
+apses are characterized by plasticity, and they also 
+probably participate. Available evidence is still com-
+patible with the long-standing idea that inputs from 
+climbing fibers provide the primary instructive sig-
+nals that lead to changes in synaptic strength within 
+the cerebellar cortex, but now there is room for the 
+possibility of other instructive signals as well. Learn-
+ing probably results from coordinated synaptic plas-
+ticity at multiple sites rather than from changes at a 
+single site.
+Studies of classical conditioning of the eye blink 
+and adaptation of the vestibulo-ocular reflex provide 
+strong evidence that learning occurs in both the cer-
+ebellar cortex and the deep cerebellar nuclei. Further, 
+considerable evidence suggests that learning may 
+occur first in the cerebellar cortex and then be trans-
+ferred to the deep cerebellar nuclei. At least for eye 
+Inferior 
+olive
+Purkinje 
+cell
+Parallel ﬁber
+Granule
+cell
+Mossy
+ﬁber
+–
+–
+–
+–
+Climbing 
+ﬁber
+Inhibitory 
+interneuron
+Deep 
+cerebellar
+nucleus
+Learned 
+response
+Tone
+Air puff
+*
+*
+*
+blink conditioning, the cerebellar cortex may play a 
+special role in learning timing.
+As discussed earlier, the cerebellum makes use of 
+internal models to ensure smooth and accurate move-
+ment in advance of any guidance by sensory feedback. 
+Synaptic changes that lead to circuit learning could 
+be the mechanisms that create and maintain accurate 
+internal models. One important function of learning 
+in the cerebellum may be the continuous tuning of 
+
+
+===== Page 6 =====
+Chapter 37 / The Cerebellum    929
+internal models. Cerebellar internal models may use 
+sensory feedback to adjust synaptic and cellular func-
+tion so that motor commands produce movements that 
+are rapid, accurate, and smooth. Thus, the cerebellum 
+appears to be the learning machine envisioned by the 
+earliest investigators, but its learning capabilities may 
+be greater and more widely dispersed than originally 
+imagined and may affect all cerebellar contributions to 
+behavior.
+Highlights
+1.	 The cerebellum plays a critical role in movement. 
+Damage to the cerebellum leads to profound 
+movement incoordination called ataxia, which 
+affects all movements ranging from eye and limb 
+movements to balance and walking. Cerebellar 
+damage also leads to some sensory deficits but 
+only during active movement.
+2.	 The cerebellum also plays a role in cognitive and 
+emotional behavior. Deficits in these domains are 
+less immediately obvious after cerebellar damage 
+but appear with formalized testing. There is prob-
+ably a common mechanism for deficits across both 
+motor and nonmotor domains, but the mechanism 
+is not yet understood.
+3.	 The cerebellum acts through its connections to 
+other brain structures. Its inputs come indirectly 
+from wide regions of the cerebral cortex, as well as 
+from the brainstem and spinal cord. Cerebellar out-
+puts project to the vestibular nuclei, the brainstem 
+reticular formation, and the red nucleus and via the 
+thalamus to wide regions of the cerebral cortex.
+4.	 Reciprocal connections between the cerebellum 
+and the cerebral cortex include sensory and motor 
+cortices as well as wide regions of the parietal and 
+prefrontal cortices. Cerebrocerebellar connections 
+are organized as a series of parallel, closed, recur-
+rent loops, where a given region of the cerebral 
+cortex makes both efferent and afferent connec-
+tions with a given part of the cerebellum.
+5.	 The circuit of the cerebellar cortex is highly ste-
+reotyped, suggesting a common computational 
+mechanism for its interactions with other brain 
+regions. It includes an input granular layer where 
+mossy fibers synapse on granule cells and Golgi 
+cells provide inhibitory feedback; an inhibitory 
+Purkinje cell layer, with the sole output neurons of 
+the cerebellar cortex; and a molecular layer where 
+Purkinje cell dendrites and inhibitory interneu-
+rons receive inputs from the parallel fibers that 
+emerge from the axons of granule cells.
+6.	 The climbing-fiber and mossy-fiber inputs to the 
+cerebellum are very different anatomically. Each 
+Purkinje cell receives many synaptic contacts from 
+a single climbing fiber but can be influenced via 
+granule cells by a huge number of mossy fibers. 
+Climbing fibers fire at very low frequencies and 
+cause unitary “complex spikes” in Purkinje cells. 
+Mossy fibers cause “simple spikes” that can dis-
+charge at very high rates. It is thought that the inter-
+play between these inputs is essential for learning.
+7.	 Theories of cerebellar motor control emphasize 
+several general principles. The cerebellum is 
+important for generating reliable feedforward 
+action before there has been time for useful sen-
+sory feedback to occur. It plays a key role in the 
+internal control of timing. The cerebellum relies on 
+computations that combine sensory inputs with 
+corollary discharge reporting the movement that 
+was commanded. Internal models of the motor 
+effector organs and the world allow the cerebel-
+lum to estimate the state of the motor system and 
+guide accurate feedforward actions.
+8.	 Learning and adaptation of movement are fun-
+damental functions of the cerebellum. Cerebel-
+lar learning requires feedback about movement 
+errors and updates movement on a trial-by-trial 
+basis. There are many sites of synaptic plasticity 
+in the cerebellum, and current evidence for motor 
+learning systems supports at least two sites of 
+learning in the cerebellum. One site involves long-
+term depression of the synapses from parallel fib-
+ers to Purkinje cells, guided by errors signaled by 
+climbing-fiber inputs. The other site is in the deep 
+cerebellar nuclei. It is likely that the same learning 
+mechanism is used for cognitive and emotional 
+processing.
+ Amy J. Bastian  
+ Stephen G. Lisberger 
+Selected Reading
+Bodranghien F, Bastian A, Casali C, et al. 2016. Consensus 
+paper: revisiting the symptoms and signs of cerebellar 
+syndrome. Cerebellum 15:369–391.
+Bostan AC, Dum RP, Strick PL. 2013. Cerebellar networks 
+with the cerebral cortex and basal ganglia. Trends Cogn 
+Sci 17:241–254.
+
+
+===== Page 7 =====
+930    Part V / Movement
+Boyden ES, Katoh A, Raymond JL. 2004. Cerebellum-dependent 
+learning: the role of multiple plasticity mechanisms. Annu 
+Rev Neurosci 27:581–609.
+Ito M. 1984. The Cerebellum and Neural Control. New York: 
+Raven.
+Raymond JL, Lisberger SG, Mauk MD. 1996. The cerebellum: 
+a neuronal learning machine? Science 272:1126–1131.
+Stoodley CJ, Schmahmann JD. 2010. Evidence for topographic 
+organization in the cerebellum of motor control versus 
+cognitive and affective processing. Cortex 46:831–844.
+References
+Adamaszek M, D’Agata F, Ferrucci R, et al. 2017. Consensus 
+paper: cerebellum and emotion. Cerebellum 16:552–576.
+Adrian ED. 1943. Afferent areas in the cerebellum connected 
+with the limbs. Brain 66:289–315.
+Albus JS. 1971. A theory of cerebellar function. Math Biosci 
+10:25–61.
+Arshavsky YI, Berkenblit MB, Fukson OI, Gelfand IM, 
+Orlovsky GN. 1972. Recordings of neurones of the dor-
+sal spinocerebellar tract during evoked locomotion. Brain 
+Res 43:272–275.
+Arshavsky YI, Berkenblit MB, Fukson OI, Gelfand IM, 
+Orlovsky GN. 1972. Origin of modulation in neurones of 
+the ventral spinocerebellar tract during locomotion. Brain 
+Res 43:276–279.
+Bastian AJ, Martin TA, Keating JG, Thach WT. 1996. Cerebel-
+lar ataxia: abnormal control of interaction torques across 
+multiple joints. J Neurophysiol 176:492–509.
+Bastian AJ, Zackowski KM, Thach WT. 2000. Cerebellar ataxia: 
+torque deficiency or torque mismatch between joints?  
+J Neurophys 83:3019–3030.
+Bhanpuri NH, Okamura AM, Bastian AJ. 2013. Predictive 
+modeling by the cerebellum improves proprioception.  
+J Neurosci 33:14301–14306.
+Brooks VB, Thach WT. 1981. Cerebellar control of posture and 
+movement. In Handbook of Physiology, The Nervous System, 
+Sect. I, Vol. 2, ed. V. B. Brooks, pp. 877–46. Bethesda: Am 
+Physiol Soc.
+Brooks JX, Carriot J, Cullen KE. 2015. Learning to expect the 
+unexpected: rapid updating in primate cerebellum during 
+voluntary self-motion. Nat Neurosci 18:1310–1317.
+Buckner RL, Krienen FM, Castellanos A, Diaz JC, Yeo BT. 
+2011 The organization of the human cerebellum esti-
+mated by intrinsic functional connectivity. J Neurophysiol 
+106:2322–2345.
+Courchesne E, Yeung-Courchesne R, Press GA, Hesselink JR, 
+Jernigan TL. 1988. Hypoplasia of cerebellar vermal lob-
+ules VI and VII in autism. N Engl J Med 318:1349–1354.
+Carey MR, Lisberger SG. 2002. Embarrassed but not 
+depressed: some eye opening lessons for cerebellar learn-
+ing. Neuron 35: 223–226.
+Eccles JC, Ito M, Szentagothai J. 1967. The Cerebellum as a 
+Neuronal Machine. New York: Springer.
+Fiez JA, Petersen SE, Cheney MK, Raichle ME. 1992. Impaired 
+non-motor learning and error detection associated with 
+cerebellar damage. Brain 115:155–178.
+Flament D, Hore J. 1986. Movement and electromyographic 
+disorders associated with cerebellar dysmetria. J Neuro-
+physiol 55:1221–1233.
+Gao Z, van Beugen BJ, De Zeeuw CI. 2012. Distributed syner-
+gistic plasticity and cerebellar learning. Nat Rev Neurosci 
+13:619–635.
+Ghasia FF, Meng H, Angelaki DE. 2008. Neural correlates of for-
+ward and inverse models for eye movements: evidence from 
+three-dimensional kinematics. J Neurosci 28:5082–5087.
+Gilbert PFC, Thach WT. 1977. Purkinje cell activity during 
+motor learning. Brain Res 128:309–328.
+Groenewegen HJ, Voogd J. 1977. The parasagittal zonation 
+within the olivocerebellar projection. I. Climbing fiber 
+distribution in the vermis of cat cerebellum. J Comp Neurol 
+174:417–488.
+Heck DH, Thach WT, Keating JG. 2007. On-beam synchrony 
+in the cerebellum as the mechanism for the timing and 
+coordination of movement. Proc Natl Acad Sci U S A 
+104:7658–7663.
+Hore J, Flament D. 1986. Evidence that a disordered servo-
+like mechanism contributes to tremor in movements dur-
+ing cerebellar dysfunction. J Neurophysiol 56:123–136.
+Ito M, Sakurai M, Tongroach P. 1982. Climbing fibre induced 
+depression of both mossy fibre responsiveness and glu-
+tamate sensitivity of cerebellar Purkinje cells. J Physiol 
+Lond 324:113–134.
+Ivry RB, Keele SW. 1989. Timing functions of the cerebellum. 
+J Cogn Neurosci 1:136–152.
+Jansen J, Brodal A (eds). 1954. Aspects of Cerebellar Anatomy. 
+Oslo: Grundt Tanum.
+Kelly RM, Strick PL. 2003. Cerebellar loops with motor cortex 
+and prefrontal cortex of a nonhuman primate. J Neurosci 
+23:8432–8444.
+Kim SG, Ugurbil K, Strick PL. 1994. Activation of a cerebel-
+lar output nucleus during cognitive processing. Science 
+265:949–951.
+Larsell O, Jansen J. 1972. The Comparative Anatomy and His-
+tology of the Cerebellum: The Human Cerebellum, Cerebellar 
+Connection and Cerebellar Cortex, pp. 111–119. Minneapolis, 
+MN: Univ. of Minnesota Press.
+Lisberger SG. 1988. The neural basis for motor learning in 
+the vestibulo-ocular reflex in monkeys. Trends in Neurosci 
+11:147–152.
+Lisberger SG. 1994. Neural basis for motor learning in the 
+vestibulo-ocular reflex of primates. III. Computational and 
+behavioral analysis of the sites of learning. J Neurophysiol 
+72:974–998.
+Lisberger SG, Fuchs AF. 1978. Role of primate flocculus dur-
+ing rapid behavioral modification of vestibulo-ocular 
+reflex. I. Purkinje cell activity during visually guided hori-
+zontal smooth-pursuit eye movements and passive head 
+rotation. J Neurophysiol 41:733–763.
+Marr D. 1969. A theory of cerebellar cortex. J Physiol 
+202:437–470.
+Martin TA, Keating JG, Goodkin HP, Bastian AJ, Thach 
+WT. 1996. Throwing while looking through prisms. I. 
+Focal olivocerebellar lesions impair adaptation. Brain 
+119:1183–1198.
+
+
+===== Page 8 =====
+Chapter 37 / The Cerebellum    931
+Martinez FE, Crill WE, Kennedy TT. 1971. Electrogenesis of 
+cerebellar Purkinje cell responses in cats. J Neurophysiol 
+34:348–356.
+McCormick DA, Thompson RF. 1984. Cerebellum: essen-
+tial involvement in the classically conditioned eyelid 
+response. Science 223:296–299.
+Medina JF, Lisberger SG. 2008. Links from complex spikes 
+to local plasticity and motor learning in the cerebellum 
+of awake-behaving monkeys. Nat Neurosci 11:1185–1192.
+Nieuwenhuys R, Voogd J, van Huijzen C. 1981. The human 
+central nervous system: a synopsis and atlas. Springer.
+Nieuwenhuys R, Voogd J, van Huijzen Chr. 1988. The Human 
+Central Nervous System: A Synopsis and Atlas, 3rd rev. ed. 
+Berlin: Springer.
+Ohyama T, Nores WL, Medina JF, Riusech FA, Mauk MD. 
+2006. Learning-induced plasticity in deep cerebellar 
+nucleus. J Neurosci 26:12656–12663.
+Pasalar S, Roitman AV, Durfee WK, Ebner TJ. 2006. Force 
+field effects on cerebellar Purkinje cell discharge 
+with implications for internal models. Nat Neurosci 
+9:1404–1411.
+Robinson DA. 1976. Adaptive gain control of vestibuloocular 
+reflex by the cerebellum. J Neurophysiol 39:954–969.
+Strata P, Montarolo PG. 1982. Functional aspects of the infe-
+rior olive. Arch Ital Biol 120:321–329.
+Strick PL, Dum RP, Fiez JA. 2009. Cerebellum and nonmotor 
+function. Annu Rev Neurosci 32:413–434.
+Thach WT. 1968. Discharge of Purkinje and cerebellar nuclear 
+neurons during rapidly alternating arm movements in the 
+monkey. J Neurophysiol 31:785–797.
+Tseng YW, Diedrichsen J, Krakauer JW, Shadmehr R,  
+Bastian AJ. 2007. Sensory prediction errors drive  
+cerebellum-dependent adaptation of reaching. J Neuro-
+physiol 98:54–62.
+Yeo CH, Hardiman MJ, Glickstein M. 1984. Discrete lesions 
+of the cerebellar cortex abolish the classically conditioned 
+nictitating membrane response of the rabbit. Behav Brain 
+Res 13:261–266.
+
+
+===== Page 9 =====
+38
+The Basal Ganglia
+Throughout Vertebrate Evolution, the Basal Ganglia Have 
+Been Highly Conserved
+Action Selection Is a Recurring Theme in  
+Basal Ganglia Research
+All Vertebrates Face the Challenge of Choosing One 
+Behavior From Several Competing Options
+Selection Is Required for Motivational, Affective, 
+Cognitive, and Sensorimotor Processing
+The Neural Architecture of the Basal Ganglia Is 
+Configured to Make Selections
+Intrinsic Mechanisms in the Basal Ganglia  
+Promote Selection
+Selection Function of The Basal Ganglia  
+Questioned
+Reinforcement Learning Is an Inherent Property of a 
+Selection Architecture
+Intrinsic Reinforcement Is Mediated by Phasic Dopamine 
+Signaling Within the Basal Ganglia Nuclei
+Extrinsic Reinforcement Could Bias Selection by 
+Operating in Afferent Structures
+Behavioral Selection in the Basal Ganglia Is Under  
+Goal-Directed and Habitual Control
+Diseases of the Basal Ganglia May Involve Disorders of 
+Selection
+A Selection Mechanism Is Likely to Be Vulnerable to 
+Several Potential Malfunctions
+Parkinson Disease Can Be Viewed in Part as a Failure to 
+Select Sensorimotor Options
+Huntington Disease May Reflect a Functional Imbalance 
+Between the Direct and Indirect Pathways
+Schizophrenia May Be Associated With a General Failure 
+to Suppress Nonselected Options
+The Basal Ganglia Network Consists of Three Principal Input 
+Nuclei, Two Main Output Nuclei, and One Intrinsic Nucleus
+The Striatum, Subthalamic Nucleus, and Substantia 
+Nigra Pars Compacta/Ventral Tegmental Area Are the 
+Three Principal Input Nuclei of the Basal Ganglia
+The Substantia Nigra Pars Reticulata and the Internal 
+Globus Pallidus Are the Two Principal Output Nuclei of 
+the Basal Ganglia
+The External Globus Pallidus Is Mostly an Intrinsic 
+Structure of the Basal Ganglia
+The Internal Circuitry of the Basal Ganglia Regulates How 
+the Components Interact
+The Traditional Model of the Basal Ganglia Emphasizes 
+Direct and Indirect Pathways
+Detailed Anatomical Analyses Reveal a More  
+Complex Organization
+Basal Ganglia Connections With External Structures Are 
+Characterized by Reentrant Loops
+Inputs Define Functional Territories in the  
+Basal Ganglia
+Output Neurons Project to the External Structures That 
+Provide Input
+Reentrant Loops Are a Cardinal Principle of Basal 
+Ganglia Circuitry
+Physiological Signals Provide Further Clues to Function in 
+the Basal Ganglia
+The Striatum and Subthalamic Nucleus Receive Signals 
+Mainly from the Cerebral Cortex, Thalamus,  
+and Ventral Midbrain
+Ventral Midbrain Dopamine Neurons Receive Input 
+From External Structures and Other Basal Ganglia Nuclei
+Disinhibition Is the Final Expression of  
+Basal Ganglia Output
+
+

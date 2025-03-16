@@ -1,0 +1,725 @@
+===== Page 1 =====
+1476    Part IX / Diseases of the Nervous System
+Figure 59–2  Ambiguous figures. If you stare at the figure  
+on the left (the Rubin figure), you sometimes see a vase and 
+sometimes two faces looking at each other. If you stare at  
+the figure on the right (the Necker cube), you see a three-
+dimensional cube, but the front face of the cube is  
+sometimes seen at the bottom left and sometimes at the top 
+right. In each figure, the brain finds two equally good, but mutu-
+ally exclusive, interpretations of what is there. Our conscious 
+perception spontaneously alternates between these two 
+interpretations.
+and delusional beliefs of patients with certain cogni-
+tive disorders were once dismissed as beyond under-
+standing. Cognitive neuroscience provides us with a 
+framework for understanding how these experiences 
+and beliefs can arise from specific alterations in normal 
+cognitive mechanisms.
+Differences Between Conscious and 
+Unconscious Processes in Perception Can Be 
+Seen in Exaggerated Form After Brain Damage
+The relationship between sensory stimulation and 
+perception is far from direct. Perception can change 
+without any change in sensory stimulation, as illus-
+trated by ambiguous figures such as the Rubin figure 
+and the Necker cube (Figure 59–2). Conversely, a big 
+change in sensory stimulation can occur without the 
+observer being aware of this change—the perception 
+remains constant. A compelling example of this is 
+change blindness.
+To demonstrate change blindness, two versions of 
+a complex scene are constructed. In one well-known 
+example developed by Ron Rensink, the picture con-
+sists of a military transport plane standing on an air-
+port runway. In one of the two versions, an engine is 
+missing. If these two pictures are shown in alternation 
+on a computer screen, but critically interspersed with 
+a blank screen, it can take minutes to notice the dif-
+ference even though it is immediately obvious when 
+pointed out. (See Figure 25-8 for another example.)
+In light of these phenomena, we can explore the 
+neural activity associated with changes in perception 
+when there is no change in sensory stimulation. Like-
+wise, we can discover whether changes in sensory 
+input are registered in the brain even if not repre-
+sented in consciousness. We can ask whether there is 
+some qualitative difference between the neural activity 
+associated with conscious as opposed to unconscious 
+processes.
+Two important results have emerged from studies 
+of the neural activity associated with specific types of 
+conscious percepts. First, certain kinds of percepts are 
+related to neural activity in specific areas of the brain. 
+Those brain areas that are specialized for recognition 
+of certain kinds of objects (eg, faces, words, land-
+scapes) or for certain visual features (eg, color, motion) 
+are more active when the object or the feature is con-
+sciously perceived (Figure 59–3). For example, when 
+we perceive the faces in the Rubin figure, there is more 
+activity in the area of the fusiform gyrus, which is spe-
+cialized for the processing of faces.
+This observation also applies to deviant percep-
+tion (hallucinations). After degeneration of the periph-
+eral visual system leading to blindness, some patients 
+experience intermittent visual hallucinations (Charles 
+Bonnet syndrome). These hallucinations vary from one 
+patient to another: Some patients see colored patches, 
+others see grid-like patterns, and some even see faces. 
+Dominic ffytche found that these hallucinations are 
+associated with increased activity in the secondary 
+visual cortex, and the content of the hallucination is 
+related to the specific locus of activity (Figure 59–4). 
+Schizophrenic patients frequently experience com-
+plex auditory hallucinations, which usually have the 
+form of voices talking to or about the patient. These 
+
+
+===== Page 2 =====
+Chapter 59 / Disorders of Conscious and Unconscious Mental Processes     1477
+Figure 59–3  Neural activity associated with ambiguous 
+visual information. An ambiguous stimulus was created by 
+simultaneously presenting a face to one eye and a house to 
+the other eye. Brain activity was measured while subjects 
+observed these images. Subjects were instructed to press a 
+button whenever a spontaneous switch in perception occurred 
+(because of binocular rivalry). When the face is perceived (left), 
+activity increases in the fusiform face area (FFA); when the 
+house is perceived (right), activity increases in the parahip-
+pocampal place area (PPA). (Abbreviation: MRI, magnetic reso-
+nance imaging.) (Reproduced, with permission, from Tong et al. 
+1998. Copyright © 1998 by Cell Press.)
+FFA
+PPA
+FFA
+PPA
+House
+Time from reported perceptual switch (s)
+Face
+% MRI signal
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+4
+8
+12
+–8
+–4
+0
+4
+8
+12
+–8
+–4
+House
+Face
+Stimulus
+Percept
+PPA
+FFA
+hallucinations are associated with activity in the audi-
+tory cortex.
+These observations suggest that conscious experi-
+ence may result from activity in certain cortical regions. 
+This idea is difficult to test experimentally, but in the 
+1950s, the neurosurgeon Wilder Penfield found that 
+electrical stimulation of the cortex in patients undergo-
+ing neurosurgery can generate a conscious experience. 
+More recently, it has been found that transcranial mag-
+netic stimulation of the cortex in the region of V5/MT 
+can lead to seeing moving light flashes.
+The second important conclusion drawn from stud-
+ies that seek to correlate neural activity and specific 
+percepts is that activity in a specialized area is neces-
+sary but not sufficient to yield conscious experience. For 
+example, in the change blindness paradigm, subjects are 
+often unaware of large changes in the picture they are 
+viewing. If the change involves a face, activity is elicited 
+in the fusiform gyrus whether or not the subject is aware 
+of the change. But when the sensory change is also per-
+ceived consciously, there is, in addition, activity in the 
+parietal and frontal cortices (Figure 59–5).
+These observations are relevant to our understand-
+ing of unilateral neglect. Since objects on the left side 
+still elicit neural activity in the visual cortex, it may 
+be that the damage in the right parietal cortex simply 
+prevents the formation of conscious representations of 
+objects on the left side of space. Nevertheless, this sen-
+sory activity can support an unconscious inference in 
+patients that they would not want to live in the house 
+that is burning on the left side.
+Stimuli that do not enter awareness can also elicit 
+overt responses. A face with a fearful expression elic-
+its a fear response in the autonomic nervous system, 
+measured as an increase in skin conductance (galvanic 
+response) because of sweating. This response occurs 
+even if the face is immediately followed by another 
+visual stimulus, such that the face is not consciously 
+perceived. There may be an advantage to having a 
+rapid but low-resolution system for recognizing dan-
+gerous things. We jump first; only later, on the basis of 
+a slow, high-resolution system, are we able to identity 
+the object that made us jump (Chapter 48). Damage in 
+one or the other of these two recognition systems can 
+explain certain otherwise puzzling neurological and 
+psychiatric disorders.
+Prosopagnosia is a perceptual disorder in which 
+faces are no longer recognizable. The patient knows 
+
+
+===== Page 3 =====
+1478    Part IX / Diseases of the Nervous System
+Figure 59–4  Neural activity associated with visual halluci-
+nations. Some patients with damage to the retina experience 
+visual hallucinations. The location of the neural activity and 
+the content of the hallucination are related. The experience of 
+colors, patterns, objects, or faces is associated with heightened 
+activity (red) in specific regions of inferior temporal cortex. The 
+blue area is the fusiform gyrus. (Reproduced, with permission, 
+from ffytche et al. 1998. Copyright © 1998 Springer Nature.)
+Subject 1
+Subject 3
+Subject 2
+Subject 4
+he is looking at a face but cannot recognize the face, 
+even a beloved face known for years. The problem 
+is specific to faces, since the patient may still be able 
+to recognize the person from their clothes, gait, and 
+voice. However, patients with prosopagnosia are able 
+to identify faces unconsciously. They show autonomic 
+responses to familiar faces and do better than chance 
+when asked to guess whether or not a face shown to 
+them belongs to a person who is familiar. In fact, their 
+awareness of the autonomic (emotional) responses 
+elicited by a face may enable them to judge familiarity.
+Capgras syndrome, a delusion that is occasion-
+ally observed in schizophrenic patients and in some 
+patients suffering from brain injury or dementia, 
+produces a more unsettling experience. These patients 
+firmly believe that someone close to them, usually a 
+husband or wife, has been replaced by an impostor. 
+They claim that the person, although similar if not 
+identical in appearance, is in fact someone else. Often, 
+this delusion is acted on with the demand that the 
+impostor leave the house.
+Hadyn Ellis and Andy Young have suggested that 
+this bizarre delusion is the mirror phenomenon of 
+prosopagnosia. According to this view, the circuitry 
+for face recognition is intact, but the circuitry that 
+mediates the emotional response to the face is not. 
+As a result, patients recognize the person in front of 
+them but, because the emotional response is lacking, 
+
+
+===== Page 4 =====
+Chapter 59 / Disorders of Conscious and Unconscious Mental Processes     1479
+Figure 59–5  Brain activity with and without aware-
+ness. Activity in the fusiform face area increases when the face 
+viewed by subjects changes, whether subjects are unaware of 
+the change or conscious of it. When subjects are aware of the 
+change, activity in parietal and frontal cortex also increases. 
+(Reproduced, with permission, from Beck et al. 2001.)
+Fusiform gyrus
+A  Unconscious detection
+B  Conscious report
+Parietal cortex
+Frontal cortex
+Parietal cortex
+feel that there is something fundamentally wrong. This 
+account has been partially confirmed by the observa-
+tion that these patients do not have normal autonomic 
+responses to familiar faces.
+This explanation implies that Capgras delusions 
+are not the consequence of disordered thinking but of 
+disordered experience. A patient sees the face of his 
+wife without having the normal emotional response. 
+The conclusion that this is not his wife but an impostor 
+is a cognitive response to this abnormal experience, the 
+mind’s attempt to explain the experience.
+The Control of Action Is Largely Unconscious
+The sense that we are in control of our own actions is a 
+major component of consciousness. But are we aware 
+of all aspects of our own actions? David Milner and Mel 
+Goodale studied a patient known as D.F. who demon-
+strates a striking lack of awareness of certain aspects of 
+her own actions. As a result of damage to her inferior 
+temporal lobe caused by carbon monoxide poisoning, 
+D.F. suffers from form agnosia—she is unable to identify 
+the shapes of things. She cannot distinguish a square 
+from an oblong card and cannot describe the orienta-
+tion of a slot. Yet when she picks up the oblong card 
+to place it through the slot, she orients her hand and 
+forms her grasp appropriately because of the uncon-
+scious operation of visuomotor circuits (Figure 59–6).
+This sort of unconscious guidance is not unique to 
+patients with brain damage. It is simply revealed more 
+starkly in the case of D.F. because the system that nor-
+mally brings visual information about shape into con-
+sciousness is impaired. Indeed, we can all make rapid 
+and accurate grasping movements without being 
+aware of the perceptual and motor information that 
+is being used to control these movements. Sometimes, 
+we are not even aware of having made the movement. 
+This largely unconscious system for visually guided 
+reaching and grasping is analogous to, and probably 
+overlaps with, the rapid but poor-resolution system 
+associated with fear responses.
+Although we may not be aware of the perceptual 
+and motor details of actions like reaching and grasping, 
+
+
+===== Page 5 =====
+1480    Part IX / Diseases of the Nervous System
+Figure 59–6  Action can be controlled by unconscious  
+stimuli. A patient, D.F., with damage to the inferior temporal 
+cortex, is unable to recognize objects based on their shape 
+(form agnosia). She cannot align the tablet with the orienta-
+tion of the slot (perceptual matching) because she is not con-
+sciously aware of the orientation of either the tablet or the slot. 
+However, when she is asked to put the tablet through the slot 
+in a quick movement, she orients her hand rapidly and accu-
+rately. Presumably, the movement is driven by visuomotor  
+computations of which the subject is unaware. (Adapted, with  
+permission, from Milner and Goodale 1995.)
+Figure 59–7  We experience our actions and their effects as 
+bound together in time. When subjects are asked to press a 
+button that triggers a sound 250 ms later, they experience their 
+action and the sound as occurring closer together (subjective 
+time) than they actually are (objective time). In contrast, when 
+their finger moves involuntarily through trans cranial magnetic 
+stimulation (TMS) of motor cortex, the movements and the 
+sound are experienced as further apart compared to objective 
+time. Temporal binding occurs only when the movement is 
+intended and deliberate and thus is a marker of the experience 
+of agency. (Based on Haggard, Clark, and Kalogeras 2002.)
+Insertion of
+card into slot
+Control
+Subject with damage to
+ventral visual stream
+Perceptual
+orientation
+matching
+we are vividly aware of being in control of some of our 
+actions—we are aware of a difference between actions 
+that we cause and those that happen involuntarily. 
+Benjamin Libet studied the phenomenon of voluntary 
+action in controlled experiments. He asked his subjects 
+to lift a finger “whenever they felt the urge to do so” 
+and to report the time at which they had this urge. 
+His subjects had no difficulty in reliably reporting the 
+time of this subjective experience. At the same time, 
+Libet used electroencephalography to measure the 
+“readiness potential,” a change in brain activity that 
+occurs up to 1 second before a subject makes any vol-
+untary movement. The time at which subjects reported 
+feeling the urge to lift a finger occurred hundreds 
+of milliseconds after the beginning of this readiness 
+potential. This result has generated much discussion 
+among philosophers as well as neuroscientists con-
+cerning the existence of free will. If brain activity can 
+predict an action before a person is aware of having the 
+urge to perform that action, does this mean that our 
+experience of freely willing actions is an illusion?
+Although Libet’s result has been widely repli-
+cated, the relevance of his experimental protocol for 
+our understanding of free will remains controversial. 
+Lifting one finger is not an action that we often per-
+form. Actions usually have goals. For example, we 
+might press a button in order to ring a bell. When our 
+actions are followed by the goal we expect, we feel 
+that we are in control of our actions. It is this subjec-
+tive experience that gives us a sense of agency, of being 
+the cause of events. Applying Libet’s paradigm to such 
+actions, Patrick Haggard discovered the phenomenon 
+of “intentional binding.” When a deliberate movement 
+(pressing a button) is followed by its intended goal 
+(hearing a tone), these events are experienced subjec-
+tively as bound together in time (Figure 59–7).
+This temporal binding of our actions to their goals 
+provides an empirical marker of our sense of agency, 
+since a stronger sense of agency is associated with a 
+greater degree of binding. If a movement occurs pas-
+sively, caused for example by magnetic stimulation to 
+the brain, then intentional binding is decreased; we 
+actually perceive the time between movement and out-
+come as longer than the actual physical time.
+Our sense of agency is closely linked to our belief 
+in free will and to the idea that people can be held 
+Subjective time
+Objective time
+Tone
+Tone
+Tone
+Action
+250 ms
+Voluntary 
+action
+Involuntary 
+action
+Action
+Action
+
+
+===== Page 6 =====
+Chapter 59 / Disorders of Conscious and Unconscious Mental Processes     1481
+Figure 59–8  Actions can be modified unconsciously. Subjects 
+are asked to draw a straight line with a computer mouse. They can 
+see the line on the screen but not their hand movement. The com-
+puter is programmed to systematically distort the line displayed 
+on the screen. In the result shown here, the subject had to move 
+his hand 10° to the left to produce a vertical line on the screen. 
+Subjects are not aware of making such adjustments. (Adapted, 
+with permission, from Fourneret and Jeannerod 1998. Copyright 
+© 1998 Elsevier Science Ltd.)
+responsible for their actions when these are performed 
+deliberately. Intentional binding is increased when 
+associated with outcomes that have moral conse-
+quences. It is reduced for actions that have been com-
+manded by others, rather than performed freely. These 
+results do not address the question of whether or not 
+free will exists, but they suggest that our conscious 
+experience of acting freely has a major role in creating 
+social norms of responsibility. Such norms are critical 
+for maintaining social cohesion.
+Unconscious inference occurs in the motor domain 
+as well as the sensory domain. Our experience of 
+agency is created from two components: our prior 
+expectations and the sensory consequences of the 
+outcome of the action. We are surprised if the actual 
+sensations do not match what we expect, as when we 
+pick up an object that is much lighter than anticipated 
+(Chapter 30). If the outcome confirms our expectations, 
+however, we pay little attention to the actual sensory 
+evidence—we experience what we expected to happen 
+rather than what actually happened.
+Pierre Fourneret and Marc Jeannerod asked sub-
+jects to draw a vertical line using a computer’s mouse. 
+The subjects could not see their hand and so could not 
+see that the computer created a distortion in the line 
+displayed on the screen. The striking result was that 
+subjects were not aware that they had moved their 
+hand at an angle of 10° to the left to produce the vertical 
+Graphics
+tablet
+Onset of
+perturbation 
+Line
+displayed
+Actual hand 
+movement
+10
+Adjustment made 
+unconsciously
+Target
+Computer
+Start point 
+line on the screen (Figure 59–8). This lack of awareness 
+occurred for deviations of up to 15°. When subjects 
+were instructed not to look at the screen but simply 
+repeat the movement they had just made, they did not 
+reproduce the deviant movement they had made but 
+instead drew the straight-ahead movement that they 
+believed they had made. It would seem that as long as 
+the goal is realized (drawing a straightforward line), 
+we experience the expected sensory feedback, not the 
+actual sensory feedback.
+This phenomenon helps us understand some 
+otherwise bizarre experiences. For example, after the 
+amputation of a limb, some patients may experience a 
+phantom limb. They still experience the urge to move 
+the missing limb, and they can select specific move-
+ments they want the missing limb to make. Their 
+sensorimotor systems predict the proprioceptive sen-
+sations they would feel if they were to move an intact 
+limb, and it is these predicted sensations that underlie 
+the sensation of a moving phantom limb.
+After a limb has been paralyzed due to stroke, 
+some patients believe that they are still able to move 
+the limb (anosognosia for hemiplegia). Here, again, 
+such patients can select the movements they want to 
+make and are aware of their expectations about the 
+movement. Despite the lack of sensory evidence that 
+follows their attempt to initiate the movement, they 
+believe that the movement did occur.
+
+
+===== Page 7 =====
+1482    Part IX / Diseases of the Nervous System
+The Conscious Recall of Memories Is a  
+Creative Process
+For most of us, memory is the conscious imaginative 
+reliving of a past experience. If we take no account of 
+subjective experience (the behaviorist stance), however, 
+memory is a process by which our past experience alters 
+future behavior. Our behavior is often affected by past 
+experience, but without conscious recall of the memory 
+or awareness of the influence it is having on us. Once 
+again, this type of experience is seen most strikingly in 
+patients with damage to specific areas of the brain.
+Some patients become densely amnesic after dam-
+age to the medial regions of the temporal lobe. They 
+show no decline in intellect as measured by IQ tests 
+but cannot remember anything for more than a few 
+minutes. Although devastating, this memory impair-
+ment is actually rather circumscribed. The problem 
+is largely manifested in declarative memory, and most 
+severely in a type of declarative memory called epi-
+sodic memory, the ability to recollect events in one’s life 
+(Chapter 54). Procedural memory, in which conscious-
+ness has a minor role (Chapter 53), remains intact. 
+Thus, patients can still remember motor skills such as 
+riding a bicycle and can often learn new motor skills 
+at a normal rate. This selective effect of brain damage 
+can lead to dramatic dissociations. A patient who has 
+been learning some new skill every day for a week will 
+deny ever having performed the task before. He is then 
+surprised to find how skillful he has become.
+A widely used protocol tests subjects’ ability to 
+recall lists of words they have memorized, a task that 
+taps a form of declarative memory. In the recall phase, 
+a subject is presented with a list of the words that were 
+on the study list plus new words. An amnesic patient 
+has great difficulty with this type of task and may 
+misclassify most of the previously seen words as new 
+since she cannot recall seeing them before. Neverthe-
+less, the brain activity elicited by reading old words is 
+different from that elicited by the new words: There is 
+unconscious recognition of a difference, equivalent to 
+that shown by patients with unilateral neglect or pros-
+opagnosia. Normal subjects usually find this task easy, 
+but they too will occasionally misclassify old words 
+as new; as with amnesiacs, evoked brain responses 
+in normal subjects register the distinction lost to con-
+scious recall (Figure 59–9).
+Occasionally, a subject misclassifies a new word as 
+an old one. This misclassification amounts to a false 
+memory. Such misclassifications are most likely to 
+occur when the new word is semantically related to 
+one or more of the old words. If the list of old words 
+contained big, great, huge, then the new word large is 
+Figure 59–9  Brain activity shows the imprint of forgotten 
+memories. Subjects were presented with a list of words, 
+including some that had been presented earlier and some that 
+were new. When asked to identify the words presented earlier, 
+subjects correctly identified some of the old words but forgot 
+others. Immediately after the visual presentation of a word, 
+there is a brief fluctuation in the evoked potential in the brain. 
+Evoked responses in the parietal region of the brain reflect 
+whether or not the words had been seen before, even when 
+subjects did not consciously recognize the words. The pattern 
+produced by old words, whether recognized or not, is different 
+from that produced by the new words. (Reproduced, with permis-
+sion, from Rugg et al. 1998. Copyright © 1998 Springer Nature.)
+0
+500 ms
+New test items
+Previously seen but 
+unrecognized
+test items
+2 µV
+likely to be identified as old. One explanation for this 
+is that the perception of the new word large has been 
+unconsciously primed by the previous presentation of 
+the old words. Thus, the new word large is processed 
+easily and quickly, and because the subject is aware of 
+this, he concludes the word must be familiar and clas-
+sifies it as old.
+This observation emphasizes that memory is a 
+creative process. Our conscious memories are con-
+structed from both conscious recall and unconscious 
+knowledge. To guard against false memories, as with 
+false percepts, we use our knowledge about the world 
+to determine which memories are plausible.
+In some patients, the process by which memories 
+are screened can become dramatically disturbed. If asked 
+what happened yesterday, most patients with amne-
+sia will say that they cannot remember, but a few will 
+give elaborate accounts that do not correspond to real-
+ity. Such false memories are called confabulations and can 
+sometimes be extremely implausible. For example,  
+one patient said that he had met Harold Wilson  
+
+
+===== Page 8 =====
+Chapter 59 / Disorders of Conscious and Unconscious Mental Processes     1483
+(a former British Prime Minister) and discussed a 
+building job they were both working on.
+The creative mechanisms needed to reconstruct 
+memories of past episodes are also involved when 
+imagining events that might happen in the future. In 
+amnesic patients with damage to the hippocampus, the 
+ability to imagine new events is markedly impaired.
+Behavioral Observation Needs to Be 
+Supplemented With Subjective Reports
+By the middle of the 20th century, it had become clear 
+that the classic behaviorist approach was inadequate 
+for the exploration of many psychological processes. 
+Language acquisition, selective attention, and working 
+memory cannot be understood in terms of relations 
+between stimuli and responses, however complex the 
+relationships postulated.
+The demonstration that some cognitive processes 
+are unconscious requires that we move even further 
+from behaviorism. If we want to explore the whole 
+range of conscious and unconscious cognitive pro-
+cesses, we will not be able to do so by focusing on 
+overt behavior alone. We cannot assume that a subject 
+making purposeful, goal-directed actions is necessar-
+ily aware of the stimuli eliciting the action or even 
+of the action itself. We must supplement behavioral 
+observations with subjective reports. We have to ask 
+the subject, “Did you see the stimulus? Did you move 
+your hand?”
+One hundred years ago, introspection was the 
+major method for obtaining data in psychology. How 
+else could one study consciousness? But different 
+schools of psychology obtained different results and, 
+as John B. Watson emphasized, there seemed to be no 
+objective way of deciding who was right. How can you 
+independently confirm subjective experience? Thus, 
+the method fell into disrepute. During the decades in 
+which psychology was dominated by behaviorism, 
+subjective reports were not considered an appropri-
+ate source of data. As a result, methods for recording 
+subjective reports lag far behind methods for record-
+ing overt behavior. Regrettably, many studies of cogni-
+tive processes still do not require reports of subjective 
+experience from subjects because of the long tradition 
+of excluding such reports.
+The one domain of psychology in which subjective 
+reports continued to be used was psychophysics, the 
+study of the relationship between sensation (physi-
+cal energy) and perception (psychological experience) 
+introduced by Fechner in 1860. Such studies give 
+robust and reliable results and have created some of 
+the few laws in psychology, such as Weber’s law (the 
+just-noticeable difference between two stimuli is pro-
+portional to the magnitude of the stimuli). In these 
+studies, subjects are typically asked “Did you see the 
+stimulus?” or “How confident are you that you saw 
+the stimulus?”
+Signal detection theory, developed in the 1950s, 
+provides a robust methodology for measuring the abil-
+ity to detect a stimulus (discriminability, d′) indepen-
+dently of any reporting biases (Chapter 17). If your 
+discriminability is high, then you will successfully 
+detect small changes in the stimuli. More recently, there 
+has been increasing interest in the second question, 
+“How confident are you that you saw the stimulus?” 
+Reporting one’s confidence requires metacognition, the 
+ability to reflect on our cognitive processes. This abil-
+ity has an important role in the control of behavior. For 
+example, if we realize that we are not performing some 
+task very well, we might slow down and pay more 
+attention to what we are doing.
+The ability to reflect on our perception can be meas-
+ured objectively. Likewise, the ability to reflect on the 
+quality of our cognitive processes can also be assessed 
+quantitatively. If your metacognitive accuracy is high, 
+then you will successfully discriminate between 
+your right and wrong answers. In other words, a cor-
+rect detection will usually be associated with a high 
+degree of confidence, whereas an incorrect detection 
+will be associated with a low degree of confidence. 
+However, your metacognitive accuracy need not be 
+related to your signal detection ability. You could be 
+good at detecting signals while at the same time poor 
+at knowing whether your answers are likely to be right 
+or wrong. In fact, patients with damage to anterior pre-
+frontal cortex retain the ability to detect visual signals 
+but show a marked deficit in metacognitive accuracy.
+Verbal reports cannot, of course, be used in signal 
+detection experiments with laboratory animals or pre-
+verbal infants. One alternative is to identify aspects of 
+behaviors that reflect confidence. For example, if we 
+are confident that we left our keys somewhere in the 
+living room, we will spend more time looking there 
+before we switch to the hall. Louise Goupil and Sid 
+Kouider applied this insight to the study of metacogni-
+tion in preverbal infants. The infants had to remember 
+which of two boxes had contained a toy that was later 
+removed without their knowledge. They spent more 
+time searching inside the correct box. The infants were 
+also more likely to ask an adult for help to open the 
+correct box. These effects did not occur after long inter-
+vals. This behavior suggests that the infants had some 
+insight into their current state of knowledge. They 
+knew when they could no longer remember which was 
+
+
+===== Page 9 =====
+1484    Part IX / Diseases of the Nervous System
+Figure 59–10  Imagining a face or a place correlates 
+with activity in specific areas of the brain. Subjects were 
+scanned while they viewed or imagined faces and houses. 
+In the first block of trials, subjects alternately viewed a face 
+or a house. When viewing a face, brain activity increases in 
+the fusiform face area of the inferior temporal lobe (FFA). 
+When viewing a house, brain activity increases in the 
+parahippocampal place area of the inferior temporal cortex 
+(PPA). In the next block of trials, subjects alternately imagined 
+a face and a house. The same brain regions are active during 
+both the imagining and direct viewing of faces and houses, 
+although the activity is less pronounced during the imagined 
+viewing. (Reproduced, with permission, from O’Craven and 
+Kanwisher 2000. Copyright © 2000 MIT.)
+the correct box. Similar experiments suggest that rats 
+and monkeys also have some metacognitive abilities.
+Verification of Subjective Reports Is Challenging
+Reports of subjective experience, such as confidence, 
+serve like a meter. Just as an electrical meter converts 
+electrical resistance into the position of a pointer on a dial 
+(reading 100 ohms), so a subject converts a light stimulus 
+into the report of a color (“I see red”). But there is a criti-
+cal way in which the meter is not like a person. The meter 
+does not experience red and cannot communicate mean-
+ing. And, although the meter might be faulty, it can never 
+pretend to see red when it is really seeing blue. Most of 
+the time, we presume that subjective reports are true, 
+that is, the subject is trying as far as possible to give an 
+accurate description of his experience. But how can we be 
+sure that we can rely on these subjective reports?
+Viewed
+Imagined
+Viewed
+Imagined
+PPA activity (% signal change)
+FFA activity (% signal change)
+0
+2.5
+2
+1.5
+1
+.5
+–.5
+–1
+0
+1.5
+1
+.5
+–.5
+The problem of verifying subjective reports can 
+partially be addressed with the use of brain imaging. 
+Brain imaging studies have shown that neural activ-
+ity occurs in localized areas of the brain during mental 
+activity that is not associated with any overt behavior. 
+The content of such mental activity, such as imagining 
+or daydreaming, can be known only from the subject’s 
+reports.
+If we scan a subject while he says he is imagining 
+moving his hand, activity will be detected in many 
+parts of the motor system. In most motor regions, 
+this activity is less intense than the activity associ-
+ated with an actual movement, but it is well above 
+resting levels. Similarly, if a subject reports that she is 
+imagining a face she has recently seen, activity can be 
+detected in the fusiform gyrus, the “face recognition 
+area” (Figure 59–10). In these examples, the location of 
+the observed neural activity detected by the scanner 
+
+

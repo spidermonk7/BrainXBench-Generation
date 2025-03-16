@@ -1,0 +1,793 @@
+===== Page 1 =====
+660    Part IV / Perception
+Bushy cell
+in cochlear 
+nucleus
+Cochlear 
+nerve
+ITD
+Coincidence 
+detectors
+Delay line from right
+Time
+Right ear
+Left ear
+A  Phase-locked ﬁring in bushy cells
+Right nerve
+Left nerve
+B  Mapping of ITD onto array of neuronal 
+ 
+coincidence neurons
+ITD>0
+ITD=0
+ITD<0
+C  Bilateral medial superior olivary nuclei
+Delay line from left
+
+
+===== Page 2 =====
+Chapter 28 / Auditory Processing by the Central Nervous System    661
+Figure 28–5  (Opposite) Interaural differences in the arrival 
+of a sound help localize sound in the horizontal plane.
+A. When a sound such as a pure tone arises from the right, the 
+right ear detects the sound earlier than the left ear. The differ-
+ence in the time of arrival at the two ears is the interaural time 
+delay (ITD). Cochlear nerve fibers and their bushy cell targets 
+fire in phase with pressure changes. Although individual bushy 
+cells may fail to fire at some cycles, a set of cells will encode 
+the timing of a low-frequency sound and its frequency with 
+every cycle. Comparison of the onset of action potentials in the 
+bushy cells at the two sides reveals the ITDs (slanted black 
+lines).
+B. Interaural time differences can be measured by an array of 
+neurons whose inputs from the two ears are delay lines as 
+proposed by Lloyd Jeffress (1948). Action potentials propagate 
+to reach the nearest terminals before they reach the farthest 
+ones; thus, in the delay line from the right, terminals will gen-
+erate synaptic potentials sequentially from right to left, and in 
+the delay line from the left, terminals will generate synaptic 
+potentials sequentially from left to right. Suppose that such 
+postsynaptic neurons are coincidence detectors, firing only 
+when they receive excitatory postsynaptic potentials (EPSPs) 
+simultaneously from the right and left. Sounds that arise at the 
+midline reach the right and left ears simultaneously with no 
+interaural time disparity (ITD = 0). The neuron in the middle of 
+the array that receives input from equally long axons from the 
+two sides will thus receive simultaneous EPSPs from the two 
+sides. When sounds come from the right, signals from the right 
+ear arrive at the central nervous system earlier than those from 
+the left ear (ITD >0). Sound from the right generates synchro-
+nous EPSPs in the (yellow) neuron because the earlier arrival of 
+sound from the right (red) is compensated by a longer conduc-
+tion delay relative to that from the left (blue). Likewise, when 
+sound arises from the left, the ITD <0 and conduction delays 
+from the left (blue) compensate for the early arrival at the left. 
+Such a neuronal circuit produces a map of interaural time dis-
+parities in the coincidence detectors; as sounds move from the 
+right to left, they activate coincidence detectors sequentially 
+from left to right. Such an arrangement of delay lines has been 
+found in the nucleus laminaris of the barn owl, the homolog of 
+the mammalian medial superior olivary nucleus.
+C. Mammals use delay lines only in the nucleus contralateral 
+to a sound source to form a map of interaural time differences. 
+The bitufted neurons of the medial superior olivary nucleus 
+form a sheet that is contacted on its lateral face by bushy cells 
+from the ipsilateral cochlear nucleus and on the medial face by 
+bushy cells from the contralateral cochlear nucleus. (Although 
+it is depicted here schematically in a coronal section of the 
+brain stem, the encoding of interaural disparities is in a sheet 
+of neurons that also has a rostrocaudal dimension.) On the 
+ipsilateral side, the branches of the bushy cell axon are of equal 
+length and thus initiate synaptic currents in their targets in the 
+medial superior olive simultaneously. On the contralateral side, 
+the branches deliver synaptic currents sequentially first to the 
+regions closest to the midline, and then to progressively more 
+lateral regions. Neurons of the medial superior olive detect syn-
+chronous excitation from the two ears only when sounds arise 
+from the contralateral half of space. When sounds arise from 
+the right side, their early arrival at the right ear is compensated 
+by progressively longer conduction delays to activate neurons 
+more and more toward the lateral end of the left medial supe-
+rior olive (the yellow cell is activated by a sound from the far 
+right, as in part B). When sounds arise from the front and there 
+is no interaural time difference, neurons in the anterior end of 
+the medial superior olive are activated synchronously from both 
+sides. Each medial superior olive forms a map of where sounds 
+arise in the contralateral hemifield. (Adapted, with permission, 
+from Yin 2002.)
+intensity at the near ear to be greater than that at the 
+far ear. In humans, interaural intensities can differ 
+in sounds that have frequencies greater than about  
+2 kHz. Interaural intensity differences produced by 
+such head shadowing are detected by a neuronal circuit 
+that includes the medial nucleus of the trapezoid body 
+and the lateral superior olive.
+Although the lateral superior olive does not form 
+a map of the location of sounds in the horizontal plane, 
+it performs the first of several integrative steps that 
+use interaural intensity differences to localize sounds. 
+Neurons in this nucleus balance ipsilateral excitation 
+with contralateral inhibition. Excitation comes from 
+small spherical bushy cells and stellate cells in the ipsi-
+lateral ventral cochlear nucleus. Inhibition comes from 
+a disynaptic pathway that includes globular bushy 
+cells in the contralateral ventral cochlear nucleus and 
+principal neurons of the ipsilateral medial nucleus of 
+the trapezoid body (Figure 28–6A). Sounds that arise 
+ipsilaterally generate relatively strong excitation and 
+relatively weak inhibition, whereas those that arise 
+contralaterally generate stronger inhibition than exci-
+tation. Neurons in the lateral superior olive are acti-
+vated more strongly by sounds from the ipsilateral 
+than from the contralateral hemifield. The firing of 
+lateral superior olivary neurons is a function of the 
+location of the sound source and thus carries informa-
+tion about where sounds arise in the horizontal plane 
+(Figure 28–6B).
+In order to balance excitation and inhibition stim-
+ulated by one sound, the ipsilateral excitation and 
+contralateral inhibition must arrive at neurons in the 
+lateral superior olive at the same time. Thus, excitation 
+that arises monosynaptically from the ipsilateral ven-
+tral cochlear nucleus must arrive at the same time as 
+inhibition that arises disynaptically from the contralat-
+eral ventral cochlear nucleus. The inhibition comes 
+from the medial nucleus of the trapezoid body whose 
+inputs through large axons of globular bushy cells 
+and large calyces of Held produce synaptic responses 
+
+
+===== Page 3 =====
+662    Part IV / Perception
+Figure 28–6  Interaural differences in the intensity of 
+a sound also help localize sound in the horizontal 
+plane.
+A. Principal cells of the lateral superior olivary nucleus 
+(LSO) receive excitatory input from the ipsilateral coch-
+lear nucleus (CN) and inhibitory input from the contralat-
+eral cochlear nucleus. A coronal section through the 
+brain stem of a cat illustrates the anatomical connec-
+tions. Small spherical bushy cells and stellate cells in the 
+ipsilateral ventral cochlear nucleus provide direct excita-
+tion. Globular bushy cells in the contralateral ventral 
+cochlear nucleus project across the midline and excite 
+neurons in the medial nucleus of the trapezoid body 
+(MNTB) via large terminals, the calyces of Held. Cells of 
+the medial nucleus of the trapezoid body inhibit neurons 
+in the lateral superior olive as well as in the medial supe-
+rior olive (MSO). For neurons of the lateral superior olive 
+to compare intensities of the same sound, the timing of 
+the ipsilateral excitatory input must be matched with the 
+timing of the contralateral inhibitory input. To this end, 
+globular bushy cells have particularly large axons that 
+terminate in a calyx of Held in the medial nucleus of the 
+trapezoid body where synaptic transmission is strong 
+and thus the synaptic delay is short and invariant in its 
+timing.
+B. The firing of neurons in the lateral superior olive 
+reflects a balance of ipsilateral excitation and contralat-
+eral inhibition. When sounds arise from the ipsilateral 
+side, excitation is relatively stronger and inhibition is 
+relatively weaker than when sounds arise from the con-
+tralateral side. The transition between the dominance 
+of excitation and inhibition reflects the location of the 
+sound source.
+LSO
+MNTB
+CN
+CN
+Location of sound source
+Firing rate in LSO cell
+Ipsilateral
+Contralateral
+Ipsi excitation >
+contra inhibition
+Contra inhibition >
+ipsi excitation
+MSO
+A
+B
+Globular 
+bushy cell
+Input from 
+ipsilateral 
+ear
+Input from 
+contralateral
+ear
+with short and consistently timed delays. The axons of 
+small spherical bushy cells and stellate cells that carry 
+ipsilateral excitation conduct more slowly than those 
+of globular bushy cells.
+The terminals of the globular bushy cells, the 
+calyces of Held, engulf the cell bodies of trapezoid-
+body neurons so dramatically that they caught the 
+attention of early anatomists and modern biophysi-
+cists. A single somatic terminal releases neurotrans-
+mitter at numerous release sites and generates large 
+synaptic currents. The reliability of pre- and postsyn-
+aptic recordings at this synapse makes the site ideal 
+for detailed studies of the mechanisms of synaptic 
+transmission (Chapter 15).
+The Superior Olivary Complex Provides Feedback 
+to the Cochlea
+Although sensory systems are largely afferent, bring-
+ing sensory information to the brain, recent studies 
+have led to an appreciation of the importance of effer-
+ent signaling at many levels of the auditory system. 
+Olivocochlear neurons form a feedback loop from the 
+superior olivary complex to hair cells in the cochlea. 
+Their cell bodies lie around the major dense clusters 
+of cell bodies in the olivary nuclei. In mammals, two 
+groups of olivocochlear neurons have been function-
+ally distinguished. The medial olivocochlear neurons’ 
+axons terminate on the outer hair cells bilaterally; the 
+lateral olivocochlear neuron axons terminate ipsi-
+laterally on the afferent fibers associated with inner 
+hair cells.
+Most medial olivocochlear neurons, with cell 
+bodies that lie ventral and medial within the olivary 
+complex, send their axons to the contralateral coch-
+lea (Figure 28–7), but many also project to the ipsi-
+lateral cochlea. These cholinergic neurons act on hair 
+cells through a special class of nicotinic acetylcholine 
+receptor-channels formed from α9 and α10 subunits. 
+The influx of Ca2+ through these channels leads to the 
+opening of K+ channels that hyperpolarize outer hair 
+cells. These neurons thus mediate tuned negative feed-
+back and are binaural, being driven predominantly 
+but not exclusively by stellate cells of the contralateral 
+
+
+===== Page 4 =====
+Chapter 28 / Auditory Processing by the Central Nervous System    663
+Figure 28–7  Major components of the ascending and 
+descending auditory pathways.  The auditory pathway is bilat-
+erally symmetrical; the major connections among the nuclei 
+that form the early auditory pathway are shown. The ascending 
+pathway begins in the cochlea and progresses through several 
+parallel pathways through the cochlear nuclei: the cochlear 
+nuclei, the superior olivary nuclei, and the ventral and dorsal 
+nuclei of the lateral lemniscus. These signals converge in the 
+inferior colliculus, which projects to the medial geniculate 
+body of the thalamus and thence to the cerebral cortex (see 
+Figure 28–2). Some of the connections are through excitatory 
+pathways (colored lines) and others through inhibitory path-
+ways (black lines). These same nuclei are also interconnected 
+through descending pathways (blue lines) and bilaterally 
+through commissural projections. (LSO, lateral superior olivary 
+nucleus; MNTB, medial nucleus of the trapezoid body; MSO, 
+medial superior olive; VNTB, ventral nucleus of the trapezoid 
+body).
+Superior 
+olivary 
+complex
+LSO
+MSO
+MNTB
+VNTB
+Dorsal 
+cochlear
+nucleus
+Medial
+olivocochlear
+efferents
+Lateral
+olivocochlear
+efferents
+Ventral 
+cochlear
+nucleus
+Pons
+Medulla
+To inferior colliculus 
+Lateral 
+lemniscus
+Fusiform cells
+Stellate cells
+Bushy cells
+Octopus cells
+Cochlea
+ventral cochlear nucleus. Activity in these efferent fib-
+ers reduces the sensitivity of the cochlea and protects 
+it from damage by loud sounds. Collateral branches 
+of medial olivocochlear neurons terminate on stellate 
+cells in the cochlear nucleus, acting on conventional 
+nicotinic and muscarinic acetylcholine receptors, form-
+ing an excitatory feedback loop.
+Lateral olivocochlear neurons, with cell bodies that 
+lie in and around the lateral superior olive, send their 
+axons exclusively to the ipsilateral cochlea, where they 
+terminate on the afferent fibers from inner hair cells. 
+Charles Liberman and his colleagues demonstrated 
+that these efferents balance the excitability of cochlear 
+nerve fibers at the two ears.
+Ventral and Dorsal Nuclei of the Lateral Lemniscus 
+Shape Responses in the Inferior Colliculus With 
+Inhibition
+Fibers from the cochlear and superior olivary nuclei 
+run in a band, or lemniscus, along the lateral edge of 
+the brain as they ascend from the brainstem to the infe-
+rior colliculus. Along this band of fibers are groups of 
+neurons that form the dorsal and ventral nuclei of the 
+
+
+===== Page 5 =====
+664    Part IV / Perception
+lateral lemniscus. Neurons in the ventral nuclei of the 
+lateral lemniscus receive input from all major groups 
+of principal cells of the ventral cochlear nuclei and 
+respond predominantly to monaural input, driven 
+by the contralateral ear, while neurons in the dor-
+sal nucleus receive input from the lateral and medial 
+superior olivary nuclei and respond to inputs from 
+both ears. Neurons in both subdivisions are inhibitory 
+and project to the inferior colliculus. Their roles are 
+intriguing but not fully understood.
+Since understanding the meaning of sounds is not 
+greatly compromised by the loss of one ear, it would 
+make sense that the largely monaural functions of the 
+ventral nuclei of the lateral lemniscus involve the pro-
+cessing of the meaning of sounds. Furthermore, mam-
+mals vary in the information they extract from their 
+acoustic environments, which may account for differ-
+ences between species in the structure and function of 
+the ventral nuclei of the lateral lemniscus.
+A border that is more distinct in some mamma-
+lian species than in others separates the ventral and 
+intermediate nuclei and the subdivisions of the ventral 
+nucleus of the lateral lemniscus. Neurons differ in their 
+shapes, biophysical properties, and pattern of conver-
+gence of cochlear nuclear inputs. One group of glycin-
+ergic neurons is innervated by large calyceal terminals 
+from octopus cells. These could generate inhibitory 
+temporal reference signals in the inferior colliculus. 
+Some broadly tuned neurons fire almost exclusively at 
+the onset of tones with sharply timed action potentials 
+but convey periodicity in complex sounds, raising the 
+question of whether these neurons might have a role in 
+encoding pitch in music and speech. Others respond 
+by firing as long as a tone is present; these neurons 
+track the fluctuations in intensity or the envelopes of 
+sounds, a feature that is useful for understanding the 
+meaning of sounds including speech. Tuning curves 
+of the neurons are variable, with many being broad or 
+W-shaped.
+Neurons in the dorsal nucleus are predominantly 
+binaural, receiving input from the ipsilateral medial 
+superior olive and from the lateral superior olive, 
+primarily from the contralateral side. These neurons 
+are GABAergic, targeting the inferior colliculi on 
+both sides and also targeting the contralateral dorsal 
+nucleus of the lateral lemniscus. Excitation in neurons 
+of the dorsal nucleus is amplified by NMDA-type glu-
+tamate receptors so that the inhibition they generate in 
+their targets outlasts sound stimuli for tens of millisec-
+onds and thus has been termed persistent inhibition. 
+To localize sounds accurately, animals must ignore the 
+reflections of sounds from surrounding surfaces that 
+arrive after the initial direct wave front. Psychophysical 
+experiments have shown that mammals suppress all 
+but the first-arriving sound, a phenomenon termed 
+the precedence effect. It has been proposed that persis-
+tent inhibition in the inferior colliculus from the dor-
+sal nucleus of the lateral lemniscus serves to suppress 
+spurious localization cues such as echoes and thus that 
+it contributes to the precedence effect.
+Afferent Auditory Pathways Converge in the 
+Inferior Colliculus
+The inferior colliculus occupies a central position in 
+the auditory pathway of all vertebrate animals because 
+all auditory pathways ascending through the brain 
+stem converge there (Figure 28–7). The most important 
+sources of excitation are stellate cells from the contralat-
+eral ventral cochlear nucleus, fusiform cells from the 
+contralateral dorsal cochlear nucleus, principal cells of 
+the ipsilateral medial superior olive and of the contralat-
+eral lateral superior olive, principal cells of ipsilateral 
+and contralateral dorsal nuclei of the lateral lemniscus, 
+commissural connections from the contralateral inferior 
+colliculus, and pyramidal cells in layer V of the audi-
+tory cortex. Important sources of inhibition include the 
+nuclei of the lateral lemniscus, the ipsilateral lateral 
+superior olive, the superior paraolivary nucleus, and 
+the contralateral inferior colliculus.
+The inferior colliculus of mammals is subdivided 
+into the central nucleus, dorsal cortex, and external 
+cortex. The central nucleus is tonotopically organized. 
+Low frequencies are represented dorsolaterally and 
+high frequencies ventromedially in laminae that have 
+similar best frequencies. Fine mapping has shown 
+that the tonotopic organization is discontinuous; the 
+separation between best frequencies corresponds to 
+psychophysically measured critical bands of approxi-
+mately one-third octave. Although the central nucleus 
+is organized tonotopically, the spectral range of inputs 
+to these neurons is broader than at earlier stages in 
+the auditory pathway. Inhibition can be broad and 
+narrows the responses of excitatory neurons. Further-
+more, tuning can be modulated by descending inputs 
+from the cortex.
+Many neurons in the central nucleus carry infor-
+mation about the location of sound sources. The 
+majority of these cells are sensitive to interaural time 
+and intensity differences, essential cues for localizing 
+sounds in the horizontal plane. Neurons are also sensi-
+tive to spectral cues that localize sounds in the vertical 
+plane. Physiological correlates of the precedence effect 
+have been measured in the inferior colliculus, where 
+inhibition suppresses simulated reflections of sounds.
+
+
+===== Page 6 =====
+Chapter 28 / Auditory Processing by the Central Nervous System    665
+The inferior colliculus is not only a convergence 
+point but also a branch point for ascending or outflow 
+pathways. Neurons of the central nucleus project to the 
+external cortex of the inferior colliculus and also to the 
+thalamus and the nucleus of the brachium of the infe-
+rior colliculus, both of which then project to the supe-
+rior colliculus (or the optic tectum in birds).
+Sound Location Information From the Inferior 
+Colliculus Creates a Spatial Map of Sound in the 
+Superior Colliculus
+The inferior colliculus is not only a convergence point 
+but also a branch point for ascending or outflow path-
+ways. Central nucleus neurons project to the thalamus 
+and also to the external cortex of the inferior colliculus 
+and the nucleus of the brachium of the inferior collicu-
+lus, both of which then project to the superior collicu-
+lus (or the optic tectum in birds).
+The superior colliculus is critical for reflexive 
+orienting movements of the head and eyes to acous-
+tic and visual cues in space. By the time the binaural 
+sound cues and the monaural spectral cues that under-
+lie mammalian sound localization reach the superior 
+colliculus, they have been merged to create a spatial 
+map of sound in which neurons are unambiguously 
+tuned to specific sound directions. This convergence 
+is critical since binaural differences in level and timing 
+alone cannot unambiguously code for a single position 
+in space. The spectral cues that provide information 
+about vertical location must be taken into account, as 
+different locations in the vertical plane can give rise 
+to identical interaural differences in time or intensity. 
+Such unambiguous spatial mapping occurs both in 
+birds and in some mammals (Figure 28–8). In ferrets 
+and guinea pigs, it occurs in the external cortex and 
+the nucleus of the brachium of the inferior colliculus.
+Within the superior colliculus, the auditory map 
+is aligned with maps of visual space and the body 
+surface. Unlike the visual and somatosensory spatial 
+maps, the auditory spatial map does not reflect the 
+peripheral receptor surface; instead, it is computed 
+from a combination of cues that identify the specific 
+position of a sound source in space.
+Auditory, visual, and somatosensory neurons in 
+the superior colliculus all converge on output pathways 
+in the same structure that controls orienting move-
+ments of the eyes, head, and external ears. The motor 
+circuits of the superior colliculus are mapped with 
+respect to motor targets in space and are aligned with 
+the sensory maps. Such sensory-motor correspond-
+ence facilitates the sensory guiding of movements.
+The Inferior Colliculus Transmits Auditory 
+Information to the Cerebral Cortex
+Auditory information ascends from the inferior collic-
+ulus to the medial geniculate body of the thalamus and 
+from there to the auditory cortex. The pathways from 
+the inferior colliculus include a lemniscal or core path-
+way and extralemniscal or belt pathways. Descend-
+ing projections from the auditory cortex to the medial 
+geniculate body are prominent both anatomically and 
+functionally.
+Stimulus Selectivity Progressively Increases Along 
+the Ascending Pathway
+A marked feature of auditory neurons at structures 
+along the ascending pathway is their progressively 
+increased stimulus selectivity. An auditory nerve fiber 
+is primarily selective to one stimulus dimension, the 
+frequency of a pure tone. The stimulus selectivity of 
+neurons in the central auditory system may be mul-
+tidimensional, such as frequency, spectral bandwidth, 
+sound intensity, modulation frequency, and spatial 
+location. In this multidimensional acoustic space, neu-
+rons become more selective at successive auditory 
+areas along the ascending pathway.
+Many neurons in the auditory cortex (especially 
+those in upper cortical layers) are highly selective to 
+acoustic stimuli, such that the preferred (nearly opti-
+mal) stimulus of a neuron occupies only a small region 
+of its receptive field in the multidimensional acoustic 
+space. The region of the preferred stimulus becomes 
+increasingly smaller at structures along the path to the 
+auditory cortex (Figure 28–9A). Pure tones and broad-
+band noises are two extreme cases of a wide range of 
+acoustic stimuli that could preferentially drive audi-
+tory cortex neurons. The majority of neurons in the 
+auditory cortex are preferentially driven by stimuli 
+with greater spectral and temporal complexity than 
+pure tones and broadband noises.
+The increased stimulus selectivity is also accom-
+panied by changes in a neuron’s firing pattern. When 
+neurons are driven by their preferred stimuli, they 
+respond not only with higher firing rates but also with 
+sustained firing throughout the stimulus duration 
+(Figure 28–9B). The receptive field of a cortical neuron 
+contains a “sustained firing region” (corresponding to 
+preferred stimuli) within a larger “onset firing region” 
+(corresponding to nonpreferred stimuli). This explains 
+why it is common for experimenters to observe onset 
+(phasic) responses in auditory cortex when a continu-
+ous sound is played.
+
+
+===== Page 7 =====
+666    Part IV / Perception
+Neurons in 
+the superior 
+colliculus
+–90
+0
+1
+2
+3
+4
+5
+A  Directional tuning of neurons in the ferret
+–20
+0
++20
+R20
+0
+L20
+Speaker elevation (deg)
+Response (% of max)
+–80
+–60
+–40
++20
+–20
++40
+50
+100
+0
+0
+Speaker azimuth (deg)
+Response (% of max)
+0
+20
+40
+0
+20
+40
+100
+50
+Left
+Right
+B   Directional tuning of a neuron in the barn owl
+Superior 
+colliculus
+neuron
+V
+Figure 28–8  A spatial map of sound is formed in the supe-
+rior colliculus.
+A. Neurons in the ferret’s superior colliculus are directionally 
+tuned to sound in the horizontal plane. The illustration shows the 
+firing rate profiles of collicular neurons 1 through 5 as a function 
+of where the sounds are located, plotted in polar coordinates 
+centered on the head. The drawing on the right shows the loca-
+tion of the recorded neurons in the colliculus. Note that neuron 1 
+responds best to sounds in front of the animal, whereas neurons 
+that are located progressively more caudally in the colliculus 
+gradually shift their responses to sounds that originate farther 
+contralaterally. (Adapted, with permission, from King 1999.)
+B. The normalized responses of a neuron in the superior col-
+liculus of a barn owl to noise bursts presented at various 
+locations along the horizon are plotted below (bottom right). The 
+yellow areas in these tuning curves indicate where responses 
+exceed 50% of the maximum. The sensitivity of the neuron to 
+a particular location along the horizon or a particular elevation 
+(top right) creates a discrete best auditory area in space for this 
+neuron (top middle), shown as the colored ellipse on a plot of 
+spatial locations with respect to a point straight in front of the 
+owl. The neuron also responds to visual cues from the same 
+area (the box labeled V). The photo illustrates the neuron’s best 
+area in space with respect to the position of the head (the 
+intersection of the vertical and horizontal dotted lines indicates 
+where the owl’s head is pointing). The recording site for this 
+neuron is also shown. (Adapted, with permission, from Cohen 
+and Knudsen 1999. Copyright © 1999 Elsevier Science.)
+
+
+===== Page 8 =====
+Chapter 28 / Auditory Processing by the Central Nervous System    667
+Figure 28–9  Stimulus selectivity increases along the 
+ascending auditory pathway.
+A. Stimulus selectivity and the relationship between sustained 
+and onset firings along the ascending auditory pathway. Each 
+open ellipse represents the multidimensional receptive field 
+(RF) of a neuron illustrated on a two-dimensional plane. The 
+filled ellipse represents the “sustained firing region” (corre-
+sponding to preferred stimuli) of a neuron’s RF. The rest of the 
+area within the RF is the “onset firing region” (corresponding 
+to nonpreferred stimuli). A neuron exhibits sustained or onset 
+firing depending on which region of the RF is stimulated. The 
+neuron does not fire if stimuli fall outside the RF. (Adapted, with 
+permission, from Wang 2018.)
+B. Population-averaged firing rate in response to each neuron’s 
+preferred and nonpreferred stimuli from primary auditory cortex 
+(A1). Extracellular recordings were made in awake marmoset 
+monkeys. Thick bar = stimulus duration. (Adapted, with  
+permission, from Wang et al. 2005. Copyright © 2005 Springer 
+Nature.)
+C. Distribution of activity among A1 neurons in response 
+to a sound burst. On the y-axis, all A1 neurons are ranked 
+according to their preference for a particular stimulus. The 
+blue-to-red color gradient represents increasing firing rate. 
+The neuron with the highest firing rate is located at the top 
+end of the y-axis. Black bar = stimulus duration. Most neu-
+rons show a brief phasic response to the onset of the sound, 
+but only those particularly tuned to the sound maintain their 
+response until the end of the sound. (Adapted, with permis-
+sion, from Middlebrooks 2005. Copyright © 2005 Springer 
+Nature.)
+Auditory
+cortex
+Medial
+geniculate
+body
+Inferior
+colliculus
+Cochlear
+nucleus
+Auditory
+nerve
+Multidimensional
+receptive ﬁeld
+Nonpreferred 
+stimuli
+(onset ﬁring)
+Preferred 
+stimuli
+(sustained ﬁring)
+Ascending
+auditory
+pathway
+B
+A
+0
+500
+1,000
+1,500
+0
+20
+40
+60
+80
+Time (ms)
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+Time (ms)
+Firing rate (spikes s–1)
+Preferred
+Nonpreferred
+Neuron rank by sound preference
+C
+The discovery of how sustained firing is evoked 
+in the auditory cortex is important because it provides 
+a direct link between neural firing and the perception 
+of a continuous acoustic event. Such sustained firing 
+by auditory cortex neurons has been observed only 
+in awake animals. In contrast, an auditory nerve fiber 
+typically shows sustains firing in response to a wide 
+range of acoustic signals as long as the spectral energy 
+of the stimulus falls within the neuron’s receptive 
+field, under either anesthetized or awake conditions. 
+When David Hubel and his colleagues ventured into 
+the auditory cortex more than half a century ago, they 
+
+
+===== Page 9 =====
+668    Part IV / Perception
+were puzzled by how difficult it was to drive neurons 
+in the auditory cortex of awake cats. Now we know it 
+was because they were probably recording from highly 
+selective neurons and using nonpreferred stimuli. The 
+availability of digital technology since then has made 
+it possible to create and test a large battery of acoustic 
+stimuli in search of the preferred stimulus of a highly 
+selective neuron in auditory cortex. The overall picture 
+elucidated by experimenters is that when a sound is 
+heard, the auditory cortex first responds with tran-
+sient discharges (encoding the onset of a sound) across 
+a relatively large population of neurons. As the time 
+passes, the activation becomes restricted to a smaller 
+population of neurons that are preferentially driven by 
+the sound (Figure 28–9C), which results in a selective 
+representation of the sound within the neuronal popu-
+lation and over time. Because each neuron has its own 
+preferred stimulus that differs from preferred stimuli 
+of other neurons, neurons in the auditory cortex col-
+lectively cover the entire acoustic space with their sus-
+tained firing regions. Therefore, any particular sound 
+can evoke sustained firing throughout its duration in a 
+particular population of neurons in the auditory cortex. 
+In other words, the region of auditory cortex activated 
+by acoustic stimulation in whole-brain imaging (eg, 
+functional magnetic resonance imaging [fMRI], posi-
+tron emission tomography [PET]) comprises neurons 
+that are preferentially driven by the acoustic stimulus.
+The Auditory Cortex Maps Numerous  
+Aspects of Sound
+The auditory cortex includes multiple distinct func-
+tional areas on the dorsal surface of the temporal lobe. 
+The most prominent projection is from the ventral divi-
+sion of the medial geniculate nucleus to the primary 
+auditory cortex (A1, or Brodmann’s area 41). As in the 
+subcortical structures, the neurons in this cytoarchitec-
+tonically distinct region are arranged tonotopically. In 
+monkeys, neurons tuned to low frequencies are found 
+at the rostral end of A1, while those responsive to high 
+frequencies are in the caudal region (Figure 28–10). 
+Thus, like the visual and somatosensory cortices, A1 
+contains a map reflecting the sensory periphery.
+Because the cochlea encodes discrete frequen-
+cies at different points along the basilar membrane, 
+however, a one-dimensional frequency map from the 
+periphery is spread across the two-dimensional sur-
+face of the cortex, with a smooth frequency gradient 
+in one direction and isofrequency contours along the 
+other direction. In many species, subregions of the 
+auditory cortex that represent biologically significant 
+frequencies are larger than others because of extensive 
+1
+5
+15
+20
+Higher-order 
+auditory 
+cortex 
+Primary
+auditory 
+cortex 
+Characteristic
+frequency 
+(kHz) 
+Figure 28–10  The auditory cortex of primates has multiple 
+primary and secondary areas.  The expanded figure of the 
+primary auditory cortex shows its tonotopic organization.  
+The primary areas are surrounded by higher-order areas (see 
+Figure 28–11).
+inputs, similar to the large area in the primary visual 
+cortex devoted to inputs from the fovea.
+In addition to frequency, other features of auditory 
+stimuli are mapped in the primary auditory cortex, 
+although the overall organization is less clear and pre-
+cise than for vision. Auditory neurons in A1 are excited 
+either by input from both ears (EE neurons), with the 
+contralateral input usually stronger than the ipsilateral 
+contribution, or by a unilateral input (EI). The EI neu-
+rons are inhibited by stimulation of the opposite ear.
+Certain neurons in A1 also seem to be organ-
+ized according to bandwidth, that is, according to 
+their responsiveness to a narrow or broad range of 
+frequencies. Neurons near the center of the isofre-
+quency contours are tuned more narrowly to band-
+width or frequency than those located away from the 
+center. Distinct subregions of A1 form clusters of cells 
+with narrow or broadband tuning within individual 
+isofrequency contours. Within intracortical circuits, 
+neurons receive input primarily from neurons with 
+similar bandwidths and characteristic frequencies. 
+
+

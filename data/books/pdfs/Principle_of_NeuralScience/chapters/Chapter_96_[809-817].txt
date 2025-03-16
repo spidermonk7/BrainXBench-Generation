@@ -1,0 +1,815 @@
+===== Page 1 =====
+764    Part V / Movement
+Muscle spindles are small encapsulated sensory recep-
+tors that have a spindle-like or fusiform shape and are 
+located within the fleshy part of a muscle. Their main 
+function is to signal changes in the length of the muscle 
+within which they reside. Changes in length of muscles 
+are closely associated with changes in the angles of the 
+joints that the muscles cross. Thus, muscle spindles are 
+used by the central nervous system to sense relative 
+positions of the body segments.
+Each spindle has three main components: (1) a 
+group of specialized intrafusal muscle fibers with non-
+contractile central regions; (2) sensory fibers that termi-
+nate on the central regions of the intrafusal fibers; and 
+(3) motor axons that terminate on the contractile polar 
+regions of the intrafusal fibers (Figure 32–2A,B).
+When the intrafusal fibers are stretched, often 
+referred to as “loading the spindle,” the sensory axon 
+endings are also stretched and increase their firing rate. 
+Because muscle spindles are arranged in parallel with 
+the extrafusal muscle fibers that make up the main body 
+of the muscle, the intrafusal fibers change in length 
+as the whole muscle changes. Thus, when a muscle is 
+stretched, activity in the sensory axons of muscle spin-
+dles increases. When a muscle shortens, the spindle is 
+unloaded and the activity decreases.
+The intrafusal muscle fibers are innervated by 
+gamma motor neurons, which have small-diameter mye-
+linated axons, whereas the extrafusal muscle fibers are 
+innervated by alpha motor neurons, with large-diameter 
+myelinated axons. Activation of gamma motor neurons 
+causes shortening of the polar regions of the intrafusal 
+fibers. This in turn stretches the central region from 
+both ends, leading to an increase in firing rate of the 
+sensory axons or to a greater likelihood that the axons 
+will fire in response to stretch of the muscle. Thus, the 
+gamma motor neurons adjust the sensitivity of the mus-
+cle spindles. Contraction of the intrafusal muscle fibers 
+does not contribute significantly to the force of muscle 
+contraction.
+The structure and functional behavior of muscle 
+spindles is considerably more complex than this simple 
+description depicts. As a muscle is stretched, the change 
+in length has two phases: a dynamic phase, the period 
+during which length is changing, and a static or steady-
+state phase, when the muscle has stabilized at a new 
+length. Structural specializations within each compo-
+nent of the muscle spindle enable the sensory axons to 
+signal aspects of each phase separately.
+The intrafusal muscle fibers include nuclear bag fib-
+ers and nuclear chain fibers. The bag fibers can be clas-
+sified as dynamic or static. A typical spindle has two or 
+three bag fibers and a variable number of chain fibers, 
+usually about five. Furthermore, the intrafusal fibers 
+receive two types of sensory endings. A single Ia (large 
+diameter) axon spirals around the central region of all 
+intrafusal muscle fibers and serves as the primary sensory 
+ending (Figure 32–2B). A variable number of type II 
+(medium diameter) axons spiral around the static bag 
+and chain fibers near their central regions and serve as 
+secondary sensory endings.
+The gamma motor neurons can also be divided into 
+two classes: Dynamic gamma motor neurons innervate 
+the dynamic bag fibers, whereas the static gamma motor 
+neurons innervate the static bag fibers and the chain fibers.
+This duality of structure is reflected in a duality of 
+function. The tonic discharge of both primary and sec-
+ondary sensory endings signals the steady-state length 
+of the muscle. The primary sensory endings are, in addi-
+tion, highly sensitive to the velocity of stretch, allow-
+ing them to provide information about the speed of 
+movements. Because they are highly sensitive to small 
+changes, the primary endings rapidly provide informa-
+tion about sudden unexpected changes in length, which 
+can be used to generate quick corrective reactions.
+Increases in the firing rate of dynamic gamma 
+motor neurons increase the dynamic sensitivity of pri-
+mary sensory endings but have no influence on sec-
+ondary sensory endings. Increases in the firing rate of 
+static gamma motor neurons increase the tonic level of 
+activity in both primary and secondary sensory endings, 
+decrease the dynamic sensitivity of primary endings 
+(Figure 32–2C), and can prevent the silencing of primary 
+endings when a muscle is released from stretch. Thus, 
+the central nervous system can independently adjust the 
+dynamic and static sensitivity of the different sensory 
+endings in muscle spindles.
+Box 32–1  Muscle Spindles
+ventral roots to electrical stimulation of dorsal roots. 
+When the Ia sensory axons innervating the muscle 
+spindles were selectively activated, the reflex latency 
+through the spinal cord was less than 1 ms. This dem-
+onstrated that the Ia fibers make direct connections on 
+the alpha motor neurons because the delay at a single 
+synapse is typically 0.5 ms to 0.9 ms (Figure 32–3B). In 
+humans, an analog of the monosynaptic stretch reflex, 
+the Hoffmann reflex, may be elicited by electrical stim-
+ulation of peripheral nerves (Box 32–3).
+
+
+===== Page 2 =====
+Chapter 32 / Sensory-Motor Integration in the Spinal Cord    765
+Figure 32–2  The muscle spindle detects changes in 
+muscle length.
+A. The main components of the muscle spindle are 
+intrafusal muscle fibers, sensory axon endings, and motor 
+axon endings. The intrafusal fibers are specialized mus-
+cle fibers with central regions that are not contractile. 
+Gamma motor neurons innervate the contractile polar 
+regions of the intrafusal fibers. Contraction of the polar 
+regions pulls on the central regions of the intrafusal fiber 
+from both ends. The sensory endings spiral around the 
+central regions of the intrafusal fibers and are responsive 
+to stretch of these fibers. (Adapted, with permission, from 
+Hulliger 1984. Copyright © Springer-Verlag 1984.)
+B. The muscle spindle contains three types of intrafusal 
+fibers: dynamic nuclear bag, static nuclear bag, and 
+nuclear chain fibers. A single Ia sensory axon innervates all 
+three types of fibers, forming a primary sensory ending. 
+Type II sensory axons innervate the nuclear chain fibers 
+and static bag fibers, forming a secondary sensory ending. 
+Two types of motor neurons innervate different intrafusal 
+fibers. Dynamic gamma motor neurons innervate only 
+dynamic bag fibers; static gamma motor neurons inner-
+vate various combinations of chain and static bag fibers. 
+(Adapted, with permission, from Boyd 1980. Copyright © 
+1980. Published by Elsevier Ltd.)
+C. Selective stimulation of the two types of gamma motor 
+neurons has different effects on the firing of the Ia sen-
+sory fibers from the spindle. Without gamma stimulation, 
+the Ia fiber shows a small dynamic response to muscle 
+stretch and a modest increase in steady-state firing. When 
+a static gamma motor neuron is stimulated, the steady-
+state response of the Ia fiber increases but the dynamic 
+response decreases. When a dynamic gamma motor neu-
+ron is stimulated, the dynamic response of the Ia fiber is 
+markedly enhanced, but the steady-state response gradu-
+ally returns to its original level. (Adapted, with permission, 
+from Brown and Matthews 1966.)
+Afferent
+axons
+Efferent
+axons
+Gamma motor
+neuron endings
+Sensory
+endings
+Capsule
+Intrafusal
+muscle
+ﬁbers
+II sensory
+ﬁber
+Ia sensory
+ﬁber
+Static gamma
+motor neuron
+Dynamic gamma
+motor neuron
+A  Muscle spindle
+Dynamic nuclear
+bag ﬁber
+Static nuclear
+bag ﬁber
+Nuclear
+chain ﬁbers
+B  Intrafusal ﬁbers of the muscle spindle
+C  Response of Ia sensory ﬁber to selective
+ 
+activation of gamma motor neurons
+Stretch alone
+Dynamic response
+Steady-state response
+0
+Stimulate static gamma motor neurons
+200
+0
+Stimulate dynamic gamma motor neurons
+Stretch
+pps
+200
+0
+6
+0.2 s
+pps
+0
+200
+pps
+The pattern of connections of Ia fibers to motor 
+neurons can be shown directly by intracellular record-
+ing. Ia fibers from a given muscle excite not only the 
+motor neurons innervating that same (homonymous) 
+muscle but also the motor neurons innervating other 
+(heteronymous) muscles with a similar mechanical 
+action.
+Lorne Mendell and Elwood Henneman used a 
+computer enhancement technique called spike-triggered 
+averaging to determine the extent to which the action 
+
+
+===== Page 3 =====
+766    Part V / Movement
+Table 32–1  Classification of Sensory Fibers From Muscle
+Type
+Axon
+Receptor
+Sensitivity to
+Ia
+12–20 μm myelinated
+Primary spindle ending
+Muscle length and rate of change of length
+Ib
+12–20 μm myelinated
+Golgi tendon organ
+Muscle tension
+II
+6–12 μm myelinated
+Secondary spindle ending
+Muscle length (little rate sensitivity)
+II
+6–12 μm myelinated
+Nonspindle endings
+Deep pressure
+III
+2–6 μm myelinated
+Free nerve endings
+Pain, chemical stimuli, and temperature (impor-
+tant for physiological responses to exercise)
+IV
+0.5–2 μm nonmyelinated
+Free nerve endings
+Pain, chemical stimuli, and temperature
+Sensory fibers are classified according to their diam-
+eter. Axons with larger diameters conduct action poten-
+tials more rapidly than those with smaller diameters 
+(Chapters 9 and 18). Because each class of sensory 
+receptors is innervated by fibers with diameters within 
+a restricted range, this method of classification distin-
+guishes to some extent the fibers that arise from differ-
+ent types of receptor organs. The main groups of sensory 
+fibers from muscle are listed in Table 32–1.
+The organization of reflex pathways in the spi-
+nal cord has been established primarily by electrically 
+stimulating the sensory fibers and recording evoked 
+responses in different classes of neurons in the spinal 
+cord. This method of activation has three advantages 
+over natural stimulation. The timing of afferent input 
+can be precisely established; the responses evoked in 
+motor neurons and other neurons by different classes of 
+sensory fibers can be assessed by grading the strength of 
+the electrical stimulus; and certain classes of receptors 
+can be selectively activated.
+The strength of the electrical stimulus required to acti-
+vate a sensory fiber is measured relative to the strength 
+required to activate the fibers with the largest diameter 
+because these fibers have the lowest threshold for electri-
+cal activation. The thresholds of most type I fibers usually 
+range from one to two times that of the largest fibers (with 
+Ia fibers having, on average, a slightly lower threshold 
+than Ib fibers). For most type II fibers, the threshold is 2 to 
+5 times higher, whereas types III and IV have thresholds in 
+the range of 10 to 50 times that of the largest sensory fibers.
+Box 32–2  Classification of Sensory Fibers From Muscle
+potentials in single Ia fibers are transmitted to a popu-
+lation of spinal motor neurons. They found that indi-
+vidual Ia axons make excitatory synapses with all 
+homonymous motor neurons innervating the medial 
+gastrocnemius of the cat. This widespread divergence 
+effectively amplifies the signals of individual Ia fibers, 
+leading to a strong excitatory drive to the muscle from 
+which they originate (autogenic excitation).
+The Ia axons in reflex pathways also provide excit-
+atory inputs to many of the motor neurons innervating 
+synergist muscles (up to 60% of the motor neurons 
+of some synergists) (Figure 32–1A). Although wide-
+spread, these connections are not as strong as the con-
+nections to homonymous motor neurons.
+The Ia fibers also send inhibitory signals via the 
+Ia inhibitory interneurons to the alpha motor neurons 
+innervating antagonistic muscles. This disynaptic 
+inhibitory pathway is the basis for reciprocal innerva-
+tion: When a muscle is stretched, its antagonists relax.
+Gamma Motor Neurons Adjust the Sensitivity of 
+Muscle Spindles
+Activity of muscle spindles may be modulated by 
+changing the level of activity in the gamma motor neu-
+rons, which innervate the intrafusal muscle fibers of 
+muscle spindles (Box 32–1). This function of gamma 
+motor neurons, often referred to as the fusimotor 
+
+
+===== Page 4 =====
+Chapter 32 / Sensory-Motor Integration in the Spinal Cord    767
+Figure 32–3  The number of synapses in a reflex pathway 
+can be inferred from intracellular recordings.
+A. An intracellular recording electrode is inserted into the cell 
+body of a spinal motor neuron that innervates an extensor mus-
+cle. Stimulation of Ia sensory fibers from flexor or extensor mus-
+cles produces a volley of action potentials at the dorsal root.
+B. Left: When Ia fibers from an extensor muscle are stimulated, 
+the latency between the recording of the afferent volley and the 
+excitatory postsynaptic potential (EPSP) in the motor neuron is 
+only 0.7 ms, approximately equal to the duration of signal trans-
+mission across a single synapse. Thus, it can be inferred that the 
+excitatory action of the stretch reflex pathway is monosynaptic. 
+Right: When Ia fibers from an antagonist flexor muscle are stim-
+ulated, the latency between the recording of the afferent volley 
+and the inhibitory postsynaptic potential in the motor neuron is 
+1.6 ms, approximately twice the duration of signal transmission 
+across a single synapse. Thus, it can be inferred that the inhibi-
+tory action of the stretch reflex pathway is disynaptic.
+Stimulate Ia
+afferents in
+ﬂexor nerve
+Record afferent volley
+A  Experimental setup
+B  Inferring the number of synapses in a pathway
+Monosynaptic
+To extensor
+muscle
+0.7 ms
+Stimulate Ia
+afferents in
+extensor
+nerve
+Intracellular
+recording in 
+motor neuron
+Disynaptic
+1.6 ms
+EPSP in 
+motor neuron
+Afferent volley
+5 ms
+1 mV
+system, can be demonstrated by selectively stimulat-
+ing the alpha and gamma motor neurons under experi-
+mental conditions.
+When only alpha motor neurons are stimulated, 
+the firing of the Ia fiber from the muscle spindle pauses 
+during contraction of the muscle because the muscle 
+is shortening and therefore unloading (slackening) the 
+spindle. However, if gamma motor neurons are acti-
+vated at the same time as alpha motor neurons, the 
+pause is eliminated. The contraction of the intrafusal 
+fibers by the gamma motor neurons keeps the spindle 
+under tension, thus maintaining the firing rate of 
+the Ia fibers within an optimal range for signaling 
+changes in length, whatever the actual length of the 
+muscle (Figure 32–5). This alpha-gamma co-activation is 
+recruited for many voluntary movements because it 
+stabilizes the sensitivity of the muscle spindles.
+In addition to the axons of gamma motor neurons, 
+collaterals of alpha motor neuron axons sometimes 
+innervate the intrafusal fibers. Axons that inner-
+vate both intrafusal and extrafusal muscle fibers are 
+referred to as beta axons. Beta axon collaterals provide 
+the equivalent of alpha-gamma coactivation. Beta 
+innervation in spindles exists in both cats and humans, 
+although it is unquantified for most muscles.
+The forced linkage of extrafusal and intrafusal con-
+traction by the beta fusimotor system highlights the 
+importance of the independent fusimotor system (the 
+gamma motor neurons). Indeed, in lower vertebrates, 
+such as amphibians, beta efferents are the only source of 
+intrafusal innervation. Mammals have evolved a mecha-
+nism that frees muscle spindles from complete depend-
+ence on the behavior of their parent muscles. In principle, 
+this uncoupling allows greater flexibility in controlling 
+spindle sensitivity for different types of motor tasks.
+This conclusion is supported by recordings in spin-
+dle sensory axons during a variety of natural movements 
+in cats. The amount and type of activity in gamma motor 
+neurons are set at steady levels, which vary according to 
+the specific task or context. In general, activity levels in 
+both static and dynamic gamma motor neurons (Figure 
+32–2B) are set at progressively higher levels as the speed 
+and difficulty of the movement increase. Unpredictable 
+conditions, such as when the cat is picked up or han-
+dled, lead to marked increases in activity in dynamic 
+gamma motor neurons and thus increased spindle 
+responsiveness when muscles are stretched. When an 
+animal is performing a difficult task, such as walking 
+across a narrow beam, both static and dynamic gamma 
+activation are at high levels (Figure 32–6).
+Thus, the nervous system uses the fusimotor system 
+to fine-tune muscle spindles so that the ensemble output 
+of the spindles provides information most appropriate 
+for a task. The task conditions under which independ-
+ent control of alpha and gamma motor neurons occurs 
+in humans have not yet been clearly established.
+The Stretch Reflex Also Involves  
+Polysynaptic Pathways
+The monosynaptic Ia pathway is not the only spinal 
+reflex pathway activated when a muscle is stretched. 
+Type II sensory fibers from muscle spindles are also 
+activated. These discharge tonically depending on 
+
+
+===== Page 5 =====
+768    Part V / Movement
+Figure 32–4  The Hoffmann reflex.
+A. The Hoffmann reflex (H-reflex) is evoked by electrically 
+stimulating Ia sensory fibers from muscle spindles. The 
+sensory fibers excite alpha motor neurons, which in turn 
+activate the muscle. When a mixed nerve is used, the 
+motor neurons axons may also be activated directly.
+B. At intermediate stimulus strengths, an M-wave pre-
+cedes the H-wave (H-reflex) in the electromyogram (EMG).
+C. As the stimulus strength increases, the orthodromic 
+motor neuron spikes generated reflexively by the spindle 
+sensory fibers are obliterated by antidromic spikes initi-
+ated by the electrical stimulus in the same motor axons. 
+(Adapted, with permission, from Schieppati 1987.  
+Copyright © 1987. Published by Elsevier Ltd.)
+The characteristics of the monosynaptic connections from 
+Ia sensory fibers to spinal motor neurons in humans can 
+be studied using an important technique introduced in the 
+1950s and based on early work by Paul Hoffmann. This 
+technique involves electrically stimulating the Ia sensory 
+fibers in a peripheral nerve and recording the reflex elec-
+tromyogram (EMG) response in the homonymous muscle. 
+The response is known as the Hoffmann reflex, or H-reflex.
+The H-reflex is readily measured in the soleus mus-
+cle, an ankle extensor. The Ia fibers from the soleus and 
+its synergists are excited by an electrode placed above the 
+tibial nerve behind the knee (Figure 32–4A). The response 
+recorded from the soleus muscle depends on stimulus 
+strength. At low stimulus strengths, a pure H-reflex is 
+evoked, for the threshold for activation of the Ia fibers is 
+lower than the threshold for motor axons. Increasing the 
+stimulus strength excites the motor axons innervating the 
+soleus, producing two successive responses.
+The first results from direct activation of the motor 
+axons, and the second is the H-reflex evoked by stimula-
+tion of the Ia fibers (Figure 32–4B). These two compo-
+nents of the evoked EMG are called the M-wave and 
+H-wave. The H-wave occurs later because it results from 
+signals that travel to the spinal cord, across a synapse, 
+and back again to the muscle. The M-wave, in contrast, 
+results from direct stimulation of the motor axon inner-
+vating the muscle.
+As the stimulus strength is increased still fur-
+ther, the M-wave continues to become larger and the 
+H-wave progressively declines (Figure 32–4C). The 
+decline in the H-wave amplitude occurs because 
+action potentials in the motor axons propagate toward 
+the cell body (antidromic conduction) and cancel 
+reflexively evoked action potentials in the same motor 
+axons. At very high stimulus strengths, only the 
+M-wave persists.
+Box 32–3  The Hoffmann Reflex
+Orthodromic
+motor signal (reﬂex)
+Antidromic
+motor signal
+Stimulus
+A
+B
+C
+Sensory
+Motor
+EMG
+10 ms
+Stimulus
+M-wave
+H-reﬂex
+Response amplitude (mV)
+040
+80
+Stimulus strength (V)
+120
+8
+H
+M
+6
+4
+2
+
+
+===== Page 6 =====
+Chapter 32 / Sensory-Motor Integration in the Spinal Cord    769
+Figure 32–5  Activation of gamma motor neurons during 
+active muscle contraction maintains muscle spindle sensi-
+tivity to muscle length. (Adapted, with permission, from Hunt 
+and Kuffler 1951.)
+A. Sustained tension elicits steady firing in the Ia sensory fiber 
+from the muscle spindle (the two muscle fibers are shown 
+separately for illustration only).
+B. A characteristic pause occurs in the discharge of the Ia fiber 
+when the alpha motor neuron is stimulated, causing a brief 
+contraction of the muscle. The Ia fiber stops firing because  
+the spindle is unloaded by the contraction.
+C. Gamma motor neurons innervate the contractile polar 
+regions of the intrafusal fibers of muscle spindles (see  
+Figure 32–2A). If a gamma motor neuron is stimulated at 
+the same time as the alpha motor neuron, the spindle is not 
+unloaded during the contraction. As a result, the pause in dis-
+charge of the Ia sensory fiber that occurs when only the alpha 
+motor neuron is stimulated is “filled in” by the response of the 
+fiber to stimulation of the gamma motor neuron.
+A  Sustained stretch of muscle
+Ia ﬁber 
+discharge
+Weight
+Tension
+Pull
+B  Stimulation of alpha motor neurons only
+Contraction
+Ia ﬁber response is “ﬁlled in”
+Muscle
+spindle
+C  Stimulation of alpha and gamma motor neurons
+Contraction
+muscle length and gamma motor neuron activity 
+(Box 32–1) and connect to different populations of excita-
+tory and inhibitory interneurons in the spinal cord.
+Some of the interneurons project directly to the spi-
+nal motor neurons, whereas others have more indirect 
+connections. Because of the slower conduction velocity 
+of type II sensory fibers and the signal relay through 
+interneurons, the muscular responses elicited by 
+group II fibers are smaller, more variable, and delayed 
+compared to the monosynaptic stretch reflex. Some 
+of the interneurons activated by group II fibers send 
+axons across the midline of the spinal cord and give 
+rise to crossed reflexes. Such connections that cross 
+the midline are important for coordination of bilateral 
+muscle activity in functional motor tasks.
+Golgi Tendon Organs Provide Force-Sensitive 
+Feedback to the Spinal Cord
+Stimulation of Golgi tendon organs or their Ib sen-
+sory fibers in passive animals produces disynaptic 
+inhibition of homonymous motor neurons (autogenic 
+
+
+===== Page 7 =====
+770    Part V / Movement
+Figure 32–6  The level of activity in the fusimotor system 
+varies with the type of behavior. Only static gamma motor 
+neurons are active during activities in which muscle length 
+changes slowly and predictably. Dynamic gamma motor 
+neurons are activated during behaviors in which muscle length 
+may change rapidly and unpredictably. (Adapted, with permis-
+sion, from Prochazka et al. 1988.)
+Rest
+0
+0
+0
+0
++
++ + +
++
++ + +
++ + +
+Dynamic
+0
++
++
++ +
++ + +
++
++
++ + +
+Static
+Level of fusimotor activity
+Sitting
+Standing
+Slow
+walk
+Fast
+walk
+Imposed
+movements
+Paw
+shakes
+Beam
+walking
+inhibition) and excitation of antagonist motor neurons 
+(reciprocal excitation). Thus, these effects are the exact 
+opposite of the responses evoked by muscle stretch or 
+stimulation of Ia sensory axons.
+This autogenic inhibition is mediated by Ib inhibi-
+tory interneurons. These inhibiting interneurons receive 
+their principal input from Golgi tendon organs, sen-
+sory receptors that signal the tension in a muscle (Box 
+32–4), and they make inhibitory connections with 
+homonymous motor neurons. However, stimulation 
+of the Ib sensory fibers from tendon organs in active 
+animals does not always inhibit homonymous motor 
+neurons. Indeed, as we shall see later, stimulation of 
+tendon organs may in certain conditions excite homon-
+ymous motor neurons.
+One reason that the reflex actions of the sensory 
+axons from tendon organs are complex in natural situ-
+ations is that the Ib inhibitory interneurons also receive 
+input from the muscle spindles, cutaneous receptors, 
+and joint receptors (Figure 32–8A). In addition, they 
+receive both excitatory and inhibitory input from vari-
+ous descending pathways.
+Golgi tendon organs were first thought to have a 
+protective function, preventing damage to muscle. It 
+was assumed that they always inhibited homonymous 
+motor neurons and that they fired only when tension 
+in the muscle was high. We now know that these recep-
+tors signal minute changes in muscle tension, thus pro-
+viding the nervous system with precise information 
+about the state of a muscle’s contraction.
+The convergent sensory input from tendon organs, 
+cutaneous receptors, and joint receptors to the Ib inhib-
+itory interneurons (Figure 32–8A) may allow for pre-
+cise spinal control of muscle force in activities such as 
+grasping a delicate object. Additional input from cuta-
+neous receptors may facilitate activity in the Ib inhibi-
+tory interneurons when the hand reaches an object, 
+thus reducing the level of muscle contraction and per-
+mitting a soft grasp.
+As is the case with the Ia fibers from muscle spin-
+dles, the Ib fibers from tendon organs form widespread 
+connections with motor neurons that innervate mus-
+cles acting at different joints. Therefore, the connec-
+tions of the sensory fibers from tendon organs with the 
+Ib inhibitory interneurons are part of spinal networks 
+that regulate movements of whole limbs.
+Cutaneous Reflexes Produce Complex Movements 
+That Serve Protective and Postural Functions
+Most reflex pathways involve interneurons. One such 
+reflex pathway is that of the flexion-withdrawal reflex, 
+in which a limb is quickly withdrawn from a painful 
+stimulus. Flexion-withdrawal is a protective reflex in 
+which a discrete stimulus causes all the flexor muscles 
+in that limb to contract coordinately. We know that this 
+is a spinal reflex because it persists after complete tran-
+section of the spinal cord.
+The sensory signal of the flexion-withdrawal reflex 
+activates divergent polysynaptic reflex pathways. One 
+
+
+===== Page 8 =====
+Chapter 32 / Sensory-Motor Integration in the Spinal Cord    771
+Golgi tendon organs are slender encapsulated struc-
+tures approximately 1 mm long and 0.1 mm in diameter 
+located at the junction between skeletal muscle fibers 
+and tendon. Each capsule encloses several braided col-
+lagen fibers connected in series to a group of muscle 
+fibers.
+Each tendon organ is innervated by a single Ib axon 
+that branches into many fine endings inside the capsule; 
+these endings become intertwined with the collagen fas-
+cicles (Figure 32–7A).
+Stretching of the tendon organ straightens the col-
+lagen fibers, thus compressing the Ib nerve endings and 
+causing them to fire. Because the nerve endings are so 
+closely associated with the collagen fibers, even very small 
+stretches of the tendons can compress the nerve endings.
+Whereas muscle spindles are most sensitive to 
+changes in length of a muscle, tendon organs are most 
+sensitive to changes in muscle tension. Contraction of 
+the muscle fibers connected to the collagen fiber bundle 
+containing the receptor is a particularly potent stimulus 
+to a tendon organ. The tendon organs are thus readily 
+activated during normal movements. This has been 
+demonstrated by recordings from single Ib axons in 
+humans making voluntary finger movements and in 
+cats walking normally.
+Studies in anesthetized animal preparations have 
+shown that the average level of activity in the popula-
+tion of tendon organs in a muscle is a good index of the 
+total force in a contracting muscle (Figure 32–7B). This 
+close agreement between firing frequency, and force is 
+consistent with the view that the tendon organs continu-
+ously measure the force in a contracting muscle.
+Box 32–4  Golgi Tendon Organs
+Figure 32–7A  When the Golgi tendon organ is stretched 
+(usually because of contraction of the muscle), the Ib 
+afferent axon is compressed by collagen fibers (see 
+enlargement) and its rate of firing increases.  (Adapted, 
+with permission, from Schmidt 1983; inset adapted, with per-
+mission, from Swett and Schoultz 1975.)
+Figure 32–7B  The discharge rate of a population of 
+Golgi tendon organs signals the force in a muscle.  
+Linear regression lines show the relationship between 
+discharge rate and force for Golgi tendon organs of the 
+soleus muscle of the cat. (Adapted, with permission, from 
+Crago, Houk, and Rymer 1982.)
+Muscle
+ﬁbers
+Ib afferent
+axon
+Ib axon
+Collagen ﬁber
+A
+Capsule
+Tendon
+250 µm
+0
+5
+10
+Force (N)
+15
+25
+Discharge rate (ips)
+150
+100
+50
+20
+B
+excites motor neurons that innervate flexor muscles of 
+the stimulated limb, whereas another inhibits motor 
+neurons that innervate the limb’s extensor muscles 
+(Figure 32–1B). This reflex can produce an opposite 
+effect in the contralateral limb, that is, excitation of 
+extensor motor neurons and inhibition of flexor motor 
+neurons. This crossed-extension reflex serves to enhance 
+postural support during withdrawal of a foot from a 
+painful stimulus. Activation of the extensor muscles in 
+the opposite leg counteracts the increased load caused 
+by lifting the stimulated limb. Thus, flexion-withdrawal 
+is a complete, albeit simple, motor act.
+Although flexion reflexes are relatively stereo-
+typed, both the spatial extent and the force of muscle 
+contraction depend on stimulus intensity. Touching 
+a stove that is slightly hot may produce moderately 
+
+
+===== Page 9 =====
+772    Part V / Movement
+Figure 32–8  The reflex actions of Ib sensory fibers from 
+Golgi tendon organs are modulated during locomotion.
+A. The Ib inhibitory interneuron receives input from tendon 
+organs, muscle spindles (not shown), joint and cutaneous 
+receptors, and descending pathways.
+B. The action of Ib sensory fibers on extensor motor neurons 
+is reversed from inhibition to excitation when walking is 
+initiated. When the animal is resting, stimulation of Ib fibers 
+from the ankle extensor muscle inhibits ankle extensor 
+motor neurons through Ib inhibitory interneurons, as shown 
+by the hyperpolarization in the record. During walking, the 
+Ib inhibitory interneurons are inhibited while excitatory 
+interneurons that receive input from Ib sensory fibers are 
+facilitated by the command system for walking, thus open-
+ing a Ib excitatory pathway from the Golgi tendon organs to 
+motor neurons.
+Extensor
+muscle
+Joint
+receptor
+Flexor
+muscle
+Golgi
+tendon
+organ
+Ib afferent
+Joint afferent
+Cutaneous
+afferent
+Motor
+neuron
+Descending
+pathways
+4 mV
+100 ms
+Stimulate Ib afferents
+at 200 Hz
+Intracellular recording from
+ankle extensor motor neuron
+A  Convergence onto Ib interneurons
+B  Reversal of action of Ib afferents
+Resting
+Locomotion
+Cutaneous
+receptor
+Ib afferent
+Ib afferent
+Excitatory
+interneuron
+To extensor
+muscle
+To extensor
+muscle
+Ib inhibitory
+interneuron
+Ib inhibitory
+interneuron
+fast withdrawal only at the wrist and elbow, whereas 
+touching a very hot stove invariably leads to a force-
+ful contraction at all joints, leading to rapid with-
+drawal of the entire limb. The duration of the reflex 
+usually increases with stimulus intensity, and the con-
+tractions produced in a flexion reflex always outlast  
+the stimulus.
+Because of the similarity of the flexion-withdrawal 
+reflex to stepping, it was once thought that the flexion 
+reflex is important in producing contractions of flexor 
+muscles during walking. We now know, however, 
+that a major component of the neural control system 
+for walking is a set of intrinsic spinal circuits that do 
+not require sensory stimuli (Chapter 33). Nevertheless, 
+in mammals, the intrinsic spinal circuits that control 
+walking share many of the interneurons involved in 
+flexion reflexes.
+Convergence of Sensory Inputs on Interneurons 
+Increases the Flexibility of Reflex Contributions  
+to Movement
+The Ib inhibitory interneuron is not the only interneu-
+ron that receives convergent input from many different 
+sensory modalities. An enormous diversity of sensory 
+information converges on interneurons in the spinal 
+cord, enabling them to integrate information from 
+muscle, joints, and skin.
+Interneurons activated by groups I and II sensory 
+fibers have received special attention. It was thought 
+
+

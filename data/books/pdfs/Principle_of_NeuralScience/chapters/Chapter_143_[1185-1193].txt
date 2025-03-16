@@ -1,0 +1,778 @@
+===== Page 1 =====
+1140    Part VII / Development and the Emergence of Behavior
+Medial ganglionic eminence
+Caudal ganglionic eminence
+Lateral ganglionic eminence
+Cortex
+Striatum
+Hippocampus
+Amygdala
+Cortex
+Striatum
+Hippocampus
+Amygdala
+Globus pallidus
+Striatum
+Olfactory bulb
+Cortex
+Globus
+pallidus
+Striatum
+Cortex
+Striatum
+Striatum
+Figure 46–8  Forebrain interneurons are generated in the 
+ventral telencephalon and migrate tangentially to the cer-
+ebral cortex. Neurons generated in the ganglionic eminences 
+migrate to and settle in many regions of the forebrain, where 
+they differentiate into interneurons. Cortical interneurons 
+arise from medial and caudal ganglionic eminences. Other 
+cells generated in these regions migrate in other directions, 
+populating the hippocampus, striatum, globus pallidus, and 
+amygdala with interneurons. The lateral ganglionic eminence 
+generates cells that migrate to the striatum and the olfactory 
+bulb. Cells migrating to the bulb use neighboring migrating 
+cells as substrates for migration, a process called chain  
+migration. (Adapted, with permission, from Bandler, Mayer, 
+and Fishell 2017. Copyright © 2017 Elsevier Ltd.)
+Nonetheless, it is now clear that cortical neurons orig-
+inate from two sources: excitatory neurons from the 
+cortical ventricular zone and interneurons from the 
+ganglionic eminences.
+Interneurons in other forebrain structures also 
+arise from the ganglionic eminences, as well as a few 
+other subcortical sites such as the preoptic area. Cells 
+migrating caudally from the medial and caudal emi-
+nences populate the hippocampus, while cells migrat-
+ing ventrolaterally from these regions populate the 
+basal ganglia. In contrast, neurons generated in the 
+lateral ganglionic eminence migrate rostrally and con-
+tribute the periglomerular and granule interneurons 
+of the olfactory bulb. In this rostral migratory stream, 
+neurons use neighboring neurons as substrates for 
+migration (chain migration). In the adult brain, neu-
+rons that follow the rostral migratory stream originate 
+instead in the subventricular zone of the striatum.
+Transcription factors control the character of gan-
+glionic eminence neurons. The homeodomain proteins 
+Dlx1 and Dlx2 are expressed by cells in the ganglionic 
+eminences. In mice lacking Dlx1 and Dlx2 activity, the 
+resultant perturbation of neuronal migration leads to 
+a profound reduction in the number of GABAergic 
+interneurons in the cortex. Other transcription factors 
+are responsible for differences among ganglionic emi-
+nences. For example, Nkx2.1 is selectively expressed by 
+cells in the medial ganglionic eminence. In its absence, 
+interneurons generated in this region take on charac-
+teristics of those normally generated in the lateral and 
+caudal ganglionic eminences. Yet other transcription 
+factors specify the distinct characteristics of subpopu-
+lations of neurons within each ganglionic eminence.
+One of the main features that these transcription 
+factors specify is the migratory path that the newborn 
+interneurons take. A host of soluble and cell surface 
+factors produced by cells in and near the ganglionic 
+eminences provide repulsive cues that lead to expul-
+sion of cells from the ventricular zone, so-called moto-
+genic (movement-promoting) cues that speed their 
+migration and attractive cues that direct them to their 
+targets. These factors include slits, semaphorins, and 
+ephrins, all of which we will encounter in Chapter 47 
+as molecules that guide axons to their targets.
+
+
+===== Page 2 =====
+Chapter 46 / Differentiation and Survival of Nerve Cells    1141
+Neural Crest Cell Migration in the Peripheral 
+Nervous System Does Not Rely on Scaffolding
+The peripheral nervous system derives from neural 
+crest stem cells, a small group of neuroepithelial cells 
+at the boundary of the neural tube and epidermal ecto-
+derm. Soon after their induction, neural crest cells are 
+transformed from epithelial to mesenchymal cells and 
+begin to detach from the neural tube. They then migrate 
+to many sites throughout the body (Figure 46–9). Neu-
+ral crest cell migration does not rely on scaffolding (ie, 
+radial glial cells or preexisting axon tracts) and thus is 
+called free migration. This form of neuronal migration 
+requires significant cytoarchitectural and cell adhesive 
+changes and differs from most of the migratory events 
+in the central nervous system.
+Neural crest migration is promoted and guided by 
+several families of secreted factors. For example, bone 
+morphogenetic proteins (BMPs), which are critical for 
+neural crest induction at an earlier stage (Chapter 45), 
+are required for neural crest migration at later stages. 
+Exposure of neural epithelial cells to BMPs triggers 
+molecular changes that convert epithelial cells to a 
+mesenchymal state, causing them to delaminate from 
+the neural tube and migrate into the periphery. BMPs 
+trigger changes in neural crest cells by inducing expres-
+sion of transcription factors, notably the zinc finger 
+proteins snail, slug, and twist, which have a conserved 
+role in promoting epithelial-to-mesenchymal transi-
+tions. These transcription factors direct expression of 
+proteins that regulate the properties of the cytoskel-
+eton as well as enzymes that degrade extracellular 
+matrix proteins. These enzymes give neural crest cells 
+the ability to break down the basement membrane sur-
+rounding the epithelium of the neural tube, permitting 
+them to embark on their migratory journey into the 
+periphery.
+As neural crest cells begin to delaminate, their 
+expression of cell adhesion molecules changes. Altera-
+tions in expression of adhesive proteins, notably cad-
+herins, permit neural crest cells to loosen their adhesive 
+contacts with neural tube cells and begin the delami-
+nation process. Neural crest cells also begin to express 
+integrins, receptors for extracellular matrix proteins 
+such as laminins and collagens that are found along 
+peripheral migratory paths.
+The first structures encountered by migrating neu-
+ral crest cells are somites, epithelial cells that later give 
+rise to muscle and cartilage. Neural crest cells pass 
+through the anterior half of each somite but avoid the 
+posterior half (Figure 46–9A). The rostral channeling 
+of migratory neural crest cells is imposed by ephrin B 
+proteins, which are concentrated in the posterior half 
+of each somite. Ephrins provide a repellant signal that 
+interacts with EphB class tyrosine kinase receptors on 
+neural crest cells to prevent their invasion. Neural crest 
+cells that remain within the anterior sclerotome of the 
+somite differentiate into sensory neurons of the dor-
+sal root ganglia; those that migrate around the dorsal 
+region of the somite approach the skin and give rise to 
+melanocytes.
+Differentiation of the neural crest into its various 
+derivatives depends on complex interactions between 
+the distinct cues that cells receive along their journey 
+and intrinsic predispositions that vary along the ros-
+trocaudal axis. Development of sensory neurons is 
+initiated at the time the cells emigrate from the neu-
+ral tube. The cells are exposed to signals from the dor-
+sal neural tube and somites that induce expression of 
+neurogenin, a transcription factor of the bHLH fam-
+ily, which in turn promotes a sensory fate. Subsequent 
+influences diversify the neurons into multiple sensory 
+types, such as nociceptive and proprioceptive neurons 
+(Figure 46–10). In contrast, those neural crest cells that 
+follow a more medial and ventral migratory path are 
+exposed to BMPs secreted from the dorsal aorta. They 
+express the bHLH factor Mash1, which leads to their 
+differentiation into sympathetic neurons.
+Structural and Molecular Innovations Underlie 
+the Expansion of the Human Cerebral Cortex
+No mice or monkeys are reading this book. This is in 
+large part because the human brain is different from 
+that of even our closest relatives, both qualitatively 
+and quantitatively. Yet most studies of mammalian 
+neural development have been carried out on mice, 
+whose brain contains approximately 1,000-fold fewer 
+neurons than those of the human brain and 100-fold 
+fewer than the best-studied nonhuman primate, the 
+rhesus macaque. Recently, however, new methods are 
+making it possible to elucidate some of the molecular 
+and structural features that lead to the expansion of 
+the human brain and particularly the human cerebral 
+cortex.
+Classical anatomical studies made clear that the 
+primate cortex has not only a far larger size and thick-
+ness than that of rodents but also more discrete areas 
+and more layers (Figure 46–11A). In addition, the pack-
+ing density of neurons is higher in primates than in 
+mice, so the difference in neuronal number is greater 
+than would be expected from size alone. One main 
+contributor to the expansion in primates is a large pool 
+of neuronal progenitors. Many of these progenitors are 
+a second type of radial glial cell, called the outer radial 
+
+
+===== Page 3 =====
+1142    Part VII / Development and the Emergence of Behavior
+Adrenal 
+medulla
+A  Migratory paths
+B  Final positions
+Melanocytes
+Dorsal root
+ganglion
+Sympathetic 
+ganglion
+50  µm
+Epidermis
+Neural 
+crest
+Neural tube
+Notochord
+Somite
+Neural
+tube
+Somite
+Notochord
+Aorta
+Epidermis
+Neural crest cells
+Figure 46–9  Neural crest cell migration in the peripheral 
+nervous system.
+A. A cross section through the middle part of the trunk of a 
+chick embryo shows the main pathways of neural crest cells. 
+Some cells migrate along a superficial pathway, just beneath 
+the ectoderm, and differentiate into pigment cells of the skin. 
+Others migrate along a deeper pathway that takes them 
+through the somites, where they coalesce to form dorsal root 
+sensory ganglia. Still others migrate between the neural tube 
+and somites, past the dorsal aorta. These cells differentiate into 
+sympathetic ganglia and adrenal medulla. The scanning electron 
+micrograph shows neural crest cells migrating away from the 
+dorsal surface of the neural tube of a chick embryo. (Micrograph 
+reproduced, with permission, from K. Tosney.)
+B. Neural crest cells reach their final settling positions where 
+they complete differentiation.
+glial cell to distinguish it from the canonical or inner 
+radial glia described above. Outer radial glia, unlike 
+inner radial glia, lack contact with the ventricular 
+surface and exhibit molecular differences from inner 
+radial glia. However, they are capable of generating 
+neurons and serving as a migratory guide. The massive 
+increase in their number in primates, and particularly 
+humans, provides a partial explanation for the increase 
+in the number of neurons in the human cerebral cortex.
+How can human-specific developmental fea-
+tures be analyzed experimentally? New methods of 
+molecular analysis are making it possible to compare 
+the proteins, transcripts, and genes of humans with 
+those of our close relatives, resulting in the discovery 
+of intriguing specializations. However, hypotheses 
+derived from these findings are difficult to test: Most 
+of the developmental studies we describe in these 
+chapters cannot be performed on humans, and even 
+nonhuman primates are difficult subjects for devel-
+opmental analysis. A possible solution is the recently 
+devised “organoid” culture system.
+Cells from adult skin can be reprogrammed to 
+become multipotential progenitors called induced 
+pluripotent stem cells (iPSCs) by methods that we 
+will discuss in Chapter 50. When placed into culture 
+under carefully controlled conditions and allowed 
+to expand in three dimensions (quite unlike conven-
+tional two-dimensional cultures), they proliferate and 
+self-organize into structures that resemble the devel-
+oping forebrain and exhibit species-specific features  
+
+
+===== Page 4 =====
+Chapter 46 / Differentiation and Survival of Nerve Cells    1143
+Figure 46–10  Neural crest cells differentiate into sympa-
+thetic and sensory neurons.  The neuronal fates of trunk neu-
+ral crest cells are controlled by transcription factor expression. 
+Expression of the basic helix-loop-helix (bHLH) protein Mash1 
+directs neural crest cells along a sympathetic neuronal path-
+way. Sympathetic neurons can acquire noradrenergic or cholin-
+ergic transmitter phenotypes depending on the target cells they 
+innervate and the level of gp130 cytokine signaling (see Figure 
+46–13). Two bHLH proteins, neurogenin-1 and -2, direct neural 
+crest cells along a sensory neuronal pathway. Sensory neurons 
+that express the transcription factor Runx1 and the tyrosine 
+kinase receptor TrkA become nociceptors; those that express 
+Runx3 and TrkC become proprioceptors. (Abbreviations: Ngn-1, 
+neurogenin-1; Ngn-2, neurogenin-2.)
+Mash1
+Phox2
+Gata2/3
+Mash1
+Neural 
+crest cells
+Sensory
+neuron
+Ngn2
+Ngn1
+Sympathetic
+neuron
+Sympathetic
+precursor
+Sensory
+precursor
+Nociceptive
+neuron
+Proprioceptive
+neuron
+Cholinergic
+sympathetic
+neuron
+Noradrenergic
+sympathetic
+neuron
+Target-derived
+gp130 cytokine
+Runx1 and TrkA
+Runx3 and TrkC
+FoxS1
+P
+P
+(Figure 46–11B). Most notably, organoids from human 
+cells contain a bilayered, large subventricular zone 
+with numerous outer radial glia, whereas organoids 
+from mouse cells contain a smaller subventricular zone 
+containing predominately conventional or inner radial 
+glia. These organoids can be used to elucidate the 
+development of at least some early aspects of human 
+cortical development.
+Additional applications abound. One is to obtain 
+iPSCs from patients with brain disorders. Organoids 
+derived from such patients have features that may lead 
+to cortical malformations such as lissencephaly (see 
+Figure 46–5). The hope is that these organoids can be 
+used to elucidate disease mechanisms and eventually 
+test therapies. A second application is to compare orga-
+noids derived from chimpanzee and human iPSCs. 
+This comparison provides a novel means of investi-
+gating the most recent evolutionary innovations that 
+separate us from our closest living relatives.
+Intrinsic Programs and Extrinsic Factors 
+Determine the Neurotransmitter Phenotypes  
+of Neurons
+Neurons continue to develop after they have migrated 
+to their final position, and no aspect of their later dif-
+ferentiation is more important than the choice of 
+chemical neurotransmitter. Neurons that populate the 
+brain use two major neurotransmitters: The amino 
+acid l-glutamate is the major excitatory transmitter, 
+whereas γ-aminobutyric acid (GABA) is the major 
+inhibitory transmitter. Some spinal cord neurons use 
+another amino acid, glycine, as their inhibitory trans-
+mitter. In the peripheral nervous system, sensory neu-
+rons use glutamate, motor neurons use acetylcholine, 
+and autonomic neurons use acetylcholine or norepi-
+nephrine. Smaller numbers of neurons use other trans-
+mitters, such as serotonin and dopamine. The choice of 
+neurotransmitter determines which postsynaptic cells 
+a neuron can talk to and what it can say.
+Neurotransmitter Choice Is a Core Component 
+of Transcriptional Programs of Neuronal 
+Differentiation
+Distinct molecular programs are used to establish 
+neurotransmitter phenotype in different brain regions 
+and neuronal classes. We shall illustrate the general 
+strategy for assignment of amino acid neurotransmit-
+ter phenotypes by focusing on neurons in the cerebral 
+cortex and cerebellum.
+The cerebral cortex contains glutamatergic pyram-
+idal neurons that are generated within the cortical 
+plate and rely on the bHLH factors neurogenin-1 and 
+neurogenin-2 for their differentiation. In contrast, as 
+discussed earlier in the chapter (see Figure 46–8), most 
+GABAergic inhibitory interneurons migrate into the 
+cortex from the ganglionic eminences; their inhibitory 
+transmitter character is specified by the bHLH protein 
+
+
+===== Page 5 =====
+1144    Part VII / Development and the Emergence of Behavior
+A
+B
+Mature 
+progenitor 
+zones
+Cortical layering
+Adult structure
+Development
+Satb2
+Ctip2
+Pax6
+Macaque
+Human
+Mouse
+SVZ
+SP
+VZ
+IZ
+CP
+MZ
+ISVZ
+VZ
+IFL
+CP
+OFL
+OSVZ
+MZ
+I
+IIIa
+IIIb
+IIIbβ
+IIIc
+II
+IVa
+IVb
+Va
+Vb
+VIa
+VIb
+I
+II / III
+IV
+V
+VI
+Figure 46–11  Expansion of the proliferative zones con-
+tributes to cortical specialization in humans and other 
+primates.
+A. The size of the neuroepithelium is initially small in both 
+rodents and humans, but their relative size differs dramatically 
+as development proceeds, owing to increased self-renewal 
+rates and larger numbers of progenitors in humans. The pri-
+mate subventricular zone is greatly enlarged compared to the 
+mouse and becomes subdivided into inner and outer regions, 
+which contain large populations of radial glial cells, both of 
+which generate neurons. In mice, nearly all radial glial cells are 
+of the inner type. (Abbreviations: CP, cortical plate; IFL, inner 
+fiber layer; ISVZ, inner subventricular zone; IZ, intermediate 
+zone; MZ, marginal zone; OFL, outer fiberlayer; OSVZ, outer 
+subventricular zone; SP, subplate; SVZ, subventricular zone; 
+VZ, ventricular zone.) (Adapted, with permission, from  
+Giandomenico and Lancaster 2017.)
+B. Section through an organoid generated from human induced 
+pluripotent stem cells. The area between the white lines is 
+enlarged in the micrograph on the right. The section was stained 
+with antibodies to transcription factors (Satb2, Ctip2, and Pax6) 
+selectively expressed in specific layers in human cortex, demon-
+strating that a layered cortical structure develops in the organoid. 
+(Micrographs reproduced, with permission, from P. Arlotta.)
+
+
+===== Page 6 =====
+Chapter 46 / Differentiation and Survival of Nerve Cells    1145
+Figure 46–12  The neurotransmitter phenotype of central 
+neurons is controlled by basic helix-loop-helix transcription 
+factors.
+A. GABAergic and glutamatergic neurons in the cerebral cortex 
+are generated in different proliferative zones and are specified 
+by different basic helix-loop-helix (bHLH) transcription factors. 
+Glutamatergic pyramidal neurons derive from the cortical 
+ventricular zone, and their differentiation depends on the activi-
+ties of neurogenin-1 and -2. The differentiation of GABAergic 
+interneurons in the ganglionic eminences of the ventral telen-
+cephalon depends on the bHLH protein Mash1. These neurons 
+migrate dorsally to supply the cerebral cortex with most of its 
+inhibitory interneurons.
+B. GABAergic and glutamatergic neurons in the developing 
+cerebellum also derive from different proliferative zones and 
+are specified by different bHLH transcription factors. Gluta-
+matergic granule cells migrate into the cerebellum from the 
+rhombic lip, settle in the inner granular layer, and are speci-
+fied by the bHLH protein Math-1. GABAergic Purkinje neurons 
+migrate from the deep cerebellar proliferative zone, settle in 
+the Purkinje cell layer, and are specified by the bHLH protein 
+Ptf1a.
+Mash1 (Figure 46–12A) as well as by the Dlx1 and Dlx2 
+proteins.
+Similarly, the cerebellum contains several different 
+classes of inhibitory neurons (Purkinje, Golgi, basket, 
+and stellate neurons) and two major classes of excitatory 
+neurons (granule neurons and large cerebellar nucleus 
+neurons). These inhibitory and excitatory neurons 
+have different origins; GABAergic neurons derive from 
+the ventricular zone, whereas glutamatergic neurons 
+migrate into the cerebellum from the rhombic lip. The 
+generation of GABAergic and glutamatergic neurons is 
+controlled by two different bHLH transcription factors, 
+Ptf1a for inhibitory and Math-1 for excitatory neurons 
+Math-1 
+Ptf1a
+Neurogenin-1
+Neurogenin-2
+bHLH transcription 
+factors:
+Mash1
+B  Cerebellum
+A  Cerebral cortex
+Dorsal
+Ventral
+Purkinje cell 
+layer
+Inner granule 
+cell layer
+Glutamatergic neurons
+GABAergic neurons
+(Figure 46–12B). These bHLH factors are expressed by 
+neuroepithelial cells but not by mature neurons, implying 
+that differentiation into glutamatergic and GABAergic 
+neurons is initiated prior to neuronal generation.
+Transcriptional programs also determine the trans-
+mitter phenotype in the peripheral nervous system. 
+For example, BMPs promote noradrenergic neuronal 
+differentiation by inducing the expression of a variety 
+of transcription factors that include the bHLH protein 
+Mash1, the homeodomain protein Phox2, and the zinc 
+finger protein Gata2. In contrast, Runx proteins are 
+determinants of the glutamatergic phenotype of sen-
+sory neurons (Figure 46–10).
+
+
+===== Page 7 =====
+1146    Part VII / Development and the Emergence of Behavior
+Figure 46–13  The target of sympathetic neurons deter-
+mines neurotransmitter phenotype. Sympathetic neurons are 
+initially specified with a noradrenergic transmitter phenotype. 
+Most sympathetic neurons, including those that innervate car-
+diac muscle cells, retain this transmitter phenotype, and their 
+terminals are packed with the dense-core vesicles in which nor-
+epinephrine is stored. But the sympathetic neurons that inner-
+vate sweat gland targets are induced to switch to a cholinergic 
+transmitter phenotype; their terminals become filled with the 
+small clear vesicles in which acetylcholine (ACh) is stored. Sweat 
+gland cells direct the switch by secreting members of the inter-
+leukin cytokine family. Several members of this family, including 
+leukemia inhibitory factor and ciliary neurotrophic factor, are 
+potent inducers of cholinergic phenotype in sympathetic neurons 
+grown in cell culture. (Abbreviation: IL6, interleukin-6.)  
+(Micrographs reproduced, with permission, from S. Landis.)
+Signals From Synaptic Inputs and Targets Can 
+Influence the Transmitter Phenotypes of Neurons
+Because neurotransmitter phenotype is a core neu-
+ronal property, it was long thought that transmitter 
+properties were fixed at the earliest stage of neuronal 
+differentiation. This view was challenged by studies 
+showing that the migratory pathway of a neural crest 
+cell exposes the cell to environmental signals that have 
+a critical role in determining its transmitter phenotype.
+Most sympathetic neurons use norepinephrine as 
+their primary transmitter. However, those that inner-
+vate the exocrine sweat glands in the footpads use 
+acetylcholine, and even these neurons express norepi-
+nephrine when they first innervate the sweat glands 
+of the skin. Only after their axons have contacted the 
+sweat glands do they stop synthesizing norepineph-
+rine and start producing acetylcholine.
+When the sweat glands from the footpad of a new-
+born rat are transplanted into a region that is normally 
+innervated by noradrenergic sympathetic neurons, the 
+synaptic neurons acquire cholinergic transmitter proper-
+ties, indicating that cells of the sweat gland secrete factors 
+that induce cholinergic properties in sympathetic neurons.
+Several secreted factors trigger the switch from a 
+noradrenergic to cholinergic phenotype in sympathetic 
+neurons. The sweat gland secretes a cocktail of interleu-
+kin-6–like cytokines, notably cardiotrophin-1, leukemia 
+inhibitory factor, and ciliary neurotrophic factor. Sev-
+eral aspects of neuronal metabolism that are linked to 
+transmitter synthesis and release are controlled by these 
+factors. The neurons stop producing the large dense-
+core granules characteristic of noradrenergic neurons 
+and start making the small electron-translucent vesicles 
+typical of cholinergic neurons (Figure 46–13).
+Norepinephrine
+Gland 
+cells
+Noradrenergic
+(dense core)
+vesicles
+Cholinergic
+(clear) 
+vesicles
+Muscle 
+cell
+IL6-class
+cytokine
+ACh
+Norepinephrine
+
+
+===== Page 8 =====
+Chapter 46 / Differentiation and Survival of Nerve Cells    1147
+More recently, evidence has accumulated that the 
+transmitter phenotype of central neurons can also be 
+influenced by signals including hormones and electri-
+cal activity. When the spontaneous activity of embry-
+onic amphibian neurons is increased, some motor 
+neurons can be respecified to synthesize and use the 
+inhibitory neurotransmitter GABA instead of or in 
+addition to acetylcholine. Conversely, when activity 
+is decreased, some inhibitory neurons switch to using 
+the excitatory neurotransmitter glutamate along with 
+or instead of GABA. Postsynaptic partners typically 
+express new receptors that correspond to the trans-
+mitter being released onto them. These switches occur 
+without overall respecification of the neuron and are 
+best viewed as homeostatic responses aimed at keep-
+ing the overall activity of the system in a narrow range.
+Although such transmitter switches in central neu-
+rons are likely to occur only rarely under natural con-
+ditions, activity-dependent neurotransmitter plasticity 
+may be a more common phenomenon in the adult nerv-
+ous system. For example, changes in the light cycle 
+where rodents are housed can lead to reciprocal changes 
+in the numbers of neurons that use dopamine and 
+somatostatin as neuromodulators in areas of the brain 
+responsible for maintaining a circadian rhythm. In this 
+and other cases, neurotransmitter switching has meas-
+urable consequences on the behavior of the animal, sug-
+gesting that this process, along with less drastic synaptic 
+changes discussed in Chapter 49, are employed by the 
+brain as responses to novel environments.
+The Survival of a Neuron Is Regulated by 
+Neurotrophic Signals From the Neuron’s Target
+One of the more surprising findings in developmental 
+neuroscience is that a large fraction of the neurons gener-
+ated in the embryonic nervous system end up dying later 
+in embryonic development. Equally surprising, we now 
+know that the potential for cell death is preprogrammed 
+in most animal cells, including neurons. Thus, decisions 
+about life and death are aspects of a neuron’s fate.
+The Neurotrophic Factor Hypothesis Was 
+Confirmed by the Discovery of Nerve Growth Factor
+The target of a neuron is a key source of factors essen-
+tial for the neuron’s survival. The critical role of target 
+cells in neuronal survival was discovered in studies of 
+the dorsal root ganglia.
+In the 1930s, Samuel Detwiler and Viktor Ham-
+burger discovered that the number of sensory neu-
+rons in embryos is increased by transplantation of an 
+additional limb bud into the target field and decreased 
+if the limb target is removed. At the time, these find-
+ings were thought to reflect an influence of the limb 
+on the proliferation and subsequent differentiation of 
+sensory neuron precursors. In the 1940s, however, Rita 
+Levi-Montalcini made the startling observation that 
+the death of neurons is not simply a consequence of 
+pathology or experimental manipulation, but rather 
+occurs during the normal program of embryonic 
+development. Levi-Montalcini and Hamburger went 
+on to show that removal of a limb leads to the exces-
+sive death of sensory neurons rather than a decrease in 
+their production.
+These early discoveries on the life and death of 
+sensory neurons were quickly extended to neurons 
+in the central nervous system. Hamburger found that 
+approximately half of all motor neurons generated in 
+the spinal cord die during embryonic development. 
+Moreover, in experiments similar to those performed 
+on sensory ganglia, Hamburger discovered that motor 
+neuron death could be increased by removing a limb 
+and reduced by adding an additional limb (Figure 
+46–14A,B). These findings indicate that signals from 
+target cells are critical for the survival of neurons 
+within the central as well as peripheral nervous sys-
+tem. In some cases, manipulating synaptic activity 
+affects the extent of death, perhaps by modulating the 
+types or amount of signals that the target cell produces 
+(Figure 46–14C). We now know that the phenomenon 
+of neuronal overproduction, followed by a phase of 
+neuronal death, occurs in most regions of the verte-
+brate nervous system.
+The early discoveries of Levi-Montalcini and 
+Hamburger laid the foundations for the neurotrophic 
+factor hypothesis. The core of this hypothesis is that cells 
+at or near the target of a neuron secrete small amounts 
+of an essential nutrient or trophic factor and that the 
+uptake of this factor by nerve terminals is needed 
+for the survival of the neuron (Figure 46–15). This 
+hypothesis was dramatically confirmed in the 1970s 
+when Levi-Montalcini and Stanley Cohen purified the 
+protein we now know as nerve growth factor (NGF) 
+and showed that this protein is made by target cells 
+and supports the survival of sensory and sympathetic 
+neurons in vitro. Moreover, neutralizing antibodies 
+directed against NGF were found to cause a profound 
+loss of sympathetic and sensory neurons in vivo.
+Neurotrophins Are the Best-Studied  
+Neurotrophic Factors
+The discovery of NGF prompted a search for addi-
+tional neurotrophic factors. Today, we know of over a 
+
+
+===== Page 9 =====
+1148    Part VII / Development and the Emergence of Behavior
+Motor
+neurons
+Missing limb
+(10% survive)
+Normal
+(50% survive)
+Extra limb
+(75% survive)
+Normal
+(50% survive)
+Motor neuron generation (100%)
+Paralysis
+(75% survive)
+Motor neuron death (apoptosis)
+A  Removal of a developing 
+ 
+ limb bud
+C  Neuromuscular paralysis
+ 
+ (curare treated)
+B  Transplantation of 
+ 
+ an extra limb bud
+Figure 46–14  The survival of motor 
+neurons depends on signals pro-
+vided by their muscle targets.  The 
+role of the muscle target in motor 
+neuron survival was demonstrated by 
+Viktor Hamburger in a classic series of 
+experiments performed on the chick 
+embryo. (Adapted from Purves and 
+Lichtman 1985.)
+A. A limb bud was removed from a 
+2.5-day-old chick embryo soon after 
+the arrival of motor nerves. A section 
+of the lumbar spinal cord 1 week later 
+reveals few surviving motor neurons 
+on the deprived side of the spinal 
+cord. The number of motor neurons 
+on the contralateral side with an intact 
+limb is normal.
+B. An extra limb bud was grafted adja-
+cent to a host limb prior to the normal 
+period of motor neuron death. A sec-
+tion of the lumbar spinal cord 2 weeks 
+later shows an increased number of 
+limb motor neurons on the side with 
+the extra limb.
+C. Blockade of nerve-muscle activity 
+with the toxin curare, which blocks 
+acetylcholine receptors, rescues many 
+motor neurons that would otherwise 
+die. Curare may act by enhancing the 
+release of trophic factors from inac-
+tive muscle.
+dozen secreted factors that promote neuronal survival. 
+The best-studied are related to NGF and are called the 
+neurotrophin family.
+There are four main neurotrophins: NGF itself, 
+brain-derived neurotrophic factor (BDNF), and neuro-
+trophins-3 and -4 (NT-3 and NT-4). Other classes of pro-
+teins that promote neuronal survival include members 
+of the transforming growth factor β family, the inter-
+leukin-6–related cytokines, fibroblast growth factors, 
+and even certain inductive signals we encountered 
+earlier (BMPs and hedgehogs). Other neurotrophic 
+factors, notably members of the glial cell line–derived 
+neurotrophic factor (GDNF) family, are responsible for 
+the survival of different types of sensory and sympa-
+thetic neurons (Figure 46–16).
+Neurotrophins interact with two major classes of 
+receptors, the Trk receptors and p75. Neurotrophins pro-
+mote cell survival through activation of Trk receptors. 
+The Trk family comprises three membrane-spanning 
+tyrosine kinases named TrkA, TrkB, and TrkC, each of 
+which exists as a dimer (Figure 46–17).
+Much is now known about the intracellular signal-
+ing pathways activated by binding of neurotrophins to 
+Trks. As with other tyrosine kinase receptors, the binding 
+of neurotrophins to Trk receptors leads to dimerization of 
+the Trk proteins. Dimerization results in phosphorylation 
+of specific tyrosine residues in the activation loop of the 
+kinase domain. This phosphorylation leads to a confor-
+mational change in the receptor and to phosphorylation 
+of tyrosine residues that serve as docking sites for adaptor 
+proteins. The adaptors then trigger production of second 
+messengers that both promote the survival of neurons 
+and trigger their maturation. These divergent biological 
+responses involve different intracellular signaling path-
+ways: neuronal differentiation largely via the mitogen-
+activated protein kinase (MAPK) enzymatic pathways 
+and survival largely via the phosphatidylinositol-3 kinase 
+pathway (Figure 46–18).
+
+

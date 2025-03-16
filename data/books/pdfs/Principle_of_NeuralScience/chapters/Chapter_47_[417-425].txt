@@ -1,0 +1,683 @@
+===== Page 1 =====
+372    Part III / Synaptic Transmission
+B
+200 µm
+4  GAD65–GFP
+5  GABA
+I
+I
+II–III
+II–III
+IV
+IV
+1  GAD65–GFP
+2  GAD65
+3  Overlay
+6  Overlay
+Cortical 
+layer
+A
+2  GAD
+1  GAT-1
+Figure 16–3  Techniques for visualizing chemical 
+messengers.
+A. A light-microscope section of the hippocampus of a rat. 
+1. In situ hybridization using a probe for the mRNA encod-
+ing GAT-1, a GABA transporter. The probe was end-labeled 
+with α-35S-dATP and visualized by clusters of silver grains 
+in the overlying autoradiographic photographic emulsion. 
+2. In situ hybridization of the mRNA for glutamic acid 
+decarboxylase (GAD), the specific biosynthetic enzyme 
+for GABA, was carried out with an oligonucleotide probe 
+linked to the enzyme alkaline phosphatase. The GAD 
+probe was visualized by accumulation of colored alkaline 
+phosphatase reaction product in the cytoplasm. Neurons 
+expressing both GAT-1 and GAD transcripts were labeled 
+by silver grains and the phosphatase reaction, respec-
+tively, and are indicated by circles enclosing cells bodies 
+that contain both labels. (Used with permission of Sarah 
+Augood.)
+B. Images of neocortex from a GAD65-GFP transgenic 
+mouse in which green fluorescent protein (GFP) is 
+expressed under the control of the GAD65 promotor. GFP 
+is co-localized with GAD65 (1–3) and GABA (4–6) (both 
+detected by indirect immunofluorescence) in neurons in 
+the different layers. Most of the GFP-positive neurons 
+are immunopositive for GAD65 and GABA (arrows show 
+selected examples). Scale bar = 100 μm. (Adapted, with 
+permission, from López-Bendito et al. 2004. Copyright © 
+2004 Oxford University Press.)
+Powerful histochemical techniques are available for 
+detecting both small-molecule transmitter substances 
+and neuroactive peptides in histological sections of 
+nervous tissue.
+Catecholamines and serotonin, when reacted with 
+formaldehyde vapor, form fluorescent derivatives. In an 
+early example of transmitter histochemistry, the Swedish 
+neuroanatomists Bengt Falck and Nils Hillarp found 
+that the reaction can be used to locate transmitters with 
+fluorescence microscopy under properly controlled 
+conditions.
+Because individual vesicles are too small to be 
+resolved by the light microscope, the exact position of 
+the vesicles containing the transmitter was inferred by 
+comparing the fluorescence under the light microscope 
+with the position of vesicles under the electron micro-
+scope. A number of fluorescent false transmitters, par-
+ticularly those that mimic catecholamines, are substrates 
+for plasma membrane and/or vesicular transporters, 
+enabling their use to label vesicles and assess their turn-
+over in living tissue. In addition, a variety of genetically 
+expressed neurotransmitter reporters based on green 
+fluorescent protein can be used to detect extracellular 
+levels of neurotransmitters.
+Histochemical analysis can be extended to the ultra-
+structure of neurons under special conditions. Fixation 
+of nervous tissue in the presence of potassium perman-
+ganate, chromate, or silver salts, or the dopamine analog 
+Box 16–2  Detection of Chemical Messengers and Their Processing Enzymes Within Neurons
+
+
+===== Page 2 =====
+Chapter 16 / Neurotransmitters    373
+Figure 16–4  Electron-opaque gold particles linked to 
+antibody are used to locate antigens in tissue at the 
+ultrastructural level. The electron micrograph shows a 
+section through the cell body of an Aplysia bag cell. Bag 
+cells control reproductive behavior by releasing a group of 
+neuropeptides cleaved from the egg-laying hormone (ELH) 
+precursor. The cells contain several kinds of dense-core 
+vesicles. The cell shown here was treated with two anti-
+bodies against different amino acid sequences contained 
+in different regions of the ELH precursor. One antibody 
+was raised in rabbits and the other in rats. These antibod-
+ies were detected with anti-rabbit or anti-rat immunoglobu-
+lins (secondary antibodies) raised in goats. Each secondary 
+antibody was coupled to colloidal gold particles of a dis-
+tinct size. Vesicles identified by antigen 1 (labeled with the 
+smaller gold particles) are smaller than vesicles identified 
+by antigen 2 (labeled with the larger gold particles), indicat-
+ing that the specific fragments cleaved from the precursor 
+are localized in different vesicles. (Reproduced, with per-
+mission, from Fisher et al. 1988.)
+Antigen 1
+Antigen 2
+240 nm
+Vesicle containing:
+5-hydroxdopamine, which forms an electron-dense 
+product, intensifies the electron density of vesicles 
+containing biogenic amines and thus reveals the large 
+number of dense-core vesicles that are characteristic of 
+aminergic neurons.
+It is also possible to identify neurons that express 
+the gene for a particular transmitter enzyme or peptide 
+precursor. Many methods for detecting specific mRNAs 
+depend on nucleic acid hybridization. One such method 
+is in situ hybridization.
+Two single strands of a nucleic acid polymer will pair 
+if their sequence of bases is complementary. With in situ 
+hybridization, the strand of noncoding DNA (the negative 
+or antisense strand or its corresponding RNA) is applied 
+to tissue sections under conditions suitable for hybridizing 
+with endogenous (sense) mRNA. If the probes are radiola-
+beled, autoradiography reveals the locations of neurons 
+that contain the complex formed by the labeled comple-
+mentary nucleic acid strand and the mRNA.
+Hybrid oligonucleotides synthesized with nucle-
+otides containing base analogs tagged chemically, 
+fluorescently, or with antibodies can be detected his-
+tochemically. Multiple labels can be used at the same 
+time (Figure 16–3A). RNAscope, a more recent mRNA 
+hybridization method, allows for simultaneous detec-
+tion of different mRNAs with lower background and 
+single-molecule sensitivity. Another approach to detect-
+ing the synthetic proteins involves viral or transgenic 
+expression of proteins fused to variants of green fluores-
+cent protein (Figure 16–3B).
+Transmitter substances can also be detected using 
+immunohistochemical techniques. Amino acid trans-
+mitters, biogenic amines, and neuropeptides have a pri-
+mary amino group that becomes covalently fixed within 
+the neurons; this group becomes cross-linked to proteins 
+by aldehydes, the usual fixatives used in microscopy for 
+immunohistochemical techniques.
+Specific antibodies against the transmitter sub-
+stances are necessary. Antibodies specific to seroto-
+nin, histamine, and many neuroactive peptides can be 
+detected by a second antibody (in a technique called 
+indirect immunofluorescence). As an example, if the first 
+antibody is rabbit-derived, the second antibody can be 
+goat antibody raised against rabbit immunoglobulin.
+These commercially available secondary antibod-
+ies are tagged with fluorescent dyes and used under the 
+fluorescence microscope to locate antigens in regions of 
+individual neurons—cell bodies, axons, and presynaptic 
+release sites (Figure 16–3).
+Immunohistochemical techniques are also used 
+with electron microscopy to locate chemical transmit-
+ters in the ultrastructure of neurons. Such techniques 
+(continued)
+
+
+===== Page 3 =====
+374    Part III / Synaptic Transmission
+0.0
+–0.2
+0.4
+0.8
+0.2
+0.6
+1.0
+1.2
+F/Fi (AUI)
+0
+100 200
+Time (s)
+Time (s)
+300 400
+500
+A  Loading of
+     ﬂuorescent false
+     neurotransmitter
+B  KCl-induced depolarization
+1
+2
+C  Amphetamine-induced release
+Pre-amphetamine
+1 µM amphetamine
+Pre-KCl
+40 mM KCl
+1
+2
+3
+3
+0.0
+–0.2
+0.4
+0.8
+0.2
+0.6
+1.0
+1.2
+F/Fi (AUI)
+VMAT
+Figure 16–5  Fluorescent false neurotransmitter (FFN) 
+labeling permits optical monitoring of neurotransmit-
+ter release.
+A. FFN (blue dots) is transported by VMAT into synaptic 
+vesicles in dopamine nerve terminals. Vesicles at steady 
+state are acidic, as indicated by yellow shading.
+B. 1. Raising the extracellular KCl concentration leads to 
+depolarization and release of vesicles through exocytosis, 
+resulting in the loss of fluorescent label (destaining). 2. KCl 
+(40 mM) depolarization caused rapid FFN206 destaining 
+in presynaptic dopamine nerve terminals. Whole fly brains 
+were loaded to steady state with FFN206 (300 nM) and 
+treated with KCl. Projected image stacks of the neuropil 
+before (left) and after (right) KCl-induced depolarization. 
+3. Kinetics of fluorescence decay from representative 
+experiments. Black arrow indicates initiation of KCl addi-
+tion. Scale bar = 25 µm.
+C. 1. Amphetamine leads to deacidification of vesicles 
+(loss of yellow shading) and their destaining through a 
+nonexocytic mechanism discussed in the text. 2. Amphet-
+amine (1 µM) caused FFN206 destaining. Whole fly brains 
+were loaded to steady state with FFN206 (300 nM) and 
+treated with amphetamine. Projected image stacks of 
+neuropil before (left) and after (right) treatment. 3. Kinetics 
+of fluorescence decay from representative experiments. 
+Black arrow indicates initiation of drug addition. Scale bar 
+= 25 µm. (Reproduced, with permission, from Freyberg  
+et al. 2016.)
+usually involve a peroxidase-antiperoxidase system that 
+produces an electron-dense reaction product. Another 
+method is to use antibodies linked to electron-dense 
+gold particles. Spheres of colloidal gold can be gener-
+ated with precise diameters in the nanometer range. 
+When coated with an appropriate antibody, these gold 
+particles can be used to detect proteins and peptides 
+with high resolution. This technique has the additional 
+useful feature that more than one specific antibody can 
+be examined in the same tissue section if each antibody 
+is linked to gold particles of different sizes (Figure 16–4).
+A number of fluorescent vesicular transporter 
+substrates have been used as fluorescent false neuro-
+transmitters (FFNs) to monitor transmitter release in 
+mouse brain slice or whole fly brain (Figure 16–5). This 
+approach allows visualization of nerve terminals in 
+which synaptic vesicles have been loaded with FFNs; 
+release can then be monitored optically in real time in 
+response to either depolarization, which leads to exocy-
+tosis and synaptic vesicle emptying, or amphetamine, 
+which leads to nonexocytic release of vesicular contents 
+into the cytoplasm in response to vesicle deacidification.
+Box 16–2  Detection of Chemical Messengers and Their Processing Enzymes Within Neurons 
+(continued)
+
+
+===== Page 4 =====
+Chapter 16 / Neurotransmitters    375
+butyrylcholinesterase, which can also degrade other 
+molecules including cocaine and the paralytic drug 
+succinylcholine. However, the precise functions of 
+butyrylcholinesterase are not fully understood.
+Many other enzymatic pathways that degrade 
+released transmitters are not directly involved in ter-
+minating synaptic transmission but are important for 
+controlling the concentration of the transmitter within 
+the neuron or for inactivating transmitter molecules 
+that have diffused away from the synaptic cleft. Many 
+of these degradative enzymes are important clinically—
+they provide sites for drug action and serve as diag-
+nostic indicators. For example, inhibitors of MAO, an 
+intracellular enzyme that degrades amine transmitters, 
+are used to treat depression and Parkinson disease.  
+Catechol-O-methyltransferase (COMT) is another cyto-
+plasmic enzyme that is important for degrading bio-
+genic amines. Measurement of its metabolites provides 
+a useful clinical index of the efficacy of drugs that affect 
+the synthesis or degradation of the biogenic amines 
+in nervous tissue. COMT is thought to play a particu-
+larly critical role in regulating cortical dopamine levels 
+because of the low levels of the dopamine uptake trans-
+porter. The relevance of this enzyme is underscored 
+by the finding that a functional polymorphism in the 
+COMT gene has been related to  cognitive performance.
+Neuropeptides are removed relatively slowly 
+from the synaptic cleft by slow diffusion and prote-
+olysis by extracellular peptidases. In contrast, small-
+molecule transmitters are removed more quickly from 
+the synaptic cleft and extrasynaptic space. The critical 
+mechanism for inactivation of most small molecule 
+neurotransmitters is reuptake at the plasma mem-
+brane. This mechanism serves the dual purposes of 
+terminating the synaptic action of the transmitter as 
+well as recapturing transmitter molecules for subse-
+quent reuse. Although Elliott had hypothesized in 1914 
+that uptake transporters might exist, their discov-
+ery waited until 1958 when F. Barbara Hughes and  
+Benjamin Brodie found that blood platelets accumulated 
+norepinephrine and serotonin, which could compete 
+with each other for uptake. Julius Axelrod,* also a mem-
+ber of Brodie’s group, soon afterward characterized 
+norepinephrine uptake into neurons using a radiola-
+beled substrate.
+High-affinity uptake is mediated by transporter 
+molecules in the membranes of nerve terminals and 
+glial cells. Unlike vesicular transporters, which are 
+powered by the H+ electrochemical gradient in an anti-
+port mechanism, plasma membrane transporters are 
+driven by the Na+ electrochemical gradient through a 
+symport mechanism in which Na+ ions and transmitter 
+move in the same direction.
+Each type of neuron has its own characteristic 
+uptake mechanism. For example, noncholinergic neu-
+rons do not take up choline with high affinity. Cer-
+tain powerful psychotropic drugs can block uptake 
+processes. For example, cocaine blocks the uptake of 
+dopamine, norepinephrine, and serotonin; the tricyclic 
+antidepressants block uptake of serotonin and norepi-
+nephrine. The selective serotonin reuptake inhibitors, 
+such as fluoxetine (Prozac), were an important thera-
+peutic innovation and are generally better tolerated 
+than tricyclic antidepressants, although treatment-
+resistant depression remains a critical problem. The 
+application of appropriate drugs that block transport-
+ers can prolong and enhance synaptic signaling by the 
+biogenic amines and GABA. In some instances, drugs 
+act both on transporters on the neuron’s surface and 
+on vesicular transporters within the cell. For example, 
+amphetamines are actively taken up by the dopamine 
+or other biogenic amine transporters on the external 
+membrane of the neuron as well as by VMAT2.
+Transporter 
+molecules 
+for 
+neurotransmitters 
+belong to two distinct groups that are different in both 
+structure and mechanism. High-resolution structures 
+of bacterial homologs from each of these families have 
+been solved, which has greatly advanced our under-
+standing of transporter mechanisms.
+One group of transporters is the neurotransmitter 
+sodium symporters (NSS), a superfamily of transmem-
+brane proteins that thread through the plasma mem-
+brane 12 times (11 times for many prokaryotic homologs). 
+These proteins are comprised of a pseudo-symmetric 
+inverted repeat in which membrane-spanning segments 
+1 to 5 are homologous to membrane-spanning segments 
+6 to 10. The NSS family includes the transporters of 
+GABA, glycine, norepinephrine, dopamine, serotonin, 
+osmolytes, and amino acids. Crystal structures for the 
+human serotonin transporter and the fly dopamine 
+transporter, which share the same structure and general 
+mechanism as the bacterial homologs crystallized previ-
+ously, have recently been solved.
+The second family consists of transporters of glu-
+tamate. These proteins traverse the plasma membrane 
+eight times and contain two helical hairpins that are 
+*Axelrod received a bachelor’s degree in chemistry and wrote many 
+of his celebrated papers as a technician in Brodie’s lab before 
+entering graduate school and receiving a PhD 21 years later. He was 
+awarded a share of the Nobel Prize in 1970 for his co-discovery of 
+neuronal norepinephrine uptake and his discovery of COMT. His co-
+recipients of the prize that year were Bernard Katz, who described 
+quantal neurotransmission, and Ulf von Euler, who also studied 
+vesicular uptake and epinephrine release.
+
+
+===== Page 5 =====
+376    Part III / Synaptic Transmission
+thought to serve a role in gating access of substrate 
+from each side of the membrane (see Figure 8–16). 
+Each group includes several transporters for each 
+transmitter substance; for example, there are multi-
+ple GABA, glycine, and glutamate transporters, each 
+with somewhat different localization, function, and 
+pharmacology.
+The two groups can be distinguished function-
+ally. Although both are driven by the electrochemi-
+cal potential provided by the Na+ gradient, transport 
+of glutamate requires the countertransport of K+, 
+whereas transport by NSS proteins often requires 
+the cotransport of Cl– (or H+ antiport in the case of 
+prokaryotic homologs). During transport of gluta-
+mate, one negatively charged molecule of the trans-
+mitter is imported with three Na+ ions and one proton 
+(symport) in exchange for the export of one K+. This 
+leads to a net influx of two positive charges for each 
+transport cycle, generating an inward current. As 
+a result of this charge transfer, the negative resting 
+potential of the cell generates a large inward driving 
+force that results in an enormous gradient of gluta-
+mate across the cell membrane. In contrast, the NSS 
+proteins transport one to three Na+ ions and one Cl– 
+ion together with their substrates. While under most 
+conditions the electrochemical driving force is suf-
+ficient for NSS transporters to carry transmitter into 
+the cell, thereby increasing the cytoplasmic transmit-
+ter concentration, the concentration of transmitter in 
+the cytoplasm is quite low and ultimately determined 
+by the action of vesicular transporters to load trans-
+mitter into synaptic vesicles.
+A fascinating aspect of the function of the NSS 
+proteins is the ability of these transporters to run 
+backward, allowing them to generate transmitter 
+efflux. This is best characterized for the neurotrans-
+mitter dopamine, as amphetamine and related ana-
+logs lead to massive release of dopamine through 
+a nonexocytotic mechanism. As discussed earlier, 
+at pharmacological doses, amphetamine is actively 
+transported by both the plasma membrane dopa-
+mine transporter (DAT) and the vesicular VMAT2; the 
+latter effect  dissipates the vesicular H+ gradient, lead-
+ing to the escape of dopamine to the cytoplasm. This 
+dopamine then moves “backward”, out of the cell, 
+through DAT, a process that requires phosphoryla-
+tion of its N-terminus. While essential for ampheta-
+mine function, the normal physiological role of this 
+phosphorylation remains a mystery, as it does not 
+seem essential for dopamine uptake. Computational 
+studies suggest that phosphorylation-regulated inter-
+actions of the N-terminus with acidic lipids in the 
+inner leaflet play a role in modulating transporter 
+function. Nevertheless, the ultimate answer may 
+require atomic resolution structures that include the 
+N-terminal domain coupled with biophysical data on 
+N-terminal dynamics.
+Highlights
+  1.  Information carried by a neuron is encoded in 
+electrical signals that travel along its axon to a 
+synapse, where these signals are transformed 
+and carried across the synaptic cleft by one or 
+more chemical messengers.
+  2.  Two major classes of chemical messengers, small-
+molecule transmitters and neuroactive peptides, 
+are packaged in vesicles within the presynaptic 
+neuron. After their synthesis in the cytoplasm, 
+small-molecule transmitters are taken up and 
+highly concentrated in vesicles, where they 
+are protected from degradative enzymes in the 
+cytoplasm.
+  3.  Synaptic vesicles in the periphery are highly 
+concentrated in nerve endings and, in the brain, 
+tend to be at varicosities along the axon at pre-
+synaptic sites. Classical excitatory synapses with 
+ionotropic glutamate receptors are examples 
+of “private” synapses that communicate with a 
+closely apposed postsynaptic structure such as a 
+dendritic spine. In contrast, the dopamine system 
+exemplifies “social” synapses that can interact 
+with extrasynaptic receptors on many neurons.
+  4.  To prevent depletion of small molecule transmit-
+ters during rapid synaptic transmission, most are 
+synthesized locally at terminals.
+  5.  The protein precursors of neuroactive peptides 
+are synthesized only in the cell body, the site 
+of transcription and translation. The neuropep-
+tides are packaged in secretory granules and 
+vesicles that are carried from the cell body to 
+the terminals by axoplasmic transport. Unlike 
+the vesicles that contain small-molecule trans-
+mitters, these vesicles are not refilled at the 
+terminal.
+  6.  The enzymes that regulate transmitter biosynthe-
+sis are under tight regulatory control, and changes 
+in neuronal activity can produce homeostatic 
+changes in the levels and activity of these enzymes. 
+This regulation can occur both posttranslationally 
+in the cytoplasm, as a result of phosphorylation 
+and dephosphorylation reactions, as well as by 
+transcriptional control in the nucleus.
+  7.  Precise mechanisms for terminating transmit-
+ter actions represent a key step in synaptic 
+
+
+===== Page 6 =====
+Chapter 16 / Neurotransmitters    377
+transmission that is nearly as important as trans-
+mitter synthesis and release. Some released 
+transmitter is lost as a result of simple diffusion 
+out of the synaptic cleft. However, for the most 
+part, transmitter actions are terminated by spe-
+cific molecular reactions.
+  8.  Acetylcholine is rapidly hydrolyzed by acetyl-
+cholinesterase to choline and acetate. Glutamate, 
+GABA, glycine, and the biogenic amines are 
+taken up into presynaptic terminals and/or glia 
+by specific transporters at the plasma membrane 
+that are driven by the Na+ gradient.
+  9.  Some of the most potent psychoactive com-
+pounds act at neurotransmitter transporters. 
+The psychostimulatory effects of cocaine result 
+from its action to prevent reuptake of dopamine, 
+thereby increasing its extracellular levels. In con-
+trast, amphetamine and its derivatives promote 
+nonexocytotic release of dopamine through a 
+mechanism involving both the plasma mem-
+brane DAT and the vesicular transporter VMAT2.
+10.  The first step in understanding the molecu-
+lar strategy of chemical transmission usually 
+involves identifying the contents of synaptic ves-
+icles. Except for those instances in which trans-
+mitter is released by transporter molecules or 
+by diffusion through the membrane (in the case 
+of gases and lipid metabolites, see Chapter 14), 
+only molecules suitably packaged in vesicles can 
+be released from a neuron’s terminals. However, 
+not all molecules released by a neuron are chemi-
+cal messengers—only those that bind to appro-
+priate receptors and initiate functional changes 
+in that target neuron can usefully be considered 
+neurotransmitters.
+11.  Information is transmitted when transmitter mol-
+ecules bind to receptor proteins in the membrane 
+of another cell, causing them to change confor-
+mation, leading either to increased ion conduct-
+ance in the case of ligand-gated ion channels or to 
+alterations in downstream signaling pathways in 
+the case of G protein–coupled receptors.
+12.  The co-release of several neuroactive substances 
+onto appropriate postsynaptic receptors permits 
+great diversity of information to be transferred in 
+a single synaptic action.
+ Jonathan A. Javitch  
+ David Sulzer 
+Selected Reading
+Alberts B, Johnson A, Lewis J, Raff M, Roberts K, Walter P. 
+2002. Membrane transport of small molecules and the 
+electrical properties of membranes. In: Molecular Biology 
+of the Cell, 4th ed. New York and Oxford: Garland Science.
+Axelrod J. 2003. Journey of a late blooming biochemical neu-
+roscientist. J Biol Chem 278:1–13.
+Burnstock G. 1986. Purines and cotransmitters in adrenergic 
+and cholinergic neurones. Prog Brain Res 68:193–203.
+Chaudhry FA, Boulland JL, Jenstad M, Bredahl MK, Edwards 
+RH. 2008. Pharmacology of neurotransmitter transport 
+into secretory vesicles. Handb Exp Pharmacol 184:77–106.
+Cooper JR, Bloom FE, Roth RH. 2003. The Biochemical Basis of 
+Neuropharmacology, 8th ed. New York: Oxford Univ. Press.
+Dale H. 1935. Pharmacology and nerve endings. Proc R Soc 
+Med (Lond) 28:319–332.
+Edwards RH. 2007. The neurotransmitter cycle and quantal 
+size. Neuron 55:835–858.
+Falck B, Hillarp NÅ, Thieme G, Torp A. 1982. Fluorescence of 
+catecholamines and related compounds condensed with 
+formaldehyde. Brain Res Bull 9:11–15.
+Fatt P, Katz B. 1950. Some observations on biological noise. 
+Nature 166:597–598.
+Jiang J, Amara SG. 2011. New views of glutamate trans-
+porter structure and function: advances and challenges. 
+Neuropharmacology 60:172–181.
+Johnson RG. 1988 Accumulation of biological amines into 
+chromaffin granules: a model for hormone and neuro-
+transmitter transport. Physiol Rev 68:232–307.
+Katz B. 1966. Nerve, Muscle, and Synapse. New York: 
+McGraw-Hill.
+Koob GF, Sandman CA, Strand FL (eds). 1990. A decade of 
+neuropeptides: past, present and future. Ann N Y Acad 
+Sci 579:1–281.
+Loewi O. 1960. An autobiographic sketch. Perspect Biol Med 
+4:3–25.
+Lohr KM, Masoud ST, Salahpour A, Miller GW. 2017. 
+Membrane transporters as mediators of synaptic dopa-
+mine dynamics: implications for disease. Eur J Neurosci 
+45:20–33.
+Pereira D, Sulzer D. 2012. Mechanisms of dopamine quantal 
+size regulation. Front Biosci 17:2740–2767.
+Sames D, Dunn M, Karpowicz RJ Jr, Sulzer D. 2013. Visual-
+izing neurotransmitter secretion at individual synapses. 
+ACS Chem Neurosci 4:648–651.
+Siegel GJ, Agranoff BW, Albers RW, Molinoff PB (eds). 1998. 
+Basic Neurochemistry: Molecular, Cellular, and Medical 
+Aspects, 6th ed. Philadelphia: Lippincott.
+Snyder SH, Ferris CD. 2000. Novel neurotransmitters 
+and their neuropsychiatric relevance. Am J Psychiatry 
+157:1738–1751.
+Sossin WS, Fisher JM, Scheller RH. 1989. Cellular and molec-
+ular biology of neuropeptide processing and packaging. 
+Neuron 2:1407–1417.
+Sulzer D, Cragg SJ, Rice ME. 2016. Striatal dopamine neu-
+rotransmission: regulation of release and uptake. Basal 
+Ganglia 6:123–148.
+
+
+===== Page 7 =====
+378    Part III / Synaptic Transmission
+Sulzer D, Pothos EN. 2000. Regulation of quantal size by pre-
+synaptic mechanisms. Rev Neurosci 11:159–212.
+Toei M, Saum R, Forgac M. 2010. Regulation and isoform 
+function of the V-ATPases. Biochemistry 49:4715–4723.
+Torres GE, Amara SG. 2007. Glutamate and monoamine 
+transporters: new visions of form and function. Curr Opin 
+Neurobiol 17:304–312.
+Van der Kloot W. 1991 The regulation of quantal size. Prog 
+Neurobiol 36:93–130.
+Weihe E, Eiden LE. 2000. Chemical neuroanatomy of the 
+vesicular amine transporters. FASEB J 15:2435–2449.
+References
+Augood SJ, Herbison AE, Emson PC. 1995. Localization of 
+GAT-1 GABA transporter mRNA in rat striatum: cellular 
+coexpression with GAD67 mRNA, GAD67 immunoreactiv-
+ity, and parvalbumin mRNA. J Neurosci 15:865–874.
+Coleman JA, Green EM, Gouaux E. 2016. X-ray structures 
+and mechanism of the human serotonin transporter. 
+Nature 532:334–339.
+Danbolt NC, Chaudhry FA, Dehnes Y, et al. 1998. Properties 
+and localization of glutamate transporters. Prog Brain Res 
+116:23–43.
+Fisher JM, Sossin W, Newcomb R, Scheller RH. 1988. Multi-
+ple neuropeptides derived from a common precursor are 
+differentially packaged and transported. Cell 54:813–822.
+Freyberg Z, Sonders MS, Aguilar JI, et al. 2016. Mechanisms 
+of amphetamine action illuminated through in vivo optical 
+monitoring of dopamine synaptic vesicles. Nat Commun 
+7:10652.
+Hnasko TS, Chuhma N, Zhang H, et al. 2010. Vesicular glu-
+tamate transport promotes dopamine storage and gluta-
+mate corelease in vivo. Neuron 65:643–656.
+Khoshbouei, H, Sen N, Guptaroy B, et al. 2004. N-terminal 
+phosphorylation of the dopamine transporter is required 
+for amphetamine-induced efflux. PLoS Biol 2(3): E78.
+Krieger DT. 1983. Brain peptides: what, where, and why? 
+Science 222:975–985.
+Liu Y, Kranz DE, Waites C, Edwards RH. 1999. Membrane 
+trafficking of neurotransmitter transporters in the regula-
+tion of synaptic transmission. Trends Cell Biol 9:356–363.
+Lloyd PE, Frankfurt M, Stevens P, Kupfermann I, Weiss KR. 
+1987. Biochemical and immunocytological localization of 
+the neuropeptides FMRFamide SCPA, SCPB, to neurons 
+involved in the regulation of feeding in Aplysia. J Neurosci 
+7:1123–1132.
+López-Bendito G, Sturgess K, Erdélyi F, Szabó G, Molnár Z, 
+Paulsen O. 2004. Preferential origin and layer destina-
+tion of GAD65-GFP cortical interneurons. Cereb Cortex 
+14:1122–1133.
+Okuda T, Haga T. 2003. High-affinity choline transporter. 
+Neurochem Res 28:483–488.
+Otsuka M, Kravitz EA, Potter DD. 1967. Physiological and 
+chemical architecture of a lobster ganglion with particu-
+lar reference to γ-aminobutyrate and glutamate. J Neuro-
+physiol 30:725–752.
+Palay SL. 1956. Synapses in the central nervous system.  
+J Biophys Biochem Cytol 2:193–202.
+Pereira DB, Schmitz Y, Mészáros J, et al. 2016. Fluorescent 
+false neurotransmitter reveals functionally silent dopa-
+mine vesicle clusters in the striatum. Nat Neurosci 
+19:578–586.
+Rubin RP. 2007. A brief history of great discoveries in pharma-
+cology: in celebration of the centennial anniversary of the 
+founding of the American Society of Pharmacology and 
+Experimental Therapeutics. Pharmacol Rev 59:289–359.
+Yamashita A, Singh SK, Kawate T, Jin Y, Gouaux E. 2005. 
+Crystal structure of a bacterial homologue of Na+/
+Cl−-dependent neurotransmitter transporters. Nature 
+437:205–223.
+Yernool D, Boudker O, Jin Y, Gouaux E. 2004. Structure of a 
+glutamate transporter homologue from Pyrococcus horikoshii. 
+Nature 431:811–818.
+
+
+===== Page 8 =====
+Part IV
+
+
+===== Page 9 =====
+Preceding Page
+In Plato’s “Allegory of the Cave,” which addresses the origin of knowledge, his early 
+insight into the constructive nature of perception offers illuminating metaphors for the 
+process. The parable begins with the premise that a group of prisoners has never seen 
+the outside world. Their experience is limited to shadows cast upon the wall of the 
+cave by objects passing before a fire. The causes of those shadows—even the fact that 
+they are shadows—is unknown to the prisoners. Nonetheless, over time, the shadows 
+become imbued with meaning in the prisoners’ minds.  Metaphorically, the shadows 
+represent sensations, which are fleeting and incoherent. The assignment of meaning 
+represents the construction of intelligible percepts. The prisoner turning the corner of 
+the wall has been freed to witness the larger world of causes, which he reports back 
+to those still imprisoned. In a novel metaphorical take on this ancient story, this return-
+ing prisoner represents the field of modern neuroscience, which sheds light on the 
+relationship between our shadowy sensations and our rich perceptual experience of the 
+world. (Plato’s Cave, 1604. Jan Pietersz Saenredam, after Cornelis Cornelisz van Haarlem. 
+National Gallery, Washington D.C.)
+
+

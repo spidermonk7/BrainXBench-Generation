@@ -1,0 +1,868 @@
+===== Page 1 =====
+900    Part V / Movement
+Control of Posture Is Task Dependent
+The senses and muscles used to control posture vary, 
+depending on task constraints and requirements. For 
+example, when vestibular and somatosensory infor-
+mation is altered while working on a space station, 
+vision is used to orient the body to tasks, and the goal 
+of postural equilibrium changes from preventing falls 
+due to gravity to preventing unintended collision with 
+objects due to inertia. A healthy nervous system very 
+quickly adapts to changing tasks, goals, and environ-
+ments by modifying its relative dependence upon dif-
+ferent sensory information and by using different sets 
+of muscles to optimize achieving the goals of both pos-
+ture control and voluntary movements.
+Task Requirements Determine the Role of  
+Each Sensory System in Postural Equilibrium  
+and Orientation
+The postural control system must be able to change the 
+weighting of different sensory modalities to accommo-
+date changes in the environment and movement goals. 
+Subjects standing on a firm stable surface tend to rely 
+primarily on somatosensory information for postural 
+orientation. When the support surface is unstable, sub-
+jects depend more on vestibular and visual informa-
+tion. However, even when the support surface is not 
+stable, light touch with a fingertip on a stable object 
+is more effective than vision in maintaining postural 
+orientation and balance. Vestibular information is par-
+ticularly critical when visual and somatosensory infor-
+mation is ambiguous or absent, such as when skiing 
+downhill or walking below deck on a ship.
+The changeable weighting of individual sensory 
+modalities was demonstrated in an experiment in 
+which subjects were blindfolded and asked to stand 
+quietly on a surface with a tilt that slowly oscillated 
+by varying amounts, up to 8° in magnitude. For tilts 
+of less than 2°, all subjects sway with the platform, 
+suggesting that they use somatosensory information 
+to orient their body to the support surface (Figure 
+36–12B). At larger tilts, healthy subjects attenuate their 
+sway and orient their posture more with respect to 
+gravitational vertical than to the surface, as they rely 
+more on vestibular information so they stop increasing 
+body sway. Thus, relative sensory weighting changes 
+in control subjects such that somatosensory weight is 
+highest with a stable platform and vestibular weight 
+is highest when standing on an unstable surface, such 
+as with large surface tilts (Figure 36–12B2). In contrast, 
+patients who have lost vestibular function persist in 
+swaying along with the platform and subsequently fall 
+during large surface tilts. This behavior is consistent 
+with the patients’ inappropriate automatic postural 
+response to platform tilts.
+Studies such as these suggest that when people are 
+standing on moving or unstable surfaces, the weight-
+ing of vestibular and visual information increases, 
+whereas that of somatosensory information decreases. 
+Any sensory modality may dominate at a particular 
+time, depending on the conditions of postural support 
+and the specific motor behavior to be performed.
+Control of Posture Is Distributed in the 
+Nervous System
+Postural orientation and balance are achieved through 
+the dynamic and context-dependent interplay among 
+all levels of the central nervous system, from the spinal 
+cord to cerebral cortex. The major areas of the brain 
+involved in postural control are shown in Figure 
+36–13. Signals from specific areas in all lobes of the 
+cerebral cortex converge and are integrated to deter-
+mine appropriate outputs from motor cortical areas to 
+subcortical structures. The basal ganglia, cerebellum, 
+and pedunculopontine nucleus then send outputs to 
+the brain stem. Ultimately, inputs from these varied 
+sources result in activation of the reticulospinal and 
+vestibulospinal pathways, which descend to the spinal 
+cord where they contact interneurons and spinal motor 
+neurons for postural control.
+Afferent inputs from visual, vestibular, and soma-
+tosensory sources are integrated along the neuraxis, 
+including the vestibular nuclei and right parietal 
+cortex, to inform the internal model of body orienta-
+tion and balance. This internal model is continually 
+updated by the cerebellum based on error signals 
+between expected and actual sensory feedback follow-
+ing motor commands.
+Spinal Cord Circuits Are Sufficient for Maintaining 
+Antigravity Support but Not Balance
+Adult cats with complete spinal transection at the tho-
+racic level can, with experience, support the weight of 
+their hindquarters with fairly normal hind limb and 
+trunk postural orientation, but they have little control 
+of balance. These animals do not exhibit normal pos-
+tural responses in their hind limbs when the support 
+surface moves. Their response to horizontal motion 
+consists of small, random, and highly variable bursts 
+of activity in extensor muscles, and postural activity 
+in flexor muscles is completely absent. Active balance 
+is absent despite the fact that extensors and flexors can 
+
+
+===== Page 2 =====
+Chapter 36 / Posture    901
+Thalamus
+Vestibulocerebellum
+Spinocerebellum
+Visual
+cortex
+Visual
+Vestibular
+Somatosensory
+Premotor
+cortex / 
+SMA
+Temporo-
+parietal
+cortex
+Vestibular
+cortex
+Posterior
+parietal cortex
+S1
+M1
+Vestibular
+nuclei
+Pontomedullary
+reticular formation
+PPN
+Reticulo-
+spinal track
+Spinal cord
+Vestibulo-
+spinal track
+Basal 
+ganglia
+Body schema
+Plan/
+intention
+Postural
+synergies
+Anticipatory postural
+adjustments
+Figure 36–13  Many parts of the 
+nervous system control pos-
+ture. Areas of frontal, parietal, 
+temporal, and occipital cortex, as 
+well as the basal ganglia,  
+cerebellum, and pendunculopon-
+tine nucleus (PPN), provide inputs 
+to the recticulospinal and vesti-
+bulospinal pathways descending 
+to spinal motor neurons. Afferent 
+inputs from the visual, vestibular, 
+and somatosensory systems 
+are integrated in the brainstem 
+and cortex to update the body 
+schema and inform future postural 
+commands. (Abbreviations: M1, 
+primary motor cortex; S1, primary 
+somatosensory cortex; SMA, sup-
+plementary motor area.) (Adapted 
+from Beristain 2016.)
+be recruited for other movements such as stepping on 
+a treadmill, suggesting that unlike locomotion, postural 
+muscle activation requires supraspinal control.
+An adult cat with a spinal transection can stand 
+independently for only short periods of time and 
+within a narrow range of stability; head turns in par-
+ticular cause the animal to lose balance. What stability 
+there is likely results from the broad base of support 
+afforded by quadrupedal stance, the stiffness of the 
+tonically contracting hind limb extensors that support 
+the weight of the hindquarters, and active compensa-
+tion by forelimbs that continue to produce postural 
+responses. Humans with spinal cord injuries have 
+various amounts of antigravity muscle tonus but lack 
+automatic postural responses below the level of the 
+lesion. These results emphasize that antigravity sup-
+port and balance control are distinct mechanisms and 
+that the control of balance requires the involvement of 
+supraspinal circuits.
+The Brain Stem and Cerebellum Integrate  
+Sensory Signals for Posture
+If spinal circuits alone are not capable of producing 
+automatic postural responses, what supraspinal cent-
+ers are responsible for these responses? Although the 
+answer to this question remains unknown, good can-
+didates include the brain stem and cerebellum, which 
+are highly interconnected and work together to modu-
+late the descending commands to spinal motor centers 
+of the limbs and trunk. These regions have the input–
+output structure that would be expected of centers for 
+postural control.
+Muscle synergies for automatic postural responses 
+may be organized in the brain stem, perhaps the reticu-
+lar formation. However, adaptation of postural syner-
+gies to changes in the environment and task demands 
+may require the cerebellum.
+Two regions of the cerebellum influence orienta-
+tion and balance: the vestibulocerebellum (nodulus, 
+uvula, and fastigial nucleus) and the spinocerebel-
+lum (anterior lobe and interpositus nucleus). These 
+regions are interconnected with the vestibular nuclei 
+and reticular formation of the pons and medulla (see 
+Figure 37–4). Lesions of the brain stem and vestibu-
+locerebellum produce a variety of deficits in head and 
+trunk control including a tendency to tilt from vertical, 
+even with eyes open, suggesting a deficit in the inter-
+nal representation of postural orientation. Lesions of 
+the spinocerebellum result in excessive postural sway 
+that is worse with the eyes closed, ataxia during walk-
+ing, and hypermetric postural responses, suggesting 
+
+
+===== Page 3 =====
+902    Part V / Movement
+deficits in balance corrections. Certain regions in the 
+pons and medulla facilitate or depress extensor tonus 
+and could be involved in antigravity support.
+The brain stem and cerebellum are sites of integra-
+tion of sensory inputs, perhaps generating the inter-
+nal model of body orientation and balance. Vestibular 
+and visual inputs are distributed to brain stem cent-
+ers (Chapters 25 and 27) and the vestibulocerebellum. 
+The spinocerebellum receives signals from rapidly 
+conducting proprioceptive and cutaneous fibers. More 
+slowly conducting somatosensory fibers project to the 
+vestibular nuclei and reticular formation.
+Two major descending systems carry signals from 
+the brain stem and cerebellum to the spinal cord and 
+could trigger automatic postural responses for balance 
+and orientation. The medial and lateral vestibulospi-
+nal tracts originate from the vestibular nuclei, and the 
+medial and lateral reticulospinal tracts originate from 
+the reticular formation of the pons and medulla (see 
+Figure 37–5). Lesions of these tracts result in profound 
+ataxia and postural instability. In contrast, lesions of 
+the corticospinal and rubrospinal tracts have minimal 
+effect on balance even though they produce profound 
+disturbance of voluntary limb movements.
+The Spinocerebellum and Basal Ganglia Are 
+Important in Adaptation of Posture
+Patients with spinocerebellar disorders such as alco-
+holic anterior-lobe syndrome and basal ganglia deficits 
+such as Parkinson disease experience postural diffi-
+culties. Studies suggest that the spinocerebellum and 
+basal ganglia play complementary roles in adapting 
+postural responses to changing conditions.
+The spinocerebellum is where the amplitude of 
+postural responses is adapted based on experience. The 
+basal ganglia are important for quickly adjusting the 
+postural set when conditions suddenly change. Both 
+the spinocerebellum and the basal ganglia regulate 
+muscle tone and force for voluntary postural adjust-
+ments. They are not necessary, however, for triggering 
+or constructing the basic postural patterns.
+Patients with disorders of the spinocerebellum 
+have difficulty modifying the magnitude of balance 
+adjustments with practice, over the course of repeated 
+trials, but can readily adapt postural responses imme-
+diately after a change in conditions based on sensory 
+feedback. For example, a patient standing on a movable 
+platform scales the size of postural responses appro-
+priately when platform velocity is increased with each 
+trial. These postural adjustments rely on velocity infor-
+mation, which is encoded by somatosensory inputs at 
+the beginning of platform movement.
+In contrast, patients with cerebellar disorders 
+cannot scale the size of postural responses based on 
+feedforward control using the anticipated amplitude 
+of postural displacements. Because the amplitude of 
+platform movement is not known until the platform 
+has stopped moving, well after the initial postural 
+response is complete, a subject cannot use feedback 
+from the trial at hand to guide the response but must  
+instead use his experience from previous trials to 
+inform his response in a subsequent trial of the same 
+amplitude. Whereas a healthy subject does this quite 
+readily, a patient with spinocerebellar disorders is una-
+ble to efficiently adapt his postural responses based on 
+recent experience (Figure 36–14A).
+A healthy subject standing on a moveable plat-
+form is able to scale muscle activity during sudden 
+backward motion of the platform to counteract the 
+forward sway induced by the perturbation. A subject 
+with spinocerebellar disease always overresponds, 
+although the timing of muscle activation is normal 
+(Figure 36–14B). As a result, this individual returns 
+beyond the upright position and oscillates back and 
+forth. Reminiscent of the hypermetria observed imme-
+diately after labyrinthectomy, cerebellar hypermetria 
+may also result from loss of Purkinje cell inhibition on 
+spinal motor centers.
+A patient with Parkinson disease can, with suffi-
+cient practice, gradually modify his postural responses 
+but has difficulty changing responses when conditions 
+change suddenly. Such postural inflexibility is seen 
+when initial posture changes. For example, when a 
+normal subject switches from standing upright to sit-
+ting on a stool on a movable platform, the pattern of 
+his automatic postural response to backward move-
+ment of the platform changes immediately. Because leg 
+muscle activity is no longer necessary after the switch 
+from standing to sitting, this component ceases to be 
+recruited.
+In contrast, a patient with Parkinson disease 
+employs the same muscle activation pattern for both 
+sitting and standing (Figure 36–15). l-DOPA replace-
+ment therapy does not improve the patient’s ability 
+to switch postural set. With repetition of trials in 
+the seated posture, however, the leg muscle activity 
+eventually disappears, showing that enough expe-
+rience permits adaptation of postural responses. A 
+patient with Parkinson disease also has difficulty 
+when instructed to increase or decrease the magni-
+tude of a postural response, a difficulty that is con-
+sistent with the inability to change cognitive sets 
+quickly.
+Patients with Parkinson disease have problems 
+with postural tone and force generation in addition to 
+
+
+===== Page 4 =====
+Chapter 36 / Posture    903
+Spinocerebellum
+GAS
+TIB
+2
+4
+6
+8
+10
+12
+80
+160
+240
+320
+400
+10
+15
+20
+25
+30
+35
+80
+160
+240
+320
+400
+480
+Translation velocity (cm/s)
+Cerebellar
+damage
+Cerebellar
+damage
+Control
+Control
+Change in torque (nm/s)
+Change in torque (nm/s)
+Translation amplitude (cm)
+Slope > 0
+B  Postural responses to sudden disturbance
+Predictable
+amplitude
+Random
+amplitude
+0
+200
+400
+600
+800
+Time (ms)
+0
+200
+400
+600
+800
+Time (ms)
+4 cm
+Control
+Cerebellar damage
+Platform
+position
+GAS
+TIB
+Platform
+position
+GAS
+TIB
+A  Scaling of postural responses
+1  Task requiring sensory input only
+2  Task requiring adaptation
+Figure 36–14  The spinocerebellum has a role in adapt-
+ing postural responses to changing conditions and in 
+scaling postural responses to anticipated postural distur-
+bances. The spinocerebellum is important for adapting postural 
+responses based on experience. Patients with a spinocerebellar 
+disorder are able to use immediate sensory input, but not  
+experience, to adjust automatic postural responses. (Adapted, 
+with permission, from Horak and Diener 1994.)
+A. 1. In this experiment, subjects stand on a platform that is 
+moved horizontally; the velocity is increased on each trial. Main-
+taining balance requires scaling responses to the velocity of 
+the platform using sensory feedback. The adjustments in a sub-
+ject with a spinocerebellar disorder have the same regression 
+coefficient (slope) as those of a control subject, even though 
+in each trial the responses are larger and more variable than 
+those of the control subject. 2. When subjects are required 
+to anticipate and adapt to platform translation, the postural 
+adjustments in the spinocerebellar subject are compromised. 
+When translation amplitude is random, responses are large, as 
+if the subject expects a large translation. When trials with the 
+same amplitude are repeated, a control subject learns to pre-
+dict the amplitude of the disturbance and adjust his response. 
+In contrast, a spinocerebellar subject shows no improvement in 
+performance; he cannot use his experience in one trial to adjust 
+his responses in subsequent trials. All responses are large, as if 
+the subject always expects the large translation.
+B. In this experiment, subjects stand on a platform that is 
+moved backward (6 cm amplitude at 10 cm/s). In a control 
+subject, the onset of movement evokes a small burst of activ-
+ity in the gastrocnemius (GAS), an ankle extensor. In a subject 
+with damage to the anterior lobe of the cerebellum, the muscle 
+responses are overly large, with bursts of activity alternating 
+between the gastrocnemius and its antagonist, the tibialis  
+anterior (TIB).
+
+
+===== Page 5 =====
+904    Part V / Movement
+PSP
+ABD
+HAM
+QUAD
+GAS
+TIB
+PSP
+ABD
+HAM
+QUAD
+GAS
+TIB
+Upright
+Seated
+Upright
+Seated
+A  Control
+B  Parkinson disease
+PSP
+Time (ms)
+Time (ms)
+Time (ms)
+0
+100
+200
+300
+400
+0
+100
+200
+300
+400
+0
+100
+200
+300
+400
+Time (ms)
+0
+100
+200
+300
+400
+HAM
+GAS
+TIB
+QUAD
+ABD
+Figure 36–15  The basal ganglia are important for adapting 
+postural responses to a sudden change in initial conditions.  
+(Adapted, with permission, from Horak, Nutt, and Nashner 
+1992.)
+A. When a normal subject switches from upright stance to 
+sitting, he immediately modifies his response to backward 
+movement of the support platform. The postural response to 
+movement while seated does not involve the leg muscles—
+the gastrocnemius (GAS) and hamstrings (HAM)—but does 
+activate the paraspinal muscles (PSP) and with shorter latency 
+than in the response to movement while standing. (Abbre-
+viations: ABD, abdominals; QUAD, quadriceps; TIB, tibialis 
+anterior.)
+B. A patient with Parkinson disease does not suppress the leg 
+muscle response in the first trial after switching from standing 
+to sitting. The postural response of this subject is similar for 
+both initial positions: Antagonist muscles (purple) are activated 
+along with agonists (pink).
+
+
+===== Page 6 =====
+Chapter 36 / Posture    905
+an inability to adapt to changing conditions. The dis-
+ease’s bradykinesia (slowness of movement) is reflected 
+in slow development of force in postural responses, 
+and its rigidity is manifested in co-contraction. l-DOPA 
+replacement greatly improves a patient’s ability to gen-
+erate not only forceful voluntary movements but also 
+the accompanying postural adjustments, such as rising 
+onto the toes and gait. However, neither the automatic 
+postural response to an unexpected disturbance nor 
+postural adaptation is improved by l-DOPA, suggest-
+ing that these functions involve the nondopaminergic 
+pathways affected by Parkinson disease.
+Cerebral Cortex Centers Contribute to  
+Postural Control
+Several areas of cerebral cortex influence postural ori-
+entation and equilibrium, including both anticipatory 
+and automatic postural responses. Most voluntary 
+movements, which are initiated in the cerebral cortex, 
+require postural adjustments that must be integrated 
+with the primary goal of the movement in both tim-
+ing and amplitude. Where this integration occurs is 
+not clear.
+The cerebral cortex is more involved in anticipa-
+tory postural adjustments than in automatic postural 
+reactions. However, recent electroencephalographic 
+studies show that areas of cerebral cortex are activated 
+by anticipation of a postural disturbance before an 
+automatic postural response is initiated. This finding is 
+consistent with the idea that the cortex optimizes bal-
+ance control as part of motor planning.
+The supplementary motor area and temporopa-
+rietal cortex have both been implicated in postural 
+control. The supplementary motor area, anterior to 
+the motor cortex, is likely involved with anticipa-
+tory postural adjustments that accompany voluntary 
+movements. The temporoparietal cortex appears to 
+integrate sensory information and may comprise inter-
+nal models for perception of body verticality. Lesions 
+of insular cortex can impair perception of the visual 
+vertical, whereas lesions of superior parietal cortex 
+impair perception of the postural vertical, and either 
+of these defects may impair balance when standing on 
+an unstable support.
+Sensorimotor 
+cortex 
+receives 
+somatosensory 
+inputs signaling balance disturbances and postural 
+responses. However, this region is not essential for 
+automatic postural adjustments. Lesioning the motor 
+cortex in cats impairs lifting of the forelimb in response 
+to a light touch during stance but does not abolish the 
+accompanying postural adjustment in the contralat-
+eral forelimb. Although the sensorimotor cortex is not 
+responsible for postural adjustments, it may have a 
+role in the process.
+Behavioral studies, too, have implicated cortical 
+processes in postural control. Control of posture, like 
+control of voluntary movement, requires attention. 
+When subjects must press a button following a visual 
+or auditory cue while also maintaining balance, their 
+reaction time increases with the difficulty of the task 
+(balancing on one foot versus sitting, for example). 
+Moreover, when subjects try to perform a cognitive 
+task while actively maintaining posture, the perfor-
+mance of either or both can degrade. For example, 
+when a subject is asked to count backward by threes 
+while standing on one foot, both the cognitive task and 
+postural adjustment deteriorate. The timing of auto-
+matic postural responses to unexpected disturbances 
+is little affected by cognitive interference.
+Balance control is also influenced by emotional 
+state, thus implicating the limbic system in posture con-
+trol. Fear of falling, for example, can increase postural 
+tone and stiffness, reduce sway area, increase sway 
+velocity, and alter balancing strategies in response to 
+disturbances.
+Finally, balance control is also influenced by 
+attentional ability and demands, thus implicating the 
+frontoparietal attention network. There is evidence of 
+competition for central processing resources in dual 
+task conditions, where a person must maintain balance 
+and perform a concurrent cognitive task. Both postural 
+control and cognitive performance may be impaired 
+in dual-task conditions as compared to single-task 
+conditions assessing either postural or cognitive per-
+formance in isolation. As cognitive demands increase, 
+responses to postural perturbations are smaller in 
+amplitude and occur at longer latency. However, when 
+necessary, healthy individuals prioritize postural con-
+trol over the cognitive task and demonstrate decreasing 
+cognitive performance as postural demands increase. 
+In contrast, individuals with nervous system disorders 
+such as Parkinson disease may not prioritize postural 
+control in dual-task situations and may be at increased 
+risk for falls in dual-task situations.
+Although the roles of specific areas of cerebral 
+cortex in postural control are largely undefined, there 
+is no doubt that the cortex is important for learning 
+new, complex postural strategies. The cortex must be 
+involved in the amazing improvement in balance and 
+postural orientation of athletes and dancers who use 
+cognitive information and advice from coaches. In fact, 
+the cerebral cortex is involved in postural control each 
+time we consciously maintain our balance while walk-
+ing across a slippery floor, standing on a moving bus, 
+or waiting tables on a rocking ship.
+
+
+===== Page 7 =====
+906    Part V / Movement
+Highlights
+1.	 The two goals of posture are balance and orienta-
+tion. Balance control maintains the body in stable 
+equilibrium to avoid falls. Postural orientation 
+aligns the body segments with respect to each 
+other and to the world, such as maintaining the 
+head vertical.
+2.	 A sudden displacement of the body center of mass 
+while standing triggers ankle, hip, and/or step-
+ping strategies to return the center of mass within 
+the base of foot support.
+3.	 Postural responses are fast and automatic, but 
+adapt quickly to changes in environmental con-
+text, intention, and conditions. Postural responses 
+can also be improved with practice.
+4.	 Activation of centrally organized muscle synergies 
+is used to control balance. This synergy organiza-
+tion simplifies the neural control so only a few 
+central commands are required, instead of a sep-
+arate command for each muscle, while allowing 
+flexibility and adaptability for postural control.
+5.	 Somatosensory, vestibular, and visual sensory 
+modalities are integrated to form an internal rep-
+resentation of the body that the nervous system 
+uses for postural orientation and balance control. 
+Somatosensory signals trigger the fastest, larg-
+est postural responses and are most critical for 
+control of postural sway in standing. Vestibular 
+signals are particularly critical when standing 
+on an unstable surface, when it is difficult to use 
+somatosensory information for postural orienta-
+tion. Visual inputs provide spatial orientation and 
+motion information.
+6.	 The body center of mass is often outside of the 
+base of foot support during walking and running 
+so balance is provided by adjusting foot placement 
+and lateral trunk stability to control the center of 
+mass with respect to the changing base of support.
+7.	 The vestibulocerebellum and the spinocerebellum 
+are interconnected with the vestibular nuclei and 
+reticular formation of the brainstem for control of 
+balance and postural orientation.
+8.	 The basal ganglia are important for control of axial 
+postural tone, adapting postural response strate-
+gies based on initial conditions, and anticipatory 
+postural control. The cerebellum is important for 
+adapting the magnitude of balance responses with 
+practice, over the course of repeated trials, and for 
+scaling the size of postural responses.
+9.	 Posture control involves many brain areas from 
+the brainstem to the frontal cortex, but the spe-
+cific circuits involved in different types of posture 
+control (automatic postural responses, anticipa-
+tory postural adjustments, body sway in stance, 
+sensory integration for a body schema and verti-
+cality) have yet to be determined.
+ Fay B. Horak 
+ Gammon M. Earhart 
+Suggested Reading
+Chiba R, Takakusaki K, Ota J, Yozu A, Haga N. 2016. Human 
+upright posture control models based on multisen-
+sory inputs; in fast and slow dynamics. Neurosci Res 
+104:96–104.
+Cullen KE. 2016. Physiology of central pathways. In: JM Furman, 
+T Lempert (eds). Handbook of Clinical Neurology, vol 137, 
+pp 17–40. New York: Elsevier.
+Dietz V. 1992. Human neuronal control of automatic func-
+tional movements—interaction between central programs 
+and afferent input. Physiol Rev 72:33–69.
+Horak FB. 2006. Postural orientation and equilibrium: what 
+do we need to know about neural control of balance to 
+prevent falls? Age Ageing 35(Suppl 2):ii7–ii11.
+Horak FB, Macpherson JM. 1996. Postural orientation and 
+equilibrium. In: LB Rowell, JT Shepherd (eds). Handbook 
+of Physiology, Section 12, Exercise: Regulation and Integration 
+of Multiple Systems, pp. 255–292. New York: Oxford Univ. 
+Press.
+Macpherson JM, Deliagina TG, Orlovsky GN. 1997. Con-
+trol of body orientation and equilibrium in vertebrates. 
+In: PSG Stein, S Grillner, AI Selverston, DG Stuart (eds). 
+Neurons Networks and Motor Behavior, pp. 257–267.  
+Cambridge, MA: MIT Press.
+Massion J. 1994. Postural control system. Curr Opin Neurobiol 
+4:877–887.
+Woollacott M, Shumway-Cook A. 2002. Attention and the 
+control of posture and gait: a review of an emerging area 
+of research. Gait Posture 16:1–14.
+References
+Beristain X. 2016. Gait. In: Salardini A, Biller J (eds). The 
+Hospital Neurology Book. Beijing, China: McGraw-Hill 
+Education.
+Brandt T, Paulus W, Straube A. 1986. Vision and posture. 
+In: W Bles, T Brandt (eds). Disorders of Posture and Gait, 
+pp. 157–175. Amsterdam: Elsevier.
+Cavallari P, Bolzoni F, Burttinit C, Esposti R. 2016. The organ-
+ization and control of intra-limb anticipatory postural 
+adjustments and their role in movement performance. 
+Front Hum Neurosci 10:525.
+
+
+===== Page 8 =====
+Chapter 36 / Posture    907
+Cordo PJ, Nashner LM. 1982. Properties of postural adjustments 
+associated with rapid arm movements. J Neurophysiol 
+47:287–302.
+Darriot J, Mohsen J, Cullen K. 2015. Rapid adaptation of mul-
+tisensory integration in vestibular pathways. Front Syst 
+Neurosci 16:1–5.
+De Havas J, Gomi H, Haggard P. 2017. Experimental investi-
+gations of control principles of involuntary movement: a 
+comprehensive review of the Kohnstamm phenomenon. 
+Exp Brain Res 235:1953–1997.
+Dunbar DC, Horak FB, Macpherson JM, Rushmer DS. 1986. 
+Neural control of quadrupedal and bipedal stance: impli-
+cations for the evolution of erect posture. Am J Phys 
+Anthropol 69:93–105.
+Gera G, Fling BW, Van Ooteghem K, Cameron M, Frank JS, 
+Horak FB. 2016. Postural motor learning deficits in people 
+with MS in spatial but not temporal control of center of 
+mass. Neurorehabil Neural Repair 30:722–730.
+Gurfinkel VS, Levick YS. 1991. Perceptual and automatic 
+aspects of the postural body scheme. In: J Paillard (ed). 
+Brain and Space, pp. 147–162. Oxford: Oxford Univ. Press.
+Hof AL, Curtze C. 2016. A stricter condition for stand-
+ing balance after unexpected perturbations. J Biomech 
+49:580–585.
+Horak FB, Diener HC. 1994. Cerebellar control of postural scal-
+ing and central set in stance. J Neurophysiol 72:479–493.
+Horak FB, Nashner LM. 1986. Central programming of pos-
+tural movements: adaptation to altered support-surface 
+configurations. J Neurophysiol 55:1369–1381.
+Horak FB, Nutt J, Nashner LM. 1992. Postural inflexibility in 
+parkinsonian subjects. J Neurol Sci 111:46–58.
+Inglis JT, Horak FB, Shupert CL, Jones-Rycewicz C. 1994. The 
+importance of somatosensory information in triggering 
+and scaling automatic postural responses in humans. Exp 
+Brain Res 101:159–164.
+Jacobs JV, Horak FB. 2007. Cortical control of postural 
+responses. J Neural Transm 114:1339–1348.
+Jahn K, Deutschländer A, Stephan T, Strupp M, Wiesmann 
+M, Brandt T. 2004. Brain activation patterns during imag-
+ined stance and locomotion in functional magnetic reso-
+nance imaging. Neuroimage 22:1722–1731.
+Lee WA, Michaels CF, Pai YC. 1990. The organization of 
+torque and EMG activity during bilateral handle pulls by 
+standing humans. Exp Brain Res 82:304–314.
+MacKinnon CD, Winter DA. 1993. Control of whole body 
+balance in the frontal plane during human walking.  
+J Biomech 26:633–644.
+Macpherson JM. 1988. Strategies that simplify the control 
+of quadrupedal stance. 2. Electromyographic activity.  
+J Neurophysiol 60:218–231.
+Macpherson JM, Everaert DG, Stapley PJ, Ting LH. 2007. 
+Bilateral vestibular loss in cats leads to active destabilization 
+of balance during pitch and roll rotations of the support 
+surface. J Neurophysiol 97:4357–4367.
+Macpherson JM, Fung J. 1999. Weight support and bal-
+ance during perturbed stance in the chronic spinal cat. 
+J Neurophysiol 82:3066–3081.
+Maki BE, McIlroy WE. 1997. The role of limb movements 
+in maintaining upright stance: the “change-in-support” 
+strategy. Phys Ther 77:488–507.
+Maurer C, Mergner T, Peterka RJ. 2006. Multisensory control 
+of human upright stance. Exp Brain Res 171:231–250.
+McMahon TA, Bonner JT. 1983. On Size and Life. New York: 
+W.H. Freeman.
+Mittelstaedt H. 1998. Origin and processing of postural infor-
+mation. Neurosci Biobehav Rev 22:473–478.
+Otten W. 1999. Balancing on a narrow ridge: biomechanics 
+and control. Phil Trans R Soc Lond B 354:869–875.
+Peterka RJ. 2002. Sensorimotor integration in human pos-
+tural control. J Neurophysiol 88:1097–1118.
+Peterson DS, Horak FB. 2016. Neural control of walking in 
+people with Parkinsonism. Physiology 3:95–107.
+Rousseaux M, Honore J, Saj A. 2014. Body representations 
+and brain damage. Neurophysiol Clin 44:59–67.
+Stapley PJ, Ting LH, Kuifu C, Everaert DG, Macpherson JM. 
+2006. Bilateral vestibular loss leads to active destabiliza-
+tion of balance during voluntary head turns in the stand-
+ing cat. J Neurophysiol 95:3783–3797.
+Takakusaki K. 2017. Functional neuroanatomy for posture 
+and gait control. J Mov Disord 10:1–17.
+Ting LH, Chiel HJ, Trumbower RD, et al. 2015. Neurome-
+chanical principles underlying movement modularity 
+and their implications for rehabilitation. Neuron 86:38–54.
+
+
+===== Page 9 =====
+37
+The Cerebellum
+The Cerebellum Is Necessary for Motor Learning in 
+Several Different Movement Systems
+Learning Occurs at Several Sites in the Cerebellum
+Highlights
+T
+he cerebellum constitutes only 10%  of the 
+total volume of the brain but contains more than 
+one-half of its neurons. The cerebellar cortex 
+comprises a series of highly regular, repeating units, 
+each of which contains the same basic microcircuit. 
+Different regions of the cerebellum receive projections 
+from distinct brain and spinal structures and then pro-
+ject back to the brain. The similarity of the architecture 
+and physiology in all regions of the cerebellum implies 
+that different regions of the cerebellum perform simi-
+lar computational operations on different inputs.
+The symptoms of cerebellar damage in humans 
+and experimental animals provide compelling evi-
+dence that the cerebellum participates in the control of 
+movement. The symptoms, in addition to being diag-
+nostic for clinicians, thus help define the possible roles 
+of the cerebellum in controlling behavior.
+Several fundamental principles define our under-
+standing of the physiological function of the cerebel-
+lum. First, the cerebellum acts in advance of sensory 
+feedback arising from movement, thus providing feed-
+forward control of muscular contractions. Second, to 
+achieve such control, the cerebellum relies on internal 
+models of the body to process and compare sensory 
+inputs with copies of motor commands. Third, the cer-
+ebellum plays a special role in motor and perceptual 
+timing. Fourth, the cerebellum is critical for adapting 
+Damage of the Cerebellum Causes Distinctive Symptoms  
+and Signs
+Damage Results in Characteristic Abnormalities of 
+Movement and Posture
+Damage Affects Specific Sensory and Cognitive Abilities
+The Cerebellum Indirectly Controls Movement Through 
+Other Brain Structures
+The Cerebellum Is a Large Subcortical Brain Structure
+The Cerebellum Connects With the Cerebral Cortex 
+Through Recurrent Loops
+Different Movements Are Controlled by Functional 
+Longitudinal Zones
+The Cerebellar Cortex Comprises Repeating Functional  
+Units Having the Same Basic Microcircuit
+The Cerebellar Cortex Is Organized Into Three 
+Functionally Specialized Layers
+The Climbing-Fiber and Mossy-Fiber Afferent Systems 
+Encode and Process Information Differently
+The Cerebellar Microcircuit Architecture Suggests a 
+Canonical Computation
+The Cerebellum Is Hypothesized to Perform Several  
+General Computational Functions
+The Cerebellum Contributes to Feedforward 
+Sensorimotor Control
+The Cerebellum  incorporates an Internal Model of the 
+Motor Apparatus
+The Cerebellum Integrates Sensory Inputs and  
+Corollary Discharge
+The Cerebellum Contributes to Timing Control
+The Cerebellum Participates in Motor Skill Learning
+Climbing-Fiber Activity Changes the Synaptic  
+Efficacy of Parallel Fibers
+
+

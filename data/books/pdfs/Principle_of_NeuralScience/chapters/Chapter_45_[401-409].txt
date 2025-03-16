@@ -1,0 +1,967 @@
+===== Page 1 =====
+356    Part III / Synaptic Transmission
+expression of presynaptic Ca2+ channels and 
+synaptotagmins. At some synapses, vesicles and 
+Ca2+ channels appear aligned by an intricate 
+structural network.
+14.  Transmitter release can be modulated intrinsically 
+or extrinsically as an aspect of synaptic plastic-
+ity. Synaptic strength can be strongly influenced 
+intrinsically by the pattern of firing in phenom-
+ena known as “depression” and “facilitation.” In 
+addition, extrinsic neuromodulators can alter the 
+dynamics of release by regulation of Ca2+ channels 
+or events downstream of Ca2+ entry.
+ Steven A. Siegelbaum 
+  Thomas C. Südhof 
+  Richard W. Tsien 
+Selected Reading
+Katz B. 1969. The Release of Neural Transmitter Substances. 
+Springfield, IL: Thomas.
+Lonart G. 2002. RIM1: an edge for presynaptic plasticity. 
+Trends Neurosci 25:329–332.
+Meinrenken CJ, Borst JG, Sakmann B. 2003. Local routes 
+revisited: the space and time dependence of the Ca2+ sig-
+nal for phasic transmitter release at the rat calyx of Held. 
+J Physiol 547:665–689.
+Reid CA, Bekkers JM, Clements JD. 2003. Presynaptic Ca2+ 
+channels: a functional patchwork. Trends Neurosci 
+26:683–687.
+Stevens CF. 2003. Neurotransmitter release at central syn-
+apses. Neuron 40:381–388.
+Südhof TC. 2014. The molecular machinery of neurotrans-
+mitter release (Nobel lecture). Angew Chem Int Ed Engl 
+53:12696–12717.
+References
+Acuna C, Liu X, Südhof TC. 2016. How to make an active 
+zone: unexpected universal functional redundance 
+between RIMs and RIM-BPs. Neuron 91:792–807.
+Akert K, Moor H, Pfenninger K. 1971. Synaptic fine structure. 
+Adv Cytopharmacol 1:273–290.
+Bacaj T, Wu D, Yang X, et al. 2013. Synaptotagmin-1 and -7 
+trigger synchronous and asynchronous phases of neuro-
+transmitter release. Neuron 80:947–959.
+Baker PF, Hodgkin AL, Ridgway EB. 1971. Depolarization and 
+calcium entry in squid giant axons. J Physiol 218:709–755.
+Bollmann JH, Sakmann B, Gerard J, Borst G. 2000. Calcium 
+sensitivity of glutamate release in a calyx-type terminal. 
+Science 289:953–957.
+Borst JG, Sakmann B. 1996. Calcium influx and transmitter 
+release in a fast CNS synapse. Nature 383:431–434.
+Boyd IA, Martin AR. 1956. The end-plate potential in mam-
+malian muscle. J Physiol 132:74–91.
+Chung S, Li X, Nelson SB. 2002. Short-term depression at 
+thalamocortical synapses contributes to rapid adaptation 
+of cortical sensory responses in vivo. Neuron 34:437–446.
+Couteaux R, Pecot-Dechavassine M. 1970. Vésicules synap-
+tiques et poches au niveau des “zones actives” de la jonc-
+tion neuromusculaire. C R Acad Sci Hebd Seances Acad 
+Sci D 271:2346–2349.
+Del Castillo J, Katz B. 1954. The effect of magnesium on the 
+activity of motor nerve endings. J Physiol 124:553–559.
+Dittman JS, Kreitzer AC, Regehr WG. 2000. Interplay 
+between facilitation, depression and residual calcium at 
+three presynaptic terminals. J Neurosci 20:1374–1385.
+Enoki R, Hu YL, Hamilton D, Fine A. 2009. Expression of 
+long-term plasticity at individual synapses in hippocam-
+pus is graded, bidirectional, and mainly presynaptic: opti-
+cal quantal analysis. Neuron 62:242–253.
+Fatt P, Katz B. 1952. Spontaneous subthreshold activity at 
+motor nerve endings. J Physiol 117:109–128.
+Fawcett DW. 1981. The Cell, 2nd ed. Philadelphia: Saunders.
+Fernandez I, Araç D, Ubach J, et al. 2001. Three-dimensional 
+structure of the synaptotagmin 1 C2B-domain: synap-
+totagmin 1 as a phospholipid binding machine. Neuron 
+32:1057–1069.
+Fernandez JM, Neher E, Gomperts BD. 1984. Capacitance 
+measurements reveal stepwise fusion events in degranu-
+lating mast cells. Nature 312:453–455.
+Fernandez-Chacon R, Konigstorfer A, Gerber SH, et al. 2001. 
+Synaptotagmin I functions as a calcium regulator of 
+release probability. Nature 410:41–49.
+Geiger JR, Jonas P. 2000. Dynamic control of presynaptic 
+Ca(2+) inflow by fast-inactivating K(+) channels in hip-
+pocampal mossy fiber boutons. Neuron 28:927–939.
+Geppert M, Goda Y, Hammer RE, et al. 1994. Synaptotagmin 
+I: a major Ca2+ sensor for transmitter release at a central 
+synapse. Cell 79:717–727.
+Harlow LH, Ress D, Stoschek A, Marshall RM, McMahan UJ. 
+2001. The architecture of active zone material at the frog’s 
+neuromuscular junction. Nature 409:479–484.
+Heuser JE, Reese TS. 1981. Structural changes in transmit-
+ter release at the frog neuromuscular junction. J Cell Biol 
+88:564–580.
+Hille B. 2001. Ionic Channels of Excitable Membranes, 3rd ed. 
+Sunderland, MA: Sinauer.
+Kaeser PS, Deng L, Wang Y, et al. 2011. RIM proteins tether 
+Ca2+ channels to presynaptic active zones via a direct 
+PDZ-domain interaction. Cell 144:282–295.
+Kandel ER. 1981. Calcium and the control of synaptic strength 
+by learning. Nature 293:697–700.
+Katz B, Miledi R. 1967a. The study of synaptic transmission 
+in the absence of nerve impulses. J Physiol 192:407–436.
+Katz B, Miledi R. 1967b. The timing of calcium action during 
+neuromuscular transmission. J Physiol 189:535–544.
+Klein M, Shapiro E, Kandel ER. 1980. Synaptic plasticity and 
+the modulation of the Ca2+ current. J Exp Biol 89:117–157.
+
+
+===== Page 2 =====
+Chapter 15 / Transmitter Release    357
+Kretz R, Shapiro E, Connor J, Kandel ER. 1984. Post-tetanic 
+potentiation, presynaptic inhibition, and the modulation 
+of the free Ca2+ level in the presynaptic terminals. Exp 
+Brain Res Suppl 9:240–283.
+Kuffler SW, Nicholls JG, Martin AR. 1984. From Neuron to 
+Brain: A Cellular Approach to the Function of the Nervous 
+System, 2nd ed. Sunderland, MA: Sinauer.
+Lawson D, Raff MC, Gomperts B, Fewtrell C, Gilula NB. 1977. 
+Molecular events during membrane fusion. A study of exo-
+cytosis in rat peritoneal mast cells. J Cell Biol 72:242–259.
+Liley AW. 1956. The quantal components of the mammalian 
+end-plate potential. J Physiol 133:571–587.
+Llinás RR. 1982. Calcium in synaptic transmission. Sci Am 
+247:56–65.
+Llinás RR, Heuser JE. 1977. Depolarization-release coupling 
+systems in neurons. Neurosci Res Program Bull 15:555–687.
+Llinás R, Steinberg IZ, Walton K. 1981. Relationship between 
+presynaptic calcium current and postsynaptic potential in 
+squid giant synapse. Biophys J 33:323–351.
+Lynch G, Halpain S, Baudry M. 1982. Effects of high-frequency 
+synaptic stimulation on glumate receptor binding studied 
+with a modified in vitro hippocampal slice preparation. 
+Brain Res 244:101–111.
+Magee JC, Johnston D. 1997. A synaptically controlled, asso-
+ciative signal for Hebbian plasticity in hippocampal neu-
+rons. Science 275:209–213.
+Magnus CJ, Lee PH, Atasoy D, Su HH, Looger LL, Sternson 
+SM. 2011. Chemical and genetic engineering of selective 
+ion channel-ligand interactions. Science 333:1292–1296.
+Martin AR. 1977. Junctional transmission. II. Presynaptic 
+mechanisms. In: ER Kandel (ed). Handbook of Physiology: A 
+Critical, Comprehensive Presentation of Physiological Knowl-
+edge and Concepts, Sect. 1 The Nervous System, Vol. 1 Cellular 
+Biology of Neurons, Part 1, pp. 329–355. Bethesda, MD: 
+American Physiological Society.
+Monck JR, Fernandez JM. 1992. The exocytotic fusion pore. 
+J Cell Biol 119:1395–1404.
+Neher E. 1993. Cell physiology. Secretion without full fusion. 
+Nature 363:497–498.
+Nicoll RA. 1982. Neurotransmitters can say more than just 
+“yes” or “no.” Trends Neurosci 5:369–374.
+Park M, Penick EC, Edwards JG, Kauer JA, Ehlers MD. 2004. 
+Recycling endosomes supply AMPA receptors for LTP. 
+Science 305:1972–1975.
+Peters A, Palay SL, Webster H deF. 1991. The Fine Structure of 
+the Nervous System: Neurons and Supporting Cells, 3rd ed. 
+Philadelphia: Saunders.
+Redman S. 1990. Quantal analysis of synaptic potentials in neu-
+rons of the central nervous system. Physiol Rev 70:165–198.
+Rhee JS, Betz A, Pyott S, et al. 2002. Beta phorbol ester- and 
+diacylglycerol-induced 
+augmentation 
+of 
+transmitter 
+release is mediated by Munc13s and not by PKCs. Cell 
+108:121–133.
+Rizo J, Südhof TC. 2002. Snares and Munc18 in synaptic vesi-
+cle fusion. Nat Rev Neurosci 3:641–653.
+Robitaille R, Adler EM, Charlton MP. 1990. Strategic loca-
+tion of calcium channels at transmitter release sites of frog 
+neuromuscular synapses. Neuron 5:773–779.
+Schneggenburger R, Neher E. 2000. Intracellular calcium 
+dependence of transmitter release rates at a fast central 
+synapse. Nature 406:889–893.
+Schoch S, Castillo PE, Jo T, et al. 2002. RIM1alpha forms a 
+protein scaffold for regulating neurotransmitter release at 
+the active zone. Nature 415:321–326.
+Schoch S, Deak F, Konigstorfer A, et al. 2001. SNARE func-
+tion analyzed in synaptobrevin/VAMP knockout mice. 
+Science 294:1117–1122.
+Schweizer FE, Betz H, Augustine GJ. 1995. From vesicle 
+docking to endocytosis: intermediate reactions of exocy-
+tosis. Neuron 14:689–696.
+Smith SJ, Augustine GJ, Charlton MP. 1985. Transmission 
+at voltage-clamped giant synapse of the squid: evidence 
+for cooperativity of presynaptic calcium action. Proc Natl 
+Acad Sci U S A 82:622–625.
+Söllner T, Whiteheart SW, Brunner M, et al. 1993. SNAP 
+receptors implicated in vesicle targeting and fusion. 
+Nature 362:318–324.
+Spruce AE, Breckenridge LJ, Lee AK, Almers W. 1990. Prop-
+erties of the fusion pore that forms during exocytosis of a 
+mast cell secretory vesicle. Neuron 4:643–654.
+Sudhof TC. 2004. The synaptic vesicle cycle. Annu Rev 
+Neurosci. 27:509–547.
+Südhof TC. 2013. Neurotransmitter release: the last millisec-
+ond in the life of a synaptic vesicle. Neuron 80:675–690.
+Sun J, Pang ZP, Qin D, Fahim AT, Adachi R, Südhof TC. 2007. 
+A dual-Ca2+-sensor model for neurotransmitter release in a 
+central synapse. Nature 450:676–682.
+Sun JY, Wu LG. 2001. Fast kinetics of exocytosis revealed by 
+simultaneous measurements of presynaptic capacitance 
+and postsynaptic currents at a central synapse. Neuron 30: 
+171–182.
+Sutton RB, Fasshauer D, Jahn R, Brunger AT. 1998. Crystal 
+structure of a SNARE complex involved in synaptic exo-
+cytosis at 2.4 A resolution. Nature 395:347–353.
+Takamori S, Holt M, Stenius K, et al. 2006. Molecular anat-
+omy of a trafficking organelle. Cell 127:831–846.
+von Gersdorff H, Matthews G. 1994. Dynamics of synaptic 
+vesicle fusion and membrane retrieval in synaptic termi-
+nals. Nature 367:735–739.
+Wachman ES, Poage RE, Stiles JR, Farkas DL, Meriney SD. 
+2004. Spatial distribution of calcium entry evoked by 
+single action potentials within the presynaptic active 
+zone. J Neurosci 24:2877–2885.
+Wernig A. 1972. Changes in statistical parameters during 
+facilitation at the crayfish neuromuscular junction. J Physiol 
+226:751–759.
+Whittaker VP. 1993. Thirty years of synaptosome research. J 
+Neurocytol. 22:735–742.
+Zenisek D, Horst NK, Merrifield C, Sterling P, Matthews G. 
+2004. Visualizing synaptic ribbons in the living cell.  
+J Neurosci 24:9752–9759.
+Zhou Q, Zhou P, Wang AL, et al. 2017. The primed SNARE-
+complexin-synaptotagmin complex for neuronal exocyto-
+sis. Nature. 548:420–425.
+Zucker RS. 1973. Changes in the statistics of transmitter 
+release during facilitation. J Physiol 229:787–810.
+
+
+===== Page 3 =====
+16
+Neurotransmitters
+A Chemical Messenger Must Meet Four 
+Criteria to Be Considered a Neurotransmitter
+Before considering the biochemical processes involved 
+in synaptic transmission, it is important to make clear 
+what is meant by a chemical transmitter. The concept is 
+empirical and has changed over the years with increased 
+understanding of synaptic transmission and a corre-
+sponding expansion of signaling agents. The concept that 
+a released chemical could act as a transmitter was intro-
+duced by the British physician George Oliver and his 
+colleague Edward Albert Schaefer, who in 1894 reported 
+that injection of an adrenal gland extract increases blood 
+pressure (Sir Henry Dale claimed that Oliver discovered 
+this by injecting the extract into his own son). The constit-
+uent responsible was independently identified by three 
+laboratories in 1897, and competing claims for priority 
+provide one reason that this transmitter has 38 different 
+names in the Merck Index, including adrenaline (as it was 
+obtained from the adrenal gland) and epinephrine.
+Experiments reported in 1904 by Thomas Elliott, 
+a student in the lab of the physiologist John Langley, 
+are generally credited as the first report of chemical 
+neurotransmission. Elliott concluded that “adrenaline 
+might then be the chemical stimulant liberated on each 
+occasion when the impulse arrives at the periphery.” 
+Not incidentally, Elliott also proposed as early as 1914 
+that nerves could accumulate transmitter by an uptake 
+system, suggesting that adrenal gland signaling might 
+“depend on what could be picked up from the circulat-
+ing blood and stored in its nerve endings,” although 
+uptake mechanisms were not demonstrated until more 
+than 40 years later.
+A Chemical Messenger Must Meet Four Criteria to Be 
+Considered a Neurotransmitter
+Only a Few Small-Molecule Substances Act as Transmitters
+Acetylcholine
+Biogenic Amine Transmitters
+Amino Acid Transmitters
+ATP and Adenosine
+Small-Molecule Transmitters Are Actively Taken Up Into 
+Vesicles
+Many Neuroactive Peptides Serve as Transmitters
+Peptides and Small-Molecule Transmitters Differ in Several 
+Ways
+Peptides and Small-Molecule Transmitters Can Be 
+Co-released
+Removal of Transmitter From the Synaptic Cleft Terminates 
+Synaptic Transmission
+Highlights
+C
+hemical synaptic transmission can be 
+divided into four steps: (1) synthesis and stor-
+age of a transmitter substance, (2) release of 
+the transmitter, (3) interaction of the transmitter with 
+receptors at the postsynaptic membrane, and (4) 
+removal of the transmitter from the synapse. In the 
+previous chapters, we considered steps 2 and 3. We 
+now turn to the initial and final steps of chemical syn-
+aptic transmission: the synthesis and storage of trans-
+mitter molecules and their removal from the synaptic 
+cleft after synaptic action.
+
+
+===== Page 4 =====
+Chapter 16 / Neurotransmitters    359
+In 1913, Arthur Ewins, working with Henry Dale, 
+discovered acetylcholine (ACh) as a component of the 
+ergot fungus. In 1921, Otto Loewi demonstrated that 
+stimulation of the vagus nerve terminals in frog hearts 
+released “vagustoff,” which was later shown to be ACh. 
+Dale and Loewi later shared the Nobel Prize in 1946. 
+The terms cholinergic and adrenergic were introduced 
+to indicate that a neuron makes and releases ACh or 
+norepinephrine (or epinephrine), respectively, the two 
+substances first recognized as neurotransmitters. The 
+term catecholaminergic, encompassing dopamine and 
+the adrenergic transmitters, was derived from one of 
+many natural sources, the catechu tree of India. Since 
+that time, many other substances have been identified 
+as transmitters.
+The first secretory vesicles shown to accumulate 
+and release neurotransmitters were the chromaffin 
+vesicles of the adrenal gland, named in 1902 by Alfred 
+Kohn due to their colorimetric reaction with chro-
+mate. William Cramer later showed that these orga-
+nelles accumulate epinephrine. More recently, Mark 
+Wightman provided direct evidence that these vesicles 
+released epinephrine using carbon fiber electrodes as 
+an electrochemical detector to measure catecholamine 
+molecules released following fusion of chromaffin ves-
+icles with the plasma membrane.
+As a first approximation, a neurotransmitter can 
+be defined as a substance that is released by a neuron 
+that affects a specific target in a specific manner. A tar-
+get can be either another neuron or an effector organ, 
+such as muscle or gland. As with many other opera-
+tional concepts in biology, the concept of a transmitter 
+is not precise. Although the actions of hormones and 
+neurotransmitters are quite similar, neurotransmitters 
+usually act on targets that are close to the site of trans-
+mitter release, whereas hormones are released into the 
+bloodstream to act on distant targets.
+Neurotransmitters typically act on a target other 
+than the releasing neuron itself, whereas substances 
+termed autacoids act on the cell from which they are 
+released. Nevertheless, at many synapses, transmit-
+ters activate not only postsynaptic receptors but also 
+autoreceptors at the presynaptic release site. Autore-
+ceptors usually modulate synaptic transmission that is 
+in progress, for example, by limiting further release of 
+transmitter or inhibiting subsequent transmitter syn-
+thesis. Receptors can also exist on presynaptic release 
+sites that receive synaptic input from another neuron. 
+These receptors function as heteroreceptors that regu-
+late presynaptic excitability and transmitter release 
+(Chapters 13 and 15).
+Following release, the interaction of neurotrans-
+mitters with receptors is typically transient, lasting for 
+periods ranging from less than a millisecond to several 
+seconds. Nevertheless, neurotransmitter actions can 
+result in long-term changes within target cells lasting 
+hours or days, often by activating gene transcription. 
+Moreover, nonneural cells, including astrocytes and 
+microglia, can also synthesize, store, and release neu-
+rotransmitters, as well as express receptors that modu-
+late their own function.
+A limited number of substances of low molecular 
+weight are generally accepted as classical neurotrans-
+mitters, and these exclude many neuropeptides, as well 
+as other substances that are not released by exocytosis. 
+Even so, it is often difficult to demonstrate that a spe-
+cific neurotransmitter operates at a particular synapse, 
+particularly given the diffusion and rapid reuptake or 
+degradation of transmitters at the synaptic cleft.
+A classical neurotransmitter is considered to meet 
+four criteria:
+1.	 It is synthesized in the presynaptic neuron.
+2.	 It is accumulated within vesicles present in pre-
+synaptic release sites and is released via exocyto-
+sis in amounts sufficient to exert a defined action 
+on the postsynaptic neuron or effector organ.
+3.	 When administered exogenously in reasonable 
+concentrations, it mimics the action of the endog-
+enous transmitter (for example, it activates the 
+same ion channels or second-messenger pathway 
+in the postsynaptic cell).
+4.	 A specific mechanism usually exists for remov-
+ing the substance from the extracellular environ-
+ment. This may be the synaptic cleft in the case of 
+“wired” or “private” neurotransmission (in which 
+the action of the substance is limited to a single 
+synapse) or the extrasynaptic space in the case of 
+“volume” or “social” neurotransmission (in which 
+the substance diffuses to multiple synapses).
+The nervous system makes use of two main classes 
+of chemical substances that fit these criteria for signal-
+ing: small-molecule transmitters and neuropeptides. 
+Neuropeptides are short polymers of amino acids pro-
+cessed in the Golgi apparatus, where they are packaged 
+in large dense-core vesicles (approximately 70–250 nm 
+in diameter). Small-molecule transmitters are pack-
+aged in small vesicles (~40 nm in diameter) that are 
+usually electron-lucent. Vesicles are closely associated 
+with specific Ca2+ channels at active zones and release 
+their contents through exocytosis in response to a rise 
+in intracellular Ca2+ evoked by an action potential 
+(Chapter 15). Vesicle membrane is retrieved through 
+endocytosis and recycled locally in the axon to pro-
+duce new synaptic vesicles. Large dense-core vesicles 
+
+
+===== Page 5 =====
+360    Part III / Synaptic Transmission
+Table 16–1  Small-Molecule Neurotransmitter Substances 
+and Their Precursors
+Transmitter
+Precursor
+Acetylcholine
+Choline
+Biogenic amines
+  Dopamine
+  Norepinephrine
+  Epinephrine
+  Octopamine
+  Serotonin
+  Histamine
+  Melatonin
+Tyrosine
+Tyrosine via dopamine
+Tyrosine via norepinephrine
+Tyrosine via tyramine
+Tryptophan
+Histidine
+Tryptophan via serotonin
+Amino acids
+  Aspartate
+  γ-Aminobutyric acid
+  Glutamate
+  Glycine
+Oxaloacetate
+Glutamine
+Glutamine
+Serine
+Adenosine triphosphate 
+(ATP)
+Adenosine diphosphate 
+(ADP)
+Adenosine
+ATP
+Endocannabinoids
+Phospholipids
+Nitric oxide
+Arginine
+can contain both small-molecule transmitters and neu-
+ropeptides and do not undergo local recycling follow-
+ing full fusion with the plasma membrane.
+Both types of vesicles are found in most neurons 
+but in different proportions. Small synaptic vesicles 
+are characteristic of neurons that use ACh, glutamate, 
+γ-aminobutyric acid (GABA), and glycine as transmit-
+ters, whereas neurons that use catecholamines and ser-
+otonin as transmitters often have both small and large 
+dense-core vesicles. The adrenal medulla—the tissue 
+in which most discoveries on secretion were made and 
+still widely used as a model for studying exocytosis—
+contains only large dense-core vesicles that contain 
+both catecholamines and neuroactive peptides.
+Only a Few Small-Molecule Substances  
+Act as Transmitters
+A relatively small number of low-molecular-weight 
+substances are generally accepted as neurotransmit-
+ters. These include ACh, the excitatory amino acid glu-
+tamate, the inhibitory amino acids GABA and glycine, 
+amine containing amino acid derivatives, and adenosine 
+triphosphate (ATP) and its metabolites (Table 16–1). A 
+small set of small molecules, such as the gas nitric oxide 
+lipid metabolites are not released from vesicles and tend 
+to break all of the classical rules (Chapter 14).
+The amine messengers share many biochemical sim-
+ilarities. All are charged small molecules that are formed 
+in relatively short biosynthetic pathways and synthe-
+sized either from essential amino acids or from precur-
+sors derived from the major carbohydrate substrates 
+of intermediary metabolism. Like other pathways of 
+intermediary metabolism, synthesis of these neurotrans-
+mitters is catalyzed by enzymes that, with the notable 
+exception of dopamine β-hydroxylase, are cytosolic. 
+ATP, which originates in mitochondria, is abundantly 
+present throughout the cell.
+As in any biosynthetic pathway, the overall syn-
+thesis of amine transmitters typically is regulated at 
+one rate-limiting enzymatic reaction. The rate-limiting 
+step often is characteristic of one type of neuron and 
+usually is absent in other types of mature neurons. The 
+classical small-molecule neurotransmitters released 
+from a particular neuron are thus determined by their 
+presence in the cytosol due to synthesis and reuptake 
+and to the selectivity of the vesicular transporter.
+Acetylcholine
+Acetylcholine is the only low-molecular-weight amin-
+ergic transmitter substance that is not an amino acid or 
+derived directly from one. The biosynthetic pathway 
+for ACh has only one enzymatic reaction, catalyzed by 
+choline acetyltransferase (step 1 below):
+(1)
+Acetyl CoA + choline
+Acetylcholine
+CH3
+CH2
+C
+O
+CH2
+(CH3)3 + CoA
++
+N
+O
+This transferase is the characteristic and limiting 
+enzyme in ACh biosynthesis. Nervous tissue cannot 
+synthesize choline, which is derived from the diet and 
+delivered to neurons through the bloodstream. The 
+co-substrate, acetyl coenzyme A (acetyl CoA), partici-
+pates in many general metabolic pathways and is not 
+restricted to cholinergic neurons.
+Acetylcholine is released at all vertebrate neu-
+romuscular junctions by spinal motor neurons 
+(Chapter 12). In the autonomic nervous system, it is the 
+transmitter released by all preganglionic neurons and by 
+parasympathetic postganglionic neurons (Chapter 41).  
+Cholinergic neurons form synapses throughout the 
+brain; those in the nucleus basalis have particularly 
+
+
+===== Page 6 =====
+Chapter 16 / Neurotransmitters    361
+widespread projections to the cerebral cortex. Acetyl-
+choline (together with a noradrenergic component) is 
+a principal neurotransmitter of the reticular activating 
+system, which modulates arousal, sleep, wakefulness, 
+and other critical aspects of human consciousness.
+Biogenic Amine Transmitters
+The terms biogenic amine or monoamine, although chem-
+ically imprecise, have been used for decades to desig-
+nate certain neurotransmitters. This group includes the 
+catecholamines and serotonin. Histamine, an imida-
+zole, is also often included with biogenic amine trans-
+mitters, although its biochemistry is remote from the 
+catecholamines and the indolamines.
+Catecholamine Transmitters
+The catecholamine transmitters—dopamine, norepi-
+nephrine, and epinephrine—are all synthesized from 
+the essential amino acid tyrosine in a biosynthetic path-
+way containing five enzymes: tyrosine hydroxylase, 
+pteridine reductase, aromatic amino acid decarboxylase, 
+dopamine β-hydroxylase, and phenylethanolamine-
+N-methyl transferase. Catecholamines contain a catechol 
+nucleus, a 3,4-dihydroxylated benzene ring.
+The first enzyme, tyrosine hydroxylase (step 1  
+below), is an oxidase that converts tyrosine to  
+l-dihydroxyphenylalanine (l-DOPA):
+CH2
+HO
+Tyrosine + O2
+Pt-2H
+Pt
+(1)
+(4)
+L - DOPA
+HO
+C
+COOH
+H
+NH2
+This enzyme is rate-limiting for the synthesis of 
+both dopamine and norepinephrine. A distinct path-
+way is used to synthesize l-DOPA for production of 
+the melanin pigments found throughout the plant and 
+animal kingdoms, while the neuromelanin pigment 
+found in some dopamine and norepinephrine neurons 
+are metabolites of the oxidized neurotransmitters.
+l-DOPA is present in all cells producing cat-
+echolamines, and its synthesis requires a reduced 
+pteridine cofactor, Pt-2H, which is regenerated from 
+pteridine (Pt) by another enzyme, pteridine reduc-
+tase, which uses nicotinamide adenine dinucleotide 
+(NADH) (step 4 above). This reductase is not spe-
+cific to neurons.
+Based on the finding that individuals with Par-
+kinson disease have lost dopamine neurons of the 
+substantia nigra, l-DOPA has been used to restore 
+dopamine and motor function in patients. l-DOPA, 
+whether exogenous or produced by tyrosine hydroxy-
+lase, is decarboxylated by a widespread enzyme 
+known as aromatic amino acid decarboxylase, also 
+called l-DOPA decarboxylase (step 2 below), to yield 
+dopamine and carbon dioxide:
+L - DOPA
+CH2
+CH2
+HO
+(2)
+Dopamine
+HO
+NH2 + CO2
+Interestingly, dopamine was initially thought to 
+be present in neurons only as a precursor to norepi-
+nephrine. That dopamine also functions as a neuro-
+transmitter itself was demonstrated in 1957 by Aarvid 
+Carlsson, who found that rabbits treated with the 
+synaptic vesicle dopamine uptake blocker, reserpine, 
+exhibited floppy ears, but that l-DOPA, under condi-
+tions that produced dopamine but not norepinephrine, 
+restored the normal erect ear posture.
+In adrenergic neurons, the third enzyme in the 
+sequence, dopamine β-hydroxylase (step 3 below), 
+further converts dopamine to norepinephrine:
+OH
+Dopamine
+CH
+CH2
+HO
+(3)
+Norepinephrine
+HO
+NH2
+Unlike all other enzymes in the biosynthetic path-
+ways of small-molecule neurotransmitters, dopamine 
+β-hydroxylase is membrane-associated. It is bound 
+tightly to the inner surface of aminergic vesicles as a 
+peripheral protein. Consequently, norepinephrine is 
+the only transmitter synthesized within vesicles.
+In the central nervous system, norepinephrine is 
+used as a transmitter by neurons with cell bodies in the 
+locus coeruleus, a nucleus of the brain stem with many 
+complex modulatory functions (Chapter 40). Although 
+these adrenergic neurons are relatively few in number, 
+they project widely throughout the cortex, cerebel-
+lum, hippocampus, and spinal cord. In many cases, 
+neurons that release norepinephrine can also release 
+the precursor dopamine, and thus can act at neurons 
+expressing receptors for dopamine or norepinephrine. 
+In the peripheral nervous system, norepinephrine is 
+the transmitter of the postganglionic neurons in the 
+sympathetic nervous system (Chapter 41).
+In addition to these four catecholaminergic biosyn-
+thetic enzymes, a fifth enzyme, phenylethanolamine-
+N-methyltransferase (step 5 below), methylates 
+
+
+===== Page 7 =====
+362    Part III / Synaptic Transmission
+norepinephrine to form epinephrine (adrenaline) in 
+the adrenal medulla:
+OH
+Norepinephrine
+CH2
+CH2
+CH3
+HO
+(5)
+Epinephrine
+HO
+NH
+This reaction requires S-adenosyl-methionine as a 
+methyl donor. The transferase is a cytoplasmic enzyme. 
+Thus, for epinephrine to be formed, its immediate pre-
+cursor norepinephrine must exit from vesicles into the 
+cytoplasm. For epinephrine to be released, it must then 
+be taken back up into vesicles. Only a small number of 
+neurons in the brain use epinephrine as a transmitter.
+The production of these catecholamine neuro-
+transmitters is controlled by feedback regulation of 
+the first enzyme in the pathway, tyrosine hydroxylase 
+(Box 16–1). Not all cells that release catecholamines 
+express all five biosynthetic enzymes, although cells 
+that release epinephrine do. During development, 
+the expression of the genes encoding these synthetic 
+enzymes is independently regulated and the particular 
+catecholamine that is produced by a cell is determined 
+by which enzyme(s) in the step-wise pathway is not 
+Box 16–1  Catecholamine Production Varies With Neuronal Activity
+Norepinephrine neurotransmission is far more active 
+during awake states than sleep or anesthesia, with locus 
+coeruleus noradrenergic neurons nearly silenced dur-
+ing rapid eye movement (REM) sleep. The production 
+of catecholamine is able to keep up with wide variations 
+in neuronal activity because catecholamine synthesis 
+is highly regulated. Circadian changes in extracellular 
+dopamine in the striatum have been suggested to result 
+from altered activity of the dopamine uptake transporter.
+In autonomic ganglia, the amount of norepineph-
+rine in postganglionic neurons is regulated transsynap-
+tically. Activity in the presynaptic neurons, which are 
+both cholinergic and peptidergic, first induces short-
+term changes in second messengers in the postsynaptic 
+adrenergic cells. These changes increase the supply of 
+norepinephrine through the cAMP-dependent phos-
+phorylation of tyrosine hydroxylase, the first enzyme in 
+the catecholamine biosynthetic pathway.
+Phosphorylation enhances the affinity of the hydroxy-
+lase for the pteridine cofactor and diminishes feedback 
+inhibition by end products such as norepinephrine. Phos-
+phorylation of tyrosine hydroxylase lasts only as long as 
+cAMP remains elevated, as the phosphorylated hydroxy-
+lase is quickly dephosphorylated by protein phosphatases.
+If presynaptic activity is sufficiently prolonged, how-
+ever, other changes in the production of norepinephrine 
+will occur. Severe stress to an animal results in intense 
+presynaptic activity and persistent firing of the postsyn-
+aptic adrenergic neuron, placing a greater demand on 
+transmitter synthesis. To meet this challenge, the tyros-
+ine hydroxylase gene is induced to increase transcription 
+and thus production of the protein. Elevated amounts of 
+tyrosine hydroxylase are observed in the cell body within 
+hours after stimulation and at nerve endings days later.
+This induction of increased levels of tyrosine 
+hydroxylase begins with the persistent release of chemi-
+cal transmitters from the presynaptic neurons and pro-
+longed activation of the cAMP pathway in postsynaptic 
+adrenergic cells, which activates the cAMP-dependent 
+protein kinase (PKA). This kinase phosphorylates not 
+only existing tyrosine hydroxylase molecules but also 
+the transcription factor, cAMP response element bind-
+ing protein (CREB).
+Once phosphorylated, CREB binds a specific DNA 
+enhancer sequence called the cAMP-recognition ele-
+ment (CRE), which lies upstream (5′) of the gene for 
+the hydroxylase. Binding of CREB to CRE facilitates 
+the binding of RNA polymerase to the gene’s promoter, 
+increasing tyrosine hydroxylase transcription. Induction 
+of tyrosine hydroxylase was the first known example of 
+a neurotransmitter altering gene expression.
+Based on similarity in portions of the amino acid 
+and nucleic acid sequences encoding three of the bio-
+synthetic enzymes—tyrosine hydroxylase, dopamine 
+β-hydroxylase, and phenylethanolamine-N-methyltrans-
+ferase—it has been suggested that the three enzymes may 
+have arisen from a common ancestral protein. Moreover, 
+long-term changes in the synthesis of these enzymes are 
+coordinately regulated in adrenergic neurons.
+At first, this discovery suggested that the genes 
+encoding these enzymes might be located sequentially 
+along the same chromosome and be controlled by the 
+same promoter, like genes in a bacterial operon. But in 
+humans, the genes for the biosynthetic enzymes for nor-
+epinephrine are not located on the same chromosome. 
+Therefore, coordinate regulation is likely achieved by 
+parallel activation through similar but independent 
+transcription activator systems.
+
+
+===== Page 8 =====
+Chapter 16 / Neurotransmitters    363
+expressed. Thus, neurons that release norepinephrine 
+do not express the methyltransferase, and neurons that 
+release dopamine do not express the transferase or 
+dopamine β-hydroxylase. Some neurons that express 
+tyrosine hydroxylase, and thus produce dopamine, 
+do not express the vesicular monoamine transporter 
+(VMAT), the transporter that accumulates dopamine 
+in synaptic vesicles, and thus do not appear to release 
+dopamine as a transmitter.
+Of the four major dopaminergic nerve tracts, three 
+arise in the midbrain (Chapters 40 and 43). Dopamin-
+ergic neurons in the substantia nigra that project to the 
+striatum are important for the control of movement 
+and are affected in Parkinson disease and other disor-
+ders of movement, but projections to the associative 
+striatum have also been implicated more recently in 
+dopamine dysfunction in schizophrenia. The mesolim-
+bic and mesocortical tracts are critical for affect, emo-
+tion, attention, and motivation and are implicated in 
+drug addiction and schizophrenia. A fourth dopamin-
+ergic tract, the tuberoinfundibular pathway, originates 
+in the arcuate nucleus of the hypothalamus and pro-
+jects to the pituitary gland, where it regulates secretion 
+of hormones (Chapter 41).
+The synthesis of biogenic amines is highly regulated 
+and can be rapidly increased. As a result, the amounts of 
+transmitter available for release can keep up with wide 
+variations in neuronal activity. Mechanisms for regu-
+lating both the synthesis of catecholamine transmitters 
+and the production of enzymes in the step-wise catecho-
+lamine pathway are discussed in Box 16–1.
+Trace amines, naturally occurring catecholamine 
+derivatives, may also serve as transmitters. In inverte-
+brates, the tyrosine derivatives tyramine and octopa-
+mine (so called because it was originally identified in 
+the octopus salivary gland) play key roles in numerous 
+physiological processes including behavioral regula-
+tion. Trace amine receptors also have been identified 
+in mammals, where their functional role is still being 
+characterized. In particular, trace amine-associated 
+receptor 1 (TAAR1) has been shown to modulate 
+aspects of biogenic amine neurotransmission as well 
+as to play a role in the immune system.
+Serotonin
+Serotonin (5-hydroxytryptamine or 5-HT) and the 
+essential amino acid tryptophan from which it is 
+derived belong to a group of aromatic compounds 
+called indoles, with a five-member ring contain-
+ing nitrogen joined to a benzene ring. Two enzymes 
+are needed to synthesize serotonin: tryptophan (Trp) 
+hydroxylase (step 1 below), an oxidase similar to 
+tyrosine hydroxylase, and aromatic amino acid decar-
+boxylase, also called 5-hydroxytryptophan (5-HTP) 
+decarboxylase (step 2 below):
+Try
+CH2
+CH2
+HO
+(1)
+Serotonin
+NH2
+5-HTP
+(2)
+N
+H
+As with the catecholamines, the limiting reaction 
+in serotonin synthesis is catalyzed by the first enzyme 
+in the pathway, tryptophan hydroxylase. Tryptophan 
+hydroxylase is similar to tyrosine hydroxylase not only 
+in catalytic mechanism but also in amino acid sequence. 
+The two enzymes are thought to stem from a common 
+ancestral protein by gene duplication because the two 
+hydroxylases are encoded by genes close together 
+on the same chromosome (tryptophan hydroxylase, 
+11p15.3-p14; tyrosine hydroxylase, 11p15.5). The sec-
+ond enzyme in the pathway, 5-hydroxytryptophan 
+decarboxylase, is identical to l-DOPA decarboxylase. 
+Enzymes with similar activity, l-aromatic amino acid 
+decarboxylases, are present in nonnervous tissues as well.
+The cell bodies of serotonergic neurons are found 
+in and around the midline raphe nuclei of the brain 
+stem and are involved in regulating affect, attention, 
+and other cognitive functions (Chapter 40). These cells, 
+like the noradrenergic cells in the locus coeruleus, 
+project widely throughout the brain and spinal cord. 
+Serotonin and the catecholamines norepinephrine 
+and dopamine are implicated in depression, a major 
+mood disorder. Antidepressant medications inhibit 
+the uptake of serotonin, norepinephrine, and dopa-
+mine, thereby increasing the magnitude and duration 
+of the action of these transmitters, which in turn leads 
+to altered cell signaling and adaptations (Chapter 61).
+Histamine
+Histamine, derived from the essential amino acid histi-
+dine by decarboxylation, contains a characteristic five-
+member ring with two nitrogen atoms. It has long been 
+recognized as an autacoid, active when released from 
+mast cells in the inflammatory reaction and in the con-
+trol of vasculature, smooth muscle, and exocrine glands 
+(eg, secretion of highly acidic gastric juice). Histamine 
+is a transmitter in both invertebrates and vertebrates. It 
+is concentrated in the hypothalamus, one of the brain 
+centers for regulating the secretion of hormones 
+(Chapter 41). The decarboxylase catalyzing its synthe-
+sis (step 1 below), although not extensively analyzed, 
+appears to be characteristic of histaminergic neurons.
+
+
+===== Page 9 =====
+364    Part III / Synaptic Transmission
+Histidine
+(1)
+CH2
+CH2
+Histamine
+NH2 + CO2
+N
+HN
+As described in the next section, the biogenic 
+amines are loaded into synaptic and secretory vesicles 
+by two transporters, VMAT1, mostly in peripheral cells, 
+and VMAT2, mostly in the central nervous system. As 
+the transporters are not selective for a given biogenic 
+amine, a mixture of transmitters can be present. Some 
+neurons co-release dopamine with norepinephrine, 
+whereas secretory vesicles from the adrenal medulla 
+can co-release epinephrine and norepinephrine.
+Amino Acid Transmitters
+In contrast to acetylcholine and the biogenic amines, 
+which are not intermediates in general metabolic path-
+ways and are produced only in certain neurons, the 
+amino acids glutamate and glycine are not only neu-
+rotransmitters but also universal cellular constituents. 
+Because they can be synthesized in neurons and other 
+cells, neither is an essential amino acid.
+Glutamate, the neurotransmitter most frequently 
+used at excitatory synapses throughout the central 
+nervous system, is produced from α-ketoglutarate, an 
+intermediate in the tricarboxylic acid cycle of inter-
+mediary metabolism. After it is released, glutamate is 
+taken up from the synaptic cleft by specific transporters 
+in the membrane of both neurons and glia (see later). 
+The glutamate taken up by astrocytes is converted  
+to glutamine by the enzyme glutamine synthase. This 
+glutamine is transported back into neurons that use 
+glutamate as a transmitter, where it is hydrolyzed  
+to glutamate by the enzyme glutaminase. Cytoplasmic 
+glutamate is then loaded into synaptic vesicles by the 
+vesicular glutamate transporter, VGLUT.
+Glycine is the major transmitter used by inhibitory 
+interneurons of the spinal cord. It is also a necessary 
+cofactor for activation of the N-methyl-d-aspartate 
+(NMDA) glutamate receptors (Chapter 13). Glycine is 
+synthesized from serine by the mitochondrial form of 
+the serine hydroxymethyltransferase. The amino acid 
+GABA is synthesized from glutamate in a reaction cat-
+alyzed by glutamic acid decarboxylase (step 1 below):
+CH2
+CH2
+H2N
+CH
+COOH
+COOH
+(1)
+Glutamate
+CH2
+CH2
++ CO2
+H2N
+CH2
+COOH
+GABA
+GABA is present at high concentrations through-
+out the central nervous system and is detectable in 
+other tissues. It is used as a transmitter by an impor-
+tant class of inhibitory interneurons in the spinal cord. 
+In the brain, GABA is the major transmitter of a wide 
+array of inhibitory neurons and interneurons. Both 
+GABA and glycine are loaded into synaptic vesicles 
+by the same transporter, VGAT, and thus can be co-
+released from the same vesicles.
+ATP and Adenosine
+ATP and its degradation products (eg, adenosine) act 
+as transmitters at some synapses by binding to several 
+classes of G protein–coupled receptors (the P1 and P2Y 
+receptors). ATP can also produce excitatory actions by 
+binding to ionotropic P2X receptors. Caffeine’s stim-
+ulatory effects depend on its inhibition of adenosine 
+binding to the P1 receptors. Adenine and guanine and 
+their sugar-containing derivatives are called purines; 
+the evidence for transmission at purinergic receptors 
+is especially strong for autonomic neurons that inner-
+vate the vas deferens, bladder, and muscle fibers of the 
+heart; for nerve plexuses on smooth muscle in the gut; 
+and for some neurons in the brain. Purinergic trans-
+mission is particularly important for nerves mediating 
+pain (Chapter 20).
+ATP released by tissue damage acts to transmit 
+pain sensation through one type of ionotropic purine 
+receptor present on the terminals of peripheral axons 
+of dorsal root ganglion cells that act as nociceptors. 
+ATP released from terminals of the central axons of 
+these dorsal root ganglion cells excites another type 
+of ionotropic purine receptor on neurons in the dor-
+sal horn of the spinal cord. ATP and other nucleo-
+tides also act at the family of P2Y G protein–coupled 
+receptors to modulate various downstream signaling 
+pathways.
+Small-Molecule Transmitters Are Actively 
+Taken Up Into Vesicles
+Common amino acids act as transmitters in some neu-
+rons but not in others, indicating that the presence of 
+a substance in a neuron, even in substantial amounts, 
+is not in itself sufficient evidence that the substance is 
+used as a transmitter. For example, at the neuromus-
+cular junction of the lobster (and other arthropods), 
+GABA is inhibitory and glutamate is excitatory. The 
+concentration of GABA is approximately 20 times 
+greater in inhibitory cells than in excitatory cells, 
+
+

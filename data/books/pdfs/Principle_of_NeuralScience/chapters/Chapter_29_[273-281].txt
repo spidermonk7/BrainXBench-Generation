@@ -1,0 +1,774 @@
+===== Page 1 =====
+228    Part II / Cell and Molecular Biology of Cells of the Nervous System
+A-type current is formed primarily by Kv4 family 
+α-subunits, which form channels that inactivate over a 
+range of time scales from a few milliseconds to tens of 
+milliseconds. Kv1 channels that include Kv1.4 subunits 
+or the auxiliary subunit Kvβ1 also mediate an inactivat-
+ing component of current, which is highly expressed in 
+some nerve terminals as well as some cell bodies.
+As is the case for Na+ channels and Cav3 family 
+channels, A-type K+ current not only inactivates dur-
+ing large depolarizations but is also subject to steady-
+state inactivation by small depolarizations from rest, 
+providing a mechanism by which its amplitude can be 
+modulated by small voltage changes around resting 
+potential (see Figure 10–15B).
+Kv7 subunits form non-inactivating channels that 
+require only small depolarizations from rest to be acti-
+vated and can even be activated significantly at the 
+resting potential. In some neurons, Kv7 channels are 
+downregulated by the transmitter acetylcholine acting 
+through muscarinic G protein–coupled receptors (thus 
+the origin of an alternative name of “M-current”). Kv7 
+channels typically activate relatively slowly, over tens 
+of milliseconds, and provide little current during a sin-
+gle action potential but tend to suppress firing of sub-
+sequent action potentials (Chapter 14).
+The KCNH gene family consists of three subfami-
+lies of voltage-gated K+ channels (Kv10, Kv11, and 
+Figure 10–13  Different voltage dependence and kinetics of 
+major classes of mammalian voltage-activated potassium 
+channels.
+A. Simplified generalization of the voltage dependence and 
+kinetics of the major voltage-gated K+ families. Because Kv1, 
+Kv4, and Kv7 channels can be activated by relatively small 
+depolarizations, they often help control action potential (AP) 
+threshold. Kv2 and Kv3 channels require larger depolariza-
+tions to be activated. Kv1, Kv3, and Kv4 channels are activated 
+relatively rapidly, whereas Kv7 and Kv2 channels are activated 
+more slowly.
+B. Simplified generalization of the differing activation times 
+of the major components of delayed rectifier K+ channels 
+during an action potential. Kv1 channels require small depo-
+larizations and are activated rapidly, sometimes significantly 
+in advance of the action potential. Kv3 channels require large 
+depolarizations and are activated late in the rising phase of 
+the action potential and deactivated very rapidly thereafter. 
+Kv2 channels are activated relatively slowly during the fall-
+ing phase of the action potential and remain open during the 
+afterhyperpolarization. (Adapted, with permission, from  
+Johnston et al. 2010.)
+–30 mV
+–70 mV
+–30 mV
+0 mV
+–70 mV
+–30 mV
+0 mV
+–70 mV
+–90 mV
+Fast kinetics
+Slow kinetics
+High voltage-activated
+(AP repolarization)
+Delayed rectiﬁer activity during an AP
+Low voltage-activated
+(AP threshold-responses)
+Kv3
+Kv1
+Kv1
+Kv3
+Kv2
+Kv4
+Kv2
+Kv7
+B
+A
+Kv12), which are also expressed in the brain. They 
+influence resting potential, action potential threshold, 
+and frequency and pattern of firing.
+Voltage-Gated Hyperpolarization-Activated Cyclic 
+Nucleotide-Gated Channels
+Many neurons have cation channels that are slowly 
+activated by hyperpolarization. This sensitivity to 
+hyperpolarization is enhanced when intracellular 
+cyclic nucleotides bind to the channel. Because these 
+hyperpolarization-activated cyclic nucleotide-gated 
+(HCN) channels have only two of the four negative 
+binding sites found in the selectivity filter of K+ chan-
+nels, they are permeable to both K+ and Na+ and have 
+a reversal potential around −40 to −30 mV. As a result, 
+hyperpolarization from rest, as during strong synaptic 
+inhibition or following an action potential, opens the 
+channels to generate an inward depolarizing current 
+referred to as Ih (see Figure 10–15D).
+Gating of Ion Channels Can Be Controlled  
+by Cytoplasmic Calcium
+In a typical neuron, the opening and closing of certain 
+ion channels can be modulated by various cytoplas-
+mic factors, thus affording the neuron’s excitability 
+
+
+===== Page 2 =====
+Chapter 10 / Propagated Signaling: The Action Potential    229
+properties greater flexibility. Changes in the levels of 
+such cytoplasmic factors can result from the activity of 
+the neuron itself or from the influences of other neu-
+rons (Chapters 14 and 15).
+Intracellular Ca2+ concentration is one important 
+factor that modulates ion channel activity. Although 
+ionic currents through membrane channels during an 
+action potential generally do not result in appreciable 
+changes in the intracellular concentrations of most ion 
+species, calcium is a notable exception to this rule. The 
+concentration of free Ca2+ in the cytoplasm of a rest-
+ing cell is extremely low, about 10−7 M, several orders 
+of magnitude below the external Ca2+ concentration, 
+which is approximately 2 mM. Thus, intracellular Ca2+ 
+concentration may increase many-fold above its rest-
+ing value as a result of voltage-gated Ca2+ influx.
+Intracellular Ca2+ concentration controls the gating 
+of a number of channels. Several kinds of channels are 
+activated by increases in intracellular Ca2+. For example, 
+the Ca2+-activated BK channels (named for their big  
+single-channel conductance), which are widely expressed 
+in neurons, are voltage-dependent K+ channels that 
+require a very large, nonphysiological depolarization to 
+open in the absence of Ca2+. The binding of Ca2+ to a site 
+on the cytoplasmic surface of the channel shifts its volt-
+age gating to allow the channel to open at more nega-
+tive potentials. With the influx of Ca2+ during an action 
+potential, BK channels can open and help repolarize the 
+action potential. Another family of calcium-activated K+ 
+channels, the SK channels (named for their small single-
+channel conductance), are not voltage dependent but 
+open only in response to increases in intracellular Ca2+. 
+SK channels can open in response to relatively small 
+changes in intracellular Ca2+ but gate slowly, so their 
+activation gradually builds up as more Ca2+ enters the 
+cell during repeated action potential firing. Some Ca2+ 
+channels are themselves sensitive to levels of intracel-
+lular Ca2+, becoming inactivated when intracellular Ca2+ 
+increases as a result of entry through the channel itself.
+As is described in later chapters, changes in the 
+intracellular concentration of Ca2+ can also influence a 
+variety of cellular metabolic processes, as well as neu-
+rotransmitter release and gene expression.
+Excitability Properties Vary Between  
+Types of Neurons
+Through the expression of a distinct complement of ion 
+channels, the electrical properties of different neuronal 
+types have evolved to match the dynamic demands of 
+information processing. Thus, the function of a neuron 
+is defined not only by its synaptic inputs and outputs 
+but also by its intrinsic excitability properties.
+Different types of neurons in the mammalian nerv-
+ous system generate action potentials that have differ-
+ent shapes and fire in different characteristic patterns, 
+reflecting different expression of voltage-gated chan-
+nels. For example, cerebellar Purkinje neurons and 
+GABAergic cortical interneurons are associated with 
+high levels of expression of Kv3 channels. The rapid 
+activation of these channels produces narrow action 
+potentials. In dopaminergic and other monoaminergic 
+neurons, there is a high level of expression of voltage-
+activated Ca2+ channels that open during the falling 
+phase of the action potential. The inward Ca2+ current 
+from these channels slows repolarization, resulting in 
+broader action potentials.
+In the squid axon, the action potential is followed 
+by an afterhyperpolarization (see Figure 10–7). In some 
+mammalian neurons, the afterhyperpolarization has 
+slow components lasting tens or even hundreds of mil-
+liseconds, generated by calcium-activated K+ channels 
+or voltage-activated K+ channels with slow deactiva-
+tion kinetics. Slow afterhyperpolarizations mediated 
+by SK channels can be enhanced by repeated action 
+potentials, reflecting buildup in intracellular Ca2+ 
+concentrations.
+In many pyramidal neurons in the cortex and 
+hippocampus, the action potential is followed by an 
+afterdepolarization, a transient depolarization that some-
+times follows an earlier faster afterhyperpolarization. 
+If the afterdepolarization is large enough, it can trigger 
+a second action potential, resulting in all-or-none burst 
+firing. The afterdepolarization can be caused by a vari-
+ety of ionic currents, including Na+ and Ca2+ currents 
+from a number of voltage-dependent channels.
+The shape of the action potential in a neuron is not 
+always invariant. In some cases it can be dynamically 
+regulated either intrinsically (eg, by repetitive firing) or 
+extrinsically (eg, by synaptic modulation) (Chapter 15).
+The pattern of action potential firing evoked by 
+depolarization varies widely between neurons. The 
+input-output function of a neuron can be character-
+ized by the frequency and pattern of action potential 
+firing in response to a series of current injections of dif-
+ferent magnitudes. In the mammalian cerebral cortex, 
+glutamatergic pyramidal neurons typically fire rap-
+idly at the beginning of the current pulse followed by  
+progressive slowing of firing, a pattern known as 
+adaptation (Figure 10–14A). In contrast, many GABAergic 
+interneurons fire with very little change in frequency 
+(Figure 10–14B). Other neurons have more complex 
+firing patterns. Some pyramidal neurons in the cer-
+ebral cortex tend to fire with an initial burst of action 
+potentials (Figure 10–14C); “chattering” cells respond 
+with repetitive brief bursts of high-frequency firing 
+(Figure 10–14D).
+
+
+===== Page 3 =====
+230    Part II / Cell and Molecular Biology of Cells of the Nervous System
+Figure 10–14  Different firing patterns in four types of corti-
+cal neurons. Three steps of depolarizing current, each of differ-
+ent amplitude, were injected into each cell to evoke  
+firing. (Adapted, with permission, from Nowak et al. 2003.)
+A. A cortical neuron with a firing pattern typical of many gluta-
+matergic cortical pyramidal neurons, illustrating characteristic 
+adaptation.
+B. A firing pattern typical of many GABAergic interneurons, 
+illustrating maintained high-frequency repetitive firing.
+C. Firing in an intrinsically bursting neuron, a subtype of pyrami-
+dal neuron in cortical layer II/III.
+D. Firing in a chattering cell, a subtype of pyramidal neuron in 
+cortical layer V.
+E. Firing frequency versus stimulus current for these four cell 
+types, showing their different sensitivities to increasing stimu-
+lus strength.
+40 mV
+40 mV
+0.5 nA
+1 nA
+0.8 nA
+0.8 nA
+100 ms
+Fast spiking
+Stimulus current
+Firing frequency
+Chattering
+Intrinsically bursting
+Regular spiking
+A
+B
+C
+E
+D
+Chattering
+Fast spiking
+Intrinsically bursting
+Regular spiking
+
+
+===== Page 4 =====
+Chapter 10 / Propagated Signaling: The Action Potential    231
+The sensitivity of these four classes of neurons 
+to excitatory input can also be characterized by their 
+frequency–current relationships. The fast spiking neu-
+rons are the most sensitive to increases in depolarizing 
+excitatory current.
+Some neurons can sustain repetitive firing at high 
+frequencies up to 500 Hz. Such fast-spiking neurons 
+occur throughout the mammalian central nervous sys-
+tem, including many principal neurons in the auditory 
+system, where neurons must respond to sound waves 
+of very high frequencies. The ability to fire repetitively 
+at high frequencies is correlated with high expression 
+levels of Kv3 family channels, which produce rapid 
+repolarization and close extremely rapidly following 
+repolarization, resulting in a minimal afterhyperpo-
+larization and a brief refractory period.
+The different firing patterns of neurons can be 
+understood in terms of the expression and gating prop-
+erties of particular channels. For example, adaptation 
+of firing frequency during a maintained current pulse 
+can be produced by activation of particular Kv1 fam-
+ily channels, which are strongly activated following 
+an action potential and thus impede firing of a subse-
+quent spike (Figure 10–15A). Because many channels 
+are controlled by a process of inactivation that regu-
+lates their availability for activation, synaptic inputs 
+that produce small voltage changes around the resting 
+potential can greatly modify the cell’s excitability. For 
+example, in some neurons, a steady hyperpolarizing 
+synaptic input makes the cell less excitable by reduc-
+ing the extent of inactivation of the A-type K+ chan-
+nels at the normal resting potential of the cell (Figure 
+10–15B). In other neurons, such a steady hyperpolari-
+zation makes the cell more excitable because it reduces 
+the inactivation of Cav3 voltage-gated Ca2+ channels 
+(Figure 10–15C).
+A surprisingly large number of neurons in the 
+mammalian brain fire spontaneously in the absence 
+of any synaptic input. When such activity is regular 
+and rhythmic, it is often referred to as “pacemak-
+ing,” by analogy to the rhythmic spontaneous firing 
+of the cardiac pacemaker in the sinoatrial node of the 
+heart. Many neurons that release modulatory neu-
+rotransmitters, such as dopamine, serotonin, nor-
+epinephrine, and acetylcholine, fire spontaneously, 
+typically at frequencies of 0.5 to 5 Hz, resulting in 
+constant tonic release of transmitter in the target 
+areas of the neuron.
+One mechanism causing spontaneous firing is 
+exemplified by neurons in the suprachiasmatic nucleus 
+of the hypothalamus, which helps control the circadian 
+rhythm of overall metabolism and the sleep–wake cycle. 
+These neurons fire spontaneously, with faster firing 
+during the daytime than the nighttime (Chapter 44).  
+Pacemaking in these cells is driven in part by sub-
+threshold persistent Na+ current, a small voltage-
+dependent current which flows through Na+ channels 
+at voltages as negative as −70 mV. This current can 
+slowly depolarize the neuron to the point where a fast 
+action potential fires (Figure 10–15E). In the same neu-
+rons, there are non–voltage-dependent channels that 
+conduct Na+ “leak” current, which depolarizes the 
+cells into the voltage range where voltage-dependent 
+persistent Na+ current is activated. The higher expres-
+sion level in the cell membrane of such Na+ leakage 
+channels during the daytime leads to the day–night 
+difference in firing rate.
+In dopaminergic neurons of the substantia nigra, 
+pacemaking is unusual in being driven partly by 
+voltage-dependent Ca2+ currents. The continual entry 
+of Ca2+ during the lifetime of the neurons may contrib-
+ute to metabolic stress associated with death of these 
+neurons in Parkinson disease (Chapter 63).
+Excitability Properties Vary Between  
+Regions of the Neuron
+Different regions of a neuron have different types 
+of ion channels that support the specialized func-
+tions of each region. The axon, for example, func-
+tions as a relatively simple relay line. In contrast, 
+the input, integrative, and output regions of a neu-
+ron typically perform more complex processing of 
+the information they receive before passing it along 
+(Chapter 3).
+The trigger zone at the axon initial segment has 
+the lowest threshold for action potential generation, 
+in part because it has an exceptionally high density 
+of voltage-gated Na+ channels. In addition, it typi-
+cally has voltage-gated ion channels that are sensitive 
+to relatively small deviations from the resting poten-
+tial. These channels thus play a critical role in trans-
+forming graded synaptic or receptor potentials into a 
+train of all-or-none action potentials. Channels highly 
+expressed at the axon initial segment of many neurons 
+include Nav1.6, Kv1, Kv7, and low voltage-activated 
+T-type Ca2+ channels.
+Dendrites in many types of neurons have voltage-
+gated ion channels, including Ca2+, K+, HCN, and Na+ 
+channels (Chapter 13). When activated, these channels 
+help shape the amplitude, time course, and propaga-
+tion of the synaptic potentials to the cell body. In some 
+neurons, the density of voltage-gated channels in the 
+dendrites is sufficient to support local action poten-
+tials, typically with relatively high threshold voltages. 
+
+
+===== Page 5 =====
+232    Part II / Cell and Molecular Biology of Cells of the Nervous System
+B  Delayed ﬁring
+–55 mV
+50 mV
+50 ms
+1 s
+5 nA
+0.5 nA
+20
+mV
+–75 mV
+Delay
+Vm
+Vm
+Vm
+IK,A
+IKv1
+Istim
+IKv1
+ICa
+Ih
+ICa
+ICa
+Istim
+Istim
+IK,A
+Istim
+1
+2
+1
+2
+A  Adaptation
+D  Bursting neuron
+E  Suprachiasmatic nucleus pacemaking
+    neuron
++100 nM α-Dendrotoxin
+Control
+C  Potential-dependent
+ 
+excitability
+20
+mV
+20
+mV
+200 ms
+500 ms
+–60 mV
+0.3 nA
+200 ms
+1
+2
+Plateau
+potential
+Voltage-dependent
+Na+ current
+Na+ leak current
+Vm (mV)
+–80
+–60
+–40
+–20
+0
+20
+I (pA)
+–10
+–8
+–6
+–4
+–2
+0
+Figure 10–15  Regulation of firing pattern by a variety of 
+voltage-gated channels.
+A. Activation of Kv1 channels normally prevents firing of a sec-
+ond action potential by increasing spike threshold in a mouse 
+dorsal root ganglion neuron (1). Blocking Kv1 channels with 
+the snake toxin α-dendrotoxin changes the firing pattern from 
+strong adaptation to maintained repetitive firing in response to 
+a steady stimulating current (Istim) (2). (Data from Pin Liu.)
+B. Injection of a depolarizing current pulse (Istim) into a neuron in 
+the nucleus tractus solitarius normally triggers an immediate train 
+of action potentials (1). If the cell is first held at a hyperpolarized 
+membrane potential, the spike train is delayed (2). The delay is 
+caused when A-type K+ channels are activated by the depolarizing 
+current pulse. The channels generate a transient outward K+ cur-
+rent, IK,A, that briefly slows the approach of Vm to threshold. These 
+channels typically are inactivated at the resting potential (–55 mV), 
+but steady hyperpolarization removes the inactivation. (Adapted 
+with permission, from Dekin and Getting 1987.)
+C. A small depolarizing current pulse injected into a thalamic 
+neuron at rest generates a subthreshold depolarization (1). If 
+the membrane potential is held at a hyperpolarized level, the 
+same current pulse triggers a burst of action potentials (2). 
+The effectiveness of the current pulse is enhanced because 
+the hyperpolarization causes a type of voltage-gated Ca2+ chan-
+nel to recover from inactivation. Depolarizing inward current 
+through these Ca2+ channels (ICa) generates a plateau potential 
+of about 20 mV that triggers a burst of action potentials. The 
+dashed line indicates the level of the normal resting poten-
+tial. (Adapted with permission, from Llinás and Jahnsen 1982.)
+   The data in parts B and C demonstrate that steady hyper-
+polarization, such as might be produced by inhibitory synaptic 
+input to a neuron, can profoundly affect the spike train pattern 
+of a neuron. This effect varies greatly among cell types and 
+depends on the presence or absence of particular types of 
+voltage-gated Ca2+ and K+ channels.
+D. In the absence of synaptic input, thalamocortical relay neu-
+rons can fire spontaneously in brief bursts of action potentials. 
+These bursts are produced by current through two types of 
+voltage-gated ion channels. The gradual depolarization that 
+leads to a burst is driven by inward current (Ih) through HCN 
+channels, which open in response to hyperpolarization. The 
+burst is triggered by an inward Ca2+ current through voltage-
+gated Cav3 channels, which are activated at relatively low 
+levels of depolarization. This Ca2+ influx generates sufficient 
+depolarization to reach threshold and drive a brief burst of Na+-
+dependent action potentials. The strong depolarization during 
+the burst causes the HCN channels to close and inactivates the 
+Ca2+ channels, allowing hyperpolarization to develop between 
+bursts of firing. This hyperpolarization then opens the HCN 
+channels, initiating the next cycle in the rhythm. (Adapted, with 
+permission, from McCormick and Huguenard 1992.)
+E. Neurons from the suprachiasmatic nucleus of the hypothal-
+amus generate spontaneous pacemaker potentials. Following 
+an action potential, the neuron spontaneously depolarizes, 
+first slowly and then more rapidly, resulting in another action 
+potential. The depolarization is driven by two inward Na+  
+currents during the interspike interval. One is “persistent 
+Na+ current,” which flows through voltage-dependent sodium 
+channels sensitive to block by tetrodotoxin, probably the same 
+population of channels that underlie the much larger sodium 
+current during the upstroke of the action potential. The sec-
+ond current flows through non–voltage-activated sodium leak 
+nonselective (NALCN) channels, which provide a steady con-
+ductance pathway for Na+ and K+ ions. At negative voltages, 
+Na+ driving force is large and K+ driving force is small, so the 
+leak current is carried predominantly by Na+ ions. This inward 
+current depolarizes the neuron to the point at which voltage-
+dependent persistent Na+ current becomes dominant (around 
+–60 mV). (Adapted, with permission, from Jackson et al. 2004. 
+Copyright © 2004 Society for Neuroscience.)
+
+
+===== Page 6 =====
+Chapter 10 / Propagated Signaling: The Action Potential    233
+With moderate synaptic stimulation, full-blown action 
+potentials are first generated at the trigger zone at the 
+initial segment of the axon and then propagate back 
+into the dendrites, serving as a signal to the synaptic 
+regions that the cell has fired.
+Conduction of the action potential down the 
+axon is mediated primarily by voltage-gated Na+ 
+and K+ channels that function much like those in 
+the squid axon. In myelinated axons, the nodes of 
+Ranvier have a high density of Na+ channels but a 
+low density of voltage-activated K+ channels. There 
+is a higher density of voltage-activated K+ chan-
+nels under the myelin sheath near the two ends of 
+each internodal segment. The normal function of 
+these K+ channels is to suppress generation of action 
+potentials in portions of the axon membrane under 
+the myelin sheath. In demyelinating diseases, these 
+channels become exposed and thus may inhibit the 
+ability of the bare axon to conduct action potentials 
+(Chapters 9 and 57).
+Presynaptic nerve terminals at chemical synapses 
+have a high density of voltage-gated Ca2+ channels, 
+most commonly Cav2.1 (P/Q-type) channels, Cav2.2 
+(N-type) channels, or a mixture of the two. Arrival of 
+an action potential in the terminal opens these chan-
+nels, causing an influx of Ca2+ that triggers transmitter 
+release (Chapter 15).
+Neuronal Excitability Is Plastic
+The expression, localization, and functional state of 
+voltage-gated ion channels controlling the rate and 
+pattern of action potential firing in a particular neu-
+ron are not always fixed, but can change in response 
+to changes in the neuron’s synaptic input, its activity, 
+or its environment, as well as in response to injury or 
+disease. For example, synaptic input that causes chan-
+nel phosphorylation via second messenger pathways 
+can lead to transient changes in a channel’s functional 
+properties, which in turn modulate cell excitability 
+(Chapter 14). Plasticity can also occur on a longer time 
+scale, such as when increased activity of a neuronal 
+network as a whole leads to decreased excitability of 
+individual neurons—a homeostatic feedback system. 
+In some cases, activity-induced structural changes, 
+such as change in length of the axon initial segment 
+or its migration relative to the soma, can also affect 
+excitability. The molecular mechanisms of homeostatic 
+changes in neuronal excitability are not well under-
+stood but likely involve intracellular calcium signaling 
+pathways that control transcription or cellular traf-
+ficking of specific ion channels. Dysfunction of such 
+regulatory pathways may underlie some types of epi-
+lepsy and hyperexcitability associated with conditions 
+such as neuropathic pain.
+Highlights
+  1.  An action potential is a transient depolariza-
+tion of membrane voltage lasting about 1 ms 
+that is produced when ions move across the cell 
+membrane through voltage-gated channels and 
+thereby change the charge separation across the 
+membrane.
+  2.  The depolarizing phase of the action potential 
+results from rapid, regenerative opening of 
+voltage-activated Na+ channels. Repolarization 
+is due to inactivation of Na+ channels and activa-
+tion of K+ channels.
+  3.  The sharp threshold for action potential gen-
+eration occurs at a voltage at which inward Na+ 
+channel current just exceeds outward currents 
+through leak channels and voltage-gated K+ 
+channels.
+  4.  The refractory period reflects Na+ channel inacti-
+vation and K+ channel activation continuing after 
+the action potential. The refractory period limits 
+the action potential firing rate.
+  5.  The conformational changes of channel proteins 
+underlying voltage-dependent activation and 
+inactivation are not yet completely understood, 
+but key regions involved in channel gating have 
+been identified.
+  6.  Voltage-gated sodium channels select for sodium 
+on the basis of size, charge, and energy of hydra-
+tion of the ion.
+  7.  Most neurons express multiple kinds of voltage-
+gated Na+, Ca2+, K+, HCN, and Cl− channels, with 
+especially large diversity in the properties of K+ 
+channels.
+  8.  The diversity of voltage-dependent channels 
+reflects the expression of multiple genes, forma-
+tion of heteromeric channels from multiple gene 
+products, alternative splicing of gene transcripts, 
+mRNA editing, and combination of pore-forming 
+subunits with a variety of accessory proteins.
+  9.  Activity of some voltage-gated ion channels can 
+be modulated by cytoplasmic Ca2+.
+10.  The diversity in expression of voltage-gated ion 
+channels results in differences in excitability 
+properties of different types of neurons and in 
+different regions of the same neuron.
+11.  The regional expression and functional state of 
+ion channels can be regulated in response to cell 
+
+
+===== Page 7 =====
+234    Part II / Cell and Molecular Biology of Cells of the Nervous System
+activity, changes in cell environment, or patho-
+logical processes, resulting in plasticity of the 
+intrinsic excitability of neurons.
+ Bruce P. Bean 
+  John D. Koester 
+Selected Reading
+Ahern CA, Payandeh J, Bosmans F, Chanda B. 2016. The 
+hitchhiker’s guide to the voltage-gated sodium channel 
+galaxy. J Gen Physiol 147:1–24.
+Armstrong CM, Hille B. 1998. Voltage-gated ion channels 
+and electrical excitability. Neuron 20:371–380.
+Bezanilla F. 2008. How membrane proteins sense voltage. 
+Nat Rev Mol Cell Biol 9:323–332.
+Duménieu M, Oulé M, Kreutz MR, Lopez-Rojas J. 2017. The 
+segregated expression of voltage-gated potassium and 
+sodium channels in neuronal membranes: functional 
+implications and regulatory mechanisms. Front Cell Neu-
+rosci 11:115.
+Hille B. 2001. Ion Channels of Excitable Membranes, 3rd ed. 
+Sunderland, MA: Sinauer.
+Hodgkin AL. 1992. Chance & Design: Reminiscences of Science 
+in Peace and War. Cambridge: Cambridge Univ. Press.
+Johnston J, Forsythe ID, Kopp-Scheinpflug C. 2010. Going 
+native: voltage-gated potassium channels controlling 
+neuronal excitability. J Physiol 588:3187–3200.
+Llinás RR. 1988. The intrinsic electrophysiological properties 
+of mammalian neurons: insights into central nervous sys-
+tem function. Science 242:1654–1664.
+Rudy B, McBain C. 2001. Kv3 channels: voltage-gated K+ 
+channels designed for high-frequency repetitive firing. 
+Trends Neurosci 24:517–526.
+Turrigiano GG, Nelson SB. 2004. Homeostatic plasticity in the 
+developing nervous system. Nat Rev Neurosci 5:97–107.
+Vacher H, Mohapatra DP, Trimmer JS. 2008. Localization and 
+targeting of voltage-dependent ion channels in mamma-
+lian central neurons. Physiol Rev 88:1407–1447.
+References
+Aplizar SA, Cho H, Hoppa M. 2019. Subcellular control of 
+membrane excitability in the axon. Curr Opin Neurobiol 
+57:117–125.
+Armstrong CM, Gilly WF. 1979. Fast and slow steps in the 
+activation of sodium channels. J Gen Physiol 59:691–711.
+Battefeld A, Tran BT, Gavrilis J, Cooper EC, Kole MH. 2014. 
+Heteromeric Kv7.2/7.3 channels differentially regulate 
+action potential initiation and conduction in neocortical 
+myelinated axons. J Neurosci 34:3719–3732.
+Bauer CK, Schwarz JR. 2018. Ether-à-go-go K+ channels: 
+effective modulators of neuronal excitability. J Physiol 
+(Lond) 596:769–783.
+Bender KJ, Trussell LO. 2012. The physiology of the axon ini-
+tial segment. Annu Rev Neurosci 35:249–265.
+Capes DL, Goldschen-Ohm MP, Arcisio-Miranda M,  
+Bezanilla F, Chanda B. 2013. Domain IV voltage-sensor 
+movement is both sufficient and rate limiting for fast inac-
+tivation in sodium channels. J Gen Physiol 142:101–112.
+Carrasquillo Y, Nerbonne JM. 2014. IA channels: diverse regu-
+latory mechanisms. Neuroscientist 20:104–111.
+Catterall WA. 1988. Structure and function of voltage-sensitive 
+ion channels. Science 242:50–61.
+Catterall WA. 2010. Ion channel voltage sensors: structure, 
+function, and pathophysiology. Neuron 67:915–928.
+Catterall WA. 2011. Voltage-gated calcium channels. Cold 
+Spring Harb Perspect Biol 3:a003947.
+Catterall WA, Few AP. 2008. Calcium channel regulation and 
+presynaptic plasticity. Neuron 59:882–8901.
+Cole KS, Curtis HJ. 1939. Electric impedance of the squid 
+giant axon during activity. J Gen Physiol 22:649–670.
+Dekin MS, Getting PA. 1987. In vitro characterization of neu-
+rons in the vertical part of the nucleus tractus solitarius. 
+II. Ionic basis for repetitive firing patterns. J Neurophysiol 
+58:215–229.
+Erisir A, Lau D, Rudy B, Leonard CS. 1999. Function of spe-
+cific K+ channels in sustained high-frequency firing of 
+fast-spiking neocortical interneurons. J Neurophysiol 
+82:2476–2489.
+Flourakis M, Kula-Eversole E, Hutchison AL, et al. 2015. A 
+conserved bicycle model for circadian clock control of 
+membrane excitability. Cell 162:836–848.
+Hodgkin AL, Huxley AF. 1952. A quantitative description of 
+membrane current and its application to conduction and 
+excitation in nerve. J Physiol 117:500–544.
+Hodgkin AL, Katz B. 1949. The effect of sodium ions on the 
+electrical activity of the giant axon of the squid. J Physiol 
+108:37–77.
+Isom LL, DeJongh KS, Catterall WA. 1994. Auxiliary subunits 
+of voltage-gated ion channels. Neuron 12:1183–1194.
+Jackson AC, Yao GL, Bean BP. 2004. Mechanism of spontane-
+ous firing in dorsomedial suprachiasmatic nucleus neu-
+rons. J Neurosci 24:7985–7998.
+Joseph A, Turrigiano GG. 2017. All for one but not one for 
+all: excitatory synaptic scaling and intrinsic excitability 
+are coregulated by CaMKIV, whereas inhibitory syn-
+aptic scaling is under independent control. J Neurosci 
+37:6778–6785.
+Kaczmarek LK. 2012. Gradients and modulation of K+ chan-
+nels optimize temporal accuracy in networks of auditory 
+neurons. PLoS Comput Biol 8:e1002424.
+Kole MH, Ilschner SU, Kampa BM, Williams SR, Ruben PC, 
+Stuart GJ. 2008. Action potential generation requires a 
+high sodium channel density in the axon initial segment. 
+Nat Neurosci 11:178–186.
+Lee C-H, MacKinnon R. 2017. Structures of the human HCN1 
+hyperpolarization-activated channel. Cell 168:111–120.
+
+
+===== Page 8 =====
+Chapter 10 / Propagated Signaling: The Action Potential    235
+Llinás R, Jahnsen H. 1982. Electrophysiology of mammalian 
+thalamic neurones in vitro. Nature 297:406–408.
+McCormick DA, Connors BW, Lighthall JW, Prince DA. 
+1985. Comparative electrophysiology of pyramidal and 
+sparsely spiny stellate neurons of the neocortex. J Neuro-
+physiol 54:782–806.
+McCormick DA, Huguenard JR. 1992. A model of electro-
+physiological properties of thalamocortical relay neurons. 
+J Neurophysiol 68:1384–1400.
+Nowak LG, Azouz R, Sanchez-Vives MV, Gray CM,  
+McCormick DA. 2003. Electrophysiological classes of cat 
+primary visual cortical neurons in vivo as revealed by 
+quantitative analyses. J Neurophysiol 89:1541–1566.
+Pan X, Li Z, Zhou Q, et al. 2018. Structure of the human 
+voltage-gated sodium channel Na(v)1.4 in complex with 
+β1. Science 362:eaau2486.
+Payandeh J, Scheuer T, Zheng N, Catterall WA. 2011. The 
+crystal structure of a voltage-gated sodium channel. 
+Nature 475:353–359.
+Proft J, Weiss N. 2015. G protein regulation of neuronal 
+calcium channels: back to the future. Mol Pharmacol 
+87:890–906.
+Puopolo M, Raviola E, Bean BP. 2007. Roles of subthresh-
+old calcium current and sodium current in spontaneous 
+firing of mouse midbrain dopamine neurons. J Neurosci 
+27:645–656.
+Sigworth FJ, Neher E. 1980. Single Na+ channel currents 
+observed in cultured rat muscle cells. Nature 287:447–449.
+Tai C, Abe Y, Westenbroek RE, Scheuer T, Catterall WA. 
+2014. 
+Impaired 
+excitability 
+of 
+somatostatin- 
+and  
+parvalbumin-expressing cortical interneurons in a mouse 
+model of Dravet syndrome. Proc Natl Acad Sci U S A 
+111:E3139–E3148.
+Tateno T, Harsch A, Robinson HP. 2004. Threshold firing 
+frequency-current relationships of neurons in rat soma-
+tosensory cortex: type 1 and type 2 dynamics. J Neuro-
+physiol 92:2283–2294.
+Vassilev PM, Scheuer T, Catterall WA. 1988. Identification 
+of an intracellular peptide segment involved in sodium 
+channel inactivation. Science 241:1658–1661.
+Yamada R, Kuba H. 2016, Structural and functional plastic-
+ity at the axon initial segment. Front Cell Neurosci 10:250.
+Yang N, George AL Jr, Horn R. 1996. Molecular basis of 
+charge movement in voltage-gated sodium channels. 
+Neuron 16:113–122.
+Yu FH, Catterall WA. 2003. Overview of the voltage-gated 
+sodium channel family. Genome Biol 4:207.
+
+
+===== Page 9 =====
+This page intentionally left blank 
+
+

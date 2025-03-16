@@ -1,0 +1,451 @@
+Question,Answer,Chapter,Book
+"Synapse organization was traditionally thought to be dynamic, with changes occurring over a few seconds.",FALSE,1,Organic_Synthesis_2008
+Bulk approaches allow observation of dynamic reorganization of synaptic components in large numbers of molecules simultaneously.,TRUE,1,Organic_Synthesis_2008
+"The first single-molecule technique used in synaptic biology was the patch-clamp recording, which measures spatial distribution over time.",FALSE,1,Organic_Synthesis_2008
+Single molecule imaging reveals that synaptic molecules can move and alter their diffusive behavior over short time scales.,TRUE,1,Organic_Synthesis_2008
+Fluorescence recovery after photobleaching (FRAP) is a technique that measures the movement of entire molecules in the entire domain.,FALSE,1,Organic_Synthesis_2008
+Synaptic molecular composition reflects a dynamic balance between subcellular compartments.,TRUE,1,Organic_Synthesis_2008
+Lateral diffusion exclusively governs neurotransmitter receptor entry and exit from synapses.,FALSE,1,Organic_Synthesis_2008
+Tracking techniques now allow scientists to observe receptor movements with sub-wavelength precision.,TRUE,1,Organic_Synthesis_2008
+Excitatory and inhibitory synapse plasticity does not depend on receptor diffusion across membranes.,FALSE,1,Organic_Synthesis_2008
+Proteomics has revealed that the postsynaptic density (PSD) contains hundreds of potential associated proteins.,TRUE,1,Organic_Synthesis_2008
+The NMDA receptor requires the simultaneous binding of glutamate and glycine for activation.,TRUE,2,Organic_Synthesis_2008
+"AMPA, kainate, and NMDA receptors are all categorized as ionotropic glutamate receptors.",TRUE,2,Organic_Synthesis_2008
+"NMDA receptor activation involves a voltage-dependent block by Mg²⁺, which is relieved upon depolarization.",TRUE,2,Organic_Synthesis_2008
+NMDA receptors are tetrameric assemblies typically made up of two NR1 and two NR2 subunits.,TRUE,2,Organic_Synthesis_2008
+Glycine and glutamate binding domains in NMDA receptors form a hinged clamshell structure.,TRUE,2,Organic_Synthesis_2008
+Synapse diversity can be observed through serial section transmission electron microscopy (ssTEM).,TRUE,3,Organic_Synthesis_2008
+"The term 'tripartite synapse' refers to a structure composed of a presynaptic axon, postsynaptic dendrite, and a synaptic vesicle.",FALSE,3,Organic_Synthesis_2008
+"In the hippocampus, dendritic spines can vary more than 10-fold in size.",TRUE,3,Organic_Synthesis_2008
+Mushroom spines in dendrites are exclusively found in the cerebellum.,FALSE,3,Organic_Synthesis_2008
+Presynaptic vesicles only contain excitatory neurotransmitters such as glutamate.,FALSE,3,Organic_Synthesis_2008
+Inhibitory synapses tend to have thinner presynaptic densities compared to excitatory synapses.,TRUE,3,Organic_Synthesis_2008
+Perisynaptic astroglial processes are found in nearly all synapses in the cerebellum but less than 50% of synapses in the hippocampus.,TRUE,3,Organic_Synthesis_2008
+Smooth endoplasmic reticulum (SER) is equally present in all hippocampal dendritic spines.,FALSE,3,Organic_Synthesis_2008
+Synaptic plasticity can dynamically regulate endosomal and SER organelles in dendritic spines.,TRUE,3,Organic_Synthesis_2008
+The postsynaptic density (PSD) does not correlate with synaptic vesicle numbers or spine volume.,FALSE,3,Organic_Synthesis_2008
+Long-term potentiation (LTP) weakens synaptic transmission over time.,FALSE,4,Organic_Synthesis_2008
+LTP is a process observed at glutamatergic synapses in the CA1 region of the hippocampus.,TRUE,4,Organic_Synthesis_2008
+A typical experiment to measure LTP involves inducing synaptic activity with low-frequency stimulation.,FALSE,4,Organic_Synthesis_2008
+A tetanus is a high-frequency stimulation used to induce LTP.,TRUE,4,Organic_Synthesis_2008
+"In brain-slice preparations, LTP typically lasts less than one hour.",FALSE,4,Organic_Synthesis_2008
+LTP can persist for at least a year in living animals.,TRUE,4,Organic_Synthesis_2008
+Learning experiences can prevent subsequent experimental induction of LTP in the hippocampus.,TRUE,4,Organic_Synthesis_2008
+The size of the EPSP in LTP experiments can increase by as much as 100% but not more.,FALSE,4,Organic_Synthesis_2008
+Long-term depression (LTD) is another term for long-term potentiation.,FALSE,4,Organic_Synthesis_2008
+Experimental evidence suggests a connection between LTP and memory formation.,TRUE,4,Organic_Synthesis_2008
+Dendritic spines act as neuronal microcompartments that are diffusively connected to their parent dendrites.,FALSE,5,Organic_Synthesis_2008
+"Spine Ca2+ accumulations can trigger synaptic plasticity, including both long-term potentiation (LTP) and long-term depression (LTD).",TRUE,5,Organic_Synthesis_2008
+Voltage-sensitive calcium channels (VSCCs) are not involved in Ca2+ influx into dendritic spines.,FALSE,5,Organic_Synthesis_2008
+Two-photon excitation laser scanning microscopy (TPLSM) enables high-resolution imaging of dendritic spines in intact brain slices.,TRUE,5,Organic_Synthesis_2008
+AMPA receptors (AMPARs) containing the GluR2 subunit have high calcium permeability.,FALSE,5,Organic_Synthesis_2008
+NMDA-type glutamate receptor activation requires only glutamate binding to enable Ca2+ influx.,FALSE,5,Organic_Synthesis_2008
+Ca2+ signals in Purkinje cells are primarily mediated by NMDA receptors.,FALSE,5,Organic_Synthesis_2008
+"Stubby spines lack a spine neck, making them difficult to resolve from their parent dendrites using two-photon microscopy.",TRUE,5,Organic_Synthesis_2008
+Genetically encoded Ca2+ indicators (GECIs) produce larger and faster responses compared to synthetic Ca2+ indicators.,FALSE,5,Organic_Synthesis_2008
+"Long-term potentiation (LTP) is typically associated with synaptic activity at higher frequencies, while LTD is linked to lower-frequency transmission.",TRUE,5,Organic_Synthesis_2008
+Synaptic vesicles (SVs) range in size from 30–50 nm in diameter within the presynaptic nerve terminal.,TRUE,6,Organic_Synthesis_2008
+"""Kiss and run"" fusion refers to a permanent fusion of synaptic vesicles with the plasma membrane.",FALSE,6,Organic_Synthesis_2008
+Cholesterol represents approximately 40% of the total lipid content of synaptic vesicles.,TRUE,6,Organic_Synthesis_2008
+The α-ear domain of AP-2 interacts with DPF/W motifs but not WXXF-acidic motifs.,FALSE,6,Organic_Synthesis_2008
+Synaptotagmin I serves as a key Ca2+ sensor in synaptic vesicle exocytosis.,TRUE,6,Organic_Synthesis_2008
+"F-BAR domains create curvature by inserting amphiphilic helices into the lipid bilayer, similar to ENTH domains.",FALSE,6,Organic_Synthesis_2008
+Dynamin generates a twisting motion driven by GTP hydrolysis to mediate vesicle fission.,TRUE,6,Organic_Synthesis_2008
+Auxilin recruits Hsc70 for the uncoating of clathrin-coated vesicles at an early stage of vesicle formation.,FALSE,6,Organic_Synthesis_2008
+Synaptojanin mutations can cause an accumulation of uncoated vesicles in neuronal synapses.,FALSE,6,Organic_Synthesis_2008
+The primary Ca2+ entry pathways in ribbon synapses are CaV2.1 and CaV2.2 channels.,FALSE,6,Organic_Synthesis_2008
+AMPA and kainate receptors are types of glutamate receptor ion channels that mediate excitatory responses in the brain.,TRUE,7,Organic_Synthesis_2008
+The structure of ionotropic glutamate receptors (iGluRs) was well understood when their genes were first cloned in the 1980s.,FALSE,7,Organic_Synthesis_2008
+iGluRs are modular proteins with domains that share structural similarities with bacterial proteins.,TRUE,7,Organic_Synthesis_2008
+AMPA receptors typically assemble as pentamers to form functional ion channels.,FALSE,7,Organic_Synthesis_2008
+The ligand binding domain of iGluRs functions despite being split into two halves by the membrane-embedded ion channel segment.,TRUE,7,Organic_Synthesis_2008
+The "Venus flytrap" mechanism of the bacterial periplasmic binding proteins provided a precedent for understanding iGluR activation.,TRUE,7,Organic_Synthesis_2008
+"In AMPA receptors, the agonist binding site resides at the interface between subunits, similar to cys-loop ligand-gated ion channels.",FALSE,7,Organic_Synthesis_2008
+"Desensitization of iGluRs occurs when the dimer interface undergoes a collapse, despite glutamate still being bound.",TRUE,7,Organic_Synthesis_2008
+The deletion of the amino-terminal domain (ATD) in AMPA receptors disrupts both activation and desensitization.,FALSE,7,Organic_Synthesis_2008
+Structural studies suggest that partial agonists trigger a smaller degree of ligand binding domain closure compared to full agonists.,TRUE,7,Organic_Synthesis_2008
+"Among all types of epilepsy, limbic epilepsy is the most devastating and accounts for 60% of all epilepsies.",FALSE,8,Organic_Synthesis_2008
+Antiseizure drugs provide symptomatic relief but fail to prevent or cure epilepsy.,TRUE,8,Organic_Synthesis_2008
+"In the kindling model, repeated focal seizures triggered by low-intensity electrical stimulations can lead to progressively more severe seizures.",TRUE,8,Organic_Synthesis_2008
+The "dentate gate" in the hippocampal formation completely prevents seizure propagation in patients with limbic epilepsy.,FALSE,8,Organic_Synthesis_2008
+CA3 pyramidal cells are particularly prone to seizure activity due to their sparse excitatory synaptic connections.,FALSE,8,Organic_Synthesis_2008
+High-frequency stimulation of mossy fibers induces LTP of mossy fiber-CA3 synapses and LTD of mossy fiber-interneuron synapses simultaneously.,TRUE,8,Organic_Synthesis_2008
+The activation of TrkB signaling is not required for LTP at mossy fiber-CA3 synapses.,FALSE,8,Organic_Synthesis_2008
+"Studies suggest that neurogenesis of granule cells accelerates after limbic seizures, but the impact of this on excitability is still uncertain.",TRUE,8,Organic_Synthesis_2008
+Interneurons in stratum lucidum are highly resistant to death in models of status epilepticus.,FALSE,8,Organic_Synthesis_2008
+The dentate granule cells primarily serve an inhibitory role in limiting the spread of seizures through the hippocampal circuitry.,TRUE,8,Organic_Synthesis_2008
+The trafficking of molecular components is critical for the development of synaptic plasticity.,TRUE,9,Organic_Synthesis_2008
+"The postsynaptic density is composed of receptors, scaffold proteins, and signaling molecules.",TRUE,9,Organic_Synthesis_2008
+Dendritic spines can simultaneously connect to more than one presynaptic terminal.,TRUE,9,Organic_Synthesis_2008
+Long-term potentiation (LTP) and depression (LTD) are functions of synaptic plasticity involving postsynaptic receptor trafficking.,TRUE,9,Organic_Synthesis_2008
+Recycling endosomes are involved in the rapid reinsertion of postsynaptic receptors into the plasma membrane.,TRUE,9,Organic_Synthesis_2008
+Excitatory synapses in the brain are mostly localized on dendritic spines.,TRUE,10,Organic_Synthesis_2008
+Inhibitory synapses are typically localized on dendritic spines instead of the dendritic shaft.,FALSE,10,Organic_Synthesis_2008
+"Dendritic spines contain the postsynaptic density (PSD), which is rich in receptors, scaffold proteins, and signaling molecules.",TRUE,10,Organic_Synthesis_2008
+Dendrites lack the ability to modify their molecular composition based on patterns of neural activity and developmental stages.,FALSE,10,Organic_Synthesis_2008
+"Neurons possess surface areas up to 10,000 times greater than typical mammalian cells.",TRUE,10,Organic_Synthesis_2008
+The postsynaptic density (PSD) is primarily located at presynaptic terminals.,FALSE,10,Organic_Synthesis_2008
+Synaptic plasticity and neural development require specialized mechanisms for long-range molecular transport in dendrites.,TRUE,10,Organic_Synthesis_2008
+Dendritic spines are not involved in forming contacts with presynaptic terminals.,FALSE,10,Organic_Synthesis_2008
+The molecular compartmentalization of neurons contributes to spatially restricted functions such as neurotransmitter release and postsynaptic responses.,TRUE,10,Organic_Synthesis_2008
+Dendrites do not require rapid and localized trafficking of postsynaptic proteins for synaptic plasticity.,FALSE,10,Organic_Synthesis_2008
+Long-term potentiation (LTP) can increase the strength of synapses in the hippocampus by as much as 800%.,TRUE,11,Organic_Synthesis_2008
+LTP induction at CA1 synapses depends exclusively on AMPA receptor activation.,FALSE,11,Organic_Synthesis_2008
+Hebbian plasticity involves both presynaptic activity and substantial postsynaptic depolarization.,TRUE,11,Organic_Synthesis_2008
+Postsynaptic protein synthesis and phosphorylation of AMPA receptors contribute to LTP expression.,TRUE,11,Organic_Synthesis_2008
+Activation of D1 dopamine receptors is required for the late phase of LTP.,TRUE,11,Organic_Synthesis_2008
+AMPA receptors are responsible for most of the excitatory currents during basal neuronal activity.,TRUE,12,Organic_Synthesis_2008
+NMDA receptors are active at resting membrane potential.,FALSE,12,Organic_Synthesis_2008
+AMPA receptor subunit GluR4 is predominantly expressed during early postnatal development.,TRUE,12,Organic_Synthesis_2008
+AMPA receptors are assembled in the cytosol and directly trafficked to synapses.,FALSE,12,Organic_Synthesis_2008
+Synaptic plasticity is implicated in cognitive functions such as learning and memory.,TRUE,12,Organic_Synthesis_2008
+TARPs are exclusively involved in the intracellular trafficking of AMPA receptors.,FALSE,12,Organic_Synthesis_2008
+Myosin Vb mediates GluR1 subunit-specific transport from the cell body to the dendrites.,TRUE,12,Organic_Synthesis_2008
+Rab5 is primarily responsible for the activity-dependent postsynaptic delivery of AMPARs during LTP.,FALSE,12,Organic_Synthesis_2008
+GluR2 subunits play a role in constitutive cycling of AMPA receptors at the synapse.,TRUE,12,Organic_Synthesis_2008
+NMDA receptors require only glutamate for activation.,FALSE,12,Organic_Synthesis_2008
+Glutamate is removed from the extracellular space primarily through enzymatic degradation.,FALSE,13,Organic_Synthesis_2008
+The regulation of quantal size involves changes in vesicle size and the lumenal concentration of neurotransmitter.,TRUE,13,Organic_Synthesis_2008
+The primary source of glutamate in synaptic transmission is its synthesis from glucose in the presynaptic neuron.,FALSE,13,Organic_Synthesis_2008
+Vesicular glutamate transporter 3 (VGLUT3) is found primarily in known excitatory neurons.,FALSE,13,Organic_Synthesis_2008
+The vacuolar H+ pump generates the electrochemical gradient necessary for glutamate transport into synaptic vesicles.,TRUE,13,Organic_Synthesis_2008
+"EAAT2 is the most abundant glutamate transporter in the cerebellum, essential for maintaining synapse specificity.",FALSE,13,Organic_Synthesis_2008
+GLAST is the major glutamate transporter expressed in Bergmann glial cells of the cerebellum.,TRUE,13,Organic_Synthesis_2008
+"Postsynaptic glutamate transporters, such as EAAT4, are critical in regulating the activation of perisynaptic metabotropic glutamate receptors (mGluRs) in Purkinje cells.",TRUE,13,Organic_Synthesis_2008
+"EAAT5 transporters primarily function as glutamate transporters in the retina, efficiently clearing extracellular glutamate.",FALSE,13,Organic_Synthesis_2008
+Astrocytes play a central role in glutamate clearance at synapses through their high expression of EAAT1 and EAAT2.,TRUE,13,Organic_Synthesis_2008
+Synaptic vesicle fusion is typically driven by calcium influx triggered by action potential-mediated depolarization of a presynaptic nerve terminal.,TRUE,14,Organic_Synthesis_2008
+"Oligodendrocytes and Schwann cells ensheath axons to form myelin, which supports synaptic communication.",TRUE,14,Organic_Synthesis_2008
+"At chemical synapses, the postsynaptic density (PSD) is responsible for converting chemical signals back into electrical impulses.",TRUE,14,Organic_Synthesis_2008
+Synapsin is a phosphoprotein that helps tether synaptic vesicles in presynaptic boutons and its association with vesicles is regulated by phosphorylation.,TRUE,14,Organic_Synthesis_2008
+"Liprin-alpha (SYD-2) has a key role in presynaptic assembly and AZ organization in multiple species, including mammals and invertebrates.",TRUE,14,Organic_Synthesis_2008
+Homeostatic synaptic plasticity ensures neurons maintain stable function in the face of developmental or activity-dependent changes.,TRUE,15,Organic_Synthesis_2008
+Hebbian plasticity strengthening synaptic inputs always leads to network stability.,FALSE,15,Organic_Synthesis_2008
+"""Homeostatic plasticity"" uses negative feedback mechanisms to stabilize neural activity.",TRUE,15,Organic_Synthesis_2008
+Homeostatic synaptic plasticity affects only excitatory synapses in the neuronal circuits.,FALSE,15,Organic_Synthesis_2008
+Synaptic scaling adjusts all of a neuron’s excitatory synapses proportionally to stabilize firing.,TRUE,15,Organic_Synthesis_2008
+Reductions in visual input hyperactivate cortical neurons due to increased excitatory synapse numbers without affecting inhibitory synapses.,FALSE,15,Organic_Synthesis_2008
+"At the neuromuscular junction, compensatory changes in synaptic function can occur without muscle contraction.",TRUE,15,Organic_Synthesis_2008
+Brain-derived neurotrophic factor (BDNF) is exclusively released by glia and regulates synaptic scaling.,FALSE,15,Organic_Synthesis_2008
+Homeostatic plasticity mechanisms can balance the excitation-inhibition ratio to sustain network stability.,TRUE,15,Organic_Synthesis_2008
+The mechanisms underlying homeostatic plasticity of NMDA and AMPA receptor currents are entirely distinct.,FALSE,15,Organic_Synthesis_2008
+Neurons rely on stimulus-induced changes in gene expression to modify their structure and function.,TRUE,16,Organic_Synthesis_2008
+Signal transduction from the plasma membrane to the nucleus is well characterized and poses no unique challenges in neurons.,FALSE,16,Organic_Synthesis_2008
+The morphology of neurons enables processes to extend distances much shorter than the diameter of the cell body.,FALSE,16,Organic_Synthesis_2008
+Retrograde transport of signals is crucial for neuron survival and adaptability in both developing and adult nervous systems.,TRUE,16,Organic_Synthesis_2008
+"During brain development, transcriptional changes occur as axons navigate and establish potential synaptic connections.",TRUE,16,Organic_Synthesis_2008
+"Long-lasting synaptic plasticity, crucial for learning and memory, does not require new transcription.",FALSE,16,Organic_Synthesis_2008
+"Axonal injury in mature neurons can lead to the transport of injury-induced signals to the nucleus, triggering axonal regeneration.",TRUE,16,Organic_Synthesis_2008
+Mechanisms for signal transduction from distal stimulation sites to the nucleus are fully understood.,FALSE,16,Organic_Synthesis_2008
+"Retrograde signaling is only relevant during neuron development, not in adult neurons.",FALSE,16,Organic_Synthesis_2008
+Long-distance retrograde signaling plays a role in navigating growth cones during neuronal development.,TRUE,16,Organic_Synthesis_2008
+Acid-sensing ion channels (ASICs) are activated by protons in extracellular pH.,TRUE,17,Organic_Synthesis_2008
+Synaptic vesicles release both neurotransmitters and protons into the synaptic cleft.,TRUE,17,Organic_Synthesis_2008
+ASIC1a is predominantly located in axons.,FALSE,17,Organic_Synthesis_2008
+Extracellular alkalosis inhibits NMDA receptor activity.,FALSE,17,Organic_Synthesis_2008
+The ASIC1a subunit is the primary contributor to acid-evoked currents in the brain.,TRUE,17,Organic_Synthesis_2008
+Sustained extracellular acidosis decreases the excitability of most central neurons.,TRUE,17,Organic_Synthesis_2008
+ASIC1a activation only affects sodium ion concentrations in neurons.,FALSE,17,Organic_Synthesis_2008
+Inhibition of ASIC1a with PcTx1 has been shown to reduce stroke-related brain damage.,TRUE,17,Organic_Synthesis_2008
+ASIC1a overexpression reduces dendritic spine density in hippocampal neurons.,FALSE,17,Organic_Synthesis_2008
+Glia contribute to synaptic development and maintenance through calcium action potentials.,FALSE,17,Organic_Synthesis_2008
+Glial cells can communicate with both neurons and other glial cells through calcium waves.,TRUE,18,Organic_Synthesis_2008
+"Astrocytes are involved exclusively in synaptic maintenance, not synapse formation.",FALSE,18,Organic_Synthesis_2008
+"The “tripartite synapse” includes presynaptic neurons, postsynaptic neurons, and astrocytes.",TRUE,18,Organic_Synthesis_2008
+"Unlike neurons, glial cells cannot express neurotransmitter receptors.",FALSE,18,Organic_Synthesis_2008
+Perisynaptic Schwann cells in the PNS play a role in synaptic repair after injury.,TRUE,18,Organic_Synthesis_2008
+NG2 cells are a subtype of glial cells that exclusively function in the developing nervous system.,FALSE,18,Organic_Synthesis_2008
+Astrocytes play a role in regulating synaptic plasticity through the secretion of D-serine.,TRUE,18,Organic_Synthesis_2008
+"Microglia, like astrocytes, do not directly participate in synaptic pruning.",FALSE,18,Organic_Synthesis_2008
+Thrombospondins (TSPs) secreted by astrocytes can induce synapse formation.,TRUE,18,Organic_Synthesis_2008
+Glial cells are incapable of modulating synaptic strength through the release of gliotransmitters.,FALSE,18,Organic_Synthesis_2008
+The postsynaptic density (PSD) is a dense submembranous structure located at the postsynaptic site of glutamatergic synapses.,TRUE,20,Organic_Synthesis_2008
+Philip Siekevitz and Carl Cotman developed methods for purifying PSD-associated proteins in the 1990s.,FALSE,20,Organic_Synthesis_2008
+The PSD-95 protein is a member of the MAGUK family and contains three PDZ domains.,TRUE,20,Organic_Synthesis_2008
+The primary function of scaffold proteins in the PSD is to destabilize biochemical interactions among signaling proteins.,FALSE,20,Organic_Synthesis_2008
+The NR2 tails of NMDA receptors are approximately 600 residues in length and interact with scaffold proteins.,TRUE,20,Organic_Synthesis_2008
+AMPA receptor regulation does not involve direct interactions with scaffold proteins such as Stargazin or GRIP.,FALSE,20,Organic_Synthesis_2008
+SynGAP is a Ras-GTPase activating protein critical for maintaining synaptic function and plasticity.,TRUE,20,Organic_Synthesis_2008
+"Homer proteins interact with group I metabotropic glutamate receptors, such as mGluR1 and mGluR5, via their PDZ domains.",FALSE,20,Organic_Synthesis_2008
+Dendritic spines are primarily composed of actin filaments that give them their characteristic shapes.,TRUE,20,Organic_Synthesis_2008
+α-Actinin stabilizes NMDA receptors by directly inhibiting their binding to actin filaments.,FALSE,20,Organic_Synthesis_2008
+L-type calcium currents require strong depolarization for activation and are blocked by dihydropyridines.,TRUE,21,Organic_Synthesis_2008
+T-type calcium currents are prominent in presynaptic nerve terminals and play a major role in neurotransmitter release.,FALSE,21,Organic_Synthesis_2008
+CaV2.1 and CaV2.2 channels are the primary calcium entry pathways at fast conventional synapses.,TRUE,21,Organic_Synthesis_2008
+The α1 subunit of calcium channels has six transmembrane helices per domain and plays no role in pore formation.,FALSE,21,Organic_Synthesis_2008
+Syntaxin-1A binds to the synprint site on CaV2 channels to improve neurotransmitter release efficiency.,TRUE,21,Organic_Synthesis_2008
+T-type calcium currents are affected by L-type calcium channel antagonists and certain venoms.,FALSE,21,Organic_Synthesis_2008
+Calmodulin is directly involved in Ca2+-dependent regulation of both Cav1 and Cav2 channels.,TRUE,21,Organic_Synthesis_2008
+VILIP-2 suppresses calcium-dependent facilitation and acceleration of Cav2.1 inactivation.,FALSE,21,Organic_Synthesis_2008
+The SNARE complex interacts with synaptotagmin at low Ca2+ concentrations to drive synaptic vesicle fusion.,FALSE,21,Organic_Synthesis_2008
+Cav2.2 channels require interaction with SNARE proteins for efficient neurotransmitter release.,TRUE,21,Organic_Synthesis_2008
+Nociceptive pain is caused by the pathological dysfunction of the nervous system.,FALSE,22,Organic_Synthesis_2008
+Chronic pain can persist long after the initiating nociceptive pain subsides.,TRUE,22,Organic_Synthesis_2008
+"In the dorsal horn, nociceptive inputs to second-order neurons are mediated by glycine receptors.",FALSE,22,Organic_Synthesis_2008
+Central sensitization can result in increased responses from previously subthreshold inputs in nociceptive neurons.,TRUE,22,Organic_Synthesis_2008
+Microglia in the spinal cord are primarily involved in acute nociceptive pain mechanisms.,FALSE,22,Organic_Synthesis_2008
+The activation of NMDA receptors in the dorsal horn requires calcium influx and relief of magnesium blockade.,TRUE,22,Organic_Synthesis_2008
+Windup is a form of long-term potentiation in nociceptive neurons that persists for several hours.,FALSE,22,Organic_Synthesis_2008
+P2X4 receptors on microglia are activated by ATP and contribute to the development of mechanical allodynia.,TRUE,22,Organic_Synthesis_2008
+"Allodynia is caused by peripheral changes in the sensory neurons, completely independent of central nervous system processing.",FALSE,22,Organic_Synthesis_2008
+"BDNF released by microglia in the dorsal horn reduces inhibition in neurons, contributing to neuropathic pain hypersensitivity.",TRUE,22,Organic_Synthesis_2008
+GABA_A receptors are primarily responsible for fast inhibitory neurotransmission in the mammalian central nervous system.,TRUE,23,Organic_Synthesis_2008
+"Glycine receptors are found exclusively in the brainstem and spinal cord, never in the mammalian brain.",FALSE,23,Organic_Synthesis_2008
+GABA_A receptors and glycine receptors are pentameric ligand-gated ion channels.,TRUE,23,Organic_Synthesis_2008
+"GABA_A receptor activation allows calcium ions to flow into the cell, leading to depolarization.",FALSE,23,Organic_Synthesis_2008
+"Gephyrin plays a role in clustering glycine and some GABA_A receptors at synapses, stabilizing inhibitory neurotransmission.",TRUE,23,Organic_Synthesis_2008
+The GABA_A receptor γ2 subunit is critical for benzodiazepine sensitivity.,TRUE,23,Organic_Synthesis_2008
+The primary neurotransmitter binding site of GABA_A receptors is located solely on the γ subunit.,FALSE,23,Organic_Synthesis_2008
+GABA_A receptors can be modulated allosterically by compounds such as benzodiazepines and barbiturates.,TRUE,23,Organic_Synthesis_2008
+Gephyrin directly interacts with all GABA_A receptor subtypes at inhibitory synapses.,FALSE,23,Organic_Synthesis_2008
+"Extracellular protons can modulate acid-sensing ion channels (ASICs), which play a role in synaptic signaling.",TRUE,23,Organic_Synthesis_2008
+Stroke is the fourth most common cause of death in the United States.,FALSE,24,Organic_Synthesis_2008
+Global ischemia affects the entire brain and may occur after cardiac arrest.,TRUE,24,Organic_Synthesis_2008
+The hippocampus is primarily associated with motor function loss after a stroke.,FALSE,24,Organic_Synthesis_2008
+Tissue plasminogen activator (tPA) is effective for treating both thrombotic and hemorrhagic strokes.,FALSE,24,Organic_Synthesis_2008
+Reduced ATP levels due to ischemia can lead to disrupted ion gradients in brain cells.,TRUE,24,Organic_Synthesis_2008
+Experimental stroke models using rats often perform permanent occlusion of multiple arteries.,TRUE,24,Organic_Synthesis_2008
+NMDA receptor antagonists have become widely approved for clinical stroke treatment.,FALSE,24,Organic_Synthesis_2008
+Spine recovery occurs at the same dendritic locations where the spines were lost if ischemia is transient.,TRUE,24,Organic_Synthesis_2008
+Post-synaptic regions are more vulnerable to ischemic damage than pre-synaptic regions.,TRUE,24,Organic_Synthesis_2008
+Heat shock proteins are more likely to induce tolerance to ischemia than NMDA receptor activation.,FALSE,24,Organic_Synthesis_2008
+Membrane fusion requires specialized proteins to overcome electrostatic forces between charged lipid head groups.,TRUE,25,Organic_Synthesis_2008
+Synaptic vesicle fusion typically occurs in response to Na+ influx triggered by action potential-mediated depolarization.,FALSE,25,Organic_Synthesis_2008
+Synaptic vesicle fusion is restricted to a region called the active zone of the presynaptic terminal.,TRUE,25,Organic_Synthesis_2008
+Spontaneous synaptic vesicle fusion occurs at a high probability in the absence of action potentials.,FALSE,25,Organic_Synthesis_2008
+The SNARE protein complex plays a key role in synaptic vesicle fusion and neurotransmitter release.,TRUE,25,Organic_Synthesis_2008
+"Synaptobrevin, syntaxin-1, and SNAP-25 each contribute two SNARE motifs to the synaptic SNARE complex.",FALSE,25,Organic_Synthesis_2008
+Munc13 and munc18 regulate SNARE-dependent membrane fusion by facilitating complex assembly at the active zone.,TRUE,25,Organic_Synthesis_2008
+The rapid and Ca2+-dependent nature of synaptic vesicle fusion is solely explained by SNARE proteins.,FALSE,25,Organic_Synthesis_2008
+The role of complexins in synaptic transmission involves stabilizing SNARE complexes during vesicle priming.,TRUE,25,Organic_Synthesis_2008
+"""Kiss-and-run"" fusion results in complete mixing of synaptic vesicle and plasma membrane components.",FALSE,25,Organic_Synthesis_2008
+NMDA receptors play a role at excitatory glutamatergic synapses and pass both sodium and calcium ions upon activation.,TRUE,26,Organic_Synthesis_2008
+"The NMDA receptor complex is formed by trimeric proteins consisting of NR1, NR2, and NR3 subunits.",FALSE,26,Organic_Synthesis_2008
+"Knockout of NR1 subunit in mice leads to death shortly after birth, underscoring its importance in normal nervous system function.",TRUE,26,Organic_Synthesis_2008
+"NR2B subunits of NMDA receptors decrease with age in the forebrain, and NR2A replaces them as the dominant subunit.",TRUE,26,Organic_Synthesis_2008
+The NR3A subunit expression is highest during adulthood and predominantly found in motor neurons of the spinal cord.,FALSE,26,Organic_Synthesis_2008
+Calcium influx through NMDA receptors is critical for synaptic plasticity but not implicated in neurotoxicity.,FALSE,26,Organic_Synthesis_2008
+Clathrin-mediated endocytosis is a primary mechanism involved in the removal of NMDA receptors from the synaptic membrane.,TRUE,26,Organic_Synthesis_2008
+PSD-95 knockout in mice leads to complete elimination of NMDA receptors from synaptic sites.,FALSE,26,Organic_Synthesis_2008
+"NR2A-containing NMDA receptors are associated with long-term potentiation (LTP), whereas NR2B-containing receptors are more associated with long-term depression (LTD).",TRUE,26,Organic_Synthesis_2008
+Synaptic localization of NR2A subunits depends on the NR2A subunit’s tyrosine phosphorylation by Src kinase.,FALSE,26,Organic_Synthesis_2008
+Passive dendritic trees can be reduced to a single equivalent cylinder under specific conditions.,TRUE,1,Koch
+The electrotonic length between dendritic sites always provides an accurate measure of voltage attenuation.,FALSE,1,Koch
+The membrane resistance (\(R_m\)) significantly affects the rise time of fast synaptic inputs in thin dendrites.,FALSE,1,Koch
+The transfer impedance (\(K_{ij}\)) is frequency-dependent and symmetric for reciprocal locations in a dendritic tree.,TRUE,1,Koch
+Voltage attenuation is always symmetric between two sites in a dendritic tree.,FALSE,1,Koch
+A dendrite's local delay \(D_{ii}\) can be significantly shorter than the membrane time constant (\(T_m\)) in distal dendritic sites.,TRUE,1,Koch
+"For sustained synaptic input, the voltage attenuation from distal dendritic sites to the soma is smaller than the voltage attenuation from the soma to the dendrites.",FALSE,1,Koch
+Morphoelectrotonic Transforms (METs) visually represent the electroanatomy of neurons by replacing anatomical length with functional measures.,TRUE,1,Koch
+The peak depolarization in thin dendrites due to fast synaptic input is independent of the membrane resistance (\(R_m\)).,TRUE,1,Koch
+Realistic neurons strictly follow the assumptions required to be modeled as equivalent cylinders.,FALSE,1,Koch
+Hodgkin and Huxley's model of action potentials accounts for the adaptation of firing frequency to long-lasting stimuli.,FALSE,2,Koch
+The delayed rectifier potassium current is denoted as /K or /DR throughout the text.,TRUE,2,Koch
+"Calcium currents are only present in specific neurons, such as sensory neurons.",FALSE,2,Koch
+Voltage-dependent calcium channels regulate the influx of calcium ions into neurons.,TRUE,2,Koch
+Calcium currents are typically activated by hyperpolarization of the membrane potential.,FALSE,2,Koch
+The L-type calcium current is activated only at depolarized levels near the resting potential.,FALSE,2,Koch
+The low-threshold (T) calcium current can generate an all-or-nothing electrical event called an LT spike.,TRUE,2,Koch
+Calcium conducts current through voltage-independent channels under normal physiological conditions.,FALSE,2,Koch
+Potassium currents stabilize the membrane potential by pulling it toward hyperpolarized levels.,TRUE,2,Koch
+"Calcium-dependent potassium currents, such as /K(Ca), influence the firing frequency adaptation of neurons.",TRUE,2,Koch
+A small excitatory synaptic input in the presence of voltage-dependent channels causes a hyperpolarization followed by a depolarization.,FALSE,3,Koch
+Membranes with certain voltage- and time-dependent conductances can simulate inductance-like behavior without possessing actual coils.,TRUE,3,Koch
+The quasi-active membrane concept was first introduced by Hodgkin and Katz in 1941.,FALSE,3,Koch
+Linearizing the Hodgkin-Huxley equations allows for the analysis of small-signal responses in systems like the squid axon.,TRUE,3,Koch
+The quasi-active membrane displays a response similar to a low-pass filter.,FALSE,3,Koch
+"In the squid axon, the voltage-response undershoots its steady-state value upon termination of a current step.",TRUE,3,Koch
+The sodium current linearization results in purely positive elements in the associated electrical circuit.,FALSE,3,Koch
+Electrical resonance in hair cells is linked to the interplay of a calcium current and a calcium-dependent potassium current.,TRUE,3,Koch
+Neurons with quasi-active membranes always favor input signals with low-frequency content.,FALSE,3,Koch
+Bandpass-like quasi-active membranes can implement temporal derivative operations on input signals within a certain frequency range.,TRUE,3,Koch
+Purkinje cells in the primate cerebellum receive between one hundred and two hundred thousand synapses onto dendritic spines from parallel fibers.,TRUE,4,Koch
+The total number of afferent synapses on neocortical pyramidal cells is higher than that of Purkinje cells.,FALSE,4,Koch
+Passive dendritic trees do not contain voltage-dependent membrane conductances.,TRUE,4,Koch
+Linear responses in passive dendritic trees allow true information processing operations to occur.,FALSE,4,Koch
+The nonlinearity of membrane voltage changes caused by synaptic inputs acts as a basis for multiplication-like operations.,TRUE,4,Koch
+"Inhibition located close to the soma of a neuron supports relative suppression, allowing behaviors to be overridden by strong stimuli.",FALSE,4,Koch
+Tonic inhibition in crayfish correlates with distal inhibitory inputs on the dendritic tree.,TRUE,4,Koch
+Proximal inhibition in the lateral giant neurons of crayfish can always be overcome by stronger excitation.,FALSE,4,Koch
+Synaptic clustering of NMDA inputs creates more effective postsynaptic responses than widely dispersed synapses.,TRUE,4,Koch
+All synaptic microcircuits in cortical structures feature dendro-dendritic synapses.,FALSE,4,Koch
+Intracellular resistivity (R¡) is the total resistance across a 1 cm cube of intracellular cytoplasm.,TRUE,5,Koch
+"The resistivity of mammalian saline is 80 Ω-cm, higher than seawater but lower than physiological Ringer solution.",FALSE,5,Koch
+Measurements from cerebellar Purkinje cells suggest intracellular resistivity (R¡) values between 225-250 Ω-cm.,TRUE,5,Koch
+The passive membrane capacitance (Cm) is measured in units of ohms per centimeter (Ω/cm).,FALSE,5,Koch
+The traditional value of Cm derived from the squid giant axon is approximately 1 μF/cm².,TRUE,5,Koch
+The sealed-end boundary condition for the cable equation is expressed mathematically as dV/dx = ∞.,FALSE,5,Koch
+The Dirichlet boundary condition assumes that the voltage is clamped to zero at the cable's endpoints.,TRUE,5,Koch
+Calcium buffering introduces nonlinearity into the dynamics of diffusion by using linearized equations.,FALSE,5,Koch
+Voltage-dependent membrane channels are handled in Hodgkin-Huxley models through nonlinear current terms.,TRUE,5,Koch
+"Green's functions are primarily used for the numerical solution of large, branched dendritic systems.",FALSE,5,Koch
+Calcium dynamics inside neurons are primarily regulated by diffusion and buffering processes.,TRUE,6,Koch
+Calmodulin is located only in the axons of neurons.,FALSE,6,Koch
+Diffusion of substances in neurons follows Fick's law of diffusion without considering random molecular motion.,FALSE,6,Koch
+The effective diffusion constant of calcium in neurons is much lower compared to calcium's diffusion constant in an aqueous solution.,TRUE,6,Koch
+The time constant associated with calcium dynamics in dendrites scales inversely with the diameter of the dendrite.,FALSE,6,Koch
+"Calmodulin can bind up to four calcium ions cooperatively, leading to a conformational change in the protein.",TRUE,6,Koch
+Calcium diffusion in neurons is slowed down significantly due to the presence of buffering proteins like calmodulin.,TRUE,6,Koch
+"The cable equation and the reaction-diffusion equation produce equivalent results in all conditions, even at high calcium concentrations.",FALSE,6,Koch
+"Active transport systems, such as ionic pumps, are required to maintain the concentration gradients of ions like calcium in neurons.",TRUE,6,Koch
+"The spatial spread of calcium in neurons is comparable to the spread of electrical signals, following the same space constant.",FALSE,6,Koch
+"The membrane potential can vary rapidly over large distances, such as 100 mV within 1 msec.",TRUE,7,Koch
+The membrane potential is determined solely by chemical reactions and does not rely on electrical properties.,FALSE,7,Koch
+Resting potential is a state of dynamic equilibrium with no ionic currents flowing across the membrane.,FALSE,7,Koch
+"The bilayer lipid membrane acts as an insulator, separating charges and facilitating capacitance.",TRUE,7,Koch
+"The resting membrane potential (Vrest) for most neurons is positive, ranging from +30 mV to +90 mV.",FALSE,7,Koch
+Synaptic input increases the membrane conductance and decreases the time constant.,TRUE,7,Koch
+Shunting inhibition has a reversal potential close to the resting potential and reduces EPSP amplitude through division-like behavior.,TRUE,7,Koch
+Voltage-gated synapses are always active and do not require specific chemical triggers to function.,FALSE,7,Koch
+"Chemical synapses can amplify or attenuate signals, whereas electrical synapses cannot isolate electrical properties.",TRUE,7,Koch
+The RC circuit model of a neuron suggests that the input resistance increases with synaptic activity.,FALSE,7,Koch
+A layer 5 pyramidal cell in the primary visual cortex receives roughly 50 excitatory synapses onto its apical tree from neurons in the lateral geniculate nucleus.,TRUE,8,Koch
+The resting potential in vivo for pyramidal neurons is typically more depolarized compared to in vitro conditions.,TRUE,8,Koch
+"Synaptic background activity decreases the time constant (τm) of a neuron as the firing rate increases, making the neuron less sensitive to coincident input.",FALSE,8,Koch
+"Shunting inhibition always has a divisive effect on firing rates, regardless of spiking mechanisms.",FALSE,8,Koch
+A larger degree of synaptic background activity at excitatory synapses decouples distal dendrites from the soma more significantly.,TRUE,8,Koch
+Distal inputs to layers 1 and 2 of the apical tree of pyramidal cells can independently trigger prolonged spike discharges under passive dendritic conditions.,FALSE,8,Koch
+Cable theory is irrelevant for understanding active dendritic processing because it only applies to linear electrical properties.,FALSE,8,Koch
+"When a pyramidal cell is bombarded with massive synaptic input, the electrotonic length (L) of its dendritic tree increases.",TRUE,8,Koch
+"For weak synaptic input, the somatic current flowing into the soma is linearly related to the presynaptic firing frequency.",TRUE,8,Koch
+The effect of inhibitory synapses near the soma is typically stronger and more divisive than at distal dendritic sites.,FALSE,8,Koch
+Linear cable theory reduces the complexity of neuronal modeling from three spatial dimensions to one.,TRUE,9,Koch
+"The primary charge carriers in axons and dendrites are electrons, similar to copper wires.",FALSE,9,Koch
+The steady-state space constant determines the distance over which voltage in a neuron decays by half.,FALSE,9,Koch
+Passive membranes can be adequately described using only resistances and capacitances.,TRUE,9,Koch
+The Nernst-Planck equation is required to model the major current flow in neuronal processes.,FALSE,9,Koch
+"In one-dimensional cable theory, extracellular resistivity is often assumed to be negligible.",TRUE,9,Koch
+The magnetic field generated by the movement of charges in neurons is significant and cannot be ignored.,FALSE,9,Koch
+Voltage in an infinite cable decays in a Gaussian spatial profile immediately after a transient input.,TRUE,9,Koch
+"In a passive cable, high-frequency signals are transmitted over longer distances than low-frequency signals.",FALSE,9,Koch
+The concept of a "propagation velocity" applies to passive cables despite their dissipative nature.,TRUE,9,Koch
+Spike trains are discrete series of time events representing all relevant information a neuron transmits.,TRUE,10,Koch
+Neurons with dendro-dendritic connections encode information via spike trains.,FALSE,10,Koch
+The two main views on neuronal coding are firing rate and correlation coding.,TRUE,10,Koch
+A key argument for mean rate coding is the reproducibility of detailed spike patterns.,FALSE,10,Koch
+Encoding information in interspike intervals is less efficient than mean rate coding.,FALSE,10,Koch
+A Poisson process is a random process where the number of events in one interval is independent of others.,TRUE,10,Koch
+"For cortical cells, interspike interval distributions closely resemble pure Poisson processes without modifications.",FALSE,10,Koch
+The coefficient of variation (CV) measures the regularity of interspike intervals.,TRUE,10,Koch
+A refractory period in neurons leads to greater variability in their spike timing.,FALSE,10,Koch
+Cortical cells' spiking behavior can always be adequately described as renewal processes.,FALSE,10,Koch
+The book discusses both linear and nonlinear cable theory as part of its exploration of neuron functions.,TRUE,11,Koch
+The brain is compared to a universal Turing machine because it has infinite memory like a theoretical Turing machine.,FALSE,11,Koch
+The theory of computation provides a definitive recipe to decide the level of abstraction for nervous system models.,FALSE,11,Koch
+"Current computers differ from brains in that they operate with a systemwide clock, unlike the nervous system.",TRUE,11,Koch
+"In the nervous system, memory and computation are separated, as seen in modern electronic devices.",FALSE,11,Koch
+A neuron processes information by converting streams of binary pulses into analog signals such as postsynaptic voltage and calcium distribution.,TRUE,11,Koch
+Synapses in the nervous system adapt only to short time scales of milliseconds.,FALSE,11,Koch
+Linear operations like spatial filtering can be efficiently performed in dendritic structures.,TRUE,11,Koch
+The analogy between neurons and digital computers is based on both using a 32-bit architecture.,FALSE,11,Koch
+The firing rates of neurons can achieve precision as high as 5-10 msec in some cases.,TRUE,11,Koch
+Bursting cells generate two to five fast spikes atop a slow depolarizing envelope and typically finish with afterhyperpolarization (AHP).,TRUE,13,Koch
+Intrinsically bursting (IB) cells are found predominantly in layer 4 of the neocortex.,FALSE,13,Koch
+IB cells frequently switch between firing single isolated spikes and generating bursts.,TRUE,13,Koch
+The spikes in bursts are carried by calcium ions rather than sodium ions.,FALSE,13,Koch
+"Layer 5 bursting cells have dendritic trees that extend into superficial layers, unlike nonbursting cells.",TRUE,13,Koch
+The primary output of the neocortex consists of neurons located in layer 2.,FALSE,13,Koch
+Bursting cells projecting outside the cortex are believed to convey different types of information compared to nonbursting cells.,TRUE,13,Koch
+Dendritic calcium conductances play no role in the generation of bursts in pyramidal cells.,FALSE,13,Koch
+The electric fish study found that spikes in bursts encode sensory information less reliably than isolated spikes.,FALSE,13,Koch
+Bursts might serve to synchronize distant neuronal populations with minimal phase lag.,TRUE,13,Koch
+The somatic input resistance \( R_m \) is defined as the inverse of the slope conductance of the I-V curve.**,TRUE,14,Koch
+"For passive systems, the membrane time constant \( T_m \) is always the fastest time constant associated with exponential charging of the neuronal membrane.**",FALSE,14,Koch
+The resting potential \( V_{rest} \) of the system described in the text is -43 mV.**,FALSE,14,Koch
+"When NMDA synapses are activated, the slope conductance at the soma can paradoxically decrease.**",TRUE,14,Koch
+The steady-state slope conductance \( G_{static} \) always increases when the somatic membrane becomes depolarized.**,FALSE,14,Koch
+A voltage threshold \( V_{th} \) of approximately -48 mV is required for spike initiation in the system described.**,TRUE,14,Koch
+"In cells with a significant dendritic tree, action potential initiation does not always require exceeding a fixed charge threshold.**",TRUE,14,Koch
+The current threshold \( I_{th} \) is the same for both fast and slow injected currents.**,FALSE,14,Koch
+The shape of the action potential is almost entirely dependent on how the spike was triggered.**,FALSE,14,Koch
+The dynamic current-voltage curve \( I_{dynamic} \) near the resting potential \( V_{rest} \) behaves similarly to a voltage-gated hyperpolarizing conductance.**,TRUE,14,Koch
+"Intracellular calcium concentrations can act as short-term memory variables manipulated through diffusion, buffers, and calcium-dependent enzymes.",TRUE,15,Koch
+"Autophosphorylating kinases remove phosphate groups from proteins, returning them to their inactive states.",FALSE,15,Koch
+The stabilization of long-term memories at synapses can occur via the storage of information in DNA molecules within the neuron nucleus.,FALSE,15,Koch
+"Bistable molecular switches rely on the process of autophosphorylation, where a kinase molecule catalyzes the activation of itself.",TRUE,15,Koch
+"Protein turnover in neurons, excluding DNA, typically occurs over periods of years rather than weeks or months.",FALSE,15,Koch
+"CaM kinase II stores information via intermolecular autophosphorylation, allowing it to phosphorylate other molecules of CaM kinase II.",FALSE,15,Koch
+"Neuromodulators like proctolin can reprogram a neural network by altering motor patterns, synaptic gains, and neural output.",TRUE,15,Koch
+"Nitric oxide acts as a retrograde messenger diffusing from neurons, affecting synaptic weights within a sphere of influence up to 50 µm.",FALSE,15,Koch
+Neuromodulators can selectively route information among neurons by altering the gain of firing responses without directly exciting them.,TRUE,15,Koch
+"Learning rules for synaptic plasticity involving nitric oxide suggest individual synapses as the primary unit of plasticity, consistent with Hebb's rule.",FALSE,15,Koch
+Ionic channels are located exclusively in neurons.,FALSE,16,Koch
+Ion selectivity in ionic channels is determined by the narrow portion called the selectivity filter.,TRUE,16,Koch
+Fast sodium channels are primarily voltage-independent but entirely neurotransmitter-sensitive.,FALSE,16,Koch
+Neher and Sakmann first directly measured the electrical current flowing through a single ionic channel in 1976.,TRUE,16,Koch
+The conductance of a single fast sodium channel can range between 130 pS and 240 pS.,FALSE,16,Koch
+The patch-clamp technique can measure ionic currents as small as 0.1 pA.,TRUE,16,Koch
+Ionic channels perpetuate electrical signaling only in multicellular organisms that evolved approximately 700 million years ago.,FALSE,16,Koch
+The opening and closing rates of voltage-dependent ionic channels systematically change with the membrane potential.,TRUE,16,Koch
+The ball-and-chain model describes inactivation in sodium channels as the tethered "ball" blocking the channel pore.,TRUE,16,Koch
+The density of potassium channels in the squid giant axon is higher than that of sodium channels.,FALSE,16,Koch
+Dendritic spines are found only in vertebrates.,FALSE,17,Koch
+Over 90% of excitatory synapses in the cortex are located on dendritic spines.,TRUE,17,Koch
+Smooth neurons are classified as spiny due to their dense coverage of dendritic spines.,FALSE,17,Koch
+"The structure of dendritic spines can change rapidly, within seconds, in response to stimuli.",TRUE,17,Koch
+The "twitching spine" hypothesis suggests that spines cannot change shape quickly.,FALSE,17,Koch
+Pyramidal and stellate cells are examples of neurons with spiny dendrites.,TRUE,17,Koch
+"In the cerebellum, Purkinje cells lack dendritic spines and do not use an inhibitory neurotransmitter.",FALSE,17,Koch
+Larger spine heads are typically associated with larger synapses.,TRUE,17,Koch
+Antidromic spikes can lead to calcium increases in dendrites and spines simultaneously.,TRUE,17,Koch
+Dendritic spines primarily serve to increase the electrical resistance of neurons.,FALSE,17,Koch
+The Hodgkin-Huxley model involves four variables: membrane potential and states of fast sodium and delayed potassium conductances.,TRUE,18,Koch
+The FitzHugh-Nagumo model requires at least three variables to represent neuronal excitability.,FALSE,18,Koch
+The FitzHugh-Nagumo model simplifies neuronal dynamics by reducing the Hodgkin-Huxley model to two dimensions.,TRUE,18,Koch
+The slow variable W in the FitzHugh-Nagumo model corresponds to membrane excitability.,FALSE,18,Koch
+Hard excitation or subcritical Hopf bifurcation is associated with oscillations arising with non-zero frequency.,TRUE,18,Koch
+The Morris-Lecar model was originally developed to model neuronal membranes in squids.,FALSE,18,Koch
+"By modifying the steepness of potassium activation, the Morris-Lecar model can produce oscillations with arbitrarily long interspike intervals.",TRUE,18,Koch
+Saddle-node bifurcations in phase space allow oscillations to emerge with nonzero minimum frequencies.,FALSE,18,Koch
+"Limit cycles represent stable, repetitive trajectories in phase space that can arise in nonlinear systems.",TRUE,18,Koch
+The FitzHugh-Nagumo and Morris-Lecar models rely on more than three-dimensional phase space analysis for spiking predictions.,FALSE,18,Koch
+Patch-clamp recordings in brain slices allow for high-quality recordings of somatic and dendritic electrical signals.,TRUE,19,Koch
+Calcium channels in dendrites are all uniformly distributed without being confined to specific compartments.,FALSE,19,Koch
+Voltage-gated channel densities in dendrites are reported to be less than 10 channels per square micrometer of membrane.,TRUE,19,Koch
+Action potential initiation in motoneurons always occurs in the soma.,FALSE,19,Koch
+Ramón y Cajal proposed that neuronal output pulses are transmitted unidirectionally along the axon.,TRUE,19,Koch
+Antidromic spike propagation moves from the soma into the axon.,FALSE,19,Koch
+Layer 5 pyramidal neurons have dendrites with weakly excitable Hodgkin-Huxley-like sodium channels.,TRUE,19,Koch
+Fast dendritic spikes are typically driven by potassium-channel-mediated plateau potentials.,FALSE,19,Koch
+The spatial clustering of synaptic inputs on dendrites can significantly amplify EPSPs through voltage-dependent currents.,TRUE,19,Koch
+All dendritic spikes propagate to the soma without any loss in signal strength.,FALSE,19,Koch
+Simplified neuron models can be reduced to just one of two forms: spike models and firing rate models.,TRUE,20,Koch
+The integrate-and-fire model includes a detailed representation of the time course of an action potential.,FALSE,20,Koch
+The firing rate of a neuron is always low-pass filtered with respect to its input current in firing rate models.,TRUE,20,Koch
+"In spiking integrate-and-fire models, synaptic inputs generate impulses that occur within a refractory period of zero.",FALSE,20,Koch
+Linear synaptic interactions are the foundation of most neural network models.,TRUE,20,Koch
+"Multiplicative interactions, such as those modeled with sigma-pi units, are commonly assumed in the majority of neural network models.",FALSE,20,Koch
+An adapting integrate-and-fire model can replicate aspects of the behavior of a detailed compartmental model of a neuron.,TRUE,20,Koch
+The threshold voltage of an integrate-and-fire model neuron does not influence its firing behavior.,FALSE,20,Koch
+Population coding involves combining the activities of numerous neurons into either correlated or uncorrelated codes.,TRUE,20,Koch
+Continuous firing rate models are always a more faithful representation of neuronal behavior than integrate-and-fire models.,FALSE,20,Koch
+Action potentials propagate along the axon at constant velocity and amplitude.,TRUE,21,Koch
+"Nonspiking neurons, such as certain invertebrate sensory-motor neurons, are commonly found in the cerebral cortex.",FALSE,21,Koch
+The Hodgkin-Huxley model was created using data from the cat’s visual cortex.,FALSE,21,Koch
+Action potentials are formed due to an all-or-none depolarization that occurs beyond a specific voltage threshold.,TRUE,21,Koch
+Sodium and potassium conductances in the Hodgkin-Huxley model are voltage- and time-dependent but are not independent of each other.,FALSE,21,Koch
+The squid giant axon is much larger in diameter compared to typical cortical axons.,TRUE,21,Koch
+Myelinated axons conduct action potentials at a velocity proportional to the square root of their diameter.,FALSE,21,Koch
+"Axonal branch points may cause some action potentials to fail during propagation, particularly at high frequencies.",TRUE,21,Koch
+"At nodes of Ranvier in myelinated fibers, fast sodium channels are highly concentrated, while potassium channels are absent.",FALSE,21,Koch
+The Hodgkin-Huxley equations predict a very limited range of firing frequencies in the squid giant axon.,TRUE,21,Koch
+Electrical synapses are more common than chemical synapses in the adult human brain.,FALSE,22,Koch
+Gap junctions enable direct electrical communication between neurons.,TRUE,22,Koch
+"Most synaptic inputs in the central nervous system are ionotropic, acting on slow time scales such as minutes.",FALSE,22,Koch
+NMDA receptors are associated with voltage-dependent and slower excitatory inputs.,TRUE,22,Koch
+"Synaptic transmission at central synapses operates with high reliability, ensuring each presynaptic action potential always triggers a response.",FALSE,22,Koch
+One advantage of electrical synapses is the lack of synaptic delay between neurons.,TRUE,22,Koch
+GABA is the most common excitatory neurotransmitter in the central nervous system.,FALSE,22,Koch
+A synaptic input defined as "shunting" has no influence on the membrane potential of the post-synaptic neuron.,FALSE,22,Koch
+"Fast excitatory synapses, such as AMPA-mediated synapses, exhibit a rise and decay time on the millisecond scale.",TRUE,22,Koch
+Electrical synapses typically amplify signals between pre- and post-synaptic neurons.,FALSE,22,Koch
+"Synaptic plasticity is the primary biophysical substrate for all forms of behavioral plasticity, including learning and memory.",FALSE,12,Koch
+"Synaptic strength or weight can be characterized by the triplet (n, p, q), where n is the number of release sites, p is the probability of release, and q is the postsynaptic response amplitude.",TRUE,12,Koch
+Long-term potentiation (LTP) lasts only for a few minutes and depends exclusively on presynaptic activity.,FALSE,12,Koch
+The activation of NMDA receptors is required to induce LTP at the connections of the Schaffer collaterals to CA1 pyramidal cells in the hippocampus.,TRUE,12,Koch
+Synaptic strength remains constant and does not vary after two or more consecutive spikes.,FALSE,12,Koch
+Hebb's rule states that the connection between two neurons strengthens when the presynaptic neuron's activity contributes toward firing the postsynaptic neuron.,TRUE,12,Koch
+Paired-pulse facilitation (PPF) is a form of synaptic plasticity that typically leads to a decrease in synaptic efficacy.,FALSE,12,Koch
+Both facilitation and short-term depression are types of short-term synaptic plasticity that recover on the order of seconds.,TRUE,12,Koch
+Short-term synaptic depression suggests that the postsynaptic response drops exponentially as presynaptic firing rate decreases.,FALSE,12,Koch
+Calcium influx into the postsynaptic terminal plays a critical role in the induction of both LTP and LTD.,TRUE,12,Koch

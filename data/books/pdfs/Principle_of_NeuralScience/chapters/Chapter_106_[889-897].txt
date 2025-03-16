@@ -1,0 +1,862 @@
+===== Page 1 =====
+844    Part V / Movement
+The effects of primary motor cortex (M1) lesions differ 
+across species. Large lesions in cats do not cause paraly-
+sis; the animals can move and walk on a flat open sur-
+face. However, they have severe difficulties using visual 
+information to navigate within a complex environment, 
+avoid obstacles, or climb the rungs of a ladder. In cats, 
+the pyramidal tract neurons in M1 are much more 
+strongly activated when an animal must modify its nor-
+mal stepping motion to clear an obstacle under visual 
+guidance than during normal unimpeded locomotion 
+over a flat, featureless surface (Chapter 33).
+Large M1 lesions in monkeys have more drastic 
+consequences, including initial paralysis and usually 
+the permanent loss of independent movements of the 
+thumb and fingers. Monkeys nevertheless recover some 
+ability to make clumsy movements of the hands and 
+arms and to walk and climb.
+More focal lesions of M1 typically result in mus-
+cle weakness, slowing and imprecision of movements, 
+and discoordination of multi-joint motions, perhaps as 
+a result of selective perturbations of the control circuitry 
+for specific muscles or muscle groups. Lesions limited 
+to part of the motor map, such as the contralateral arm, 
+leg, or face, lead to paralysis of that body part. There 
+is diminished use of the affected body part, and move-
+ments of the distal extremities are much more affected 
+than those of the proximal arm and trunk.
+The severity of the deficits also depends on the 
+level of required skill. Control of fine motor skills, such 
+as independent movements of the fingers and hand and 
+precision grip, is abolished. Any residual control of the 
+fingers and the hand is usually reduced to clumsy, claw-
+like, synchronous flexion and extension motions of all 
+fingers, not unlike the unskilled grasps of young infants. 
+Remaining motor functions, such as postural activity, 
+locomotion, reaching, and grasping objects with the 
+whole hand, are often clumsy.
+In humans, large motor cortex lesions are particu-
+larly devastating, resulting in severe motor deficits or 
+complete paralysis of affected body parts, usually with 
+limited potential for recovery. This presumably reflects 
+the increased importance in humans of descending sig-
+nals from M1 onto spinal interneuronal circuits and spi-
+nal motor neurons and a diminished capacity of other 
+cortical and subcortical motor structures to compensate 
+for the loss of those descending M1 signals.
+Box 34–3  Lesions in Primary Motor Cortex Lead to Impairments in Motor Execution
+those for more proximal parts of the arm. The termi-
+nal of a CM cell axon often branches and terminates 
+on spinal motor neurons for several different agonist 
+muscles and can also influence the contractile activ-
+ity of still more muscles through synapses on spinal 
+interneurons (Figure 34–17B,C). This termination pat-
+tern is organized to produce coordinated patterns of 
+activity in a muscle field of agonist and antagonist mus-
+cles. Most frequently, a CM cell axon directly excites 
+the spinal motor neurons for several agonist muscles 
+and indirectly suppresses the activity of some antago-
+nist muscles through spinal inhibitory interneurons  
+(Figure 34–17C). The fact that CM cells are more prom-
+inent in humans than in other species may be one of 
+the reasons why lesions of M1 in humans have a more 
+profound effect on voluntary motor control compared 
+to other mammals (Box 34–3).
+The complexity of the motor map in M1—as 
+revealed by short trains of electrical stimuli and ana-
+tomical and neurophysiological studies of direct and 
+indirect M1 descending outputs targeting single mus-
+cles and small muscle groups—shows how motor 
+commands from M1 to the spinal motor apparatus are 
+able to control movements of every part of the body, 
+with special focus on the fingers, hand, arm, face, and 
+mouth in primates.
+Activity in the Primary Motor Cortex Reflects Many 
+Spatial and Temporal Features of Motor Output
+As already noted, a given action such as reaching 
+for an object can be described on many levels, rang-
+ing from the hand’s spatial trajectory and velocity to 
+its joint-centered causal forces and muscle activity 
+(Figure 34–1A). Representational models assume that 
+the motor system directly plans and controls specific 
+parameters of movement. They predict that different 
+neural populations encode the intended movement 
+in a parameter space (ie, hand or joint motion or joint 
+muscular torque) and perform the transformations 
+between them. Dynamical models predict that neural 
+circuits control movements through changes in their 
+activation state from its current state to the desired 
+final state. As their activity changes across time, cor-
+relates of various parameters and properties of the 
+intended movement can be observed in the activity 
+
+
+===== Page 2 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    845
+of single neurons and neural populations. However, 
+the activity of most neurons reflects a combination of 
+parameters that does not correspond to any identifi-
+able parameter in any specific coordinate framework.
+Despite their different assumptions, both perspec-
+tives suggest that one can infer the possible contribution 
+of different neurons and different neural structures to 
+motor control by studying how their activity correlates 
+with different parameters of movements. The activity 
+of M1 neurons has been intensively studied since the 
+1960s to try to reveal, for instance, whether M1 gen-
+erates a high-level signal about the hand motion or a 
+lower-level kinetic signal more related to the causal 
+forces and muscle activity.
+Knowledge about the nature of the control signals 
+generated by M1 also helps to clarify the role of other 
+motor structures, notably the spinal cord. If M1 encodes 
+specific information about muscle activity patterns, less 
+computational processing would be necessary at the spi-
+nal level. In contrast, if M1 mainly encodes higher-level 
+information about the intended movement, the spinal 
+cord would have to perform the processes that convert 
+this global signal into detailed patterns of muscle activity.
+However, one of the major experimental chal-
+lenges in identifying how M1 controls movement is 
+the fact that virtually all movement-related param-
+eters are intercorrelated through the laws of motion. 
+As a consequence, a particular muscular force (kinetics) 
+will cause a specific motion (kinematics) given an ini-
+tial condition (posture, movement) of the body. As a 
+result, if one recorded neural activity while a monkey 
+makes reaching movements in different directions, a 
+neuron that theoretically signals the spatial direction 
+of movement will also inevitably show a correlation 
+with the direction of causal forces. Likewise, the con-
+tractile activity of a muscle will co-vary systematically 
+with the spatial direction of movement even though it 
+is clearly generating the causal forces. Unless the task 
+design adequately dissociates these different classes of 
+parameters, it will yield ambiguous information about 
+the functional role of each neuron.
+Edward Evarts was the first to examine this issue 
+in the 1960s, in pioneering single-neuron recordings in 
+monkeys while they made simple flexion/extension 
+movements of the wrist. Using a system of pulleys and 
+weights, he applied a load to the wrist of the monkey 
+that pulled the wrist in either the direction of flexion or 
+extension in different trials. This required the monkey 
+to alter the level of wrist muscle activity to compensate 
+for the load while making the movements. As a result, 
+the kinematics (direction and amplitude) of wrist 
+movements remained constant, but the kinetics (forces 
+and muscle activity) changed with the load.
+Using a microelectrode, he located single neurons 
+in the M1 motor map that modulated their activity 
+when the monkey made movements of the wrist with-
+out the external load. In some neurons, their discharge 
+increased during wrist flexion (preferred movement direc-
+tion) and was suppressed during extension, whereas 
+others displayed the opposite pattern. This movement-
+related activity typically began 50 to 150 ms before the 
+onset of agonist muscle activity, supporting a causal 
+link between M1 neural activity and movement. When 
+a load was applied, many M1 neurons increased their 
+activity when the load resisted movement in their pre-
+ferred direction and decreased activity when the load 
+assisted the movement (Figure 34–18). These changes 
+in neural activity paralleled the changes in muscle 
+activity required to compensate for the external load.
+Subsequent studies have confirmed that the activ-
+ity of many M1 neurons varies systematically with the 
+magnitude of muscle force output. This is best shown 
+in tasks in which monkeys generate isometric forces 
+against immovable objects that prevent movement. 
+The activity of many M1 neurons, including CM cells, 
+varies with the direction and level of static isometric 
+output forces generated across a single joint, such as 
+the wrist or elbow, as well as during precise pinches 
+using the thumb and index finger (Figure 34–19A). At 
+least over part of the tested range, these responses vary 
+linearly with the level of static force.
+Most natural behaviors involve multi-joint, multi-
+muscle actions. For instance, reaching movements of 
+the arm in different directions requires different pat-
+terns of coordinated motions at the shoulder and elbow. 
+Proximal limb muscle activity during reaching shows 
+a roughly cosine pattern of activity with maximal 
+activity in a specific movement direction, its preferred 
+movement direction, that gradually diminishes as the 
+angle between the desired direction of reach and the 
+muscle’s preferred direction increases (Figure 34–20A). 
+Like the proximal arm muscles, single neurons related 
+to shoulder and elbow movements respond in a con-
+tinuously graded fashion during movements in differ-
+ent reach directions centered on a preferred direction 
+of maximal activity (Figure 34–20B). Different neurons 
+have different preferred directions that cover the entire 
+directional continuum around the circle, and during 
+any given movement, neurons with a wide range of 
+preferred directions discharge at different rates.
+As Ed Evarts had shown in single-joint tasks, much 
+of the M1 activity during reaching is closely related to 
+the causal kinetics. For instance, in monkeys trained 
+to make reaching movements in eight directions while 
+compensating for external loads that pulled the arm in 
+different directions, the reach-related activity of both 
+
+
+===== Page 3 =====
+846    Part V / Movement
+Figure 34–18  Activity of a motor cortex neuron correlates 
+with changes in the direction and amplitude of muscle 
+forces during wrist movements.  The records are from an 
+M1 neuron with an axon that projected down the pyramidal 
+tract. The monkey flexes its wrist under three load conditions. 
+When no load is applied to the wrist, the neuron fires before 
+and during flexion (A). When a load opposing flexion is applied, 
+the activity of the flexor muscles and the neuron increases 
+(B). When a load assisting wrist flexion is applied, the flexor 
+muscles and neuron fall silent (C). In all three conditions, the 
+wrist displacement is the same, but the neural activity changes 
+as the loads and compensatory muscle activity change. Thus, 
+the activity of this motor cortex neuron is better related to the 
+direction and level of forces and to muscle activity exerted dur-
+ing the movement than to the direction of wrist displacement. 
+(Adapted from Evarts 1968.)
+Flexors
+Extensors
+Neuron
+B  Load opposes ﬂexors
+Flexors
+Extensors
+Neuron
+C  Load assists ﬂexors
+Flexors
+Extensors
+Neuron
+Recording 
+from neuron 
+in wrist area 
+of M1
+Restraint
+Potentiometer 
+measures 
+wrist angle
+Weight
+opposes ﬂexors
+Pulley
+Flexion
+Extension
+Weight
+assists ﬂexors
+Lever 
+position
+A  No load
+proximal-arm muscles and many M1 neurons changed 
+systematically with the direction of the external loads 
+and the corresponding corrective forces that the mon-
+keys had to generate for each reach direction. Both 
+muscle and neural activity increased when the load 
+resisted movements in their preferred directions and 
+decreased when the loads assisted those movements. 
+In addition, when a monkey uses its whole arm to exert 
+constant isometric force levels in different directions 
+at the hand, the activity of many M1 neurons varies 
+
+
+===== Page 4 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    847
+Figure 34–19  Activity in many primary motor cortex neu-
+rons correlates with the level and direction of force exerted 
+in an isometric action.
+A. The activity of many primary motor cortex neurons increases 
+with the amplitude of static torque generated across a single 
+joint. The plot shows the tonic firing rates of several different 
+corticomotoneuronal cells at different levels of static torque 
+exerted in the direction of wrist extension. Other motor cortex 
+neurons show increasing activity with torque exerted in the 
+direction of wrist flexion, and so would show response func-
+tions with the opposite slope (not shown). (Reproduced, with 
+permission, from Fetz and Cheney 1980.)
+B. When a monkey uses its whole arm to push on an immov-
+able handle in its hand, the activity of some primary motor 
+cortex neurons varies with the direction of isometric forces. 
+Each of the eight raster plots shows the activity of the same 
+primary motor cortex neuron during five repeated force ramps 
+in one direction. Each row shows the pattern of spikes during 
+a single trial of the task. The position of each raster of activity 
+corresponds to the direction in which the monkey is generating 
+isometric forces on the handle. The onset of the force ramp is 
+indicated by the vertical line labeled M. The thick ticks on the 
+left of that line in each row indicate when the target appeared 
+on a computer monitor, telling the monkey the direction in 
+which it should push on the handle. The central polar plot illus-
+trates the directional tuning function of the neuron as a function 
+of the direction of isometric forces. (Reproduced, with permis-
+sion, from Sergio and Kalaska 2003.)
+14
+M
+M
+M
+M
+M
+M
+500
+1500 ms
+12
+10
+8
+6
+Static torque (×105 dyne-cm)
+4
+2
+Tonic ﬁring frequency (ips)
+0
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+A  Neuronal activity increases with 
+ 
+the amplitude of static torque
+B  Neuronal activity varies with the direction of isometric force
+M
+M
+systematically with force direction, and the directional 
+tuning curves for isometric force resemble those for 
+activity during reaching movements (Figure 34–19B).
+The complex and nonlinear properties of multi-
+segmented limbs present a major control problem for 
+the motor system. For instance, one can make reaching 
+movements with similar hand trajectories but differ-
+ent arm geometries that require changes in the causal 
+joint-centered torques and muscle activity. In one 
+experiment, when monkeys made horizontal reaching 
+movements along the same planar spatial hand trajec-
+tories while holding the arm in different spatial orien-
+tations (ie, elbow raised versus lowered), the activity of 
+proximal-arm muscles and many M1 neurons showed 
+corresponding changes in the strength and directional 
+tuning of their reach-related activity. This indicates that 
+the M1 neurons generate signals that take into account 
+the changes in intrinsic limb biomechanics during the 
+reaching movements.
+Similarly, arm movements toward or away from 
+the body require much larger angular motion at the 
+shoulder and elbow joints compared to movements to 
+the right or left. In contrast, muscular torques tend to be 
+larger for movements to the right and left. Both of these 
+factors influence the amount of muscle activity required 
+to move the limb, which can be quantified by a single 
+term, joint muscular power (joint angular velocity mul-
+tiplied by net muscular torque about that joint). With the 
+limb in the horizontal plane, joint power is greatest for 
+movements away from the body and slightly to the left, 
+
+
+===== Page 5 =====
+848    Part V / Movement
+Figure 34–20  Limb muscles and primary motor cortical 
+neurons are broadly tuned to the direction of reaching.
+A. Plots show the activity of posterior deltoid of the right arm, 
+a shoulder extensor, during arm movements in eight directions 
+(see panel C) (central panel displays mean hand trajectories). 
+The muscle is initially maximally active for movements at 270° 
+(towards the body, preferred direction = 250°) and diminishes 
+for movements in other directions. Black lines denote the 
+mean activity of the muscle across multiple trials, and data are 
+aligned on movement onset (vertical thin line). (Abbreviation: 
+EMG, electromyography.)
+B. Raster plots show the firing pattern of a single primary 
+motor cortex neuron during whole-arm movements in eight 
+directions. The neuron discharges at the maximal rate for move-
+ments near 135° and 180° and at lesser intensities for move-
+ments in other directions. The cell’s lowest firing rate is for 
+movements opposite the cell’s preferred direction. Each row of 
+thin tics in each raster plot represents the activity in a single 
+trial, aligned at the time of movement onset (time 0); thick 
+tics, time of target appearance. (Reproduced, with permission, 
+from Georgopoulos et al. 1982. Copyright © 1982 Society for 
+Neuroscience.)
+C. Hand trajectories when reaching from a central position in 
+the horizontal plane.
+D. Peak joint power (joint muscular torques multiplied by  
+joint velocity) for movements performed in different spatial 
+directions (shoulder and elbow power added together).  
+A large amount of power is required to reach away from the 
+body and to the upper left and to reach toward the body and to  
+the lower right. (Right X-axis is at 0°.)
+E. Preferred directions of proximal-limb muscles tend to be for 
+movements that require greater muscular power, reflecting 
+the obvious link between muscle use and the physical require-
+ments of the motor task. Each dot represents an individual 
+muscle binned into 22.5° sectors; the blue dot represents the 
+preferred direction of the muscle displayed in panel A.
+F. Distribution of preferred directions of neurons in primary motor 
+cortex (M1). Each dot represents an individual neuron, and the 
+blue dot represents the preferred direction of the neuron displayed 
+in panel B. (Adapted, with permission, from Scott et al. 2001.)
+Normalized rectiﬁed EMG
+Preferred
+direction
+0
+–500
+1000
+500
+0
+–500
+1000
+500
+0
+–500
+1000
+500
+0
+–500
+1000
+500
+0
+–500
+1000
+500
+0
+–500
+1000
+500
+0
+–500
+1000
+500
+0
+–500
+1000
+500
+Preferred
+direction
+Onset of
+movement
+Onset of
+movement
+Right
+Left
+Toward
+Away
+Right
+Left
+Toward
+Away
+B  Primary motor cortex cell activity
+A  Posterior deltoid EMG activity
+C  Hand motion
+D  Joint power
+E  Muscle activity
+F  M1 Activity
+0.1 W
+100 ms
+
+
+===== Page 6 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    849
+Figure 34–21  The activity of some primary motor cortex 
+neurons can be correlated with particular patterns of muscle 
+activity. Bursts of activity in a single corticomotoneuron during a 
+reach-and-grasp movement to retrieve food pellets from a small 
+well are correlated with bursts of contractile activity in several of 
+its target muscles at different times during the movement. (Abbre-
+viations: APB, abductor pollicis brevis; BR, brachioradialis; ED2, 3, 
+extensor digitorum 2, 3; ips, impulses per second;TLAT, lateral 
+triceps.) (Reproduced, with permission, from Griffin et al. 2008.)
+and toward the body and to the right (Figure 34–20C,D). 
+This bias in the physics of limb movement leads to a bias 
+in the preferred directions of shoulder and elbow mus-
+cles, which tend to be maximally active in these same 
+directions (Figure 34–20E). Correspondingly, the distri-
+bution of preferred directions of neurons in M1 also par-
+allels this bias, with neurons tending to have preferred 
+directions either away and slightly to the left or toward 
+and to the right (Figure 34–20F). Thus, the physics of the 
+limb dictates the pattern of muscle activity needed to 
+generate movement, and this in turn is reflected in the 
+pattern of neural activity in M1.
+The impact of limb physics on M1 activity extends to 
+the level of muscle-related signals. The activity of some 
+single M1 neurons, including CM cells, can be correlated 
+with specific components of the contraction patterns of 
+different muscles during such diverse tasks as isometric 
+force generation, precision pinching of objects between 
+the thumb and index finger, and complex reaching and 
+grasping actions (Figure 34–21). These findings high-
+light how M1 contributes to the specification of mus-
+cle activity patterns for motor actions, including onset 
+times and magnitudes. Nevertheless, the final pattern 
+of muscle activity will only be generated by the spinal 
+motor neurons since they alone take into account the 
+additional influence of other descending supraspinal 
+inputs and local spinal interneuronal processes.
+All the studies described so far related the activity 
+of single M1 neurons to motor output. However, vol-
+untary motor control is implemented by the simultane-
+ous coordinated activity of many neurons throughout 
+the motor system. Their activity is noisy, varying sto-
+chastically between repetitions of the same movement. 
+Furthermore, their broad symmetrical movement-
+related tuning curves introduce a high level of uncer-
+tainty as to what the limb should do in response to the 
+ambiguous signal generated by each neuron.
+A simple computational approach was developed 
+to extract a unique signal about each reaching move-
+ment by pooling the heterogeneous single-neuron 
+activity of the recorded M1 population. The activity of 
+each neuron is represented by a vector pointing in its 
+preferred direction; the length of the vector varies as 
+a function of its mean discharge rate during reaches 
+in each direction. This vector notation implies that an 
+increase in the activity of a given M1 neuron evokes 
+changes in activity in the spinal motor apparatus and 
+muscles that causes the arm to move along a path 
+corresponding to the neuron’s task-related preferred 
+direction; the strength of that single-neuron influence 
+varies systematically with the difference between the 
+neuron’s preferred direction and the desired move-
+ment (Chapter 39, Figure 39–6). When the reach-related 
+Corticomotoneuron
+Target muscle
+TLAT
+50 ips
+0 ips
+BR
+ED2, 3
+APB
+Home plate
+Target food well
+Task segment
+4
+5
+6
+7
+8
+9
+0.5 s
+activity of about 250 M1 neurons was represented 
+by variable-length vectors for each of the eight reach 
+directions and summed, the direction of the net result-
+ant population vectors varied systematically with the 
+actual reach directions (Figure 34–22A).
+The novel insights of this analysis were that the 
+control of a given reach movement involves coordi-
+nated changes in the activity of M1 neurons distrib-
+uted throughout the M1 arm motor map and that their 
+pooled activity clearly distinguishes the unique identity 
+of each of the reach actions generated by the eight dif-
+ferent distributed patterns of population activity. Sub-
+sequent studies demonstrated that “instantaneous” 
+population vectors extracted from the pooled activity 
+of large populations of M1 neurons during sequential 
+20-ms time bins from the start to the end of movement 
+predicted the continually changing trajectory of the 
+
+
+===== Page 7 =====
+850    Part V / Movement
+Figure 34–22  Population codes relate M1 activity to differ-
+ent properties of movement.
+A. The eight single-neuron vector clusters (thin black lines) 
+and the population vectors (blue arrows) represent the activity 
+of the same population of cells during reaching movements in 
+eight different directions. Each single-neuron vector points in 
+the neuron’s preferred movement direction, and its length is 
+proportional to the discharge of the neuron during that move-
+ment. The population vectors were calculated by vectorial addi-
+tion of all the single-cell vectors in each cluster; dashed arrows 
+represent the direction of movement of the arm. (Reproduced, 
+with permission, from Georgopoulos et al. 1983.)
+B. Comparison of hand kinematics and kinetics and neural 
+population activity in an isometric task and when moving a 
+handle with a large mass. Force and neural trajectories were 
+generated by linking sequences of 20-ms output force vectors 
+or neural population vectors tip-to-tail for each direction of force 
+or movement output. (Reproduced, with permission, from  
+Sergio et al. 2005.)
+arm motions 100 to 150 ms into the future while mon-
+keys made reaching movements or traced spirals on a 
+computer monitor. This showed that the simple vector 
+notation could be used to extract from the activity of 
+populations of neurons a signal about intended motor 
+output even on a moment-to-moment basis. These find-
+ings were anticipated by a prescient study in 1970 by 
+Donald Humphrey and colleagues, who showed that 
+the appropriately summed activity of three to five M1 
+neurons was better correlated to the temporal patterns 
+of motor output during single-joint movements than 
+was the signal of any of the single neurons.
+Subsequent studies used the population-vector 
+decoder algorithm to provide further insight into 
+neural processing in M1. In one study, the activity of 
+proximal arm–related M1 neurons was recorded while 
+monkeys performed two tasks (Figure 34–22B). In the 
+first task, they generated isometric force ramps in eight 
+different spatial directions uniformly distributed at 45° 
+intervals in a horizontal plane against a rigid handle 
+that they held in their hand, without arm movements. 
+A 20-ms population-vector decoder was used to extract 
+the net directional bias of the pooled activity of many 
+M1 neurons, and the result showed that these pooled 
+signals varied systematically with the direction of out-
+put forces throughout the duration of the force-ramp 
+generation, even though there were no movements. 
+However, unlike the actual uniformly distributed 
+directions of the forces generated by the monkey at 
+the hand, the decoded population-vector signals were 
+skewed toward the x-axis. This showed that the M1 
+activity reflected the nonlinear relationship between 
+causal shoulder muscle torques and measured isomet-
+ric forces at the hand resulting from the complex bio-
+mechanical properties of the arm (see Figure 34–20).
+In the second task, the monkeys made reaching 
+movements of the arm in the same eight directions to 
+move a heavy handle. This required an initial accelera-
+tive force in the direction of movement and then a tran-
+sient reversal of the direction of forces to decelerate the 
+movement of their arm and the mass as it approached 
+the target. The decoded M1 population-vector signals 
+in this task varied dramatically through time. They 
+were directed initially toward the target but then tran-
+siently reversed just before the peak of hand veloc-
+ity. This showed once again that the M1 activity was 
+more closely correlated with the time course of causal 
+forces generating the reaching movements, including 
+their transient directional reversal, than to the uninter-
+rupted motion of the hand toward the target. They also 
+found that correlates of the forces to generate reach-
+ing were strongest in M1, weaker in PMd, and largely 
+absent in PE/MIP. This indicated that, unlike M1, 
+90°
+0°
+A
+B
+Isometric
+force
+Movement
+Hand path
+Force trajectory
+Neural trajectory
+
+
+===== Page 8 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    851
+reach-related neurons in area PE/MIP generated a reli-
+able signal about stable arm postures and the kinemat-
+ics of arm movements independent of the underlying 
+causal forces and muscle activity.
+Finally, one study has shown that reliable sig-
+nals about the time-varying activity of proximal-arm 
+muscles during reaching movements can be extracted 
+from the activity of a population of simultaneously 
+recorded M1 neurons. Another study found that the 
+pooled activity of M1 neurons that fire selectively in 
+connection with either shoulder or elbow movements 
+can predict the changes in onset times and levels of 
+contractile activity of the shoulder or elbow muscles 
+during reaches in different directions.
+These studies showed that the pooled activity of 
+many M1 neurons is a rich and reliable source of signals 
+about different time-varying attributes of whole-arm 
+movements. This provided an important conceptual 
+foundation for the development of more sophisticated 
+decoder algorithms in brain–machine interfaces that 
+make use of the movement-related information availa-
+ble in the simultaneous activity of many M1 neurons to 
+allow subjects to control the actions of neuroprosthetic 
+devices by covert modulations of M1 neuron activity 
+without overt limb movements (Chapter 39).
+Primary Motor Cortical Activity Also Reflects 
+Higher-Order Features of Movement
+Activity in M1 is not correlated only with causal forces 
+and muscle activity. Many studies, beginning with 
+those of Ed Evarts, that have attempted to dissociate 
+kinematic from kinetic properties of motor outputs 
+have found that the activity of some M1 neurons var-
+ies with the direction of movement but is only weakly 
+influenced or not influenced at all by changes in out-
+put forces. Such neurons appear to preferentially sig-
+nal the kinematic aspects of limb motion.
+Changes in behavioral task can influence the rela-
+tionship between M1 activity and motor output. One 
+study has highlighted how contextual changes in an 
+isometric force task altered the coding of force mag-
+nitude by M1 neurons. Either the order of forces or 
+the range of expected forces results in changes in the 
+activity in M1. They suggested that M1 neurons could 
+dynamically adjust their relationship to output forces 
+to optimize precision of control as a function of the 
+range of forces that would be encountered in a given 
+context. Another study found that many CM neurons 
+may discharge intensely when monkeys performed 
+precisely controlled force tasks with low force levels 
+but are relatively inactive when the monkeys gener-
+ate powerful contractions of the same muscles to make 
+brisk, back-and-forth movements of the handle. Like-
+wise, a study demonstrated that CM cells in M1 could 
+be very active when monkeys generated a precision-
+pinch grip of the thumb and index finger with rela-
+tively low force output, but were much less active or 
+nearly silent when the animals generated much larger 
+forces with a power grip involving the entire hand.
+Still another study has shown that some M1 neu-
+rons that respond to loads applied to the limb dur-
+ing postural control can lose this load sensitivity as 
+soon as the monkey makes a reaching movement to 
+another spatial target, and vice versa. That is, those 
+neurons can reflect output forces during postural 
+control, but reflect only kinematics during move-
+ment. This change in the cell’s response occurs quite 
+abruptly, about 150 ms before the onset of move-
+ment. Importantly, any neurons that are sensitive to 
+loads during both posture and movement will retain 
+the same motor field across behaviors; that is, if the 
+neuron responds only to shoulder flexor loads dur-
+ing postural control, it will respond only to shoulder 
+flexor loads during reaching.
+Even a simple change in the metrics of limb move-
+ment can have a large influence on M1 activity. In a 
+study of monkeys making slow or fast reaching move-
+ments in different directions from a central target to 
+peripheral targets, proximal limb muscles displayed 
+relatively simple scaling of their activity patterns, 
+reflecting increased forces for faster and longer reaches. 
+In contrast, M1 neurons displayed a broad range of 
+changes in their activity patterns that rarely paralleled 
+the pattern of changes observed for muscles.
+Activity in neurons can also correlate with higher-
+level features of movement such as the nature of an 
+upcoming motor action. This was demonstrated in a 
+study in which monkeys were trained to make wrist 
+movements to three targets in a row starting from one 
+extreme, stopping at a central position, and then fin-
+ishing at the other extreme. Visual cues instructed the 
+monkeys when to make each movement. Because the 
+task used a predictable sequence of wrist movements, 
+the monkeys knew before the visual cues appeared 
+what would be the next direction of movement. While 
+many M1 neurons signaled the current wrist posture or 
+the direction of each movement while they were being 
+performed, some M1 neurons reliably signaled the 
+next movement in the sequence before the visual cue 
+appeared. Many subsequent studies have confirmed 
+that M1 neurons can signal impending intended move-
+ments, although these planning-like signals are not as 
+prominent in M1 as in premotor cortical areas.
+In summary, neural recording studies have 
+revealed a diverse range of response properties within 
+
+
+===== Page 9 =====
+852    Part V / Movement
+and across movement-related cortical areas, with 
+stronger correlations to causal movement kinetics in 
+M1 and to higher-order motor parameters in premotor 
+and parietal cortex. However, these experimental find-
+ings have not yet led to a single unifying hypothesis 
+about how cortical motor circuits control voluntary 
+movements. Part of this uncertainty may result from 
+inadequacies in experimental task design.
+Representational motor-control models have inter-
+preted these complex results as evidence of the trans-
+formations between different levels of representation 
+of intended movements performed by neural popula-
+tions distributed across different cortical motor areas. 
+In contrast, nonrepresentational motor-control models 
+such as optimal feedback control argue that these same 
+results can only be interpreted as evidence of when 
+and where neural correlates of different motor output 
+parameters emerge in the dynamical activity distrib-
+uted across cortical motor areas but do not shed much 
+insight into the underlying neural computations. This 
+illustrates the experimental challenges still confronting 
+researchers as they try to reverse engineer the cortical 
+motor circuitry to reveal its internal computational 
+organization.
+Sensory Feedback Is Transmitted Rapidly to the 
+Primary Motor Cortex and Other Cortical Regions
+Postcentral and posterior parietal cortex provide much of 
+the sensory information related to the position and motion 
+of the body and the location of spatial goals that is impor-
+tant in voluntary motor control, although the cerebellum 
+is likely another important source (Chapter 37).
+The type of afferent information transmitted to 
+M1 differs between the proximal and distal portions 
+of the limb. Afferent input from cutaneous and muscle 
+sensory neurons is equally prevalent for hand-related 
+neurons, reflecting the importance for both sources of 
+sensory feedback when grasping and manipulating 
+objects with the hand. Muscle afferents provide the 
+major source of feedback from the proximal limb. Infor-
+mation from muscles is more prevalent in the rostral 
+M1, whereas cutaneous input is more common in the 
+caudal M1. Muscle afferent feedback to M1 is surpris-
+ingly rapid as it takes as little as 20 ms for M1 neurons 
+to respond following a mechanical disturbance to the 
+limb. Analogous to reaching, neural activity is broadly 
+tuned to the direction of the mechanical disturbance.
+Sensory feedback supports our ability to make 
+rapid goal-directed corrections for motor errors that 
+arise during movement planning and execution or are 
+caused by unexpected disturbances of the limb. When 
+a perturbing mechanical load is applied to the limb, the 
+motor system generates a multipeaked compensatory 
+electromyographic response, beginning with a short-
+latency stretch response (20–40 ms after the perturba-
+tion), followed by a long-latency response (50–100 ms) 
+and then a so-called “voluntary” response (≥100 ms). 
+The short latency of the initial response indicates that 
+it is generated at the spinal level. The response is rela-
+tively small and stereotyped, and its intensity scales 
+with the magnitude of the applied load. In contrast, 
+motor corrections beginning in the long-latency epoch 
+(50–100 ms) are modulated by a broad range of factors 
+necessary to attain a behavioral goal, including the 
+physics of the limb and environment, the presence of 
+obstacles in the environment, the urgency of the goal, 
+and properties of the target, including alternate goals. 
+These context-dependent features suggest the long-
+latency feedback epoch is an adaptive process in which 
+the control policy (ie, feedback gains) is adjusted based 
+on the behavioral goal, as predicted by the optimal 
+feedback control model.
+The ability of the motor system to rapidly gener-
+ate these goal-directed long-latency motor responses is 
+supported by a transcortical feedback pathway. Neural 
+activity across frontoparietal circuits responds rapidly 
+to mechanical disturbances to a limb, and the pattern 
+of activity across the cortex depends on the behavio-
+ral context. Perturbation-related activity is observed in 
+all cortical regions beginning at approximately 20 ms 
+after the disturbance even if the monkey is distracted 
+by watching a movie and does not have to respond to 
+the disturbance (Figure 34–23A,B). If the monkey is 
+actively maintaining its hand at a spatial goal, there 
+is an immediate increase in the neural response in 
+parietal area PE following the disturbance, followed 
+shortly thereafter by changes in activity in other corti-
+cal regions (Figure 34–23A,B). If the disturbance is a 
+cue that instructs the monkey to move to another spa-
+tial target, then M1 activity reflects the need for a more 
+vigorous response if the disturbance knocks the hand 
+away from the target compared to knocking the hand 
+into the target (Figure 34–23C). In contrast, perturba-
+tion-related activity in PE remains similar regardless 
+of target location.
+The Primary Motor Cortex Is Dynamic and 
+Adaptable
+One of the most remarkable properties of the brain 
+is the adaptability of its circuitry to changes in the 
+environment—the capacity to learn from experience 
+and to store the acquired knowledge as memories. 
+When human subjects practice a motor skill, perfor-
+mance improves.
+
+

@@ -1,0 +1,793 @@
+===== Page 1 =====
+37
+The Cerebellum
+The Cerebellum Is Necessary for Motor Learning in 
+Several Different Movement Systems
+Learning Occurs at Several Sites in the Cerebellum
+Highlights
+T
+he cerebellum constitutes only 10%  of the 
+total volume of the brain but contains more than 
+one-half of its neurons. The cerebellar cortex 
+comprises a series of highly regular, repeating units, 
+each of which contains the same basic microcircuit. 
+Different regions of the cerebellum receive projections 
+from distinct brain and spinal structures and then pro-
+ject back to the brain. The similarity of the architecture 
+and physiology in all regions of the cerebellum implies 
+that different regions of the cerebellum perform simi-
+lar computational operations on different inputs.
+The symptoms of cerebellar damage in humans 
+and experimental animals provide compelling evi-
+dence that the cerebellum participates in the control of 
+movement. The symptoms, in addition to being diag-
+nostic for clinicians, thus help define the possible roles 
+of the cerebellum in controlling behavior.
+Several fundamental principles define our under-
+standing of the physiological function of the cerebel-
+lum. First, the cerebellum acts in advance of sensory 
+feedback arising from movement, thus providing feed-
+forward control of muscular contractions. Second, to 
+achieve such control, the cerebellum relies on internal 
+models of the body to process and compare sensory 
+inputs with copies of motor commands. Third, the cer-
+ebellum plays a special role in motor and perceptual 
+timing. Fourth, the cerebellum is critical for adapting 
+Damage of the Cerebellum Causes Distinctive Symptoms  
+and Signs
+Damage Results in Characteristic Abnormalities of 
+Movement and Posture
+Damage Affects Specific Sensory and Cognitive Abilities
+The Cerebellum Indirectly Controls Movement Through 
+Other Brain Structures
+The Cerebellum Is a Large Subcortical Brain Structure
+The Cerebellum Connects With the Cerebral Cortex 
+Through Recurrent Loops
+Different Movements Are Controlled by Functional 
+Longitudinal Zones
+The Cerebellar Cortex Comprises Repeating Functional  
+Units Having the Same Basic Microcircuit
+The Cerebellar Cortex Is Organized Into Three 
+Functionally Specialized Layers
+The Climbing-Fiber and Mossy-Fiber Afferent Systems 
+Encode and Process Information Differently
+The Cerebellar Microcircuit Architecture Suggests a 
+Canonical Computation
+The Cerebellum Is Hypothesized to Perform Several  
+General Computational Functions
+The Cerebellum Contributes to Feedforward 
+Sensorimotor Control
+The Cerebellum  incorporates an Internal Model of the 
+Motor Apparatus
+The Cerebellum Integrates Sensory Inputs and  
+Corollary Discharge
+The Cerebellum Contributes to Timing Control
+The Cerebellum Participates in Motor Skill Learning
+Climbing-Fiber Activity Changes the Synaptic  
+Efficacy of Parallel Fibers
+
+
+===== Page 2 =====
+Chapter 37 / The Cerebellum    909
+and learning motor skills. Finally, the primate cerebel-
+lum has extensive connectivity to nonmotor areas of 
+the cerebral cortex, suggesting it performs similar 
+functions in the performance and learning of motor 
+and nonmotor behaviors.
+Damage of the Cerebellum Causes Distinctive 
+Symptoms and Signs
+Damage Results in Characteristic Abnormalities of 
+Movement and Posture
+Disorders that involve the cerebellum typically disrupt 
+normal movement patterns, demonstrating the cer-
+ebellum’s critical role in movement. Patients describe 
+a loss of the automatic, unconscious nature of most 
+movements. In the early 20th century, Gordon Holmes 
+recorded the self-report of a man with a lesion of his 
+right cerebellar hemisphere: “movements of my left 
+arm are done subconsciously, but I have to think out 
+each movement of the right arm. I come to a dead stop 
+in turning and have to think before I start again.”
+This has been interpreted as an interruption in the 
+automatic level of processing by cerebellar inputs and 
+outputs. With a malfunctioning cerebellum, it seems that 
+the cerebral cortex needs to play a more active role in 
+programming the details of motor actions. Importantly, 
+individuals with cerebellar damage do not experience 
+the paralysis that can be associated with cerebral cortical 
+damage. Instead, they show characteristic abnormalities 
+in voluntary movement, walking, and posture that have 
+provided important clues about cerebellar function.
+The most prominent symptom of cerebellar dis-
+orders is ataxia, or lack of coordination of movement. 
+Ataxia is a generic term used to describe the collec-
+tive motor features associated with cerebellar damage. 
+People with cerebellar disorders make movements 
+that qualitatively appear jerky, irregular, and highly 
+variable. Limb ataxia during reaching is characterized 
+by curved hand paths that are dysmetric in that they 
+over- or undershoot the intended target and oscil-
+late (Figure 37–1A). Patients often break a movement 
+down into components, presumably in an effort to sim-
+plify control of multi-joint movements (decomposition 
+of movement). Yet this may not be effective. For exam-
+ple, patients often have difficulty holding the shoul-
+der steady while moving the elbow, a deficit thought 
+to be due to poor predictions of how the movement 
+at the elbow mechanically affects the shoulder (Figure 
+37–1B). If prediction fails, then patients are forced to 
+try to steady the shoulder using time-delayed feed-
+back, which is less effective.
+At the end of reaching movements, there can be 
+marked oscillation as the hand approaches the target. 
+This action (or intention) tremor is the result of a series 
+of erroneous, overshooting attempts to correct the 
+movement. It largely disappears when the eyes are 
+shut, suggesting that it is driven by time-delayed vis-
+ual feedback of the movement. Finally, patients show 
+abnormalities in the rate and regularity of repeated 
+movements, a sign referred to as dysdiadochokinesia 
+(Greek, impaired alternating movement) that can be 
+readily demonstrated when a patient attempts to per-
+form rapid alternating movements (Figure 37–1C).
+People with cerebellar damage also exhibit gait ataxia 
+and poor balance. When walking, they take steps that are 
+irregularly timed and placed. They have difficulty shift-
+ing their weight from one foot to the other, which can 
+lead to falling. The trunk oscillates when they are unsup-
+ported in sitting, standing, and during walking, particu-
+larly as they start, stop, or turn. A wide stepping pattern 
+with feet spread apart is common and is thought to be a 
+compensatory measure to improve stability.
+Other signs that are commonly observed with 
+cerebellar dysfunction can also occur with damage to 
+other brain regions. People with cerebellar damage 
+often have slurred speech with irregular timing (dys-
+arthria); repetitive to-and-fro movements of the eyes 
+with a slow and fast phase (nystagmus); and reduced 
+resistance to passive limb displacements (hypotonia), 
+which is thought to be related to so-called “pendu-
+lar reflexes” often observed in cerebellar patients. In 
+patients with cerebellar disease, the leg may oscillate 
+like a pendulum many times after a knee jerk produced 
+by a tap on the patellar tendon with a reflex hammer, 
+instead of coming to rest immediately.
+Damage Affects Specific Sensory and  
+Cognitive Abilities
+It is now known that cerebellar damage affects pro-
+prioceptive abilities (the sense of limb position and 
+movement), but only during active movement. Pro-
+prioceptive acuity—the sense of the position and 
+movement of the limbs—is normally more precise for 
+active movements than for passive movements. Cer-
+ebellar patients show normal proprioceptive acuity 
+when they have to judge which of two passive move-
+ments is larger. However, their proprioceptive acuity 
+is worse than that of healthy individuals when they 
+move a limb actively. One interpretation of these find-
+ings is that the cerebellum normally helps to predict 
+how active movements will unfold, which would be 
+important for movement coordination and for perceiv-
+ing where the limbs are during active movements.
+
+
+===== Page 3 =====
+910    Part V / Movement
+Figure 37–1  (Left) Typical defects observed in cerebellar 
+diseases.
+A. A cerebellar patient moving his arm from a raised position to 
+touch the tip of his nose exhibits inaccuracy in range and direc-
+tion (dysmetria) and moves his shoulder and elbow separately 
+(decomposition of movement). Tremor increases as the finger 
+approaches the nose.
+B. Failure of compensation for interaction torques can account 
+for cerebellar ataxia. Subjects flex their elbows while keep-
+ing their shoulder stable. In both the control subject and the 
+cerebellar patient, the net elbow torque is large because the 
+elbow is moved. In the control subject, there is relatively little 
+net shoulder torque because the interaction torques are auto-
+matically cancelled by muscle torques. In the cerebellar patient, 
+this compensation fails; the muscle torques are present but are 
+inappropriate to cancel the interaction torques. As a result, the 
+patient cannot flex her elbow without causing a large perturba-
+tion of her shoulder position. (Adapted, with permission, from 
+Bastian, Zackowski, and Thach 2000.)
+C. A subject was asked to alternately pronate and supinate the 
+forearm while flexing and extending at the elbow as rapidly as 
+possible. Position traces of the hand and forearm show the nor-
+mal pattern of alternating movements and the irregular pattern 
+(dysdiadochokinesia) typical of cerebellar disorder.
+Control
+Cerebellar damage
+Normal
+Abnormal
+A
+B
+C
+Normal
+Abnormal
+Start
+Finish
+Damage to the cerebellum also affects cogni-
+tive processes, although these deficits are less obvi-
+ous compared to the pronounced disturbances of 
+sensory–motor function. Some of the earliest studies 
+implicating the cerebellum in a range of cognitive tasks 
+involved functional imaging to study the brain activ-
+ity during behavior in healthy individuals. For exam-
+ple, in a study using positron emission tomography to 
+image the brain activity of subjects during silent read-
+ing, reading aloud, and speech, areas of the cerebellum 
+involved in the control of mouth movements were more 
+active when subjects read aloud than when they read 
+silently. Surprisingly, however, cerebellar activation 
+was more pronounced in a task with greater cognitive 
+load, when subjects were asked to name a verb associ-
+ated with a noun; a subject might respond with “bark” 
+if he or she saw the word “dog.” Compared with sim-
+ply reading aloud, the word-association task produced 
+a pronounced increase in activity within the right lat-
+eral cerebellum. Consistent with this finding, a patient 
+with damage in the right cerebellum could not learn a 
+word-association task.
+By now, many studies have revealed clear defi-
+cits in executive function, visual spatial cognition, 
+language, and emotional processing after cerebellar 
+damage. There appears to be some regional specific-
+ity within the cerebellum for different types of cogni-
+tive function. Damage to the midline cerebellum or 
+vermis seems to be related to emotional or affective 
+dysregulation, likely due to its interconnectivity with 
+limbic structures. Damage to the right cerebellar hemi-
+sphere is related to language and verbal dysfunction, 
+presumably because this hemisphere is interconnected 
+with the left cerebral cortical hemisphere. Likewise, 
+damage to the left cerebellar hemisphere is related to 
+visuospatial dysfunction, probably because this hemi-
+sphere is interconnected with the right cerebral cortical 
+hemisphere. Additionally, studies that examine cogni-
+tive dysfunction produce variable results; patients 
+perform normally in one study but not another. Some 
+studies show that cognitive deficits are most pro-
+nounced when patients are tested shortly after dam-
+age to the cerebellum and that compensations at the 
+level of cerebral cortex might gradually make up for 
+
+
+===== Page 4 =====
+Chapter 37 / The Cerebellum    911
+cerebellar loss of function. However, cognitive deficits 
+may be more robust and long lasting when cerebellar 
+damage is acquired in childhood.
+Thus, cognitive deficits arising from cerebellar 
+damage sometimes can be difficult to characterize. 
+What is clear is that the motor dysfunction after cer-
+ebellar loss is more obvious than cognitive dysfunc-
+tion. It may be that cortical regions of motor control are 
+less able to compensate for losses of cerebellar motor 
+control compared to cortical compensation for impair-
+ment of cerebellar computations involved in cognitive 
+processes.
+The Cerebellum Indirectly Controls Movement 
+Through Other Brain Structures
+Understanding the anatomy of the cerebellum and 
+how it interacts with different brain structures is vital 
+to understanding its function. In this section, we con-
+sider the general anatomy of the cerebellum as well as 
+its inputs and outputs.
+The Cerebellum Is a Large Subcortical  
+Brain Structure
+The cerebellum occupies most of the posterior cranial 
+fossa. It is composed of an outer mantle of gray mat-
+ter (the cerebellar cortex), internal white matter, and 
+three pairs of deep nuclei: the fastigial nucleus, the 
+interposed nucleus (itself composed of the emboliform 
+and globose nuclei), and the dentate nucleus (Figure 
+37–2A). The surface of the cerebellum is highly convo-
+luted, with many parallel folds or folia (Latin, leaves).
+Two deep transverse fissures divide the cerebel-
+lum into three lobes. The primary fissure on the dor-
+sal surface separates the anterior and posterior lobes, 
+which together form the body of the cerebellum  
+(Figure 37–2A). The posterolateral fissure on the ven-
+tral surface separates the body of the cerebellum from 
+the smaller flocculonodular lobe (Figure 37–2B). Each 
+lobe extends across the cerebellum from the midline 
+to the most lateral tip. In the orthogonal, anterior-
+posterior direction, two longitudinal furrows separate 
+three regions: the midline vermis (Latin, worm) and 
+the two cerebellar hemispheres, each split into inter-
+mediate and lateral regions (Figure 37–2D).
+The cerebellum is connected to the dorsal aspect 
+of the brain stem by three symmetrical pairs of pedun-
+cles: the inferior cerebellar peduncle (also called the 
+restiform body), the middle cerebellar peduncle (or 
+brachium pontis), and the superior cerebellar peduncle 
+(or brachium conjunctivum). Most of the output axons 
+of the cerebellum arise from the deep nuclei and pro-
+ject through the superior cerebellar peduncle to other 
+brain areas. The main exception is a group of Purkinje 
+cells in the flocculonodular lobe that project to vestibu-
+lar nuclei in the brain stem.
+The Cerebellum Connects With the Cerebral  
+Cortex Through Recurrent Loops
+Many parts of the cerebellum form recurrent loops 
+with the cerebral cortex. The cerebral cortex projects 
+to the lateral cerebellum through relays in the pon-
+tine nuclei. In turn, the lateral cerebellum projects 
+back to the cerebral cortex through relays in the thala-
+mus. Peter Strick and his colleagues used viruses for 
+transneuronal tracing in nonhuman primates to show 
+that this recurrent circuit is organized as a series of par-
+allel closed loops, where a given part of the cerebellum 
+connects reciprocally with a specific part of the cer-
+ebral cortex (Figure 37–3A). Through these reciprocal 
+connections, the cerebellum interacts with vast regions 
+of the neocortex, including substantial connections to 
+motor, prefrontal, and posterior parietal regions. More 
+recently, Strick’s group also demonstrated disynaptic 
+connections between the cerebellum and basal ganglia 
+in nonhuman primates.
+The resting state connectivity between the cerebel-
+lum and cerebral cortex in humans was studied using 
+fMRI scans of 1,000 subjects. Correlations in activity in 
+different regions of the brain were assessed at low fre-
+quencies, measured by blood flow while subjects were 
+at rest. They found that different regions of the cerebel-
+lum are functionally connected with cerebral cortical 
+regions across the entire cerebral cortex (Figure 37–3C). 
+Taken together, these studies demonstrate the vast 
+impact the cerebellum could have on many aspects of 
+brain function.
+Different Movements Are Controlled by  
+Functional Longitudinal Zones
+The cerebellum can be broadly divided into three areas 
+that have distinctive roles in different kinds of move-
+ments: the vestibulocerebellum, spinocerebellum, and 
+cerebrocerebellum (Figure 37–4).
+The vestibulocerebellum consists of the flocculonod-
+ular lobe and is the most primitive part of the cerebel-
+lum. It receives vestibular and visual inputs, projects to 
+the vestibular nuclei in the brain stem, and participates 
+in balance, other vestibular reflexes, and eye move-
+ments. It receives information from the semicircular 
+canals and the otolith organs, which sense the head’s 
+motion and its position relative to gravity. Most of this 
+
+
+===== Page 5 =====
+912    Part V / Movement
+Midbrain
+Tonsil
+Flocculus
+Nodulus
+Superior
+Middle
+Inferior
+Cerebellar peduncles:
+Flocculonodular lobe:
+Primary
+ﬁssure
+A  Dorsal view
+B  Ventral view
+C  Midsagittal section
+Pons
+Posterolateral
+ﬁssure
+Medulla
+Posterolateral 
+ﬁssure
+Centralis II, III
+Lingula I
+Culmen 
+IV, V
+Declive 
+VI
+Folium 
+VIIa
+Tuber 
+VIIb
+Pyramis 
+VIII
+Uvula IX
+Nodulus X
+Cerebellar 
+peduncles:
+Superior
+Middle
+Inferior
+Primary ﬁssure
+Vermis
+Caudate 
+nucleus
+Putamen
+Internal 
+capsule
+Thalamus
+Hemisphere
+Dentate
+nucleus
+Emboliform nucleus
+Globose nucleus
+Fastigial
+nucleus
+Tonsil
+Interposed nuclei:
+Cerebrocerebellum
+(lateral hemispheres)
+Spinocerebellum
+(vermis and 
+intermediate 
+hemispheres)
+Vestibulocerebellum
+(ﬂocculonodular node)
+D  Motor and cognitive functional regions
+Figure 37–2  Gross features of the cerebellum. (Adapted, 
+with permission, from Nieuwenhuys, Voogd, and van Huijzen 
+1988.)
+A. Part of the right hemisphere has been cut away to reveal the 
+underlying cerebellar peduncles.
+B. The cerebellum is shown detached from the brain stem.
+C. A midsagittal section through the brain stem and cerebellum 
+shows the branching structure of the cerebellum. The cerebellar 
+lobules are labeled with their Latin names and Larsell’s Roman 
+numeral designations. (Reproduced, with permission, from Lar-
+sell and Jansen 1972.)
+D. Functional regions of the cerebellum.
+vestibular input arises from the vestibular nuclei in the 
+brain stem. The vestibulocerebellum also receives vis-
+ual input, from both the pretectal nuclei that lie deep 
+in the midbrain beneath the superior colliculus and the 
+primary and secondary visual cortex through the pon-
+tine and pretectal nuclei.
+The vestibulocerebellum is unique in that its 
+output bypasses the deep cerebellar nuclei and pro-
+ceeds directly to the vestibular nuclei in the brain 
+stem. Purkinje cells in the midline parts of the ves-
+tibulocerebellum project to the lateral vestibular 
+nucleus to modulate the lateral and medial ves-
+tibulospinal tracts, which predominantly control 
+axial muscles and limb extensors to assure balance 
+during stance and gait (Figure 37–5A). Disruption of 
+these projections through lesions or disease impairs 
+equilibrium.
+The most striking deficits following lesions of the 
+lateral vestibulocerebellum are in smooth-pursuit eye 
+movement toward the side of the lesion. A patient 
+with a lesion of the left lateral vestibulocerebellum 
+can smoothly track a target that is moving to the right, 
+but only poorly tracks motion to the left, using sac-
+cades predominantly (Figure 37–6A). These patients 
+can have normal vestibulo-ocular reflex responses 
+to head rotations but cannot suppress the reflex by 
+fixating an object that rotates with the head (Figure 
+37–6B). These deficits occur commonly if the lateral 
+
+
+===== Page 6 =====
+Chapter 37 / The Cerebellum    913
+Figure 37–3  The cerebellum connects to many areas of 
+cerebral cortex. (Parts A and B adapted, with permission, 
+from Bostan, Dum, and Strick 2013. Copyright © 2013 Elsevier 
+Ltd. part C adapted, with permission, from Buckner et al. 2011. 
+Copyright © 2011 American Physiological Society.)
+A. The cortical-cerebellar circuit in monkeys was traced with 
+fluorescence-labeled transsynaptic viruses that can move in an 
+anterograde or retrograde direction. Injection into the cerebral 
+cortex of a retrograde virus, such as rabies virus, will label 
+neurons that project to it and, by crossing synapses, can label 
+second- and possibly higher-order neurons in a pathway. These 
+are shown here in red as first-order (thalamus), second-order 
+(deep nucleus), and third-order neurons (Purkinje cells). Injec-
+tion into the cerebral cortex of an anterograde virus, such as 
+the H129 strain of herpes simplex virus, will label neurons that 
+are targets of the cerebral cortex. These are shown here in 
+yellow as first-order (pons), second-order (granule cells), and 
+third-order neurons (Purkinje cells). (Abbreviations: DN, dentate 
+nuclei; GC, granule cell; H129, strain of herpes simplex virus; 
+PC, Purkinje cell rabies virus.)
+B. Areas of the cerebral cortex connected to the cerebellum. 
+The numbers refer to cytoarchitectonic areas. (Abbreviations: 
+AIP, anterior intraparietal area; M1, face, arm, and leg areas of 
+the primary motor cortex; PMd arm, arm area of the dorsal pre-
+motor area; PMv arm, arm area of the ventral premotor area; 
+PrePMd, predorsal premotor area; PreSMA, presupplementary 
+motor area; SMA arm, arm area of the supplementary motor 
+area.)
+C. Color-coded coronal section of the human cerebellum (top) 
+and lateral and medial views of the human cerebral cortex  
+(bottom) created from resting state functional connectivity 
+maps (based on functional magnetic resonance imaging scans 
+of 1,000 subjects). Colors correspond to cerebellar and cerebral 
+areas that are connected. Note that the cerebellum is function-
+ally connected with nearly all cerebral areas. (Abbreviations: 
+HF, horizontal fissure; PF, primary fissure.)
+A  Cortical-cerebellar circuit
+B  Cortical-cerebellar connections in the monkey
+C  Cortical-cerebellar connections in the human
+HF
+SMA
+Cerebral
+cortex
+Retrograde
+transport
+Anterograde
+transport
+1st
+order
+3rd order
+2nd
+order
+1st
+order
+2nd
+order
+Rabies virus
+H129
+PC
+DN
+GC
+Thalamus
+Pons
+M1
+PMd
+Arm
+Pre-PMd
+PMv
+Arm
+Leg
+Face
+AIP
+7b
+Arm
+Leg
+Pre SMA
+9m
+9I
+46d
+PF
+
+
+===== Page 7 =====
+914    Part V / Movement
+F
+IP
+D
+Input
+Vestibular 
+nuclei
+Spinocerebellar
+and pontine 
+nuclei
+Pontine 
+nuclei
+Spinocerebellar 
+nuclei
+Association  
+cortex
+Somatosensory 
+receptors (limbs), 
+motor cortex
+Somatosensory 
+receptors (trunk),  auditory 
+and visual information
+Somatosensory 
+receptors (neck), labyrinths, 
+and visual information
+Vestibular 
+nuclei
+Output
+Motor, prefrontal, 
+premotor, and 
+parietal cortices
+Interneurons (spinal 
+cord), inferior olive, 
+other brain stem nuclei
+Motor and interneurons
+(spinal cord and 
+brain stem)
+Ventrolateral 
+thalamus
+Red nucleus 
+reticular nuclei
+Vestibular 
+nuclei
+Cerebrocerebellum
+Spinocerebellum
+Vestibulocerebellum
+Spinocerebellar paths (and
+vestibulocerebellar and 
+pontocerebellar paths)
+Vestibulocerebellar paths 
+(and spinocerebellar and 
+pontocerebellar paths)
+Figure 37–4  The three functional regions of the cerebel-
+lum have different inputs and different output targets.  The 
+cerebellum is shown unfolded, and arrows indicate the inputs 
+and outputs of the different functional areas. The body maps in 
+the deep nuclei are based on anatomical tracing and single-cell 
+recordings in nonhuman primates. (Abbreviations: D, dentate 
+nucleus; F, fastigial nucleus; IP, interposed nucleus.) (Adapted, 
+with permission, from Brooks and Thach 1981).
+
+
+===== Page 8 =====
+Chapter 37 / The Cerebellum    915
+Figure 37–5  Input and output pathways of the  
+cerebellum.
+A. Nuclei in the vestibulocerebellum and the vermis control 
+proximal muscles and limb extensors. The vestibulocerebel-
+lum (flocculonodular lobe) receives input from the vestibular 
+labyrinth and projects directly to the vestibular nuclei. The 
+vermis receives input from the neck and trunk, the vestibular 
+labyrinth, and retinal and extraocular muscles. Its output is 
+focused on the ventromedial descending systems of the brain 
+stem, mainly the reticulospinal and vestibulospinal tracts and 
+the corticospinal fibers acting on medial motor neurons. The 
+oculomotor connections of the vestibular nuclei have been 
+omitted for clarity.
+B. Nuclei in the intermediate and lateral parts of the cerebellar 
+hemispheres control limb and axial muscles. The intermedi-
+ate part of each hemisphere (spinocerebellum) receives sen-
+sory information from the limbs and controls the dorsolateral 
+descending systems (rubrospinal and corticospinal tracts) acting 
+on the ipsilateral limbs. The lateral area of each hemisphere (cer-
+ebrocerebellum) receives cortical input via the pontine nuclei and 
+influences the motor and premotor cortices via the ventrolateral 
+nucleus of the thalamus, and directly influences the red nucleus.
+A
+B
+Thalamus
+(ventrolateral
+nucleus)
+Primary and 
+premotor
+cortex
+To limb muscle
+Pyramidal
+decussation
+Dentate
+nucleus
+Cerebrocerebellum
+Spinocerebellum
+Interposed
+nuclei
+Red nucleus
++
++
++
++
++
+–
+–
+Corticospinal 
+tract
+Rubrospinal 
+tract
++
+Thalamus
+(ventrolateral
+nucleus)
+Primary and 
+premotor
+cortex
+Limb
+extensors
+(antigravity
+muscles)
+Axial and proximal
+(antigravity muscles)
+Medullary
+reticular
+formation
+Lateral
+vestibular
+nucleus
+Fastigial
+nucleus
+–
+–
+–
++
++
++
++
+Vermis
++
+Flocculonodular
+lobe
+
+
+===== Page 9 =====
+916    Part V / Movement
+Leftward 
+head rotation
+Eye
+position
+Eye
+position
+Rightward 
+head rotation
+A
+B
+L
+R
+Dark
+Light
+(tracking 
+object)
+1 Normal VOR
+ eye movement
+ during both 
+ rotations
+2 Normal ﬁxation only 
+ during rightward 
+ rotation when leftward 
+ VOR is suppressed 
+Smooth
+movement
+Saccade
+Target
+Gaze
+Position
+Time
+Figure 37–6  Lesions in the vestibulocerebellum have large 
+effects on smooth-pursuit eye movements.
+A. Sinusoidal target motion is tracked with smooth-pursuit eye 
+movements as the target moves from left (L) to right (R). With a 
+lesion of the left vestibulocerebellum, smooth pursuit is punctu-
+ated by saccades when the target moves from right to left.
+B. In the same patient, responses to vestibular stimulation are 
+normal, whereas object fixation is disrupted during leftward 
+rotation. The traces on the left and right show the eye move-
+ments evoked by rightward and leftward head rotation experi-
+enced in separate sessions. In each session the patient sat in a 
+chair that rotated continuously in one direction, first in the dark 
+then in the light while fixating on a target that moves along 
+with him. (1) In the dark, the eyes show a normal vestibulo-
+ocular reflex (VOR) during rotation in both directions: The eyes 
+move smoothly in the direction opposite to the head’s rotation, 
+then reset with saccades in the direction of head rotation. (2) In 
+the light, the eye position during rightward head rotation is nor-
+mal: Fixation on the target is excellent and the vestibulo-ocular 
+reflex is suppressed. During leftward head rotation, however, 
+the subject is unable to fixate on the object and the vestibulo-
+ocular reflex cannot be suppressed.
+vestibulocerebellum is compressed by an acoustic 
+neuroma, a benign tumor that grows on the eighth 
+cranial nerve as it courses directly beneath the lateral 
+vestibulocerebellum.
+The spinocerebellum is composed of the vermis and 
+intermediate parts of the cerebellar hemispheres 
+(Figure 37–4). It is so named because it receives exten-
+sive input from the spinal cord via the dorsal and ven-
+tral spinocerebellar tracts. These pathways convey 
+information about touch, pressure, and limb position 
+as well as the spiking activity of spinal interneurons. 
+Thus, these inputs provide the cerebellum with varied 
+information about the changing state of the organism 
+and its environment.
+The vermis receives visual, auditory, and vestib-
+ular input as well as somatic sensory input from the 
+head and proximal parts of the body. It projects by 
+way of the fastigial nucleus to cortical and brain stem 
+regions that give rise to the medial descending systems 
+controlling proximal muscles of the body and limbs 
+(Figure 37–5A). The vermis governs posture and loco-
+motion as well as eye movements. For example, lesions 
+of the oculomotor region of the vermis cause saccadic 
+eye movements that overshoot their target, much as 
+patients with cerebellar damage make arm movements 
+that overshoot their target.
+The adjacent intermediate parts of the hemispheres 
+also receive somatosensory input from the limbs. Neu-
+rons here project to the interposed nucleus, which 
+provides inputs to lateral corticospinal and rubrospi-
+nal systems on the contralateral side of the brain and 
+controls the more distal muscles of the limbs and dig-
+its (Figure 37–5B). Because corticospinal and rubrospi-
+nal systems cross the midline as they descend to the 
+spinal cord, cerebellar lesions disrupt ipsilateral limb 
+movements.
+
+

@@ -1,0 +1,668 @@
+===== Page 1 =====
+UNCONVENTIONAL COMPUTING
+As discussed in the introduction to this book, any (bio)physical mechanism that transforms
+some physical variable, such as the electrical potential across the membrane, in such a way
+that it can be mapped onto a meaningful formal mathematical operation, such as delay-
+and-correlate or convolution, can be treated as a computation. Traditionally only Vm, spike
+trains, and the firing rate /(f) have been thought to play this role in the computations
+performed by the nervous system.
+Due to the recent and widespread usage of high-resolution calcium-dependent fluorescent
+dyes, the concentration of free intracellular calcium [Ca
+2+], in presynaptic terminals,
+dendrites, and cell bodies has been promoted into the exalted rank of a variable that can
+act as a short-term memory and that can be manipulated using buffers, calcium-dependent
+enzymes, and diffusion in ways that can be said to instantiate specific computations.
+But why stop here? Why not consider the vast number of signaling molecules that are
+localized to specific intra- or extracellular compartments to instantiate specific computations
+that can act over particular spatial and temporal time scales? And what about the peptides and
+hormones that are released into large areas of the brain or that circulate in the bloodstream? In
+this penultimate chapter, we will acquaint the reader with several examples of computations
+that use such unconventional means.
+20.1 A Molecular Flip-Flop
+The computation in question constitutes a molecular switch that stores a few bits of
+information at each of the thousands of synapses on a typical cortical cell. In order to
+describe its principle of operation, it will be necessary to introduce the reader to some basic
+concepts in biochemistry. The ability of individual synapses to potentially store analog
+variables is important enough that this modest intellectual investment will pay off. (For an
+introduction to biochemistry, consult Stryer, 1995).
+20.1.1 Autophosphorylating Kinases
+A group of proteins called kinases phosphorylate particular target proteins, that is they add
+a ΡΟ;|~ group. The negative charge of the phosphate group changes the shape of the protein,
+452
+20
+
+
+===== Page 2 =====
+20.1 A Molecular Flip-Flop 
+· 453
+altering its function in very specific ways. Phosphorylation is a very common mechanism to
+modulate ionic currents and synapses (Kennedy and Marder, 1992; Hille, 1992; Kennedy,
+1994). Indeed, for the most part metabotropic synaptic receptors act by causing the final
+target channel to be phosphorylated. Many of these kinases are activated by elevated levels
+of intracellular calcium.
+In principle such a kinase could be used as a trigger to a 1-bit storage device. Calcium
+rashes into the cell, directly or indirectly activating the kinase, which in turn switches
+protein molecules into their phosphorylated "on" state. This "on" state is then assumed to
+be read out by another protein or process.
+The problem with this is twofold. Firstly, another class of enzymes, the phosphatases,
+undoes the work of the kinase by snipping off the PO^" group. This returns the protein to its
+"off" state. The time constant of this degrading action is on the order of minutes. Secondly,
+all the molecules making up biological systems (with the exception of DNA) degrade over
+a period of days, weeks, or, at the most, within a few months. This relentless molecular
+turnover means that each and every protein, phosphorylated or not, is eventually replaced
+by newly synthesized, and thereby unphosphorylated, proteins.
+How can such unstable molecules be used to construct memories that can last for a
+lifetime? One solution is to store information in the very stable DNA molecules in the
+nucleus at the cell body. While it appears plausible that such storage occurs for properties
+that affect the entire neuron, such as the level of expression of its receptors or the overall
+state of its firing rate adaptation (Kandel and Schwartz, 1982), it is unclear how the DNA
+in the nucleus could control the synaptic strength of each and every one of the thousands
+of synapses in the dendritic tree of a typical neuron. This has lead to the proposal (Crick
+1984b; Lisman, 1985; Saitoh and Schwartz, 1985; Miller and Kennedy, 1986) that a bistable
+kinase stores the information locally at each synapse. (For older ideas on the regulation of
+cellular growth and differentiation with the help of enzymatic networks see Monod and
+Jacob, 1961.)
+The principle uses something called autophosphorylation, in which a particular kinase,
+here generically termed kinase-1, can phosphorylate itself in an autocatalytic reaction.
+The basic switch, illustrated in Fig. 20.1, is built from two proteins, kinase-1 and a
+phosphatase. Some neuronal stimulus, such as a brief but strong calcium transient at a
+dendritic spine, triggers a local kinase, kinase-2. As long as it is present, it phosphorylates
+kinase-1, transforming it from its inactive K\ to its active K\ form. The presence of a
+phosphatase turns off this form, by returning it to its native K\ state. This system can only
+store information as long as the original kinase-2 is present, for in its absence, all of the
+kinase-1 eventually ends up in its inactive K\ form.
+Things become interesting if intermolecular autophosphorylation occurs. Here the
+phosphorylated kinase-1 molecules can phosphorylate other, not yet phosphorylated kinase-
+1 molecules. The more K* is present, the larger the rate with which K\ is transformed into
+its active counterpart. Conversely, the larger the amount of A'*, the smaller the pool of
+remaining K\ that can be phosphorylated. The kinetic equation describing this first-order
+reaction can be formulated as (Lisman, 1985)
+(20.1)
+where K<JI and K^ are the Michaelis constants for the kinase-1 and the phosphatase
+reactions, respectively, and [P] is the concentration of the phosphatase. The Michaelis
+constant of an enzymatic reaction is defined as the concentration of the substrate (here
+
+
+===== Page 3 =====
+454 · 
+UNCONVENTIONAL COMPUTING
+Fig. 20.1 MOLECULAR FLIP-FLOP SWITCH 
+Basic building block of a bistable molecular switch
+that can retain its memory indefinitely in the face of constant protein turnover. The switch is constructed
+from an inactive unphosphorylated and an active phosphorylated form of a protein kinase, labeled K\
+and K* respectively. The transition from the inactive to the active form of the protein can be initiated
+from the outside by another kinase KI (which, in turn, is triggered by some neuronal stimulus such
+as an elevation in the local calcium concentration). The critical component of the switch is the ability
+of the active form of kinase-1 to facilitate the phosphorylation of its own inactive form: the higher
+the concentration of K^, the larger the reaction rate. The amount of K^, in turn, controls some other
+process. Some phosphatase molecule is assumed to return the phosphorylated kinase-1 to its native
+unphosphorylated state. Reprinted in modified form by permission from Lisman (1985).
+either K\ or K*) at which the reaction rate is half of its maximal value. c\ and ci are the
+turnover numbers of the kinase-1 and phosphatase.
+The first term on the right-hand side can be thought of as the product of [K\] and a
+forward rate constant. Due to autophosphorylation, the rate constant increases with [K*],
+but saturates at high concentrations of [K\]. The backward rate constant saturates as well
+and is proportional to the fixed concentration [/*]. Equation 20.1 is supplemented by the
+requirement that the total amount of kinase-1 in its active and inactive forms be conserved,
+(20.2)
+Equation 20.1 can be expressed in normalized units (Κ = [Κ*]/Τχ 
+with 0 < K <
+1; K'dl = Kdl/7V and K*', = K*r/TK) as
+(20.3)
+With our choice of parameters (see legend to Fig. 20.2), the first reaction essentially does not
+saturate and has the shape of a parabola, while the second reaction is a strongly saturating
+function of K (Fig. 20.2A). The difference between the two terms is shown in Fig. 20.2B
+and displays, in general, three zero crossings.
+The stability of Eq. 20.3 can be investigated using the methods introduced in Chap. 7,
+except that here everything is simpler. The system is stable if its first temporal derivative
+is zero and its second derivative negative. It is clear that the origin, K = 0, is a stable
+point, since any small perturbation K = € > 0 will lead to a negative value of dK/dt,
+bringing the system back to the origin. However, if the calcium stimulus that initiates the
+entire reaction by activating kinase-2 is present for a long enough time, it can phosphorylate
+enough kinase-1 into its active form to move K past the second zero crossing in Fig. 20.2B.
+The system will converge to the third zero crossing and will remain there, even once the
+initial kinase-2 stimulus has subsided. The basis of attraction of the second stable point is
+large enough for it to remain stable even in the face of the ubiquitous turnover of all proteins
+
+
+===== Page 4 =====
+20.1 A Molecular Flip-Flop 
+· 455
+Fig. 20.2 BISTABILITY or THE PHOSPHORYLATED FORM OF KINASE-I 
+(A) Turnover, that is, the
+rate of the two reactions, as a function of the relative fraction of kinase-1 in its phosphorylated form,
+Κ = [K*]/TK (Eq. 20.3 and Fig. 20.1). "Kinase" refers to the first term in Eq. 20.3, expressing
+the rate at which kinase-1 is moved from its inactive to its active phosphorylated form, while the
+inverse reaction, here assumed to saturate, is labeled "Phosphatase." (B) Net rate of change in the
+phosphorylated form of kinase-1, that is, the difference between the two curves in the upper panel. The
+stable points of the systems are at Κ = 0 and 0.74. That is, either no active form is present or about
+three-quarters of kinase-1 is in its phosphorylated form. Parameters are from Lisman (1985) with
+ci = 30/sec, c2 = 3/sec, KJI = 1 μΜ, K^ = 2.5 nM, [P] = 5 nM and TK = 50 nM. Reprinted in
+modified form by permission from Lisman (1985).
+(unless this turnover is faster than the rate of autophosphorylation). In other words, 1 bit of
+information can be stored in this system, making it a molecular flip-βορ, even though all
+the molecules that make up the switch can themselves slowly turn over.
+Nothing is free in nature. In this case the cost of maintaining the switch in its "on" position
+is represented by the ATP molecules supplying the energy needed to rephosphorylate those
+kinase molecules that are being dephosphorylated (similar to the power requirements for
+maintaining dynamic RAM).
+This switch can be turned off by increasing the amount of phosphatase such that the
+loss of the phosphorylated form of kinase-1 cannot be compensated any longer by the
+autophosphorylation.
+The important concept that has emerged from this proposal (Crick 1984b; Lisman, 1985;
+Miller and Kennedy, 1986) is the feasibility of long-term information storage by a molecular
+switch that attains its stability using a biochemical reaction with positive feedback.
+
+
+===== Page 5 =====
+456 · UNCONVENTIONAL COMPUTING
+20.1.2 CaM Kinase II and Synaptic Information Storage
+What is the experimental status of the molecular switch idea? Work on the biochemistry and
+biophysics of long-term potentiation (LTP) and long-term depression (LTD; see Chap. 13)
+has shown that a brain protein, called Ca2+/calmodulin-dependent protein kinase II (CaM
+kinase If), has many of the properties of the hypothetical kinase-1 discussed above. It has also
+a number of differences that make the proposal even more attractive from a computational
+point of view (Lisman and Goldring, 1988; Lisman, 1989; Patton, Molloy, and Kennedy,
+1993; Lisman, 1994; Hanson et al., 1994).
+Firstly, CaM kinase II exists in high concentrations at \h& postsynaptic density at synapses
+in the central nervous system (Fig. 4.1; Kennedy, 1993). Secondly, the kinase, immobilized
+within the postsynaptic density, is activated by the calcium-calmodulin complex (Hanson et
+al., 1994; Fig. 11.7). Finally, once a particular concentration of calcium has been exceeded,
+the molecule switches into an "on" state that retains its activity even after the removal of the
+initial Ca2+ stimulus (Miller and Kennedy, 1986). And this calcium-independent form of
+the phosphorylated CaM kinase II has been found at least up to an hour after the induction
+of LTP (Fukunaga et al., 1993).
+One important difference between the hypothetical kinase-1 and CaM kinase II is that the
+latter works by intramolecular autophosphorylation. Figure 20.3A illustrates a schematic
+version of the structure of this enzyme, which consists of 12 subunits. Each subunit, in
+turn, contains three to four phosphorylation sites. Miller and Kennedy (1986) determined
+experimentally that calcium is only necessary for the addition of the first two to four
+phosphate groups onto these sites (out of a possible 30 or so sites) on a single CaM kinase
+II molecule. Subsequently, even if Ca2+ is removed, the other sites phosphorylate on their
+own in an autocatalytic reaction. If subunits become dephosphorylated by the action of
+phosphatase or if a new—unphosphorylated—subunit is inserted into the molecule as part
+of the general protein turnover, the remaining phosphorylated sites are more than sufficient
+to rephosphorylate all sites.
+The fact that the autocatalytic reaction only occurs within a single molecule of CaM
+kinase II (that is, one molecule cannot phosphorylate a subunit in another molecule of
+CaM kinase II) opens the door to the possibility that analog information, rather than 1 bit of
+information, can be stored at an individual synapse (Lisman and Goldring, 1988; Fig. 20.3B).
+This assumes that the calcium transient, initiated by ongoing synaptic activity, does not
+saturate the postsynaptic density for so long that all CaM kinase II molecules will be in
+their phosphorylated states. Each calcium event will cause some molecules to switch. The
+more calcium, the more molecules will be switched. The amount of information that can be
+encoded in this manner depends on the uncertainty in the fraction of kinase molecules that
+is switched into their "on" state. Given the stochastic nature of molecular binding, Lisman
+and Goldring (1988) estimate that about 80 of these molecules could effectively store 3 to
+4 bits of information at each synapse.
+It is very tempting to estimate the storage capacity of the brain by simply multiplying
+this number by the total synaptic density of the cortex. But the implicit assumption that all
+synapses are independent of each other is most certainly incorrect. Furthermore, we know
+almost nothing about the spatial and temporal specificity of the read-out mechanism of the
+autophosphorylating molecular switch. Even the best RAM memory in the world serves
+little purpose if its states cannot be independently accessed.
+The specific hypothesis we discussed, although exciting and with some experimental
+support, needs to be worked out in all of its messy biochemical details. What it does show,
+at least in principle, is that individual molecules can be used to instantiate computations
+using positive and negative feedback loops.
+
+
+===== Page 6 =====
+20.1 A Molecular Flip-Flop 
+· 457
+Fig. 20.3 SYNAPTIC INFORMATION STORAGE VIA CAM KINASE II 
+Experimental observations
+implicate the brain type II Ca2+/calmodulin-dependent protein kinase (CaM kinase II) as the crucial
+protein implementing the autocatalytic switching behavior proposed by Crick (1984b) and Lisman
+(1985). (A) One such molecule consists of a number of subunits with a total of about 30 phosphoryla-
+tion sites, of which 12 are illustrated here. A rise in Ca2+ leads to formation of a calcium-calmodulin
+complex (Fig. 11.7) that induces phosphorylation of some of the sites. If a critical number of these
+sites (probably around three) has been phosphorylated, the molecule can itself phosphorylate the
+remaining sites in the absence of any further Ca2+. This autocatalytic reaction also assures that the
+molecule remains completely phosphorylated in the face of the degrading action of phosphatase
+and the perpetually occurring protein turnover of individual subunits. (B) Because a phosphorylated
+molecule of this kinase cannot phosphorylate another molecule, an ensemble of molecules can encode
+graded information, as long as the initial calcium stimulus does not lead to phosphorylation occurring
+on all sites of all molecules. Due to the random nature of this process, the calcium transient causes
+a few sites on the four molecules to be phosphorylated (left and center). Here, it is assumed that
+if at least three sites per molecule are phosphorylated, the remaining sites on that molecule will be
+autophosphorylated, resulting in two completely activated and two inactivated molecules, even in the
+absence of elevated calcium (right). A longer calcium transient would have turned all four molecules
+on, allowing for the analog storage of information at each synapse (up to 4 bits). Reprinted in modified
+form by permission from Lisman and Goldring (1988).
+In closing, let us recall the large number (on the order of 102-103) of regulatory proteins
+that can interact with calcium and other second messengers, giving rise to a complex web of
+dense interactions. We need to understand in what sense these molecules not only serve as
+metabolic intermediaries but also represent, store, and manipulate information. In principle,
+the computations involving Vm and [Ca2+], could be supplemented by molecular or protein
+computations. Their advantages are the minimal spatial requirements, usually operating at
+
+
+===== Page 7 =====
+458 · 
+UNCONVENTIONAL COMPUTING
+the submicrometer scale, and the speed of the reaction, limited only by the associated
+chemical rate constants (Koshland, 1987; Bray, 1995; Barkai and Leibler, 1997).
+20.2 Extracellular Resources and Presynaptic Inhibition
+The designer of analog very large scale integrated (VLSI) electronic circuits needs to be
+careful when considering the spatial placement of various circuit components onto the
+silicon chip. For instance, the wire carrying the digital clock cannot be placed too closely to
+the wire carrying analog information since capacitive coupling between the two can induce
+sufficient noise so that the possibly very small analog variable can become corrupted. If
+done cleverly, the parasitic capacitance of a standard metal-oxide-semiconductor transistor
+can be exploited for a time-derivative computation rather than being an undesirable feature
+of this particular type of hardware.
+We would argue that it is one of the defining characteristics of any efficient information
+processing system that the algorithms implemented are carefully matched to the physics of
+the machine. If we are willing to spend enough resources, of which there are fundamentally
+three—space, time, and power—we can violate such design principles, but at a price. In
+today's digital computers we take enormous amounts of time and power to implement
+functions that a house fly, with a brain volume of less than 1 mm
+3, can carry out in real time.
+It is reasonable to assume that evolutionary pressures will have acted on the nervous
+system in such a way as to optimize the placement of all circuit elements using constraints
+that we are only now beginning to be dimly aware of.
+A case in point is the resource limitation imposed by the extracellular space (Montague,
+1996). The amount of space accessible to ions outside neurons and glia cells is very small.
+Correcting for shrinkage during histological preparation of biological material leads to a
+volume fraction a, which is the fraction of the volume that is extracellular space. It is around
+20% for most tissues (that is, α = 0.2), with peak values of 30% for the parallel fiber system
+in the cerebellum (Nicholson, 1995; Syková, 1997; Barbour and Hausser, 1997). Of course,
+a = 1 for an unencumbered volume (e.g., a beaker of water).
+The smallness of this space could have important functional consequences, as proposed
+by Montague (1996). As discussed already in Sec. 4.2, the arrival of an action potential at
+the presynaptic terminal causes voltage-dependent calcium channels to open. The resulting
+influx of extracellular calcium is the crucial signal that triggers exocytosis, when the vesicle
+containing neurotransmitter molecules fuses with the membrane and dumps its content
+into the synaptic cleft (Bennett, 1997). When not enough calcium is present outside the
+presynaptic terminal, the probability of release, and therefore the average postsynaptic
+response, drops. Reducing the extracellular concentration [Ca2+]0 by a factor of 2, from 2
+to 1 mM, reduces the postsynaptic response to 30% of its original value (Mintz, Sabatini,
+and Regehr, 1995). Reducing the extracellular Ca2+ concentration fourfold attenuates the
+postsynaptic response more than tenfold.
+It has been estimated that on the order of 13,000 Ca2+ ions enter the presynaptic terminal
+to trigger release of a vesicle (Borst and Sakmann, 1996). Given the tight extracellular space,
+filled with membranes and other organelles that impede the rapid diffusion of ions, this influx
+of Ca2+ into the presynaptic terminal will deplete the calcium concentration just outside
+the terminal. This reduction in [Ca 
+]0 is compounded if the postsynaptic terminal also
+demands calcium, for instance, if it contains significant numbers of NMDA receptors or
+voltage-dependent calcium channels.
+
+
+===== Page 8 =====
+20.3 Computing with Puffs of Gas · 459
+When considering the diffusion of calcium, potassium, or other ions outside the cell one
+must account for the fact that the diffusion coefficient in the tight tortuous space between
+the glia cells and neurons is not the same as the diffusion coefficient in aqueous milieu.
+The free diffusion of ions is hindered by these membrane obstructions, by macromolecules,
+by charged molecules and so on. The reduction of D is accounted for by the so-called
+tortuosity factor λ (not to be confused with the electrotonic space constant). The effective
+diffusion coefficient Deflf as measured in the tissue is related to the coefficient in aqueous
+solution, D, via
+(20.4)
+In an idealized aqueous solution λ = 1; experimentally measured values for brain tissue
+fall in the 1.5-1.9 range (Nicholson and Phillips, 1981; Nicholson, 1995). In other words,
+the effective diffusion coefficient is reduced by a factor 0.3 to 0.4 (see Eq. 11.26).
+Taking both the volume fraction and tortuosity into account modifies the one-dimensional
+diffusion equation (Eq. 11.18) as follows:
+(20.5)
+where the sources and sinks include membrane currents, pumps, buffers, and so on.
+Egelman and Montague (1997) have carried out exploratory simulations of the diffusion
+of Ca
+2+ ions in the extracellular space around the synaptic terminals on the basis of Eq. 20.5
+and estimate that [Ca
+2+]0 can drop by as much as a quarter in response to a single action
+potential invading the presynaptic terminal. A high-frequency burst can further deplete
+extracellular calcium. Given packing densities on the order of one billion synapses per
+cubic millimeter of neuronal tissue (Sec. 4.1), a neighboring synaptic terminal might now
+have difficulties to release a synaptic vesicle successfully, since the needed Ca
+2+ ions have
+been "stolen" by the first synapse.
+Depending on how long it will take to replenish extracellular [Ca
+ +]0 by pumps and
+calcium-release mechanisms, the first synapse can inhibit synaptic transmission at all closely
+adjacent synapses. And this irrespective of whether its postsynaptic action is excitatory
+or inhibitory, since this form of inhibition relies on calcium stealing by the presynaptic
+terminal. This is an instance of presynaptic inhibition in the absence of any postsynaptic
+conductance change.
+It is well possible, of course, that the temporary reduction in [Ca
+ +]0 is too brief or
+too minute to significantly affect any but directly apposed synapses, or that the effect
+exists but that the brain does not exploit it for computational purposes. Or the reduction of
+f Ca
+2+]0 might only be significant during calcium spikes in the dendrites. Another interesting
+possibility is that synaptic microcircuits (Sec. 5.3), such as the spine-triad arrangement so
+prevalent in the thalamus (Sec. 12.3.4), implement a special form of presynaptic inhibition
+that relies on the exact spatial placement of the synaptic terminals relative to each other.
+20.3 Computing with Puffs of Gas
+Throughout this book, we have lived with the convenient assumption that the three-
+dimensional arrangements of synapses, dendrites, axons, and cell bodies do not matter and
+that all neurons can be reduced to sets of one-dimensional cylinders. This simplification is
+a powerful one since it allows us to study the spatio-temporal distribution of the membrane
+
+
+===== Page 9 =====
+460 . 
+UNCONVENTIONAL COMPUTING
+potential and calcium with ease on the basis of one-dimensional cable and diffusion
+equations.
+However, one of the most obvious features of almost any piece of nervous tissue is its
+high degree of structure: columns, layers, laminae, and other spatial organizational forms
+abound. It therefore behooves us to at least briefly consider the range of possible effects of
+three-dimensional geometry on neuronal computation.
+As alluded to in Chap. 13, one or more retrograde messenger molecules have been
+postulated to mediate between the postsynaptic induction of LTP and its, at least partly,
+presynaptic expression. We also pointed out that the specificity of synapses during LTP
+and LTD might not be quite as high as frequently asserted. In the best explored model
+system for LTP, the synapses between the output fibers of CA3 pyramidal cells in the
+hippocampus and CAÍ neurons, spillover exists. That is, synaptic plasticity is not only
+confined to the handful of synapses at the intersection of the single presynaptic axon and
+the postsynaptic cell recorded from, but is observed at "neighboring" synapses as well.
+LTP can be expressed at synapses from the same axon but made onto neighboring neurons
+that have not undergone the induction process (Bonhoeffer, Staiger, and Aertsen, 1989;
+Schuman and Madison 1994a). In a second form of spillover, excitatory synapses within
+50-70 μιη of the potentiated synapse onto the same neuron (but from nonstimulated axons)
+can be potentiated as well (Engert and Bonhoeffer, 1997; for a summary, see Murthy, 1997).
+It has been hypothesized that these effects are mediated by a rather unusual class of
+neuronal messengers, of which the best known is the free radical gas nitric oxide (NO)
+(for reviews see Schuman and Madison, 1994b; Montague and Sejnowski, 1994; Schuman,
+1995; Brenman and Bredt, 1997). Another possible candidate is the gas carbon monoxide
+(Zhuo et al., 1993).
+While conventional neurotransmitters like glutamate, GABA, acetylcholine, or nora-
+drenaline are packaged in synaptic vesicles and released from the presynaptic terminal in
+response to an invading action potential, nitric oxide is not released in vesicles but directly
+diffuses away from its site of production. Because it is gaseous and extremely membrane
+permeant, it readily moves across cell membranes irrespective of dendrites, axons, or other
+cellular processes. The second feature distinguishing it from a conventional neurotransmitter
+is that nitric oxide is "produced on demand" by a calcium-calmodulin-dependent enzyme.
+Nitric oxide is limited in its spread by the fact that it is rapidly oxidized, with a half-life
+of 4 sec and possibly much less. Given its large diffusion coefficient (3.8 ^m
+2/msec; see
+Table 11.1) it can diffuse 160 μηι in all directions in this time (Eq. 11.26), a sphere that
+encompasses around 20,000 synapses.
+Nitric oxide has been implicated in the control of both LTP and LTD. In particular,
+inhibition of the enzyme responsible for producing NO, nitric oxide synthase, blocks the
+establishment of the NMDA-dependent form of LTP in the hippocampus. Furthermore,
+the correlation of presynaptic electrical activity and elevated levels of NO is sufficient to
+potentiate transmission at recently activated synaptic terminals (Zhuo et al., 1993).
+A plausible scenario is based on conjoint pre- and postsynaptic electrical activity that
+causes the [Ca
+2+],· in the spine to rise, triggering the production of NO by nitric oxide
+synthase (Montague et al., 1994). It immediately diffuses away from this site and into the
+local volume of tissue. Its sphere of influence includes its own presynaptic terminal as well
+as nearby synapses, those on the same postsynaptic neuron as well as those on other neurons
+(Fig. 20.4). At synapses that were active within some time window, for instance, where a
+vesicle was recently released, the NO leads to either LTP or LTD through a—as of yet—
+ill-characterized cascade of biochemical events (Kennedy, 1994).
+
+
+===== Page 10 =====
+20.3 Computing with Puffs of Gas · 461
+Fig. 20.4 RETROGRADE MESSENGERS AND SYNAPTIC SPECIFICITY 
+Schematic drawing illus-
+trating the effect that the gas nitric oxide (NO) can have on synaptic weights (Gaily et al., 1985).
+A sufficiently large calcium influx, reflecting an appropriate conjunction of pre- and postsynaptic
+activity, at spine A causes production of NO. Like a puff of gas, NO will freely diffuse from its site of
+production into the adjacent tissue volume. Presynaptic terminals that have recently been activated
+and that see an increase in the local concentration of NO (Eq. 20.6) upregulate their synaptic weight,
+leading to LTP. This volume learning (Gaily et al., 1990) is less specific than classical associative
+Hebbian learning, since potentially thousands of synapses in the neighborhood of the primed one
+could be affected. Reprinted by permission from Gaily et al., (1990).
+As NO diffuses outward, its concentration drops, due to dilution, chemical degradation
+through oxidation to nitrates, and destruction by hemoglobin and other molecules. This
+imposes a limit on the volume throughout which the arrival of NO could trigger the
+biochemical cascade of events that eventually leads to the presynaptic expression of LTP.
+Within this volume a large number of synapses could potentially change their synaptic
+weights, even those that lacked either pre- or postsynaptic activity to satisfy Hebb's rule
+(Eq. 13.7 or its variant Eq. 13.8). Experimental evidence suggests that synapses within
+50 μηι of a potentiated one do (Engert and Bonhoeffer, 1997).
+The appropriate volume learning rule that needs to replace the covariance rule of Eq. 13.8
+(Montague and Sejnowski, 1994) is
+(20.6)
+where V& is the presynaptic activity (and (V¿) its time average), [NO]^ the instantaneous
+concentration of NO (or any other retrograde messenger molecule) at the presynaptic
+terminal, and {[NO]/t> its running average. The index / ranges over some neighborhood
+of the initially potentiated synapse (i, j) from which the NO diffuses. Of note is that
+Eq. 20.6 is independent of postsynaptic activity.
+Conjoint increases in presynaptic activity and the concentration of NO (relative to their
+mean) cause LTP while a presynaptic increase in conjunction with a relative decrease in the
+concentration of the retrograde messenger (and vice versa) leads to LTD.
+
+
+===== Page 11 =====
+462 . 
+UNCONVENTIONAL COMPUTING
+In other words, the unit of synaptic plasticity might not be individual synapses, as
+assumed by neural network learning algorithms, but groups of adjacent synapses, making
+for a more robust, albeit less specific learning rule. How specific depends, among other
+things, on the exact temporal relationship between the release of a presynaptic vesicle and
+the local change in [NO],. In any case, it is obvious that the detailed placement of axons and
+synapses in three dimensions will greatly affect their ability to locally store information.
+It is important that plasticity rules, as in Eq. 20.6, be combined with realistic models of
+the three-dimensional configurations of axons and synapses in order to better understand
+developmental as well as ongoing learning processes in the brain (for an example, see
+Montague, Gaily, and Edelman, 1991).
+The picture that we are left with is one in which afferent patterns of activity are translated
+into local hot spots of calcium in spines and other postsynaptic terminals. These generate
+local puffs of gas that freely diffuse in three-dimensional space to up or down regulate
+synaptic weights at neighboring synapses.
+20.4 Programming with Peptides
+We mentioned in Chap. 4 the principle of synaptic colocalization of fast, classical neu-
+rotransmitters with much slower acting neuromodulators. In many synaptic terminals,
+neurotransmitters—small molecules such as ACh, GABA, or glutamate—are stored in
+small and clear vesicles while neuropeptides, short (typically 2-10) amino acid chains,
+are stored in dense core vesicles within the same terminal. The different vesicles can be
+released differentially, for instance, one preferentially at low stimulation frequencies and
+the other during high-frequency bursts. The number of neuroactive peptides in the brain,
+with very idiosyncratic names relating to the biological function they have historically first
+been identified with, totals 50 and keeps on rising. They are found throughout the animal
+kingdom and throughout all nervous structures (for reviews, see Kupfermann, 1991; Marder,
+Christie, and Kilman, 1995).
+The study of their neuronal effects has progressed farthest in small nervous systems
+that are readily accessible to neurochemical methods. The model system of choice is the
+stomatogastric ganglion (STG) of the crab Cancer borealis (Selverston and Moulins, 1987).
+This ganglion consists of approximately 30 neurons and is responsible for controlling
+movement in the esophagus and stomach. The neurons are tightly coupled with both
+chemical and electrical synapses.
+About 50 individually identifiable input fibers project from more forward located ganglia
+into the very dense central core of the STG. This neuroplex, consisting of nothing but axons,
+synapses, and dendrites, is about a quarter of a millimeter in diameter and is surrounded
+by the associated cell bodies (Fig. 20.5). Many of the input axons branch widely and
+throughout the ganglion while some have more restricted branching patterns. Some of the
+associated terminals resemble neurosecretory organs that are thought to release peptides
+into the hemolymph to act at distant sites while some resemble conventional point-to-point
+contacts. Colocalization of neuropeptides also fails to follow any simple rule, with any
+given peptide being associated with a different complement of cotransmitters in different
+neurons (for instance, all terminals staining immunocytochemically for peptide A may also
+stain for peptide B, but terminals positive for peptide Β might be negative for A but positive
+for peptide C; Marder et al., 1997).
+
+
+===== Page 12 =====
+20.4 Programming with Peptides
+463
+Fig. 20.5 NEUROMODULATORS IN A SMALL NERVOUS SYSTEM 
+Summary of neuroactive sub-
+stances present in the inputs to the stomatogastric ganglion (STG) of the crab. Hormones are released
+into the circulating blood or hemolymph and can thus act globally, while neuromodulators—usually
+peptides—are released by conventional synaptic terminals and can modulate neuronal properties over
+long time scales. Sensory transmitters act locally and rapidly. Some substances, such as acetylcholine
+(ACh), bind to fast nicotinic as well as to slow muscarinic receptors. The input fibers project into
+the dense, central core of the ganglion, indicated schematically, with the 30 or so cell bodies (open
+circles) located in the periphery. The neuromodulators are present in various and complex subsets
+of the input fibers and are colocalized with conventional neurotransmitters. The area of influence
+of these peptides ranges from local synapses to the entire ganglion. As illustrated in Fig. 20.6, their
+effects vary widely in scope, time scale, and sign. Unpublished data from E. Marder, A. E. Christie,
+and M. P. Nusbaum, printed with permission.
+While the distribution of neuropeptides and their postsynaptic receptors ranges from the
+very local to the global and defies any simple classification, their effects on their targets are
+equally varied.
+When food moves from the mouth into the esophagus of the crab, the neurons in the STG
+generate a variety of different rhythmic motor patterns. Accordingly, most of the STG cells
+can be identified on the basis of a characteristic oscillatory pattern involving EPSPs, IPSPs,
+bursts, plateau potentials, and the like. Some neurons display these regular sequences in
+isolation, that is, when all synaptic input has been removed, while others rely on network
+
+
+===== Page 13 =====
+464 · 
+UNCONVENTIONAL COMPUTING
+interactions. Such central pattern generators (CPG) are a common feature of vertebrate
+and invertebrate motor systems (Marder and Calabrese, 1996).
+The action of peptides on these oscillatory discharges as well as on the 40 odd stomach
+muscles enervated by the STG neurons is complex and still ill-understood. We illustrate
+the possibilities in Fig. 20.6, involving the application of the peptide proctolin, released by
+fibers projecting into the neuropil. Applying proctolin to the entire ganglion (by adding it to
+the bath solution) changes the properties of the hardware at multiple organizational levels.
+1. It affects specific motor patterns, here the so-called "pyloric rhythm" (Fig. 20.6A). Acting
+via a second-messenger cascade, proctolin modulates a voltage-dependent conductance
+in two identifiable neurons. The net effect is to increase the frequency and modulation
+depth of the oscillations (Hooper and Marder, 1987).
+2. Even at very low concentrations, proctolin enhances the motor neuron evoked contrac-
+tions of certain stomach muscles (Fig. 20.6B). The muscle may now be sensitive to firing
+rates it did not previously respond to (Marder et al., 1997).
+3. Peptides can also affect the evoked amplitude of individual synaptic connections (Fig.
+20.6C). Dual intracellular impalement in the 1C and GM neurons in the absence of any
+spiking activity (by adding a sodium-channel blocking agent to the bath) fails to reveal
+any direct synaptic connection. Yet in the presence of proctolin a robust and profound
+inhibition can be observed.
+A different substance, crustacean cardio-active peptide (CCAP), which is not present in
+any input fibers to the STG but is released into the hemolymph via neurosecretory structures,
+can initiate a switch from one pattern of neural activity into a qualitative different one
+(Weimann et al., 1997). The complex action of CCAP on various slow intrinsic membrane
+conductances changes the normal 1:1 alternation between two specific neurons to a 2:1,
+3:1, or 4:1 alternation.
+Peptides can be thought of as reprogramming the nervous system by changing its motor
+pattern, its synaptic gains, and its output. In an uncanny way this resembles loading a
+new program into an application specific integrated circuit (ASIC), with each peptide, or
+combination of different peptides, loading a slightly different motor program.
+Because peptides rely on passive diffusion to influence an entire neural network, acting
+akin to a "global variable," the time scale of action is seconds, minutes, or longer (Jan
+and Jan, 1983; Kuffler and Sejnowski, 1983). An extreme form of this can be found in
+the mammalian suprachiasmatic nucleus, the central "clock" that transmits the circadian
+24-hour rhythm to the rest of the brain and body. Grafting experiments have proven that
+circadian activity rhythms can be sustained via direct action of an as yet unidentified
+diffusible signal (Silver et al., 1996). The action of these modulatory signals must be viewed
+in constrast to the computational function of fast, synaptic input, which is quite local in
+time and space.
+20.5 Routing Information Using Neuromodulators
+We argued in Sec. 9.3 that the action of noradrenaline is contingent on excitatory synaptic
+input. By itself, its application causes only a small and long-lasting EPSP, which can be
+thought of as an epiphenomenon. Its real action is to close a potassium conductance and
+
+
+===== Page 14 =====
+20.5 Routing Information Using Neuromodulators 
+· 465
+Fig. 20.6 REPROGRAMMING A NEURAL NETWORK VIA A PEPTIDE 
+Multifaceted action of proc-
+tolin, one of the many peptides that are released from afferent fibers into the stomatogastric ganglion
+of the lobster (PROC in Fig. 20.5). (A) Intracellular recordings from three identifiable STG neurons
+reveal a complex oscillatory behavior in their membrane potential, characteristic of central pattern
+generators. The effect of 1 μ,Μ of proctolin on this "pyloric" rhythm is complex; among others, it
+increases the frequency of oscillation in the AB neuron. Reprinted by permission from Hooper and
+Marder (1987). (B) A hundredfold lower concentration of proctolin enhances contractions of two
+stomach muscles controlled by STG neurons. The motor nerve was stimulated repetitively (upper
+row); at low stimulation frequencies (left column) no muscle contraction is apparent while a weak
+one can be observed at high frequencies (right column). In the presence of proctolin, these contractions
+are much enhanced. Unpublished data from J. C. Jorge-Rivera, printed with permission. (C) Proctolin
+also affects synaptic gain. In this experiment, all spikes are blocked by the application of ΤΓΧ. A
+depolarizing pulse in one identifiable neuron fails to cause any change in the membrane potential
+of another. Adding proctolin to the bath reveals a profound and long-lasting inhibitory synaptic
+connection from one to the other. Unpublished data from J. M. Weimann, printed with permission.
+
+
+===== Page 15 =====
+466 . 
+UNCONVENTIONAL COMPUTING
+thereby increase the gain of the cell's discharge curve (as in Figs. 9.13 and 21.3) without
+affecting the cell's excitability. This mechanism might enable the nervous system to send
+information selectively this or that way in a dynamic manner.
+Efforts to build massively parallel computers have lead to the realization that a major
+challenge facing the computer architect is the problem of routing information efficiently
+among the individual processors, that is, using the least amount of time and/or space (here,
+transistors). The cortex and similar structures, with upward of 1010 to 1011 processors
+operating in parallel, most likely face a similar conundrum. How is information routed
+among different neurons without quickly exceeding space by connecting every neuron
+with every other neuron? One possible mechanism to deal with this could be based on
+neuromodulators (Koch and Poggio, 1987).
+Let us assume that a particular input neuron projects to a large number of neurons, that
+is, establishes conventional synapses with them. In the absence of any modulatory input,
+spikes in an afferent fiber evoke synaptic activity in all of its targets. Assume that in the
+presence of the neuromodulator A for which only a subset of neurons MA, has receptors,
+the excitability of neurons in MA is enhanced (and possibly suppressed in other neurons).
+Substance A could be released either from a local interneuron—as in Fig. 20.7—or from
+the axon terminal of a neuron far away (e.g., in the locus coeruleus). By itself A does not
+induce a signal. Yet in the presence of conventional synaptic input, a neuron that is part of
+MA signals more vigorously than before while neurons that are not part of MA respond in
+a much weaker manner. Conceptually, this can be thought of as routing synaptic input to
+the subset MA of neurons. If another population MB has receptors for neuromodulator B,
+the information can be routed to a different target.
+In order for such an addressing scheme to work efficiently, a large number of neuromod-
+ulators is required to target specific subsets of neurons. Addressing works by selectively
+and temporarily (on the order of seconds) increasing the output gain of the class of neurons
+that are meant to be targeted without directly exciting them. This solution to the addressing
+problem is similar to the traditional telephone exchange system, in which connections are
+made and broken as required for exchanging information (in contrast to a dedicated-line
+solution).
+20.6 Recapitulation
+We here dealt with a number of mechanisms that are not conventionally thought of as
+subserving specific neuronal computations. None of them involve the membrane potential,
+the firing rate, or the intracellular calcium concentration.
+The entire realm of biochemical computations has been neglected. Yet at present there are
+no solid arguments ruling out why specific molecular reactions might not subserve specific
+computations. As one instance we introduced a molecular flip-flop switch that relies on
+positive feedback—via autophosphorylation—to implement a long-term memory device
+with the storage capacity of a few bits that could reside at individual synapses. This is but
+one example of a realm of computation about which we know almost nothing. Given the
+extremely large and complex regulatory cascades and networks of proteins and enzymes,
+the possibilities for nested multilevel computations are staggering. The crucial question is
+whether the brain avails itself of these possibilities or whether such computations cannot
+be implemented for reasons having to do with lack of bandwidth, signal-to-noise ratio or
+specificity.
+
+
+===== Page 16 =====
+20.6 Recapitulation
+467
+Fig. 20.7 ROUTING INFORMATION AMONG NEURONS USING NEUROMODULATORS Speculative
+addressing scheme based on neuromodulators (Koch and Poggio, 1987). The input axon (heavy
+line) is presynaptic to a variety of cells that project both within and outside the system. Neurons
+have receptors for many neuromodulators (here only three types are indicated schematically, A, B,
+and C). Neuromodulators can be released by an interneuron (as shown here) or by some external
+neuron, diffuse throughout the ganglion, and bind to their receptor sites on a specific subset of
+neurons (MA and so on). The postsynaptic effect of a neuromodulatory substance is to change the
+gain of the firing response of the neuron, that is, the same neuron responds more or less vigorously
+to the same presynaptic input as before (e.g. Fig. 20.6C). Depending on which neuromodulatory
+substance has been released, action potentials coming in on the axon will only activate a subset of
+neurons. Functionally, this enables information to be selectively routed to neurons within the ganglion.
+Reprinted by permission from Koch and Poggio (1987).
+Two other candidate mechanisms rely on the precise three-dimensional arrangements
+of neuronal components, either at the subcellular or at the cellular level. Whether or not
+the short-term depletion of extracellular Ca2+ ions implements a universal presynaptic
+inhibition that works without any conductance changes is pure speculation at the moment,
+but is too important to neglect from an experimental point of view.
+That puffs of nitric oxide (and possibly carbon monoxide) are released in nervous tissue
+following local hot spots of synaptic-induced calcium activity opens up new avenues of
+spreading information in a retrograde manner, back across the synapse. Given the inexorable
+square-root law of diffusion and the aggressive chemical nature of nitric oxide, NO is
+unlikely to be effective beyond a small fraction of a millimeter from the site of its synthesis.
+This sphere of influence does include a potentially very large number of synapses. One
+of the "unfortunate" consequences of such a diffusing substance is that the specificity of
+Hebb's synaptic plasticity rule would be significantly reduced. The unit of learning would
+not be individual synapses, but groups of adjacent synapses.
+
+
+===== Page 17 =====
+468 . 
+UNCONVENTIONAL COMPUTING
+The last two mechanisms exploit the very large laundry list of neuroactive substances
+(biogenic amines, neuropeptides, hormones) known to be present in any nervous system to
+implement global variables that act over a fraction of a millimeter and longer distances and
+on a seconds to minutes and longer time scale. We speculated on the role of neuromodulators
+in routing information, for reprogramming a particular neural network to change its mode of
+operation, for adapting the retina or other sensory surfaces to different operating conditions,
+and the like.
+
+

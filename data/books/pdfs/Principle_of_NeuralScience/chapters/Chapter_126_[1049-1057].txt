@@ -1,0 +1,778 @@
+===== Page 1 =====
+1004    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+a predator). The monoaminergic systems include impor-
+tant descending projections to the dorsal horn of the spi-
+nal cord that modulate pain perception (Chapter 20).
+The noradrenergic inputs to the spinal cord origi-
+nate from the pontine cell groups A5–A7, with the 
+locus ceruleus (A6) providing most of the input to the 
+dorsal horn. Similarly, the serotonergic raphe nuclei 
+in the medulla, particularly the nucleus raphe mag-
+nus, project to the dorsal horn where they modulate 
+the processing of information about noxious stimuli. 
+Direct application of serotonin to dorsal horn neurons 
+inhibits their response to noxious stimuli, and intrathe-
+cal administration of serotonin attenuates the defensive 
+withdrawal of the paw evoked by noxious stimuli. In 
+addition, intrathecal administration of antagonists of 
+serotonin receptors blocks the pain inhibition evoked 
+by stimulation of the raphe nuclei.
+Insight into the role of serotonin in pain process-
+ing has been used in treating migraine headaches. In 
+particular, the triptan agonists of 5-HT1D receptors 
+have been found to be therapeutically effective. One 
+of the possible mechanisms of action of this family of 
+tryptamine-based drugs includes presynaptic inhibi-
+tion of pain afferents from the meninges, preventing 
+sensitization of central neurons. Drugs that block 
+monoamine reuptake, including both traditional anti-
+depressants and selective serotonin reuptake inhibitors, 
+are effective in limiting pain in patients with chronic 
+pain and migraine headaches.
+Motor Activity Is Facilitated by  
+Monoaminergic Pathways
+The dopaminergic system is critical for normal motor 
+performance. A massive projection ascends from the 
+substantia nigra pars compacta to the striatum, where 
+dopaminergic fibers act on striatal neuron receptors to 
+release inhibition of motor responses (Chapter 38).
+Patients with Parkinson disease in whom midbrain 
+dopaminergic neurons have degenerated have trouble 
+initiating movement and difficulty sustaining move-
+ments. Such patients speak softly, write with small 
+letters, and take small steps. Conversely, drugs that 
+facilitate dopaminergic transmission in the striatum 
+can result in unintended behaviors, ranging from motor 
+tics (small muscle twitches), to chorea (large-scale, jerky 
+limb movements), to complex cognitive behaviors (such 
+as compulsive gambling or sexual activity).
+As first shown by Sten Grillner, serotonergic neu-
+rons play an important role in modulating motor pro-
+grams. Drugs that activate serotonin receptors can 
+induce hyperactivity, myoclonus, tremor, and rigid-
+ity, all of which are part of the “serotonin syndrome.” 
+Increases in the firing of raphe neurons have been 
+observed in animals during repetitive motor activi-
+ties such as feeding, grooming, locomotion, and deep 
+breathing. Conversely, the firing of both serotonergic 
+raphe and noradrenergic locus ceruleus neurons prac-
+tically ceases during the atonia and lack of movement 
+that occur during rapid eye movement (REM) sleep.
+Noradrenergic cell groups in the pons also send 
+extensive projections to motor cell groups. This modu-
+latory input acts on presynaptic β- and α1-adrenergic 
+receptors to facilitate excitatory inputs to motor neurons 
+(Chapter 31). The sum of these effects is to facilitate 
+motor neuron responses in stereotypic and repetitive 
+behaviors such as rhythmic chewing, swimming, or 
+locomotion. Conversely, increased β-adrenergic acti-
+vation during stress can exaggerate motor responses 
+and produce tremor. Drugs that block β-adrenergic 
+receptors are used clinically to reduce certain types of 
+tremor and are often taken by musicians prior to per-
+formances to minimize tremulousness.
+Ascending Monoaminergic Projections Modulate 
+Forebrain Systems for Motivation and Reward
+The forebrain is continuously bombarded with sen-
+sory information and must determine which stimuli 
+deserve attention. It must also decide which of many 
+available behaviors should receive priority, based in 
+part on experience—which behaviors have achieved 
+rewarding outcomes in the past. The ascending mono-
+aminergic systems play key roles in modulating all of 
+these choices.
+As noted earlier, dopaminergic inputs to the stria-
+tum adjust the likelihood that a specific motor pattern 
+or even a cognitive pattern will be expressed. Low 
+dopamine levels reduce output from the direct path-
+way striatal neurons (which release behaviors) and 
+increase activity of indirect pathway striatal neurons 
+(which inhibit behavior). Dopamine also has been 
+linked to reward-based learning. Rewards are objects 
+or events for which an animal will work (Chapter 42) 
+and are useful in positively reinforcing behavior. Activ-
+ity of dopaminergic neurons increases when a reward 
+(such as food or juice) is unexpectedly given. But after 
+animals are trained to expect a reward following a con-
+ditioned stimulus, the activity of the neurons increases 
+immediately after the conditioned stimulus rather than 
+after the reward. This pattern of activity indicates that 
+dopaminergic neurons provide a reward-prediction 
+error signal, an important element in reinforcement 
+learning. The importance of dopamine in learning is 
+also supported by observations that lesions of dopa-
+minergic systems prevent reward-based learning. 
+
+
+===== Page 2 =====
+Chapter 40 / The Brain Stem    1005
+The same dopaminergic pathways that are important 
+for reward and learning are involved in addiction to 
+many drugs of abuse (Chapter 43)
+Noradrenergic neurons of the locus ceruleus play 
+an important role in attention. These neurons have a 
+low baseline level of activity in drowsy monkeys. In 
+alert, attentive monkeys the cells have two firing pat-
+terns. In the phasic mode, the baseline activity of the 
+neurons is low to moderate, but there are bursts of 
+firing just before the monkey responds to stimuli to 
+which it has been attentive. This pattern of activity 
+is thought to facilitate selective attention to a stimu-
+lus that is about to initiate a behavior. In contrast, in 
+the tonic mode, the baseline level of activity is elevated 
+and does not change in response to external stimuli. 
+This mode of firing may promote the search for a new 
+behavioral and attentional goal when the current task 
+is no longer rewarding (Figure 40–14).
+Performance
+Focused attention
+Inattentive
+nonalert
+Firing rate of LC neurons
+Scanning 
+labile attention
+Locus ceruleus
+Figure 40–14  Locus ceruleus (LC) neurons exhibit different 
+patterns of activity with different levels of attentiveness and 
+task performance.  The inverted U curve shows the relationship 
+between a monkey’s performance on a target detection task 
+and the level of locus ceruleus activity. Histograms show the 
+responses of LC neurons to presentation of the target during 
+different levels of task performance. Performance is poor at low 
+levels of LC activity because the animals are not alert. Perfor-
+mance is optimal when baseline activity is moderate and phasic 
+activation follows presentation of the target. Performance is also 
+poor when baseline activity is high because the higher baseline 
+is incompatible with focusing on the assigned task. The tonic 
+mode (with high baseline activity) might be optimal for tasks (or 
+contexts) that require behavioral flexibility instead of focused 
+attention. If so, the LC could regulate the balance between 
+focused and flexible behavior. (Adapted, with permission, from 
+Aston-Jones, Rajkowski, and Cohen 1999. Copyright © 1999 
+Society of Biological Psychiatry. Published by Elsevier Inc.)
+Many monoaminergic neurons also participate in 
+regulating overall arousal (Figure 40–15). The noradr-
+energic locus ceruleus, serotonergic dorsal and median 
+raphe nuclei, dopaminergic A10 neurons, and hista-
+minergic tuberomammillary neurons innervate the 
+thalamus, hypothalamus, basal forebrain, and cerebral 
+cortex. All of these systems have the property of fir-
+ing fastest during wakefulness, slowing down during 
+slow wave (or non-REM) sleep, and grinding to a halt 
+during REM sleep.
+Stimulation of noradrenergic neurons in the locus 
+ceruleus or histaminergic cells in the tuberomammil-
+lary nucleus increases electroencephalogram (EEG) 
+arousal, indicating that these systems play an impor-
+tant role in cortical and behavioral arousal. However, 
+lesions restricted to one or even a combination of mon-
+oaminergic cell groups do not cause profound loss of 
+wakefulness, suggesting that the various cell groups 
+
+
+===== Page 3 =====
+1006    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Hippocampus
+Thalamus
+Cerebral
+cortex
+Lateral dorsal
+tegmental nucleus
+(acetylcholine)
+RT
+ILT
+Locus ceruleus
+(norepinephrine)
+Dorsal and median
+raphe nuclei
+(serotonin)
+Tuberomammillary
+nucleus
+(histamine)
+Lateral 
+hypothalamus
+(supramammillary
+glutamate,
+orexin,
+GABA)
+ 
+Parabrachial
+nucleus
+(glutamate)
+Pedunculopontine
+nucleus
+(glutamate,
+acetylcholine)
+Basal 
+forebrain
+(glutamate, 
+acetylcholine,
+GABA)
+Norepinephrine
+Glutamate
+Acetylcholine
+Serotonin
+Orexin
+ GABA
+ 
+Histamine
+ 
+Figure 40–15  Major cell groups in the ascending arousal 
+system. Neurons using the neurotransmitters norepinephrine, 
+serotonin, dopamine, histamine, and acetylcholine have wide-
+spread forebrain projections. Although they all contribute to 
+arousal by modulating various brain functions, ablation of any one 
+of these cell groups has little effect on the waking state, sug-
+gesting that none of them are essential for maintaining a waking 
+state. On the other hand, extensive damage to glutamatergic 
+neurons in the parabrachial and pedunculopontine nuclei or to 
+the GABAergic, glutamatergic, and cholinergic neurons in the 
+basal forebrain (orange boxes) can cause a profound and pro-
+longed coma. Thus, the parabrachial–pedunculopontine–basal 
+forebrain–cortical pathway appears to be the only one that is 
+essential to maintaining a waking state. (Abbreviations: GABA, 
+γ-aminobutyric acid; ILT, intralaminar thalamic nuclei; LC, locus 
+ceruleus; RT, reticular nucleus of the thalamus.)
+probably have overlapping and at least partly redun-
+dant roles in sleep/wake regulation. The monoamin-
+ergic pathways modulate specific cellular properties 
+of postsynaptic neurons in the thalamus and cerebral 
+cortex, enhancing alertness and interaction with envi-
+ronmental stimuli.
+Monoaminergic and Cholinergic Neurons Maintain 
+Arousal by Modulating Forebrain Neurons
+The monoaminergic and cholinergic neurons induce 
+arousal by activating cortical neurons both directly and 
+indirectly. They do this in part by modulating the activ-
+ity of neurons in the brain stem, hypothalamus, basal 
+forebrain, and thalamus that activate the cerebral cortex.
+Both noradrenergic and serotonergic neurons 
+innervate the parabrachial complex, a glutamatergic 
+cell group that is critical for maintaining a waking fore-
+brain. Noradrenergic inputs also activate histaminer-
+gic and orexin neurons in the lateral hypothalamus 
+as well as cholinergic and GABAergic neurons in the 
+basal forebrain, all of which project directly to the cer-
+ebral cortex. The parabrachial, histaminergic, orexin, 
+and cholinergic basal forebrain neurons all excite corti-
+cal pyramidal cells, whereas the GABAergic basal fore-
+brain neurons inhibit cortical inhibitory interneurons, 
+thus disinhibiting the cortical pyramidal cells. The net 
+effect of these inputs is to make the cortical pyrami-
+dal neurons more responsive to incoming sensory and 
+cognitive inputs.
+Parabrachial, noradrenergic, serotonergic, hista-
+minergic, and cholinergic inputs also innervate the 
+thalamus and modulate its ability to transmit sensory 
+information to the cerebral cortex. Thalamic relay neu-
+rons fire in rhythmic bursts during sleep (Chapter 44) but 
+fire single spikes related to incoming sensory stimuli 
+during wakefulness. The firing pattern of thalamic 
+and cortical neurons changes from burst mode to 
+single-spike mode when the cells are depolarized fol-
+lowing application of acetylcholine, norepinephrine, 
+
+
+===== Page 4 =====
+Chapter 40 / The Brain Stem    1007
+Thalamic
+relay
+neuron
+Thalamic
+reticular
+neuron
+Cortical
+neuron
+Bursting
+Single spikes
+1 s
+0.5 s
+ACh,  NE or Glu
+5-HT, NE, HA or Glu
+ACh, NE, HA or Glu
+Figure 40–16  Monoaminergic and cholinergic systems 
+modulate the activity of thalamic and cortical neurons to 
+maintain arousal. The firing patterns of cortical and thalamic 
+neurons are converted from burst mode to single-spike mode 
+by the action of acetylcholine or monoamines. Recordings are 
+from neurons in brain slices. Thalamic and cortical neurons have 
+limited ability to convey information when firing in rhythmic 
+bursts. However, when in single-spike mode, their firing activ-
+ity reflects the inputs they receive. Therefore, the monoamin-
+ergic and cholinergic arousal systems keep open the lines of 
+communication necessary for cortical information processing. 
+(Reproduced, with permission, from Steriade, McCormick, and 
+Sejnowski 1993. Copyright © 1993 AAAS.)
+serotonin, or histamine (Figure 40–16). Thus, the mon-
+oaminergic neurons that participate in the ascending 
+arousal system regulate cortical activity in part by 
+altering the firing of thalamic neurons.
+Many pharmacological agents that target mono-
+aminergic and cholinergic systems influence arousal. 
+For example, antihistamines cause drowsiness, sero-
+tonin reuptake blockers decrease the amount of REM 
+sleep, and nicotine is a powerful stimulant. In addi-
+tion, arousal is induced by amphetamines, cocaine, 
+and other drugs that block dopamine reuptake; mice 
+lacking the dopamine transporter are insensitive to 
+such drugs.
+Patients with Parkinson disease, who lose dopa-
+minergic neurons in the substantia nigra, also lose 
+noradrenergic neurons in the locus ceruleus and tend 
+to be abnormally sleepy during the day. Some drugs 
+used to treat Parkinson disease activate the D2 dopa-
+mine receptor on presynaptic terminals of the remain-
+ing dopaminergic arousal neurons, which results 
+in presynaptic inhibition, thus reducing dopamine 
+release. As a result, although these drugs may make 
+the movement disorder better (through their effects 
+on postsynaptic D2 receptors on neurons in the stria-
+tum), the inhibitory effect on remaining dopaminergic 
+cells in the arousal system may exacerbate daytime 
+sleepiness.
+Highlights
+1.	 The plan for the brain stem and the cranial nerves 
+unfolds early in development, as neurons assem-
+ble into clusters that come, in time, to assume 
+their functional organization. Building on the 
+basic plan of the spinal cord, motor and sensory 
+neurons concerned with the face, head, neck, and 
+internal viscera form into discrete nuclei with spe-
+cific functions and territories of innervation.
+2.	 Neurons in the reticular formation surrounding 
+these cranial nerve nuclei develop into ensembles 
+of neurons that can generate patterns of auto-
+nomic and motor responses that subserve simple, 
+stereotyped, coordinated functions, ranging from 
+facial expression to feeding and breathing. These 
+behavior patterns are sufficiently complex and 
+flexible to represent the entire behavioral reper-
+tory of a newborn baby.
+3.	 As the forebrain develops and exerts its control 
+over these brain stem pattern generators, a variety 
+of more complex responses and ultimately voli-
+tional control of behavior evolve.
+4.	 Even a skilled actor, however, finds it difficult to 
+produce the facial expressions associated with 
+specific emotions unless he recreates the emo-
+tional states internally, thereby triggering the pre-
+patterned facial expressions associated with those 
+feeling states. Thus, some of the most complex 
+human emotions and behaviors are played out 
+unconsciously by means of stereotypic patterns of 
+motor and autonomic responses in the brain stem.
+
+
+===== Page 5 =====
+1008    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+5.	 The brain stem also contains a series of cell groups 
+that have long-ranging and diffuse projections. 
+Their targets range from the cognitive and behav-
+ioral systems in the cerebral cortex, to hypotha-
+lamic and brain stem autonomic control areas, to 
+sensory and motor control systems in the spinal 
+cord. Many of the neurons that participate in these 
+modulatory systems, which set the tone for more 
+specific sensory, motor, behavioral, and autonomic 
+outputs, use monoamines as neuromodulators.
+6.	 As a result of the diffuseness of these modulatory 
+pathways and the multiplicity of receptors that 
+they employ, a large portion of all central nervous 
+system–active drugs act on these pathways. Unfor-
+tunately, many of the off-target effects of these 
+drugs are due to the diffuseness of these pathways 
+and their use of the same neurotransmitters and 
+receptors at multiple locations. A challenge for the 
+future of central nervous system pharmacology 
+will be to develop drugs more highly selective for 
+the targeted functions that require modulation.
+ Clifford B. Saper  
+ Joel K. Elmquist 
+Selected Reading
+Feldman JL, Del Negro CA, Gray PA. 2013. Understanding 
+the rhythm of breathing: so near and yet so far. Ann Rev 
+Physiol 75:423–452.
+Gautron L, Elmquist JK, Williams KW. 2015. Neural control 
+of energy balance: translating circuits to therapies. Cell 
+161:133–145.
+Guyenet PG, Bayliss DA. 2015. Control of breathing and CO2 
+homeostasis. Neuron 87:94–961.
+Hodges MR, Richerson GB. 2010. Medullary serotonin neu-
+rons and their roles in central respiratory chemoreception. 
+Respir Physiol Neurobiol 173:256–263.
+Llorca-Torralba M, Borges G, Neto F, Mico JA, Berrocoso E. 
+2016. Noradrenergic locus coeruleus pathways in pain 
+modulation. Neuroscience 338:93–113.
+Plum F, Posner JB, Saper CB, Schiff ND. 2007. Plum and Pos-
+ner’s Diagnosis of Stupor and Coma, 4th ed. Philadelphia: 
+Davis.
+Saper CB. 2002. The central autonomic nervous system: con-
+scious visceral perception and autonomic pattern genera-
+tion. Annu Rev Neurosci 25:433–469.
+Saper CB, Stornetta RL. 2014. Central autonomic system. In: 
+G Paxinos (ed). The Rat Nervous System, 4th ed., pp. 627–671. 
+San Diego: Elsevier.
+Schultz W. 2016. Dopamine reward prediction-error signalling: 
+a two-component response. Nat Rev Neurosci 17:183–195.
+Sohn JW, Elmquist JK, Williams KW. 2013. Neuronal circuits 
+that regulate feeding behaviour and metabolism. Trends 
+Neurosci 36:504–512.
+References
+Aston-Jones G, Cohen JD. 2005. An integrative theory of 
+locus coeruleus-norepinephrine function: adaptive gain 
+and optimal performance. Annu Rev Neurosci 28:403–450.
+Aston-Jones G, Rajkowski J, Cohen J. 1999. Role of locus coer-
+uleus in attention and behavioral flexibility. Biol Psychiatry 
+46:1309–1320.
+Aston-Jones G, Bloom FE. 1981. Activity of norepinephrine-
+containing locus ceruleus neurons in behaving rats antici-
+pates fluctuations in the sleep-wake cycle. J Neurosci 
+1:876–886.
+Bieger D, Hopkins DA. 1987. Viscerotropic representation of 
+the upper alimentary tract in the medulla oblongata in the 
+rat: the nucleus ambiguus. J Comp Neurol 262:546–562.
+Blessing WW, Li Y-W. 1989. Inhibitory vasomotor neurons in 
+the caudal ventrolateral region of the medulla oblongata. 
+Prog Brain Res 81:83–97.
+Bouret S, Richmond BJ. 2015. Sensitivity of locus coeruleus 
+neurons to reward value for goal-directed attention.  
+J Neurosci 35:4005–4014.
+Bradley SR, Pieribone VA, Wang W, Severson CA, Jacobs RA, 
+Richerson GB. 2002. Chemosensitive serotonergic neu-
+rons are closely associated with large medullary arteries. 
+Nat Neurosci 5:401–402.
+Bruinstroop E, Cano G, Vanderhorst VG, et al. 2012. Spinal 
+projections of the A5, A6 (locus coeruleus), and A7 noradr-
+energic cell groups in rats. J Comp Neurol 520:1985–2001.
+Chang RB, Strochlic DE, Williams EK, Umans BD, Liberles 
+SD. 2015. Vagal sensory neuron subtypes that differen-
+tially control breathing. Cell 161:622–633.
+Filiano JJ, Kinney HC. 1994. A perspective on neuropatho-
+logic findings in victims of the sudden infant death syn-
+drome: the triple-risk model. Biol Neonate 65:194–197.
+Gray PA, Janczewski WA, Mellen N, McCrimmon DR,  
+Feldman JL. 2001. Normal breathing requires pre-Bötzinger 
+complex neurokinin-1 receptor-expressing neurons. Nat 
+Neurosci 4:927–930.
+Grunstein RR, Sullivan CE. 1990. Neural control of respira-
+tion during sleep. In: MJ Thorpy (ed). Handbook of Sleep 
+Disorders. New York: Marcel Dekker.
+Jenny AB, Saper CB. 1987. Organization of the facial nucleus 
+and cortico-facial projection in the monkey: a reconsid-
+eration of the upper motor neuron facial palsy. Neurol 
+37:930–939.
+Lahiri S, Maret K, Sherpa M, Peters R Jr. 1984. Sleep and 
+periodic breathing at high altitude: Sherpa natives vs. 
+sojourners.  In: J West, S lahiri (eds).  High Altitude and 
+Man, pp. 73–90. Bethesda: American Physiological Society.
+Morecraft RJ, Louie JL, Herrick JL, Stilwell-Morecraft KS. 
+2001. Cortical innervation of the facial nucleus in the 
+non-human primate: a new interpretation of the effects of 
+
+
+===== Page 6 =====
+Chapter 40 / The Brain Stem    1009
+stroke and related subtotal brain trauma on the muscles of 
+facial expression. Brain 124(Pt 1):176–208.
+Mulkey DK, Stornetta RL, Weston MC, et al. 2004. Respira-
+tory control by ventral surface chemoreceptor neurons in 
+rats. Nat Neurosci 7:1360–1369.
+Nielson M, Smith H. 1952. Studies on the regulation of res-
+piration in acute hypoxia; with an appendix on respira-
+tory control during prolonged hypoxia. Acta Physiol Scan 
+24:293–313.
+Richerson GB. 2004. Serotonergic neurons as carbon dioxide 
+sensors that maintain pH homeostasis. Nat Rev Neurosci 
+5:449–461.
+Richerson GB, Getting PA. 1987. Maintenance of complex 
+neural function during perfusion of the mammalian 
+brain. Brain Res 409:128–132.
+Rinaman L, Card JP, Schwaber JS, Miselis RR. 1989. Ultra-
+structural demonstration of a gastric monosynaptic vagal 
+circuit in the nucleus of the solitary tract in rat. J Neurosci 
+9:1985–1996.
+Smith JC, Ellenberger HH, Ballanyi K, Richter DW, Feldman 
+JL. 1991. Pre-Bötzinger complex: a brain stem region that 
+may generate respiratory rhythm in mammals. Science 
+254:726–729.
+Steriade M, McCormick DA, Sejnowski TJ. 1993. Thalamo-
+cortical oscillations in the sleeping and aroused brain. 
+Science 262:679–685.
+Wang W, Bradley SR, Richerson GB. 2002.  Quantification of 
+the response of rat medullary raphe neurons to independ-
+ent change in pH and PCO2. J Physiol 540:951–970.
+Williams EK, Chang RB, Strochlic DE, Umans BE, Lowell BB, 
+Liberles SD. 2016. Sensory neurons that detect stretch and 
+nutrients in the digestive system. Cell 166:209–221.
+
+
+===== Page 7 =====
+41
+The Hypothalamus: Autonomic, Hormonal,  
+and Behavioral Control of Survival
+The Neuroendocrine System Links the Brain to Physiological 
+Responses Through Hormones
+Hypothalamic Axon Terminals in the Posterior Pituitary 
+Release Oxytocin and Vasopressin Directly Into the Blood
+Endocrine Cells in the Anterior Pituitary Secrete 
+Hormones in Response to Specific Factors Released by 
+Hypothalamic Neurons
+Dedicated Hypothalamic Systems Control Specific 
+Homeostatic Parameters
+Body Temperature Is Controlled by Neurons in the 
+Median Preoptic Nucleus
+Water Balance and the Related Thirst Drive Are 
+Controlled by Neurons in the Vascular Organ of the 
+Lamina Terminalis, Median Preoptic Nucleus, and 
+Subfornical Organ
+Energy Balance and the Related Hunger Drive Are 
+Controlled by Neurons in the Arcuate Nucleus
+Sexually Dimorphic Regions in the Hypothalamus Control 
+Sex, Aggression, and Parenting
+Sexual Behavior and Aggression Are Controlled by 
+the Preoptic Hypothalamic Area and a Subarea of the 
+Ventromedial Hypothalamic Nucleus
+Parental Behavior Is Controlled by the Preoptic 
+Hypothalamic Area
+Highlights
+T
+he survival of an individual requires tight con-
+trol of body temperature, water balance, and blood 
+pressure, together with sufficient food intake 
+and appropriate regulation of sleep/wakefulness 
+Homeostasis Keeps Physiological Parameters Within a 
+Narrow Range and Is Essential for Survival
+The Hypothalamus Coordinates Homeostatic Regulation
+The Hypothalamus Is Commonly Divided Into Three 
+Rostrocaudal Regions
+Modality-Specific Hypothalamic Neurons Link 
+Interoceptive Sensory Feedback With Outputs That 
+Control Adaptive Behaviors and Physiological  
+Responses
+Modality-Specific Hypothalamic Neurons Also Receive 
+Descending Feedforward Input Regarding Anticipated 
+Homeostatic Challenges
+The Autonomic System Links the Brain to Physiological 
+Responses
+Visceral Motor Neurons in the Autonomic System Are 
+Organized Into Ganglia
+Preganglionic Neurons Are Localized in Three Regions 
+Along the Brain Stem and Spinal Cord
+Sympathetic Ganglia Project to Many Targets 
+Throughout the Body
+Parasympathetic Ganglia Innervate Single Organs
+The Enteric Ganglia Regulate the Gastrointestinal Tract
+Acetylcholine and Norepinephrine Are the Principal 
+Transmitters of Autonomic Motor Neurons
+Autonomic Responses Involve Cooperation Between the 
+Autonomic Divisions
+Visceral Sensory Information Is Relayed to the Brain Stem 
+and Higher Brain Structures
+Central Control of Autonomic Function Can Involve 
+the Periaqueductal Gray, Medial Prefrontal Cortex, and 
+Amygdala
+
+
+===== Page 8 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1011
+cycles. Survival of a species requires that individuals 
+be fertile, mate, and nurture their offspring, and that 
+aggression toward others be appropriate and adaptive. 
+Neurons in the hypothalamus control all of these key 
+survival activities.
+As we shall learn in this chapter, the hypothala-
+mus together with interconnected areas of the brain 
+responds to bodily and emotional challenges by recruit-
+ing appropriate behavioral and physiological responses. 
+Coordination of these activities ensures constancy of the 
+internal environment, a process known as homeosta-
+sis. The hypothalamus acts on three major systems: the 
+autonomic motor system, the neuroendocrine system, 
+and neural pathways that mediate motivated behavior.
+The autonomic motor system is distinct from the 
+somatic motor system, which controls skeletal muscle. 
+Whereas somatic motor neurons regulate contractions 
+of striated muscles (Chapter 31), autonomic motor 
+neurons regulate blood vessels, the heart, the skin, 
+and visceral organs through synapses upon smooth 
+and cardiac muscle cells, upon glands cells that serve 
+endocrine and exocrine functions, and upon metabolic 
+targets such as adipocytes. The neuroendocrine system 
+works differently, by secreting several peptide hor-
+mones from the pituitary, the “master gland,” located 
+just beneath the hypothalamus. These pituitary hor-
+mones control water retention by the kidney, parturi-
+tion, lactation, somatic growth, gamete development, 
+and also the release of nonpeptide hormones from 
+three downstream glands—the gonads, adrenal cortex, 
+and thyroid.
+Although largely involuntary, autonomic and 
+neuroendocrine responses are tightly integrated with 
+voluntary behavior executed by the somatic motor sys-
+tem. Running, climbing, and lifting exemplify volun-
+tary actions that have metabolic, cardiovascular, and 
+thermoregulatory consequences. These needs are auto-
+matically met by the autonomic and neuroendocrine 
+systems through changes in cardiorespiratory drive, 
+cardiac output, regional blood flow, heat dissipation, 
+and fuel mobilization. Such compensatory changes are 
+implemented primarily by feedforward central com-
+mands, supplemented by reflexes activated by sensory 
+feedback. Similarly, emotional states evoke autonomic 
+and neuroendocrine responses. Feelings of fear, anger, 
+happiness, and sadness have characteristic autonomic 
+and hormonal manifestations.
+In this chapter, we first explore the concept of 
+homeostasis and the general means by which it is 
+achieved. We then discuss the anatomical and func-
+tional organization of the hypothalamus and its two 
+“involuntary” motor arms—the autonomic and neu-
+roendocrine systems. After that, we focus in depth on 
+three classic examples of hypothalamic homeostatic 
+control—regulation of body temperature, of water 
+balance and its related deficiency drive, thirst, and of 
+energy balance and its drive, hunger. We conclude by 
+examining sexually dimorphic regions of the hypo-
+thalamus and their role in regulating sexual behavior, 
+aggression, and parenting. Additional discussion of 
+sleep cycles and regulation of circadian rhythms can 
+be found in Chapter 44.
+Homeostasis Keeps Physiological Parameters 
+Within a Narrow Range and Is Essential  
+for Survival
+In the mid-19th century, the French physiologist and 
+founder of experimental medicine Claude Bernard 
+drew attention to the stability of the body’s internal 
+environment over a broad range of behavioral states 
+and external conditions. “The internal environment 
+(le milieu interior),” he wrote, “is a necessary condition 
+for a free life.” Building on this idea, in the 1930s, the 
+American physiologist Walter B. Cannon introduced 
+the concept of homeostasis to describe the mechanisms 
+that maintain the constancy of composition of the bod-
+ily fluids, body temperature, blood pressure, and other 
+physiological variables—all of which are necessary for 
+survival.
+Homeostatic mechanisms are highly adaptive 
+because they greatly extend the range of conditions 
+that can be tolerated. For example, during exercise, 
+many parameters can increase dramatically—cardiac 
+output by 4- to 5-fold, oxygen and fuel consumption by 
+5- to 10-fold, and heat production to a similar degree. 
+In the absence of compensatory responses, blood pres-
+sure would increase in proportion to cardiac output, 
+rupturing blood vessels; circulating fuels would fall 
+to critically low levels, starving cells of energy; and 
+hyperthermia would denature cell proteins. Indeed, 
+the capacity of homeostasis is remarkable, making it 
+possible for animals to survive at high latitudes where 
+seasonal temperatures can fluctuate by 70°C and for 
+humans to run 251 km in the sands of the extremely 
+hot Sahara Desert (Marathon des Sables). Homeostatic 
+mechanisms greatly extend the range of habitats, activ-
+ities, and traumas that can be survived.
+Homeostasis requires negative sensory feed-
+back from the body. The concept of feedback loops 
+evolved from the discovery of sensors that detect criti-
+cal physiological variables and then couple them with 
+behavioral, autonomic, and neuroendocrine motor 
+outputs. Drawing upon the engineering principle of 
+negative feedback control, this led to the concept that 
+
+
+===== Page 9 =====
+1012    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Figure 41–1  (Left) Set points, settling points, and 
+homeostasis.
+A. The set point view was inspired by engineering principles. 
+As with a thermostat, constancy is achieved by providing feed-
+back on the existing level of a parameter, determining how it 
+compares to an idealized set point, and then instituting correc-
+tive measures to return the parameter to the set point. While 
+popular for many years, it has fallen out of favor as years of 
+research have failed to uncover molecular and neural bases for 
+encoding set points and performing error detection.
+B. The settling point model was inspired by observations that 
+many systems achieve constancy in the absence of any feed-
+back or error detection. In this example, the level of outflow 
+of water from a lake is proportional to the depth of the lake. 
+When it rains, the increase or decrease in the level of the lake 
+causes more or less water to flow out of the lake. The level 
+of the lake remains fairly constant without a set point or error 
+detection. A related example is regulation of body weight. 
+Increased food intake leads to increased body weight. As 
+body weight increases, the energy cost of carrying and sus-
+taining that increased weight goes up. Because of this, body 
+weight too should have its settling point. (Reproduced, with 
+permission, from Speakman et al. 2011.)
+C. In this model the concepts of feedback in part A and set-
+tling point in part B are combined. The apparent set point is 
+in fact the settling point, an emergent property of multiple 
+feedback-informed afferent/efferent loops.
+physiological “set points” help control key parameters 
+like body temperature, blood osmolarity, blood pres-
+sure, and body fat content.
+Set point models are appealing because thermo-
+stats are so effective in maintaining room temperature 
+at a targeted set point and, by analogy, physiological 
+variables like body temperature are likewise tightly 
+controlled. In such models, a “set point” exists for a 
+A  Set point model
+B  Settling point model
+C  Combined model: settling point of multiple afferent/efferent loops
+X
+Y
+Set point
+Error
+detector
+Sensor
+Effectors
+Too high
+Too low
++
+–
+Detectors
+1
+2
+3
+4
+Neurons
+Parameters
+Behavioral
+Physiologic 1
+Physiologic 2
+Effectors
+Hypothalamus
+Depth at outﬂow
+Rain
+Parameter
+parameter, 37°C in the case of body temperature, and 
+at any given moment, the real level of the parameter 
+is assessed and compared with the targeted set point 
+through feedback and error detection (Figure 41–1A). 
+Any deviation above or below triggers counteracting 
+corrective responses—if too hot, cutaneous vasodila-
+tation, sweating, and a dip in the pool; if too cold, 
+vasoconstriction, thermogenesis, shivering, and the 
+donning of a sweater. For regulation of body tempera-
+ture, the set point and detection of error were histori-
+cally seen as emergent properties of neurons in the 
+preoptic area of the hypothalamus (POA).
+Over time, the set point model required revision 
+because intensive investigation failed to uncover any 
+molecular or neuronal bases for encoding set points 
+and performing error detection. In addition, “set 
+point–like” regulation can, in principle, be achieved 
+without a set point, feedback, or error detection—the 
+so-called “settling point” model (Figure 41–1B). Con-
+sider the changing level of a lake. When rainfall is 
+excessive, its level rises; the rivers draining the lake 
+rise and their flow increases. The converse is true when 
+rainfall is low. The changing flow of the rivers draining 
+the lake thus maintains its level near a settling point 
+without requiring an idealized set point, feedback, 
+or error detection. While aspects of the settling point 
+model have appeal, it too is incomplete because home-
+ostatic processes clearly receive important feedback 
+
+

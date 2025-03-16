@@ -1,0 +1,891 @@
+===== Page 1 =====
+1324    Part VIII / Learning, Memory, Language and Cognition
+Sensory
+neuron
+5-HT
+Nucleus
+Consolidation
+initiated
+CREB-2
+CREB-1
+piRNA-F
+miRNA-124
+?
+Long-term
+memory
+5-HT
+receptor
+MAPK
+Figure 53–8  Small non-coding RNA molecules contribute  
+to  the memory consolidation switch. Long-term facilita-
+tion of the sensory to motor neuron synapses is consolidated 
+through the action of two distinct classes of small noncoding 
+RNA molecules. miRNA-124 normally acts to suppress levels 
+of the CREB-1 transcription factor by binding to its mRNA 
+and inhibiting its translation. Serotonin (5-HT) downregulates 
+miRNA-124 levels through a mechanism requiring mitogen-
+activated protein kinase (MAPK). This enhances the levels of 
+CREB-1, promoting activation of CREB-1–dependent transcrip-
+tion of gene products necessary for memory consolidation. 
+In a complementary pathway, 5-HT enhances with a delay the 
+synthesis of several piRNAs, including piRNA-F, which bind to 
+the Piwi protein. The piRNA-F/Piwi complex leads to enhanced 
+methylation of the CREB-2 gene, resulting in long-lasting 
+transcriptional repression of CREB-2 and decreased levels of 
+CREB-2 protein. Because CREB-2 normally inhibits the action 
+of CREB-1, the increased levels of piRNA-F in response to 5-HT 
+enhance and prolong CREB-1 activity, resulting in more effec-
+tive memory consolidation.
+induction of the hydrolase, approximately 25% of the 
+regulatory subunits are degraded in the sensory neu-
+rons. As a result, free catalytic subunits can continue 
+to phosphorylate proteins important for the enhance-
+ment of transmitter release and the strengthening of 
+synaptic connections, including CREB-1, long after 
+cAMP has returned to its resting level (Figure 53–6B). 
+Formation of a constitutively active enzyme is there-
+fore the simplest molecular mechanism for long-term 
+memory. With repeated training, a second-messenger 
+kinase critical for short-term facilitation can remain 
+persistently active for up to 24 hours without requir-
+ing a continuous activating signal.
+The second and more enduring consequence of 
+CREB-1 activation is the activation of the transcription 
+factor C/EBP. This transcription factor forms both a 
+homodimer with itself and a heterodimer with another 
+transcription factor called activating factor. Together, 
+these factors act on downstream genes that trigger the 
+growth of new synaptic connections that support long-
+term memory.
+With long-term sensitization, the number of pre-
+synaptic terminals in the sensory neurons in the gill-
+withdrawal circuit doubles (Figure 53–9). The dendrites 
+of the motor neurons also grow to accommodate the 
+additional synaptic input. Thus, long-term structural 
+changes in both post- and presynaptic cells increase 
+the number of synapses. Long-term habituation, in 
+contrast, leads to pruning of synaptic connections, as 
+described above. Long-term disuse of functional con-
+nections between sensory and motor neurons reduces 
+the number of terminals of each sensory neuron by 
+one-third (Figure 53–9A).
+Long-Term Synaptic Facilitation Is Synapse Specific
+A typical pyramidal neuron in the mammalian brain 
+makes 10,000 presynaptic connections with a wide 
+range of target cells. It is therefore generally thought 
+that long-term memory storage should be synapse 
+specific—that is, only those synapses that actively 
+participate in learning should be enhanced. However, 
+the finding that long-term facilitation involves gene 
+expression—which occurs in the nucleus, far removed 
+from a neuron’s synapses—raises some fundamental 
+questions regarding information storage.
+Is long-term memory storage indeed synapse 
+specific, or do the gene products recruited during 
+long-term memory storage alter the strength of every 
+presynaptic terminal in a neuron? And if long-term 
+memory is synapse specific, what are the cellular 
+mechanisms that enable the products of gene tran-
+scription to selectively strengthen just some synapses 
+and not others?
+Kelsey Martin and her colleagues addressed these 
+questions for long-term facilitation by using a cell culture 
+system consisting of an isolated Aplysia sensory neu-
+ron with a bifurcated axon that makes separate syn-
+aptic contacts with two motor neurons. The sensory 
+
+
+===== Page 2 =====
+Chapter 53 / Cellular Mechanisms of Implicit Memory Storage and the Biological Basis of Individuality    1325
+Figure 53–9  Long-term habituation and 
+sensitization involve structural changes 
+in the presynaptic terminals of sensory 
+neurons.
+A. Long-term habituation leads to a loss 
+of synapses, and long-term sensitization 
+leads to an increase in the number of 
+synapses. When measured either 1 day 
+(shown here) or 1 week after training, the 
+number of presynaptic terminals relative 
+to control levels is greater in sensitized 
+animals and less in habituated animals. 
+The drawings below the graph illustrate 
+changes in the number of synaptic con-
+tacts. The swellings or varicosities on the 
+sensory neuron processes are called syn-
+aptic boutons; they contain all the special-
+ized structures necessary for transmitter 
+release. (Adapted, with permission, from 
+Bailey and Chen 1983. Copyright © 1983 
+AAAS.)
+B. Fluorescence images of a sensory  
+neuron axon contacting a motor neuron in 
+culture before (left) and 1 day after (right) 
+five brief exposures to serotonin. The 
+resulting increase in varicosities simulates 
+the synaptic changes associated with 
+long-term sensitization. Prior to serotonin 
+application, no presynaptic varicosities are 
+visible in the outlined area (left). After  
+serotonin, several new boutons are  
+apparent (arrows), some of which contain 
+a fully developed active zone (asterisk) or 
+have small immature active zones.  
+Scale bar = 50 μm. (Reproduced, with per-
+mission, from Glanzman, Kandel,  
+and Schacher 1990.)
+*
+3000
+A  Long-term anatomical changes
+2500
+2000
+1500
+1000
+500
+0
+Number of synaptic boutons per sensory neuron
+Control
+Habituated
+Sensitized
+Control
+Sensory
+neuron
+Motor
+neuron
+Long-term habituation
+Long-term sensitization
+B
+Long-term sensitization
+Control
+neuron terminals on one of the two motor neurons 
+were activated by focal pulses of serotonin, thus mim-
+icking the neural effects of a shock to the tail. When 
+only one pulse of serotonin was applied, those syn-
+apses showed short-term facilitation. The synapses on 
+the second motor neuron, which did not receive sero-
+tonin, showed no change in synaptic transmission.
+When five pulses of serotonin were applied to 
+the same synapses, those synapses displayed both 
+short-term and long-term facilitation, and new synap-
+tic connections were formed with the motor neuron. 
+Although long-term facilitation and synaptic growth 
+require gene transcription and protein synthesis, the 
+synapses that did not receive serotonin showed no 
+enhancement of synaptic transmission (Figure 53–10). 
+Thus, both short-term and long-term synaptic facilita-
+tion are synapse specific and manifested only by those 
+synapses that receive the modulatory serotonin signal.
+But how are the nuclear products able to enhance 
+transmission at only certain synapses and not others of 
+the same neuron? Are the newly synthesized proteins 
+somehow targeted to only those synapses that receive 
+serotonin? Or are they shipped out to all synapses but 
+used productively for the growth of new synaptic con-
+nections only at those synapses that have been marked 
+by at least a single pulse of serotonin?
+
+
+===== Page 3 =====
+1326    Part VIII / Learning, Memory, Language and Cognition
+A
+B
+1 x 5-HT
+5 x 5-HT 
+Initiation
+Capture
+Sensory
+neuron
+Motor
+neuron
+A
+Motor
+neuron
+B
+1  Short-term facilitation
+2  Long-term facilitation
+3  Capture of long-term facilitation
+Cell A
+Cell B
+Cell A
+Cell B
+Cell A
+Cell B
+EPSP amplitude  (% change)
+–50
+50
+0
+100
+150
+10 min
+10 min
+24 h
+24 h
+24 h
+24 h
+24 h
+24 h
+1x
+5-HT
+1x
+5-HT
+SN
+A
+B
+5x
+5-HT
+A
+B
+5x
+5-HT
+A
+B
+Figure 53–10  The long-term facilitation of synaptic  
+transmission is synapse specific. (Adapted, with permission, 
+from Martin et al. 1997.)
+A. The experiment uses a single presynaptic sensory neuron 
+that contacts two postsynaptic motor neurons A and B. The 
+pipette on the left is used to apply five pulses of serotonin  
+(5-HT) to a sensory neuron synapse with motor neuron A, ini-
+tiating long-term facilitation at that synapse. The pipette on the 
+right is used to apply one pulse of 5-HT to a sensory neuron 
+synapse with motor neuron B, allowing this synapse to make 
+use of (capture) new proteins produced in the cell body in 
+response to the five pulses of 5-HT at the synapse with motor 
+neuron A. The image at the right shows the actual appearance 
+of the cells in culture.
+B. 1. One pulse of 5-HT applied to the synapse with motor 
+neuron A produces only short-term (10-minute) facilitation of 
+the excitatory postsynaptic potential (EPSP) in the neuron. 
+By 24 hours, the EPSP has returned to its normal size. There 
+is no significant change in EPSP size in cell B. 2. Application 
+of five pulses of 5-HT to the synapses with cell A produces 
+long-term (24-hour) facilitation of the EPSP in that cell but no 
+change in the size of the EPSP in cell B. 3. When five pulses 
+of 5-HT onto the synapse with cell A are paired with a single 
+pulse of 5-HT onto the synapses with cell B, cell B now  
+displays long-term facilitation and an increase in EPSP size 
+after 24 hours.
+
+
+===== Page 4 =====
+Chapter 53 / Cellular Mechanisms of Implicit Memory Storage and the Biological Basis of Individuality    1327
+To test this question, Martin and her colleagues 
+again selectively applied five pulses of serotonin to the 
+synapses made by the sensory neuron onto one of the 
+motor neurons. This time, however, the synapses with 
+the second motor neuron were simultaneously acti-
+vated by a single pulse of serotonin (which by itself 
+produces only short-term synaptic facilitation lasting 
+minutes). Under these conditions, the single pulse of 
+serotonin was sufficient to induce long-term facilita-
+tion and growth of new synaptic connections at the 
+contacts between the sensory neuron and the second 
+motor neuron. Thus, application of the single pulse 
+of serotonin onto the synapses at the second branch 
+enabled those synapses to use the nuclear products 
+produced in response to the five pulses of serotonin 
+onto the synapses of the first branch, a process called 
+capture.
+These results suggest that newly synthesized gene 
+products, both mRNAs and proteins, are delivered by 
+fast axonal transport to all the synapses of a neuron but 
+are functional only at synapses that have been marked 
+by previous synaptic activity, that is, by presynaptic 
+release of serotonin. Although one pulse of serotonin 
+at a synapse is insufficient to turn on new gene expres-
+sion in the cell body, it is sufficient to mark that synapse, 
+allowing it to make use of new proteins generated in 
+the cell body in response to five pulses of serotonin at 
+another synapse. This idea, developed by Martin and 
+her colleagues for Aplysia and independently by Frey 
+and Morris for the hippocampus in rodents, is called 
+synaptic capture or synaptic tagging.
+These findings raise the question, what is the 
+nature of the synaptic mark that allows the capture of 
+the gene products for long-term facilitation? When an 
+inhibitor of PKA was applied locally to the synapses 
+receiving the single pulse of serotonin, those synapses 
+could no longer capture the gene products produced in 
+response to the five pulses of serotonin (Figure 53–11). 
+This indicates that local phosphorylation by PKA is 
+required for synaptic capture.
+In the early 1980s, Oswald Steward discovered 
+that ribosomes, the machinery for protein synthesis, 
+are present at synapses as well as in the cell body. Mar-
+tin examined the importance of local protein synthesis 
+in long-term synaptic facilitation by applying a single 
+pulse of serotonin together with an inhibitor of local 
+protein synthesis onto one set of synapses while simul-
+taneously applying five pulses of serotonin to a second 
+set of synapses. Normally, long-term facilitation and 
+synaptic growth would persist for up to 72 hours in 
+response to synaptic capture. In the presence of the 
+local protein synthesis inhibitor, synaptic capture still 
+occurred, producing long-term synaptic facilitation at 
+the synapses exposed to only one pulse of serotonin. 
+However, the facilitation only lasted 24 hours. After 
+24 hours, synaptic growth and facilitation at these syn-
+apses collapsed, indicating that the maintenance of 
+learning-induced synaptic growth requires new local 
+protein synthesis at the synapse (Figure 53–11B).
+Martin and her colleagues thus found that regula-
+tion of protein synthesis at the synapse plays a major 
+role in controlling synaptic strength at the sensory-to-
+motor neuron connection in Aplysia. As we shall see 
+in Chapter 54, local protein synthesis is also important 
+for the later phases of long-term potentiation of synap-
+tic strength in the hippocampus.
+These findings indicate there are two distinct 
+components of synaptic marking in Aplysia. The first 
+component, lasting about 24 hours, initiates long-term 
+synaptic plasticity and synaptic growth, requires tran-
+scription and translation in the nucleus, and recruits 
+local PKA activity, but does not require local protein 
+synthesis. The second component, which stabilizes 
+the long-term synaptic change after 72 hours, requires 
+local protein synthesis at the synapse. How might this 
+local protein synthesis be regulated?
+Maintaining Long-Term Synaptic Facilitation 
+Requires a Prion-Like Protein Regulator of Local 
+Protein Synthesis
+The fact that mRNAs are translated at the synapse in 
+response to marking of that synapse by one pulse of 
+serotonin suggests that these mRNAs may initially 
+be dormant and under the control of a regulator of 
+translation recruited by serotonin. Translation of most 
+mRNAs requires that transcripts contain a long tail of 
+adenosine nucleotides at their 3′ end [poly(A) tail]. Joel 
+Richter had earlier found that in Xenopus (frog) oocytes 
+the maternal mRNAs only have a short tail of adenine 
+nucleotides and thus are silent until activated by the 
+cytoplasmic polyadenylation element binding protein 
+(CPEB). CPEB binds to a site on mRNAs and recruits 
+poly(A) polymerase, leading to the elongation of the 
+poly(A) tail.
+Kausik Si and his colleagues found that serotonin 
+increases the local synthesis of a novel, neuron-specific 
+isoform of CPEB in Aplysia sensory neuron terminals. 
+The induction of CPEB is independent of transcription 
+but requires new protein synthesis. Blocking CPEB 
+locally at an activated synapse blocks the long-term 
+maintenance of synaptic facilitation at the synapse but 
+not its initiation and initial 24-hour maintenance.
+How might CPEB stabilize the late phase of long-
+term facilitation? Most biological molecules have a rel-
+atively short half-life (hours to days), whereas memory 
+
+
+===== Page 5 =====
+1328    Part VIII / Learning, Memory, Language and Cognition
+A
+1 x 5-HT
+5 x 5-HT 
+Initiation
+Capture
+Sensory
+neuron
+Motor
+neuron
+A
+Motor
+neuron
+B
+B
+EPSP amplitude (% change)
+Control
++ Rp-cAMPS
++ Emetine
+Capture requires PKA
+Maintenance of facilitation requires local protein synthesis
+Time (h)
+01
+1
+4
+12
+24
+48
+72
+0
+50
+100
+0
+4
+12
+24
+48
+72
+0
+50
+PKA inhibitor
+(Rp-cAMPS)
+Local protein synthesis 
+inhibitor (Emetine)
+Figure 53–11  Long-term facilitation requires  
+both cyclic adenosine monophosphate  
+(cAMP)-dependent phosphorylation and local 
+protein synthesis. (Adapted, with permission, from 
+Casadio et al. 1999.)
+A. Five pulses of serotonin (5-HT) are applied to the 
+synapses on motor neuron A, and a single pulse is 
+applied to those of cell B. Inhibitors of protein kinase 
+A (PKA; Rp-cAMPS) or local protein synthesis  
+(emetine) are applied to synapses on cell B.
+B. Rp-cAMPS blocks the capture of long-term  
+facilitation completely at the synapses on neuron  
+B. Emetine has no effect on the capture of facilitation 
+or the growth of new synaptic connections  
+measured 24 hours after 5-HT application, but by  
+72 hours, it fully blocks synaptic enhancement.  
+The outgrowth of new synaptic connections is 
+retracted, and long-term facilitation decays after  
+1 day if capture is not maintained by local protein 
+synthesis. (Abbreviations: EPSP, excitatory post-
+synaptic potential; Rp-cAMPS, Rp-diaster-eomer of 
+adenosine cyclic 3′,5′-phosphorothioate.)
+lasts days, weeks, or even years. How can learning-
+induced alterations in the molecular composition of 
+a synapse be maintained for such a long time? Most 
+hypotheses posit some type of self-sustained mecha-
+nism that modulates synaptic strength and structure.
+Si and his colleagues made the surprising discov-
+ery that the neuronal isoform of Aplysia CPEB appears 
+to have self-sustaining properties that resemble those 
+of prion proteins. Prions were discovered by Stanley 
+Prusiner, who demonstrated that these proteins were 
+the causative agents of Creutzfeldt-Jakob disease, a 
+devastating neurodegenerative human disease, and 
+mad cow disease. Prion proteins can exist in two forms: 
+a soluble form and an aggregated form that is capable 
+of self-perpetuation. Aplysia CPEB also has two con-
+formational states, a soluble form that is inactive and 
+an aggregated form that is active. This switch depends 
+on an N-terminal domain of CPEB that is rich in glu-
+tamine, similar to prion domains in other proteins.
+In a naïve synapse, CPEB exists in the soluble, 
+inactive state, and its resting level of expression is 
+low. However, in response to serotonin, the local syn-
+thesis of CPEB increases until a threshold concentra-
+tion is reached that switches CPEB to the aggregated, 
+active state, which is then capable of activating the 
+translation of dormant mRNAs. Once the active state 
+is established, it becomes self-perpetuating by recruit-
+ing soluble CPEB to the aggregates, maintaining its 
+ability to activate the translation of dormant mRNAs. 
+Although dormant mRNAs are made in the cell body 
+and distributed throughout the cell, they are translated 
+only at synapses that have active CPEB aggregates.
+
+
+===== Page 6 =====
+Chapter 53 / Cellular Mechanisms of Implicit Memory Storage and the Biological Basis of Individuality    1329
+Figure 53–12  A self-perpetuating 
+switch for protein synthesis at axon 
+terminals in Aplysia maintains long-
+term synaptic facilitation. Five pulses 
+of serotonin (5-HT) set up a signal that 
+goes back to the nucleus to activate 
+synthesis of mRNA. Newly transcribed 
+mRNAs and newly synthesized pro-
+teins in the cell body are then sent to 
+all terminals by fast axonal transport. 
+However, only those terminals that 
+have been marked by at least one 
+pulse of serotonin can use the proteins 
+to grow the new synapses needed for 
+long-term facilitation. The marking of a 
+terminal involves two substances: (1) 
+protein kinase A (PKA), which is neces-
+sary for the immediate synaptic growth 
+initiated by the proteins transported to 
+the terminals, and (2) phosphoinositide 
+3 kinase (PI3 kinase), which initiates 
+the local translation of mRNAs required 
+to maintain synaptic growth and long-
+term facilitation past 24 hours. Some 
+of the mRNAs at the terminals encode 
+cytoplasmic polyadenylation element 
+binding protein (CPEB), a regulator of 
+local protein synthesis. In the basal 
+state, CPEB is thought to exist in a 
+largely inactive conformation as a 
+soluble monomer that cannot bind to 
+mRNAs. Through some as yet unspeci-
+fied mechanism activated by serotonin 
+and PI3 kinase, some copies of CPEB 
+convert to an active conformation that 
+forms aggregates. The aggregates 
+function like prions in that they are able 
+to recruit monomers to join the aggre-
+gate, thereby activating the monomers. 
+The CPEB aggregates bind the cyto-
+plasmic polyadenylation element (CPE) 
+site of mRNAs. This binding recruits 
+the poly(A) polymerase machinery 
+and allows poly(A) tails of adenine 
+nucleotides (A) to be added to dormant 
+mRNAs. The polyadenylated mRNAs 
+can now be recognized by ribosomes, 
+allowing the translation of these 
+mRNAs to several proteins. For exam-
+ple, in addition to CPEB, this leads to 
+the local synthesis of N-actin and tubu-
+lin, which stabilize newly grown synap-
+tic structures. (Model based on Bailey, 
+Kandel, and Si 2004.)
+Whereas conventional prion mechanisms are 
+pathogenic—the aggregated state of most prion pro-
+teins causes cell death—the Aplysia CPEB is a new form 
+of a prion-like protein, one whose aggregated state 
+5x
+5-HT
+1x
+5-HT
+N-Actin, 
+tubulin
+Motor
+neuron
+Motor
+neuron
+Sensory
+neuron
+mRNA
+mRNA
+CPE
+Inactive (soluble) CPEB
+Active (aggregated) CPEB
+1x 5-HT
+CPE
+AAA
+CPE
+AAA
+mRNA
+AAA
+PKA
+PI3 kinase
+MAPK 
+PKA
+A
+CRE
+plays an important physiological function. The active 
+self-perpetuating form of Aplysia CPEB maintains long-
+term molecular changes in a synapse that are necessary 
+for the persistence of memory storage (Figure 53–12).
+
+
+===== Page 7 =====
+1330    Part VIII / Learning, Memory, Language and Cognition
+Memory Stored in a Sensory-Motor Synapse 
+Becomes Destabilized Following Retrieval but  
+Can Be Restabilized
+A variety of studies in mammals by Karim Nader and 
+others have found that in its early stages long-term 
+memory storage is dynamic and can be disrupted. 
+In particular, a memory trace can become labile after 
+retrieval and require an additional round of consolida-
+tion (so-called reconsolidation).
+Until recently, it was unclear whether the same 
+set of synapses involved in storing a memory are 
+destabilized and restabilized following retrieval or 
+whether, after synaptic reactivation following a mem-
+ory, a new set of synapses is regulated. This question 
+was examined for retrieval of long-term sensitization 
+of the gill- and siphon-withdrawal reflex in Aplysia. 
+These experiments revealed that a retrieved memory 
+becomes labile as a result of ubiquitin-mediated pro-
+tein degradation and is then reconsolidated by means 
+new protein synthesis.
+Does a similar reconsolidation mechanism occur 
+at sensory-motor synapses that have undergone long-
+term facilitation? Indeed, when a synapse that has 
+undergone long-term facilitation is reactivated by a 
+brief burst of presynaptic action potentials, that syn-
+apse becomes destabilized through protein degrada-
+tion and requires protein synthesis for restabilization. 
+Such results suggest that reconsolidation of memory 
+involves restabilization of synaptic facilitation at the 
+same synapses at which the initial memory was stored.
+Classical Threat Conditioning of Defensive 
+Responses in Flies Also Uses the  
+cAMP-PKA-CREB Pathway
+Do the cellular mechanisms for implicit memory stor-
+age found in Aplysia have parallels in other animals? 
+Studies on aversive learning indicate that the same 
+mechanisms are also used to store memory in the fruit 
+fly Drosophila and in rodents, indicating conserved 
+mechanisms throughout Metazoan evolution. The fruit 
+fly is particularly convenient for the study of implicit 
+memory storage because its genome is easily manipu-
+lated and, as first demonstrated by Seymour Benzer 
+and his colleagues, the fly can be classically condi-
+tioned. In a typical classical conditioning paradigm, 
+an odor is paired with repeated electrical shocks to the 
+feet. The extent of learning is then examined by allow-
+ing the flies to choose between two arms of a maze, 
+where one arm contains the odor that had been paired 
+with a shock and the other arm contains an unpaired 
+odor. Following training, a large fraction of wild type 
+flies avoids the arm with the conditioned odor. Several 
+fly mutants have been identified that do not learn to 
+avoid the conditioned odor. These learning-defective 
+mutants have been given imaginatively descriptive 
+names such as dumb, dunce, rutabaga, amnesiac, and 
+PKA-R1. Of great interest, all of these mutants have 
+defects in the cAMP cascade.
+Olfactory conditioning depends on a region of the 
+fly brain called the mushroom bodies. Neurons of the 
+mushroom bodies, called Kenyon cells, receive olfac-
+tory input from the antennal lobes, structures similar 
+to the olfactory lobes of the mammalian brain. The 
+Kenyon cells also receive input from dopaminergic 
+neurons that respond to aversive stimuli, such as a foot 
+shock. The dopamine binds to a metabotropic receptor 
+(encoded by the dumb gene) that activates a stimula-
+tory G protein and a specific type of Ca2+/calmodulin-
+dependent adenylyl cyclase (encoded by the rutabaga 
+gene), similar to the cyclase involved in classical condi-
+tioning in Aplysia. The convergent action of dopamine 
+released by the unconditioned stimulus (foot shock) 
+and a rise in intracellular Ca2+ triggered by olfactory 
+input leads to the synergistic activation of adenylyl 
+cyclase, producing a large increase in cAMP.
+Recent experiments have demonstrated that flies 
+can be classically conditioned when an odorant is 
+paired with direct stimulation of the dopaminergic 
+neurons, bypassing the foot shock. In these experi-
+ments, the mammalian P2X receptor (an adenosine 
+triphosphate [ATP]-gated cation channel) is expressed 
+as a transgene in the dopaminergic neurons. The flies 
+are then injected with a caged derivative of ATP. The 
+dopaminergic neurons can then be excited to fire action 
+potentials by shining light on the flies to release ATP 
+from its cage and activate the P2X receptors. When the 
+dopaminergic neurons are activated in this manner 
+in the presence of an odor, the flies undergo aversive 
+conditioning—they learn to avoid the odor. Thus, the 
+unconditioned stimulus activates a dopamine signal 
+that reinforces aversive conditioning, much as seroto-
+nin acts as an aversive reinforcement signal for learned 
+defensive responses in Aplysia.
+A reverse genetic approach has also been used 
+to explore memory formation in Drosophila. In these 
+experiments, various transgenes are placed under the 
+control of a promoter that is heat sensitive. The heat 
+sensitivity permits the gene to be turned on at will by 
+elevating the temperature of the chamber housing the 
+flies. This was done in mature animals to minimize any 
+potential effect on the development of the brain. When 
+the catalytic subunit of PKA was blocked by transient 
+expression of an inhibitory transgene, flies were unable 
+
+
+===== Page 8 =====
+Chapter 53 / Cellular Mechanisms of Implicit Memory Storage and the Biological Basis of Individuality    1331
+Figure 53–13  Threat learning 
+engages parallel pathways from the 
+thalamus to the amygdala.  The signal 
+for the conditioned stimulus, here a 
+neutral tone, is carried by two pathways 
+from the auditory thalamus to the lateral 
+nucleus of the amygdala: by a direct 
+pathway and by an indirect pathway via 
+the auditory cortex. Similarly, the signal 
+for the unconditioned stimulus, here a 
+shock, is conveyed through parallel noci-
+ceptive pathways from the somatosen-
+sory part of the thalamus to the lateral 
+nucleus, one a direct pathway and one 
+an indirect pathway via the somatosen-
+sory cortex. The lateral nucleus in turn 
+projects to the central nucleus, the 
+output nucleus of the amygdala, which 
+activates neural circuits that increase 
+heart rate, produce other autonomic 
+changes, and elicit defensive behaviors 
+that constitute the defensive state. 
+(Reproduced, with permission, from 
+Kandel 2006.)
+to form short-term memory, indicating the importance 
+of the cAMP signal transduction pathway for associa-
+tive learning and short-term memory in Drosophila.
+Long-term memory in Drosophila requires new 
+protein synthesis just as in Aplysia and other animals. 
+Knockout of a CREB activator gene selectively blocks 
+long-term memory without interfering with short-
+term memory. Conversely, when the gene is overex-
+pressed, a training procedure that ordinarily produces 
+only short-term memory produces long-term memory.
+As in Aplysia, certain forms of long-term memory 
+in Drosophila also involve CPEB and may depend on 
+prion-like behavior in this protein. Male flies learn to 
+suppress their courtship behavior after exposure to 
+unreceptive females. When the N-terminal domain of 
+CPEB is deleted genetically, there is a loss of long-term 
+courtship memory; the male fly fails to recognize the 
+unreceptive female. This N-terminal domain is rich in 
+glutamine residues and corresponds to the glutamine 
+rich prion-like domain of CPEB in Aplysia. Thus sev-
+eral molecular mechanisms involved in implicit mem-
+ory are conserved from Aplysia to flies, and as we will 
+see next, this conservation extends to mammals.
+Memory of Threat Learning in Mammals 
+Involves the Amygdala
+Research over the past several decades has resulted 
+in a detailed understanding of the neural circuits for 
+both innate and learned defensive responses to threats 
+in mammals, often referred to as “fear learning.” In 
+particular, as we have noted in Chapter 42, both types 
+of defensive responses crucially involve the amygdala, 
+which participates in the detection and evaluation of a 
+broad range of significant and potentially dangerous 
+environmental stimuli. The amygdala-based defense 
+system quickly learns about new dangers. It can asso-
+ciate a new neutral stimulus (conditioned stimulus) 
+with a known threat (unconditioned stimulus) after a 
+single paired exposure, and this learned association is 
+often retained throughout life.
+The amygdala receives information about threats 
+directly from sensory systems. The input nucleus of 
+the amygdala, the lateral nucleus, is the site of conver-
+gence for signals from both unconditioned and con-
+ditioned stimuli. Both signals are carried by a rapid 
+pathway that goes directly from the thalamus to the 
+amygdala and a slower indirect pathway that projects 
+from the thalamus to sensory areas of neocortex and 
+from there to the amygdala. These parallel pathways 
+both contribute to conditioning (Figure 53–13). The 
+amygdala also receives higher-order cognitive infor-
+mation by means of connections from cortical associa-
+tional areas, especially medial cortical regions in the 
+frontal and temporal lobes.
+During Pavlovian conditioning, the strength of 
+synaptic transmission is modified in the amygdala. 
+In response to a tone, an extracellular electrophysi-
+ological signal proportional to the excitatory synaptic 
+response is recorded in the lateral nucleus. Following 
+pairing of the tone with a shock, the electrophysiologi-
+cal response to the tone is enhanced by an increase 
+in synaptic transmission, which depends on the 
+Amygdala
+Indirect
+Direct
+Lateral 
+nucleus
+Central 
+nucleus
+Fear 
+responses
+Auditory
+thalamus
+Somatosensory
+thalamus
+Auditory  
+cortex
+Somatosensory  
+cortex
+Shock 
+Tone 
+Noxious shock
+Neutral 
+tone
+Thalamus
+
+
+===== Page 9 =====
+1332    Part VIII / Learning, Memory, Language and Cognition
+Figure 53–14  Threat learning produces correlated behavio-
+ral and electrophysiological changes.
+A. An animal ordinarily ignores a neutral tone. The tone produces 
+a small synaptic response in the amygdala recorded by an extra-
+cellular field electrode. This field excitatory postsynaptic potential 
+(field EPSP) is generated by the small voltage drop between the 
+recording electrode in the amygdala and a second electrode on 
+the exterior of the brain as excitatory synaptic current enters the 
+dendrites of a large population of amygdala neurons.
+B. When the tone is presented immediately before a foot 
+shock, the animal learns to associate the tone with the shock. 
+As a result, the tone alone will elicit what the shock previously 
+elicited: It causes the mouse to freeze, an instinctive defense 
+response. After threat conditioning, the electrophysiological 
+response in the lateral nucleus of the amygdala to the tone is 
+greater than the response prior to conditioning. (Abbreviations: 
+CS, conditioned stimulus; US, unconditioned stimulus.)  
+(Reproduced, with permission, from Rogan et al. 2005.)
+convergence of the tone (conditioned stimulus) and 
+the shock (unconditioned stimulus) onto single neu-
+rons in the lateral amygdala (Figure 53–14).
+It is generally thought that behavioral learning 
+depends on synaptic plasticity. In an effort to under-
+stand how such plasticity might occur during learning 
+in the lateral amygdala, researchers have studied long-
+term potentiation (LTP), a cellular model of plasticity. 
+We initially discussed LTP in connection with excita-
+tory synapse function in Chapter 13 and will examine 
+it in detail in Chapter 54 in connection with explicit 
+memory and the hippocampus. In brain slices that 
+include the lateral amygdala, LTP can be induced by 
+high-frequency tetanic stimulation of either the direct 
+or indirect sensory pathways, which produces a long-
+lasting increase in the excitatory postsynaptic response 
+to these inputs. This change results from a form of 
+homosynaptic plasticity (Figure 53–15).
+Long-term potentiation in the lateral nucleus of 
+the amygdala is triggered by Ca2+ influx into the post-
+synaptic neurons in response to strong synaptic activ-
+ity. The Ca2+ entry is mediated by the opening of both 
+N-methyl-d-aspartate (NMDA)-type glutamate recep-
+tors and L-type voltage-gated Ca2+ channels in the post-
+synaptic cell. Because NMDA receptors are normally 
+blocked by extracellular Mg2+, they require a large 
+Behavioral testing 
+Training
+Fear response to tone
+Shock
+Tone
+Tone
+Electrophysiological testing 
+(lateral nucleus of the amygdala)
+Before 
+conditioning
+Tone
+Field EPSP
+Tone
+After 
+conditioning
+Neutral response
+Tone 
+alone
+Tone (CS)
+paired with
+shock (US)
+A
+B
+20 µV
+20 ms
+synaptic input to generate enough postsynaptic depo-
+larization to relieve this blockade (Chapter 13). L-type 
+channels also require a strong depolarization to open. 
+Thus, LTP is only generated in response to coincident 
+synaptic activity. Calcium influx triggers a biochemical 
+cascade that enhances synaptic transmission through 
+both the insertion of additional α-amino-3-hydroxy-5-
+methyl-4-isoxazolepropionic acid (AMPA)-type glu-
+tamate receptors in the postsynaptic membrane and 
+an increase in transmitter release from the presynaptic 
+terminals. As in Aplysia, monoamine neurotransmitters, 
+such as norepinephrine and dopamine, released during 
+tetanic stimulation provide a heterosynaptic modula-
+tory signal that contributes to the induction of LTP.
+Studies in awake behaving rodents indicate that 
+similar mechanisms contribute to the acquisition of 
+Pavlovian threat conditioning. This form of learning 
+requires postsynaptic NMDA receptors and voltage-
+gated calcium channels in the lateral amygdala, and 
+it is enhanced by norepinephrine released in lateral 
+amygdala from the locus ceruleus.
+In addition, the size of the LTP elicited by elec-
+trical stimulation in slices of the amygdala from ani-
+mals previously trained is less than that found in 
+slices from untrained animals. Because there is an 
+upper limit to the amount by which synapses can be 
+
+

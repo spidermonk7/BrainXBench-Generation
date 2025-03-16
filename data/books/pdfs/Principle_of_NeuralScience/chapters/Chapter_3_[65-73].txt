@@ -1,0 +1,808 @@
+===== Page 1 =====
+20    Part I / Overall Perspective
+vocalizations and are perceived by sight rather than 
+sound, but have the same structural complexity as 
+spoken languages. Sign language processing, as with 
+spoken language processing, localizes to the left 
+hemisphere. Damage to the left hemisphere can have 
+quite specific consequences for signing just as for spo-
+ken language, affecting sign comprehension (following 
+damage in Wernicke’s area), grammar, or fluency (fol-
+lowing damage in Broca’s area). These clinical observa-
+tions are supported by functional neuroimaging. Not 
+surprisingly, production and comprehension of signed 
+and spoken languages do not involve identical brain 
+areas, but the overlap is truly remarkable (Figure 1–8). 
+There is even evidence that processing the constituent 
+parts of signs (eg, handshape used) involves some of 
+the same brain regions involved when making rhyme 
+judgements about speech.
+These observations illustrate three points. First, 
+language processing occurs primarily in the left hemi-
+sphere, independently of pathways that process the 
+sensory and motor modalities used in language. Sec-
+ond, auditory input is not necessary for the emergence 
+and operation of language capabilities in the left hemi-
+sphere. Third, spoken language is only one of a family 
+of language skills mediated by the left hemisphere.
+Figure 1–8  Deaf signing and hearing individuals share 
+common language processing areas. Regions of the cortex 
+involved in the recognition of a spoken or signed language, 
+identified by functional magnetic resonance imaging (fMRI). 
+Yellow highlight shows the areas of the left and right cerebral 
+hemispheres (left and right columns, respectively) that were 
+activated more when comprehending language than when per-
+forming a perceptual task. For the deaf signers (top row), the 
+highlighted regions were more active during comprehension 
+of British Sign Language than during the detection of a visual 
+stimulus superimposed on the same motionless signer. For the 
+hearing speakers (bottom row), highlighted regions were more 
+active during comprehension of audio-visual speech than dur-
+ing the detection of a tone while viewing a motionless (silent) 
+speaker. (Adapted, with permission, from MacSweeney et al., 
+2002. Copyright © 2002 Oxford University Press.)
+Deaf
+signers
+Hearing
+speakers
+Investigations of other behaviors have provided 
+additional support for the idea that the brain has dis-
+tinct cognitive systems. These studies demonstrate 
+that complex information processing requires many 
+interconnected cortical and subcortical areas, each 
+concerned with processing particular aspects of sen-
+sory stimuli or motor movement and not others. For 
+example, perceptual awareness of an object’s loca-
+tion, size, and shape relies on activity in numerous 
+parietal association areas that link vision to poten-
+tial actions, such as moving the eyes, orienting the 
+head, reaching, and shaping the hand to grasp. The 
+parietal areas do not initiate these actions but evalu-
+ate sensory information as evidence bearing on these 
+potentialities. They receive information from the dor-
+sal visual stream—sometimes referred to as the where 
+pathway, but more aptly termed a how pathway—to 
+construct a state of knowing (gnosia) about the loca-
+tion and other spatial properties of objects. The ven-
+tral visual stream, or what pathway, is also concerned 
+with possible actions, but these are associated with 
+socializing and foraging. These associations establish 
+gnosia about the desirability of objects, faces, foods, 
+and potential mates. In this sense, the what pathway 
+might be a how pathway too.
+
+
+===== Page 2 =====
+Chapter 1 / The Brain and Behavior    21
+Mental Processes Are the Product of 
+Interactions Between Elementary Processing 
+Units in the Brain
+There are several reasons why the evidence for the 
+localization of brain functions, which seems so obvi-
+ous and compelling in retrospect, had been rejected so 
+often in the past. Phrenologists introduced the idea of 
+localization in an exaggerated form and without ade-
+quate evidence. They imagined each region of the cer-
+ebral cortex as an independent mental organ dedicated 
+to a complete and distinct aspect of personality, much 
+as the pancreas and the liver are independent diges-
+tive organs. Flourens’s rejection of phrenology and the 
+ensuing debate between proponents of the aggregate-
+field view (against localization) and the cellular con-
+nectionists (for localization) were responses to a theory 
+that was simplistic and without adequate experimen-
+tal evidence.
+In the aftermath of Wernicke’s discovery of the 
+modular organization of language in the brain—
+interconnected nodes with distinctive functions—we 
+now think that all cognitive abilities result from the 
+interaction of many processing mechanisms distrib-
+uted in several regions of the brain. That is, particu-
+lar brain regions are not fully responsible for specific 
+mental faculties but instead are elementary processing 
+units that together have a role. Perception, movement, 
+language, thought, and memory are all made possible 
+by the interlinkage of serial and parallel processing 
+in discrete brain regions—computational modules—
+within these regions. As a result, damage to a single 
+area need not result in the complete loss of a cogni-
+tive function (or faculty) as many earlier neurologists 
+believed. Even if a behavior initially disappears, it 
+may partially return as undamaged parts of the brain 
+reorganize their linkages. Further, when focal dam-
+age adversely affects a mental function it may do so 
+indirectly by disrupting the function of other princi-
+pal loci (diaschisis). Indeed, observations of this nature 
+led Wernicke’s student Kurt Goldstein to embrace the 
+more holistic view.
+Thus it is not accurate to think of a mental function 
+as being mediated strictly by a chain of nerve cells and 
+brain areas—each connected directly to the next—for 
+in such an arrangement the entire process is disrupted 
+when a single connection is damaged. A more realis-
+tic metaphor is that of a process consisting of several 
+parallel pathways in a network of modules that inter-
+act and ultimately converge upon a common set of 
+targets. The malfunction of a single pathway within 
+a network may affect the information carried by that 
+pathway without disrupting the entire system. The 
+remaining parts of the network may be able to modify 
+their performance to accommodate the breakdown of 
+one pathway.
+Modular processing in the brain was slow to be 
+accepted because, until recently, it was difficult to dem-
+onstrate which components of a mental operation were 
+mediated by a particular pathway or brain region. Nor 
+is it easy to define mental operations in a manner that 
+leads to testable hypotheses. Nevertheless, with the 
+evolving convergence of modern cognitive psychology 
+and brain science in recent decades, we have begun to 
+appreciate that mental functions can successfully be 
+broken down into subfunctions.
+To illustrate this point, consider how we learn, 
+store, and recall information about objects, people, and 
+events. Simple introspection suggests that we store 
+each piece of our knowledge as a single representation 
+that can be recalled by memory-jogging stimuli or even 
+by the imagination alone. Everything you know about 
+an apple, for example, seems to be stored in one com-
+plete representation that is equally accessible whether 
+you see a particular apple, a part of an apple, a red or 
+green apple, the written word apple, or an apocryphal 
+story about the discovery of gravity. Our experience, 
+however, is not a faithful guide to how knowledge is 
+stored in memory.
+Knowledge about apples is not stored as a single 
+coherent representation but rather is subdivided into 
+distinct categories and stored separately. One region of 
+the brain stores information about the way you would 
+hold the apple, the way you would feel for softness 
+(bearing on freshness), the color (bearing on preference 
+or freshness), the way you might communicate the 
+presence or taste of the apple to another person, as well 
+as its semantic association with computers, physicists, 
+worms, serpents, and biblical gardens. The concept 
+“apple” entails each of these considerations and many 
+more. A natural assumption is that a coherent concept 
+comprising many details must exist in a single place 
+in the brain; however, an equally valid assumption is 
+that a unified concept like “apple” exists in the mind in 
+the form of multiple links between a variety of neural 
+structures, each with a particular kind of information, 
+coordinated through the action of memory retrieval.
+The most astonishing example of the modular 
+organization of mental processes is the finding that 
+our very sense of self—a self-aware being, the sum of 
+what we mean when we say “I”—is achieved through 
+the connection of independent circuits in our two 
+cerebral hemispheres, each mediating its own sense 
+of awareness. The remarkable discovery that even 
+consciousness is not a unitary process was made by 
+Roger Sperry, Michael Gazzaniga, and Joseph Bogen 
+
+
+===== Page 3 =====
+22    Part I / Overall Perspective
+in the course of studying patients in whom the corpus 
+callosum—the major tract connecting the two cerebral 
+hemispheres—was severed as a treatment for epilepsy. 
+They found that each hemisphere had a consciousness 
+that functioned independently of the other.
+Thus while one patient was reading a favorite 
+book held in his left hand, the right hemisphere, which 
+controls the left hand but plays only a minor role in 
+language comprehension, found that the raw visual 
+information it received from simply looking at the book 
+was boring. The right hemisphere commanded the left 
+hand to put the book down. Another patient would 
+put on his clothes with the left hand while at the same 
+time taking them off with the other. Each hemisphere 
+has a mind of its own! In addition, the dominant hemi-
+sphere sometimes commented on the performance of 
+the nondominant hemisphere, frequently manifest-
+ing a false sense of confidence regarding problems to 
+which it could not know the solution, which was pro-
+vided exclusively to the nondominant hemisphere.
+Such findings have brought the study of con-
+sciousness, once the domain of philosophy and psy-
+choanalysis, into the fold of neural science. As we shall 
+see in later chapters, many of the issues described in 
+this chapter reemerge in neural theories of conscious-
+ness. No one questions the idea that much information 
+processing—perhaps the lion’s share—does not reach 
+conscious awareness. When sensory information, a 
+plan of action, or an idea does become conscious, 
+neural science seeks to explain the mechanisms that 
+mediate this transition. While there is as yet no satis-
+factory explanation, some brain scientists would liken 
+the process to a shift in the focus of attention, mediated 
+by distinct groups of neurons, whereas others believe 
+that awareness requires a qualitative change in the 
+functional interaction between widely separated areas 
+of the brain.
+The main reason it has taken so long to understand 
+which mental activities are mediated by which regions 
+of the brain is that we are dealing with biology’s deep-
+est riddle: the neural mechanisms that account for con-
+sciousness and self-awareness. There is at present no 
+satisfactory theory that explains why only some infor-
+mation that reaches our eyes leads to a state of subjec-
+tive awareness of an item, person, or scene. We know 
+that we are consciously aware of only a small fraction 
+of our mental deliberations, and those thoughts that do 
+pierce conscious awareness must arise from steps car-
+ried out by the brain unconsciously. As we propose in 
+Chapter 56, some answers to the riddles of conscious-
+ness may be closer than imagined.
+Meanwhile, the current gap in our understand-
+ing also poses practical, epistemological challenges 
+for neural science. We cannot help but rely on our con-
+scious experiences of the world, body, and ideation in 
+our characterization of perception, behavior, and cog-
+nition. In doing so, however, we risk mischaracterizing 
+many mental processes that do not pierce conscious 
+awareness. For example, we tend to characterize the 
+problem of perception in terms consistent with the 
+subjective experience of sensory information, whereas 
+even sophisticated but nonconscious knowledge of the 
+content of perception may have greater resemblance 
+to a behavioral utility (affordance), in effect an answer 
+to whether this is something I might choose to eat, sit 
+upon, or engage further. Similarly, cognitive processes, 
+such as reasoning, strategizing, and decision making, 
+are likely to be carried out by the brain in ways that 
+only loosely resemble the steps we infer from con-
+scious deliberation.
+These cautionary notes have a bright corollary. 
+The insight that many cognitive functions transpire 
+without conscious awareness raises the possibility that 
+principles of neural science revealed in the study of 
+more rudimentary behaviors can furnish insight into 
+more complex cognitive processes. Neural recordings 
+from the brains of animals trained to perform complex 
+tasks have led to an understanding of cognitive pro-
+cesses such as decision making, reasoning, planning, 
+and allocating attention. These experimental models 
+often extrapolate to human functions, and where they 
+fall short, they inspire new hypotheses. For more often 
+than not, there is inspiration if not insight to be gleaned 
+from the gaps in our understanding.
+To analyze how the brain gives rise to a specific 
+mental process, we must determine not only which 
+aspects of the process depend on which regions of the 
+brain but also how the relevant information is repre-
+sented, routed, and transformed. Modern neural science 
+seeks to integrate such understanding across many 
+scales. For example, studies at the level of both the sin-
+gle nerve cell and its molecular constituents elucidate 
+the mechanisms underlying electrical excitability and 
+synaptic connections. Studies of cells and simple cir-
+cuits lend insights into neural computations, ranging 
+from basic operations, like controlling net excitation, 
+to more masterful feats of computation, such as the 
+derivation of meaningful information from raw sen-
+sory data. Studies of the interactions between circuits 
+and brain areas can explain how we coordinate widely 
+separated muscle groups or express a belief in a prop-
+osition. Knowledge at all these levels is knit together 
+by mathematical formalizations, computer simulation, 
+and psychological theory. These conceptual tools can 
+now be combined with modern physiological tech-
+niques and brain imaging methods, making it possible 
+
+
+===== Page 4 =====
+Chapter 1 / The Brain and Behavior    23
+to track mental processes as they evolve in real time 
+in living animals and humans. Indeed, the excite-
+ment evident in neural science today stems from the 
+conviction that the biological principles that underlie 
+human thought and behavior are within our grasp and 
+may soon be harnessed to elucidate and improve the 
+human condition.
+Highlights
+1.  The neural sciences seek to understand the brain 
+at multiple levels of organization, ranging from 
+the cell and its constituents to the operations of the 
+mind.
+2.  The fundamental principles of neural science bridge 
+levels of time, complexity, and state—from cell to 
+action and ideation, from development through 
+learning to expertise and forgetting, from nor-
+mal function to neurological deficits and recovery. 
+As a first step, one must understand the building 
+blocks—the electrical properties of the nerve cell 
+and its connections to other nerve cells—and the 
+organization of the nervous system from support-
+ing cells to pathways.
+3.  The neuron doctrine states that individual nerve 
+cells (neurons) are the elementary building blocks 
+and signaling elements of the nervous system.
+4.  Neurons are organized into circuits with spe-
+cialized functions. The simplest circuits mediate 
+reflexes; more complex cognitive functions require 
+more sophisticated circuits. This organizational 
+principle extends the neuron doctrine to cellular 
+connectionism.
+5.  Even within complex circuits, critical nodes can be 
+identified as areas associated with a specific func-
+tion. The first clear evidence for localization of brain 
+function came from the study of a specific impair-
+ment of language production.
+6.  The two cerebral hemispheres receive information 
+from the opposite side of the body and control the 
+actions of the opposite side.
+7.  While the principle of localization of function in the 
+brain is superior to its main historical alternatives—
+aggregate-field and the theory of mass action—it 
+is constantly being refined. No area of the cerebral 
+cortex functions independently of other cortical and 
+subcortical structures.
+8.  A major refinement of localization is the principle 
+of modular functional organization. The brain con-
+tains many representations of information organ-
+ized by both the relevance of certain features for 
+particular computations and by the variety of uses 
+to which such information may be put. This is a 
+form of redundancy with respect to purpose or 
+potential action.
+9.  The future of brain science will require integration 
+of ideas that cross the boundaries of traditional 
+disciplines. We must open our minds to a wide 
+variety of sources to guide our intuitions and strat-
+egies for research, from the sublime—the nature of 
+consciousness—to the seemingly mundane—what 
+general anesthesia does to a calcium sensor in the 
+ring of cells around the thalamus.
+Eric R. Kandel 
+Michael N. Shadlen
+Selected Reading
+Churchland PS. 1986. Neurophilosophy: Toward a Unified Science 
+of the Mind-Brain. Cambridge, MA: MIT Press.
+Cooter R. 1984. The Cultural Meaning of Popular Science: Phre-
+nology and the Organization of Consent in Nineteenth-Century 
+Britain. Cambridge: Cambridge Univ. Press.
+Cowan WM. 1981. Keynote. In: FO Schmitt, FG Worden,  
+G Adelman, SG Dennis (eds). The Organization of the Cerebral 
+Cortex: Proceedings of a Neurosciences Research Program 
+Colloquium, pp. xi–xxi. Cambridge, MA: MIT Press.
+Crick F, Koch C. 2003. A framework for consciousness. Nat 
+Neurosci 6:119–126.
+Dehaene S. 2009. Reading in the Brain: The Science and Evolution 
+of a Human Invention. New York: Viking.
+Ferrier D. 1890. The Croonian Lectures on Cerebral Localisation. 
+London: Smith, Elder.
+Geschwind N. 1974. Selected Papers on Language and the Brain. 
+Dordrecht, Holland: Reidel.
+Glickstein M. 2014. Neuroscience. A Historical Introduction. 
+Cambridge, MA: MIT Press.
+Gregory RL (ed). 1987. The Oxford Companion to the Mind. 
+Oxford: Oxford Univ. Press.
+Harrington A. 1987. Medicine, Mind, and the Double Brain: 
+A Study in Nineteenth-Century Thought. Princeton, NJ: 
+Princeton Univ. Press.
+Harrison RG. 1935. On the origin and development of 
+the nervous system studied by the methods of experi-
+mental embryology. Proc R Soc Lond B Biol Sci 118: 
+155–196.
+Hickok G, Small S. 2015. Neurobiology of Language. Boston: 
+Elsevier.
+Jackson JH. 1884. The Croonian lectures on evolution and 
+dissolution of the nervous system. Br Med J 1:591–593; 
+660–663; 703–707.
+
+
+===== Page 5 =====
+24    Part I / Overall Perspective
+Kandel ER. 1976. The study of behavior: the interface between 
+psychology and biology. In: Cellular Basis of Behavior: An 
+Introduction to Behavioral Neurobiology, pp. 3–27. San Francisco: 
+Freeman.
+Ojemann GA. 1995. Investigating language during awake 
+neurosurgery. In: RD Broadwell (ed). Neuroscience, Mem-
+ory, and Language. Vol. 1, Decade of the Brain, pp. 117–131. 
+Washington, DC: Library of Congress.
+Petersen SE. 1995. Functional neuroimaging in brain areas 
+involved in language. In: RD Broadwell (ed). Neurosci-
+ence, Memory, and Language. Vol. 1, Decade of the Brain, pp. 
+109–116. Washington DC: Library of Congress.
+Shepherd GM. 1991. Foundations of the Neuron Doctrine. 
+New York: Oxford Univ. Press.
+Sperry RW. 1968. Mental unity following surgical disconnec-
+tion of the cerebral hemispheres. Harvey Lect 62:293–323.
+Young RM. 1990. Mind, Brain and Adaptation in the Nineteenth 
+Century. New York: Oxford Univ. Press.
+References
+Adrian ED. 1941. Afferent discharges to the cerebral cor-
+tex from peripheral sense organs. J Physiol (Lond) 
+100:159–191.
+Bernard C. 1878–1879. Leçons sur les Phénomènes de la vie Com-
+muns aux Animaux et aux Végétaux. Vols. 1, 2. Paris: Baillière.
+Boakes R. 1984. From Darwin to Behaviourism: Psychology and 
+the Minds of Animals. Cambridge: Cambridge Univ. Press.
+Broca P. 1865. Sur le siége de la faculté du langage articulé. 
+Bull Soc Anthropol 6:377–393.
+Brodmann K. 1909. Vergleichende Lokalisationslehre der Gross-
+hirnrinde in ihren Prinzipien dargestellt auf Grund des Zeelen-
+baues. Leipzig: Barth.
+Darwin C. 1872. The Expression of the Emotions in Man and 
+Animals. London: Murray.
+Dejerine J. 1891. Sur un cas de cécité verbale avec agraphie 
+suivi d’autopsie. Mémoires de la Société de Biologie 
+3:197–201.
+Descartes R. [1649] 1984. The Philosophical Writings of 
+Descartes. Cambridge: Cambridge Univ. Press.
+Finger S., Koehler PJ, Jagella C. 2004. The Monakow con-
+cept of diaschisis: origins and perspectives. Arch Neurol 
+61:283–288.
+Flourens P. [1824] 1953. Experimental research. P Flourens 
+and JMD Olmsted. In: EA Underwood (ed). Science, Medi-
+cine and History, 2:290–302. London: Oxford Univ. Press.
+Flourens P. 1824. Recherches Expérimentales sur les Propriétés et 
+les Fonctions du Système Nerveux, dans les Animaux Vertébrés. 
+Paris: Chez Crevot.
+Fritsch G, Hitzig E. [1870] 1960. Electric excitability of the 
+cerebrum. In: G. von Bonin (transl). Some Papers on the 
+Cerebral Cortex, pp. 73–96. Springfield, IL: Thomas.
+Gall FJ, Spurzheim G. 1810. Anatomie et Physiologie du Système 
+Nerveux en Général, et du Cerveau en Particulier, avec des 
+Observations sur la Possibilité de Reconnoître Plusieurs Dispo-
+sitions Intellectuelles et Morales de l’Homme et des Animaux, 
+par la Configuration de leurs Têtes. Paris: Schoell.
+Galvani L. [1791] 1953. Commentary on the Effect of Electricity 
+on Muscular Motion. RM Green (transl). Cambridge, MA: 
+Licht.
+Gazzaniga MS, LeDoux JE. 1978. The Integrated Mind. 
+New York: Plenum.
+Geschwind N. 1979. Specializations of the human brain. Sci 
+Am 241:180–199.
+Goldstein K. 1948. Language and Language Disturbances: Apha-
+sic Symptom Complexes and Their Significance for Medicine 
+and Theory of Language. New York: Grune & Stratton.
+Golgi C. [1906] 1967. The neuron doctrine: theory and facts. 
+In: Nobel Lectures: Physiology or Medicine, 1901–1921, pp. 
+189–217. Amsterdam: Elsevier.
+Langley JN. 1906. On nerve endings and on special excitable 
+substances in cells. Proc R Soc Lond B Biol Sci 78:170–194.
+Lashley KS. 1929. Brain Mechanisms and Intelligence: A Quanti-
+tative Study of Injuries to the Brain. Chicago: Univ. Chicago 
+Press.
+Lashley KS, Clark G. 1946. The cytoarchitecture of the cere-
+bral cortex of Ateles: a critical examination of architectonic 
+studies. J Comp Neurol 85:223–305.
+Loeb J. 1918. Forced Movements, Tropisms and Animal Conduct. 
+Philadelphia: Lippincott.
+MacSweeney M, Capek CM, Campbell R, Woll B. 2008. The 
+signing brain: the neurobiology of sign language. Trends 
+Cogn Sci 12:432–440.
+MacSweeney M, Woll B, Campbell R, et al. 2002. Neural sys-
+tems underlying British Sign Language and audio-visual 
+English processing in native users. Brain 125:1583–1593.
+Marshall WH, Woolsey CN, Bard P. 1941. Observations on 
+cortical somatic sensory mechanisms of cat and monkey.  
+J Neurophysiol 4:1–24.
+Martin JH. 2003. Neuroanatomy: Text and Atlas, 3rd ed. 
+New York: McGraw Hill.
+McCarthy RA, Warrington EK. 1988. Evidence for modality-
+specific meaning systems in the brain. Nature 334:428–430.
+Müller J. 1834–1840. Handbuch der Physiologie des Menschen für 
+Vorlesungen. Vols. 1, 2. Coblenz: Hölscher.
+Nieuwenhuys R, Voogd J, van Huijzen Chr. 1988. The Human 
+Central Nervous System: A Synopsis and Atlas, 3rd rev. ed. 
+Berlin: Springer.
+Pavlov IP. 1927. Conditioned Reflexes: An Investigation of the 
+Physiological Activity of the Cerebral Cortex. GV Anrep 
+(transl). London: Oxford Univ. Press.
+Penfield W. 1954. Mechanisms of voluntary movement. Brain 
+77:1–17.
+Penfield W, Rasmussen T. 1950. The Cerebral Cortex of Man: 
+A Clinical Study of Localization of Function. New York: 
+Macmillan.
+Penfield W, Roberts L. 1959. Speech and Brain-Mechanisms. 
+Princeton, NJ: Princeton Univ. Press.
+Ramón y Cajal S. [1892] 1977. A new concept of the histology 
+of the central nervous system. DA Rottenberg (transl). In: 
+DA Rottenberg, FH Hochberg (eds). Neurological Classics 
+in Modern Translation, pp. 7–29. New York: Hafner. (See 
+also historical essay by SL Palay, preceding Ramón y 
+Cajal’s paper.)
+
+
+===== Page 6 =====
+Chapter 1 / The Brain and Behavior    25
+Ramón y Cajal S. [1906] 1967. The structure and connex-
+ions of neurons. In: Nobel Lectures: Physiology or Medicine,  
+1901–1921, pp. 220–253. Amsterdam: Elsevier.
+Ramón y Cajal S. [1908] 1954. Neuron Theory or Reticular 
+Theory? Objective Evidence of the Anatomical Unity of Nerve 
+Cells. MU Purkiss, CA Fox (transl). Madrid: Consejo 
+Superior de Investigaciones Científicas Instituto Ramón 
+y Cajal.
+Ramón y Cajal S. 1937. 1852–1934. Recollections of My Life. EH 
+Craigie (transl). Philadelphia: American Philosophical 
+Society; reprinted 1989. Cambridge, MA: MIT Press.
+Rose JE, Woolsey CN. 1948. Structure and relations of lim-
+bic cortex and anterior thalamic nuclei in rabbit and cat.  
+J Comp Neurol 89:279–347.
+Shadlen MN, Kiani R, Hanks TD, Churchland AK. 2008. 
+Neurobiology of decision making: an intentional frame-
+work. In: C Engel, W Singer (eds.). Better Than Conscious? 
+Decision Making, the Human Mind, and Implications for Insti-
+tutions, pp. 71–102. Cambridge, MA: MIT Press.
+Sherrington C. 1947. The Integrative Action of the Nervous System, 
+2nd ed. Cambridge: Cambridge Univ. Press.
+Spurzheim JG. 1825. Phrenology, or the Doctrine of the Mind, 
+3rd ed. London: Knight.
+von Helmholtz H. [1850] 1948. On the rate of transmis-
+sion of the nerve impulse. In: W Dennis (ed). Read-
+ings in the History of Psychology, pp. 197–198. New York: 
+Appleton-Century-Crofts.
+Wandell BA, Rauschecker AM, Yeatman JD. 2012. Learning 
+to see words. Annu Rev Psychol 63:31–53.
+Wernicke C. 1908. The symptom-complex of aphasia. In: A 
+Church (ed). Diseases of the Nervous System, pp. 265–324. 
+New York: Appleton.
+Yeatman JD, Rauschecker AM, Wandell BA. 2013. Anatomy 
+of the visual word form area: adjacent cortical circuits 
+and long-range white matter connections. Brain Lang 
+125:146–155.
+
+
+===== Page 7 =====
+2
+Genes and Behavior
+Highlights
+Glossary
+A
+ll behaviors are shaped by the  interplay 
+of genes and the environment. The most ste-
+reotypic behaviors of simple animals are influ-
+enced by the environment, while the highly evolved 
+behaviors of humans are constrained by innate proper-
+ties specified by genes. Genes do not control behavior 
+directly, but the RNAs and proteins encoded by genes 
+act at different times and at many levels to affect the 
+brain. Genes specify the developmental programs that 
+assemble the brain and are essential to the properties 
+of neurons, glia, and synapses that allow neuronal cir-
+cuits to function. Genes that are stably inherited over 
+generations create the machinery by which new expe-
+riences can change the brain during learning.
+In this chapter, we ask how genes contribute to 
+behavior. We begin with an overview of the evidence 
+that genes do influence behavior, and then review 
+basic principles of molecular biology and genetic 
+transmission. We then provide examples of the way 
+that genetic influences on behavior have been docu-
+mented. A deep understanding of the ways that genes 
+regulate behavior has emerged from studies of worms, 
+flies, and mice, animals whose genomes are accessible 
+to experimental manipulation. Many persuasive links 
+between genes and human behavior have emerged 
+from the analysis of human brain development and 
+function. Despite the formidable challenges inherent in 
+studying complex traits in humans, recent progress has 
+An Understanding of Molecular Genetics and Heritability Is 
+Essential to the Study of Human Behavior
+The Understanding of the Structure and Function of the 
+Genome Is Evolving
+Genes Are Arranged on Chromosomes
+The Relationship Between Genotype and Phenotype Is Often 
+Complex
+Genes Are Conserved Through Evolution
+Genetic Regulation of Behavior Can Be Studied in Animal 
+Models
+A Transcriptional Oscillator Regulates Circadian Rhythm 
+in Flies, Mice, and Humans
+Natural Variation in a Protein Kinase Regulates Activity 
+in Flies and Honeybees
+Neuropeptide Receptors Regulate the Social Behaviors of 
+Several Species
+Studies of Human Genetic Syndromes Have Provided 
+Initial Insights into the Underpinnings of Social  
+Behavior
+Brain Disorders in Humans Result From Interactions 
+Between Genes and the Environment
+Rare Neurodevelopmental Syndromes Provide Insights 
+Into the Biology of Social Behavior, Perception, and 
+Cognition
+Psychiatric Disorders Involve Multigenic Traits
+Advances in Autism Spectrum Disorder Genetics 
+Highlight the Role of Rare and De Novo Mutations in 
+Neurodevelopmental Disorders
+Identification of Genes for Schizophrenia Highlights the 
+Interplay of Rare and Common Risk Variants
+Perspectives on the Genetic Bases of Neuropsychiatric 
+Disorders
+
+
+===== Page 8 =====
+Chapter 2 / Genes and Behavior    27
+begun to reveal the genetic risk factors in neurodevel-
+opmental and psychiatric syndromes such as autism, 
+schizophrenia, and bipolar disorder, offering another 
+important avenue to clarify the relationship between 
+genes, brain, and behavior.
+An Understanding of Molecular Genetics and 
+Heritability Is Essential to the Study of  
+Human Behavior
+Many human psychiatric disorders and neurological 
+diseases have a genetic component. The relatives of a 
+patient are more likely than the general population to 
+have the disease. The extent to which genetic factors 
+account for traits in a population is called heritability. 
+The strongest case for heritability is based on twin stud-
+ies, first used by Francis Galton in 1883. Identical twins 
+develop from a single fertilized egg that splits into two 
+soon after fertilization; such monozygotic twins share 
+all genes. In contrast, fraternal twins develop from two 
+different fertilized eggs; these dizygotic twins, like 
+normal siblings, share on average half their genetic 
+information. Systematic comparisons over many years 
+have shown that identical twins tend to be more simi-
+lar (concordant) for neurological and psychiatric traits 
+than fraternal twins, providing evidence of a heritable 
+component of these traits (Figure 2–1A).
+In a variation of the twin study model, the  
+Minnesota Twin Study examined identical twins that 
+were separated early in life and raised in different 
+households. Despite sometimes great differences in 
+their environment, twins shared predispositions for 
+the same psychiatric disorders and even tended to 
+share personality traits, like extraversion. This study 
+provides considerable evidence that genetic variation 
+contributes to normal human differences, not just to 
+disease states.
+Heritability for human diseases and behavioral 
+traits is usually substantially less than 100%, demon-
+strating that the environment is an important factor in 
+acquiring diseases or traits. Estimates of heritability for 
+many neurological, psychiatric, and behavioral traits 
+from twin studies are around 50%, but heritability can 
+be higher or lower for particular traits (Figure 2–1B). 
+Although studies of identical twins and other kinships 
+provide support for the idea that human behavior has a 
+hereditary component, they do not tell us which genes 
+are important, let alone how specific genes influence 
+behavior. These questions are addressed by studies in 
+experimental animals in which genetic and environ-
+mental factors are strictly controlled and by modern 
+methods of gene discovery that are now leading to 
+the systematic, reliable identification of specific varia-
+tions in DNA sequence and structure that contribute to 
+human psychiatric and neurological phenotypes.
+The Understanding of the Structure and 
+Function of the Genome Is Evolving
+The related fields of molecular biology and transmis-
+sion genetics are central to our modern understanding 
+of genes. Here we summarize some key ideas in these 
+fields; a glossary at the end of the chapter defines com-
+monly used terms.
+Genes are made of DNA, and it is DNA that is 
+passed on from one generation to the next. In most 
+circumstances, exact copies of each gene are provided 
+to all cells in an organism as well as to succeeding 
+generations through DNA replication. The rare excep-
+tions to this general rule—new (de novo) mutations 
+that are introduced into the DNA of either germline or 
+somatic cells and that play an important role in disease 
+risk—are discussed later. DNA is made of two strands, 
+each of which has a deoxyribose-phosphate backbone 
+attached to a series of four subunits: the nucleotides 
+adenine (A), guanine (G), thymine (T), and cytosine 
+(C). The two strands are paired so that an A on one 
+strand is always paired with a T on the complemen-
+tary strand, and a G with a C (Figure 2–2). This com-
+plementarity ensures accurate copying of DNA during 
+DNA replication and drives transcription of DNA into 
+lengths of RNA called transcripts. Given that nearly all 
+of the genome is double-stranded, bases or base pairs 
+are used interchangeably as a unit of measurement. A 
+segment of the genome encompassing a thousand base 
+pairs is referred to as 1 kilobase (1 kb) or 1 kilobase 
+pair (1 kbp), whereas a million base pairs are referred 
+to as 1 megabase (1 Mb) or 1 megabase pairs (1 Mbp). 
+RNA differs from DNA in that it is single-stranded, has 
+a ribose rather than a deoxyribose backbone, and uses 
+the nucleoside base uridine (U) in the place of thymine.
+In the human genome, approximately 20,000 genes 
+encode protein products, which are generated by trans-
+lation of the linear messenger RNA (mRNA) sequence 
+into a linear polypeptide (protein) sequence composed 
+of amino acids. A typical protein-coding gene consists 
+of a coding region, which is translated into the protein, 
+and noncoding regions (Figure 2–3). The coding region 
+is usually arranged in small coding segments called 
+exons, which are separated by noncoding stretches 
+called introns. The introns are deleted from the mRNA 
+before its translation into protein.
+
+
+===== Page 9 =====
+28    Part I / Overall Perspective
+Figure 2–1  Familial risk of psychiatric disorders provides 
+evidence of heritability.
+A. Correlations between monozygotic twins for psychiatric dis-
+orders are considerably greater than those between dizygotic 
+twins. Monozygotic twins share nearly all genes and have a 
+high (but not 100%) risk of sharing the disease state. Dizygotic 
+twins share 50% of their genetic material. A score of zero rep-
+resents no correlation (the average result for two random peo-
+ple), whereas a score of 1.0 represents a perfect correlation. 
+(Adapted from McGue and Bouchard 1998.)
+B. The risk of developing schizophrenia is greater in close rela-
+tives of a schizophrenic patient. Like dizygotic twins, parents 
+and children, as well as brothers and sisters, share 50% of their 
+genetic material. If only a single gene accounted for schizophre-
+nia, the risk should be the same for parents, siblings, children, 
+and dizygotic twins of patients. The variation between family 
+members shows that more complex genetic and environmental 
+factors are in play. (Adapted, with permission, from Gottesman II. 
+1991.)
+Lifetime risk of developing schizophrenia (%)
+10
+20
+30
+40
+50
+0
+None (general
+population)
+Relationship to
+schizophrenic individual
+Genes
+shared
+12.5%
+(third-degree
+relatives)
+25%
+(second-degree
+relatives)
+50%
+(ﬁrst-degree
+relatives)
+100%
+First cousin
+Uncle/aunt
+Nephew/niece
+Grandchild
+Half sibling
+Parent
+Sibling
+Child
+Dizygotic twin
+Monozygotic twin
+2%
+1%
+2%
+4%
+5%
+6%
+6%
+9%
+13%
+17%
+48%
+A
+B
+0.2
+0.0
+0.4
+0.6
+0.8
+1.0
+Schizophrenia
+Affective
+illness
+Panic
+disorder
+Autism
+Autism
+spectrum
+Attention
+deﬁcit
+Monozygotic twins
+Dizygotic twins
+Concordance for disorder
+
+

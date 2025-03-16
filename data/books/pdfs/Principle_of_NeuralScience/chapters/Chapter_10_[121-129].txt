@@ -1,0 +1,833 @@
+===== Page 1 =====
+76    Part I / Overall Perspective
+Figure 4–2  A simple behavior is mediated by many parts of 
+the brain.
+A.  A tennis player watching an approaching ball uses the visual 
+cortex to judge the size, direction, and velocity of the ball. The 
+premotor cortex develops a motor program to return the ball. 
+The amygdala acts in conjunction with other brain regions 
+to adjust the heart rate, respiration, and other homeostatic 
+mechanisms and also activates the hypothalamus to motivate 
+the player to hit well.
+B.  To execute the shot, the player must use all of the struc-
+tures illustrated in part A as well as others. The motor cortex 
+sends signals to the spinal cord that activate and inhibit many 
+muscles in the arms and legs. The basal ganglia become 
+involved in initiating motor patterns and perhaps recalling 
+learned movements to hit the ball properly. The cerebellum 
+adjusts movements based on proprioceptive information  
+from peripheral sensory receptors. The posterior parietal 
+cortex provides the player with a sense of where his body 
+is located in space and where his racket arm is located with 
+respect to his body. Brain stem neurons regulate heart rate, 
+respiration, and arousal throughout the movement. The  
+hippocampus is not involved in hitting the ball but is involved 
+in storing the memory of the return so that the player can 
+brag about it later.
+Premotor
+cortex
+A
+B
+Motor cortex
+Posterior
+parietal
+cortex
+Cerebellum
+Brain stem
+nuclei
+Spinal cord
+Hippocampus
+Basal
+ganglia
+Amygdala
+Visual
+cortices
+Hypothalamus
+in the brain. The system for fine touch, pressure, and 
+proprioception is called the epicritic system, whereas 
+the system for pain and temperature is called the pro-
+topathic system.
+Somatosensory Information From the Trunk and 
+Limbs Is Conveyed to the Spinal Cord
+All forms of somatosensory information from the 
+trunk and limbs enter the spinal cord, which has a core 
+H-shaped region of gray matter where neuronal cell 
+bodies are located. The gray matter is surrounded by 
+white matter formed by myelinated axons that make 
+up both short and long connections. The gray matter 
+on each side of the cord is divided into dorsal (or pos-
+terior) and ventral (or anterior) horns (Figure 4–3).
+The dorsal horn contains groups of secondary 
+sensory neurons (sensory nuclei) whose dendrites 
+receive stimulus information from primary sensory 
+neurons that innervate the body’s skin, muscles, 
+and joints. The ventral horn contains groups of 
+motor neurons (motor nuclei) whose axons exit the 
+spinal cord and innervate skeletal muscles. The spi-
+nal cord has circuits that mediate behaviors rang-
+ing from the stretch reflex to coordination of limb 
+movements.
+As we discussed in Chapter 3, when consider-
+ing the knee-jerk reflex, interneurons of various 
+types in the gray matter regulate the output of the 
+spinal cord motor neurons (see Figure 3–5). Some of 
+these interneurons are excitatory, whereas others are 
+inhibitory. These interneurons modulate both sensory 
+information flowing toward the brain and motor com-
+mands descending from the brain to the spinal motor 
+neurons. Motor neurons can also adjust the output 
+of other motor neurons via the interneurons. These 
+
+
+===== Page 2 =====
+Chapter 4 / The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior    77
+Figure 4–3  The major anatomical features of the spinal 
+cord. The ventral horn (green) contains large motor neurons, 
+whereas the dorsal horn (orange) contains smaller neurons. 
+Fibers of the gracile fascicle carry somatosensory information 
+from the lower limbs, whereas fibers of the cuneate fascicle 
+carry somatosensory information from the upper body. Fiber 
+bundles of the lateral and ventral columns include both ascend-
+ing and descending fiber bundles.
+Cell Stain
+Fiber Stain
+Dorsal
+horn
+Ventral sulcus
+Ventral columns
+Lateral columns
+Cuneate fascicle
+Gracile fascicle 
+Ventral
+horn
+White
+matter
+Ascending axons 
+ 
+Information
+from body's
+surface
+Innervation
+of skeletal
+muscle
+Gray
+matter
+Dorsal roots
+Ventral roots
+Motor
+neurons
+Sensory
+neurons
+To brain 
+stem
+Ascending and 
+descending axons 
+ 
+circuits will be considered in more detail when we dis-
+cuss the spinal cord in Chapter 32.
+The white matter surrounding the gray matter 
+contains bundles of ascending and descending axons 
+that are divided into dorsal, lateral, and ventral col-
+umns. The dorsal columns, which lie between the two 
+dorsal horns of the gray matter, contain only ascend-
+ing axons that carry somatosensory information to the 
+brain stem (Figure 4–1). The lateral columns include 
+both ascending and descending axons from the brain 
+stem and neocortex that innervate spinal interneurons 
+and motor neurons (Figure 4–3). This demonstrates a 
+general principle about central nervous system con-
+nections. Processing tends to be hierarchical: Projec-
+tions from a lower to a higher processing region are 
+said to be feedforward, while descending projections 
+can modulate spinal reflexes and are considered to 
+be feedback. The motif in which region A projects 
+to region B and, in turn, also receives return projec-
+tions from B, is recapitulated throughout the nervous 
+
+
+===== Page 3 =====
+78    Part I / Overall Perspective
+Figure 4–4  The internal and external appearances of the 
+spinal cord vary at different levels. The proportion of gray 
+matter (the H-shaped area within the spinal cord) to white mat-
+ter is greater at sacral levels than at cervical levels. At sacral 
+levels, very few incoming sensory axons have joined the spinal 
+cord, whereas most of the motor axons have already termi-
+nated at higher levels of the spinal cord. The cross-sectional 
+enlargements at the lumbar and cervical levels are regions 
+where the large number of fibers innervating the limbs enter or 
+leave the spinal cord.
+Cervical 
+(head, neck, 
+arms)
+C 1
+C 4
+Cervical
+enlargement
+Lumbar
+enlargement
+Thoracic 
+(upper trunk)
+Filum
+terminale
+C 7, 8
+T 2
+T 12
+L 5
+S 3
+S 4
+Features of the 
+rostrocaudal axis 
+The spinal cord 
+Rostral spinal cord
+Caudal spinal cord
+Increasing 
+proportion of 
+ascending and 
+descending axons
+Increasing 
+proportion 
+of gray matter
+Lumbar
+(lower torso
+and legs)
+Sacral
+(lower torso
+and legs)
+system. The ventral columns also include ascending 
+and descending axons. The ascending somatosensory 
+axons in the lateral and ventral columns constitute 
+parallel pathways that convey information about pain 
+and thermal sensation to higher levels of the central 
+nervous system. The descending axons control axial 
+muscles and posture.
+The spinal cord is divided along its length into four 
+major regions: cervical, thoracic, lumbar, and sacral 
+(Figure 4–4). Connections arising from these regions 
+
+
+===== Page 4 =====
+Chapter 4 / The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior    79
+are segregated according to the embryological somites 
+from which muscles, bones, and other components 
+of the body develop (Chapter 45). Axons projecting 
+from the spinal cord to body structures that develop 
+at the same segmental level join with axons entering 
+the spinal cord in the intervertebral foramen to form 
+spinal nerves. Spinal nerves at the cervical level are 
+involved with sensory perception and motor function 
+of the back of the head, neck, and arms; nerves at the 
+thoracic level innervate the upper trunk; lumbar and 
+sacral spinal nerves innervate the lower trunk, back, 
+and legs.
+Each of the four regions of the spinal cord contains 
+multiple segments corresponding approximately to 
+the different vertebrae in each region; there are 8 cer-
+vical segments, 12 thoracic segments, 5 lumbar seg-
+ments, and 5 sacral segments. The actual substance of 
+the mature spinal cord does not look segmented, but 
+the segments of the four spinal regions are nonetheless 
+defined by the number and location of the dorsal and 
+ventral roots that enter or exit the spinal cord. The spi-
+nal cord varies in size and shape along its rostrocaudal 
+axis because of two organizational features.
+First, relatively few sensory axons enter the cord 
+at the sacral level. The number of sensory axons 
+entering the cord increases at progressively higher 
+levels (lumbar, thoracic, and cervical). Conversely, 
+most descending axons from the brain terminate at 
+cervical levels, with progressively fewer descending 
+to lower levels of the spinal cord. Thus, the num-
+ber of fibers in the white matter is highest at cervi-
+cal levels (where there are the highest numbers of 
+both ascending and descending fibers) and lowest at 
+sacral levels. As a result, sacral levels of the spinal 
+cord have much less white matter than gray matter, 
+whereas the cervical cord has more white matter than 
+gray matter (Figure 4–4).
+The second organizational feature is variation in 
+the size of the ventral and dorsal horns. The ventral 
+horn is larger at the levels where the motor nerves 
+innervate the arms and legs. The number of ventral 
+motor neurons dedicated to a body region roughly 
+parallels the dexterity of movements of that region. 
+Thus, a larger number of motor neurons is needed to 
+innervate the greater number of muscles and to regu-
+late the greater complexity of movement in the limbs 
+as compared with the trunk. Likewise, the dorsal horn 
+is larger where sensory nerves from the limbs enter the 
+cord. Limbs have a greater density of sensory recep-
+tors to mediate finer tactile discrimination and thus 
+send more sensory fibers to the cord. These regions 
+of the cord are known as the lumbosacral and cervical 
+enlargements (Figure 4–4).
+Descending to 
+other levels of 
+the spinal cord
+Ventral 
+root
+Information 
+from skin,
+muscles, 
+and joints
+Dorsal
+root
+Dorsal root
+ganglion
+neuron
+Ascending
+to brain
+stem
+Dorsal
+columns
+Figure 4–5  Dorsal root ganglia and spinal nerve roots. The 
+cell bodies of neurons that bring sensory information from the 
+skin, muscles, and joints lie in the dorsal root ganglia, clusters 
+of cells that lie adjacent to the spinal cord. The axons of these 
+neurons are bifurcated into peripheral and central branches. The 
+central branch enters the dorsal portion of the spinal cord.
+The Primary Sensory Neurons of the Trunk and 
+Limbs Are Clustered in the Dorsal Root Ganglia
+The sensory neurons that convey information from the 
+skin, muscles, and joints of the limbs and trunk to the 
+spinal cord are clustered together in dorsal root gan-
+glia within the vertebral column, immediately adja-
+cent to the spinal cord (Figure 4–5). These neurons are 
+pseudo-unipolar in shape; they have a bifurcated axon 
+with central and peripheral branches. The peripheral 
+branch innervates the skin, muscle, or other tissue as 
+a free nerve ending or in association with specialized 
+receptors for sensing touch, proprioception (stretch 
+receptors), pain, and temperature.
+The somatosensory system and its pathways from 
+receptors to perception are more fully described in 
+Chapters 17 to 20. Suffice it to say at this point that there 
+are essentially two somatosensory pathways from the 
+periphery that carry either touch and stretch (epicritic 
+system) or pain and temperature (protopathic system). 
+Epicritic fibers travel in the posterior column–medial 
+lemniscal system (Figure 4–6). The centrally directed 
+axons from neurons in the dorsal root ganglion ascend 
+in the dorsal (or posterior) column white matter and 
+terminate in the gracile nucleus or cuneate nucleus of 
+the medulla. The centrally directed axons of the pain 
+and temperature pathway form the spinothalamic 
+
+
+===== Page 5 =====
+80    Part I / Overall Perspective
+Medulla
+Spinal cord
+Medulla
+Pons
+Midbrain
+Touch
+Pain
+Somatic sensory cortex
+(postcentral gyrus)
+Forearm and
+hand area
+Trunk
+Leg and
+foot
+Lateral
+sulcus
+Face
+Internal
+capsule
+Thalamus
+Ventral posterior
+lateral and 
+medial nuclei
+Spinomesencephalic 
+tract
+Medial lemniscus
+Medial lemniscus
+Spinothalamic tract
+Principal
+trigeminal
+nucleus
+Spinoreticular tract
+Gracile nucleus
+Gracile fascicle
+Cuneate fascicle
+Dorsal root
+ganglion cells
+Anterolateral system
+Cuneate nucleus
+Spinal trigeminal
+nucleus (N.V.) and tract
+Sensory decussation
+Dorsal column
+medial lemniscal
+system
+Dorsal anterior
+insular cortex
+
+
+===== Page 6 =====
+Chapter 4 / The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior    81
+pathway. They terminate within the gray matter of the 
+dorsal horn of the spinal cord. Second-order neurons 
+cross to the other side of the spinal cord and ascend in the 
+anterior and lateral spinothalamic tracts (Figure 4–6). 
+Both pathways ultimately terminate in the thalamus, 
+which sends projections to the primary somatosensory 
+area of the cerebral cortex. In the next section, we focus 
+on the epicritic system.
+The local and ascending branches from touch and 
+proprioceptive sensory neurons provide two func-
+tional pathways for somatosensory information enter-
+ing the spinal cord from dorsal root ganglion cells. The 
+local branches can activate local reflex circuits that 
+modulate motor output, while the ascending branches 
+carry information into the brain, where this informa-
+tion is further processed in the thalamus and cerebral 
+cortex.
+The Terminals of Central Axons of Dorsal Root 
+Ganglion Neurons in the Spinal Cord Produce a 
+Map of the Body Surface
+The manner in which the central axons of the dorsal 
+root ganglion cells terminate in the spinal cord forms a 
+neural map of the body surface. This orderly somato-
+topic distribution of inputs from different portions of 
+the body surface is maintained throughout the entire 
+ascending somatosensory pathway. This arrange-
+ment illustrates another important principle of neural 
+organization. Neurons that make up neural circuits at 
+any particular level are often connected in a systematic 
+fashion and appear similar from individual to indi-
+vidual. Similarly, fiber bundles that connect different 
+processing regions at different levels of the nervous 
+system are also arranged in a highly organized and 
+stereotypical fashion.
+Figure 4–6  (Opposite) Somatosensory information from the 
+limbs and trunk is conveyed to the thalamus and cerebral 
+cortex by two ascending pathways. Brain slices along the 
+neuraxis from the spinal cord to the cerebrum illustrate the 
+anatomy of the two principal pathways conveying somatosen-
+sory information to the cerebral cortex. The two pathways are 
+separated until they reach the pons, where they are juxtaposed.
+Dorsal column–medial lemniscal system (orange). Touch and 
+limb proprioception signals are conveyed to the spinal cord and 
+brain stem by large-diameter myelinated nerve fibers and trans-
+mitted to the thalamus in this system. In the spinal cord, the 
+fibers for touch and proprioception divide, one branch  
+going to the ipsilateral spinal gray matter and the other ascend-
+ing in the ipsilateral dorsal column to the medulla. The second-
+order fibers from neurons in the dorsal column nuclei cross the 
+midline in the medulla and ascend in the contralateral medial 
+lemniscus toward the thalamus, where they terminate in the 
+lateral and medial ventral posterior nuclei. Thalamic neurons in 
+these nuclei convey tactile and proprioceptive information to 
+the primary somatosensory cortex.
+Anterolateral system (brown). Pain, itch, temperature, and 
+visceral information is conveyed to the spinal cord by small-
+diameter myelinated and unmyelinated fibers that terminate in 
+the ipsilateral dorsal horn. This information is conveyed across 
+the midline by neurons within the spinal cord and transmitted 
+to the brain stem and the thalamus in the contralateral ante-
+rolateral system. Anterolateral fibers terminating in the brain 
+stem compose the spinoreticular and spinomesencephalic 
+tracts; the remaining anterolateral fibers form the spinothalamic 
+tract.
+Axons that enter the cord in the sacral region 
+ascend in the dorsal column near the midline, whereas 
+those that enter at successively higher levels ascend at 
+progressively more lateral positions within the dorsal 
+columns. Thus, in the cervical cord, where axons from 
+all portions of the body have already entered, sensory 
+fibers from the lower body are located medially in the 
+dorsal column, while fibers from the trunk, arm and 
+shoulder, and finally the neck occupy progressively 
+more lateral areas. In the cervical spinal cord, the axons 
+forming the dorsal columns are divided into two bun-
+dles: a medially situated gracile fascicle and a more lat-
+erally situated cuneate fascicle (Figure 4–1).
+Each Somatic Submodality Is Processed in a Distinct 
+Subsystem From the Periphery to the Brain
+The submodalities of somatic sensation—touch, pain, 
+temperature, and position sense—are processed in the 
+brain through different pathways that end in different 
+brain regions. We illustrate the specificity of these par-
+allel pathways by the path of information for the sub-
+modality of touch.
+The primary afferent fibers that carry information 
+about touch enter the ipsilateral dorsal column and 
+ascend to the medulla. Fibers from the lower body 
+run in the gracile fascicle and terminate in the gracile 
+nucleus, whereas fibers from the upper body run in the 
+cuneate fascicle and terminate in the cuneate nucleus. 
+Neurons in the gracile and cuneate nuclei give rise 
+to axons that cross to the other side of the brain and 
+ascend to the thalamus in a long fiber bundle called the 
+medial lemniscus (Figure 4–1).
+As in the dorsal columns of the spinal cord, the fib-
+ers of the medial lemniscus are arranged somatotopi-
+cally. Because the fibers carrying sensory information 
+
+
+===== Page 7 =====
+82    Part I / Overall Perspective
+cross the midline to the other side of the brain, the right 
+side of the brain receives sensory information from the 
+left side of the body, and vice versa. The fibers of the  
+medial lemniscus end in a specific subdivision of  
+the thalamus called the ventral posterior lateral nucleus 
+(Figure 4–1). There the fibers maintain their somatotopic 
+organization such that those carrying information from 
+the lower body end laterally and those carrying infor-
+mation from the upper body end medially.
+The Thalamus Is an Essential Link Between 
+Sensory Receptors and the Cerebral Cortex
+The thalamus is an egg-shaped structure that consti-
+tutes the dorsal portion of the diencephalon. It con-
+tains a class of excitatory neurons called thalamic relay 
+cells that convey sensory input to the primary sensory 
+areas of the cerebral cortex. However, the thalamus is 
+not merely a relay. It acts as a gatekeeper for informa-
+tion to the cerebral cortex, preventing or enhancing 
+the passage of specific information depending on the 
+behavioral state of the organism.
+The cerebral cortex has feedback projections that 
+terminate, in part, in a special portion of the thalamus 
+called the thalamic reticular nucleus. This nucleus 
+forms a thin sheet around the thalamus and is made up 
+almost totally of inhibitory neurons that synapse onto 
+the relay cells. It does not project to the neocortex at 
+all. In addition to receiving feedback projections from 
+the neocortex, the reticular nucleus receives input from 
+axons leaving the thalamus en route to the neocortex, 
+enabling the thalamus to modulate the response of its 
+relay cells to incoming sensory information.
+The thalamus is a good example of a brain region 
+made up of several well-defined nuclei. As many as 
+50 thalamic nuclei have been identified (Figure 4–7). 
+Some nuclei receive information specific to a sensory 
+modality and project to a specific area of the neocor-
+tex. For example, cells in the ventral posterior lateral 
+nucleus (where the medial lemniscus terminates) pro-
+cess somatosensory information, and their axons pro-
+ject to the primary somatosensory cortex (Figures 
+4–1 and 4–7). Projections from the retinal ganglion cells 
+terminate in another portion of the thalamus called the 
+lateral geniculate nucleus (Figure 4–7). Neurons in 
+this nucleus project in turn to the visual cortex. Other 
+portions of the thalamus participate in motor func-
+tions, transmitting information from the cerebellum 
+and basal ganglia to the motor regions of the frontal 
+lobe. Axons from cells of the thalamus that project 
+to the neocortex travel in the corona radiata, a large 
+Figure 4–7  The major subdivisions of the thalamus. The 
+thalamus is the critical relay for the flow of sensory informa-
+tion from peripheral receptors to the neocortex. Somatosen-
+sory information is conveyed from dorsal root ganglia to the 
+ventral posterior lateral nucleus and from there to the primary 
+somatosensory cortex. Likewise, visual information from the 
+retina reaches the lateral geniculate nucleus, from which it is 
+conveyed to the primary visual cortex in the occipital lobe. Each 
+of the sensory systems, except olfaction, has a similar process-
+ing step within a distinct region of the thalamus.
+Anterior nuclei
+Reticular nucleus
+Ventrolateral nuclei:
+1. Lateral dorsal
+2. Lateral posterior
+Pulvinar
+3. Ventral anterior
+4. Ventral lateral
+6. Ventral posterior
+    lateral
+5. Ventral posterior
+    medial
+Lateral geniculate nucleus
+Posterior
+nuclei
+Medial nuclei
+Medial geniculate
+nucleus
+Internal medullary
+lamina
+Midline nuclei
+Intralaminar nuclei
+Visual cortex
+Visual
+cortex
+Somatosensory cortex
+Primary
+somatosensory
+cortex
+Retina
+Dorsal column
+nuclei
+Dorsal column
+nuclei
+Dorsal root
+ganglion
+Thalamus
+Retina
+
+
+===== Page 8 =====
+Chapter 4 / The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior    83
+fiber bundle that carries most of the axons running to 
+and from the cerebral hemispheres. Through its con-
+nections with the frontal lobe and hippocampus, the 
+thalamus may play a role in cognitive functions, such 
+as memory. Some nuclei that may play a role in atten-
+tion project diffusely to large but distinctly different 
+regions of cortex.
+The nuclei of the thalamus are most commonly 
+classified into four groups—anterior, medial, vent-
+rolateral, and posterior—with respect to the internal 
+medullary lamina, a sheet-like bundle of fibers that runs 
+the rostrocaudal length of the thalamus (Figure 4–7). 
+Thus, the medial group of nuclei is located medial to 
+the internal medullary lamina, whereas the ventrolat-
+eral and posterior groups are located lateral to it. At 
+the rostral pole of the thalamus, the internal medul-
+lary lamina splits and surrounds the anterior group. 
+The caudal pole of the thalamus is occupied by the 
+posterior group, dominated by the pulvinar nucleus. 
+Groups of neurons are also located within the fibers 
+of the internal medullary lamina and are collectively 
+referred to as the intralaminar nuclei.
+The anterior group receives its major input from the 
+mammillary nuclei of the hypothalamus and from the 
+presubiculum of the hippocampal formation. The role 
+of the anterior group is uncertain, but because of its 
+connections, it is thought to be related to memory and 
+emotion. The anterior group is mainly interconnected 
+with regions of the cingulate and frontal cortices.
+The medial group consists mainly of the medio-
+dorsal nucleus. This large thalamic nucleus has three 
+subdivisions, each of which is connected to a particu-
+lar portion of the frontal cortex. The nucleus receives 
+inputs from portions of the basal ganglia, the amyg-
+dala, and midbrain and has been implicated in mem-
+ory and emotional processing.
+The nuclei of the ventrolateral group are named 
+according to their positions within the thalamus. The 
+ventral anterior and ventral lateral nuclei are impor-
+tant for motor control and carry information from the 
+basal ganglia and cerebellum to the motor cortex. The 
+ventral posterior nuclei convey somatosensory infor-
+mation to the neocortex. The ventroposterior lateral 
+nucleus conveys information from the spinal cord 
+tracts, as described earlier. The ventroposterior medial 
+nucleus conveys information from the face, which 
+enters the brain stem mainly through the trigeminal 
+nerve (cranial nerve V).
+The posterior group includes the medial and lateral 
+geniculate nuclei, the lateral posterior nucleus, and 
+the pulvinar. The medial geniculate nucleus is a com-
+ponent of the auditory system and is organized tono-
+topically based on the sound frequency information 
+carried by its inputs; it conveys auditory information 
+to the primary auditory cortex in the superior temporal 
+gyrus of the temporal lobe. The lateral geniculate nucleus 
+receives information from the retina and conveys it to 
+the primary visual cortex in the occipital lobe. Compared 
+to rodents, the pulvinar is enlarged disproportionately 
+in the primate brain, especially in the human brain, and 
+its development seems to parallel the enlargement of the 
+association regions of the parietal, occipital, and tempo-
+ral cortices. It has been divided into at least three subdivi-
+sions and is extensively interconnected with widespread 
+regions of the parietal, temporal, and occipital lobes, as 
+well as with the superior colliculus and other nuclei of 
+the brain stem related to vision.
+As noted previously, the thalamus not only projects 
+to the neocortex (feedforward connections) but also 
+receives extensive return inputs back from the neocor-
+tex (feedback connections). For example, in the lateral 
+geniculate nucleus, the number of synapses formed 
+by axons from the feedback projection from the visual 
+cortex is actually greater than the number of synapses 
+that the lateral geniculate nucleus receives from the 
+retina! This feedback is thought to play an important 
+modulatory role in the processing of sensory informa-
+tion, although the exact function is not yet understood. 
+Although this feedback is mainly from cortical neu-
+rons that are activated by both eyes, the neurons in the 
+lateral geniculate nucleus are responsive to only one or 
+the other eye. The implication is that they are primarily 
+driven by input from the retina (which is from differ-
+ent eyes in different layers), not the feedback from the 
+cortex, despite its numerical advantage. Most nuclei of 
+the thalamus receive a similarly prominent return pro-
+jection from the cerebral cortex, and the significance of 
+these projections is one of the unsolved mysteries of 
+neuroscience.
+The thalamic nuclei described thus far are called 
+the relay (or specific) nuclei because they have a spe-
+cific and selective relationship with a particular por-
+tion of the neocortex. Other thalamic nuclei, called  
+nonspecific nuclei, project to several cortical and subcor-
+tical regions. These nuclei are located either on the mid-
+line of the thalamus (the midline nuclei) or within the 
+internal medullary lamina (the intralaminar nuclei). 
+The largest of the midline nuclei are the paraventricu-
+lar, paratenial, and reuniens nuclei; the largest of the 
+intralaminar cell groups is the centromedian nucleus. 
+The intralaminar nuclei project to medial temporal 
+lobe structures, such as the amygdala and hippocam-
+pus, but also send projections to portions of the basal 
+ganglia. These nuclei receive inputs from a variety of 
+sources in the spinal cord, brain stem, and cerebellum 
+and are thought to mediate cortical arousal.
+
+
+===== Page 9 =====
+84    Part I / Overall Perspective
+The thalamus is an important step in the hierarchy 
+of sensory processing, not a passive relay station where 
+information is simply passed on to the neocortex. It is 
+a complex brain region where substantial information 
+processing takes place (Figure 4–1). To give but one 
+example, the output of somatosensory information 
+from the ventral posterior lateral nucleus is subject to 
+four types of processing: (1) local processing within the 
+nucleus; (2) modulation by brain stem inputs, such as 
+from the noradrenergic and serotonergic systems; (3) 
+inhibitory input from the reticular nucleus; and (4) 
+modulatory feedback from the neocortex.
+Sensory Information Processing Culminates in 
+the Cerebral Cortex
+Somatosensory information from the ventral poste-
+rior lateral nucleus is conveyed mainly to the primary 
+somatosensory cortex (Figure 4–1). The neurons here 
+are exquisitely sensitive to tactile stimulation of the 
+skin surface. The somatosensory cortex, like earlier 
+stages in tactile sensory processing, is somatotopically 
+organized (Figure 4–8).
+Figure 4–8  Homunculi illustrate the relative amounts of corti-
+cal area dedicated to sensory and motor innervation of indi-
+vidual parts of the body. The entire body surface is represented 
+in an orderly array of somatosensory inputs in the cortex. (From 
+Penfield and Rasmussen 1950. Reproduced by permission of the 
+Osler Library of the History of Medicine, McGill University.)
+A.  The area of cortex dedicated to processing sensory information 
+from a particular part of the body is not proportional to the mass of 
+the body part but instead reflects the density of sensory receptors 
+in that part. Thus, sensory input from the lips and hands occupies 
+more area of cortex than, say, that from the elbow.
+B.  Output from the motor cortex is organized in similar fashion. 
+The amount of cortical surface dedicated to a part of the body 
+is related to the degree of motor control of that part. Thus, in 
+humans, much of the motor cortex is dedicated to controlling 
+the muscles of the fingers and the muscles related to speech.
+Eye
+Thumb
+Index
+Middle
+Ring
+Little
+Hand
+Wrist
+Elbow
+Forearm
+Arm
+Shoulder
+Head
+Neck
+Hip
+Leg
+Trunk
+Foot
+Toes
+Genitals
+A  Sensory homunculus
+B  Motor homunculus
+Medial
+Lateral
+Nose
+Face
+Upper lip
+Lower lip
+Teeth, gums, and jaw
+Tongue
+Pharynx
+Intra-abdominal
+B
+A
+Medial
+Lateral
+Ankle
+Knee
+Hip
+Trunk
+Shoulder
+Elbow
+Wrist
+Hand
+Little
+Ring
+Middle
+Fingers
+Index
+Thumb
+Neck
+Brow
+Eyelid and eyeball
+Face
+Lips
+Jaw
+Tongue
+Swallowing
+Toes
+[—
+–V
+oc
+ali
+za
+ti
+on
+–—
+] 
+[
+M
+a
+st
+ic
+at
+io
+n
+]
+ 
+[
+S
+ali
+va
+ti
+o
+n
+]
+ 
+Fingers
+When the neurosurgeon Wilder Penfield stimu-
+lated the surface of the somatosensory cortex in 
+patients undergoing brain surgery in the late 1940s and 
+early 1950s, he found that sensation from the lower 
+limbs is mediated by neurons located near the midline 
+of the brain, whereas sensations from the upper body, 
+hands and fingers, face, lips, and tongue are medi-
+ated by neurons located laterally. Penfield found that, 
+although all parts of the body are represented in the 
+cortex somatotopically, the amount of surface area of 
+cortex devoted to each body part is not proportional 
+to its mass. Instead, it is proportional to the fineness 
+of discrimination in the body part, which in turn is 
+related to the density of innervation of sensory fib-
+ers (Chapter 19). Thus, the area of cortex devoted to  
+the fingers is larger than that for the arms. Likewise, 
+the representation of the lips and tongue occupies 
+more cortical surface than that of the remainder of the 
+face (Figure 4–8). As we shall see in Chapter 53, the 
+amount of cortex devoted to a particular body part is 
+not fixed but can be modified by experience, as seen in 
+concert violinists, where there is an expansion of the 
+region of somatosensory cortex devoted to the fingers 
+of the hand used to finger the strings. This illustrates 
+
+

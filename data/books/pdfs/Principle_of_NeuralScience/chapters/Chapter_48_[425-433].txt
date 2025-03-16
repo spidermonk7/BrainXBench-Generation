@@ -1,0 +1,508 @@
+===== Page 1 =====
+Preceding Page
+In Plato’s “Allegory of the Cave,” which addresses the origin of knowledge, his early 
+insight into the constructive nature of perception offers illuminating metaphors for the 
+process. The parable begins with the premise that a group of prisoners has never seen 
+the outside world. Their experience is limited to shadows cast upon the wall of the 
+cave by objects passing before a fire. The causes of those shadows—even the fact that 
+they are shadows—is unknown to the prisoners. Nonetheless, over time, the shadows 
+become imbued with meaning in the prisoners’ minds.  Metaphorically, the shadows 
+represent sensations, which are fleeting and incoherent. The assignment of meaning 
+represents the construction of intelligible percepts. The prisoner turning the corner of 
+the wall has been freed to witness the larger world of causes, which he reports back 
+to those still imprisoned. In a novel metaphorical take on this ancient story, this return-
+ing prisoner represents the field of modern neuroscience, which sheds light on the 
+relationship between our shadowy sensations and our rich perceptual experience of the 
+world. (Plato’s Cave, 1604. Jan Pietersz Saenredam, after Cornelis Cornelisz van Haarlem. 
+National Gallery, Washington D.C.)
+
+
+===== Page 2 =====
+IV
+Perception
+1Gardner J. 1971. Grendel. Alfred A. Knopf, New York. 
+I understood that the world was nothing: a mechanical chaos of 
+casual, brute enmity on which we stupidly impose our hopes and 
+fears. I understand that, finally and absolutely, I alone exist. All 
+the rest, I saw, is merely what pushes me, or what I push against, 
+blindly—as blindly as all that is not myself pushes back. I create 
+the whole universe, blink by blink…. Nevertheless, something will 
+come of all this.1
+J
+ohn gardner’s heartrending tale of the tormented  
+monster  Grendel’s perspective on life captures the fundamen-
+tal nature of perceptual experience: It is a construct that we alone 
+impose. Or, as Grendel keenly observes, “The mountains are what I 
+define them as.” Isolated and tortured by loneliness, Grendel sees the 
+world as do the shackled prisoners in Plato’s Cave, where mere shad-
+ows are what is sensed, but those shadows are imbued with meaning, 
+utility, agency, beauty, joy, and sadness, all through the constructive 
+process of perception: “What I see, I inspire with usefulness . . . and all 
+that I do not see is useless, void.”
+Like the prisoner who escapes from Plato’s Cave to view a larger 
+world of causes, or the all-knowing dragon who fills Grendel with 
+ideas from another dimension—“But dragons, my boy, have a whole 
+different kind of mind. . . . We see from the mountaintop: all time, all 
+space”—modern neuroscience promises a mountaintop understand-
+ing of perceptual experience, an understanding not simply of the 
+things we construct from our shadowy sensations, but how we do 
+so, and for what purpose.
+This section on perception offers that expansive mountaintop 
+view. For each of the sensory modalities in turn, these chapters 
+begin by examining environmental stimuli—light, sound, gravity, 
+touch, and chemicals—that are the origins of human experience and 
+knowledge of the world. In hierarchical fashion, the chapters survey 
+the mechanisms that enable stimulus detection and discrimination, 
+the perceptual processes that fill evanescent sensations with mean-
+ing, and the operations that support attention, decision, and action, 
+based on what is perceived.
+Vision—a sense both particularly well understood and heavily 
+utilized by humans—acquires information through properties of 
+light. Light reflected from objects in the environment varies in wave-
+length and intensity and fluctuates over space and time, and through 
+
+
+===== Page 3 =====
+those physical properties conveys evidence of the world around 
+us. Cast as patterned images upon the retina, luminous energy is 
+transduced into neuronal signals by dedicated receptor cells. The 
+evidential properties of these images are detected by a collection of 
+specialized neuronal systems that sense forms of contrast and con-
+vey this information to the rest of the brain.
+Similarly, the auditory system acquires information about the 
+world through the simple compression and rarefaction of air, as 
+caused by spoken language, music, or environmental sounds. This 
+sensory evidence is detected—even in minute quantities and with 
+incredibly precise timing—by an extraordinarily intricate amplifica-
+tion system consisting of small drums, levers, tubes, and hair cells, 
+whose bendable stereocilia transduce mechanical energy into neu-
+ronal signals. Similar motion-detecting hair cells serve the vestibular 
+senses of balance, acceleration, and rotation of the head. 
+The somatosensory system acquires information about physical 
+stimuli impinging on the body in the form of pressure, vibration, 
+and temperature—and, in the extreme, pain—as would be caused 
+by touch, movement of the skin across a textured surface, or contact 
+with a source of heat. The peripheral nerve endings of a variety of 
+specialized detector neurons embedded in skin, viscera, and muscle 
+transduce this mechanical energy into neuronal signals, which are 
+carried via the spinal cord and cranial nerves to the brain. 
+Finally, the senses of taste and smell acquire information about 
+the chemical composition of the world, in the form of form of food, 
+drink, and airborne molecules. From one of the most exciting and 
+rapidly developing areas of sensory biology today, we now know 
+that there are hundreds of olfactory receptors that have unique 
+patterns of affinity for airborne molecules, which accounts for the 
+human ability to detect and discriminate a staggering number and 
+diversity of odors.
+All of these receptive systems serve as filters, characterized by 
+neural “receptive fields” that highlight certain forms of information 
+and restrict others. These selective filters are tunable over different 
+timescales, enhancing attention to salient stimuli and adapting to the 
+statistics of the sensory world. This flexibility accommodates varia-
+tions in both behavioral goals and environmental conditions.
+Like the shackled prisoners in Plato’s cave, our sensory systems 
+initially convey simple filtered representations of sensory input, 
+which are fundamentally ambiguous, noisy, and incomplete. Alone 
+they have no meaning. Quite remarkably, our brain enables us to 
+ultimately experience this sensory information as the environmental 
+objects and events that cause those patterns. The constructive tran-
+sition from a world of sensory evidence to one of meaning lies at 
+the heart of perception and has long been one of the most engag-
+ing mysteries of human cognition. The 19th-century English phi-
+losopher John Stuart Mill wrote “perception reflects the permanent 
+possibilities of sensation,” and in doing so reclaims from transient 
+
+
+===== Page 4 =====
+sensory events the enduring structural and relational properties of 
+the world.
+This section reveals how perception overcomes the vagaries of 
+sensory evidence to develop hypotheses or inferences about the 
+causes of sensation, by reference to past knowledge. Much of this 
+happens through the machinery of the cerebral cortex, where sen-
+sory signals are linked both within and between modalities and to 
+feedback from the memory store. Like a detective viewing a crime 
+scene, informed by memory and context, the activity of cortical neu-
+rons begins to yield what William James aptly called the “perception 
+of probable things.” 
+With this perceptual transformation also comes the ability to rec-
+ognize objects familiar to us. We readily generalize across different 
+sensory manifestations of the same or similar objects, in the form of 
+perceptual constancies and categorical percepts, and we link these 
+with other meaningful events. The sound of the coffee grinder in 
+the morning, the smell of a lover’s perfume or the sight of her face 
+expands our experience beyond the immediate to a realm of recall 
+and imagination. The chapters in this collection review the brain 
+structures and computations that underlie these associative func-
+tions, which include highly specialized neuronal systems for recog-
+nizing and interpreting complex and behaviorally significant objects, 
+such as faces.
+Perceptual experience of the world around us is a prerequisite for 
+meaningful interaction with that world. Decisions are made based 
+on the accumulation of sensory evidence in support of one percept 
+versus another. Is that my suitcase on the carousel? Is this where we 
+turn? Was that aria from Wagner or Strauss? Is that the fragrance of 
+jasmine or gardenia? Cortical neurons form salience maps, which 
+represent the outcome of these perceptual decisions with respect to 
+behavioral goals and rewards and prioritize actions accordingly.
+Perception is generally treated—as it is herein—as a distinct sub-
+discipline of neuroscience. Increasingly we see this compartmentali-
+zation breaking down. The relationship of perception to other brain 
+functions—learning, memory, emotion, motor control, language, 
+development—is ever clearer with the explosive growth of new 
+concepts and experimental methods for monitoring and manipu-
+lating brain structure and function, and for revealing the extensive 
+anatomical and functional neural connections between seemingly 
+distinct brain regions. Thus have we begun to fully appreciate how 
+the brain’s system for acquiring and interpreting information, for 
+becoming aware of and understanding the world—for perceiving—is 
+the functional centerpiece of human cognition and behavior.
+Part Editors: Thomas D. Albright and Randy M. Bruno
+
+
+===== Page 5 =====
+Part IV
+Chapter 17 	 Sensory Coding
+Chapter 18	
+Receptors of the Somatosensory System
+Chapter 19 	 Touch
+Chapter 20 	 Pain
+Chapter 21 	 The Constructive Nature of Visual Processing
+Chapter 22 	 Low-Level Visual Processing: The Retina
+Chapter 23 	 Intermediate-Level Visual Processing and  
+Visual Primitives
+Chapter 24 	 High-Level Visual Processing: From Vision  
+to Cognition
+Chapter 25 	 Visual Processing for Attention and Action
+Chapter 26 	 Auditory Processing by the Cochlea
+Chapter 27 	 The Vestibular System
+Chapter 28 	 Auditory Processing by the Central Nervous System
+Chapter 29 	 Smell and Taste: The Chemical Senses
+
+
+===== Page 6 =====
+17
+Sensory Coding
+it, informed by our past experience and preparing 
+us for probable futures. Sensation provides immedi-
+ate answers to three ongoing and essential questions: 
+Is something there? What is it? and What’s changed? To 
+answer these questions, all sensory systems perform 
+two fundamental functions: detection and discrimina-
+tion. Because our world and our needed responses to 
+it change with time, sensory systems can both preferen-
+tially respond and adapt to changing stimuli in the short 
+term, and also learn to modify our responses to stimuli 
+as our needs and circumstances change.
+Since ancient times, humans have been fascinated 
+by the nature of sensory experience. Aristotle defined 
+five senses—vision, hearing, touch, taste, and smell—
+each linked to specific sense organs in the body: eyes, 
+ears, skin, tongue, and nose. Pain was not considered 
+to be a specific sensory modality but rather an afflic-
+tion of the soul. Intuition, often referred to colloquially 
+as a “sixth sense,” was not yet understood to depend 
+upon the experience of the classic sensory systems. 
+Today, neurobiologists recognize intuition as infer-
+ences derived from previous experience and thus the 
+result of cognitive as well as sensory processes.
+In this chapter, we consider the organizational 
+principles and coding mechanisms that are universal 
+to all sensory systems. Sensory information is defined as 
+neural activity originating from stimulation of receptor 
+cells in specific parts of the body. Our senses include 
+the classic five senses plus a variety of modalities not 
+recognized by the ancients but essential to bodily func-
+tion: the somatic sensations of pain, itch, temperature, 
+and proprioception (posture and movement of our 
+own body); visceral sensations (both conscious and 
+Psychophysics Relates Sensations to the Physical Properties 
+of Stimuli
+Psychophysics Quantifies the Perception of Stimulus 
+Properties
+Stimuli Are Represented in the Nervous System by the Firing 
+Patterns of Neurons
+Sensory Receptors Respond to Specific Classes of 
+Stimulus Energy
+Multiple Subclasses of Sensory Receptors Are Found in 
+Each Sense Organ
+Receptor Population Codes Transmit Sensory 
+Information to the Brain
+Sequences of Action Potentials Signal the Temporal 
+Dynamics of Stimuli
+The Receptive Fields of Sensory Neurons Provide Spatial 
+Information About Stimulus Location
+Central Nervous System Circuits Refine Sensory Information
+The Receptor Surface Is Represented Topographically in 
+the Early Stages of Each Sensory System
+Sensory Information Is Processed in Parallel Pathways in 
+the Cerebral Cortex
+Feedback Pathways From the Brain Regulate Sensory 
+Coding Mechanisms
+Top-Down Learning Mechanisms Influence Sensory 
+Processing
+Highlights
+O
+ur senses enlighten and empower us. Through 
+ sensation, we form an immediate and rel-
+evant picture of the world and our place in 
+
+
+===== Page 7 =====
+386    Part IV / Perception
+unconscious) necessary for homeostasis; and the ves-
+tibular senses of balance (the position of the body in the 
+gravitational field) and head movement.
+Sensation informs and enriches all life, and the 
+fundamentals of sensory processing have been con-
+served throughout vertebrate evolution. Specialized 
+receptors in each of the sensory systems provide the 
+first neural representation of the external and inter-
+nal world, transforming a specific type of stimulus 
+Figure 17–1  The major sensory modalities in humans are 
+mediated by distinct classes of receptor neurons located 
+in specific sense organs. Each class of receptor cell trans-
+forms one type of stimulus energy into electrical signals that 
+are encoded as trains of action potentials (see Figure 17–4). 
+The principal receptor cells include photoreceptors (vision), 
+chemoreceptors (smell, taste, and pain), thermal receptors, and 
+mechanoreceptors (touch, hearing, balance, and propriocep-
+tion). The classic five senses—vision, smell, taste, touch, and 
+hearing—and the sense of balance are mediated by receptors 
+in the eye, nose, mouth, skin, and inner ear, respectively. The 
+other somatosensory modalities—thermal senses, pain, vis-
+ceral sensations, and proprioception—are mediated by recep-
+tors distributed throughout the body.
+Vision
+Smell
+Taste 
+Pain
+Touch
+Hearing
+Thermal senses
+Balance
+Proprioception
+energy into electrical signals (Figure 17–1). All sensory 
+information is then transmitted to the central nervous 
+system by trains of action potentials that represent par-
+ticular aspects of the stimulus. This information flows 
+centrally to regions of the brain involved in the pro-
+cessing of individual senses, multisensory integration, 
+and cognition.
+The sensory pathways have both serial and 
+parallel components, consisting of fiber tracts with 
+
+
+===== Page 8 =====
+Chapter 17 / Sensory Coding    387
+thousands or millions of axons linked by synapses 
+that both transmit and transform information. Rela-
+tively simple forms of neural coding of stimuli by 
+receptors are modulated by complex mechanisms in 
+the brain to form the basis of cognition. Sensory path-
+ways are also controlled by higher centers in the brain 
+that modify and regulate incoming sensory signals by 
+feeding information back to earlier stages of process-
+ing. Thus, perception is the product not simply of 
+“raw” physical sensory information but also cogni-
+tion and experience.
+Both scientists and philosophers have examined 
+the extent to which the sensations we experience 
+accurately reflect the stimuli that produce them, and 
+how they are altered by our inherently subjective and 
+imprecise knowledge of the world. In prior centuries, 
+the interest of European philosophers in sensation 
+and perception was related to the question of human 
+nature itself. Two schools of thought eventually domi-
+nated: empiricism, represented by John Locke, George 
+Berkeley, and David Hume, and idealism, represented 
+by René Descartes, Immanuel Kant, and Georg Wilhelm 
+Friedrich Hegel.
+Locke, the preeminent empiricist, advanced the 
+idea that the mind at birth is a blank slate, or tabula rasa, 
+void of any ideas. Knowledge, he asserted, is obtained 
+only through sensory experience—what we see, hear, 
+feel, taste, and smell. Berkeley extended this topic 
+by questioning whether there was any sensory real-
+ity beyond the experiences and knowledge acquired 
+through the senses. He famously asked: Does a falling 
+tree make a sound if no one is near enough to hear it?
+Idealists argued that the human mind possesses 
+certain innate abilities, including logical reasoning 
+itself. Kant classified the five senses as categories of 
+human understanding. He argued that perceptions 
+were not direct records of the world around us but 
+rather were products of the brain and thus depended 
+on the architecture of the nervous system. Kant referred 
+to these brain properties as a priori knowledge.
+Thus, in Kant’s view, the mind was not the passive 
+receiver of sense impressions envisaged by the empiri-
+cists. Rather, it had evolved to conform to certain 
+universal conditions such as space, time, and causal-
+ity. These conditions were independent of any physi-
+cal stimuli detected by the body. For Kant and other 
+idealists, this meant that knowledge is based not only 
+on sensory stimulation alone but also on our ability to 
+organize and interpret sensory experience. If sensory 
+experience is inherently subjective and personal, they 
+said, it may not be subject to empirical analysis. As the 
+empirical investigation of perception matured, both 
+schools proved partially correct.
+Psychophysics Relates Sensations to the 
+Physical Properties of Stimuli
+The modern study of sensation and perception began 
+in the 19th century with the emergence of experimen-
+tal psychology as a scientific discipline. The first sci-
+entific psychologists—Ernst Weber, Gustav Fechner, 
+Hermann Helmholtz, and Wilhelm Wundt—focused 
+their experimental study of mental processes on sensa-
+tion, which they believed was the key to understand-
+ing the mind. Their findings gave rise to the fields of 
+psychophysics and sensory physiology.
+Psychophysics describes the relationship between 
+the physical characteristics of a stimulus and attributes 
+of the sensory experience. Sensory physiology examines 
+the neural consequences of a stimulus—how the stim-
+ulus is transduced by sensory receptors and processed 
+in the brain. Some of the most exciting advances in our 
+understanding of perception have come from merging 
+these two approaches in both human and animal stud-
+ies. For example, functional magnetic resonance imag-
+ing (fMRI) and positron emission tomography (PET) 
+have been used in controlled experiments to identify 
+regions of the human brain involved in the perception 
+of pain or the identification of specific types of objects 
+or particular persons and places.
+Psychophysics Quantifies the Perception of 
+Stimulus Properties
+Early scientific studies of the mind focused not on the 
+perception of complex qualities such as color or taste 
+but on phenomena that could be isolated and meas-
+ured precisely: the size, shape, amplitude, velocity, 
+and timing of stimuli. Weber and Fechner developed 
+simple experimental paradigms to study how and 
+under what conditions humans are able to distinguish 
+between two stimuli of different amplitudes. They 
+quantified the intensity of sensations in the form of 
+mathematical laws that allowed them to predict the 
+relationship between the magnitude of a stimulus and 
+its detectability, including the ability to discriminate 
+between different stimuli.
+In 1953, Stanley S. Stevens demonstrated that the 
+subjective experience of the intensity (I) of a stimulus 
+(S) is best described by a power function. Stevens’s law 
+states that,
+I = K(S – S0)n,
+where the sensory threshold (S0) is the lowest stimu-
+lus strength a subject can detect, and K is a constant. 
+For some sensations, such as the sense of pressure on 
+
+
+===== Page 9 =====
+388    Part IV / Perception
+Figure 17–2  The psychometric function. The psychometric 
+function plots the percentage of stimuli detected by a human 
+observer as a function of the stimulus magnitude. Threshold is 
+defined as the stimulus intensity detected on 50% of the trials, 
+which in this example would be about 5.5 (arbitrary units). Psy-
+chometric functions are also used to measure the just notice-
+able difference (JND) between stimuli that differ in intensity, 
+frequency, or other parametric properties.
+the hand, the relationship between the stimulus mag-
+nitude and its perceived intensity is linear, that is, a 
+power function with a unity exponent (n = 1).
+All sensory systems have a threshold, and thresh-
+olds have two essential functions. First, by asking if a 
+sensation is large enough to have a high enough prob-
+ability of being of interest or relevance, they reduce 
+unwanted responses to noise. Second, the specific 
+nonlinearity introduced by thresholds aids encoding 
+and processing, even if the rest of the primary sen-
+sory response scales linearly with the stimulus. Sen-
+sory thresholds are a feature, not a bug. Thresholds 
+are normally determined statistically by presenting a 
+subject with a series of stimuli of random amplitude. 
+The percentage of times the subject reports detecting 
+the stimulus is plotted as a function of stimulus ampli-
+tude, forming a relation called the psychometric function 
+(Figure 17–2). By convention, threshold is defined as 
+the stimulus amplitude detected in half of the trials.
+The measurement of sensory thresholds is a use-
+ful technique for diagnosing sensory function in indi-
+vidual modalities. An elevated threshold may signal 
+an abnormality in sensory receptors (such as loss of 
+hair cells in the inner ear caused by aging or exposure 
+to very loud noise), deficits in nerve conduction prop-
+erties (as in multiple sclerosis), or a lesion in sensory-
+processing areas of the brain. Sensory thresholds may 
+also be altered by emotional or psychological factors 
+related to the conditions in which stimulus detection 
+1
+0
+50
+25
+75
+100
+3
+5
+4
+7
+9
+2
+6
+Stimulus intensity (arbitrary units)
+Stimulus detection (%)
+8
+10
+is measured. Thresholds can also be determined by 
+the method of limits, in which the subject reports the 
+intensity at which a progressively decreasing stimu-
+lus is no longer detectable or an increasing stimulus 
+becomes detectable. This technique is widely used in 
+audiology to measure hearing thresholds.
+Subjects can also provide nonverbal responses in 
+sensory detection or discrimination tasks using levers, 
+buttons, or other devices that allow accurate measure-
+ment of decision times. Experimental animals can be 
+trained to respond to controlled sensory stimuli using 
+such devices, allowing neuroscientists to investigate 
+the underlying neural mechanisms by combining elec-
+trophysiological and behavioral studies in the same 
+experiment. Methods for quantifying responses to 
+stimuli are summarized in Box 17–1. 
+Stimuli Are Represented in the Nervous 
+System by the Firing Patterns of Neurons
+Psychophysical methods provide objective techniques 
+for analyzing sensations evoked by stimuli. These quan-
+titative measures have been combined with neurophysi-
+ological techniques to study the neural mechanisms that 
+transform sensory neural signals into percepts. The goal 
+of sensory neuroscience is to follow the flow of sensory 
+information from receptors toward the cognitive centers 
+of the brain, to understand the processing mechanisms 
+that occur at successive synapses, and to decipher how 
+this shapes our internal representation of the external 
+world. The neural coding of sensory information is bet-
+ter understood at the early stages of processing than at 
+later stages in the brain.
+This approach to the neural coding problem was 
+pioneered in the 1960s by Vernon Mountcastle, who 
+showed that single-cell recordings of spike trains from 
+peripheral and central sensory neurons provide a sta-
+tistical description of the neural activity evoked by a 
+physical stimulus. He then investigated which quan-
+titative aspects of neural responses might correspond 
+to the psychophysical measurements of sensory tasks 
+and, just as important, which do not.
+The study of neural coding of information is fun-
+damental to understanding how the brain works. A 
+neural code describes the relationship between the 
+activity in a specified neural population and its func-
+tional consequences for perception or action. Sen-
+sory systems are ideal for the study of neural coding 
+because both the physical properties of the stimulus 
+input and the neural or behavioral output of these sys-
+tems can be precisely defined and quantified in a con-
+trolled setting.
+
+

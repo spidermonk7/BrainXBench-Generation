@@ -1,0 +1,836 @@
+===== Page 1 =====
+788    Part V / Movement
+Figure 33–3  Lamprey swimming.  The lamprey swims by 
+means of a wave of muscle contractions traveling down one 
+side of the body 180° out of phase with a similar traveling  
+wave on the opposite side (A). This pattern is evident in elec-
+tromyogram recordings from four locations along the animal 
+during normal swimming (B). A similar pattern is recorded from 
+four ventral roots in an isolated cord (C). (Data from S Grillner.)
+1
+2
+3
+4
+1
+2
+3
+4
+3
+4
+1
+2
+Rhythm in intact animal
+A
+B
+C
+1
+3
+2
+4
+Rhythm in isolated cord
+as to transport it forward. The general unit of measure 
+of locomotion in limbed vertebrates is the step cycle, 
+which is defined as the time between any two succes-
+sive events (eg, foot or paw contact of a given limb). 
+The step cycle is divided into a swing phase, when the 
+foot is off the ground and being transferred forward, 
+and a stance phase, when the foot is in contact with 
+the ground and propelling the body forward. Based 
+on measures of changes in joint angle, each of these 
+phases can be further divided into a period of flexion 
+(F) followed by an initial period of extension (E1) dur-
+ing swing and two additional periods of extension (E2 
+and E3) during stance (Figure 33–4A; see below).
+Muscles within a single limb must be activated 
+and coordinated in a precise spatiotemporal pattern 
+(Figure 33–4B) so that the relative time of activation of 
+different muscles, the duration of their activity, and the 
+magnitude of that activity are coordinated to meet the 
+demands of the environment (intralimb coordination).
+In the hindlimb, swing is initiated by flexion of the 
+knee produced by activation of muscles such as the 
+semitendinosus, followed shortly by activation of hip 
+and ankle flexors (the F phase). The hip flexors con-
+tinue to contract throughout swing, but the activity in 
+the knee and ankle flexors is arrested as the leg extends 
+in preparation for contact with the support surface (the 
+E1 phase). Activity in most extensor muscles begins at 
+this stage, before the foot contacts the ground. This 
+preparatory prestance phase signifies that the extensor 
+muscle activity is centrally programmed and not sim-
+ply the result of afferent feedback arising from contact 
+of the foot with the ground.
+Stance begins with contact of the foot or paw 
+with the ground. During early stance (the E2 phase), 
+the knee and ankle joints flex due to the acceptance 
+of the weight of the body, causing extensor muscles 
+to lengthen at the same time they are contracting 
+strongly (eccentric contraction). The spring-like yield-
+ing of these muscles as weight is accepted allows the 
+body to move smoothly over the foot and is essential 
+for establishing an efficient gait. During late stance (the 
+E3 phase), the hip, knee, and ankle all extend as the 
+extensor muscles provide a propulsive force to move 
+the body forward.
+There is also a requirement for interlimb coordination, 
+the precise coupling between different limbs. The cou-
+pling between the four legs in quadrupeds, for exam-
+ple, can vary quite substantially, dependent on both 
+the speed of locomotion and the adopted gait (a walk, 
+pace, trot, gallop, or bound). This is particularly true 
+of the pattern of coupling between muscles of limbs of 
+the same side (homolateral limbs) and for the diagonal 
+limbs. The relation between limbs can be characterized 
+by the phase difference, with 0 reflecting limbs that 
+move together in phase and 0.5 limbs that move fully 
+out of phase (ie, in opposite directions). During walk-
+ing, activity between the homolateral limbs varies by a 
+phase value of 0.25, and three legs are always in contact 
+
+
+===== Page 2 =====
+Chapter 33 / Locomotion    789
+Figure 33–4  Stepping is produced 
+by complex patterns of contrac-
+tions in leg muscles.
+A.  The step cycle is divided into 
+four phases. The flexion (F) and first 
+extension (E1) phases occur during 
+the swing phase, when the foot is off 
+the ground, whereas second exten-
+sion (E2) and third extension (E3) occur 
+during the stance phase, when the 
+foot contacts the ground. E2 is char-
+acterized by flexion at the knee and 
+ankle as the leg begins to bear the 
+animal’s weight. The contracting knee 
+and ankle extensor muscles lengthen 
+during this phase. (Adapted, with per-
+mission, from Engberg and Lundberg 
+1969.)
+B. Profiles of electrical activity in 
+some of the hind leg flexor (yellow) 
+and extensor (blue) muscles in the 
+cat during stepping. Although flexor 
+and extensor muscles are generally 
+active during the swing and stance 
+phases, respectively, the overall pat-
+tern of activity is complex in both 
+timing and amplitude. (Muscles: IP, 
+iliopsoas; LG and MG, lateral and 
+medial gastrocnemius; PB, posterior 
+biceps; RF, rectus femoris; Sartm and 
+Sarta, medial and anterior sartorius; 
+SOL, soleus; ST, semitendinosus; 
+TA, tibialis anterior; VL, VM, and 
+VI, vastus lateralis, medialis, and 
+intermedius.)
+A  Four phases of the step cycle
+Hip
+Extension
+Flexion
+0.1 s
+Knee
+Ankle
+B  Activity in hind leg muscles during the step cycle
+140
+120
+100
+80
+60
+40
+Joint angle (degrees)
+IP
+RF
+VL/VM/VI
+VL/VM/VI
+PB/ST
+LG/MG
+SOL
+TA
+Swing
+F
+Flexors:
+E1
+E2
+E3
+F
+E1
+E2
+E3
+Stance
+Sartm
+Sarta
+IP
+Extensors:
+RF
+LG/MG/SOL
+ST/PB
+TA
+Sartm
+Sarta
+Swing
+Stance
+with the ground. During a trot, the diagonal limbs (eg, 
+the left hindlimb and the right forelimb) are in phase, 
+and the phase difference between homolateral limbs is 
+0.5. Phase relationships between limbs of the same gir-
+dle (ie, the forelimbs or hindlimbs) are more stable dur-
+ing gaits produced by activation of alternating limbs, 
+such as a walk or trot (generally out of phase by 0.5 
+cycle), compared to synchronous locomotion like a gal-
+lop or bound (generally in-phase).
+The appropriate generation of the intra- and inter-
+limb coordination of activity and the adaptation of 
+these patterns of activity according to circumstance is 
+one of the major functions of the central nervous sys-
+tem during locomotion.
+
+
+===== Page 3 =====
+790    Part V / Movement
+The Motor Pattern of Stepping Is Organized  
+at the Spinal Level
+While the entire nervous system is necessary for an 
+animal to produce a rich behavioral repertory, the 
+spinal cord is sufficient to generate both the rhythm 
+underlying locomotion as well as much of the specific 
+pattern of muscle activity required for intra- and inter-
+limb coordination.
+At the beginning of the 20th century, Graham 
+Brown showed that the isolated spinal cord had the 
+intrinsic capacity to generate a rudimentary alternat-
+ing locomotor pattern around the ankle joint in the 
+absence of sensory inputs to the spinal cord (Figure 
+33–5). He proposed that locomotor networks control-
+ling flexor and extensor activity in the spinal cord 
+were organized as half-centers such that when half of 
+the circuit was active it would inhibit the other half. 
+The center would be released from inhibition through 
+some sort of synaptic or neuronal fatigue.
+This ground-breaking observation was mostly 
+ignored until the mid-1960s and early 1970s, when 
+there began a period of intense study of the mecha-
+nisms by which the spinal cord could generate a 
+rhythmical pattern of activity. Initial studies showed 
+Tibialis
+anterior
+Tibialis anterior
+Cut dorsal
+roots
+Gastrocnemius
+Gastrocnemius
+Transect
+spinal cord
+(dorsal roots cut)
+Transect
+spinal cord
+5 s
+Figure 33–5  Rhythmic stepping is 
+generated by spinal networks.  The 
+existence of intrinsic spinal networks 
+was first demonstrated in 1911 by 
+Thomas Graham Brown who developed 
+an experimental preparation in which 
+the dorsal roots were cut so that sen-
+sory information from the limb could not 
+reach the spinal cord. The lower figure 
+shows an original record from Graham 
+Brown’s study. Rhythmic alternating 
+contractions of an ankle flexor (tibialis 
+anterior) and an ankle extensor (gastroc-
+nemius) are generated by the isolated 
+spinal cord and persist for some time 
+after the transection.
+that stimulation of sensory fibers in spinal cats treated 
+with L-DOPA (a precursor of the monoamine transmit-
+ters dopamine and norepinephrine) and nialamide (a 
+drug that prolongs the action of L-DOPA) could pro-
+duce short sequences of rhythmic activity in flexor 
+and extensor motor neurons. It was further found that 
+groups of interneurons in the spinal cord were acti-
+vated in a reciprocal flexor and extensor pattern. This 
+organizational feature was consistent with Graham 
+Brown’s theory that mutually inhibiting half-centers 
+produced the alternating burst activity in flexor and 
+extensor motor neurons.
+In the half-center model, the spinal cord pro-
+duces only the locomotor rhythm, while the pattern 
+is sculpted by afferent feedback caused by the move-
+ment. However, this view was changed by experiments 
+that demonstrated that a well-organized locomotor 
+pattern could be observed in decerebrate and spinal 
+cats walking on a treadmill after section of the dor-
+sal roots, thus removing the afferent feedback (Figure 
+33–6A,B). Later experiments in chronic spinal cats in 
+which rhythmic afferent feedback was abolished by 
+preventing movement (Figure 33–6C) showed that spi-
+nal circuits were not only able to intrinsically produce 
+a locomotor rhythm but could also produce some of 
+
+
+===== Page 4 =====
+Chapter 33 / Locomotion    791
+the spatiotemporal details of the pattern of activity 
+observed in the intact cat (Figure 33–6C).
+These observations led to the important concept 
+of a central pattern generator (CPG) that can generate 
+both the rhythm and the pattern, independent of sen-
+sory inputs. Subsequent experiments led to the idea 
+that separate components of the CPG are responsible 
+for generating the underlying rhythm of locomotion 
+within a limb and the spatiotemporal pattern of mus-
+cle action in the limb (Figure 33–6D). This notion was 
+based on the observation that changes in rhythm and 
+pattern can be influenced independently. Other stud-
+ies have led to the concept that the CPG is modular, 
+allowing independent control of activity around differ-
+ent joints.
+Experiments in a variety of species have suggested 
+that there are probably separate CPGs for each limb. For 
+example, experiments using split belts, in which either 
+the fore- and hindlimbs or the left and right limbs walk 
+on separate treadmill belts, show that animals can inde-
+pendently modify step cycle duration in each pair of 
+limbs. This organization would allow relatively simple 
+descending commands to modify the coupling between 
+each CPG and so to alter the pattern of the gait.
+CPGs have now been identified and analyzed 
+in many rhythmic motor systems, including those 
+Figure 33–6  Spinal circuits generate both a rhythm and a 
+pattern.
+A. Even after removal of all sensory input to the spinal cord by 
+cutting the dorsal roots, a decerebrate cat walking on a tread-
+mill exhibits a complex motor pattern that is not just a simple 
+alternation of flexor and extensor activity. (Abbreviations: l, left; 
+EDB, extensor digitorum brevis; LG, lateral gastrocnemius; 
+IP, iliopsoas; ST, semitendinosus.) (Adapted, with permission, 
+from Grillner and Zangger 1984.)
+B. Intravenous injection of L-DOPA and nialamide produces  
+a well-organized locomotor pattern in an acute spinal cat with 
+the dorsal roots cut. (Abbreviation: l, left; Q, quadriceps;  
+r, right.) (Adapted with permission from Grillner and Zangger 
+1979. Copyright © 1979 Springer Nature.)
+C. Fictive locomotion in a chronic spinal paralyzed cat, demon-
+strating the typical pattern of activity in the semitendinosus, 
+tibialis anterior (TA), lateral gastrocnemius (LG), and sartorius 
+(Sart) muscles in intact cats. (l, left; r, right.) (Adapted from 
+Pearson and Rossignol 1991.)
+D. Conceptual model of a spinal locomotor central pattern 
+generator (CPG) based on studies in decerebrate cats. The 
+CPG model is formed of separate rhythm- and pattern-
+generating layers. Each of these layers can be modified 
+by descending inputs and peripheral afferent information. 
+(Adapted from Rybak et al. 2006.)
+Rhythm
+generator
+Motor
+neurons
+Descending signals
+Motor
+pattern
+Afferent
+signals
+Flex
+Patterning
+network
+B  Spinal, deafferented, walking
+C  Chronic spinal, paralyzed
+D  Locomotor pattern generator
+1 s
+A  Decerebrate, deafferented, walking
+ILG
+IEDB
+IIP
+IST
+1 s
+rST
+rSart
+rTA
+rLG
+IQ
+IST
+rQ
+rST
+1 s
+Ext
+
+
+===== Page 5 =====
+792    Part V / Movement
+controlling over-ground locomotion, swimming, fly-
+ing, respiration, and swallowing, in both invertebrates 
+and vertebrates. In all vertebrates except higher pri-
+mates and humans, a prominent locomotor pattern 
+can be observed immediately after spinal transection 
+when the spinal cord below the transection is activated 
+with neuroactive drugs that function as a substitute for 
+the descending drive that normally activates the spinal 
+locomotor networks (Box 33–1).
+The Spinal Circuits Responsible for Locomotion 
+Can Be Modified by Experience
+Lesion of the spinal cord in otherwise intact adult 
+mammals leads to paralysis. In the absence of any fur-
+ther intervention, such animals will regain only mini-
+mal locomotion. However, when quadrupedal animals 
+with complete lesions of the thoracic spinal cord are 
+trained daily, they regain a remarkable ability to use 
+their hindlimbs to walk on a treadmill.
+A similar improvement in locomotion can also be 
+obtained from the application of noradrenergic ago-
+nists. Indeed, recordings of hindlimb joint angles and 
+EMG activity from these animals show that the spinal 
+cord isolated from all descending systems can gener-
+ate most of the coordinating features in the hindlimb 
+that are observed in intact animals. This training effect 
+is believed to occur because of an activity-dependent 
+reorganization of both internal spinal circuits and the 
+modification of synaptic inputs from peripheral affer-
+ents that is specific to the training regimen. Indeed, 
+cats can be trained specifically to either support their 
+weight or to walk, without a transfer of motor skills 
+between the two behaviors.
+Spinal Locomotor Networks Are Organized Into 
+Rhythm- and Pattern-Generation Circuits
+The question of how the spinal cord generates the 
+complex activity underlying locomotion has been one 
+of intense study that has followed three complemen-
+tary paths. The earliest experiments directed at this 
+issue were performed in the cat and provided impor-
+tant information on the functional characteristics of 
+different interneuronal populations. However, the 
+complex nature of the mammalian spinal cord led 
+researchers to identify models with fewer neurons 
+in the spinal cord, such as the turtle and two aquatic 
+preparations, the tadpole and the lamprey (Box 33–1). 
+These latter two models have provided an excellent 
+window into the organization of the spinal circuits 
+involved in swimming and a foundation for studying 
+rhythm and pattern generation in limbed animals. 
+Last, the development of important molecular-genetic 
+models in the mouse and the zebrafish has provided 
+additional insights not available by more traditional 
+methods.
+The Swimming Central Pattern Generator
+The lamprey—a jawless fish—swims like an eel with a 
+wave of left–right bending traveling from front to back 
+(Figure 33–3A). The spinal cord is made up of about 
+100 spinal segments, each containing neurons that can 
+generate the rhythm and produce alternation between 
+the two sides of the body. The rhythm is generated 
+by interconnected glutamatergic excitatory neurons 
+endowed with active membrane properties support-
+ing rhythm generation. These glutamatergic neurons, 
+which are the kernel in the swimming network, excite 
+commissural inhibitory neurons, local inhibitory neu-
+rons, and motor neurons on the same side of the cord 
+(Figure 33–7A).
+The commissural interneurons, whose axons cross 
+the midline, inhibit the contralateral interneurons 
+involved in generating the alternating rhythm as well 
+as contralateral motor neurons (Figure 33–7A). Cellu-
+lar mechanisms contribute to phase switching in the 
+network (Box 33–2). For example, Ca2+ entry triggered 
+by bursting in glutamatergic neurons activates their 
+calcium-activated K+ channels. The opening of these 
+channels hyperpolarizes the cells and enables termi-
+nation of the burst. The termination of bursting on 
+one side activates the other side by the commissural 
+interneurons, thus allowing the contralateral rhythm-
+generating interneurons and motor neurons to become 
+active. To enable coordination along the body, the seg-
+mental networks are connected through long-distance 
+descending projections of excitatory and inhibitory 
+neurons. This basic organization of interconnected 
+excitatory neurons, inhibitory commissural neurons, 
+and a rostrocaudal connectivity gradient for interseg-
+mental coordination is also found in the tadpole and is 
+possibly common to other swimming species.
+Molecular and genetic approaches have expanded 
+our understanding of the functional organization of 
+CPGs in fish and identified two groups of glutamater-
+gic interneurons—a group of commissural neurons 
+and a group of ipsilaterally projecting neurons—that 
+are involved in rhythm generation but at different 
+speeds of locomotion. In adult zebrafish, the rhythm-
+generating circuit is composed of three functional 
+classes of excitatory neurons that drive slow, interme-
+diate, and fast pools of motor neurons that are selec-
+tively recruited as the speed of swimming increases.
+
+
+===== Page 6 =====
+Chapter 33 / Locomotion    793
+The Quadrupedal Central Pattern Generator
+The CPG controlling quadrupedal locomotion has added 
+organizational complexity compared to the swimming 
+CPG since it must generate both the rhythm and the pat-
+tern that involves the sequential flexor-extensor alter-
+nation of muscles around different joints within a limb 
+(Figure 33–4B), as well as left–right coordination and 
+coordination between the forelimbs and hindlimbs. Cir-
+cuits controlling the forelimb are located in the cervical 
+enlargement, whereas circuits controlling the hindlimb 
+are located in the lower thoracic and lumbar spinal cord.
+As in the CPG that generates rhythmical swim-
+ming activity, glutamatergic excitatory interneurons 
+are involved in quadrupedal rhythm generation. Using 
+advanced mouse genetics together with a molecular 
+code that builds on expression of gene-regulating tran-
+scription factors that differentiate spinal neurons into 
+classes with specific projection and transmitter pheno-
+types (Box 33–3), it has now been shown that the core of 
+the rhythm-generating circuits in rodents includes two 
+nonoverlapping groups of molecularly distinct gluta-
+matergic neurons (Shox2ON and Hb9; Figure 33–7B1).
+The flexor (f) and extensor (e) rhythm-generating 
+(R) circuits, which are connected by reciprocal inhibi-
+tion (Figure 33–7B), drive other neurons in the locomo-
+tor network into rhythmicity and provide the rhythmic 
+excitation for motor neurons (Figure 33–7B). As has 
+been observed in the swimming CPG, ionic channels 
+are also likely to contribute to rhythm generation and 
+phase switching in the quadrupedal CPG.
+The Flexor and Extensor Coordination Circuit
+Flexor and extensor activity must be coordinated 
+around joints (eg, hip-knee-ankle-toe in the hindlimb) 
+to control the limb movement in a precise manner. 
+Accordingly, the flexor-extensor alternation around the 
+different joints is not simultaneous but has a sequential 
+pattern, which suggests that multiple flexor-extensor 
+alternating circuits are needed to time muscle actions 
+in a limb. The basic flexor-extensor alternation circuits 
+are organized in flexor and extensor modules com-
+posed of inhibitory and excitatory interneurons that 
+are one synapse away from the flexor and extensor 
+motor neurons they control (Figure 33–7B,B1).
+Inhibitory and excitatory neurons in the mod-
+ule provide alternating inhibition and excitation of 
+motor neurons. The reciprocally connected inhibitory 
+Ia interneurons (Chapter 32) are part of the flexor and 
+extensor modules providing the direct motor neuron 
+inhibition in a reciprocal fashion (rIa in Figure 33–7B1). 
+The rIas belong to the molecularly defined inhibitory 
+V1 and V2b neurons (Figure 33–7B1). The excitatory 
+neurons that directly excite motor neurons during 
+locomotion are likely to belong to multiple classes of 
+neurons in the spinal cord, including V2a-Shox2ON and 
+the dI3 neurons (Figure 33–7B1).
+In this basic scheme, the flexor-extensor modules 
+are driven by flexor (fR in Figure 33–7B1) and exten-
+sor rhythm-generating circuits (eR in Figure 33–7B1), 
+which themselves are reciprocally connected via inhib-
+itory neurons (Figure 33–7B), resulting in their out-of-
+phase activity.
+Left–Right Coordination
+Left–right alternation, for both swimming and over-
+ground locomotion, depends on crossed inhibition 
+produced in two ways: directly by inhibitory commis-
+sural neurons or indirectly by excitatory commissural 
+neurons, each of which acts on premotor inhibitory 
+neurons (Figure 33–7B2). This dual inhibitory system 
+has a counterpart in one specific neuronal population, 
+the V0 commissural neurons (Figure 33–7B2). Ablation of 
+V0 neurons results in loss of left–right alternation at all 
+speeds of locomotion. The inhibitory dorsal class of V0 
+neurons (V0D), which makes up about half of the V0 pop-
+ulation, controls alternating locomotion during walking, 
+whereas the excitatory ventral class of V0 neurons (V0V), 
+which makes up the remaining half of V0 neurons, con-
+trols alternating locomotion during trot. The dual system 
+thus serves a speed-dependent role in coordinating alter-
+nating gaits (walk and trot). Separate excitatory non-V0 
+commissural neurons—possibly the ventral V3 neurons 
+(Box 33–3)—are responsible for synchrony in gaits such 
+as bound and gallop (Figure 33–7B2).
+The dual-mode left–right alternating pathways 
+are driven directly by the rhythm-generating neurons 
+or indirectly by other non–rhythm-generating excita-
+tory neurons, including the V2a-Shox2Off neurons that 
+are recruited at high speeds of locomotion and syn-
+aptically connect to the V0V neurons. The left–right 
+synchronous pathways are active at higher speeds of 
+locomotion when the alternating system is suppressed 
+or less active.
+The speed-dependent changes in the left–right 
+alternation circuits in the rodent are an example of 
+functional reorganization of the vertebrate locomotor 
+network needed to produce diverse motor outputs. 
+Similar dynamic circuit reorganization has also been 
+demonstrated in zebrafish and in studies of rhythmic 
+networks in invertebrates, such as the stomatogastric 
+ganglion controlling gut movements in crustaceans, 
+where different functional networks emerge from a 
+common CPG network.
+
+
+===== Page 7 =====
+794    Part V / Movement
+A  Swimming CPG: Rhythm and left–right coordination circuits
+B  Quadrupedal CPG
+IN
+MN
+Left-side
+muscles
+IN
+V0D
+V0V
+Non-
+V0
+R
+Right-side
+muscles
+CIN
+CIN
+EN
+EN
+MN
+MN
+MN
+MN
+MN
+1  Flexor and extensor coordination
+2  Left–right coordination
+Midline
+fR
+fR
+eR
+eR
+fMN
+fR
+eR
+eMN
+CINs
+Walk
+Trot
+Bound
+V2a-
+Shox2ON
+Shox2/
+Hb9     
+V2a-
+Shox2OFF
+rIa
+V1-V2b
+Flexor
+Extensor
+Right- 
+side
+muscles 
+Left- 
+side
+muscles 
+Dorsal
+Rhythm
+R
+
+
+===== Page 8 =====
+Chapter 33 / Locomotion    795
+Figure 33–7  (Opposite) Spinal locomotor networks are 
+organized into rhythm- and pattern-generation circuits with 
+distinct cellular identities.
+A. Circuit diagram of swimming central pattern generator (CPG) 
+in the lamprey. Rhythm-generating circuits include excitatory 
+interneurons (EN) that drive motor neurons (MN), inhibitory 
+commissural interneurons (CIN) whose axons project to the 
+other half of the cord, and local inhibitory interneurons (IN) with 
+axons projecting on the same side of the cord. A single neu-
+ron in the diagram represents multiple neurons in the animal. 
+Gray neurons, inhibitory; red neurons, excitatory. The vertical 
+dashed line indicates the midline. (Data from Grillner 2006.)
+B. General circuit diagram for limbed locomotion. Rhythm- 
+generating circuits (fR and eR) composed of excitatory neurons on 
+either side of the spinal cord drive flexor and extensor muscles 
+on the same side through a pattern-generating layer (empty 
+box). Rhythm-generating flexor (fR) and extensor (eR) neurons 
+are reciprocally connected via inhibitory neurons and are  
+connected across the midline via commissural interneurons 
+(not shown) that mediate left–right coordination. The diagram 
+shows one spinal segment. (Abbreviation: MN, motor neurons.) 
+(Data from Kiehn 2016.)
+B1. Flexor and extensor alternation is controlled at multiple lev-
+els in the locomotor network. One synapse away from flexor (f) 
+and extensor (e) motor neurons (MN) are Ia-inhibitory interneu-
+rons, which reciprocally innervate antagonist motor neurons 
+and each other (Chapter 32). The rIa neurons belong to two 
+major groups of molecularly defined inhibitory neurons, V1 and 
+V2b, in the ventral spinal cord. Excitatory neurons with differ-
+ent molecular markers (including V2a-Shox2ON) provide premo-
+tor rhythmic excitation of motor neurons. Rhythm-generating 
+Shox2ON or Hb9 neurons (fR and eR) drive both inhibitory and 
+excitatory premotor neurons. (Data from Kiehn 2016.)
+B2. Rhythm-generating circuits drive left–right coordinating 
+circuits composed of a dual inhibitory pathway involved in 
+alternation and a single excitatory pathway involved in syn-
+chrony. The dual inhibitory pathway is composed of inhibitory 
+V0D commissural neurons that directly inhibit rhythm genera-
+tion on the other side and excitatory V0V commissural neu-
+rons that indirectly inhibit locomotor networks on the other 
+side. The inhibitory V0D commissural neuron pathway con-
+trols the alternating gait walk. A population of V2a excitatory 
+neurons is part of the left–right alternating circuit and con-
+nects to V0V commissural neurons. This pathway controls the 
+alternating gait trot. Rhythm-generation circuits also drive 
+a left–right synchronizing circuit possibly involved in bound, 
+composed of non-V0 neurons. Only the projections from the 
+left to the right side are shown. (Data from Kiehn 2016.)
+Interlimb Coordination
+The organization of the networks that couple fore- and 
+hindlimbs is not known in detail, but experiments 
+using both lesion and genetic ablation suggest that 
+these pathways involve both inhibitory and excitatory 
+intersegmental connections.
+Somatosensory Inputs From Moving Limbs 
+Modulate Locomotion
+Even though the CPG can produce the precise timing 
+and phasing of the muscle activity needed to walk, this 
+central pattern is normally modulated by sensory sig-
+nals from the moving limbs. Two types of sensory input 
+modulate the CPG activity: proprioceptive informa-
+tion generated by the active movement of the limb and 
+tactile information generated when the moving limb 
+meets an obstacle in the surrounding environment.
+Proprioception Regulates the Timing and 
+Amplitude of Stepping
+One of the clearest indications that somatosensory sig-
+nals from moving limbs regulate the locomotor cycle 
+is that the rate of locomotion in spinal and decerebrate 
+cats matches the speed of the motorized treadmill belt 
+on which they walk. As the stepping rate increases, the 
+stance phase becomes shorter while the swing phase 
+remains relatively constant.
+This observation suggests that some form of sen-
+sory input from the moving limb signals the end of 
+the stance phase and thus leads to the initiation of the 
+swing phase. The sensory information from the mov-
+ing limb is generated by proprioceptors in the muscles 
+and joints. These proprioceptors include stretch-sensitive 
+muscle spindles in the hip and force-sensitive Golgi 
+tendon organs in the ankle that are particularly impor-
+tant for facilitating locomotor phase transition.
+The influence from the hip was noticed already by 
+Sherrington, who showed that rapid extension at the 
+hip joint leads to contractions in the hip flexor mus-
+cles of chronic spinal cats and dogs. More recent stud-
+ies have found that preventing hip extension in a limb 
+suppresses stepping in that limb, whereas rhythmically 
+moving the hip in an immobilized cat can entrain the 
+locomotor rhythm; that is, the stretching of the hip 
+muscles causes the timing of the motor output to match 
+the rhythm of the externally imposed movements  
+(Figure 33–8A). The stretching also activates flexor 
+muscle spindles and mimics the lengthening that occurs 
+at the end of the stance phase, thus inhibiting extensor 
+activity and facilitating activation of the flexor rhythm-
+generating circuits in the spinal cord (Figure 33–8B).
+Activation of sensory fibers from Golgi tendon 
+organs and muscle spindles in ankle extensor muscles 
+prolongs the stance phase, often delaying the onset of 
+
+
+===== Page 9 =====
+796    Part V / Movement
+Neuronal membrane properties make an important con-
+tribution to the function of the central pattern genera-
+tor (CPG). Neurons have a variety of K+, Na+, and Ca2+ 
+channels that determine their activity and response to 
+synaptic inputs. Studies of CPGs in diverse experimental 
+models have shown that ion channels may be important 
+for promoting rhythmicity, through bursting properties, 
+or patterning, through ion channels that affect phase 
+transitions or the rate of neuronal discharge.
+Bursting and Plateau Properties Amplify 
+Cellular Responses
+Membrane properties that produce bursting allow cells 
+to produce sustained oscillations in the absence of syn-
+aptic inputs. These properties are either intrinsic, as in 
+cells in the sinusoidal node in the heart, or conditional, 
+dependent on the presence of certain neurotransmitters. 
+In some small motor CPGs (such as the pyloric network 
+in the stomatogastric ganglion, which controls rhythmic 
+movements in the gut of crustaceans), intrinsic bursting 
+properties are essential for generating the rhythm.
+Conditional bursting triggered by glutaminergic 
+activation of N-methyl-D-aspartate (NMDA) receptors 
+has been described in spinal cord interneurons and 
+motor neurons in lamprey, rodents, and amphibians. 
+In the lamprey, bursting due to NMDA receptor activa-
+tion plays a role in generating swimming. In mammals, 
+it is as yet uncertain whether NMDA receptor–induced 
+bursting is essential for rhythm generation, although it 
+may facilitate excitatory synaptic inputs in the circuit.
+Plateau potential is another membrane property that 
+may cause a neuron’s membrane potential to jump to a 
+depolarized state that will support action potential firing 
+without further increase in the excitatory drive. Plateau 
+properties amplify and prolong the effect of synaptic 
+excitatory inputs and may promote rhythm generation 
+and motor output. Plateau properties are generated by 
+activation of slowly inactivating L-type Ca2+ channels or 
+slowly inactivating Na+ channels. These channels have 
+been found in vertebrate interneurons and motor neu-
+rons. The expression of plateau properties mediated by 
+L-type Ca2+ channels in motor neurons is controlled by 
+neuromodulatory neurotransmitters, such as serotonin 
+and norepinephrine. The slowly inactivating Na+ chan-
+nels are generally not regulated by neurotransmitters. 
+Blockage of these channels decreases rhythm generation.
+Phase Transitions May Be Regulated by  
+Voltage-Gated Ion Channel Activation
+Reciprocal inhibition between neurons is a common 
+design in locomotor circuits; ion channels activated in 
+the subthreshold spike range may enhance or delay 
+phase transitions by such inhibition. Three types of 
+voltage-gated channels are involved: a transient low 
+threshold Ca2+ channel, cation-nonselective permeable 
+hyperpolarization-activated cyclic nucleotide-gated 
+(HCN) channels, and transient K+ channels.
+The transient low-threshold Ca2+ channels are inac-
+tivated at membrane potentials around rest. Transient 
+inhibitory synaptic inputs remove the inactivation. 
+When released from synaptic inhibition, activation of 
+low-threshold Ca2+ channels will cause a short-lasting 
+rebound excitation before the channels inactivate again. 
+In the lamprey, spinal cord activation of metabotropic 
+GABAB receptors depresses low-threshold Ca2+ channels 
+involved in producing the swimming motor pattern. 
+The suppression leads to a longer hyperpolarized phase 
+and therefore to a slower alternation between antago-
+nistic muscles, a possible mechanism for the slowing of 
+swimming seen following GABAB receptor activation.
+HCN channels are found in many CPG neurons and 
+motor neurons and may help neurons escape from inhi-
+bition. They are activated by hyperpolarization, such 
+as occurs during synaptic inhibition. Their activation 
+depolarizes the cell, counteracting the hyperpolariza-
+tion. Finally, the kinetics of their activation and deacti-
+vation are slow, so they stay open for some time after 
+the hyperpolarization is released. The channel kinet-
+ics affect the integrative properties of the cell in two 
+important ways. First, the depolarization caused by the 
+channel opening limits the effect of sustained inhibitory 
+inputs and helps the cell escape from inhibition. Second, 
+the slow closing following synaptic inhibition leads to a 
+rebound excitation promoting the next burst.
+Voltage-gated A-type transient K+ channels are 
+usually inactivated at resting membrane potential. 
+Hyperpolarization removes the resting inactivation, and 
+subsequent depolarization will cause a transient activa-
+tion of the channel. Their activation will therefore delay 
+the onset of the next burst.
+Regulation of Spiking Controls How Much 
+Cells Are Activated
+A number of different ion channels play a role in regu-
+lating the firing rate of a cell. Activation and inactivation 
+kinetics of Na+ channels are factors. Other important 
+channels are sodium- and calcium-activated K+ chan-
+nels. The effect of activation of these K+ channels is 
+often seen as a slow after-hyperpolarization following 
+an action potential or a train of action potentials. Activa-
+tion of these channels therefore causes spike train adap-
+tation and postactivation inhibition, which contribute to 
+burst termination.
+Box 33–2  Neuronal Ion Channels Contribute to Central Pattern Generator Function
+
+

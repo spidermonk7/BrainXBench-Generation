@@ -1,0 +1,772 @@
+===== Page 1 =====
+84    Part I / Overall Perspective
+The thalamus is an important step in the hierarchy 
+of sensory processing, not a passive relay station where 
+information is simply passed on to the neocortex. It is 
+a complex brain region where substantial information 
+processing takes place (Figure 4–1). To give but one 
+example, the output of somatosensory information 
+from the ventral posterior lateral nucleus is subject to 
+four types of processing: (1) local processing within the 
+nucleus; (2) modulation by brain stem inputs, such as 
+from the noradrenergic and serotonergic systems; (3) 
+inhibitory input from the reticular nucleus; and (4) 
+modulatory feedback from the neocortex.
+Sensory Information Processing Culminates in 
+the Cerebral Cortex
+Somatosensory information from the ventral poste-
+rior lateral nucleus is conveyed mainly to the primary 
+somatosensory cortex (Figure 4–1). The neurons here 
+are exquisitely sensitive to tactile stimulation of the 
+skin surface. The somatosensory cortex, like earlier 
+stages in tactile sensory processing, is somatotopically 
+organized (Figure 4–8).
+Figure 4–8  Homunculi illustrate the relative amounts of corti-
+cal area dedicated to sensory and motor innervation of indi-
+vidual parts of the body. The entire body surface is represented 
+in an orderly array of somatosensory inputs in the cortex. (From 
+Penfield and Rasmussen 1950. Reproduced by permission of the 
+Osler Library of the History of Medicine, McGill University.)
+A.  The area of cortex dedicated to processing sensory information 
+from a particular part of the body is not proportional to the mass of 
+the body part but instead reflects the density of sensory receptors 
+in that part. Thus, sensory input from the lips and hands occupies 
+more area of cortex than, say, that from the elbow.
+B.  Output from the motor cortex is organized in similar fashion. 
+The amount of cortical surface dedicated to a part of the body 
+is related to the degree of motor control of that part. Thus, in 
+humans, much of the motor cortex is dedicated to controlling 
+the muscles of the fingers and the muscles related to speech.
+Eye
+Thumb
+Index
+Middle
+Ring
+Little
+Hand
+Wrist
+Elbow
+Forearm
+Arm
+Shoulder
+Head
+Neck
+Hip
+Leg
+Trunk
+Foot
+Toes
+Genitals
+A  Sensory homunculus
+B  Motor homunculus
+Medial
+Lateral
+Nose
+Face
+Upper lip
+Lower lip
+Teeth, gums, and jaw
+Tongue
+Pharynx
+Intra-abdominal
+B
+A
+Medial
+Lateral
+Ankle
+Knee
+Hip
+Trunk
+Shoulder
+Elbow
+Wrist
+Hand
+Little
+Ring
+Middle
+Fingers
+Index
+Thumb
+Neck
+Brow
+Eyelid and eyeball
+Face
+Lips
+Jaw
+Tongue
+Swallowing
+Toes
+[—
+–V
+oc
+ali
+za
+ti
+on
+–—
+] 
+[
+M
+a
+st
+ic
+at
+io
+n
+]
+ 
+[
+S
+ali
+va
+ti
+o
+n
+]
+ 
+Fingers
+When the neurosurgeon Wilder Penfield stimu-
+lated the surface of the somatosensory cortex in 
+patients undergoing brain surgery in the late 1940s and 
+early 1950s, he found that sensation from the lower 
+limbs is mediated by neurons located near the midline 
+of the brain, whereas sensations from the upper body, 
+hands and fingers, face, lips, and tongue are medi-
+ated by neurons located laterally. Penfield found that, 
+although all parts of the body are represented in the 
+cortex somatotopically, the amount of surface area of 
+cortex devoted to each body part is not proportional 
+to its mass. Instead, it is proportional to the fineness 
+of discrimination in the body part, which in turn is 
+related to the density of innervation of sensory fib-
+ers (Chapter 19). Thus, the area of cortex devoted to  
+the fingers is larger than that for the arms. Likewise, 
+the representation of the lips and tongue occupies 
+more cortical surface than that of the remainder of the 
+face (Figure 4–8). As we shall see in Chapter 53, the 
+amount of cortex devoted to a particular body part is 
+not fixed but can be modified by experience, as seen in 
+concert violinists, where there is an expansion of the 
+region of somatosensory cortex devoted to the fingers 
+of the hand used to finger the strings. This illustrates 
+
+
+===== Page 2 =====
+Chapter 4 / The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior    85
+an important aspect of brain circuitry: It is capable 
+of plastic changes in response to use or disuse. Such 
+changes are important for various forms of learning, 
+including the ability to recover function after a stroke.
+The region of cerebral cortex nearest the surface 
+of the brain is organized in layers and columns, an 
+arrangement that increases its computational effi-
+ciency. The cortex has undergone dramatic expansion 
+in evolution. The more recent neocortex comprises 
+most of the cortex of mammals. In larger brains of pri-
+mates and cetaceans, the neocortical surface is a sheet 
+that is folded with deep wrinkles, thus allowing for 
+three times more cortical surface to be packed into an 
+only modestly enlarged head. Indeed, approximately 
+two-thirds of the neocortex is along the deep wrinkles 
+of the cortex, termed sulci. The remainder of neocortex 
+is at the external folds of the sheet, termed gyri. The 
+neocortex receives inputs from the thalamus, other corti-
+cal regions on both sides of the brain, and other subcor-
+tical structures. Its output is directed to other regions 
+of the cortex, basal ganglia, thalamus, pontine nuclei, 
+and spinal cord.
+These complex input–output relationships are effi-
+ciently organized in the orderly layering of cortical neu-
+rons; each layer contains different inputs and outputs. 
+Many regions of the neocortex, in particular the primary 
+sensory areas, contain six layers, numbered from the 
+outer surface of the brain to the white matter (Figure 4–9).
+Layer I, the molecular layer, is occupied by the 
+dendrites of cells located in deeper layers and axons 
+that travel through this layer to make connections in 
+other areas of the cortex.
+Figure 4–9  The neurons of the neocortex are arranged in 
+distinctive layers. The appearance of the neocortex depends 
+on what is used to stain it. The Golgi stain (left) reveals a 
+subset of neuronal cell bodies, axons, and dendritic trees. 
+The Nissl method (middle) shows cell bodies and proximal 
+dendrites. The Weigert stain (right) reveals the pattern of mye-
+linated fibers. (Reproduced, with permission, from Heimer 
+1994.)
+Multiform
+layer
+White matter
+Molecular
+layer
+Internal
+pyramidal
+cell layer
+Internal
+granule
+cell layer
+External
+granule
+cell layer
+External
+pyramidal
+cell layer
+VI
+I
+V
+IV
+II
+III
+Golgi stain
+Pial surface
+Nissl stain
+Weigert stain
+
+
+===== Page 3 =====
+86    Part I / Overall Perspective
+Layers II and III contain mainly small pyramidal 
+shaped cells. Layer II, the external granular cell layer, is 
+one of two layers that contain small spherical neurons. 
+Layer III is called the external pyramidal cell layer (an 
+internal pyramidal cell layer lies at a deeper level). The 
+neurons located deeper in layer III are typically larger 
+than those located more superficially. The axons of 
+pyramidal neurons in layers II and III project locally to 
+other neurons within the same cortical area as well as 
+to other cortical areas, thereby mediating intracortical 
+communication (Figure 4–10).
+Layer IV contains a large number of small spheri-
+cal neurons and thus is called the internal granular cell 
+layer. It is the main recipient of sensory input from the 
+thalamus and is most prominent in primary sensory 
+areas. For example, the region of the occipital cortex that 
+functions as the primary visual cortex has an extremely 
+prominent layer IV. Layer IV in this region is so heavily 
+populated by neurons and so complex that it is typically 
+divided into three sublayers. Areas with a prominent 
+layer IV are called granular cortex. In contrast, the 
+precentral gyrus, the site of the primary motor cortex, 
+has essentially no layer IV and is thus part of the so-
+called agranular frontal cortex. These two cortical areas 
+are among the easiest to identify in histological sections 
+(Figure 4–11).
+Layer V, the internal pyramidal cell layer, contains 
+mainly pyramidally shaped cells that are typically 
+larger than those in layer III. Pyramidal neurons in this 
+layer give rise to the major output pathways of the cor-
+tex, projecting to other cortical areas and to subcortical 
+structures (Figure 4–9).
+The neurons in layer VI are fairly heterogeneous in 
+shape, so this layer is called the polymorphic or mul-
+tiform layer. It blends into the white matter that forms 
+the deep limit of the cortex and carries axons to and 
+from areas of cortex.
+The thickness of individual layers and the details 
+of their functional organization vary throughout the 
+cortex. An early student of the cerebral cortex, Korbin-
+ian Brodmann, used the relative prominence of the lay-
+ers above and below layer IV, cell size, and packing 
+Figure 4–10  Neurons in different layers of neocortex  
+project to different parts of the brain. Projections to all other 
+parts of the neocortex, the so-called corticocortical or associational 
+connections, arise primarily from neurons in layers II and III.  
+Projections to subcortical regions arise mainly from layers V and VI. 
+(Reproduced, with permission, from Jones 1986.)
+I
+II
+III
+IV
+V
+VI
+Corticothalamic
+Corticoclaustral
+Some corticocortical
+Some commissural
+Subcortical
+Some corticocortical
+Corticocortical
+Commissural
+Corticocortical
+
+
+===== Page 4 =====
+Chapter 4 / The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior    87
+characteristics to distinguish different areas of the neo-
+cortex. Based on such cytoarchitectonic differences, in 
+1909, Brodmann divided the cerebral cortex into 47 
+regions (Figure 4–11).
+Although Brodmann’s demarcation coincides in part 
+with information on localized functions in the neocortex, 
+the cytoarchitectonic method alone does not capture the 
+subtlety or variety of function of all the distinct regions 
+of the cortex. For example, Brodmann identified five 
+regions (areas 17–21) as being concerned with visual 
+function in the monkey. In contrast, modern connectional 
+neuroanatomy and electrophysiology have identified 
+more than 35 functionally distinct cortical regions within 
+the five regions recognized by Brodmann.
+Figure 4–11  The extent of each cell layer of the neocortex 
+varies throughout the cortex. Sensory areas of cortex, such 
+as the primary visual cortex, tend to have a very prominent 
+internal granular cell layer (layer IV), the site of sensory input. 
+Motor areas of cortex, such as the primary motor cortex, have 
+a very meager layer IV but prominent output layers, such as 
+layer V. These differences led Korbinian Brodmann and others 
+working at the turn of the 20th century to divide the cortex 
+into various cytoarchitectonic regions. Brodmann’s 1909 sub-
+division shown here is a classic analysis but was based on 
+a single human brain. (Reproduced, with permission, from 
+Martin 2012.)
+4
+3 1
+2
+5
+7
+19
+18
+19
+20
+37
+38
+11
+10
+9
+8
+6
+21
+22
+42
+41
+43
+44
+45
+46
+40
+39
+47
+17
+4
+3
+1
+2 5
+7
+19
+18
+17
+18
+19
+37
+25
+27
+33
+32
+12
+24
+31
+23
+26
+29
+30
+20
+38
+11
+10
+9
+8
+6
+34
+28
+36
+35
+I
+Prefrontal
+association
+cortex
+II
+III
+IV
+V
+VI
+Lateral
+view
+Medial
+view
+I
+II
+III
+IV
+V
+VI
+I
+II
+III
+IV
+V
+VI
+I
+II
+III
+IV
+V
+VI
+Primary
+motor
+cortex
+Parietal
+association
+cortex
+Primary
+visual
+cortex
+18
+
+
+===== Page 5 =====
+88    Part I / Overall Perspective
+Within the neocortex, information passes from 
+one synaptic relay to another using feedforward and 
+feedback connections. In the visual system, for exam-
+ple, feedforward projections from the primary visual 
+cortex to secondary and tertiary visual areas originate 
+mainly in layer III and terminate mainly in layer IV 
+of the target cortical area. In contrast, feedback projec-
+tions to earlier stages of processing originate from cells 
+in layers V and VI and terminate in layers I, II, and VI 
+(Figure 4–12).
+The cerebral cortex is organized functionally into 
+columns of cells that extend from the white matter to 
+the surface of the cortex. (This columnar organization 
+is not particularly evident in standard histological 
+preparations and was first discovered in electrophysi-
+ological studies.) Each column is about one-third of a 
+millimeter in diameter. The cells in each column form 
+a computational module with a highly specialized 
+function. Neurons within a column tend to have very 
+similar response properties, presumably because 
+they form a local processing network. The larger the 
+area of cortex dedicated to a function, the greater the 
+number of computational columns that are dedicated 
+to that function (Chapter 23). The highly discrimina-
+tive sense of touch in the fingers is a result of many 
+cortical columns in the large area of cortex dedicated 
+to processing somatosensory information from the 
+hand.
+Beyond the identification of the cortical column, a 
+second major insight from the early electrophysiologi-
+cal studies was that the somatosensory cortex contains 
+not one but several somatotopic maps of the body sur-
+face. The primary somatosensory cortex (anterior pari-
+etal cortex) has four complete maps of the skin, one 
+each in Brodmann areas 3a, 3b, 1, and 2. The thalamus 
+sends, in parallel, a lot of deep receptor information 
+(eg, from muscles) to area 3a and most of its cutane-
+ous information to areas 3b and 1. Area 2 receives 
+input from these thalamorecipient cortical areas and 
+may be responsible for our integrated perception of 
+three-dimensional solid objects, termed stereogno-
+sis. Neurons in the primary somatosensory cortex 
+project to neurons in adjacent areas, and these neu-
+rons in turn project to other adjacent cortical regions  
+(Figure 4–13). At higher levels in the hierarchy of 
+cortical connections, somatosensory information is 
+used in motor control, eye–hand coordination, and 
+memory related to touch.
+The cortical areas involved in the early stages of 
+sensory processing are concerned primarily with a 
+single sensory modality. Such regions are called pri-
+mary sensory or unimodal (sensory) association areas. 
+Information from the unimodal association areas con-
+verges on multimodal association areas of the cortex 
+concerned with combining sensory modalities (Figure 
+4–13). These multimodal association areas, which are 
+heavily interconnected with the hippocampus, appear 
+to be particularly important for two functions: (1) the 
+production of a unified percept and (2) the representa-
+tion of the percept in memory (we will return to this at 
+the end of this chapter).
+Thus, from the mechanical pressure on a recep-
+tor in the skin to the perception that a finger has been 
+touched by a friend shaking your hand, somatosen-
+sory information is processed in a series of increasingly 
+more complex circuits (networks) from the dorsal root 
+ganglia to the somatosensory cortex, to unimodal asso-
+ciation areas, and finally to multimodal association 
+areas. One of the primary purposes of somatosensory 
+information is to guide directed movement. As one 
+might imagine, there is a close linkage between the 
+somatosensory and motor functions of the cortex.
+Figure 4–12  Ascending and descending cortical pathways 
+are distinguished by the organization of their origins and 
+terminations within the cortical layers. Ascending or feed-
+forward pathways generally originate in superficial layers of 
+the cortex and invariably terminate in layer IV. Descending or 
+feedback pathways generally originate from deep layers and 
+terminate in layers I and VI. (Adapted, with permission, from 
+Felleman and Van Essen 1991.)
+Ascending
+Descending
+Multilaminar
+Superﬁcial
+layers (I–III)
+Layer IV
+Deep (Infragranular)
+layers (V, VI)
+
+
+===== Page 6 =====
+Chapter 4 / The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior    89
+Figure 4–13  The processing of sensory information in the 
+cerebral cortex begins with primary sensory areas, continues 
+in unimodal association areas, and is further elaborated in 
+multimodal association areas. Sensory systems also com-
+municate with portions of the motor cortex. For example, the 
+primary somatosensory cortex projects to the motor area in the 
+frontal lobe and to the somatosensory association area in the 
+parietal cortex. The somatosensory association area, in turn, 
+projects to higher-order somatosensory association areas and to 
+the premotor cortex. Information from different sensory systems 
+converges in the multimodal association areas, which include the 
+parahippocampal, temporal association, and cingulate cortices.
+Anterior parietal
+cortex
+Anterior parietal
+cortex
+Somatosensory
+cortex
+Primary somatic sensory cortex
+Unimodal association cortex
+Motor
+cortex
+Premotor
+cortex
+Posterior
+parietal
+cortex
+Multimodal association cortex
+Posterior
+parietal
+cortex
+Temporal
+association
+cortex
+Parahippocampal
+cortex
+Cingulate cortex
+Voluntary Movement Is Mediated by Direct 
+Connections Between the Cortex and Spinal Cord
+As we shall see in Chapters 25 and 30, a major func-
+tion of the perceptual systems is to provide the sensory 
+information necessary for the actions mediated by the 
+motor systems. The primary motor cortex is organized 
+somatotopically like the somatosensory cortex (Figure 
+4–8B). Specific regions of the motor cortex influence 
+the activity of specific muscle groups (Chapter 34).
+The axons of neurons in layer V of the primary 
+motor cortex provide the major output of the neocor-
+tex to control movement. Some layer V neurons influ-
+ence movement directly through projections in the 
+corticospinal tract to motor neurons in the ventral horn 
+of the spinal cord. Others influence motor control by 
+synapsing onto motor output nuclei in the medulla or 
+onto striatal neurons in the basal ganglia. The human 
+corticospinal tract consists of approximately one mil-
+lion axons, of which approximately 40% originate in 
+the motor cortex. These axons descend through the 
+subcortical white matter, the internal capsule, and the 
+cerebral peduncle in the midbrain (Figure 4–14). In 
+the medulla, the fibers form prominent protuberances 
+on the ventral surface called the medullary pyramids, 
+and thus the entire projection is sometimes called the 
+pyramidal tract.
+Like the ascending somatosensory system, the 
+descending corticospinal tract crosses to the opposite 
+side of the spinal cord. Most of the corticospinal fibers 
+cross the midline in the medulla at a location known as 
+the pyramidal decussation. However, approximately 
+10% of the fibers do not cross until they reach the level 
+of the spinal cord at which they will terminate. The 
+corticospinal fibers make monosynaptic connections 
+with motor neurons, connections that are particularly 
+important for individuated finger movements. They 
+also form synapses with both excitatory and inhibitory 
+interneurons in the spinal cord, connections that are 
+important for coordinating larger groups of muscles in 
+behaviors such as reaching and walking.
+The motor information carried in the corticospinal 
+tract is significantly modulated by both sensory infor-
+mation and information from other motor regions. A 
+continuous stream of tactile, visual, and proprioceptive 
+information is needed to make voluntary movement 
+both accurate and properly sequenced. In addition, 
+the output of the motor cortex is under the substantial 
+influence of other motor regions of the brain, includ-
+ing the cerebellum and basal ganglia, structures that 
+are essential for smoothly executed movements. These 
+two subcortical regions, which are described in detail 
+in Chapters 37 and 38, provide feedback essential for 
+the smooth execution of skilled movements and thus 
+are also important for the improvement in motor skills 
+through practice (Figure 4–15).
+Modulatory Systems in the Brain Influence 
+Motivation, Emotion, and Memory
+Some areas of the brain are neither purely sensory 
+nor purely motor, but instead modulate specific sen-
+sory or motor functions. Modulatory systems are often 
+involved in behaviors that respond to a primary need 
+such as hunger, thirst, or sleep. For example, sensory 
+
+
+===== Page 7 =====
+90    Part I / Overall Perspective
+Figure 4–14  A significant number of fibers in the corticospi-
+nal tract originate in the primary motor cortex and termi-
+nate in the ventral horn of the spinal cord. The same axons 
+are, at various points in their projections, part of the internal 
+capsule, the cerebral peduncle, the medullary pyramid, and the 
+lateral corticospinal tract.
+Cerebral cortex
+Descending lateral corticospinal pathway
+Internal
+capsule
+(posterior
+limb)
+Primary
+motor 
+cortex
+Cerebral
+peduncle
+Pyramid
+Pyramidal
+decussation
+Lateral column
+Lateral intermediate
+zone and lateral
+motor nuclei
+Lateral
+corticospinal tract
+Medulla–
+spinal cord
+juncture
+Cervical
+spinal cord
+Medulla
+Pons
+Midbrain
+
+
+===== Page 8 =====
+Chapter 4 / The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior    91
+and modulatory systems in the hypothalamus deter-
+mine blood glucose levels (Chapter 41). When blood 
+sugar drops below a certain critical level, we feel hun-
+ger. To satisfy hunger, modulatory systems in the brain 
+focus vision, hearing, and smell on stimuli that are rel-
+evant to feeding.
+Distinct modulatory systems within the brain stem 
+modulate attention and arousal (Chapter 40). Small 
+Figure 4–15  Voluntary movement requires coordination of 
+all components of the motor system. The principal compo-
+nents are the motor cortex, basal ganglia, thalamus, midbrain, 
+cerebellum, and spinal cord. The principal descending projections 
+are shown in green; feedback projections and local connections 
+are shown in purple. All of this processing is incorporated in 
+the inputs to the motor neurons of the ventral horn of the spinal 
+cord, the so-called “final common pathway” that innervates 
+muscle and elicits movements. (This figure is a composite view 
+made from sections of the brain taken at different angles.)
+Premotor
+cortex
+Motor
+cortex
+Ventrolateral nucleus
+of the thalamus
+Somatosensory
+cortex
+Medial 
+corticospinal
+tract
+Pontine
+nuclei
+Pyramidal tract
+Lateral corticospinal tract
+Spinal cord
+Cerebellar cortex
+Deep cerebellar
+nuclei
+Red nucleus
+Basal
+ganglia
+Globus
+pallidus
+Midbrain
+Thalamus
+Putamen
+Caudate
+nucleus
+α
+γ
+
+
+===== Page 9 =====
+92    Part I / Overall Perspective
+nuclei in the brain stem contain neurons that synthe-
+size and release the modulatory neurotransmitter nor-
+epinephrine (the locus coeruleus) and serotonin (the 
+dorsal raphe nucleus). Such neurons set the general 
+arousal level of an animal through their widespread 
+connections with forebrain structures. A group of 
+cholinergic modulatory neurons, the basal nucleus of 
+Meynert, is involved in arousal or attention (Chapter 40). 
+This nucleus is located beneath the basal ganglia in the 
+basal forebrain portion of the telencephalon. The axons 
+of its neurons project to essentially all portions of the 
+neocortex.
+If a predator finds potential prey, a variety of cor-
+tical and subcortical systems determine whether the 
+prey is edible. Once food is recognized, other cortical 
+and subcortical systems initiate a comprehensive vol-
+untary motor program to bring the animal into contact 
+with the prey, capture it and place it in the mouth, and 
+chew and swallow.
+Finally, the physiological satisfaction the animal 
+experiences in eating reinforces the behaviors that led 
+to the successful predation. A group of dopaminergic 
+neurons in the midbrain are important for monitoring 
+reinforcements and rewards. The power of the dopa-
+minergic modulatory systems has been demonstrated 
+by experiments in which electrodes were implanted 
+into the reward regions of rats and the animals were 
+freely allowed to press a lever to electrically stimu-
+late their brains. They preferred this self-stimulation 
+to obtaining food or water, engaging in sexual behav-
+ior, or any other naturally rewarding activity. The 
+role of the dopaminergic modulatory system in learn-
+ing through reinforcement of exploratory behavior is 
+described in Chapter 38.
+How the brain’s modulatory systems, concerned 
+with reward, attention and motivation, interact with 
+the sensory and motor systems is one of the most 
+interesting questions in neuroscience, one that is also 
+fundamental to our understanding of learning and 
+memory storage (Chapter 40).
+The Peripheral Nervous System Is 
+Anatomically Distinct From the Central 
+Nervous System
+The peripheral nervous system supplies the central 
+nervous system with a continuous stream of infor-
+mation about both the external environment and the 
+internal environment of the body. It has somatic and 
+autonomic divisions (Figure 4–16).
+The somatic division includes the sensory neurons 
+that receive information from the skin, muscles, and 
+Figure 4–16  The peripheral nervous system has somatic 
+and autonomic divisions. The somatic division carries infor-
+mation from the skin to the brain and from the brain to mus-
+cles. The autonomic division regulates involuntary functions, 
+including activity of the heart and smooth muscles in the gut 
+and glands.
+Peripheral Nervous System
+Somatic
+Autonomic
+
+

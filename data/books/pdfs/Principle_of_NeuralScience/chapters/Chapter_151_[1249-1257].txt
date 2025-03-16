@@ -1,0 +1,795 @@
+===== Page 1 =====
+1204    Part VII / Development and the Emergence of Behavior
+Figure 48–19  Some neuromuscular synapses are elimi-
+nated after birth. Early in the development of the neuromus-
+cular junction, each muscle fiber is innervated by several motor 
+axons. After birth, all motor axons but one withdraw from each 
+fiber, and the surviving axon becomes more elaborate. Synapse 
+elimination occurs without any overall loss of axons—axons 
+that “lose” at some muscle fibers “win” at others. Central  
+synapses are also subject to elimination.
+Wnt families of secreted morphogens and their recep-
+tors (Figure 48–18). They are present at specific subsets 
+of synapses and play distinct roles. For example, simi-
+lar to neuroligin1 and neuroligin2, FGF22 and FGF7 are 
+localized to and promote differentiation of excitatory 
+and inhibitory synapses, respectively. Some of these 
+organizing proteins may act in parallel with neurexins, 
+while others may act as initial organizers, with neu-
+roligins and neurexins consolidating the synapses at 
+a later time and specifying their particular properties.
+Together, these results suggest that central syn-
+apses are not patterned by master organizers akin to 
+agrin, MuSK, LRP4, and laminins. Indeed, loss of no 
+single central organizer studied to date is lethal in the 
+manner observed for agrin, MuSK, LRP4, and laminin 
+mutants. Instead, the enormous variety of neuronal 
+and synaptic types in the central nervous system and 
+their wide range of functional properties arise from a 
+multitude of organizers that act combinatorially and 
+in cell type–specific ways. Consistent with this view, 
+genetic variation in many central organizers and syn-
+aptic recognition molecules, including neurexins, neu-
+roligins, cadherins, and contactins, has been associated 
+with behavioral perturbations in experimental animals 
+and with behavioral disorders, including autism, in 
+humans (Chapter 62).
+Some Synapses Are Eliminated After Birth
+In adult mammals, each muscle fiber bears only a 
+single synapse. However, this is not the case in the 
+embryo. At intermediate stages of development, sev-
+eral axons converge on each myotube and form syn-
+apses at a common site. Soon after birth, all inputs but 
+one are eliminated.
+The process of synapse elimination is not a mani-
+festation of neuronal death. Indeed, it generally occurs 
+long after the period of naturally occurring cell death 
+(Chapter 46). Each motor axon withdraws branches 
+from some muscle fibers but strengthens its connec-
+tions with others, thus focusing its increasing capac-
+ity for transmitter release on a decreasing number of 
+targets. Moreover, axonal elimination is not targeted to 
+defective synapses; all inputs to a neonatal myotube 
+are morphologically and electrically similar, and each 
+can activate the postsynaptic cell (Figure 48–19).
+What is the purpose of the transient stage of poly-
+neuronal innervation? One possibility is that it ensures 
+that each muscle fiber is innervated. A second is that it 
+allows all axons to capture an appropriate set of target 
+cells. A third, intriguing idea is that synapse elimina-
+tion provides a means by which activity can change 
+A single motor 
+axon innervates a 
+single muscle ﬁber
+Maturation
+Polyneuronal 
+innervation of
+immature muscle
+the strength of specific synaptic connections. We will 
+explore this idea in Chapter 49.
+Like synapse formation, synapse elimination 
+results from intercellular interactions. Every mus-
+cle fiber ends up with exactly one input: None have 
+zero, and very few have more than one. It is difficult to 
+imagine how this could occur without feedback from 
+the muscle cell. Moreover, the axons that remain after 
+partial denervation at birth have a larger number of 
+synapses than they did initially. Thus, synapse elimi-
+nation appears to be a competitive process.
+What drives the competition, and what is the 
+reward? There is good evidence that neural activity 
+plays a role: Paralysis of muscle reduces synapse elimi-
+nation, whereas direct stimulation enhances it. These 
+findings showed that activity was involved but did not 
+reveal how the outcome was determined, because all 
+axons were stimulated or paralyzed together. Because 
+the essence of the competitive process is that some 
+synapses gain territory at the expense of others, dif-
+ferential activity among axons may be a determinant 
+
+
+===== Page 2 =====
+Chapter 48 / Formation and Elimination of Synapses    1205
+of axon winners and losers. Changing the activity of 
+only a subset of axons in a living animal has been a 
+technical challenge, but genetic approaches have made 
+this possible in mice. In fact, when the activity of one 
+of the inputs to a muscle fiber is decreased, that axon is 
+highly likely to withdraw.
+If the more active axon wins the competition, there 
+is a new problem. Because all synapses made by an 
+axon have the same activity pattern, one might predict 
+that the least active axon in the muscle would eventu-
+ally lose all of its synapses and the most active would 
+retain all of its synapses. Yet this does not happen. 
+Instead, all axons win at some sites and lose at others, 
+so that every axon ends up innervating a substantial 
+number of muscle fibers.
+One possible resolution to this paradox is that the 
+outcome of competition may not depend on the num-
+ber of synaptic potentials from the winning axon at 
+a synapse but rather on the total amount of synaptic 
+input that the axon provides to the muscle—a product 
+of the number of impulses and the amount of transmit-
+ter released per impulse. In this case, an axon that loses 
+at several synapses might redistribute its resources 
+(eg, synaptic vesicles) so that the remaining terminals 
+would be strengthened and more likely to win at their 
+synapses. Conversely, an axon that wins many com-
+petitions might find itself with insufficient vesicles 
+to generate large synaptic potentials and thus would 
+eventually lose to competitors at some synapses. 
+Accordingly, the number of muscle fibers innervated 
+by individual axons would vary much more among 
+axons than is actually observed.
+If activity drives the competition, what is the object 
+of the competition? One idea is that the mechanisms are 
+similar to those that determine whether neurons live or 
+die. The muscle might produce limited amounts of a 
+trophic substance for which the axons compete. As the 
+winner grows, it either deprives the loser of its suste-
+nance or gains enough strength to mount an attack that 
+results in removal of its competitor. Alternatively, the 
+muscle might release a toxic or punitive factor. In these 
+scenarios, although the muscle does contribute a factor 
+in the competition, the outcome is entirely dependent 
+on differences between axons. These differences could 
+be related to activity. The more active axon might be 
+better able to take up trophic factor or resist a toxin. 
+Such positive and negative competitive interactions 
+have been demonstrated at nerve-muscle synapses in 
+culture, although not in vivo.
+Nevertheless, the muscle could play a selective 
+role in synapse elimination rather than just providing 
+a broadly distributed signal. For example, the more 
+active axon might trigger a signal from the muscle 
+fiber that strengthens its adhesive interactions with the 
+synaptic cleft, whereas the less active axon might elicit 
+a signal that weakens those interactions.
+The complexity of the brain makes direct dem-
+onstration of synapse elimination problematic, but 
+electrophysiological evidence from many parts of 
+the central nervous system indicates that synapse 
+elimination is widespread. In autonomic ganglia and 
+cerebellar Purkinje cells, synapse elimination has been 
+documented directly and its rules seem similar to those 
+found at neuromuscular junctions. Individual axons 
+withdraw from some postsynaptic cells while simulta-
+neously increasing the size of the synapses they form 
+with other neurons.
+Glial Cells Regulate Both Formation and 
+Elimination of Synapses
+Classical studies of synapse formation and maturation 
+focused, logically enough, on the pre- and postsynap-
+tic partners. More recently, however, there has been a 
+growing appreciation of the role played by a third type 
+of cell: the glial cells that cap nerve terminals. Schwann 
+cells are the glia at neuromuscular junctions, and astro-
+cytes are the glia at central synapses. Both have been 
+implicated in synapse formation and maturation.
+The most penetrating analyses were performed by 
+the late Ben Barres and his colleagues. They devised 
+methods to culture neurons in defined media and in the 
+complete absence of nonneuronal cells. Using this sys-
+tem, they found that neurons formed few synapses when 
+cultured in isolation but many when astrocytes were 
+present (Figure 48–20). The astrocytes provide multiple 
+signals to neurons. Some, such as thrombospondin, pro-
+mote postsynaptic maturation, whereas others, such as 
+cholesterol, promote presynaptic maturation.
+Another glial type, the microglial cell, also plays 
+critical roles. Microglia are relatives of macrophages 
+and monocytes in other tissues, sharing their ability to 
+eliminate dead cells or debris. Initially thought to be 
+primarily involved in the brain’s response to damage, 
+they have now been found to phagocytose synaptic 
+terminals during the period of synapse elimination. 
+True to their phagocytic origins, they use the complex 
+system of complement factors, initially studied in the 
+context of immunity, to target terminals; the targeting 
+is activity dependent, providing a possible mechanism 
+for the activity dependence of synapse elimination 
+(Figure 48–21). An intriguing possibility is that dysreg-
+ulation of microglial pruning contributes to synaptic 
+loss in neurodegenerative diseases such as Alzheimer 
+disease and schizophrenia (see Chapters 60 and 64).
+
+
+===== Page 3 =====
+1206    Part VII / Development and the Emergence of Behavior
+40
+20
+0
+Quantal content
+Synaptic vesicle
+recycling
+Immunocyto-
+chemistry 
+D
+Number of synapses per neuron
+40
+20
+0
+Quantal content
+Synaptic vesicle
+recycling
+Immunocyto-
+chemistry 
+20 pA
+40 pA
+100 ms
+C
+Astrocytes          
+Presynaptic 
+terminal
+A
+Control
+With astrocytes
+B
+Postsynaptic 
+dendrite
+Figure 48–20  Signals from astrocytes promote syn-
+apse formation.
+A. Astrocytes promote the maturation of both pre- and 
+postsynaptic elements of the synapse.
+B. Neurons cultured with astrocytes form more synapses, 
+as assessed by expression of synaptic proteins (yellow 
+dots). (Reproduced, with permission, from Ben A. Barres.)
+C. Retinal neurons cultured with astrocytes form a greater 
+number of synapses, as shown by increased transmitter 
+release.
+D. Synapse formation is enhanced in the presence of 
+astrocytes by three measures.
+
+
+===== Page 4 =====
+Chapter 48 / Formation and Elimination of Synapses    1207
+Figure 48–21  Microglia prune synapses, contributing 
+to synapse elimination. Microglia engulf weak synapses. 
+The engulfment is stimulated by complement components 
+such as C1q, which tags the inactive terminal and marks it 
+for removal by a process involving interaction of C3 with the 
+complement receptor C3R on the microglia. Astrocytes play a 
+role by secreting transforming growth factor β (TGFβ), which 
+promotes production of C1q. (Adapted, with permission, from 
+Allen 2014. Permission conveyed through Copyright Clearance 
+Center, Inc.)
+C3R
+C3
+Glutamate
+receptors
+Microglial
+cell process
+Astrocyte
+process
+Axon
+Dendrite
+Strong synapse
+Maintained
+Weak synapse
+Eliminated by microglia
+C1q
+C1q
+TGFβ
+The roles of glia in synaptic development are only 
+beginning to be worked out, and the assignments of 
+astrocytes and microglia to synapse formation and 
+elimination are clearly oversimplifications. Both glial 
+types are involved in both processes, and Schwann 
+cells may play both roles at the neuromuscular junc-
+tion. Moreover, a complex set of signals passes between 
+astrocytes and microglia, and between neurons and 
+glia, all of which contribute to development and are at 
+risk of going awry in brain disorders.
+Highlights
+  1.  Elaborate guidance mechanisms bring axons to 
+appropriate target areas, but within those areas 
+they still need to choose synaptic partners, often 
+from among many neuronal types. Multiple 
+mechanisms guide these choices.
+  2.  Matching cell-surface recognition molecules on pre- 
+and postsynaptic partners provide one prevalent 
+mechanism for synaptic specificity. They include 
+members of the cadherin, immunoglobulin, and 
+leucine-rich repeat protein superfamilies. Individ-
+ual members are selectively expressed by subsets 
+of neurons and exhibit selective binding. Often, the 
+binding is homophilic, biasing connectivity in favor 
+of partners expressing the same molecule.
+  3.  Other mechanisms promoting specificity include 
+selective interactions among axons, the ability of 
+some axons to convert their targets to the appro-
+priate types, and selective elimination of inap-
+propriate contacts.
+  4.  At present, it remains unknown how many 
+molecular species are required to wire up neural 
+circuits in the mammalian brain. At one time, it 
+seemed that molecular complexity might need to 
+approach the complexity of circuits, but it is more 
+likely that a few hundred recognition molecules 
+will suffice, given their combinatorial use, as well 
+as deployment of the same gene at multiple times 
+and in multiple regions.
+
+
+===== Page 5 =====
+1208    Part VII / Development and the Emergence of Behavior
+  5.  Spatial constraints that enhance specificity 
+include restriction of axons and dendrites to par-
+ticular laminae within a target region—thereby 
+restricting their choice of partners—and restric-
+tion of synapses of particular types to defined 
+domains on the target cell surface.
+  6.  Some specificity mechanisms do not require the 
+partners to be electrically active, but in many 
+cases, activity-dependent mechanisms sharpen 
+specificity. Activity can be spontaneous, early 
+in development, or driven by experience at later 
+stages.
+  7.  The skeletal neuromuscular junction, at which 
+the axon of a motor neuron synapses on a muscle 
+fiber, has been a favored preparation for working 
+out principles of synaptic development. A key 
+finding is that multiple interactions between the 
+synaptic partners are required for the formation, 
+maturation, and maintenance of the synapse.
+  8.  Motor neurons and muscle fibers can express 
+genes encoding pre- and postsynaptic compo-
+nents, respectively, in each other’s absence, but 
+they exert profound influences on the levels and 
+distribution of these components in their part-
+ners. Thus, signals between synaptic partners are 
+best viewed as organizers rather than inducers.
+  9.  At the neuromuscular junction, a layer of basal 
+lamina occupies the synaptic cleft between the 
+motor nerve terminal and the postsynaptic mem-
+brane. Nerve and muscle secrete signaling mole-
+cules into the cleft, where they become stabilized 
+and organize differentiation.
+10.  A key nerve-derived organizer of postsynaptic 
+differentiation is agrin. It acts through the recep-
+tors MuSK and LRP4 to cluster acetylcholine 
+receptors and other postsynaptic components 
+beneath the nerve terminal. Nerve-evoked activ-
+ity also affects postsynaptic differentiation by 
+modulating expression of postsynaptic compo-
+nents. Key muscle-derived organizers of pre-
+synaptic differentiation include members of the 
+laminin and fibroblast growth factor families.
+11.  Central synapses develop in ways similar to those 
+discovered at the neuromuscular junction. Many 
+central synaptic organizers have now been dis-
+covered, including neuroligins, neurexins, pro-
+tein tyrosine phosphatases, leucine-rich repeat 
+proteins, and numerous others.
+12.  Many of the synapses that form initially in both 
+the peripheral and central nervous systems are 
+subsequently eliminated, generally by competi-
+tive, activity-dependent mechanisms. The conse-
+quence is that as circuits mature, the number of 
+inputs a neuron receives may decrease dramati-
+cally, but the size and strength of the remaining 
+inputs increase even more dramatically.
+13.  Along with pre- and postsynaptic partners, glial 
+cells play key roles at the synapse. In particular, 
+both astrocytes and microglial cells receive sig-
+nals from and send signals to developing syn-
+aptic partners, with these signals contributing 
+to synapse formation, maturation, maintenance, 
+and elimination.
+ Joshua R. Sanes 
+Selected Reading
+Allen NJ, Lyons DA. 2018. Glia as architects of central nerv-
+ous system formation and function. Science 362:181–185.
+Baier H. 2013. Synaptic laminae in the visual system: molecu-
+lar mechanisms forming layers of perception. Annu Rev 
+Cell Dev Biol 29:385–416.
+Darabid H, Perez-Gonzalez AP, Robitaille R. 2014. Neuro-
+muscular synaptogenesis: coordinating partners with 
+multiple functions. Nat Rev Neurosci 15:703–718.
+Hirano S, Takeichi M. 2012. Cadherins in brain morphogen-
+esis and wiring. Physiol Rev 92:597–634.
+Krueger-Burg D, Papadopoulos T, Brose N. 2017. Organizers 
+of inhibitory synapses come of age. Curr Opin Neurobiol 
+45:66–77.
+Nishizumi H, Sakano H. 2015. Developmental regulation of 
+neural map formation in the mouse olfactory system. Dev 
+Neurobiol 75:594–607.
+Südhof TC. 2017. Synaptic neurexin complexes: a molecular 
+code for the logic of neural circuits. Cell 171:745–769.
+Takahashi H, Craig AM. 2013. Protein tyrosine phosphatases 
+PTPδ, PTPσ, and LAR: presynaptic hubs for synapse 
+organization. Trends Neurosci 36:522–534.
+Thion MS, Ginhoux F, Garel S. 2018. Microglia and early brain 
+development: an intimate journey. Science 362:185–189.
+Yogev S, Shen K. 2014. Cellular and molecular mechanisms 
+of synaptic specificity. Annu Rev Cell Dev Biol 30:417–437.
+References
+Allen NJ. 2014. Astrocyte regulation of synaptic behavior. 
+Annu Rev Cell Dev Biol. 30:439–463.
+Anderson, MJ, Cohen MW. 1977. Nerve-induced and spon-
+taneous redistribution of acetylcholine receptors on cul-
+tured muscle cells. J Physiol 268:757–773.
+Ango F, di Cristo G, Higashiyama H, Bennett V, Wu P, 
+Huang ZJ. 2004. Ankyrin-based subcellular gradient of 
+
+
+===== Page 6 =====
+Chapter 48 / Formation and Elimination of Synapses    1209
+neurofascin, an immunoglobulin family protein, directs 
+GABAergic innervation at Purkinje axon initial segment. 
+Cell 119:257–272.
+Buller AJ, Eccles JC, Eccles RM. 1960. Interactions between 
+motoneurons and muscles in respect of the characteristic 
+speeds of their responses. J Physiol 150:417–439.
+Burden SJ, Sargent PB, McMahan UJ. 1979. Acetylcholine 
+receptors in regenerating muscle accumulate at origi-
+nal synaptic sites in the absence of the nerve. J Cell Biol 
+82:412–425.
+Christopherson KS, Ullian EM, Stokes CC, et al. 2005. Throm-
+bospondins are astrocyte-secreted proteins that promote 
+CNS synaptogenesis. Cell 120:421–433.
+DeChiara TM, Bowen DC, Valenzuela DM, et al. 1996. The 
+receptor tyrosine kinase MuSK is required for neuromus-
+cular junction formation in vivo. Cell 85:501–512.
+Duan X, Krishnaswamy A, De la Huerta I, Sanes JR. 2014. 
+Type II cadherins guide assembly of a direction-selective 
+retinal circuit. Cell 158:793–807.
+Feng G, Tintrup H, Kirsch J, et al. 1998. Dual requirement for 
+gephyrin in glycine receptor clustering and molybdoen-
+zyme activity. Science 282:1321–1324.
+Fox MA, Sanes JR, Borza DB, et al. 2007. Distinct target-
+derived signals organize formation, maturation, and 
+maintenance of motor nerve terminals. Cell 129:179–193.
+Gautam M, Noakes PG, Moscoso L, et al. 1996. Defective 
+neuromuscular synaptogenesis in agrin-deficient mutant 
+mice. Cell 85:525–535.
+Glicksman MA, Sanes JR. 1983. Differentiation of motor 
+nerve terminals formed in the absence of muscle fibres. 
+J Neurocytol 12:661–671.
+Graf ER, Zhang X, Jin SX, Linhoff MW, Craig AM. 2004. 
+Neurexins induce differentiation of GABA and gluta-
+mate postsynaptic specializations via neuroligins. Cell 
+119:1013–1026.
+Hall ZW, Sanes JR. 1993. Synaptic structure and develop-
+ment: the neuromuscular junction. Cell 72:99–121. Suppl.
+Huang ZJ. 2006. Subcellular organization of GABAergic syn-
+apses: role of ankyrins and L1 cell adhesion molecules. 
+Nat Neurosci 9:163–166.
+Imai T, Suzuki M, Sakano H. 2006. Odorant receptor-derived 
+cAMP signals direct axonal targeting. Science 314:657–661.
+Krishnaswamy A, Yamagata M, Duan X, Hong YK, Sanes JR. 
+2015. Sidekick 2 directs formation of a retinal circuit that 
+detects differential motion. Nature 2524:466–470.
+Lupa MT, Gordon H, Hall ZW. 1990. A specific effect of mus-
+cle cells on the distribution of presynaptic proteins in neu-
+rites and its absence in a C2 muscle cell variant. Dev Biol 
+142:31–43.
+Misgeld T, Kummer TT, Lichtman JW, Sanes JR. 2005. Agrin 
+promotes synaptic differentiation by counteracting an 
+inhibitory effect of neurotransmitter. Proc Natl Acad Sci 
+U S A 102:11088–11093.
+Nishimune H, Sanes JR, Carlson SS. 2004. A synaptic laminin-
+calcium channel interaction organizes active zones in 
+motor nerve terminals. Nature 432:580–587.
+Nja A, Purves D. 1977. Re-innervation of guinea-pig superior 
+cervical ganglion cells by preganglionic fibres arising from 
+different levels of the spinal cord. J Physiol 272:633–651.
+Noakes PG, Gautam M, Mudd J, Sanes JR, Merlie JP. 
+1995. Aberrant differentiation of neuromuscular junc-
+tions in mice lacking s-laminin/laminin beta 2. Nature 
+374:258–262.
+Salmons S, Sreter FA. 1976. Significance of impulse activ-
+ity in the transformation of skeletal muscle type. Nature 
+263:30–34.
+Sanes JR, Lichtman JW. 2001. Induction, assembly, matura-
+tion and maintenance of a postsynaptic apparatus. Nat 
+Rev Neurosci 2:791–805.
+Sanes JR, Yamagata M. 2009. Many paths to synaptic specific-
+ity. Annu Rev Cell Dev Biol 25:161–195.
+Schafer DP, Lehrman EK, Kautzman AG, et al. 2012. Micro-
+glia sculpt postnatal neural circuits in an activity and 
+complement-dependent manner. Neuron 74:691–705.
+Scheiffele P, Fan J, Choih J, Fetter R, Serafini T. 2000. Neuroli-
+gin expressed in nonneuronal cells triggers presynaptic 
+development in contacting axons. Cell 101:657–669.
+Serizawa S, Miyamichi K, Takeuchi H, Yamagishi Y, Suzuki 
+M, Sakano H. 2006. A neuronal identity code for the odor-
+ant receptor-specific and activity-dependent axon sorting. 
+Cell 127:1057–1069.
+Terauchi A, Johnson-Venkatesh EM, Toth AB, Javed D,  
+Sutton MA, Umemori H. 2010. Distinct FGFs promote dif-
+ferentiation of excitatory and inhibitory synapses. Nature 
+465:783–787.
+Uezu A, Kanak DJ, Bradshaw TW, et al. 2016. Identification 
+of an elaborate complex mediating postsynaptic inhibi-
+tion. Science 353:1123–1129.
+Vaughn JE. 1989. Fine structure of synaptogenesis in the ver-
+tebrate central nervous system. Synapse 3:255–285.
+Yamagata M, Sanes JR. 2012. Expanding the Ig superfamily 
+code for laminar specificity in retina: expression and role 
+of contactins. J Neurosci 32:14402–14414.
+Yumoto N, Kim N, Burden SJ. 2012. Lrp4 is a retrograde sig-
+nal for presynaptic differentiation at neuromuscular syn-
+apses. Nature 489:438–442.
+
+
+===== Page 7 =====
+49
+Experience and the Refinement of  
+Synaptic Connections
+Critical Periods Can Be Reopened in Adulthood
+Visual and Auditory Maps Can Be Aligned in Adults
+Binocular Circuits Can Be Remodeled in Adults
+Highlights
+T
+he human nervous system is functional  at 
+birth—newborn babies can see, hear, breathe, 
+and suckle. However, the capabilities of human 
+infants are quite rudimentary compared to those of 
+other species. Wildebeest calves can stand and run 
+within minutes of birth, and many birds can fly shortly 
+after they hatch from their eggs. In contrast, a human 
+baby cannot lift its head until it is 2 months old, cannot 
+bring food to its mouth until it is 6 months old, and 
+cannot survive without parental care for a decade.
+What accounts for the delayed maturation of our 
+motor, perceptual, and cognitive abilities? One main 
+factor is that the embryonic connectivity of the nerv-
+ous system, discussed in Chapters 45 through 48, is 
+only a “rough draft” of the neural circuits that exist 
+in our adult selves. Embryonic circuits are refined by 
+sensory stimulation—our experiences. This two-part 
+sequence—genetically determined connectivity fol-
+lowed by experience-dependent reorganization—is 
+a common feature of mammalian neural develop-
+ment, but in humans, the second phase is especially 
+prolonged.
+At first glance, this delay in human neural devel-
+opment might seem dysfunctional. It does exact a toll, 
+Development of Human Mental Function Is Influenced by 
+Early Experience
+Early Experience Has Lifelong Effects on Social Behaviors
+Development of Visual Perception Requires  
+Visual Experience
+Development of Binocular Circuits in the Visual Cortex 
+Depends on Postnatal Activity
+Visual Experience Affects the Structure and Function of 
+the Visual Cortex
+Patterns of Electrical Activity Organize Binocular Circuits
+Reorganization of Visual Circuits During a Critical Period 
+Involves Alterations in Synaptic Connections
+Cortical Reorganization Depends on Changes in Both 
+Excitation and Inhibition
+Synaptic Structures Are Altered During the  
+Critical Period
+Thalamic Inputs Are Remodeled During the  
+Critical Period
+Synaptic Stabilization Contributes to Closing  
+the Critical Period
+Experience-Independent Spontaneous Neural Activity  
+Leads to Early Circuit Refinement
+Activity-Dependent Refinement of Connections Is a  
+General Feature of Brain Circuitry
+Many Aspects of Visual System Development Are 
+Activity-Dependent
+Sensory Modalities Are Coordinated During a  
+Critical Period
+Different Functions and Brain Regions Have Different 
+Critical Periods of Development
+
+
+===== Page 8 =====
+Chapter 49 / Experience and the Refinement of Synaptic Connections     1211
+but it also provides an advantage. Because our mental 
+abilities are shaped largely by experience, we gain the 
+ability to custom fit our nervous systems to our indi-
+vidual bodies and unique environments. It has been 
+argued that it is not just the large size of the human 
+brain but also its experience-dependent maturation 
+that makes our mental capabilities superior to those of 
+other species.
+The plasticity of the nervous system in response 
+to experience endures throughout life. Nevertheless, 
+periods of heightened susceptibility to modification, 
+known as sensitive periods, occur at particular times 
+in development. In some cases, the adverse effects 
+of deprivation or atypical experience during circum-
+scribed periods in early life cannot easily be reversed 
+by providing appropriate experience at a later age. 
+Such periods are referred to as critical periods. As we 
+shall see, new discoveries are blurring the distinction 
+between sensitive and critical periods, so we will use 
+the term “critical periods” to refer to both.
+Behavioral observations have helped us appre-
+ciate critical periods. Imprinting, a form of learning 
+in birds, is one of the most striking illustrations of a 
+lifelong behavior established during a critical period. 
+Just after hatching, birds become indelibly attached, or 
+imprinted, to a prominent moving object in their envi-
+ronment and follow it around. This is typically their 
+mother, but it could be an experimenter who is near 
+the newborn chick. The process of imprinting is impor-
+tant for the protection of the hatchling. Although the 
+attachment is acquired rapidly and persists, imprint-
+ing can only occur during a critical period soon after 
+hatching—in some species, only a few hours.
+In humans, critical periods are evident in the ways 
+children acquire the capacities to perceive the world 
+around them, learn a language, or form social relation-
+ships. A 5-year-old child can quickly and effortlessly 
+learn a second language, whereas a 15-year-old adoles-
+cent may become fluent but is likely to speak with an 
+accent, even if he lives to be 90 years old. Likewise, deaf 
+children fitted with a cochlear implant during the first 
+3 to 4 years of life generally acquire and understand 
+spoken language well, whereas neither production nor 
+understanding may ever be normal following implan-
+tation at later ages. Such critical periods demonstrate 
+that experience-dependent neural development is con-
+centrated in, although certainly not confined to, early 
+postnatal life.
+We begin this chapter by examining the evidence 
+that early experience shapes a range of human mental 
+capacities, from our ability to make sense of what we 
+see to our ability to engage in appropriate social inter-
+actions. The neural basis of these experiential effects 
+has been analyzed in numerous parts of the brains of 
+experimental animals, including the auditory, soma-
+tosensory, motor, and visual systems. Here, rather 
+than surveying multiple systems, we will focus pri-
+marily on the visual system because research on this 
+system has provided a particularly rich understanding 
+of how experience shapes neural circuitry. We will see 
+that experience is needed to refine patterns of synaptic 
+connections and to stabilize these patterns once they 
+have formed. Finally, we will consider recent evidence 
+that critical periods in many systems are less restrictive 
+than once thought and, in some cases, can be extended 
+or even “reopened.”
+Understanding critical periods in childhood and 
+the extent to which they can be reopened in adult-
+hood has many important practical consequences. 
+First, much educational policy is based on the idea that 
+early experience is crucial, so it is important to know 
+exactly when a particular form of enrichment will be 
+optimally beneficial. Second, medical treatment of 
+many childhood conditions, such as congenital cata-
+racts or deafness, is now predicated on the idea that 
+early intervention is imperative if long-lasting deficits 
+are to be avoided. Third, there is increasing suspicion 
+that some behavioral disorders, such as autism, may 
+be caused by impairment of reorganization of neural 
+circuits during critical periods. Finally, the possibility 
+of reopening critical periods in adulthood is leading to 
+new therapeutic approaches to neural insults, such as 
+stroke, that previously were thought to have irrevers-
+ible consequences.
+Development of Human Mental Function  
+Is Influenced by Early Experience
+Early Experience Has Lifelong Effects  
+on Social Behaviors
+One of the first indications that early social and per-
+ceptual experiences have irreversible consequences for 
+human development came from studies of children 
+who had been deprived of these experiences early in 
+life. In rare cases, children abandoned in the wild and 
+later returned to human society have also been studied. 
+As might be expected, these children were socially 
+maladjusted, but surprisingly, the defects proved to 
+persist throughout life.
+In the 1940s, the psychoanalyst René Spitz pro-
+vided more systematic evidence that early interactions 
+with other humans are essential for normal social devel-
+opment. Spitz compared the development of infants 
+raised in a foundling home with the development 
+
+
+===== Page 9 =====
+1212    Part VII / Development and the Emergence of Behavior
+of infants raised in a nursing home attached to a 
+women’s prison. Both institutions were clean and both 
+provided adequate food and medical care. The babies 
+in the prison nursing home were all cared for by their 
+mothers, who, although in prison and away from their 
+families, tended to shower affection on their infants in 
+the limited time allotted to them each day. In contrast, 
+infants in the foundling home were cared for by nurses, 
+each of whom was responsible for several babies. As a 
+result, children in the foundling home had far less con-
+tact with other humans than did those in the prison’s 
+nursing home.
+The two institutions also differed in another 
+respect. In the prison nursing home, the cribs were 
+open, so that the infants could readily watch other 
+activities in the ward; they could see other babies play 
+and observe the staff go about their business. In the 
+foundling home, the bars of the cribs were covered 
+by sheets that prevented the infants from seeing out-
+side. In reality, the babies in the foundling home were 
+living under conditions of severe sensory and social 
+deprivation.
+Infants at the two institutions were followed 
+through their early years. At the end of the first 4 months, 
+the infants in the foundling home fared better on sev-
+eral developmental tests than those in the prison nurs-
+ing home, suggesting that intrinsic factors did not 
+favor the infants in the prison nursing home. But by 
+the end of the first year, the motor and intellectual per-
+formance of the children in the foundling home had 
+fallen far below that of children in the prison nursing 
+home. Many of the children in the foundling home had 
+developed a syndrome that Spitz called hospitalism and 
+is now sometimes called anaclitic depression. These chil-
+dren were withdrawn and displayed little curiosity or 
+gaiety. Moreover, their defects extended beyond emo-
+tional and cognitive signs. They were especially prone 
+to infection, implying that the brain exerts complex 
+controls over the immune system as well as behavior. 
+By their second and third years, children in the prison 
+nursing home were similar to children raised in nor-
+mal families at home—they were agile, had a vocabu-
+lary of hundreds of words, and spoke in sentences. In 
+contrast, the development of children in the foundling 
+home was still further delayed—many were unable to 
+walk or to speak more than a few words.
+More recent studies of other similarly deprived 
+children have confirmed these conclusions and 
+shown that the defects are long-lasting. Longitudi-
+nal studies of orphans who were raised for several 
+years in large impersonal institutions with little or 
+no personal care, then adopted by caring families, 
+have been especially revealing. Despite every effort 
+of the adoptive parents, many of the children were 
+never able to develop appropriate, caring relation-
+ships with family members or peers (Figure 49–1A). 
+More recent imaging studies have revealed defects in 
+brain structure correlated with, and presumably due 
+to, this deprivation (Figure 49–1B).
+As compelling as these observations are, it is dif-
+ficult to derive definitive conclusions from them. An 
+influential set of studies that extended the analysis 
+of social behavior to monkeys was carried out in the 
+1960s by two psychologists, Harry and Margaret 
+Harlow. The Harlows reared newborn monkeys in 
+isolation for 6 to 12 months, depriving them of con-
+tact with their mothers, other monkeys, or people. At 
+the end of this period, the monkeys were physically 
+healthy but behaviorally devastated. They crouched in 
+a corner of their cage and rocked back and forth like 
+autistic children (Figure 49–1C). They did not interact 
+with other monkeys, nor did they fight, play, or show 
+any sexual interest. Thus, a 6-month period of social 
+isolation during the first 18 months of life produced 
+persistent and serious disturbances in behavior. By 
+comparison, isolation of an older animal for a compa-
+rable period was found to be without such drastic con-
+sequences. These results confirmed, under controlled 
+conditions, the critical influence of early experience on 
+later behavior. For ethical reasons, these studies would 
+not be possible today.
+Development of Visual Perception Requires  
+Visual Experience
+The dramatic dependence of the brain on experience 
+and the ability of that experience to shape perception 
+is evident in people born with cataracts. Cataracts are 
+opacities of the lens that interfere with the optics of 
+the eye but not directly with the nervous system; they 
+are easily removed surgically. In the 1930s, it became 
+apparent that patients who had congenital binocular 
+cataracts removed after the age of 10 years experienced 
+permanent deficits in visual acuity and had difficulties 
+perceiving shape and form. In contrast, when cataracts 
+that develop in adults are removed decades after they 
+form, normal vision returns immediately.
+Likewise, children with strabismus (crossed eyes) 
+do not have normal depth perception (stereopsis), an 
+ability that requires the two eyes to focus on the same 
+location at the same time. They can acquire this abil-
+ity if their eyes are aligned surgically during the first 
+few years of life, but not if surgery occurs later in ado-
+lescence. As a result of these observations, congenital 
+cataracts are now usually removed, and strabismus 
+is corrected surgically, in early childhood. Over the 
+
+

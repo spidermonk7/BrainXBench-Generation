@@ -1,0 +1,791 @@
+===== Page 1 =====
+1308    Part VIII / Learning, Memory, and Cognition
+Unlike most other forms of conditioning, taste aver-
+sion develops even when the unconditioned response 
+(poison-induced nausea) occurs after a long delay, up 
+to hours after the CS (specific taste). This makes bio-
+logical sense because the ill effects of infected foods 
+and naturally occurring toxins usually follow inges-
+tion only after some delay. For most species, including 
+humans, taste-aversion conditioning occurs only when 
+certain tastes are associated with illness. Taste aversion 
+develops poorly if a taste is followed by a painful stim-
+ulus that does not produce nausea. Also, animals do 
+not develop an aversion to a visual or auditory stimu-
+lus that has been paired with nausea.
+Errors and Imperfections in Memory Shed 
+Light on Normal Memory Processes
+Memory allows us to revisit our personal past; pro-
+vides access to a vast network of facts, associations, 
+and concepts; and supports learning and adaptive 
+behavior. But memory is not perfect. We often forget 
+events rapidly or gradually, sometimes distort the 
+past, and occasionally remember events that we would 
+prefer to forget. In the 1930s, the British psychologist 
+Frederic Bartlett reported experiments in which peo-
+ple read and tried to remember complex stories. He 
+showed that people often misremember many features 
+of the stories, often distorting information based on 
+their expectations of what should have happened. For-
+getting and distortion can provide important insights 
+into the workings of memory.
+Memory’s imperfections have been classified 
+into seven basic categories, dubbed the “seven sins of 
+memory”: transience, absent-mindedness, blocking, 
+misattribution, suggestibility, bias, and persistence. 
+Here, we focus on six of these.
+Absent-mindedness results from a lack of attention 
+to immediate experience. Absent-mindedness during 
+encoding is a likely source of common memory fail-
+ures such as forgetting where one recently placed an 
+object. Absent-mindedness also occurs when we forget 
+to carry out a particular task such as picking up grocer-
+ies on the way home from the office, even though we 
+initially encoded the relevant information.
+Blocking refers to a temporary inability to access 
+information stored in memory. People often have par-
+tial awareness of a sought-after word or image but are 
+nonetheless unable to recall the entire word accurately 
+or completely. Sometimes, it feels like a blocked word 
+is on “the tip of the tongue”—we are aware of the ini-
+tial letter of the word, the number of syllables in it, or 
+a like-sounding word. Determining which information 
+is correct and which is incorrect requires a great deal of 
+conscious effort.
+Absent-mindedness and blocking are sins of omis-
+sion: At a moment when we need to remember infor-
+mation, it is inaccessible. However, memory is also 
+characterized by sins of commission, situations in 
+which some form of memory is present but wrong.
+Misattribution refers to the association of a memory 
+with an incorrect time, place, or person. False recogni-
+tion, a type of misattribution, occurs when individu-
+als report that they “remember” items or events that 
+never happened. Such false memories have been docu-
+mented in controlled experiments where people claim 
+to have seen or heard words or objects that had not 
+been presented previously but are similar in meaning 
+or appearance to what was actually presented. Stud-
+ies using positron emission tomography imaging and 
+fMRI have shown that many brain regions show simi-
+lar levels of activity during both true and false recog-
+nition, which may be one reason why false memories 
+sometimes feel like real ones.
+Suggestibility refers to the tendency to incorporate 
+new information into memory, usually as a result of 
+leading questions or suggestions about what may have 
+been experienced. Research using hypnotic suggestion 
+indicates that various kinds of false memories can be 
+implanted in highly suggestible individuals, such as 
+remembering hearing loud noises at night. Studies 
+with young adults have also shown that repeated sug-
+gestions about a childhood experience can produce 
+memories of events that never occurred. These find-
+ings are important theoretically because they highlight 
+that memory is not simply a “playback” of past experi-
+ences (Box 52–1). Despite these important theoretical 
+and practical implications, next to nothing is known 
+about the neural bases of suggestibility.
+Bias refers to distortions and unconscious influ-
+ences on memory that reflect one’s general knowl-
+edge and beliefs. People often misremember the past 
+to make it consistent with what they presently believe, 
+know, or feel. This idea is consistent with the idea of 
+“predictive coding” supported by studies showing 
+that even low-level neural mechanisms of perception 
+and sensation are shaped by expectations. The specific 
+brain mechanisms by which expectations influence 
+memory are not well understood.
+Persistence refers to obsessive memory, constant 
+remembering of information or events that we might 
+want to forget. Neuroimaging studies have illuminated 
+some neurobiological factors that contribute to persis-
+tent emotional memories. Some key results implicate 
+the amygdala, the almond-shaped structure near the 
+hippocampus long known to be involved in emotional 
+
+
+===== Page 2 =====
+Chapter 52 / Learning and Memory    1309
+processing (Chapter 42). Studies indicate that the level 
+of recall of emotional components of a story is corre-
+lated with the level of activity in the amygdala during 
+presentation of the story. Related studies implicate the 
+amygdala in the encoding and retrieval of emotionally 
+charged experiences that can repeatedly intrude into 
+consciousness.
+Although persistence can be disabling, it also has 
+adaptive value. The persistence of memories of dis-
+turbing experiences increases the likelihood that we 
+will recall information about arousing or traumatic 
+events at times when it may be crucial for survival.
+Indeed, many memory imperfections may have 
+adaptive value. False memories and suggestibility 
+may both be related to one of the most basic adaptive 
+functions of memory: the integration of experiences 
+separated in time into a network of learned associa-
+tions. For memory to play an important role in guiding 
+future behavior, it must be flexible so that we can lev-
+erage past experiences to make inferences about future 
+events even when the circumstances have changed. 
+Similarly, although the various forms of forgetting 
+(transience, absent-mindedness, and blocking) can be 
+annoying, a memory system that automatically retains 
+every detail of every experience could result in an over-
+whelming clutter of useless trivia. This is exactly what 
+happened in the fascinating case of Shereshevski, a 
+mnemonist studied by the Russian neuropsychologist 
+Alexander Luria and described in the book The Mind 
+of a Mnemonist. Shereshevski was filled with highly 
+detailed memories of his past experiences but was 
+unable to generalize or to think at an abstract level. A 
+healthy memory system does not encode, store, and 
+retrieve all the details of every experience. Thus, tran-
+sience, absent-mindedness, and blocking allow us to 
+avoid the unfortunate fate of Shereshevski.
+Highlights
+1.	 Different forms of learning and memory can be 
+distinguished behaviorally and neurally. Work-
+ing memory maintains goal-relevant information 
+for short periods. Explicit (or declarative) mem-
+ory involves two classes of knowledge: episodic 
+memory, which represents personal experiences, 
+and semantic memory, which represents general 
+knowledge and facts. Implicit memory includes 
+forms of perceptual and conceptual priming, as 
+well as the learning of motor and perceptual skills, 
+perceptual regularities, and reinforced habits.
+2.	 Encoding, storage, retrieval, and consolidation 
+of new explicit memories depend on interactions 
+between specific regions within the neocortex and 
+medial temporal lobe and specific hippocampal 
+subregions. The initiation of long-term storage of 
+explicit memory requires the temporal lobe sys-
+tem, as highlighted by studies of amnesic patients 
+such as H.M. Consolidation processes stabilize 
+stored representations, rendering explicit memo-
+ries less dependent on the medial temporal lobe. 
+Retrieval of explicit memories involves the medial 
+temporal lobe, as well as frontoparietal networks 
+that subserve attention and cognitive control.
+3.	 Multiple processes interact to support memory-
+guided behavior. Retrieval of episodic memory 
+guides the imagining of future events, which 
+is important for making decisions about future 
+choices and actions. Motivationally significant 
+events are prioritized in memory through the 
+enhancement of encoding, storage, and con-
+solidation processes. Motivation also impacts 
+retrieval, perhaps through different mechanisms 
+of prioritization.
+4.	 Implicit memory emerges automatically in the 
+course of perceiving, thinking, and acting. It 
+tends to be inflexible and expressed in the per-
+formance of tasks even without conscious aware-
+ness. Implicit memory involves a wide variety of 
+brain regions and circuits, including cortical areas 
+that support the specific perceptual, conceptual, 
+or motor systems recruited to process a stimu-
+lus or perform a task, as well as the striatum and 
+the amygdala. Implicit learning that involves the 
+encoding of relational associations additionally 
+involves the hippocampus.
+5.	 Imperfections and errors in remembering provide 
+telltale clues about learning and memory mecha-
+nisms. The past can be forgotten or distorted, indi-
+cating that memory is not a faithful record of all 
+details of every experience. Retrieved memories 
+are the result of a complex interplay among vari-
+ous brain regions and can be reshaped over time 
+by multiple influences. Various forms of forget-
+ting and distortion tell us much about the flexibil-
+ity of memory that allows the brain to adapt to the 
+physical and social environment.
+ Daphna Shohamy 
+  Daniel L. Schacter 
+  Anthony D. Wagner 
+
+
+===== Page 3 =====
+1310    Part VIII / Learning, Memory, and Cognition
+Suggested Reading
+Baddeley AD. 1986. Working Memory. Oxford: Oxford Univ. 
+Press.
+Eichenbaum H. 2017. Prefrontal-hippocampal interactions in 
+episodic memory. Nat Rev Neurosci 18:547–558.
+Eichenbaum H, Cohen NJ. 2001. From Conditioning to Con-
+scious Recollection: Memory Systems of the Brain. Oxford: 
+Oxford Univ. Press.
+Kamin LJ. 1969. Predictability, surprise, attention, and 
+conditioning. In: BA Campbell, RM Church (eds). Pun-
+ishment and Aversive Behavior, pp. 279–296. New York: 
+Appleton–Century–Crofts.
+Kumaran D, Hassabis D, McClelland JL. 2016. What learn-
+ing systems do intelligent agents need? Complemen-
+tary learning systems theory updated. Trends Cog Sci 
+20:512–534.
+Milner B, Squire LR, Kandel ER. 1998. Cognitive neurosci-
+ence and the study of memory. Neuron 20:445–468.
+Schacter DL, Benoit RG, Szpunar KK. 2017. Episodic future 
+thinking: mechanisms and functions. Curr Opin Behav 
+Sci 17:41–50.
+Shohamy D, Turk-Browne NB. 2013. Mechanisms for wide-
+spread hippocampal involvement in cognition. J Exp 
+Psychol Gen 142:1159–1170.
+Tulving E. 1983. Elements of Episodic Memory. Oxford: Oxford 
+Univ. Press.
+Yonelinas AP, Ranganath C, Ekstrom A, Wiltgen B. 2019. A 
+contextual binding theory of episodic memory: systems 
+consolidation reconsidered. Nat Rev Neurosci 20:364–375.
+References
+Adcock RA, Thangavel A, Whitfield-Gabrieli S, Knutson B, 
+Gabrieli JD. 2006. Reward motivated learning: mesolimbic 
+activation precedes memory formation. Neuron 50:507–517.
+Bartlett FC. 1932. Remembering: A Study in Experimental and 
+Social Psychology. Cambridge: Cambridge Univ. Press.
+Blakemore C. 1977. Mechanics of the Mind. Cambridge: 
+Cambridge Univ. Press.
+Brewer JB, Zhao Z, Desmond JE, et al. 1998. Making memo-
+ries: brain activity that predicts how well visual experi-
+ence will be remembered. Science 281:1185–1187.
+Brown TI, Carr VA, LaRocque KF, et al. 2016. Prospective rep-
+resentation of navigational goals in the human hippocam-
+pus. Science 352:1323–1326.
+Corkin S. 2002. What’s new with the amnesic patient H.M.? 
+Nat Rev Neurosci 3:153–160.
+Corkin S, Amaral DG, González RG, et al. 1997. H.M.’s 
+medial temporal lobe lesion: findings from magnetic reso-
+nance imaging. J Neurosci 17:3964–3979.
+Craik FIM, Lockhart RS. 1972. Levels of processing: a frame-
+work for memory research. J Verb Learn Verb Behav 
+11:671–684.
+Duncan K, Doll BB, Daw ND, Shohamy D. 2018. More than 
+the sum of its parts: a role for the hippocampus in con-
+figural reinforcement learning. Neuron 98:646–657.
+Eichenbaum H, Cohen NJ. 2014. Can we reconcile the declar-
+ative memory and spatial navigation views on hippocam-
+pal function? Neuron 83:764–770.
+Eldridge LL, Knowlton BJ, Furmanski CS, et al. 2000. Remem-
+bering episodes: a selective role for the hippocampus dur-
+ing retrieval. Nat Neurosci 3:1149–1152.
+Hebb DO. 1966. A Textbook of Psychology. Philadelphia: Saunders.
+Luria AR. 1968. The Mind of a Mnemonist. New York: Basic 
+Books.
+Naya Y, Yoshida M, Miyashita Y. 2001. Backward spreading 
+of memory-related signal in the primate temporal cortex. 
+Science 291:661–664.
+Nyberg L, Habib R, McIntosh AR, Tulving E. 2000. Reacti-
+vation of encoding-related brain activity during memory 
+retrieval. Proc Natl Acad Sci U S A 97:11120–11124.
+Pavlov IP. 1927. Conditioned Reflexes: Investigation of the 
+Physiological Activity of the Cerebral Cortex. GV Anrep 
+(transl). London: Oxford Univ. Press.
+Penfield W. 1958. Functional localization in temporal and deep 
+sylvian areas. Res Publ Assoc Res Nerv Ment Dis 36:210–226.
+Petrides M. 1994. Frontal lobes and behavior. Curr Opin 
+Neurobiol 4:207–211.
+Poldrack RA, Clark J, Pare-Blagoev EJ, et al. 2001. Interactive 
+memory systems in the human brain. Nature 414:546–550.
+Rainer G, Asaad WF, Miller EK. 1998. Memory fields of neu-
+rons in the primate prefrontal cortex. Proc Natl Acad Sci 
+U S A 95:15008–15013.
+Rescorla RA. 1968. Probability of shock in the presence 
+and absence of CS in fear conditioning. J Comp Physiol 
+Psychol 66:1–5.
+Rescorla RA. 1988. Behavioral studies of Pavlovian condi-
+tioning. Annu Rev Neurosci 11:329–352.
+Schacter DL. 2001. The Seven Sins of Memory: How the Mind 
+Forgets and Remembers. Boston and New York: Houghton 
+Mifflin.
+Schacter DL, Addis DR. 2007. The cognitive neuroscience of 
+constructive memory: remembering the past and imagin-
+ing the future. Philos Trans Roy Soc B 362:773–786.
+Schacter DL, Addis DR, Buckner RL. 2007. Remembering the 
+past to imagine the future: the prospective brain. Nat Rev 
+Neurosci 8:657–661.
+Schacter DL, Guerin SA, St. Jacques PL. 2011. Memory distor-
+tion: an adaptive perspective. Trends Cog Sci 15:467–474.
+Sestieri C, Shulman GL, Corbetta M. 2017. The contribution 
+of the human posterior parietal cortex to episodic mem-
+ory. Nat Rev Neurosci 18:183–192.
+Shohamy D, Adcock RA. 2010. Dopamine and adaptive 
+memory. Trends Cog Sci 14:464–472.
+Skinner BF. 1938. The Behavior of Organisms: An Experimental 
+Analysis. New York: Appleton–Century–Crofts.
+Squire LR. 1987. Memory and Brain. New York: Oxford Univ. 
+Press.
+Thorndike EL. 1911. Animal Intelligence: Experimental Studies. 
+New York: Macmillan.
+Tomita H, Ohbayashi M, Nakahara K, et al. 1999. Top-down 
+signal from prefrontal cortex in executive control of mem-
+ory retrieval. Nature 401:699–703.
+
+
+===== Page 4 =====
+Chapter 52 / Learning and Memory    1311
+Tulving E, Schacter DL. 1990. Priming and human memory 
+systems. Science 247:301–306.
+Uncapher M, Wagner AD. 2009. Posterior parietal cortex and 
+episodic encoding: insights from fMRI subsequent mem-
+ory effects and dual attention theory. Neurobiol Learn 
+Mem 91:139–154.
+Vaidya CJ, Gabrieli JD, Verfaellie M, et al. 1998. Font-specific 
+priming following global amnesia and occipital lobe dam-
+age. Neuropsychology 12:183–192.
+Vaz AP Inati SK, Brunel N, Zaghloul KA. 2019. Coupled 
+ripple oscillations between the medial temporal lobe 
+and neocortex retrieve human memory. Science 363: 
+975–978.
+Wagner AD. 2002. Cognitive control and episodic memory: 
+contributions from prefrontal cortex. In: LR Squire, DL 
+Schacter (eds). Neuropsychology of Memory, 3rd ed., pp. 
+174–192. New York: Guilford Press.
+Wagner AD, Schacter DL, Rotte M, et al. 1998. Building mem-
+ories: remembering and forgetting of verbal experiences 
+as predicted by brain activity. Science 281:1188–1191.
+Wheeler ME, Petersen SE, Buckner RL. 2000. Memory’s echo: 
+vivid remembering reactivates sensory-specific cortex. 
+Proc Natl Acad Sci U S A 97:11125–11129.
+Wimmer GE, Shohamy D. 2012. Preference by association: 
+how memory mechanisms in the hippocampus bias deci-
+sions. Science 338:270–273.
+
+
+===== Page 5 =====
+53
+Cellular Mechanisms of Implicit Memory Storage 
+and the Biological Basis of Individuality
+disturbances of behavior. Behavior is also shaped by 
+experience. How does experience act on the neural 
+circuits of the brain to change behavior? How is new 
+information acquired by the brain, and once acquired, 
+how is it stored, retrieved, and remembered?
+In the previous chapter, we saw that memory is 
+not a single process but has at least two major forms. 
+Implicit memory operates unconsciously and automat-
+ically, as in the memory for conditioned responses, hab-
+its, and perceptual and motor skills, whereas explicit 
+memory operates consciously, as in the memory for 
+people, places, and objects. The circuitry for long-term 
+memory storage differs between explicit and implicit 
+memory. Long-term storage of explicit memory begins 
+in the hippocampus and the medial temporal lobe of 
+the neocortex, whereas long-term storage of different 
+types of implicit memory requires a family of neural 
+structures: the neocortex for priming, the striatum for 
+skills and habits, the amygdala for Pavlovian threat 
+conditioning (also known as fear conditioning), the 
+cerebellum for learned motor skills, and certain reflex 
+pathways for nonassociative learning such as habitua-
+tion and sensitization (Figure 53–1).
+Over time, explicit memories are transferred to differ-
+ent regions of the neocortex. In addition, many cogni-
+tive, motor, and perceptual skills that we initially store 
+as explicit memory ultimately become so ingrained 
+with practice that they become stored as implicit 
+memory. The transference from explicit to implicit mem-
+ory and the difference between them is dramatically 
+demonstrated in the case of the English musician and 
+conductor Clive Waring, who in 1985 sustained a viral 
+infection of his brain (herpes encephalitis) that affected 
+Storage of Implicit Memory Involves Changes in the 
+Effectiveness of Synaptic Transmission
+Habituation Results From Presynaptic Depression of 
+Synaptic Transmission
+Sensitization Involves Presynaptic Facilitation of 
+Synaptic Transmission
+Classical Threat Conditioning Involves Facilitation of 
+Synaptic Transmission
+Long-Term Storage of Implicit Memory Involves Synaptic 
+Changes Mediated by the cAMP-PKA-CREB Pathway
+Cyclic AMP Signaling Has a Role in Long-Term 
+Sensitization
+The Role of Noncoding RNAs in the Regulation of 
+Transcription
+Long-Term Synaptic Facilitation Is Synapse Specific
+Maintaining Long-Term Synaptic Facilitation Requires a 
+Prion-Like Protein Regulator of Local Protein Synthesis
+Memory Stored in a Sensory-Motor Synapse Becomes 
+Destabilized Following Retrieval but Can Be Restabilized
+Classical Threat Conditioning of Defensive Responses in 
+Flies Also Uses the cAMP-PKA-CREB Pathway
+Memory of Threat Learning in Mammals Involves  
+the Amygdala
+Learning-Induced Changes in the Structure of the Brain 
+Contribute to the Biological Basis of Individuality
+Highlights
+T
+hroughout this book we have emphasized that 
+all behavior is a function of the brain and that 
+malfunctions of the brain produce characteristic 
+
+
+===== Page 6 =====
+Chapter 53 / Cellular Mechanisms of Implicit Memory Storage and the Biological Basis of Individuality    1313
+Figure 53–1  Two forms of long-term memory involve dif-
+ferent brain systems. Implicit memory involves the neocortex, 
+striatum, amygdala, cerebellum, and, in the simplest cases, 
+the reflex pathways themselves. Explicit memory requires the 
+medial temporal lobe and the hippocampus, as well as certain 
+areas of neocortex (not shown).
+Two forms of
+long-term memory
+Implicit
+(nondeclarative)
+Explicit
+(declarative)
+Facts
+(semantic)
+Medial temporal lobe
+Medial 
+temporal 
+lobe
+Neocortex
+Striatum
+Amygdala
+Cerebellum
+Emotional
+responses
+Skeletal
+musculature
+Reﬂex pathways
+Events
+(episodic)
+Priming
+Procedural
+(skills and
+habits)
+Associative learning:
+classical and
+operant conditioning
+Nonassociative learning:
+habituation and
+sensitization
+Reﬂex 
+pathways
+Neocortex
+Cerebellum
+Amygdala
+Hippocampus
+Striatum
+the hippocampus and temporal cortex. Waring was 
+left with a devastating loss of memory for events or 
+people he had encountered even a minute or two 
+earlier, but his ability to read music, play the piano, 
+or conduct a chorale was unaffected. Once a perfor-
+mance was completed, however, he could not remem-
+ber a thing about it.
+Similarly, the abstract expressionist painter William 
+de Kooning developed severe disturbances of explicit 
+memory as a result of Alzheimer disease. As the dis-
+ease progressed and his memory for people, places, and 
+objects deteriorated, he nevertheless continued to pro-
+duce important and interesting paintings. This aspect of 
+his creative personality was relatively untouched.
+In this chapter, we examine the cellular and molec-
+ular mechanisms that underlie implicit memory stor-
+age in invertebrate and vertebrate animals. We focus 
+on learning about threats (sometimes called fear learn-
+ing). Implicit memory for motor skills and habits in 
+mammals involving the cerebellum and basal gan-
+glia was considered in Chapters 37 and 38. In the next 
+chapter, we examine the biology of explicit memory in 
+mammals.
+Storage of Implicit Memory Involves Changes 
+in the Effectiveness of Synaptic Transmission
+Studies of elementary forms of implicit learning—
+habituation, sensitization, and classical conditioning—
+provided the conceptual framework for investigating 
+the neural mechanisms of memory storage. Such learn-
+ing has been analyzed in simple invertebrates and in a 
+variety of vertebrate behaviors, such as the flexion and 
+
+
+===== Page 7 =====
+1314    Part VIII / Learning, Memory, Language and Cognition
+eye blink reflexes, and also defensive behaviors such 
+as freezing. These simple forms of implicit memory 
+involve changes in the effectiveness of the synaptic 
+pathways that mediate the behavior.
+Habituation Results From Presynaptic Depression 
+of Synaptic Transmission
+Habituation is the simplest form of implicit learning. It 
+occurs, for example, when an animal learns to ignore 
+a novel stimulus. An animal reacts to a new stimulus 
+with a series of orienting responses. If the stimulus is 
+neither beneficial nor harmful, the animal learns to 
+ignore it after repeated exposure.
+The physiological basis of this behavior was first 
+investigated by Charles Sherrington while studying 
+posture and locomotion in cats. Sherrington observed a 
+decrease in the intensity of certain reflexes in response 
+to repeated electrical stimulation of the motor path-
+ways. He suggested that this decrease, which he called 
+habituation, is caused by diminished synaptic effective-
+ness in the stimulated pathways.
+Habituation was later investigated at the cellular 
+level by Alden Spencer and Richard Thompson. They 
+found close cellular and behavioral parallels between 
+habituation of a spinal flexion reflex in cats (the with-
+drawal of a limb from a noxious stimulus) and habitu-
+ation of more complex human behaviors. They showed 
+that during habituation the strength of the input from 
+local excitatory interneurons onto motor neurons in 
+the spinal cord decreased, whereas the input to the 
+same interneurons from sensory neurons innervating 
+the skin was unchanged.
+Because the organization of interneurons in the 
+vertebrate spinal cord is quite complex, it was difficult 
+to analyze further the cellular mechanisms of habitu-
+ation in the flexion reflex. Progress required a simpler 
+system. The marine mollusk Aplysia californica, which 
+has a simple nervous system of about 20,000 central 
+neurons, proved to be an excellent system for studying 
+implicit forms of memory.
+Aplysia has a repertory of defensive reflexes for 
+withdrawing its respiratory gill and siphon, a small 
+fleshy spout above the gill used to expel seawater and 
+waste (Figure 53–2A). These reflexes are similar to the 
+withdrawal reflex of the leg studied by Spencer and 
+Thompson. Mild touching of the siphon elicits reflex 
+withdrawal of both the siphon and gill. With repeated 
+stimulation, these reflexes habituate. As we shall see, 
+these responses can also be dishabituated, sensitized, 
+and classically conditioned.
+The neural circuit mediating the gill-withdrawal 
+reflex in Aplysia has been studied in detail. Touching 
+the siphon excites a population of mechanoreceptor 
+sensory neurons that innervate the siphon. The release 
+of glutamate from sensory neuron terminals gener-
+ates fast excitatory postsynaptic potentials (EPSPs) 
+in interneurons and motor cells. The EPSPs from the 
+sensory cells and interneurons summate on motor 
+cells both temporally and spatially, causing them to 
+discharge strongly, thereby producing vigorous with-
+drawal of the gill. If the siphon is repeatedly touched, 
+however, the monosynaptic EPSPs produced by sen-
+sory neurons in both interneurons and motor cells 
+decrease progressively, paralleling the habituation 
+of gill withdrawal. In addition, repeated stimulation 
+also leads to a decrease in the strength of synaptic 
+transmission from the excitatory interneurons to the 
+motor neurons; the net result is that the reflex response 
+diminishes (Figure 53–2B,C).
+What reduces the effectiveness of synaptic trans-
+mission between the sensory neurons and their post-
+synaptic cells during repeated stimulation? Quantal 
+analysis (Chapter 15) revealed that the amount of syn-
+aptic glutamate released from presynaptic terminals 
+of sensory neurons decreases. That is, fewer synaptic 
+vesicles are released with each action potential in the 
+sensory neuron; the sensitivity of the postsynaptic glu-
+tamate receptors does not change. Because the reduc-
+tion in transmission occurs in the activated pathway 
+itself and does not require another modulatory cell, the 
+reduction is referred to as homosynaptic depression. This 
+depression lasts many minutes.
+An enduring change in the functional strength 
+of synaptic connections thus constitutes the cellu-
+lar mechanism mediating short-term habituation. As 
+change of this type occurs at several sites in the gill-
+withdrawal reflex circuit, memory is distributed and 
+stored throughout the circuit. Depression of synaptic 
+transmission by sensory neurons, interneurons, or 
+both is a common mechanism underlying habituation 
+of escape responses of crayfish and cockroaches as well 
+as startle reflexes in vertebrates.
+How long can the effectiveness of a synapse 
+change last? In Aplysia, a single session of 10 stimuli 
+leads to short-term habituation of the withdrawal 
+reflex lasting minutes. Four sessions separated by 
+periods ranging from several hours to 1 day produce 
+long-term habituation, lasting as long as 3 weeks  
+(Figure 53–3).
+Anatomical studies indicate that long-term habit-
+uation is caused by a decrease in the number of syn-
+aptic contacts between sensory and motor neurons. 
+In naïve animals, 90% of the sensory neurons make 
+physiologically detectable connections with identi-
+fied motor neurons. In contrast, in animals trained for 
+
+
+===== Page 8 =====
+Chapter 53 / Cellular Mechanisms of Implicit Memory Storage and the Biological Basis of Individuality    1315
+Figure 53–2  Short-term habituation of the gill-withdrawal 
+reflex of the marine snail Aplysia.
+A. A dorsal view of Aplysia illustrates the respiratory organ (gill) 
+and the mantle shelf, which ends in the siphon, a fleshy spout 
+used to expel seawater and waste. Touching the siphon elicits the 
+gill-withdrawal reflex. Repeated stimulation leads to habituation.
+B. Simplified diagrams of the gill-withdrawal reflex circuit and 
+sites involved in habituation. Approximately 24 mechanorecep-
+tor neurons in the abdominal ganglion innervate the siphon 
+skin. These sensory cells make excitatory synapses onto a clus-
+ter of six motor neurons that innervate the gill, as well as on 
+interneurons that modulate the firing of the motor neurons. (For 
+simplicity, only one of each type of neuron is illustrated here.) 
+Touching the siphon leads to withdrawal of the gill (dashed 
+outline shows original gill size; solid outline shows maximal 
+withdrawal).
+C. Repeated stimulation of the siphon sensory neuron (top 
+traces) leads to a progressive depression of synaptic transmis-
+sion between the sensory and motor neurons. The size of the 
+motor neuron excitatory postsynaptic potential (EPSP) gradually 
+decreases despite no change in the presynaptic action potential 
+(AP). In a separate experiment, repeated stimulation of the 
+siphon results in a decrease in gill withdrawal (habituation). 
+One hour after repetitive stimulation, both the EPSP and gill 
+withdrawal have recovered. Habituation involves a decrease in 
+transmitter release at many synaptic sites throughout the reflex 
+circuit. (Adapted, with permission, from Pinsker et al. 1970; 
+Castellucci and Kandel 1974.)
+B  Gill-withdrawal reﬂex circuit
+C  Habituation
+Control
+Habituated
+Sensory
+neuron
+Interneuron
+Siphon
+Motor
+neuron
+Gill
+Stimulus
+AP
+EPSP
+Gill
+withdrawal
+1 h
+rest
+60 ms
+2 mV
+20 mV
+Siphon
+Mantle 
+shelf
+Tactile
+stimulus
+A  Experimental setup
+Respiratory
+organ (gill)
+Stimulus
+Stimulus
+Recovery
+10 s
+long-term habituation, the incidence of connections is 
+reduced to 30%; the reduction in number of synapses 
+persists for a week and does not fully recover even 
+3 weeks later (see Figure 53–9). As we shall see, the 
+converse occurs with long-term sensitization, where 
+synaptic transmission is associated with an increase in 
+the number of synapses between sensory and motor 
+neurons.
+Not all classes of synapses are equally modifi-
+able. In Aplysia, the strength of some synapses rarely 
+changes, even with repeated activation. In synapses 
+specifically involved in learning (such as the connec-
+tions between sensory and motor neurons in the with-
+drawal reflex circuit), a relatively small amount of 
+training can produce large and enduring changes in 
+synaptic strength.
+
+
+===== Page 9 =====
+1316    Part VIII / Learning, Memory, Language and Cognition
+Sensory
+neuron
+Motor
+neuron
+A  Depression of synaptic potentials by long-term habituation
+Control
+Habituated (1 week)
+B  Inactivation of synaptic connections by long-term habituation
+50 ms
+10 mV
+5 mV
+0
+100
+80
+60
+Mean percent of detectable connections
+40
+20
+1 day
+Control
+1 week
+Habituated
+3 weeks
+Figure 53–3  Long-term habituation of the gill-withdrawal 
+reflex in Aplysia. (Adapted, with permission, from Castellucci, 
+Carew, and Kandel 1978.)
+A. Comparison of action potentials in sensory neurons and the 
+postsynaptic potential in motor neurons in an untrained animal 
+(control) and one that has been subjected to long-term habitua-
+tion. In the habituated animal 1 week after training, no synaptic 
+potential occurs in the motor neuron in response to the sen-
+sory neuron action potential.
+B. After long-term habituation training, the mean percentage of 
+sensory neurons making physiologically detectable connections 
+with motor neurons is reduced even at 3 weeks.
+Sensitization Involves Presynaptic Facilitation of 
+Synaptic Transmission
+The ability to recognize and respond to danger is nec-
+essary for survival. Not only snails and flies, but all 
+animals, including humans, must distinguish preda-
+tors from prey and hostile environments from safe 
+ones. Because the ability to respond to threats is a 
+universal requirement of survival, it has been con-
+served throughout evolution, allowing studies of 
+invertebrates to shed light on neural mechanisms in 
+mammals.
+At the beginning of the 20th century, both Freud 
+and Pavlov appreciated that anticipatory defensive 
+responses to danger signals are biologically adaptive, 
+a fact that likely accounts for the profound conserva-
+tion of this capacity throughout vertebrates and inver-
+tebrates. In the laboratory, threat (fear) conditioning 
+is typically studied by presenting a neutral stimulus, 
+such as a tone, prior to the onset of an aversive stimu-
+lus, such as electrical shock. The two stimuli become 
+associated such that the tone leads to the elicitation 
+of defensive behaviors that protect against the harm-
+ful consequences predicted by the tone. Freud called 
+this “signal anxiety,” which prepares the individual 
+for fight or flight when there is even the suggestion of 
+external danger.
+When an animal repeatedly encounters a harmless 
+stimulus, its responsiveness to the stimulus habituates, 
+as seen above. In contrast, when the animal confronts 
+a harmful stimulus, it typically learns to respond more 
+vigorously to a subsequent presentation of the same 
+stimulus. Presentation of a harmful stimulus can even 
+cause an animal to mount a defensive response to a 
+subsequent harmless stimulus. As a result, defensive 
+reflexes for withdrawal and escape become height-
+ened. This enhancement of reflex responses is called 
+sensitization.
+Like habituation, sensitization can be transient or 
+long lasting. A single shock to the tail of an Aplysia pro-
+duces short-term sensitization of the gill-withdrawal 
+reflex that lasts minutes; five or more shocks to the tail 
+produce sensitization lasting days to weeks. Tail shock 
+is also sufficient to overcome the effects of habituation 
+and enhance a habituated gill-withdrawal reflex, a 
+process termed dishabituation.
+Sensitization and dishabituation result from an 
+enhancement in synaptic transmission at several con-
+nections in the neural circuit of the gill-withdrawal 
+reflex, including the connections made by sensory neu-
+rons with motor neurons and interneurons—the same 
+synapses depressed by habituation (Figure 53–4A). 
+Typically, modifiable synapses can be regulated 
+bidirectionally, participate in more than one type of 
+learning, and store more than one type of memory. The 
+bidirectional synaptic changes that underlie habitu-
+ation and sensitization are the result of different cel-
+lular mechanisms. In Aplysia, the same synapses that 
+are weakened by habituation through a homosynaptic 
+process can be strengthened by sensitization through 
+a heterosynaptic process that depends on modulatory 
+
+

@@ -1,0 +1,849 @@
+===== Page 1 =====
+348    Part III / Synaptic Transmission
+Synaptotagmin
+Snap-25
+Synaptobrevin
+Synaptobrevin
+Synaptotagmin
+Syntaxin
+Syntaxin
+Complexin
+N
+C
+C2A
+C2B
+C2A
+C2B
+Synaptic 
+vesicle
+membrane
+A
+B1  Calcium-bound synaptotagmin
+B2  Synaptotagmin/SNARE complex
+C
+Ca2+
+Extracellular 
+side
+Cytoplasmic
+side
+1
+2
+Wild-type
+Locked
+Unlocking and triggering
+Fusion pore formation
+Mutant lacking
+synaptotagmin
+50 ms
+160 pA
+50 ms
+40 pA
+Complexin
+VM
+PM
+VM
+PM
+Ca2+
+C2A
+C2B
+C2A
+Ca2+
+SNAP-25
+
+
+===== Page 2 =====
+Chapter 15 / Transmitter Release    349
+Figure 15–13   (Opposite) Synaptotagmin mediates Ca2+-
+dependent transmitter release by forming a protein com-
+plex that favors vesicle fusion.
+A. Fast Ca2+-triggered transmitter release is absent in mutant 
+mice lacking synaptotagmin-1. Recordings show excitatory 
+postsynaptic currents evoked in vitro by stimulation of cul-
+tured hippocampal neurons from wild-type mice and from 
+mutant mice in which synaptotagmin-1 has been deleted by 
+homologous recombination (1). Neurons from wild-type mice 
+show large, fast excitatory postsynaptic currents evoked by 
+presynaptic action potentials, reflecting the fact that synaptic 
+transmission is dominated by the rapid synchronous release 
+of transmitter from a large number of synaptic vesicles. In 
+the bottom trace (2), where the synaptic current is shown at 
+a highly expanded scale, one can see that a small, prolonged 
+phase of asynchronous release of transmitter follows the fast 
+phase of synchronous release. During this slow phase, there 
+is a prolonged increase in frequency of individual quantal 
+responses. In neurons from a mutant mouse, a presynaptic 
+action potential triggers only the slow asynchronous phase 
+of release; the rapid synchronous phase has been abolished. 
+(Reproduced, with permission, from Geppert et al., 1994).
+B. The X-ray crystal structure synaptotagmin. B1. A ribbon dia-
+gram shows that the C2A domain binds three Ca2+ ions and the 
+C2B domain two Ca2+ ions. The blue arrows show β-strands. 
+There are two short α-helixes (orange) at the C-terminus of the 
+C2B domain. The structures of the other regions of synaptotag-
+min have not yet been determined and are drawn here for illustra-
+tive purposes. The membrane and structures are drawn to scale. 
+(Adapted, with permission, from Fernandez et al., 2001). B2. The 
+X-ray crystal structure of synaptotagmin (light blue) bound to 
+the SNARE complex (synaptobrevin, syntaxin and SNAP-25) and 
+complexin. The transmembrane domain of synaptotagmin is not 
+shown. (Adapted, with permission, from Zhou et al, 2017.)
+C. Zippering of the synaptotagmin-complexin-SNARE complex 
+mediates vesicle fusion. Top, in the absence of Ca2+, the α-helixes 
+of the SNARE complex and complexin, with the bound synap-
+totagmin, are only partially zippered. Middle, binding of Ca2+ to the 
+C2A and C2B domains of synaptotagmin allows them to interact 
+with the plasma membrane, applying force to bring the vesicle 
+and plasma membranes closer together. Bottom, synaptotagmin-
+mediated proximity and the final zippering of the complexin-
+SNARE-synaptotagmin complex triggers membrane fusion. 
+(Adapted, with permission, from Zhou et al., 2017.)
+exocytosis at the active zone. Other types of exocytosis, 
+such as that which occurs in the adrenal medulla, do not 
+require a specialized domain of the plasma membrane. 
+The active zone is thought to coordinate and regulate the 
+docking and priming of synaptic vesicles to enable 
+the speed and tight regulation of release. This is accom-
+plished through a conserved set of proteins that form 
+one large macromolecular structure at active zones.
+An exquisitely detailed view of the active zone at 
+the frog neuromuscular junction was obtained by Jack 
+MacMahan using a powerful ultrastructural technique 
+called electron microscopic tomography. This tech-
+nique has shown how synaptic vesicles are tethered to 
+the membrane by a series of distinctive structural enti-
+ties, termed ribs and beams, that attach to defined sites 
+on the vesicles and to particles (pegs) in the presynaptic 
+membrane that may correspond to voltage-gated Ca2+ 
+channels (Figure 15–14).
+A key goal in understanding how the various 
+synaptic vesicle and active zone proteins are coordi-
+nated during exocytosis is to match up the various 
+proteins that have been identified with elements of 
+this electron microscopic structure. Several cytoplas-
+mic proteins have been identified that are thought 
+to be components of a structural matrix at the active 
+zone. These include three large cytoplasmic multid-
+omain proteins, Munc13 (not related to the Munc18 
+protein discussed earlier), RIM, and RIM-binding 
+proteins (RIM-BPs), which form a tight complex with 
+each other and may comprise part of the ribs and 
+beams. The binding of synaptic vesicles to RIM and 
+Munc13 is essential for priming the vesicles for exo-
+cytosis. Phosphorylation of RIM by cAMP-dependent 
+protein kinase is implicated in the enhancement of 
+transmitter release associated with certain forms of 
+long-term synaptic plasticity that may contribute to 
+learning and memory. As we will see later, regula-
+tion of Munc13 by second messengers is involved in 
+shorter-term forms of synaptic plasticity.
+RIM binds the synaptic vesicle proteins Rab3 and 
+Rab27, members of the family of low-molecular-weight 
+guanosine triphosphatases (GTPases). Rab3 and Rab27 
+proteins transiently associate with synaptic vesicles as 
+a GTP-bound Rab3 complex (Figure 15–11B). The bind-
+ing of RIM to Rab3 or Rab27 is thought to tether synap-
+tic vesicles to the active zone during the vesicle cycle 
+prior to SNARE-complex assembly. Moreover, RIM 
+and RIM-BP together mediate the recruitment of Ca2+ 
+channels to the active zone, allowing tight coupling of 
+Ca2+ influx to vesicle release. This general machinery is 
+conserved through evolution and is present in inverte-
+brates, although with modifications.
+At the Drosophila neuromuscular junction, Sigrist 
+and colleagues identified another protein, Bruchpilot, 
+as a major component of the electron-dense active zone 
+“T-bar” structure; Bruchpilot is associated with the fly 
+homolog of RIM-binding protein, which also serves 
+to recruit Ca2+ channels to active zones in Drosophila. 
+As coordinators of both presynaptic Ca2+ channels and 
+synaptic vesicles, these proteins act as essential regula-
+tors of presynaptic release in the fly. In Caenorhabditis 
+elegans, RIM plays a central role for the same processes.
+
+
+===== Page 3 =====
+350    Part III / Synaptic Transmission
+Modulation of Transmitter Release Underlies 
+Synaptic Plasticity
+The effectiveness of chemical synapses can be modu-
+lated dramatically and rapidly—by several-fold in a 
+matter of seconds—and this change can be maintained 
+for seconds, to hours, or even days or longer, a prop-
+erty called synaptic plasticity.
+Synaptic strength can be modified presynaptically, 
+by altering the release of neurotransmitter, postsynap-
+tically, by modulating the response to transmitter (as 
+discussed in Chapter 13), or both. Long-term changes 
+in presynaptic and postsynaptic mechanisms are cru-
+cial for the refinement of synaptic connections during 
+development (Chapter 49) and for storing informa-
+tion during learning and memory (Chapters 53 and 
+54). Here, we focus on how synaptic strength can be 
+changed through modulation of the amount of trans-
+mitter released. In principle, changes in transmitter 
+release can be mediated by two different mechanisms: 
+changes in Ca2+ influx or changes in the amount of 
+transmitter released in response to a given Ca2+ con-
+centration. As we will see later, both types of mecha-
+nisms contribute to different forms of plasticity.
+Synaptic strength is often altered by the pattern 
+of activity of the presynaptic neuron. Trains of action 
+potentials produce successively larger postsynaptic 
+currents at some synapses and successively smaller 
+currents in others (Figure 15–15A). A decrease in the 
+size of the postsynaptic response to repeated stimula-
+tion is referred to as synaptic depression (Figure 15–15A, 
+upper); the opposite, enhancement of transmission 
+with repeated stimulation, is called synaptic facilitation 
+or potentiation (Figure 15–15A, lower, 15–15E). Various 
+synapses exhibit these disparate forms of short-term 
+synaptic plasticity—sometimes overlapping and some-
+times with one predominating—resulting in charac-
+teristic patterns of short-term dynamics in individual 
+synapse types (Figure 15–15A).
+Whether a synapse facilitates or depresses often is 
+determined by the probability of release in response 
+to the first action potential of a train. Synapses with 
+an initial high probability of release normally undergo 
+depression because the high rate of release transiently 
+depletes docked vesicles at the active zone. Synapses 
+with an initial low probability of release undergo syn-
+aptic facilitation, in part because the buildup in intra-
+cellular Ca2+ during the train increases the probability 
+of release (see later). The importance of release prob-
+ability in controlling the sign of plasticity can be seen 
+by the effect of genetic mutations. Synapses formed by 
+hippocampal neurons in cell culture have an initially 
+high release probability and so normally depress in 
+Figure 15–14  Synaptic vesicles at the active zone. The 
+images are obtained from electron microscopic tomogra-
+phy. (Reproduced, with permission, from Harlow et al. 2001. 
+Copyright © 2001 Springer Nature.)
+A. Vesicles are tethered to filamentous proteins of the active 
+zone. Three distinct filamentous structures are resolved: pegs, 
+ribs, and beams. Ribs protruding from the vesicles are attached 
+to long horizontal beams, which are anchored to the membrane 
+by vertical pegs.
+B. Ribs and beams superimposed on a freeze fracture view of 
+intramembranous particles at the active zone show how the 
+ribs are aligned with the particles, some of which are presumed 
+to be voltage-gated Ca2+ channels. Scale bar = 100 nm.
+C. A model for the structure of the active zone shows the rela-
+tion between synaptic vesicles, pegs, ribs, and beams.
+Beams Ribs
+Pegs
+A
+B
+C
+
+
+===== Page 4 =====
+Chapter 15 / Transmitter Release    351
+response to 20-Hz stimulation. However, a mutation 
+that reduces by approximately two-fold the Ca2+-
+binding affinity of synaptotagmin-1, thus reducing the 
+initial probability of release, converts the depressing 
+synapse into a facilitating one (Figure 15–15B).
+Mechanisms that affect the concentration of free 
+Ca2+ in the presynaptic terminal also affect the amount 
+of transmitter released. For example, the buildup of 
+inactivation of certain voltage-gated K+ channels during 
+high-frequency firing leads to a gradual increase in the 
+duration of the action potential. Prolongation of the action 
+potential increases the time that voltage-gated Ca2+ chan-
+nels stay open, which leads to enhanced entry of Ca2+ and 
+a subsequent increase in transmitter release, resulting in a 
+larger postsynaptic potential (Figure 15–15C). 
+Most studies of the functional implications of short-
+term synaptic dynamics have been performed in vitro 
+or are based on computational results. However, recent 
+in vivo experiments are beginning to shed light on 
+the behavioral importance of short-term plasticity. For 
+example, in vivo recordings in rodents from thalamocor-
+tical synapses have suggested that synaptic depression 
+may contribute to sensory adaptation during repeated 
+whisker stimulation. The time course of this sensory 
+adaptation parallels the attenuation of cortical spiking 
+to whisker stimulation and the synaptic depression of 
+EPSPs at thalamocortical synapses (Figure 15–15D).
+High-frequency stimulation of the presynaptic 
+neuron, which in some cells can generate up to 500 
+to 1,000 action potentials per second, is called tetanic 
+stimulation. Such intense stimulation can cause dra-
+matic changes in synaptic strength. The increase in 
+size of the EPSP during tetanic stimulation is called 
+potentiation; the increase that persists after tetanic 
+stimulation is called posttetanic potentiation (Figure 
+15–15E). In contrast to synaptic facilitation, which 
+lasts milliseconds to seconds, posttetanic potentiation 
+usually lasts several minutes, but it can persist for an 
+hour or more at some synapses.
+Synapses utilize a complex containing Munc13 and 
+RIM, two of the active zone proteins discussed earlier, 
+to counteract vesicle depletion during high-frequency 
+stimulation. The rise in presynaptic Ca2+ during tetanic 
+stimulation activates phospholipase C, which pro-
+duces inositol 1,4,5-trisphosphate (IP3) and diacylg-
+lycerol. Diacylglycerol directly interacts with a protein 
+domain on Munc13 called the C1 domain (homologous 
+to the diacylglycerol-binding domain in protein kinase 
+C but distinct from the C2 domain of synaptotagmin), 
+thereby accelerating the rate of synaptic vesicle recy-
+cling. At the same time, IP3 causes additional release of 
+Ca2+ from intracellular stores, and the increase in Ca2+ 
+further activates Munc13 by binding to its C2 domain, 
+which resembles the C2 domain of synaptotagmin but 
+acts as an agent of short-term synaptic plasticity.
+Activity-Dependent Changes in Intracellular  
+Free Calcium Can Produce Long-Lasting  
+Changes in Release
+Several Ca2+-dependent mechanisms contribute to 
+longer-lasting changes in transmitter release that per-
+sist after a high-frequency tetanus is terminated. Nor-
+mally the rise in Ca2+ in the presynaptic terminal in 
+response to an action potential is rapidly buffered by 
+cytoplasmic Ca2+-binding proteins and mitochondria. 
+Calcium ions are also actively transported out of the 
+neuron by pumps and transporters. However, during 
+tetanic stimulation, so much Ca2+ flows into the axon 
+terminals that the Ca2+ buffering and clearance systems 
+can become saturated.
+This leads to a temporary excess of Ca2+ called 
+residual Ca2+. The residual free Ca2+ enhances synaptic 
+transmission for many minutes or longer by activating 
+certain enzymes that are sensitive to enhanced levels 
+of resting Ca2+, including the Ca2+/calmodulin-dependent 
+protein kinases. Activation of such Ca2+-dependent 
+enzymatic pathways is thought to increase the prim-
+ing of synaptic vesicles in the terminals. Here, then, is 
+the simplest kind of cellular memory! The presynaptic 
+cell can store information about the history of its activ-
+ity in the form of residual free Ca2+ in its terminals (or 
+residual Ca2+ bound to sensor proteins).
+This Ca2+ acts by multiple pathways that have dif-
+ferent half-times of decay. In Chapter 13, we saw how 
+posttetanic potentiation at certain synapses is followed 
+by an even longer-lasting process (also initiated by 
+Ca2+ influx), called long-term potentiation, which can 
+last for many hours or even days. The importance of 
+long-term potentiation for learning and memory will 
+be considered in Chapters 53 and 54.
+Axo-axonic Synapses on Presynaptic Terminals 
+Regulate Transmitter Release
+Synapses are formed on axon terminals as well as the cell 
+body and dendrites of neurons (see Chapter 13). Although 
+axosomatic synaptic actions affect all branches of the 
+postsynaptic neuron’s axon (because they affect the prob-
+ability that the neuron will fire an action potential), axo-
+axonic actions selectively control individual terminals of 
+the axon. One important action of axo-axonic synapses 
+is to increase or decrease Ca2+ influx into the presynaptic 
+terminals of the postsynaptic cell, thereby enhancing or 
+depressing transmitter release, respectively.
+As we saw in Chapter 13, when one neuron releases 
+transmitter that hyperpolarizes the cell body (or 
+
+
+===== Page 5 =====
+352    Part III / Synaptic Transmission
++40
+Tetanic stimulation
+Poten-
+tiation
+Posttetanic
+potentiation
+Presynaptic
+action
+potentials 
+(mV)
+Postsynaptic
+membrane
+potential 
+(mV)
+0
+–65
+2.5
+1.0
+0
+E
+D
+B
+A
+C
+1s
+50 ms
+Whisker
+Barrel cortex
+Thalamus
+20 mV
+50 ms
+2 pA
+400 pA
+40 ms
+1 nA
+200 pA
+100 mV
+100th
+100th
+100th
+1st
+1st
+1st
+Vcomm
+CF
+WT
+Syt1
+mutant
+Normalized EPSCs
+PF
+EPSCs
+ICa
+1s
+1 2 3
+4
+1
+2
+3
+4
+1ms
+Thalamus
+Barrel
+cortex
+Barrel
+cortex
+Whisker
+
+
+===== Page 6 =====
+Chapter 15 / Transmitter Release    353
+Figure 15–15  (Opposite) Diversity of short-term plasticity in 
+the central nervous system.
+A. Excitatory postsynaptic currents (EPSCs) were recorded 
+from a cerebellar Purkinje neuron under voltage clamp in 
+response to repetitive stimulation of either the climbing fiber 
+(CF) or parallel fiber (PF) inputs to the Purkinje cells. In both 
+cases EPSCs were recorded while afferents were stimulated 10 
+times at 50 Hz. Note that the CF EPSC depresses whereas the 
+PF EPSC facilitates during repetitive stimulation. (Reproduced, 
+with permission, from Dittman et al. 2000. Copyright © 2000 
+Society for Neuroscience.)
+B. EPSCs were recorded from hippocampal neurons in culture 
+during stimulation at 20 Hz. EPSC size was normalized by 
+dividing each response by peak amplitude of first EPSC in each 
+individual train. The EPSC depresses in neurons cultured from 
+wild-type mice (WT) whereas the EPSC facilitates in neurons 
+from mice harboring a mutated form of synaptotagmin-1 that 
+reduces its Ca2+ binding affinity (Syt1 mutant, R233Q). (Repro-
+duced, with permission, from Fernandez-Chacon et al. 2001. 
+Copyright © 2001 Springer Nature.)
+C. The action potential recorded at the presynaptic terminals of 
+dentate gyrus granule neurons broadens progressively during a 
+2-s long train of 50 Hz stimulation. This results in enhanced syn-
+aptic transmission from the granule neurons onto their CA3 post-
+synaptic target. The 1st, 25th, 50th, and 100th action potentials 
+are shown. These action potential waveforms were then used as 
+the command waveforms (Vcomm, top) to voltage clamp the 
+presynaptic nerve terminal (“action potential clamp”), eliciting the 
+voltage-gated Ca2+ current (ICa) recorded in the terminal (middle) 
+and the EPSCs in a postsynaptic CA3 neuron (bottom). As the 
+action potential, waveform increases in duration, the duration of 
+ICa increases, increasing the amplitude of the EPSCs. (Adapted, 
+with permission, from Geiger and Jonas, 2000. Copyright © 2000 
+Cell Press.)
+D. Simultaneous extracellular multiunit recordings of action 
+potentials from thalamus and barrel cortex (second and third 
+traces from top) during a train of 4-Hz mechanical stimulation of 
+the primary whisker (top trace). Cortical and thalamic responses 
+both depress during stimulation, although cortical responses 
+depress faster. Intracellular voltage responses of a cortical 
+neuron in a whisker barrel to 4-Hz stimulation of the primary 
+whisker (bottom two traces). The first of the two traces shows 
+responses to successive whisker stimuli in one train. Time scale 
+same as top traces. The bottom trace shows an expanded view 
+of the first four responses to whisker stimulation in three sepa-
+rate trains. Note there is variability from trial to trial in the spiking 
+responses to the second and third stimuli in the train, likely due 
+to the probabilistic nature of transmitter release. (Reproduced 
+from Chung et al. 2002. Copyright © 2002 Cell Press.)
+E. A brief burst of high-frequency stimulation leads to sustained 
+enhancement in transmitter release. The time scale of the experi-
+mental records here has been compressed (each presynaptic and 
+postsynaptic potential appears as a single line indicating its ampli-
+tude). A stable excitatory postsynaptic potential (EPSP) of around 
+1 mV is produced when the presynaptic neuron is stimulated at a 
+relatively low rate of one action potential per second. The presyn-
+aptic neuron is then stimulated for a few seconds at a higher rate 
+of 50 action potentials per second. During this tetanic stimula-
+tion, the EPSP increases in size because of enhanced transmit-
+ter release, a phenomenon known as potentiation. After several 
+seconds of stimulation, the presynaptic neuron is returned to the 
+initial rate of stimulation (one per second). However, the EPSPs 
+remain enhanced for minutes and, in some cells, for several hours. 
+This persistent increase is called posttetanic potentiation.
+dendrites) of another, it decreases the likelihood that the 
+postsynaptic cell will fire; this action is called postsynaptic 
+inhibition. In contrast, when a neuron forms synapses on 
+the axon terminal of another cell, it can reduce the amount 
+of transmitter that will be released by the postsynaptic 
+cell onto a third cell; this action is called presynaptic inhibi-
+tion (Figure 15–16A). Other axo-axonic synaptic actions 
+can increase the amount of transmitter released by the 
+postsynaptic cell; this action is called presynaptic facilita-
+tion (Figure 15–16B). Both presynaptic inhibition and 
+facilitation can occur in response to activation of iono-
+tropic or metabotropic receptors in the membrane of the 
+presynaptic terminals.
+The best-analyzed mechanisms of presynaptic inhi-
+bition and facilitation are found in invertebrate neurons 
+and vertebrate mechanoreceptor neurons (whose axons 
+project to neurons in the spinal cord). Three mecha-
+nisms for presynaptic inhibition have been identified 
+in these cells. One depends on the activation of inhibi-
+tory interneurons that form axo-axonic synapses on 
+the sensory neuron presynaptic terminals, where they 
+activate ionotropic GABAA receptor-channels. Because 
+the Cl− reversal potential in the presynaptic terminals is 
+relatively positive, the increased Cl− conductance result-
+ing from activation of GABAA channels depolarizes the 
+presynaptic terminal. This voltage change, termed the 
+primary afferent depolarization, is thought to inactivate 
+voltage-gated Na+ channels, reducing the amplitude of 
+the presynaptic action potential, which decreases the 
+activation of voltage-gated Ca2+ channels and thereby 
+decreases the amount of transmitter release.
+The other two mechanisms for presynaptic inhibi-
+tion both result from the activation of presynaptic G 
+protein–coupled metabotropic receptors. One type of 
+action results from the modulation of ion channels. 
+As we saw in Chapter 14, the βγ-subunit complex of G 
+proteins can simultaneously close voltage-gated Ca2+ 
+channels and open K+ channels. This decreases the influx 
+of Ca2+ and enhances repolarization of the presynaptic 
+terminal following an action potential, thus diminish-
+ing transmitter release. A second type of G protein–
+dependent action depends on a direct action by the 
+βγ-subunit complex on the release machinery itself, inde-
+pendent of any changes in ion channel activity or Ca2+ 
+influx. This second action is thought to involve a decrease 
+in the Ca2+ sensitivity of the release machinery.
+In contrast, presynaptic facilitation can be caused 
+by enhanced influx of Ca2+. In certain molluscan neu-
+rons, serotonin acts through cAMP-dependent protein 
+phosphorylation to close K+ channels in the presynaptic 
+
+
+===== Page 7 =====
+354    Part III / Synaptic Transmission
+terminal (including the Aplysia S-type K+ channel 
+discussed in Chapter 14). This action increases the 
+duration of the presynaptic action potential, thereby 
+increasing Ca2+ influx by enabling the voltage-dependent 
+Ca2+ channels to remain open for a longer period. In 
+other cells, activation of presynaptic ionotropic recep-
+tors increases transmitter release. Activation of pre-
+synaptic Ca2+-permeable ionotropic receptor-channels, 
+including presynaptic NMDA-type glutamate recep-
+tors, can increase release by directly enhancing Ca2+ 
+influx. Activation of presynaptic ionotropic receptor-
+channels that are not permeable to Ca2+ can indirectly 
+increase presynaptic Ca2+ levels by depolarizing the 
+terminal and activating voltage-gated Ca2+ channels.
+Thus, presynaptic terminals are endowed with a 
+variety of mechanisms that allow for the fine-tuning 
+of the strength of synaptic transmission. Although we 
+know a fair amount about the mechanisms of short-
+term changes in synaptic strength—changes that last 
+seconds, minutes, and hours—we are only beginning 
+to learn about their functional roles. The mechanisms 
+that support changes that persist for days, weeks, 
+and longer also remain mysterious. These long-term 
+changes often require alterations in gene expression 
+and growth of presynaptic and postsynaptic structures 
+in addition to alterations in Ca2+ influx and enhance-
+ment of transmitter release from existing terminals. 
+We will discuss how such changes may contribute to 
+different forms of long-term learning and memory in 
+Chapters 53 and 54.
+Highlights
+  1.  Chemical neurotransmission is the primary 
+mechanism by which neurons communicate, and 
+process information; it occurs throughout the 
+nervous system. Release of neurotransmitter is 
+Figure 15–16  Axo-axonic synapses can inhibit or facilitate 
+transmitter release by the presynaptic cell.
+A. An inhibitory neuron (c1) forms a synapse on an axon terminal 
+of neuron a. Release of transmitter by cell c1 activates metabo-
+tropic receptors on the terminal, thus inhibiting the Ca2+ current in 
+the terminal and reducing the amount of transmitter released by 
+cell a onto cell b. The reduction of transmitter release from cell a in 
+turn reduces the amplitude of the excitatory postsynaptic potential 
+in cell b, a process termed presynaptic inhibition.
+B. A facilitating neuron (c2) forms a synapse on an axon ter-
+minal of neuron a. Release of transmitter by cell c2 activates 
+metabotropic receptors on the terminal, thus decreasing a 
+K+ current in the terminals and thereby prolonging the action 
+potential and increasing Ca2+ influx into cell a. This increases 
+transmitter release from cell a onto cell b, thereby increasing 
+the size of the EPSP in cell b, a process termed presynaptic 
+facilitation.
+A  Presynaptic inhibition
+B  Presynaptic facilitation
+Presynaptic
+Postsynaptic
+Presynaptic
+Postsynaptic
+a
+a
+b
+b
+c2
+c1
+Presynaptic
+action
+potential
+Presynaptic
+action
+potential
+Postsynaptic
+potential
+Control
+Control
+Control
+Inhibited
+Inhibited
+Ca2+ current
+in presynaptic 
+neuron
+Postsynaptic
+potential
+Facilitated
+Facilitated
+Ca2+ current
+in presynaptic 
+neuron
+Prolongation of
+Ca2+ current
+Prolongation of
+action potential
+
+
+===== Page 8 =====
+Chapter 15 / Transmitter Release    355
+stimulated by a series of electrical and biochemi-
+cal processes in the presynaptic nerve terminal.
+  2.  Neurotransmitter release is steeply dependent on 
+depolarization of the presynaptic terminal. While 
+the action potential is controlled by sodium and 
+potassium conductances, it is the depolarization 
+itself, rather than opening of either voltage-gated 
+sodium or potassium channels, that triggers release.
+  3.  Depolarization of the presynaptic terminal opens 
+voltage-gated Ca2+ channels (VGCCs), resulting 
+in Ca2+ influx. These channels are concentrated at 
+presynaptic “active zones,” very close to the sites 
+at which release occurs. The relationship between 
+Ca2+ influx and neurotransmitter release is tightly 
+coupled and steeply nonlinear. The peak Ca2+ 
+entry lags slightly behind the peak of the action 
+potential and quickly produces a marked rise in 
+the rate of transmitter release.
+  4.  VGCCs are heterogeneous—five classes have been 
+described with distinct biophysical, biochemical, 
+and pharmacological properties. Multiple classes 
+of VGCCs can contribute to neurotransmitter 
+release at individual nerve terminals and are 
+targets of disease-causing mutations. P/Q- and 
+N-type Ca2+ channels are particularly prominent 
+at active zones in the central nervous system.
+  5.  Chemical transmission generally involves the 
+release of quantal packets of neurotransmitter, 
+with a quantum corresponding to the contents of 
+a single synaptic vesicle. Under conditions that 
+decrease transmitter release, such as lowered 
+extracellular Ca2+, a presynaptic action potential 
+triggers the probabilistic release of a few quanta, 
+which produce postsynaptic responses of vari-
+able amplitude that are integral multiples of 
+the unitary response to a single quantum, inter-
+spersed by complete failures of transmission.
+  6.  The unitary events are driven by the fusion of 
+individual synaptic vesicles of relatively homo-
+geneous size and transmitter content. Visualized 
+as small, clear, spherical membrane organelles, 
+single vesicles contain thousands of small-
+molecule neurotransmitters. Other neurotrans-
+mitters, including the biogenic amines and 
+neuropeptides, are packaged into a distinct class 
+of larger, dense-core vesicles that mediate slower 
+forms of synaptic transmission. A typical presyn-
+aptic terminal in the mammalian central nervous 
+system involved in fast synaptic transmission 
+contains 100 to 200 vesicles. A small number of 
+vesicles dock along the presynaptic membrane of 
+the active zone and are the most ready to fuse.
+  7.  At many synaptic connections, the amplitude 
+of a postsynaptic potential can be described as 
+a product of multiple factors: (1) the number of 
+presynaptic sites occupied by a readily releasable 
+vesicle (n), (2) the release probability of individ-
+ual sites (p), and (3) the size of the postsynaptic 
+response to the release of a single vesicle (a). On 
+individual trials, the number of vesicles released 
+can be described by a binomial distribution reflect-
+ing the likelihood of release of zero, one, two, or 
+more vesicles, as if we were to count the number 
+of heads when n coins were being flipped.
+  8.  Exocytosis, the process by which vesicles fuse 
+with the presynaptic membrane, and endocytosis, 
+the process that retrieves vesicles, occur in rapid 
+succession in nerve terminals and other secretory 
+structures. These events are evident in morphologi-
+cal studies and are studied in real time by electrical 
+measurements of membrane surface area.
+  9.  Exocytosis is mediated by evolutionarily conserved 
+SNARE proteins. Together, the presynaptic plasma 
+membrane proteins syntaxin and SNAP-25 and 
+the synaptic vesicle membrane protein synapto-
+brevin contribute to the SNARE complex, a set of 
+four helical domains. Formation of this complex is 
+critical for vesicle fusion as shown by the ability 
+of various neurotoxins to block transmitter release 
+through the cleavage of SNARE proteins. SNARE 
+complex assembly is modulated by a family of SM 
+proteins, exemplified by Munc18.
+10.  Synaptotagmins, such as synaptotagmin-1 (syt1), 
+are abundant vesicular proteins that act as Ca2+ 
+sensors for regulation of vesicle release. Syt1 binds 
+multiple Ca2+ ions and thus forms a close asso-
+ciation with the plasma membrane following Ca2+ 
+influx. By binding to the SNARE complex even 
+before the rise in presynaptic Ca2+, it may enable 
+that complex to cause fusion quickly.
+11.  Synaptic vesicle exocytosis is exquisitely precise 
+and rapid because its molecular machinery is 
+embedded in an active zone protein scaffold con-
+sisting of RIM, RIM-BP, and Munc-13. The complex: 
+1. Tethers vesicles to the plasma membrane through 
+binding of RIM to Rab3 and Rab27 vesicle proteins; 
+2. Recruits calcium channels to the vicinity of teth-
+ered vesicles via binding to RIM and RIM-BP; and 
+3. Facilitates SNARE complex assembly via inter-
+action with Munc13. The active zone complex also 
+mediates many forms of short- and long-term syn-
+aptic plasticity.
+12.  Rapid endocytosis of vesicle membranes after 
+release enables fast recycling of vesicles for a con-
+tinuous supply during prolonged stimulation.
+13.  Synaptic terminals are diverse and vary in their 
+release properties. Active zone scaffolding pro-
+teins differ across synapses and species, as does 
+
+
+===== Page 9 =====
+356    Part III / Synaptic Transmission
+expression of presynaptic Ca2+ channels and 
+synaptotagmins. At some synapses, vesicles and 
+Ca2+ channels appear aligned by an intricate 
+structural network.
+14.  Transmitter release can be modulated intrinsically 
+or extrinsically as an aspect of synaptic plastic-
+ity. Synaptic strength can be strongly influenced 
+intrinsically by the pattern of firing in phenom-
+ena known as “depression” and “facilitation.” In 
+addition, extrinsic neuromodulators can alter the 
+dynamics of release by regulation of Ca2+ channels 
+or events downstream of Ca2+ entry.
+ Steven A. Siegelbaum 
+  Thomas C. Südhof 
+  Richard W. Tsien 
+Selected Reading
+Katz B. 1969. The Release of Neural Transmitter Substances. 
+Springfield, IL: Thomas.
+Lonart G. 2002. RIM1: an edge for presynaptic plasticity. 
+Trends Neurosci 25:329–332.
+Meinrenken CJ, Borst JG, Sakmann B. 2003. Local routes 
+revisited: the space and time dependence of the Ca2+ sig-
+nal for phasic transmitter release at the rat calyx of Held. 
+J Physiol 547:665–689.
+Reid CA, Bekkers JM, Clements JD. 2003. Presynaptic Ca2+ 
+channels: a functional patchwork. Trends Neurosci 
+26:683–687.
+Stevens CF. 2003. Neurotransmitter release at central syn-
+apses. Neuron 40:381–388.
+Südhof TC. 2014. The molecular machinery of neurotrans-
+mitter release (Nobel lecture). Angew Chem Int Ed Engl 
+53:12696–12717.
+References
+Acuna C, Liu X, Südhof TC. 2016. How to make an active 
+zone: unexpected universal functional redundance 
+between RIMs and RIM-BPs. Neuron 91:792–807.
+Akert K, Moor H, Pfenninger K. 1971. Synaptic fine structure. 
+Adv Cytopharmacol 1:273–290.
+Bacaj T, Wu D, Yang X, et al. 2013. Synaptotagmin-1 and -7 
+trigger synchronous and asynchronous phases of neuro-
+transmitter release. Neuron 80:947–959.
+Baker PF, Hodgkin AL, Ridgway EB. 1971. Depolarization and 
+calcium entry in squid giant axons. J Physiol 218:709–755.
+Bollmann JH, Sakmann B, Gerard J, Borst G. 2000. Calcium 
+sensitivity of glutamate release in a calyx-type terminal. 
+Science 289:953–957.
+Borst JG, Sakmann B. 1996. Calcium influx and transmitter 
+release in a fast CNS synapse. Nature 383:431–434.
+Boyd IA, Martin AR. 1956. The end-plate potential in mam-
+malian muscle. J Physiol 132:74–91.
+Chung S, Li X, Nelson SB. 2002. Short-term depression at 
+thalamocortical synapses contributes to rapid adaptation 
+of cortical sensory responses in vivo. Neuron 34:437–446.
+Couteaux R, Pecot-Dechavassine M. 1970. Vésicules synap-
+tiques et poches au niveau des “zones actives” de la jonc-
+tion neuromusculaire. C R Acad Sci Hebd Seances Acad 
+Sci D 271:2346–2349.
+Del Castillo J, Katz B. 1954. The effect of magnesium on the 
+activity of motor nerve endings. J Physiol 124:553–559.
+Dittman JS, Kreitzer AC, Regehr WG. 2000. Interplay 
+between facilitation, depression and residual calcium at 
+three presynaptic terminals. J Neurosci 20:1374–1385.
+Enoki R, Hu YL, Hamilton D, Fine A. 2009. Expression of 
+long-term plasticity at individual synapses in hippocam-
+pus is graded, bidirectional, and mainly presynaptic: opti-
+cal quantal analysis. Neuron 62:242–253.
+Fatt P, Katz B. 1952. Spontaneous subthreshold activity at 
+motor nerve endings. J Physiol 117:109–128.
+Fawcett DW. 1981. The Cell, 2nd ed. Philadelphia: Saunders.
+Fernandez I, Araç D, Ubach J, et al. 2001. Three-dimensional 
+structure of the synaptotagmin 1 C2B-domain: synap-
+totagmin 1 as a phospholipid binding machine. Neuron 
+32:1057–1069.
+Fernandez JM, Neher E, Gomperts BD. 1984. Capacitance 
+measurements reveal stepwise fusion events in degranu-
+lating mast cells. Nature 312:453–455.
+Fernandez-Chacon R, Konigstorfer A, Gerber SH, et al. 2001. 
+Synaptotagmin I functions as a calcium regulator of 
+release probability. Nature 410:41–49.
+Geiger JR, Jonas P. 2000. Dynamic control of presynaptic 
+Ca(2+) inflow by fast-inactivating K(+) channels in hip-
+pocampal mossy fiber boutons. Neuron 28:927–939.
+Geppert M, Goda Y, Hammer RE, et al. 1994. Synaptotagmin 
+I: a major Ca2+ sensor for transmitter release at a central 
+synapse. Cell 79:717–727.
+Harlow LH, Ress D, Stoschek A, Marshall RM, McMahan UJ. 
+2001. The architecture of active zone material at the frog’s 
+neuromuscular junction. Nature 409:479–484.
+Heuser JE, Reese TS. 1981. Structural changes in transmit-
+ter release at the frog neuromuscular junction. J Cell Biol 
+88:564–580.
+Hille B. 2001. Ionic Channels of Excitable Membranes, 3rd ed. 
+Sunderland, MA: Sinauer.
+Kaeser PS, Deng L, Wang Y, et al. 2011. RIM proteins tether 
+Ca2+ channels to presynaptic active zones via a direct 
+PDZ-domain interaction. Cell 144:282–295.
+Kandel ER. 1981. Calcium and the control of synaptic strength 
+by learning. Nature 293:697–700.
+Katz B, Miledi R. 1967a. The study of synaptic transmission 
+in the absence of nerve impulses. J Physiol 192:407–436.
+Katz B, Miledi R. 1967b. The timing of calcium action during 
+neuromuscular transmission. J Physiol 189:535–544.
+Klein M, Shapiro E, Kandel ER. 1980. Synaptic plasticity and 
+the modulation of the Ca2+ current. J Exp Biol 89:117–157.
+
+

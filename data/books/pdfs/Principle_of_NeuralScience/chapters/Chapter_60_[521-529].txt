@@ -1,0 +1,592 @@
+===== Page 1 =====
+476    Part IV / Perception
+Figure 20–4  Signals from nociceptors in the viscera can be 
+felt as “referred pain” elsewhere in the body.
+A. Myocardial infarction and angina can be experienced as deep 
+referred pain in the chest and left arm. The source of the pain 
+cannot be readily predicted from the site of referred pain.
+B. Convergence of visceral and somatic afferent fibers may 
+account for referred pain. Nociceptive afferent fibers from 
+the viscera and fibers from specific areas of the skin  
+converge on the same projection neurons in the dorsal horn. 
+The brain has no way of knowing the actual site of the  
+noxious stimulus and mistakenly associates a signal from  
+a visceral organ with an area of skin. (Adapted, with permission, 
+from Fields 1987.)
+Skin in
+which pain
+is perceived
+B
+A
+Intestine:
+site of injury
+Anterolateral
+column axon
+nerves. Its interaction with neurokinin receptors on 
+dorsal horn neurons elicits slow excitatory postsynap-
+tic potentials that prolong the depolarization elicited 
+by glutamate. Although the physiological actions of 
+glutamate and neuropeptides on dorsal horn neurons 
+are different, these transmitters act coordinately to reg-
+ulate the firing properties of dorsal horn neurons.
+Details of the interaction of neuropeptides with 
+their receptors on dorsal horn neurons have suggested 
+strategies for chronic pain regulation. Infusion of sub-
+stance P coupled to a neurotoxin into the dorsal horn 
+of experimental animals results in selective destruction 
+of neurons that express neurokinin receptors. Animals 
+treated in this way fail to develop the central sensitization 
+that is normally associated with peripheral injury. This 
+method of neuronal ablation is more selective than 
+traditional surgical interventions such as partial spi-
+nal cord transection (anterolateral cordotomy) and is 
+being considered as a treatment for patients suffering 
+from otherwise intractable chronic pain.
+Hyperalgesia Has Both Peripheral and  
+Central Origins
+Up to this point, we have considered the conveyance of 
+noxious signals in the normal physiological state. But 
+the normal process of sensory signaling can be dra-
+matically altered when peripheral tissue is damaged, 
+resulting in an increase in pain sensitivity or hyper-
+algesia. This condition can be elicited by sensitizing 
+peripheral nociceptors through repetitive exposure to 
+noxious stimuli (Figure 20–7).
+The sensitization is triggered by a complex mix of 
+chemicals released from damaged cells that accumulate 
+at the site of tissue injury. This cocktail contains pep-
+tides and proteins such as bradykinin, substance P, and 
+nerve growth factor, as well as molecules such as ATP, 
+histamine, serotonin, prostaglandins, leukotrienes, 
+and acetylcholine. Many of these chemical mediators 
+are released from distinct cell types, but together they 
+act to decrease the threshold of nociceptor activation.
+
+
+===== Page 2 =====
+Chapter 20 / Pain    477
+Figure 20–5  Neuropeptides and their receptors in the 
+superficial dorsal horn of the rat spinal cord. (Images repro-
+duced, with permission, from A. Basbaum.)
+A. The terminals of unmyelinated primary sensory neurons are 
+a major source of substance P in the superficial dorsal horn. 
+Substance P activates the neurokinin-1 (NK1) receptor, which is 
+expressed by neurons in the superficial dorsal horn, the major-
+ity of which are projection neurons.
+B. Enkephalin is localized in interneurons and found in the same 
+region of the dorsal horn as terminals containing substance P.  
+The μ-opioid receptor, which is targeted by enkephalins, is 
+expressed by neurons in the superficial dorsal horn and also, 
+presynaptically, on the terminals of sensory neurons.
+A  Substance P
+µ-opioid receptor
+B  Enkephalin
+NK-1 receptor
+
+
+===== Page 3 =====
+478    Part IV / Perception
+Figure 20–6  Transmitter storage in the synaptic terminals of 
+primary nociceptive neurons in the dorsal spinal cord.
+A.  The terminal of a C fiber on the dendrite (D) of a dorsal horn 
+neuron has two classes of synaptic vesicles that contain differ-
+ent transmitters. Small electron-lucent vesicles contain gluta-
+mate, whereas large dense-cored vesicles store neuropeptides. 
+(Image reproduced, with permission, from H. J. Ralston III.)
+B. Glutamate and the peptide substance P (marked by large 
+and small gold particles, respectively) are scattered in the axo-
+plasm of a sensory neuron terminal in lamina II of the dorsal 
+horn. Dense core vesicles also store calcitonin gene–related 
+peptide (CGRP). (Reproduced, with permission, from De Biasi 
+and Rustioni 1990.)
+D
+A
+B
+Glutamate
+Substance P
+D
+D
+D
+Small clear vesicles 
+contain glutamate
+Large dense vesicles 
+contain substance P
+Dendrite
+C ﬁber 
+terminal
+Where do these chemicals come from, and what 
+exactly do they do? Histamine is released from mast 
+cells after tissue injury and activates polymodal noci-
+ceptors. The lipid anandamide, an endogenous can-
+nabinoid agonist, is released under conditions of 
+inflammation, activates the TRPV1 channel, and may 
+trigger pain associated with inflammation. ATP, ace-
+tylcholine, and serotonin are released from damaged 
+endothelial cells and platelets; they act indirectly to 
+sensitize nociceptors by triggering the release of chem-
+ical agents such as prostaglandins and bradykinin 
+from peripheral cells.
+Bradykinin is one of the most active pain-producing 
+agents. Its potency stems in part from the fact that it 
+directly activates Aδ and C nociceptors and increases 
+the synthesis and release of prostaglandins from 
+nearby cells. Prostaglandins are metabolites of ara-
+chidonic acid that are generated through the activity 
+of cyclooxygenase (COX) enzymes that cleave arachi-
+donic acid (Chapter 14). The COX-2 enzyme is pref-
+erentially induced under conditions of peripheral 
+inflammation, contributing to enhanced pain sensitiv-
+ity. The enzymatic pathways of prostaglandin synthesis 
+are targets of commonly used analgesic drugs. Aspirin 
+and other nonsteroidal anti-inflammatory analgesics, 
+such as ibuprofen and naproxen, are effective in con-
+trolling pain because they block the activity of the COX 
+enzymes, reducing prostaglandin synthesis.
+Activity of peripheral nociceptors can also produce 
+all of the cardinal signs of inflammation, including heat 
+
+
+===== Page 4 =====
+Chapter 20 / Pain    479
+(calor), redness (rubor), and swelling (tumor). Heat 
+and redness result from the dilation of peripheral blood 
+vessels, whereas swelling results from plasma extrava-
+sation, a process in which proteins, cells, and fluids are 
+able to penetrate postcapillary venules. Release of the 
+neuropeptides substance P and CGRP from the periph-
+eral terminals of C fibers provokes plasma extravasa-
+tion and vasodilation, respectively. Because this form 
+of inflammation depends on neural activity, it has been 
+termed neurogenic inflammation (Figure 20–8). Impor-
+tantly, as profound peripheral vasodilation is a critical 
+trigger of many migraine headaches, the development 
+of antibodies to CGRP, which counteract the vasodila-
+tion by scavenging CGRP, offers significant hope for a 
+new migraine therapy.
+The release of substance P and CGRP from the 
+peripheral terminals of sensory neurons is also respon-
+sible for the axon reflex, a physiological process charac-
+terized by vasodilation in the vicinity of a cutaneous 
+injury. Pharmacological antagonists of substance P are 
+able to block neurogenic inflammation and vasodila-
+tion in humans; this discovery illustrates how knowl-
+edge of nociceptive mechanisms can be applied in 
+improving clinical therapies for pain.
+In addition to these small molecules and peptides, 
+neurotrophins are causative agents in pain. Nerve 
+growth factor (NGF) and brain-derived neurotrophic 
+factor (BDNF) are particularly active in inflammatory 
+pain states. The synthesis of BDNF is upregulated in 
+many inflamed peripheral tissues (Figure 20–9). NGF-
+neutralizing molecules are effective analgesic agents 
+in animal models of persistent pain. Indeed, inhibition 
+of NGF function and signaling blocks pain sensation 
+as effectively as COX inhibitors and opiates. Several 
+promising clinical trials using antibodies to NGF for 
+the management of knee osteoarthritis have been 
+reported, once again demonstrating the translation of 
+basic science to the clinic.
+What accounts for the enhanced sensitivity of dor-
+sal horn neurons to nociceptor signals? Under condi-
+tions of persistent injury, C fibers fire repetitively and the 
+response of dorsal horn neurons increases progressively 
+(Figure 20–10A). The gradual enhancement in the excit-
+ability of dorsal horn neurons has been termed “win-
+dup” and is thought to involve N-methyl-d-aspartate 
+(NMDA)-type glutamate receptors (Figure 20–10B).
+Repeated exposure to noxious stimuli therefore 
+results in long-term changes in the response of dorsal 
+horn neurons through mechanisms that are similar to 
+those underlying the long-term potentiation of synap-
+tic responses in many circuits in the brain. In essence, 
+these prolonged changes in the excitability of dorsal 
+horn neurons constitute a “memory” of the state of 
+C-fiber input. This phenomenon has been termed 
+central sensitization to distinguish it from sensitization 
+at the peripheral terminals of the dorsal horn neurons, 
+a process that involves activation of the enzymatic 
+pathways of prostaglandin synthesis.
+Figure 20–7  Hyperalgesia results from sensitization of noci-
+ceptors. (Reproduced, with permission, from Raja, Campbell, 
+and Meyer 1984. Copyright © 1984, Oxford University Press.)
+A. Mechanical thresholds for pain were recorded at sites A, B, and 
+C before and after burns at sites A and D. The areas of redden-
+ing (flare) and mechanical hyperalgesia resulting from the burns 
+are shown on the hand of one subject. In all subjects, the area of 
+mechanical hyperalgesia was larger than the area of flare. Mechan-
+ical hyperalgesia was present even after the flare disappeared.
+B. Mean mechanical pain thresholds before and after burns. 
+The mechanical threshold for pain is significantly decreased 
+after the burn.
+A
+B
+D
+C
+1 cm
+A
+B
+14
+12
+10
+8
+6
+4
+2
+Mechanical
+hyperalgesia
+Flare
+Mechanical pain thresholds
+Before burn
+After burn
+Site A
+Site B
+Site C
+
+
+===== Page 5 =====
+480    Part IV / Perception
+Figure 20–8  Neurogenic inflammation. Injury or tissue 
+damage releases bradykinin and prostaglandins, which acti-
+vate or sensitize nociceptors. Activation of nociceptors leads 
+to the release of substance P and calcitonin gene–related 
+peptide (CGRP). Substance P acts on mast cells (light blue) 
+in the vicinity of sensory endings to evoke degranulation and 
+the release of histamine, which directly excites nociceptors. 
+Substance P also produces plasma extravasation and edema, 
+and CGRP produces dilation of peripheral blood vessels 
+(leading to reddening of the skin); the resultant inflammation 
+causes additional liberation of bradykinin. These mechanisms 
+also occur in healthy tissue, where they contribute to  
+secondary or spreading hyperalgesia. (Abbreviation: CNS, 
+central nervous system.)
+Damage
+Prostaglandin
+Bradykinin
+Prostaglandin
+Bradykinin
+To CNS
+To CNS
+Plasma
+To CNS
+Plasma
+Plasma
+C ﬁbers
+(nociceptors)
+CGRP
+Substance P
+Histamine
+Nerve growth 
+factor
+Site of injury
+Initial spreading
+Further spreading
+Prostaglandin
+Bradykinin
+
+
+===== Page 6 =====
+Chapter 20 / Pain    481
+NGF
+Inﬂammation 
+TNF,
+IL-1
+Mast cell
+NGF
+A
+B
+C
+D
+A  Peripheral exposure to NGF
+B  Retrograde transport of 
+ 
+signaling endosomes
+C  Increased transcription 
+ 
+of BDNF
+D  Central release of BDNF
+BDNF
+Nucleus
+BDNF
+Figure 20–9  Neurotrophins are pain mediators. Local pro-
+duction of inflammatory cytokines such as interleukin-1 (IL-1) 
+and tumor necrosis factor (TNF) promotes the synthesis and 
+release of nerve growth factor (NGF) from several cell types 
+in the periphery. Nerve growth factor binds to TrkA receptors 
+on primary nociceptive terminals (A), triggering upregulation 
+in expression of ion channels that increase nociceptor excit-
+ability. Retrograde transport of signaling endosomes to the 
+cell body (B) results in enhanced expression of brain-derived 
+neurotrophic factor (BDNF) (C), and its release from sensory 
+terminals in the spinal cord (D) further increases excitability of 
+dorsal horn neurons.
+The sensitization of dorsal horn neurons also 
+involves recruitment of second-messenger pathways 
+and activation of protein kinases that have been 
+implicated in memory storage in other regions of 
+the central nervous system. One consequence of this 
+enzymatic cascade is the expression of immediate-
+early genes that encode transcription factors such as 
+c-fos, which are thought to activate effector proteins 
+that sensitize dorsal horn neurons to sensory inputs. 
+Most importantly, central sensitization of “pain” 
+transmission circuitry in the dorsal horn is the pro-
+cess that can decrease pain thresholds (allodynia) 
+and lead to spontaneous pain (ie, ongoing pain in the 
+absence of peripheral stimulation).
+Central sensitization is also a major contributor 
+to neuropathic pain due to nerve injury. Here again, 
+there is increased excitability of dorsal horn circuits 
+mediated by NMDA receptors. There is also loss of 
+inhibitory controls in the dorsal horn. Under normal 
+conditions, GABAergic inhibitory interneurons in the 
+dorsal horn are not only tonically active but are also 
+turned on by activity of large-diameter, nonnociceptive 
+Aβ fibers (Figure 20–11A). Peripheral nerve damage 
+decreases the GABAergic controls, thus exacerbat-
+ing the hyperactivity of these nociceptive pathways 
+(Figure 20–11B). Recent studies also implicate nerve 
+injury–induced activation of microglia and consequent 
+reduced GABAergic inhibition in the central sensiti-
+zation process (Figures 20–11C and 20–12). Together, 
+these changes contribute to mechanical allodynia (ie, pain 
+provoked by normally innocuous mechanical stimula-
+tion). Mechanical allodynia can also develop because 
+of an inappropriate engagement of dorsal horn noci-
+ceptive pathway circuits by the Aβ myelinated affer-
+ents. In fact, spread of pain (secondary hyperalgesia) 
+can occur because uninjured Aβ afferents outside of 
+
+
+===== Page 7 =====
+482    Part IV / Perception
+Figure 20–10  Mechanisms for enhanced excitability of dor-
+sal horn neurons.
+A. Typical responses of a dorsal horn neuron in the rat to elec-
+trical stimuli delivered transcutaneously at a frequency of 1 Hz. 
+With repetitive stimulation, the long-latency component evoked 
+by a C fiber increases gradually, whereas the short-latency 
+component evoked by an A fiber remains constant.
+B. Dorsal horn neurons receive mono- and polysynaptic input 
+from Aδ and C fiber nociceptors. Elevation of residual Ca2+ in 
+the presynaptic terminal leads to increased release of gluta-
+mate and substance P (and CGRP, not shown). Left: Activa-
+tion of postsynaptic AMPA receptors by Aδ fibers causes a 
+fast transient membrane depolarization, which relieves the 
+Mg2+ block of the NMDA receptors. Right: Activation of the 
+postsynaptic NMDA receptors and neurokinin-1 (NK1) recep-
+tors by C fibers generates a long-lasting cumulative depo-
+larization. The cytosolic Ca2+ concentration in the dorsal horn 
+neuron increases because of Ca2+ entry through the NMDA 
+receptor channels and voltage-sensitive Ca2+ channels. The 
+elevated Ca2+ and activation by NK1 receptors of second-
+messenger systems enhance the performance of the NMDA 
+receptors. Activation of NK1 receptors, cumulative depolariza-
+tion, elevated cytosolic Ca2+, and other factors regulate the 
+behavior of voltage-gated ion channels responsible for action 
+potentials, resulting in enhanced excitability, all of which con-
+tribute to the process of central sensitization. (Abbreviations: 
+AMPA, α-amino-3-hydroxy-5-methylisoxazole-4-propionate; 
+NMDA, N-methyl-d-aspartate)
+80
+60
+40
+20
+0
+0
+3
+6
+9
+12
+15
+Number of spikes
+Stimulus number
+A  Repetitive stimulation of C and Aδ ﬁbers
+NMDA
+NMDA
+NMDA
+Ion channels
+NK1
+AMPA
+AMPA
+AMPA
+Fast membrane
+depolarization
+(transient)
+Long-lasting 
+depolarization
+(cumulative)
+Ca2+
+Ca2+
+Glutamate
+Substance P
+Aδ ﬁber 
+stimulation
+C ﬁber
+stimulation 
+B  Enhancement of excitability
+B
+Aδ ﬁber
+C ﬁber
+Response to C ﬁber
+Response to Aδ ﬁber
+
+
+===== Page 8 =====
+Chapter 20 / Pain    483
+Lamina V 
+projection
+neuron
+Excitatory
+interneuron
+GABA 
+inhibitory
+interneuron
+GABA 
+inhibitory
+interneuron
+Lamina V 
+projection
+neuron
+Microglial
+cell
+Lamina V 
+projection
+neuron
+Excitatory
+interneuron
+To the brain
+Neuropathic
+pain
+Neuropathic
+pain
+Aβ ﬁber
+Nociceptor
+Lamina I 
+projection
+neuron
+Aβ ﬁber
+Nociceptor
+Nociceptor
+Lamina I 
+projection
+neuron
+Lamina I 
+projection
+neuron
+Peripheral
+nerve injury
+Peripheral
+nerve injury
+A  Normal pain control
+B  Loss of Aβ−mediated inhibition
+C  Activation of microglia
+Figure 20–11  Nerve injury triggers multiple dorsal horn 
+central sensitization mechanisms that contribute to  
+neuropathic pain.
+A. Under normal conditions, nociceptors engage dorsal 
+horn pain transmission circuits, via both monosynaptic and 
+polysynaptic (excitatory) inputs to projection neurons of 
+laminae I and V that transmit nociceptive information to the 
+brainstem and thalamus. (See Figure 20–13.) The output of 
+the projection neurons is regulated by GABAergic inhibitory 
+interneurons, which can be activated by nonnociceptive, 
+large-diameter, myelinated Aβ afferent fibers.
+B. Peripheral nerve injury can result in a loss of the inhibitory 
+control exerted by the Aβ afferents, via loss of GABAergic 
+interneurons, reduced production of GABA, or reduced 
+expression of GABAergic receptors by the projection  
+neurons. Pathophysiological sprouting of Aβ afferents may 
+also permit nonnociceptive inputs to directly engage the 
+projection neurons (not shown), resulting in the condition of 
+Aβ-mediated mechanical hypersensitivity/allodynia, a hallmark 
+of neuropathic pain.
+C. Peripheral nerve injury not only activates dorsal horn 
+neurons directly but also activates microglia, which in turn 
+release a host of mediators that enhance neuronal excitabil-
+ity and reduce the inhibitory controls exerted by GABAergic 
+interneurons. Thus, targeting the mediators released from 
+microglia introduces yet another potential approach to the 
+pharmacotherapy of chronic pain.
+
+
+===== Page 9 =====
+484    Part IV / Perception
+Figure 20–12  Peripheral nerve injury activates microglia in 
+the dorsal and ventral horns. Schematic drawing and photo-
+micrograph illustrate the location where microglia are activated 
+after peripheral nerve injury. Activation of microglia in the dorsal 
+horn results from damage (arrow) to the peripheral branch of 
+primary sensory neurons (orange cells). Microglial activation 
+around motor neuron cell bodies in the ventral horn occurs 
+because the same injury damages efferent axons of the motor 
+neurons (green cells). (Micrograph reproduced, with permis-
+sion, from Julia Kuhn.)
+Microglia
+the area of injury can inappropriately activate dorsal 
+horn circuits that have undergone central sensitization.
+Four Major Ascending Pathways Convey 
+Nociceptive Information From the Spinal Cord 
+to the Brain
+Four major ascending pathways—the spinothalamic, 
+spinoreticular, spinoparabrachial, and spinohypotha-
+lamic tracts—contribute sensory information to the 
+central processes that generate pain.
+The spinothalamic tract is the most prominent 
+ascending nociceptive pathway in the spinal cord. It 
+includes the axons of nociceptive-specific, thermosen-
+sitive, and wide-dynamic-range neurons in laminae 
+I and V through VII of the dorsal horn. These axons 
+cross the midline of the spinal cord near their segment 
+of origin and ascend in the anterolateral white matter 
+before terminating in thalamic nuclei (Figure 20–13). 
+The spinothalamic tract has a crucial role in the trans-
+mission of nociceptive information. Cells at the origin 
+of this tract typically have discrete, unilateral receptive 
+fields that underlie our ability to localize painful 
+stimuli. Not surprisingly, electrical stimulation of the 
+tract is sufficient to elicit the sensation of pain; con-
+versely, lesioning this tract (anterolateral cordotomy), 
+a procedure that is generally only used for intractable 
+pain in terminal cancer patients, can result in a marked 
+reduction in pain sensation on the side of the body 
+contralateral to that of the lesion.
+The spinoreticular tract contains the axons of projec-
+tion neurons in laminae VII and VIII. This tract ascends 
+in the anterolateral quadrant of the spinal cord with 
+spinothalamic tract axons, and terminates in both the 
+reticular formation and the thalamus. As neurons at 
+the origin of the spinoreticular tract generally have 
+large, often bilateral receptive fields, this pathway 
+has been implicated more in the processing of diffuse, 
+poorly localized pains.
+The spinoparabrachial tract contains the axons of 
+projection neurons in laminae I and V. Information 
+transmitted along this tract is thought to contribute 
+to the affective component of pain. This tract projects 
+in the anterolateral quadrant of the spinal cord to the 
+parabrachial nucleus at the level of the pons (Figure 
+20–13). This pathway has extensive collaterals to the 
+mesencephalic reticular formation and periaqueductal 
+gray matter. Parabrachial neurons project to the amyg-
+dala, a critical nucleus of the limbic system, which reg-
+ulates emotional states (Chapter 42).
+The spinohypothalamic tract contains the axons of 
+neurons found in spinal cord laminae I, V, VII, and VIII. 
+These axons project to hypothalamic nuclei that serve as 
+autonomic control centers involved in the regulation of 
+the neuroendocrine and cardiovascular responses that 
+accompany pain syndromes (Chapter 41).
+Several Thalamic Nuclei Relay Nociceptive 
+Information to the Cerebral Cortex
+The thalamus contains several relay nuclei that partici-
+pate in the central processing of nociceptive informa-
+tion. Two of the most important regions of the thalamus 
+are the lateral and medial nuclear groups. The lateral 
+nuclear group comprises the ventroposterolateral (VPL), 
+ventroposteromedial (VPM) and posterior/pulvinar 
+nuclei. The VPL and VPM, respectively, receive inputs 
+via the spinothalamic tract from nociception-specific 
+and wide-dynamic-range neurons in laminae I and V 
+of the dorsal horn and via the trigeminothalamic tract 
+
+

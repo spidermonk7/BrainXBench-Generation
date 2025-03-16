@@ -1,0 +1,821 @@
+===== Page 1 =====
+412    Part IV / Perception
+Table 18–1  Classification of Sensory Fibers in Peripheral Nerves1
+ 
+Muscle nerve
+Cutaneous nerve2
+Fiber diameter (μm)
+Conduction velocity (m/s)
+Myelinated
+  Large diameter
+I
+Aα
+12–20
+72–120
+  Medium diameter
+II
+Aβ
+6–12
+36–72
+  Small diameter
+III
+Aδ
+1–6
+4–36
+Unmyelinated
+IV
+C
+0.2–1.5
+0.4–2.0
+1Sensory fibers from muscle are classified according to their diameter, whereas those from the skin are classified by conduction velocity.
+2The types of receptors innervated by each type of fiber are listed in Table 18–2.
+Figure 18–3  Classification of mammalian peripheral nerve 
+fibers.  The histograms illustrate the distribution of axon 
+diameter for four groups of sensory nerve fibers innervating 
+skeletal muscle and the skin. Each group has a characteristic 
+axon diameter and conduction velocity (see Table 18–1). Light 
+blue lines mark the boundaries of fiber profiles in each group 
+in the zones of overlap. The conduction velocity (m/s) of myeli-
+nated peripheral nerve fibers is approximately six times the 
+fiber diameter (μm). (Adapted, with permission, from Boyd 
+and Davey 1968.)
+Number of ﬁbers
+Number of ﬁbers
+IV (C)
+III (Aδ)
+II (Aβ)
+Axon
+diameter (µm)
+Cutaneous nerve
+72
+30
+1
+Conduction
+velocity (m/s)
+IV (C)
+III (Aδ)
+II (Aβ)
+I (Aα)
+1
+5
+12
+20
+120
+Muscle nerve
+organs, which signal muscle length and contractile 
+force. Group II fibers innervate secondary spindle end-
+ings and receptors in joint capsules; these receptors 
+also mediate proprioception. Group III fibers, the small-
+est myelinated muscle afferents, and the unmyelinated 
+group IV afferents signal trauma or injuries in muscles 
+and joints that are sensed as painful.
+Nerves that innervate the skin contain two sets of 
+myelinated fibers: Group II fibers innervate cutaneous 
+mechanoreceptors that respond to touch, and group III 
+fibers mediate thermal and noxious stimuli, as well 
+as light touch in hairy skin. Unmyelinated group IV 
+cutaneous afferents, like those in muscle, also mediate 
+thermal and noxious stimuli.
+Another method for classifying peripheral nerve 
+fibers is based on electrical stimulation of whole 
+nerves. In this widely used diagnostic technique, 
+nerve conduction velocities are measured between 
+pairs of stimulating and recording electrodes placed 
+on the skin above a peripheral nerve. When studying 
+conduction in the median or ulnar nerve, for exam-
+ple, the stimulation electrode might be placed at the 
+wrist and the recording electrode on the upper arm. 
+Brief electrical pulses applied through the stimulat-
+ing electrode evoke action potentials in the nerve. The 
+neural signal recorded a short time later in the arm 
+represents the summed action potentials of all of the 
+nerve fibers excited by the stimulus pulse and is called 
+the compound action potential (Chapter 9). It increases 
+in amplitude as more nerve fibers are stimulated; the 
+summed activity is roughly proportional to the total 
+number of active nerve fibers.
+Electrical stimuli of increasing strength evoke 
+action potentials first in the largest axons, because they 
+have the lowest electrical resistance, and then progres-
+sively in smaller axons (Figure 18–4). Large-diameter 
+fibers conduct action potentials more rapidly because 
+
+
+===== Page 2 =====
+Chapter 18 / Receptors of the Somatosensory System    413
+Figure 18–4  Conduction velocities of peripheral nerves are 
+measured clinically from compound action potentials. Elec-
+trical stimulation of a peripheral nerve at varying intensities 
+activates different types of nerve fibers. The action potentials of 
+all the nerves stimulated by a particular amount of current are 
+summed to create the compound action potential. The distinct 
+conduction velocities of different classes of sensory and motor 
+axons produce multiple peaks. (Adapted from Erlanger and  
+Gasser 1938.)
+Weak nerve shock
+Medium nerve shock
+Strong nerve shock
+Barely 
+perceptible
+Tingling
+Pricking 
+pain
+Aα
+Aα
+Aα
+Aβ
+Aβ
+Aδ
+Stimulus
+intensity
+Sensation 
+evoked
+Nerve 
+response
+Very strong nerve shock
+A ﬁbers
+C ﬁbers
+Pricking pain 
+followed by
+burning pain
+Aα Aβ
+Aδ
+the internal resistance to current flow along the axon is 
+low, and the nodes of Ranvier are widely spaced along 
+its length (Chapter 9). The conduction velocity of large 
+myelinated fibers (in meters per second) is approxi-
+mately six times the axon diameter (in micrometers), 
+whereas thinly myelinated fibers conduct at five times 
+the axon diameter. For unmyelinated fibers, the factor 
+for converting axon diameter to conduction velocity is 
+1.5 to 2.5.
+Following the stimulus artifact, the earliest neu-
+ral signal recorded in the compound action potential 
+occurs in fibers with conduction velocities greater than 
+90 m/s. Called the Aα wave (Figure 18–4), this signal 
+reflects the action potentials generated in group I fibers 
+and in motor neurons innervating skeletal muscle. 
+The sensation is barely perceived by the subject in the 
+region innervated.
+As more large fibers are recruited, a second signal, 
+the Aβ wave, appears. This component corresponds 
+to group II fibers in skin or muscle nerves that inner-
+vate mechanoreceptors mediating touch and proprio-
+ception and becomes larger as the shock intensity is 
+increased. At higher voltages, when axons in the 
+smaller Aδ range are recruited, the stimulus becomes 
+painful, resembling an electric shock produced by static 
+electricity. Voltages sufficient to activate unmyelinated 
+C fibers evoke sensations of burning pain. As we shall 
+learn later in this chapter, some Aδ and C fibers also 
+respond to light touch on hairy skin, but such gentle 
+tactile stimuli are masked by concurrent activation of 
+
+
+===== Page 3 =====
+414    Part IV / Perception
+pain fibers when whole nerves are stimulated electri-
+cally. Stimulation of motor neurons innervating the 
+intrafusal fibers of muscle spindles (see Figure 18–9) 
+evokes an intermediate wavelet called the Aγ wave, 
+but this is usually difficult to discern because the 
+conduction velocities of these motor neurons overlap 
+those of Aβ and Aδ sensory axons. These differences in 
+fiber diameter and conduction velocity of peripheral 
+nerves allow signals of touch and proprioception to 
+reach the spinal cord and higher brain centers earlier 
+than noxious or thermal signals.
+The clinician takes advantage of the known dis-
+tribution of the conduction velocities of the vari-
+ous afferent fibers to diagnose diseases that result in 
+sensory-fiber degeneration or motor neuron loss. In 
+certain conditions, the loss of peripheral nerve axons 
+is selective; in the neuropathy characteristic of dia-
+betes, for example, the large-diameter sensory fibers 
+degenerate. Such a selective loss is reflected in a reduc-
+tion in the appropriate peak of the compound action 
+potential, a slowing of nerve conduction, and a corre-
+sponding diminution of sensory capacity. Similarly, in 
+multiple sclerosis, degeneration of the myelin sheath 
+of large-diameter afferent fibers in the central nervous 
+system results in slowing and, if severe enough, failure 
+of nerve conduction.
+A Variety of Specialized Receptors Are 
+Employed by the Somatosensory System
+The functional specialization of individual DRG neu-
+rons is determined by the molecular mechanisms of 
+sensory transduction that occur at the distal nerve 
+terminals in the body. When a somatic receptor is 
+activated by an appropriate stimulus, its sensory ter-
+minal is typically depolarized. The amplitude and 
+time course of the depolarization reflect the strength 
+of the stimulus and its duration (see Figure 3–9A). 
+Stimuli of sufficient strength produce action potentials 
+that are transmitted along the peripheral branch of the 
+DRG neuron’s axon and into the central branch that 
+terminates in the spinal cord or brain stem.
+The sensory neurons that mediate touch and pro-
+prioception terminate in a nonneural capsule (Figure 
+18–1) or form morphologically distinctive endings 
+surrounding hair follicles (Figure 18–2H) or intrafusal 
+muscle fibers (see Figure 18–9A). They sense mechani-
+cal stimuli that indent or stretch their receptive surface. 
+In contrast, the peripheral axons of neurons that detect 
+noxious, thermal, or chemical events have unsheathed 
+endings with multiple branches that terminate in the 
+epidermis or in the viscera.
+Several different morphologically specialized 
+receptors underlie the various somatosensory submo-
+dalities. For example, the median nerve that innervates 
+the skin of the hand and some of the muscles control-
+ling the hand contains tens of thousands of nerve fibers 
+that can be classified into 30 functional types. Of these, 
+22 types are afferent fibers (sensory axons conducting 
+impulses toward the spinal cord), and eight types are 
+efferent fibers (motor axons conducting impulses away 
+from the spinal cord to skeletal muscle, blood vessels, 
+and sweat glands). The afferent fibers convey signals 
+from eight kinds of cutaneous mechanoreceptors that 
+are sensitive to different kinds of skin deformation; 
+five kinds of proprioceptors that signal information 
+about muscle force, muscle length, and joint angle; 
+four kinds of thermoreceptors that report the tempera-
+tures of objects touching the skin; and four kinds of 
+nociceptors that signal potentially injurious stimuli. 
+The major receptor groups within each submodality 
+are listed in Table 18–2.
+Mechanoreceptors Mediate Touch and 
+Proprioception
+A mechanoreceptor senses physical deformation of the 
+tissue surrounding it. Mechanical distension—such 
+as pressure on the skin, stretch of muscles, suction 
+applied directly to cell membranes, or osmotic swell-
+ing of tissue—is transduced into electrical energy by 
+the physical action of the stimulus on mechanorecep-
+tor ion channels in the membrane. Mechanical stimu-
+lation deforms the receptor protein, thus opening 
+stretch-sensitive ion channels and increasing nonspe-
+cific cation conductances that depolarize the receptor 
+neuron (see Figure 3–9A). Removal of the stimulus 
+relieves mechanical stress on the receptor and allows 
+stretch-sensitive channels to close.
+Various mechanisms for activation of mechanore-
+ceptor ion channels have been proposed. Some mech-
+anoreceptors appear to respond to forces conveyed 
+through tension or deformation of the lipids of the 
+plasma membrane, a mechanism called force from lipids 
+(Figure 18–5A). Here, deformation of membrane lipids 
+changes the cell surface curvature, exposing hydropho-
+bic residues in the receptor protein to the membrane 
+phospholipids, thereby opening the channel pore to 
+cation flow. This may be the mechanism for detection 
+of cellular swelling, which plays an important role in 
+osmoregulation, or changes in shear stress on the walls 
+of blood vessels due to altered fluid flow.
+Another postulated mechanism for activation of 
+mechanoreceptors involves linking the channel protein 
+to the surrounding tissue through structural proteins, 
+
+
+===== Page 4 =====
+Chapter 18 / Receptors of the Somatosensory System    415
+Table 18–2  Receptor Types Active in Somatic Sensory Processing
+Receptor type
+Fiber  
+group1
+Fiber  
+name
+Receptor
+Marker(s)
+Modality
+Cutaneous mechanoreceptors
+ 
+ 
+ 
+ 
+Touch
+  Meissner corpuscle 
+Aα,β
+RA1
+Piezo2
+cRet/Npy2r/
+NFH
+  Stroking, flutter
+  Merkel disk receptor
+Aα,β
+SA1
+Piezo2
+Troma1/
+Keratin8/Npy2r
+  Pressure, texture
+  Pacinian corpuscle2
+Aα,β
+RA2
+Piezo2
+cRet/Npy2r/
+NFH
+  Vibration
+  Ruffini ending
+Aα,β
+SA2
+Piezo2
+ 
+  Skin stretch
+  Hair (guard)
+Aα,β
+Aβ RA-LTMR
+Piezo2
+cRet/Npy2r/
+NFH
+  Stroking, hair movement
+  Hair (awl/auchene)
+Aδ
+Aδ-LTMR
+Piezo2
+TrkB
+  Light stroking, air puff
+  Field receptor 
+  (circumferential endings)
+Aβ
+Aβ  
+Field-LTMR
+Piezo2
+NFH
+  Skin stretch
+  Hair (zigzag)
+C
+C-LTMR
+ 
+TH
+  Slow stroking, gentle 
+touch
+Thermal receptors
+ 
+ 
+ 
+ 
+Temperature
+  Cool receptors
+Aδ
+III
+TRPM8
+ 
+  Skin cooling (<25°C)
+  Warm receptors 
+C
+IV
+TRPV3
+ 
+  Skin warming (>35°C)
+  Heat nociceptors 
+Aδ
+III
+TRPV1/
+TRPV2
+ 
+  Hot temperature (>45°C)
+  Cold nociceptors 
+C
+IV
+TRPA1/
+TRPM8
+ 
+  Cold temperature (<5°C)
+Nociceptors
+ 
+ 
+ 
+ 
+Pain
+  Mechanical
+Aδ
+III
+ 
+CGRP
+  Sharp, pricking pain
+  Thermal-mechanical (heat)
+Aδ
+III
+TRPV2
+ 
+  Burning pain
+  Thermal-mechanical (cold)
+C
+IV
+TRPV1/
+TRPA1
+IB4
+  Freezing pain
+  Polymodal
+C
+IV
+TRPV1/
+TRPA1
+ 
+  Slow, burning pain
+Muscle and skeletal 
+mechanoreceptors
+ 
+ 
+ 
+ 
+Limb proprioception
+  Muscle spindle primary
+Aα
+Ia
+Piezo2
+PV/NFH
+  Muscle length and speed
+  Muscle spindle secondary
+Aβ
+II
+Piezo2
+PV/NFH
+  Muscle stretch
+  Golgi tendon organ
+Aα
+Ib
+Piezo2
+PV/NFH
+  Muscle contraction
+  Joint capsule receptors
+Aβ
+II
+ 
+ 
+  Joint angle
+  Stretch-sensitive free endings
+Aδ
+III
+ 
+ 
+  Excess stretch or force
+1See Table 18–1.
+2Pacinian corpuscles are also located in the mesentery, between layers of muscle, and on interosseous membranes.
+a mechanism termed force from filaments (Figure 18–5B). 
+In this arrangement, mechanical force applied to the 
+skin or muscle by direct pressure or lateral stretch of the 
+tissue distorts the extracellular matrix or intracellular 
+cytoskeletal proteins (actin, integrins, microtubules). 
+These tethering molecules interact with the receptor-
+channel proteins, change their conformation, and open 
+cation channels. The extracellular linkage to the chan-
+nel proteins is elastic and often represented as a spring-
+loaded gate. Direct channel gating in this model may be 
+produced by forces that stretch the extracellular linkage 
+protein. The channel closes when the force is removed. 
+This type of direct channel gating is used by hair cells of 
+the inner ear and by some touch receptors in the skin.
+
+
+===== Page 5 =====
+416    Part IV / Perception
+Figure 18–5  Ion channels in mechanoreceptor nerve 
+terminals are activated by mechanical stimuli that 
+stretch or deform the cell membrane. Mechanical 
+displacement leads to channel opening, permitting the 
+influx of cations. (Adapted, with permission, from Lin 
+and Corey 2005. Copyright © 2005 Elsevier Ltd.)
+A. Force from lipids. Channels can be directly activated 
+by forces conveyed through lipid tension in the cell 
+membrane, such as changes in blood pressure.
+B. Force from filaments. Forces conveyed through 
+structural proteins linked to the ion channel can also 
+directly activate mechanosensory channels. The link-
+ing structural proteins may be extracellular (attached 
+to the surrounding tissue) or intracellular (bound to the 
+cytoskeleton) or both.
+It is remarkable that although the receptor end 
+organs for touch in the skin were first studied by Edgar 
+Adrian and Yngve Zotterman in the 1920s and receptor 
+potentials were recorded from isolated touch receptors 
+from the mesentery (Pacinian corpuscles) in the 1960s, 
+there was little consensus about the molecular biology 
+of mechanosensation in mammalian touch. The lead-
+ing candidates were derived from invertebrate model 
+organisms such as the nematode worm Caenorhabditis 
+elegans whose touch receptors were identified as mem-
+bers of the degenerin superfamily of ion channels and 
+are similar to vertebrate epithelial Na+ channels (DEG/
+ENac channels). Other candidate molecules included 
+TRPV4 receptors (members of the transient receptor 
+potential [TRP] receptors that are also involved in 
+thermal senses), and NOMPC, a Drosophila member 
+of the TRPN family. However, these molecules are not 
+expressed in mammalian DRG neurons.
+The Piezo protein family of transmembrane ion 
+channels was recently identified by Ardem Patapou-
+tian and colleagues as molecular mediators of mechan-
+oreception in mammals. Piezo1 proteins are composed 
+of approximately 2,500 amino acids, with at least 26 
+transmembrane α-helices (Figure 18–6A). The ion 
+channel is a trimer formed from three identical Piezo 
+protein subunits, with two pore-forming α-helices at 
+the C-terminal end of each Piezo protein. The N-terminals 
+of the subunits form a propeller-like structure (Figure 
+18–6B), which is thought to be involved in coupling 
+mechanical stimuli to channel gating. Piezo proteins 
+A  Direct activation through lipid tension
+B  Direct activation through structural proteins
+form nonspecific cation-permeable channels that con-
+duct excitatory depolarizing current.
+Two different isoforms of the Piezo proteins serve 
+as mechanosensors: Piezo1 is found primarily in non-
+neural tissue, such as epithelia in blood vessels, the 
+kidney, and bladder, and in red blood cells. Piezo2 is 
+expressed in mechanosensory DRG and trigeminal 
+neurons that mediate the senses of touch and propri-
+oception and in vagal afferents innervating smooth 
+muscle of the lung, where they mediate the Hering-
+Breuer reflex by sensing lung stretch (Chapter 32).
+Specialized End Organs Contribute to 
+Mechanosensation
+In addition to the molecular composition of the ion 
+channels expressed in the distal nerve endings, compo-
+nents of surrounding tissue such as epithelial cells or 
+muscle fibers play a significant role in mechanotrans-
+duction. The specialized nonneural end organs that 
+surround the nerve terminals of a DRG neuron must be 
+deformed in specific ways to excite the fiber. For exam-
+ple, individual mechanoreceptors respond selectively 
+to pressure or motion, and thereby detect the direction 
+of force applied to the skin, joints, or muscle fibers. The 
+end organ can also amplify or modulate the sensitivity 
+of the receptor axon to mechanical displacement.
+Specialized epithelial cells in the skin—such as 
+Merkel cells, the epithelium lining hair follicles, and the 
+papillary ridges that form the fingerprints of glabrous 
+
+
+===== Page 6 =====
+Chapter 18 / Receptors of the Somatosensory System    417
+Cytoplasmic
+side
+A  Molecular organization of the Piezo1 protein
+B  Structure of the Piezo1 ion channel
+1  Side view
+2  Top-down view
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+Extracellular
+side
+Plasma
+membrane
+Propeller
+blade
+Detergent
+micelle
+Unmodeled
+density
+~200Å
+~140Å
+Figure 18–6  Structure and molecular organization of Piezo1 
+ion channels.
+A. Piezo1 and Piezo2 have homologous protein structures, 
+containing approximately 2,500 amino acids, with at least 
+26 putative transmembrane segments. Combined as trim-
+ers, they form the largest membrane ion channels in mam-
+mals. (Adapted, with permission, from Murthy, Dubin, and 
+Patapoutian 2017. Copyright © 2017 Springer Nature.)
+B. Putative structure of the Piezo1 ion channel deduced from 
+cryo-electron microscopy. 1. Side view, cytoplasmic surface 
+down. 2. Top-down view from extracellular side. The receptor 
+is a triskelion made up of three identical Piezo1 subunits. The 
+C-terminals of the three Piezo proteins form a central extra-
+cellular cap tethered to the extracellular surface of the trans-
+membrane pore, which extends beyond the membrane into a 
+cytoplasmic tail domain. The aqueous pore through the channel 
+extends through the central axis of the cap, the transmem-
+brane pore, and the cytoplasmic tail domain. The N-terminals 
+of the three protein subunits are arrayed peripherally, forming 
+a propeller-like helical structure. Blue indicates area of high-
+resolution modeling. (Adapted, with permission, from  
+Saotome et al. 2018. Copyright © 2018 Springer Nature.)
+skin—play important auxiliary roles in the sense of 
+touch. The best studied of these end organs are Mer-
+kel cells—sensory epithelial cells that form close con-
+tacts with the terminals of large-diameter (Aβ) sensory 
+nerve axons at the epidermal–dermal junction, form-
+ing Merkel cell–neurite complexes. Merkel cells clus-
+ter in swellings of the epidermis in hairy skin called 
+touch domes (Figure 18–7A) and near the center of the 
+fingerprint ridges in glabrous skin (see Figure 19–3). 
+When a probe contacts the touch dome, the sensory 
+nerve responds with a train of action potentials whose 
+frequency is proportional to the velocity and ampli-
+tude of pressure applied to the skin (Figure 18–7A2). 
+These spike trains typically last throughout the period 
+of stimulation and are termed slowly adapting because 
+the firing persists for periods of up to 30 minutes. Like-
+wise, the sensory nerve is called an SA1 fiber (slowly 
+adapting type 1 fiber).
+Merkel cells serve a similar receptive function in 
+the sense of touch as auditory hair cells in the cochlea 
+
+
+===== Page 7 =====
+418    Part IV / Perception
+Figure 18–7  Afferent fibers innervating Merkel cells 
+respond continuously to pressure on the skin.
+A. 1. An individual slowly adapting type 1 (SA1) mechanorecep-
+tive fiber innervates a cluster of 22 Merkel cells (each labeled 
+with enhanced green fluorescent protein [eGFP]) in a touch 
+dome of the hairy skin. Left: In vivo epifluorescent images of 
+the isolated skin-nerve recording preparation. Asterisk (*) indi-
+cates the location of the associated guard hair within the touch 
+dome. Right: Confocal z-series projections of the entire touch 
+dome innervated by the SA1 fiber. Arrowheads are used to 
+align Merkel cells in the two images. 2. The SA1 fiber responds 
+to 5-second duration steps of pressure (measured in kilopas-
+cals [kPa]) applied over the touch dome (upper records) with 
+irregular, slowly adapting spike trains (recorded extracellularly), 
+whose mean frequency of firing is proportional to the applied 
+force (lower records). The neuron fires at its highest rate at the 
+start of stimulation and fires fewer spikes during maintained 
+pressure. (Reproduced, with permission, from Wellnitz et al. 
+2010.)
+B. A model of sensory transduction in SA1 mechanorecep-
+tors. Pressure on the skin opens Piezo2 channels (blue) in the 
+Merkel cell and in the peripheral neurite of the SA1 fiber that 
+receives synaptic input from the Merkel cell. Piezo2 channels 
+in the neurite open at the onset of stimulation (1) generating 
+the initial dynamic response to touch (2). Skin deformation 
+simultaneously activates Piezo2 channels in the Merkel cell (3), 
+depolarizing it and allowing voltage-gated CaV channels in the 
+Merkel cell (4) to open and release neurotransmitter continu-
+ously (5). Binding of the neurotransmitter further depolarizes 
+the SA1 neurite, producing sustained firing in the principal axon 
+(6). (Reproduced, with permission, from Maksimovic et al. 
+2014. Copyright © 2014 Springer Nature.)
+A
+B
+1
+2
+Stimulus pressure
+SA1 ﬁber activity
+1 s
+40 µm
+50 kPa
+400 µV
+Pressure
+Merkel cell
+Nucleus
+Piezo2
+Cav
+SAI afferent
+Dynamic
+Static
+Merkel cell clustering
+Stimuli
+Time
+1
+2
+3
+4
+5
+6
+2
+6
+
+
+===== Page 8 =====
+Chapter 18 / Receptors of the Somatosensory System    419
+(Chapter 26) and taste cells in the tongue (Chapter 32). 
+Merkel cells studied in vitro respond to mechanical 
+force such as pressure or suction with depolarizing 
+currents that are similar in time course and conduct-
+ance to those evoked in isolated DRG neurons. They 
+express synaptic release proteins and contain vesicles 
+that release excitatory neurotransmitters during sus-
+tained pressure. Merkel cells express Piezo2 proteins 
+and show increased cytoplasmic Ca2+ levels when 
+stimulated by pressure.
+The importance of Merkel cells for physiologi-
+cal responses to touch is seen in mice that fail to 
+develop Merkel cells in the epidermis (Atoh1 condi-
+tional knockout mice). The firing rates of SA1 fibers 
+in these animals are reduced in amplitude and dura-
+tion compared to wild-type. These experiments indi-
+cate that Merkel cells are responsible for the sustained 
+response to static touch. Recently, Ellen Lumpkin and 
+colleagues used optogenetic stimulation of Merkel 
+cells rather than direct pressure on the skin to dem-
+onstrate that SA1 fibers innervating touch domes 
+use a dual-mechanism to sense pressure on the 
+skin (Figure 18–7B). The initial dynamic response to 
+touch is generated primarily by current flow through 
+Piezo2 channels in the SA1 nerve terminal. The subse-
+quent static response results from excitatory synaptic 
+transmission from Merkel cells that express Piezo2 
+channels and continuously release neurotransmitter 
+during sustained pressure on the skin.
+Hairs that protrude from the surface of the skin 
+provide another important set of touch end organs. 
+Sensory hair fibers are extremely sensitive to motion. 
+Deflection of hairs by light breezes or air puffs evokes 
+one or more action potentials from hair follicle affer-
+ent fibers. Humans can perceive motion of individ-
+ual hairs and localize the sensation to the base of the 
+hair, where it emerges from the skin. Sensory hairs 
+serve an important protective function as they detect 
+objects, other organisms, or obstacles in the environ-
+ment at a distance before they impact the body. Hairs 
+or sensory antennae detect important object features 
+such as texture, curvature, and rigidity that aid rec-
+ognition as friend or foe. These neurons are named 
+rapidly adapting low-threshold mechanoreceptors (RA-
+LTMRs) because they respond to gentle touch or hair 
+movement with brief bursts of spikes when the hair is 
+moved by external forces.
+Hairs are embedded in skin invaginations called 
+hair follicles. Three types of hairs are found in mamma-
+lian skin (Figure 18–8A). The largest, longest, and stiff-
+est hairs (named guard hairs) are the first to emerge 
+from the skin during development. Guard hairs are 
+innervated by the largest-diameter and fastest-conducting 
+sensory nerve fibers (type Aβ); these fibers form 
+lanceolate (comb-like) endings in the epidermis of  
+the follicle surrounding the hair (Figure 18–2H). Aβ 
+RA-LTMR nerve fibers also innervate intermediate-
+sized hairs (called awl/auchene hairs) with lanceolate 
+endings. Awl/auchene hairs are triply innervated: 
+They provide inputs to fast-conducting (Aβ) myeli-
+nated fibers; smaller-diameter, slower-conducting 
+myelinated (Aδ) fibers; and unmyelinated C fibers. 
+The smallest and most numerous hairs (called zigzag 
+or down hairs) are also innervated by Aδ and C fibers.
+Until recently, Aδ and C fibers were thought to 
+mediate only thermal or painful sensations. However, 
+microneurography studies in humans by Johan 
+Wessberg, Håkan Olausson, and Åke Vallbo demon-
+strated that hairy skin is also innervated by unmyeli-
+nated C-LTMR fibers that respond to slowly moving 
+tactile stimuli and are thought to mediate social or 
+pleasurable touch. They may also play a role in pain 
+inhibition in the spinal cord dorsal horn.
+The innervation pattern of hair follicles in the skin 
+illustrates two important principles of sensory inner-
+vation of the body: convergence and divergence. Each 
+individual hair follicle in the skin provides input to 
+multiple sensory afferent fibers. This pattern of over-
+lap provides redundancy of sensory input from a small 
+patch of skin. Shared lines of communication innervate 
+each hair follicle, rather than a single labeled line. Tac-
+tile information from the skin is therefore transmitted 
+in parallel by an ensemble of sensory neurons.
+The skin area innervated by the sensory nerve 
+terminals of a DRG neuron defines the cell’s receptive 
+field, the region of the body that can excite the cell. 
+Each sensory nerve fiber collects information from 
+a wide area of skin because its distal terminals have 
+multiple branches that can be activated independently. 
+This morphology enables each afferent fiber to provide 
+unique patterns of sensory input to the brain.
+The diversity of receptive field sizes and terri-
+tories encompassed by individual classes of DRG 
+neurons is illustrated in Figure 18–8B. Because of 
+the large size of tactile receptive fields, gentle touch 
+excites many different sensory fibers at the site of 
+contact, each conveying a specific sensory message. 
+The smallest tactile receptive fields are the touch 
+domes innervated by SA1 fibers (see Figure 19–8B 
+Aβ SA1). An individual SA1 fiber innervates all of 
+the Merkel cells in a touch dome and typically col-
+lects information from one to three touch domes in 
+adjacent skin regions. Hair follicles innervated by 
+individual RA fibers are spread further apart and 
+the sensory endings differ somewhat in size, with 
+the largest-diameter Aβ fibers encompassing the 
+
+
+===== Page 9 =====
+420    Part IV / Perception
+A  Hairy skin innervation
+Aδ-LTMR
+Merkel cells
+Dermis
+Zigzag
+Guard
+Awl/auchene
+Epidermis
+Aβ RA-LTMR
+Aβ ﬁeld-LTMR
+(circumferential ending)
+Aβ SA1-LTMR
+C-LTMR
+B  Receptive ﬁelds of low-threshold mechanoreceptors
+Aβ ﬁeld
+Aβ RA
+Aδ
+C
+Aβ SA1
+
+

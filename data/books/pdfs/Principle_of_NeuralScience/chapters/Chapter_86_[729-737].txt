@@ -1,0 +1,749 @@
+===== Page 1 =====
+684    Part IV / Perception
+Figure 29–2  The olfactory epithelium.
+A. The olfactory epithelium contains sensory neurons inter-
+spersed with supporting cells as well as a basal layer of stem 
+cells. A single dendrite extends from the apical end of each 
+neuron; sensory cilia sprout from the end of the dendrite into 
+the mucus lining the nasal cavity. An axon extends from the 
+basal end of each neuron to the olfactory bulb.
+B. A scanning electron micrograph of the olfactory epithelium 
+shows the dense mat of sensory cilia at the epithelial surface. Sup-
+porting cells (S) are columnar cells that extend the full depth of the 
+epithelium and have apical microvilli. Interspersed among the sup-
+porting cells is an olfactory sensory neuron (O) with its dendrite and 
+cilia, and a basal stem cell (B). (Reproduced, with permission, from 
+Morrison and Costanzo 1990. Copyright © 1990 Wiley-Liss, Inc.)
+To olfactory bulb
+Basal 
+cells
+Supporting
+cell
+Mucus
+Cilia
+A
+B
+Dendrite
+Olfactory
+sensory 
+neuron
+Axon
+B
+O
+S
+thin cilia that protrude into the mucus that coats the 
+nasal cavity (Figure 29–2). The cilia contain the odor-
+ant receptors as well as the transduction machinery 
+needed to amplify sensory signals from the receptors 
+and transform them into electrical signals in the neu-
+ron’s axon, which projects from the basal pole of the 
+neuron to the brain. The axons of olfactory sensory 
+neurons pass through the cribriform plate, a perfo-
+rated region in the skull above the nasal cavity, and 
+then terminate in the olfactory bulb (see Figure 29–1).
+Mammals Share a Large Family of  
+Odorant Receptors
+Odorant receptors are proteins encoded by a mul-
+tigene family that is evolutionarily conserved and 
+found in all vertebrate species. Humans have approxi-
+mately 350 different odorant receptors, whereas mice 
+have approximately 1,000. Although odorant receptors 
+belong to the G protein–coupled receptor superfamily, 
+they share sequence motifs not seen in other superfam-
+ily members. Significantly, the odorant receptors vary 
+considerably in amino acid sequence (Figure 29–3A).
+Like other G protein–coupled receptors, odorant 
+receptors have seven hydrophobic regions that are 
+likely to serve as transmembrane domains (Figure 
+29–3A). Detailed studies of other G protein–coupled 
+receptors, such as the β-adrenergic receptor, suggest 
+that odorant binding occurs in a pocket in the trans-
+membrane region formed by a combination of the 
+transmembrane domains. The amino acid sequences 
+of odorant receptors are especially variable in several 
+transmembrane domains, providing a possible basis 
+for variability in the odorant binding pocket that could 
+account for the ability of different receptors to recog-
+nize structurally diverse ligands.
+A second, smaller family of chemosensory recep-
+tors is also expressed in the olfactory epithelium. 
+These receptors, called trace amine-associated recep-
+tors (TAARs), are G protein–coupled, but their protein 
+sequence is unrelated to that of odorant receptors. 
+They are encoded by a small family of genes present 
+in humans and mice as well as fish. Studies in mice, 
+which have 14 different olfactory TAARs, indicate 
+that TAARs recognize volatile amines, one of which 
+is present in high concentrations in the urine of male 
+
+
+===== Page 2 =====
+Chapter 29 / Smell and Taste: The Chemical Senses    685
+Figure 29–3  Odorant receptors.
+A. Odorant receptors have the seven transmembrane domains 
+characteristic of G protein–coupled receptors. They are related 
+to one another but vary in amino acid sequence (positions of 
+highest variability are shown here as black balls). (Reproduced, 
+with permission, from Buck and Axel 1991.)
+B. Binding of an odorant causes the odorant receptor to 
+interact with Gαolf, the α-subunit of a heterotrimeric G 
+protein. This causes the release of a guanosine triphosphate 
+(GTP)-coupled Gαolf, which stimulates adenylyl cyclase III, 
+leading to an increase in cyclic adenosine monophosphate 
+(cAMP). The elevated cAMP in turn induces the opening of 
+cyclic nucleotide–gated cation channels, causing cation  
+influx and a change in membrane potential in the ciliary 
+membrane.
+βγ
+Gαolf
+A
+NH2
+COOH
+B
+Odorants
+Odorant
+Odorant
+receptor
+Adenylyl
+cyclase III
+Cyclic nucleotide–
+gated channel
+Extracellular
+side
+Cytoplasmic
+side
+G protein P
+P
+Ca2+
+Na+
+cAMP
+P
+P
+P
+mice and another in the urine of some predators. It is 
+possible that this small receptor family has a function 
+distinct from that of the odorant receptor family, per-
+haps one associated with the detection of animal cues. 
+Another family of 12 receptors, called MS4Rs, is also 
+found in mice, where it may be involved in the detec-
+tion of pheromones and certain food odors.
+The binding of an odorant to its receptor induces a 
+cascade of intracellular signaling events that depolar-
+ize the olfactory sensory neuron (Figure 29–3B). The 
+depolarization spreads passively to the cell body and 
+then the axon, where action potentials are generated 
+that are actively conducted to the olfactory bulb.
+Humans and other animals rapidly accommodate 
+to odors, as seen for example in the weakening of 
+detection of an unpleasant odor that is continuously 
+present. The ability to sense an odorant rapidly recov-
+ers when the odorant is temporarily removed. The 
+adaptation to odorants is caused in part by modulation 
+of a cyclic nucleotide–gated ion channel in olfactory 
+cilia, but the mechanism by which sensitivity is speed-
+ily restored is not yet understood.
+Different Combinations of Receptors Encode 
+Different Odorants
+To be distinguished perceptually, different odorants 
+must cause different signals to be transmitted from the 
+nose to the brain. This is accomplished in two ways. 
+First, each olfactory sensory neuron expresses only 
+one odorant receptor gene and therefore one type of 
+receptor. Second, each receptor recognizes multiple 
+odorants, and conversely, each odorant is detected 
+by multiple different receptors (Figure 29–4). Impor-
+tantly, however, each odorant is detected, and thereby 
+encoded, by a unique combination of receptors and 
+thus causes a distinctive pattern of signals to be trans-
+mitted to the brain.
+
+
+===== Page 3 =====
+686    Part IV / Perception
+Figure 29–4  Each odorant is recognized by a unique com-
+bination of receptors. A single odorant receptor can recognize 
+multiple odorants, but different odorants are detected, and thus 
+encoded, by different combinations of receptors. This combinato-
+rial coding explains how mammals can distinguish odorants with 
+similar chemical structures as having different scents. The data 
+in the figure were obtained by testing mouse olfactory sensory 
+neurons with different odorants and then determining the odor-
+ant receptor gene expressed by each responsive neuron. The 
+perceived qualities of these odorants in humans shown on the 
+right illustrate how highly related odorants can have different 
+scents. (Adapted, with permission, from Malnic et al. 1999.)
+Odorants
+Odorant receptors
+Odors
+Rancid, sour, goat-like
+Sweet, herbal, woody
+Rancid, sour, sweaty
+Violet, sweet, woody
+Sweet, orange, rose
+Rancid, sour, repulsive
+Waxy, cheese, nut-like
+Fresh, rose, oily ﬂoral
+O
+OH
+O
+OH
+OH
+O
+OH
+OH
+OH
+O
+OH
+OH
+The combinatorial coding of odorants greatly 
+expands the discriminatory power of the olfactory sys-
+tem. If each odorant were detected by only three dif-
+ferent receptors, this strategy could in theory generate 
+millions of different combinatorial receptor codes—
+and an equivalently vast number of different signaling 
+patterns sent from the nose to the brain. Interestingly, 
+even odorants with nearly identical structures are rec-
+ognized by different combinations of receptors (Figure 
+29–4). The fact that highly related odorants have dif-
+ferent combinatorial receptor codes explains why a 
+slight change in the chemical structure of an odorant 
+can alter its perceived odor. In some cases, the result 
+is dramatic, for example, changing the perception of a 
+chemical from rose to sour.
+A change in concentration of an odorant can also 
+change the perceived odor. For example, a low con-
+centration of thioterpineol smells like tropical fruit, 
+whereas a higher concentration smells like grapefruit 
+and an even higher concentration smells putrid. As 
+the concentration of an odorant is increased, addi-
+tional receptors with lower affinity for the odorant are 
+recruited into the response and thus change the com-
+binatorial receptor code, providing an explanation for 
+the effects of odorant concentration on perception.
+Olfactory Information Is Transformed Along 
+the Pathway to the Brain
+Odorants Are Encoded in the Nose by  
+Dispersed Neurons
+How are signals from a large array of different odor-
+ant receptors organized in the nervous system to 
+generate diverse odor perceptions? This question 
+has been investigated in rodents. Studies in mice 
+have revealed that olfactory information undergoes 
+a series of transformations as it travels from the 
+olfactory epithelium to the olfactory bulb and then 
+to the olfactory cortex.
+The olfactory epithelium has a series of spatial 
+zones that express different olfactory receptors. Each 
+receptor type is expressed in approximately 5,000 
+neurons that are confined to one zone (Figure 29–5). 
+(Recall that each neuron expresses only one odorant 
+receptor gene.) Neurons with the same receptor are 
+randomly scattered within a zone so neurons with dif-
+ferent receptors are interspersed. All zones contain a 
+variety of receptors, and a specific odorant may be rec-
+ognized by receptors in different zones. Thus, despite 
+a rough organization of odorant receptors into spatial 
+
+
+===== Page 4 =====
+Chapter 29 / Smell and Taste: The Chemical Senses    687
+Figure 29–5  Organization of sensory inputs in the olfac-
+tory epithelium. The olfactory epithelium has different spatial 
+zones that express different sets of odorant receptor genes. 
+Each sensory neuron expresses only one receptor gene and 
+thus one type of receptor. Neurons with the same receptor are 
+confined to one zone but randomly scattered within that zone, 
+such that neurons with different receptors are interspersed. The 
+micrographs show the distribution of neurons labeled by four 
+different receptor probes in sections through the mouse nose. 
+An olfactory marker protein (OMP) probe labels all neurons 
+expressing odorant receptors. (Adapted, with permission, from 
+Ressler, Sullivan, and Buck 1993; Sullivan et al. 1996.)
+Figure 29–6  Olfactory bulb interneurons. In addition to 
+excitatory mitral and tufted relay neurons, the olfactory bulb 
+contains inhibitory interneurons. Within each glomerulus, the 
+dendrites of GABAergic periglomerular cells receive excita-
+tory input from olfactory sensory neurons and have reciprocal 
+synapses with the primary dendrites of mitral and tufted relay 
+neurons, suggesting a possible role in signal modification. The 
+dendrites of GABAergic granule cells deeper in the bulb have 
+reciprocal excitatory-inhibitory synapses with the secondary 
+dendrites of the relay neurons and are thought to provide nega-
+tive feedback to relay neurons that shapes the odor response. 
+(Adapted from Shepherd and Greer 1998.)
+Olfactory 
+bulb
+Olfactory
+epithelium
+K20
+K21
+L45
+A16
+OMP
+(all 
+odorant
+receptors)
+Olfactory epithelium
+Odorant
+receptor
+expressed
+zones, information provided by the odorant receptor 
+family is highly distributed in the epithelium.
+Because each odorant is detected by an ensemble 
+of neurons widely dispersed across the epithelial sheet, 
+receptors in one part of the epithelium will be able to 
+detect a particular odorant even when those in another 
+part are impaired by respiratory infection.
+Sensory Inputs in the Olfactory Bulb Are Arranged 
+by Receptor Type
+The axons of olfactory sensory neurons project to the 
+ipsilateral olfactory bulb, whose rostral end lies just 
+above the olfactory epithelium. The axons of olfactory 
+sensory neurons terminate on the dendrites of olfactory 
+bulb neurons within bundles of neuropil called glomer-
+uli that are arrayed over the bulb’s surface (Figure 29–1). 
+In each glomerulus, the sensory axons make synaptic 
+connections with three types of neurons: mitral and 
+tufted projection (relay) neurons, which project axons to 
+the olfactory cortex, and periglomerular interneurons, 
+which encircle the glomerulus (Figure 29–6).
+Granule
+cell
+Mitral
+cell
+Glomerulus
+Peri-
+glomerular
+cell
+Olfactory
+sensory
+neuron
+
+
+===== Page 5 =====
+688    Part IV / Perception
+The axon of an olfactory sensory neuron as well as 
+the primary dendrite of each mitral and tufted relay 
+neuron terminate in a single glomerulus. In each glo-
+merulus, the axons of several thousand sensory neu-
+rons converge on the dendrites of approximately 40 to 
+50 relay neurons. This convergence results in approxi-
+mately a 100-fold decrease in the number of neurons 
+transmitting olfactory signals.
+The organization of sensory information in the 
+olfactory bulb is dramatically different from that of the 
+epithelium. Whereas olfactory sensory neurons with 
+the same odorant receptor are randomly scattered in 
+one epithelial zone, their axons typically converge in 
+two glomeruli at specific locations, one on either side 
+of the olfactory bulb (Figure 29–7C). Each glomerulus, 
+and each mitral and tufted relay neuron connected to 
+it, receives input from just one type of odorant recep-
+tor. The result is a precise arrangement of sensory 
+inputs from different odorant receptors, one that is 
+similar between individuals.
+Because each odorant is recognized by a unique 
+combination of receptor types, each also activates a 
+particular combination of glomeruli in the olfactory 
+bulb (Figure 29–7B). At the same time, just as one odor-
+ant receptor recognizes multiple odorants, a single 
+glomerulus—or a given mitral or tufted cell—is acti-
+vated by more than one odorant. Owing to the nearly 
+stereotyped pattern of receptor inputs in the olfactory 
+bulb, the patterns of glomerular activation elicited by 
+individual odorants are similar in all individuals and 
+are bilaterally symmetrical in the two adjacent bulbs.
+This organization of sensory information in the 
+olfactory bulb is likely to be advantageous in two 
+respects. First, signals from thousands of sensory neu-
+rons with the same odorant receptor type always con-
+verge on the same few glomeruli, and relay neurons in 
+the olfactory bulb may optimize the detection of odor-
+ants present at low concentrations. Second, although 
+olfactory sensory neurons with the same receptor 
+type are dispersed and are continually replaced, the 
+arrangement of inputs in the olfactory bulb remains 
+unaltered. As a result, the neural code for an odorant 
+in the brain is maintained over time, assuring that an 
+odorant encountered previously can be recognized 
+years later.
+One mystery that remains unsolved is how all the 
+axons of olfactory sensory neurons with the same type 
+of receptor are directed to the same glomeruli. Studies 
+using transgenic mice indicate that the odorant recep-
+tor itself somehow determines the target of the axon, 
+but how it does so is not yet understood.
+Sensory information is processed and possibly 
+refined in the olfactory bulb before it is forwarded 
+to the olfactory cortex. Each glomerulus is encircled 
+by periglomerular interneurons that receive excita-
+tory input from sensory axons and form inhibitory 
+dendrodendritic synapses with mitral and tufted cell 
+dendrites in that glomerulus and perhaps adjacent glo-
+meruli. The periglomerular interneurons may therefore 
+have a role in signal modulation. In addition, granule 
+cell interneurons deep in the bulb provide negative 
+feedback onto mitral and tufted cells. The granule cell 
+interneurons are excited by the basal dendrites of mitral 
+and tufted cells and in turn inhibit those relay neurons 
+and others with which they are connected. The lateral 
+inhibition afforded by these connections is thought to 
+dampen signals from glomeruli and relay neurons that 
+respond to an odorant only weakly, thereby sharpen-
+ing the contrast between important and irrelevant sen-
+sory information before its transmission to the cortex.
+Other potential sources of signal refinement are the 
+retrograde projections to the olfactory bulb from the 
+olfactory cortex, basal forebrain (horizontal limb of 
+the diagonal band), and midbrain (locus ceruleus and 
+raphe nuclei). These connections may modulate olfac-
+tory bulb output according to the physiological or 
+behavioral state of an animal. When the animal is hun-
+gry, for example, some centrifugal projections might 
+heighten the perception of the aroma of foods.
+The Olfactory Bulb Transmits Information to the 
+Olfactory Cortex
+The axons of the mitral and tufted relay neurons of 
+the olfactory bulb project through the lateral olfac-
+tory tract to the olfactory cortex (Figure 29–8 and see  
+Figure 29–1). The olfactory cortex, defined roughly as 
+that portion of the cortex that receives a direct projec-
+tion from the olfactory bulb, comprises multiple ana-
+tomically distinct areas. The six major areas are the 
+anterior olfactory nucleus, which connects the two 
+olfactory bulbs through a portion of the anterior com-
+missure; the anterior and posterior-lateral cortical 
+nuclei of the amygdala; the olfactory tubercle; part of 
+the entorhinal cortex; and the piriform cortex, the larg-
+est and considered the major olfactory cortical area.
+The functions of the different olfactory cortical 
+areas are largely unknown. However, the piriform 
+cortex is thought to be important for odor learning. 
+Recent studies indicate that the posterior-lateral corti-
+cal amygdala may have a role in innate attraction and 
+fear behaviors, and the amygdalo-piriform transition 
+area, a minor olfactory cortical area, a role in stress hor-
+mone responses to predator odors detected in the nose.
+In the piriform cortex, the axons of olfactory bulb 
+mitral and tufted cells leave the lateral olfactory tract 
+
+
+===== Page 6 =====
+Figure 29–7  Odor responses in the olfactory bulb.
+A. The axons of sensory neurons with the same odorant recep-
+tor type usually converge in only two glomeruli, one on each 
+side of the olfactory bulb. Here, a probe specific for one odor-
+ant receptor gene labeled a glomerulus on the medial side (left) 
+and lateral side (right) of a mouse olfactory bulb. The probe 
+hybridized to receptor messenger RNAs present in sensory 
+axons in these coronal sections. (Adapted, with permission, 
+from Ressler, Sullivan, and Buck 1994.)
+B. A single odorant often activates multiple glomeruli with 
+input from different receptors. This section of a rat olfac-
+tory bulb shows the uptake of radiolabeled 2-deoxglucose 
+at multiple foci (red) following exposure of the animal to 
+the odorant methyl benzoate. The labeled foci correspond 
+to numerous glomeruli at different locations in the olfactory 
+bulb. (Reproduced, with permission, from Johnson, Farahbod, 
+and Leon 2005. Copyright © 2005 Wiley-Liss, Inc.)
+C. The olfactory bulb has a precise map of odorant receptor 
+inputs because each glomerulus is dedicated to only one type 
+of receptor. The maps in the two olfactory bulbs are bilaterally 
+symmetrical and are nearly identical across individuals. The 
+maps on the medial and lateral sides of each bulb are similar, 
+but slightly displaced along the dorsal-ventral and anterior-
+posterior axes.
+A  Axons of neurons with the same odorant receptor 
+ 
+converge on a few glomeruli
+B  One odorant can activate 
+     many glomeruli
+C  The olfactory bulb has a precise map of odorant receptor inputs
+Glomeruli
+Neurons 
+expressing
+the same
+odorant
+receptor 
+Olfactory 
+bulb
+Olfactory 
+epithelium
+
+
+===== Page 7 =====
+690    Part IV / Perception
+Olfactory
+epithelium
+Vomeronasal
+organ
+Lateral
+olfactory tract
+Anterior
+olfactory
+nucleus
+Piriform
+cortex
+Olfactory
+tubercle
+Amygdala
+Entorhinal
+cortex
+Contralateral
+olfactory
+bulb
+Hypothalamus
+Hippocampus
+Thalamus
+Orbitofrontal cortex
+Hypothalamus
+Frontal cortex
+Mitral
+cell
+Tufted
+cell
+Olfactory
+bulb
+Olfactory
+cortex
+Accessory
+olfactory
+bulb
+Mitral
+cell
+Figure 29–8  Afferent pathways to olfactory cortex.  The axons 
+of mitral and tufted relay neurons of the olfactory bulb project 
+through the lateral olfactory tract to the olfactory cortex. The olfac-
+tory cortex consists of a number of distinct areas, the largest of 
+which is the piriform cortex. From these areas, olfactory informa-
+tion is transmitted to other brain areas directly as well as indirectly 
+via the thalamus. Targets include frontal and orbitofrontal areas 
+of the neocortex, which are thought to be important for odor dis-
+crimination, and the amygdala and hypothalamus, which may be 
+involved in emotional and physiological responses to odors. Mitral 
+cells in the accessory olfactory bulb project to specific areas of the 
+amygdala that transmit signals to the hypothalamus.
+to form excitatory glutamatergic synapses with pyrami-
+dal neurons, the projection neurons of the cortex. 
+Pyramidal neuron activity appears to be modulated by 
+inhibitory inputs from local GABAergic interneurons 
+as well as by excitatory inputs from other pyramidal 
+neurons in the same and other olfactory cortical areas 
+and the contralateral piriform cortex. The piriform cor-
+tex also receives centrifugal inputs from modulatory 
+brain areas, suggesting that its activity may be adjusted 
+according to physiological or behavioral state. Finally, 
+the olfactory cortex projects to the olfactory bulb, pro-
+viding yet another possible means of signal modulation.
+As with the olfactory bulb relay neurons, indi-
+vidual pyramidal neurons can be activated by more 
+than one odorant. However, the pyramidal neurons 
+activated by a particular odorant are scattered across 
+the piriform cortex, an arrangement different from that 
+of the olfactory bulb. Mitral cells in different parts of 
+the olfactory bulb can project axons to the same sub-
+region of the piriform cortex, further indicating that 
+the highly organized map of odorant receptor inputs 
+in the olfactory bulb is not recapitulated in the cortex.
+Output From the Olfactory Cortex Reaches Higher 
+Cortical and Limbic Areas
+Pyramidal neurons in the olfactory cortex transmit 
+information indirectly to the orbitofrontal cortex 
+through the thalamus and directly to the frontal cortex. 
+These pathways to higher cortical areas are thought to 
+be important in odor discrimination. In fact, people 
+with lesions of the orbitofrontal cortex are unable to 
+discriminate odors. Interestingly, recordings in the 
+orbitofrontal cortex suggest that some individual neu-
+rons in that area receive multimodal input, responding, 
+for example, to the smell, sight, or taste of a banana.
+Many areas of the olfactory cortex also relay 
+information to nonolfactory areas of the amygdala, 
+which is linked to emotions, and to the hypothala-
+mus, which controls basic drives, such as appetite, as 
+well as a number of innate behaviors. These limbic 
+areas are thought to play a role in the emotional and 
+motivational aspects of smell as well as many of the 
+behavioral and physiological effects of odorants. In 
+animals, they may be important in the generation of 
+
+
+===== Page 8 =====
+Chapter 29 / Smell and Taste: The Chemical Senses    691
+stereotyped behavioral and physiological responses to 
+odors of predators or to pheromones that are detected 
+in the olfactory epithelium.
+Olfactory Acuity Varies in Humans
+Olfactory acuity can vary as much as 1,000-fold among 
+humans, even among people with no obvious abnor-
+mality. The most common olfactory aberration is specific 
+anosmia. An individual with a specific anosmia has 
+lowered sensitivity to a specific odorant even though 
+sensitivity to other odorants appears normal. Specific 
+anosmias to some odorants are common, with a few 
+occurring in 1% to 20% of people. For example, 12% 
+of individuals tested in one study exhibited a specific 
+anosmia for musk. Recent studies indicate that specific 
+anosmias can be caused by mutations in particular 
+odorant receptor genes.
+Far rarer abnormalities of olfaction, such as general 
+anosmia (complete lack of olfactory sensation) or hyposmia 
+(diminished sense of smell), are often transient and can 
+derive from respiratory infections. Chronic anosmia 
+or hyposmia can result from damage to the olfactory 
+epithelium caused by infections; from particular dis-
+eases, such as Parkinson disease; or from head trauma 
+that severs the olfactory nerves passing through holes 
+in the cribriform plate, which then become blocked 
+by scar tissue. Olfactory hallucinations of repugnant 
+smells (cacosmia) can occur as a consequence of epilep-
+tic seizures.
+Odors Elicit Characteristic Innate Behaviors
+Pheromones Are Detected in Two  
+Olfactory Structures
+In many animals, the olfactory system detects not 
+only odors but also pheromones, chemicals that are 
+released from animals and influence the behavior or 
+physiology of members of the same species. Phero-
+mones play important roles in a variety of mammals, 
+although they have not been demonstrated in humans. 
+Often contained in urine or glandular secretions, some 
+pheromones modulate the levels of reproductive hor-
+mones or stimulate sexual behavior or aggression. 
+Pheromones are detected by two separate structures: 
+the nasal olfactory epithelium, where odorants are 
+detected, and the vomeronasal organ, an accessory 
+olfactory organ thought to be specialized for the detec-
+tion of pheromones and other animal cues.
+The vomeronasal organ is present in many mam-
+mals, although not in humans. It is a tubular structure 
+in the nasal septum that has a duct opening into the 
+nasal cavity and one inner wall lined by a sensory 
+epithelium. Signals generated by sensory neurons 
+in the epithelium of the vomeronasal organ follow a 
+distinct pathway. They travel through the accessory 
+olfactory bulb primarily to the medial amygdala and 
+posterior-medial cortical amygdala and from there to 
+the hypothalamus.
+Sensory detection in the vomeronasal organ differs 
+from that in the olfactory epithelium. The vomerona-
+sal organ has two different families of chemosensory 
+receptors, the V1R and V2R families. In the mouse, 
+each family has more than 100 members. Variation in 
+amino acid sequence between members of each recep-
+tor family suggests that each family may recognize a 
+variety of different ligands. Like odorant receptors, 
+V1R and V2R receptors have the seven transmem-
+brane domains typical of G protein–coupled receptors. 
+The V2R receptor differs from both V1R and odor-
+ant receptors in having a large extracellular domain 
+at the N-terminal end (Figure 29–9A). By analogy with 
+receptors with similar structures, ligands may bind 
+V1R receptors in a membrane pocket formed by a com-
+bination of transmembrane domains, whereas binding 
+to V2R receptors may occur in the large extracellular 
+domain. Although the V1R receptors are thought to 
+recognize volatile chemicals, at least some V2Rs are 
+thought to recognize proteins. These include a protein 
+pheromone present in tears, mouse urinary proteins 
+that stimulate aggression, and predator proteins from 
+cats and rats that stimulate fear in mice.
+The V1R and V2R families are expressed in differ-
+ent spatial zones in the vomeronasal organ that express 
+different G proteins (Figure 29–9B,C). Each V1R or V2R 
+gene is expressed in a small percentage of neurons scat-
+tered throughout one zone, an arrangement similar to 
+that of odorant receptors in the olfactory epithelium. 
+Similar to the main olfactory bulb, vomeronasal neu-
+rons with the same receptor type project to the same 
+glomeruli in the accessory olfactory bulb, although 
+the glomeruli for each receptor type are more numer-
+ous and their distribution less stereotyped than in the 
+main olfactory bulb. In addition to V1R and V2R recep-
+tors, the vomeronasal organ has a family of five formyl 
+peptide-related receptors (FPRs). These receptors are 
+related to immune system FPRs that detect bacterial 
+proteins, raising speculation that they might play a 
+role in detecting diseased animals of the same species.
+Invertebrate Olfactory Systems Can Be Used to 
+Study Odor Coding and Behavior
+Because invertebrates have simple nervous systems 
+and often respond to olfactory stimuli with stereotyped 
+
+
+===== Page 9 =====
+692    Part IV / Perception
+V1R
+C  Receptor and G protein distribution  
+V2R
+V2R
+V1R
+Gαi2 
+expressed
+Gαo 
+expressed
+V1R
+A
+B  Receptor distribution
+A  Receptor structure
+V2R
+NH2
+NH2
+HOOC
+HOOC
+Vomeronasal 
+organ
+Figure 29–9  (Right) Candidate pheromone receptors in the 
+vomeronasal organ.
+A. The V1R and V2R families of receptors are expressed in the 
+vomeronasal organ. In the mouse, each family has more than 
+100 members, which vary in protein sequence. Members of 
+both families have the seven transmembrane domains of G 
+protein–coupled receptors, but V2R receptors also have a large 
+extracellular domain at the N-terminal end that may be the site 
+of ligand binding.
+B. Sections through the vomeronasal organ show individual 
+V1R and V2R probes hybridized to subsets of neurons in two 
+distinct zones. (Reproduced, with permission, from Dulac and 
+Axel 1995; Matsunami and Buck 1997.)
+C. The two zones express high levels of different G proteins, 
+Gααi2 and Gααo.
+behaviors, they are useful for understanding the rela-
+tionship between the neural representation of odor 
+and behavior.
+Certain features of chemosensory systems are 
+highly conserved in evolution. First, all metazoan ani-
+mals can detect a variety of organic molecules using 
+specialized chemosensory neurons with cilia or micro-
+villi that contact the external environment. Second, the 
+initial events of odor detection are mediated by fami-
+lies of transmembrane receptors with specific expres-
+sion patterns in peripheral sensory neurons. Other 
+features of the olfactory system differ between species, 
+reflecting selection pressures and evolutionary histo-
+ries of the animals.
+The primary sensory organs of insects are the 
+antennae and appendages known as maxillary palps 
+near the mouth (Figure 29–10A). Whereas mammals 
+have millions of olfactory neurons, insects have a much 
+smaller number. There are approximately 2,600 olfac-
+tory neurons in the fruit fly Drosophila and approxi-
+mately 60,000 in the honeybee.
+The insect odorant receptors were discovered by 
+finding multigene receptor families in the Drosophila 
+genome, and these genes have now been examined in 
+other insect genomes as well. Remarkably, they have 
+little similarity to mammalian odorant receptors save 
+for the presence of many transmembrane domains. 
+Indeed, insect receptors appear to have an independ-
+ent evolutionary origin from mammalian receptors 
+and may not even be G protein–coupled receptors—
+an extreme example of the fast evolutionary change 
+observed across all olfactory receptor systems. In 
+Drosophila, the main odorant receptor family has only 
+60 genes, rather than the hundreds characteristic of 
+vertebrates. The malaria mosquito Anopheles gambiae 
+and the honeybee have similar numbers (85–95 genes), 
+whereas leaf-cutter ants have more than 350 odorant 
+
+

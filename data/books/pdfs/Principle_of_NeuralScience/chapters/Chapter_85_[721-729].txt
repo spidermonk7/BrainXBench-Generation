@@ -1,0 +1,828 @@
+===== Page 1 =====
+676    Part IV / Perception
+Figure 28–14  The auditory system of the bat has special-
+ized areas for locating sounds.
+A. A sonogram of an animal’s calls (solid lines) and the result-
+ant echoes (dashed lines) illustrates the two components 
+of the call: the protracted, harmonically related constant-
+frequency (CF) signal and the briefer frequency-modulated (FM) 
+signal. The duration of the calls declines as the animal approaches 
+its target. (Adapted, with permission, from Suga 1984.)
+B. A view of the cerebral hemisphere of the mustached bat 
+shows three of the functional areas within the auditory cor-
+tex. The FM area is where the distance from the target is 
+computed; the CF area is where the velocity of the target is 
+computed; and the Doppler-shifted CF area is specialized for 
+the identification of small fluttering objects. The expanded 
+cortical representation of Doppler-shifted CF signals near the 
+second harmonic of the call frequency (60–62 kHz) forms the 
+acoustic “fovea.” (Adapted, with permission, from Suga 1984.)
+C. The FM-FM combination-sensitive neuron shown does not 
+respond significantly to either pulses or echoes alone, but 
+responds very strongly to a closely paired pulse-echo. However, 
+the neuron is also sensitive to the time difference between the 
+pulse and echo, as seen in the record on the right, where the 
+neuron fails to respond to a pulse-echo combination that is not 
+closely paired. (Adapted, with permission, from Suga et al. 1983.)
+100
+95
+50
+60-62
+Frequency axis
+40
+30
+24 20 10
+92
+91
+A
+B
+C
+120
+90
+60
+30
+0
+0
+20
+FM1 FM3
+FM1 FM4
+FM1
+CF1/CF2
+CF1/CF3
+FM2
+40
+Time (ms)
+Doppler shifted constant 
+frequency area
+Frequency (kHz)
+100
+50
+0
+Frequency (kHz)
+60
+80
+100
+Pulse
+Echo
+FM1
+FM2
+FM3
+FM4
+CF1
+CF2
+CF3
+CF4
+2 mm
+Delay
+axis
+Pulse
+Echo
+Pulse and echo
+closely paired
+Pulse and echo
+not closely paired
+FM area
+
+
+===== Page 2 =====
+Chapter 28 / Auditory Processing by the Central Nervous System    677
+fields in cats, monkeys, and humans. Regardless, the 
+choice of appropriate stimuli is likely to be as impor-
+tant in studying these other species as it has been in 
+studies of bats.
+The Auditory Cortex Is Involved in Processing Vocal 
+Feedback During Speaking
+Vocal communication involves both speaking and 
+hearing, often taking place concurrently. When we 
+speak, the sound of our voice is delivered not only to 
+the intended listener but also back to our own ears. 
+Such feedback to our auditory system during vocal 
+production is conducted not only through the air but 
+also through bone and can be loud as a result of the 
+proximity of the mouth and the ears.
+The auditory system must distinguish an auditory 
+percept as being self-generated or externally generated. 
+To monitor external sounds from the acoustic environ-
+ment during speaking, self-generated sounds have to 
+be masked. At the same time, the auditory system must 
+also monitor our own voice in order to detect errors in 
+vocal production. An accurate representation of one’s 
+own voice through vocal feedback is crucial to main-
+taining desired vocal production and to the learning of 
+a new language. In humans and animals, perturbations 
+of the vocal feedback can lead to alterations in vocal 
+production, and interruptions or blockages of the vocal 
+feedback can result in degradation in vocal learning.
+The evidence for the involvement of the auditory 
+cortex in processing vocal feedback comes from both 
+human and animal studies. Responses in the audi-
+tory cortex of human subjects to their own voice 
+while speaking are smaller than the responses to the 
+playback of the same sounds. This reduction can be 
+observed in electrocorticographical (ECoG) recordings 
+(Figure 28–15A) or with a variety of imaging methods 
+(eg, fMRI, PET, magnetoencephalography [MEG]).
+Single-neuron recordings from the auditory cortex 
+of vocalizing monkeys have shown that self-initiated 
+vocalizations result in suppression of cortical responses 
+to monkeys’ own vocalizations, of external sounds 
+heard during vocalization, and also spontaneous activ-
+ity (Figure 28–15B). Because in many instances firing 
+rates are suppressed to below spontaneous activity, the 
+suppression is likely caused by inhibition. Neurons sup-
+pressed by self-initiated vocalizations show frequency 
+and intensity tuning, as is typical of auditory cortical 
+neurons, and respond to the playback of vocalizations.
+The vocalization-induced suppression begins sev-
+eral hundred milliseconds prior to the onset of vocali-
+zation (Figure 28–15B), suggesting that these neurons 
+receive modulatory signals originating in vocal 
+production circuits. In humans, vocal production is 
+carried out by cortical areas in the frontal lobe, from 
+Broca’s area to premotor and motor cortex. In humans 
+and monkeys, axons from the premotor cortex to audi-
+tory regions of the superior temporal gyrus have been 
+described, and presumably, they mediate the vocali-
+zation-induced suppression. This modulatory connec-
+tion is not active when humans or monkeys simply 
+listen to vocal sounds played to them.
+Why do we suppress our auditory cortex when we 
+speak? A simple answer is that this suppression helps 
+reduce the masking effect of our own voice, which can 
+be very loud. A more interesting answer is that this 
+suppression results from a vocal feedback-monitoring 
+network in auditory cortex. In humans, there is less 
+or no suppression of auditory cortex if vocal feed-
+back is experimentally altered through earphones, for 
+example, when the pitch of the voice is shifted (Figure 
+28–15A). In marmoset monkeys, neurons suppressed 
+by self-initiated vocalizations may become less sup-
+pressed or even excited when the animal hears its 
+own frequency-shifted vocalizations (Figure 28–15C). 
+This sensitivity to feedback perturbations suggests 
+that neurons exhibiting vocalization-induced suppres-
+sion are part of a network responsible for monitoring 
+vocal feedback signals. The presence of vocal feed-
+back-related neural activity in the auditory cortex of 
+both humans and monkeys suggests that the auditory 
+cortex combines both internal modulation and vocal 
+feedback responses, rather than merely responding to 
+sensory signals coming through the ears.
+Not all neurons in the auditory cortex are sup-
+pressed by speaking or vocalizing. A smaller propor-
+tion (~30%) of neurons in marmoset A1 increase their 
+responses during self-initiated vocalizations, consistent 
+with their auditory response characteristics. In contrast 
+to vocalization-induced suppression, vocalization-
+related excitation begins after the onset of vocalization 
+and is likely the result of feedback through the ascend-
+ing auditory pathway. The vocalization-related excita-
+tion may help maintain the sensitivity of the auditory 
+cortex to the external acoustic environment during 
+speaking or vocalizing.
+Vocalization-induced suppression of auditory 
+responses has been observed in several mammalian 
+subcortical structures, including the brain stem and 
+inferior colliculus. Such suppression begins a few 
+milliseconds before or is synchronized with vocal 
+production. In contrast, cortical suppression begins 
+several hundred milliseconds before the vocal onset. 
+It is possible that subcortical suppression of auditory 
+responses during speaking or vocalizing is initiated by 
+cortical commands.
+
+
+===== Page 3 =====
+Auditory
+cortex
+f0
+0
+50
+100
+–4
+–2
+0
+2
+4
+6
+Baseline
+Frequency
+shifted
+Ampliﬁed
+0
+6
+12
+18
+24
+30
+36
+0
+–0.8
+0.8
+1.6
+2.4
+Firing rate (spikes/s)
+Firing rate (spikes s–1)
+Time relative to vocal onset (s)
+Time relative to vocal onset (s)
+3.2
+Vocal onset
+Speech onset
+Pitch
+shift
+Vocal onset
+B
+A
+Pitch
+shift
+Produced
+Heard
+1
+3
+4
+2
+Auditory
+cortex
+1
+2
+200
+100
+–100
+–200
+–300
+0
+0.4 0.6 0.8 1.0
+–0.4 –0.2
+0
+0.2
+Pitch change (cents)
+Time (s)
+0
+1
+2
+3
+4
+5
+−0.2
+0
+0.4
+0.2
+0
+Z
+0
+1
+2
+3
+4
+5
+Z
+0.5
+1
+Time (s)
+Time (s)
+0
+1
+2
+3
+4
+5
+Z
+0
+1
+2
+3
+4
+5
+Z
+Figure 28–15  Vocal feedback processing in auditory cortex.
+A. Examples of vocalization-induced suppression and sensitiv-
+ity to pitch perturbation in human cerebral cortex. 1. A subject’s 
+vocalizations (red arrow) went through a digital signal proces-
+sor that shifted pitch and delivered the distorted auditory feed-
+back (blue arrow) to the subject’s earphones. 2. Pitch track of 
+an example trial shows the pitch recorded by the microphone 
+(produced) and the pitch delivered to the earphones (heard). 
+Shaded region indicates the time interval when the signal 
+processor shifted the pitch by −200 cents (1 cent = 1/1200 
+octave). 3. The locations of electrodes that recorded from two 
+sites in the auditory cortex on the surface of the superior tem-
+poral gyrus. 4. The Z variable represents the power in the 50 to 
+150 Hz (high-γ) range of cortical activity, which has been shown 
+to correlate well with neuronal spiking activity. It was extracted 
+from the signals recorded at each electrode in the speaking 
+(red) and listening (blue) conditions. Vertical lines in the left 
+column of plots indicate vocalization onset, and shaded regions 
+in the right column of plots indicate the onset and offset of per-
+turbation. The response of a subject’s auditory cortex to his or 
+her own self-produced vocalization is generally smaller than the 
+response seen when the subject passively listens to playback 
+of the same vocalization (left column). The response of auditory 
+cortex to the perturbation during active phonation (speaking) 
+is enhanced (right column). (Adapted, with permission, from 
+Houde and Chang, 2015.)
+B. 1. Vocalization-induced suppression of neural activity in mar-
+moset monkey auditory cortex. Population-averaged firing rate 
+of all vocalization-suppressed responses are aligned by vocal 
+onset (a “Phee” call). The blue line is a moving average (100 ms 
+window) and shows that suppression begins prior to vocaliza-
+tion (indicated by arrow). The thick bar indicates the period 
+over which suppression is continuously significant (P <0.05). 
+(Adapted, with permission, from Eliades and Wang 2003.)
+2. Neurons subject to vocalization-induced suppression are 
+sensitive to vocal feedback perturbations. Top: Self-produced 
+vocalizations with or without feedback alterations were deliv-
+ered to the marmoset through a customized headphone. 
+Bottom: This auditory cortical neuron was suppressed during 
+normal vocalization (dark blue) but showed a large increase in 
+firing rate when the auditory feedback of the vocalization was 
+shifted in the frequency domain (light blue). Amplifying audi-
+tory feedback alone did not generate firing rate changes (black). 
+(Adapted, with permission, from Eliades and Wang 2008; 
+Crapse and Sommer 2008.)
+
+
+===== Page 4 =====
+Chapter 28 / Auditory Processing by the Central Nervous System    679
+Highlights
+  1.  Sound impinging on two ears carries informa-
+tion that the brain uses to compute where sounds 
+arise and what they mean. Sounds are charac-
+terized by the amount of energy at one or more 
+frequencies. To determine where sounds arise in 
+the horizontal plane, many mammals compute 
+differences in the time of arrival at the two ears 
+for sounds less than approximately 3,000 Hz. 
+To determine where sounds arise in the vertical 
+dimension and whether they arise from the front 
+or the back, mammals use spectral filtering of 
+sounds greater than approximately 6,000 Hz by 
+the head, shoulders, and external ears.
+  2.  Acoustic information is brought to the brain 
+from the cochlea by auditory nerve fibers, each 
+sharply tuned to a narrow range of frequen-
+cies and together representing the entire hear-
+ing range of the animal. Auditory nerve fibers 
+terminate in the ventral and dorsal cochlear 
+nuclei, distributing acoustic information to four 
+major groups of principal cells that form paral-
+lel ascending pathways through the brain stem. 
+The topographic organization of the auditory 
+nerve inputs imparts a tonotopic organization to 
+the ipsilateral cochlear nuclei that is preserved 
+all along the auditory pathway, including audi-
+tory cortex.
+  3.  A marked feature of auditory neurons at process-
+ing stations along the ascending pathway is their 
+progressively increasing stimulus selectivity.
+  4.  The ventral cochlear nucleus extracts three fea-
+tures of sounds: (a) The monaural pathways 
+through octopus cells of the ventral cochlear 
+nucleus, the superior paraolivary nucleus, and 
+ventral nucleus of the lateral lemniscus detect 
+coincident firing of auditory nerve fibers that is 
+useful for detecting onsets and gaps in sounds. 
+(b) Stellate cells detect and sharpen the encod-
+ing of spectral peaks and valleys and convey 
+that spectral information to the dorsal coch-
+lear nucleus, olivocochlear neurons in the ven-
+tral nucleus of the lateral lemniscus, ventral 
+nucleus of the lateral lemniscus, inferior col-
+liculus, and thalamus. Spectral information is 
+used for understanding the meaning of sounds 
+and for localizing their sources. (c) Bushy cells 
+sharpen and convey information about the fine 
+structure of sounds, which is used in the bin-
+aural pathways through the medial and lateral 
+superior olivary nuclei to make the interaural 
+comparisons of timing and intensity of sounds 
+at the two ears, which are used to localize sound 
+sources along the azimuth.
+  5.  The dorsal cochlear nucleus integrates acous-
+tic signals with somatosensory information in 
+its principal cells. Somatosensory information 
+helps distinguish the spectral cues generated by 
+an animal’s own movements, which are biologi-
+cally uninteresting, from those that arise from 
+the environment.
+  6.  Auditory brainstem pathways converge in the 
+inferior colliculus. The inferior colliculus feeds 
+acoustic information through the medial genicu-
+late body of the thalamus to auditory cortex.
+  7.  A projection from the inferior colliculus carries 
+information about the location of sounds to the 
+superior colliculus, a part of the brain that con-
+trols reflexive orienting movements of the head 
+and eyes.
+  8.  Within auditory cortex, auditory neurons con-
+tinue to become more selective to the stimuli to 
+which they respond. Subregions of the auditory 
+cortex represent different biologically significant 
+features such as pitch of tones that form har-
+monic complexes. Auditory cortex also transforms 
+rapidly varying features of sounds into firing-
+rate-based representations, while representing 
+slowly varying sounds using spike timing.
+  9.  Auditory circuits in the cerebral cortex are seg-
+regated into separate processing streams, with 
+dorsal and ventral streams concerned respec-
+tively with sound location in space and sound 
+identification.
+10.  The cerebral cortex modulates processing in 
+subcortical auditory areas. Projections from the 
+auditory cortex innervate the thalamus, inferior 
+colliculus, olivocochlear neurons, some basal 
+ganglionic structures, and even the dorsal coch-
+lear nucleus.
+11.  Auditory cortex is involved in processing vocal 
+feedback signals during speaking. Speaking 
+induces suppression of neural activity in audi-
+tory cortex that begins several hundred millisec-
+onds prior to the vocal onset. This suppression 
+results from a vocal feedback-monitoring net-
+work that functions to guide vocal production 
+and learning.
+ Donata Oertel  
+ Xiaoqin Wang 
+
+
+===== Page 5 =====
+680    Part IV / Perception
+Selected Reading
+Bendor DA, Wang X. 2005. The neuronal representation of 
+pitch in primate auditory cortex. Nature 436:1161–1165.
+Chase SM, Young ED. 2006. Spike-timing codes enhance 
+the representation of multiple simultaneous sound-
+localization cues in the inferior colliculus. J Neurosci 
+26:3889–3898.
+Eliades SJ, Wang X. 2008. Neural substrates of vocalization 
+feedback monitoring in primate auditory cortex. Nature 
+453:1102–1106.
+Gao E, Suga N. 2000. Experience-dependent plasticity in 
+the auditory cortex and the inferior colliculus of bats: 
+role of the corticofugal system. Proc Natl Acad Sci U S A 
+97:8081–8086.
+Hofman PM, Van Riswick JG, Van Opstal AJ. 1998. Relearn-
+ing sound localization with new ears. Nat Neurosci 
+1:417–421.
+Joris PX, Smith PH, Yin TC. 1998. Coincidence detection 
+in the auditory system: 50 years after Jeffress. Neuron 
+21:1235–1238.
+Joris PX, Yin TCT. 2007. A matter of time: internal delays in 
+binaural processing. Trends Neurosci 30:70–78.
+Oertel D, Young ED. 2004. What’s a cerebellar circuit doing in 
+the auditory system? Trends Neurosci 27:104–110.
+Schneider DM, Mooney R. 2018. How movement modulates 
+hearing. Annu Rev Neurosci 41:553–572.
+Schreiner CE, Read HL, Sutter ML. 2000. Modular organiza-
+tion of frequency integration in primary auditory cortex. 
+Annu Rev Neurosci 23:501–529.
+Suga N. 1990. Cortical computational maps for auditory 
+imaging. Neural Netw 3:3–21.
+Wang X. 2018. Cortical coding of auditory features. Annu 
+Rev Neurosci 41:527–552.
+Zhang LI, Bao S, Merzenich MM. 2001. Persistent and spe-
+cific influences of early acoustic environments on primary 
+auditory cortex. Nat Neurosci 4:1123–1130.
+References
+Bartlett EL, Wang X. 2007. Neural representations of  
+temporally-modulated signals in the auditory thalamus 
+of awake primates. J Neurophysiol 97:1005–1017.
+Bendor DA, Wang X. 2006. Cortical representations of pitch in 
+monkeys and humans. Curr Opin Neurobiol 16:391–399.
+Brodal A. 1981. Neurological Anatomy in Relation to Clinical 
+Medicine. New York: Oxford Univ. Press.
+Cajal SR. 1909. Histologie du Systeme Nerveux de l’Homme et des 
+Vertebres. Paris: A. Maloine.
+Cariani PA, Delgutte B. 1996. Neural correlates of the pitch of 
+complex tones. I. Pitch and pitch salience. J Neurophysiol 
+76:1698–1716.
+Cohen YE, Knudsen EI. 1999. Maps versus clusters: differ-
+ent representations of auditory space in the midbrain and 
+forebrain. Trends Neurosci 22:128–135.
+Crapse TB, Sommer MA. 2008. Corollary discharge circuits in 
+the primate brain. Curr Opin Neurobiol 18:552–557.
+Darrow KN, Maison SF, Liberman MC. 2006. Cochlear effer-
+ent feedback balances interaural sensitivity. Nat Neurosci 
+9:1474–1476.
+Eliades SJ, Wang X. 2003. Sensory-motor interaction in the 
+primate auditory cortex during self-initiated vocaliza-
+tions. J Neurophysiol 89:2194–2207.
+Feng L, Wang X. 2017. Harmonic template neurons in pri-
+mate auditory cortex underlying complex sound process-
+ing. Proc Natl Acad Sci U S A 114:E840–E848.
+Gao L, Kostlan K, Wang Y, Wang X. 2016. Distinct subthresh-
+old mechanisms underlying rate-coding principles in pri-
+mate auditory cortex. Neuron 91:905–919.
+Geisler CD. 1998. From Sound to Synapse, Physiology of the 
+Mammalian Ear. New York: Oxford Univ. Press.
+Houde JF, Chang EF 2015. The cortical computations under-
+lying feedback control in vocal production. Curr Opin 
+Neurobiol 33:174–181.
+Hubel DH, Henson CO, Rupert A, Galambos R. 1959. Atten-
+tion units in the auditory cortex. Science 129:1279–1280.
+Jeffress LA. 1948. A place theory of sound localization.  
+J Comp Physiol Psychol 41:35–39.
+Kanold PO, Young ED. 2001. Proprioceptive information 
+from the pinna provides somatosensory input to cat dor-
+sal cochlear nucleus. J Neurosci 21:7848–7858.
+King AJ. 1999. Sensory experience and the formation of a 
+computational map of auditory space in the brain. BioEssays 
+21:900–911.
+King AJ, Bajo VM, Bizley JK, et al. 2007. Physiological and 
+behavioral studies of spatial coding in the auditory cor-
+tex. Hear Res 229:106–115. 
+Liberman MC. 1978. Auditory-nerve response from cats 
+raised in a low-noise chamber. J Acoust Soc Am 63:442–455.
+Lu T, Liang L, Wang X. 2001. Temporal and rate represen-
+tations of time-varying signals in the auditory cortex of 
+awake primates. Nature Neurosci 4:1131–1138.
+Merzenich MM, Knight PL, Roth GL. 1975. Representation of 
+cochlea within primary auditory cortex in the cat. J Neu-
+rophysiol 38:231–249.
+Mesgarani N, Cheung C, Johnson K, Chang EF. 2014. Pho-
+netic feature encoding in human superior temporal gyrus. 
+Science 343:1006–1010. 
+Middlebrooks JC. 2005. Auditory cortex cheers the overture 
+and listens through the finale. Nature Neurosci 8:851–852.
+Musicant AD, Chan JCK, Hind JE. 1990. Direction-dependent 
+spectral properties of cat external ear: new data and cross-
+species comparisons. J Acoust Soc Am 87:757–781.
+Oertel D, Bal R, Gardner SM, Smith PH, Joris PX. 2000. Detec-
+tion of synchrony in the activity of auditory nerve fibers 
+by octopus cells of the mammalian cochlear nucleus. Proc 
+Nat Acad Sci U S A 97:11773–11779.
+Palmer AR, King AJ. 1982. The representation of auditory 
+space in the mammalian superior colliculus. Nature 
+299:248–249.
+Penagos H, Melcher JR, Oxenham AJ. 2004. A neural repre-
+sentation of pitch salience in nonprimary human auditory 
+cortex revealed with functional magnetic resonance imag-
+ing. J Neurosci 24:6810–6815.
+
+
+===== Page 6 =====
+Chapter 28 / Auditory Processing by the Central Nervous System    681
+Raman IM, Zhang S, Trussell LO. 1994. Pathway-specific 
+variants of AMPA receptors and their contribution to neu-
+ronal signaling. J Neurosci 14:4998–5010.
+Rauschecker JP, Tian B. 2000. Mechanisms and streams for 
+processing of “what” and “where” in auditory cortex. 
+Proc Nat Acad Sci U S A 97:11800–11806.
+Rauschecker JP, Tian B, Hauser M. 1995. Processing of com-
+plex sounds in the macaque nonprimary auditory cortex. 
+Science 268:111–114.
+Recanzone GH, Schreiner CE, Merzenich MM. 1993. Plastic-
+ity in the frequency representation of primary auditory 
+cortex following discrimination training in adult owl 
+monkeys. J Neurosci 13:87–103.
+Remington ED, Wang X. 2019. Neural representations of the 
+full spatial field in auditory cortex of awake marmoset 
+(Callithrix jacchus). Cereb Cortex 29:1199–1216.
+Riquimaroux H, Gaioni SJ, Suga N. 1991. Cortical compu-
+tational maps control auditory perception. Science 251: 
+565–568.
+Romanski LM, Averbeck BB. 2009. The primate cortical audi-
+tory system and neural representation of conspecific 
+vocalizations. Annu Rev Neurosci 32:315–346.
+Sadagopan S, Wang X. 2009. Nonlinear spectrotemporal 
+interactions underlying selectivity for complex sounds in 
+auditory cortex. J Neurosci 29:11192–11202.
+Schreiner CE, Winer JA. 2007. Auditory cortex mapmak-
+ing: principles, projections, and plasticity. Neuron 56: 
+356–365.
+Scott LL, Mathews PJ, Golding NL. 2005. Posthearing devel-
+opmental refinement of temporal processing in princi-
+pal neurons of the medial superior olive. J Neurosci 25: 
+7887–7895.
+Song X, Osmanski MS, Guo Y, Wang X. 2016. Complex pitch 
+perception mechanisms are shared by humans and a New 
+World monkey. Proc Natl Acad Sci U S A 113:781–786.
+Spirou GA, Young ED. 1991. Organization of dorsal cochlear 
+nucleus type IV unit response maps and their relation-
+ship to activation by bandlimited noise. J Neurophysiol 
+66:1750–1768.
+Suga N, O’Neill WE, Kujirai K, Manabe T. 1983. Specificity of 
+combination-sensitive neurons for processing of complex 
+biosonar signals in auditory cortex of the mustached bat. 
+J Neurophysiol 49:1573–626.
+Suga N. 1984. Neural mechanisms of complex-sound pro-
+cessing for echolocation. Trends Neurosci 7:20–27.
+Tollin DJ, Yin TC. 2002. The coding of spatial location by 
+single units in the lateral superior olive of the cat. II.  
+The determinants of spatial receptive fields in azimuth.  
+J Neurosci 22:1468–1479.
+Wang X, Lu T, Snider RK, Liang L. 2005. Sustained firing 
+in auditory cortex evoked by preferred stimuli. Nature 
+435:341–346.
+Warr WB. 1992. Organization of olivocochlear efferent sys-
+tems in mammals. In: DB Webster, AN Popper, RR Fay 
+(eds). The Mammalian Auditory Pathway: Neuroanatomy, 
+pp. 410–448. New York: Springer.
+Winer JA, Saint Marie RL, Larue DT, Oliver DL. 1996. 
+GABAergic feedforward projections from the inferior col-
+liculus to the medial geniculate body. Proc Natl Acad Sci 
+U S A 93:8005–8010.
+Yin TCT. 2002. Neural mechanisms of encoding binaural 
+localization cues in the auditory brainstem. In: D Oertel, 
+RR Fay, AN Popper (eds). Integrative Functions in the Mam-
+malian Auditory Pathway, pp. 238–288. New York: Springer.
+
+
+===== Page 7 =====
+29
+Smell and Taste: The Chemical Senses
+Perception of Flavor Depends on Gustatory, Olfactory, 
+and Somatosensory Inputs
+Insects Have Modality-Specific Taste Cells That Drive 
+Innate Behaviors
+Highlights
+T
+hrough the senses of smell and taste, we are 
+able to perceive a staggering number and variety 
+of chemicals in the external world. These chemi-
+cal senses inform us about the availability of foods and 
+their potential pleasure or danger. Smell and taste also 
+initiate physiological changes required for the diges-
+tion and utilization of food. In many animals, the olfac-
+tory system also serves an important social function by 
+detecting pheromones that elicit innate behavioral or 
+physiological responses.
+Although the discriminatory ability of humans is 
+somewhat limited compared with that of many other 
+animals, odor chemists estimate that the human olfac-
+tory system may be capable of detecting more than 
+10,000 different volatile chemicals. Perfumers who are 
+highly trained to discriminate odorants can distinguish 
+as many as 5,000 different types of odorants, and wine 
+tasters can discern more than 100 different components 
+of taste based on combinations of flavor and aroma.
+In this chapter, we consider how odor and taste 
+stimuli are detected and how they are encoded in 
+patterns of neural signals transmitted to the brain. In 
+recent years, much has been learned about the mecha-
+nisms underlying chemosensation in a variety of ani-
+mal species. Certain features of chemosensation have 
+A Large Family of Olfactory Receptors Initiate the  
+Sense of Smell
+Mammals Share a Large Family of Odorant Receptors
+Different Combinations of Receptors Encode  
+Different Odorants
+Olfactory Information Is Transformed Along the Pathway  
+to the Brain
+Odorants Are Encoded in the Nose by  
+Dispersed Neurons
+Sensory Inputs in the Olfactory Bulb Are Arranged by 
+Receptor Type
+The Olfactory Bulb Transmits Information to the 
+Olfactory Cortex
+Output From the Olfactory Cortex Reaches Higher 
+Cortical and Limbic Areas
+Olfactory Acuity Varies in Humans
+Odors Elicit Characteristic Innate Behaviors
+Pheromones Are Detected in Two Olfactory Structures
+Invertebrate Olfactory Systems Can Be Used to Study 
+Odor Coding and Behavior
+Olfactory Cues Elicit Stereotyped Behaviors and 
+Physiological Responses in the Nematode
+Strategies for Olfaction Have Evolved Rapidly
+The Gustatory System Controls the Sense of Taste
+Taste Has Five Submodalities That Reflect Essential 
+Dietary Requirements
+Tastant Detection Occurs in Taste Buds
+Each Taste Modality Is Detected by Distinct Sensory 
+Receptors and Cells
+Gustatory Information Is Relayed From the Periphery to 
+the Gustatory Cortex
+
+
+===== Page 8 =====
+Chapter 29 / Smell and Taste: The Chemical Senses    683
+Figure 29–1  The olfactory system. Odorants are detected by 
+olfactory sensory neurons in the olfactory epithelium, which 
+lines part of the nasal cavity. The axons of these neurons 
+project to the olfactory bulb, where they terminate on the 
+dendrites of mitral and tufted cell relay neurons within glomer-
+uli. In turn, the axons of the relay neurons project to the olfac-
+tory cortex, where they terminate on the dendrites of pyramidal 
+neurons whose axons project to other brain areas.
+been conserved through evolution, whereas others are 
+specialized adaptations of individual species.
+A Large Family of Olfactory Receptors Initiate 
+the Sense of Smell
+Odorants—volatile chemicals that are perceived as 
+odors—are detected by olfactory sensory neurons 
+in the nose. The sensory neurons are embedded in a 
+specialized olfactory epithelium that lines part of the 
+nasal cavity, approximately 5 cm2 in area in humans 
+(Figure 29–1), and are interspersed with glia-like sup-
+porting cells (Figure 29–2). They are relatively short 
+lived, with a life span of only 30 to 60 days, and are 
+continuously replaced from a layer of basal stem cells 
+in the epithelium.
+The olfactory sensory neuron is a bipolar nerve 
+cell. A single dendrite extends from the apical end to 
+the epithelial surface, where it gives rise to numerous 
+Olfactory
+bulb
+Olfactory
+epithelium
+Olfactory
+cortex
+Olfactory
+sensory 
+neurons
+Olfactory
+epithelium
+Cribiform
+plate
+Olfactory
+bulb
+Mitral
+cell
+Tufted
+cell
+Olfactory cortex
+Pyramidal
+cell
+Glomeruli
+
+
+===== Page 9 =====
+684    Part IV / Perception
+Figure 29–2  The olfactory epithelium.
+A. The olfactory epithelium contains sensory neurons inter-
+spersed with supporting cells as well as a basal layer of stem 
+cells. A single dendrite extends from the apical end of each 
+neuron; sensory cilia sprout from the end of the dendrite into 
+the mucus lining the nasal cavity. An axon extends from the 
+basal end of each neuron to the olfactory bulb.
+B. A scanning electron micrograph of the olfactory epithelium 
+shows the dense mat of sensory cilia at the epithelial surface. Sup-
+porting cells (S) are columnar cells that extend the full depth of the 
+epithelium and have apical microvilli. Interspersed among the sup-
+porting cells is an olfactory sensory neuron (O) with its dendrite and 
+cilia, and a basal stem cell (B). (Reproduced, with permission, from 
+Morrison and Costanzo 1990. Copyright © 1990 Wiley-Liss, Inc.)
+To olfactory bulb
+Basal 
+cells
+Supporting
+cell
+Mucus
+Cilia
+A
+B
+Dendrite
+Olfactory
+sensory 
+neuron
+Axon
+B
+O
+S
+thin cilia that protrude into the mucus that coats the 
+nasal cavity (Figure 29–2). The cilia contain the odor-
+ant receptors as well as the transduction machinery 
+needed to amplify sensory signals from the receptors 
+and transform them into electrical signals in the neu-
+ron’s axon, which projects from the basal pole of the 
+neuron to the brain. The axons of olfactory sensory 
+neurons pass through the cribriform plate, a perfo-
+rated region in the skull above the nasal cavity, and 
+then terminate in the olfactory bulb (see Figure 29–1).
+Mammals Share a Large Family of  
+Odorant Receptors
+Odorant receptors are proteins encoded by a mul-
+tigene family that is evolutionarily conserved and 
+found in all vertebrate species. Humans have approxi-
+mately 350 different odorant receptors, whereas mice 
+have approximately 1,000. Although odorant receptors 
+belong to the G protein–coupled receptor superfamily, 
+they share sequence motifs not seen in other superfam-
+ily members. Significantly, the odorant receptors vary 
+considerably in amino acid sequence (Figure 29–3A).
+Like other G protein–coupled receptors, odorant 
+receptors have seven hydrophobic regions that are 
+likely to serve as transmembrane domains (Figure 
+29–3A). Detailed studies of other G protein–coupled 
+receptors, such as the β-adrenergic receptor, suggest 
+that odorant binding occurs in a pocket in the trans-
+membrane region formed by a combination of the 
+transmembrane domains. The amino acid sequences 
+of odorant receptors are especially variable in several 
+transmembrane domains, providing a possible basis 
+for variability in the odorant binding pocket that could 
+account for the ability of different receptors to recog-
+nize structurally diverse ligands.
+A second, smaller family of chemosensory recep-
+tors is also expressed in the olfactory epithelium. 
+These receptors, called trace amine-associated recep-
+tors (TAARs), are G protein–coupled, but their protein 
+sequence is unrelated to that of odorant receptors. 
+They are encoded by a small family of genes present 
+in humans and mice as well as fish. Studies in mice, 
+which have 14 different olfactory TAARs, indicate 
+that TAARs recognize volatile amines, one of which 
+is present in high concentrations in the urine of male 
+
+

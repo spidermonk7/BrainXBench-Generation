@@ -1,0 +1,553 @@
+===== Page 1 =====
+1532    Part IX / Diseases of the Nervous System
+development from birth until 6 to 18 months of age, 
+when they regress, losing speech and hand skills that 
+they had acquired. Rett syndrome is progressive, and 
+initial symptoms are followed by repetitive hand 
+movements, loss of motor control, and intellectual 
+disability. Often young girls will display symptoms 
+indistinguishable from ASD early in the course of the 
+syndrome, although social communication frequently 
+improves later in childhood. Its prevalence is approxi-
+mately 1 in 10,000 live female births.
+Rett syndrome is an X-linked inherited disease 
+caused by loss-of-function mutations in the MECP2 
+gene, which encodes a transcriptional regulator that 
+binds to methylated cytosine bases in DNA, regulating 
+gene expression and chromatin remodeling. The gene 
+product was initially thought to act predominantly as a 
+transcriptional repressor, but studies of both the mouse 
+model and human induced pluripotent stem cells have 
+shown that overall gene expression is reduced when 
+the gene is knocked out. Among the genes that have 
+reduced expression in neurons is BDNF, encoding brain-
+derived neurotrophic factor. Studies in mouse models of 
+Rett have found that overexpression of BDNF improves 
+the knock-out phenotype. Other growth factors that 
+increase gene expression but have more favorable 
+neuropharmacological profiles, including insulin-like 
+growth factor-1 (IGF-1), have also improved aspects of 
+the mouse phenotype, leading to optimism about clini-
+cal trials of related compounds. Phase II human trials 
+with both molecules are currently underway.
+One might think that such a global abnormality in 
+gene expression would lead to a very severe phenotype, 
+but because females are mosaic, with approximately 
+half of their brain cells expressing one normal copy of 
+MECP2 (due to random X-inactivation), they are viable 
+but manifest the devastating Rett phenotype. Boys, who 
+have a single X chromosome and thus a single copy of 
+MECP2, typically die soon after birth or in infancy if 
+they carry a loss-of-function mutation in MECP2.
+The role of X-inactivation in the survival of female 
+mutation carriers and the observation that favorable 
+skewing (a shift toward preferential silencing of the 
+mutant X) leads to a less severe clinical course have gener-
+ated considerable interest in therapeutic strategies aimed 
+at reactivating the normal but silenced X chromosomes in 
+females with Rett syndrome. Although one can imagine 
+considerable challenges resulting from the reactivation 
+of many genes on a normally silenced chromosome, a 
+recent study has reported a mouse mutation that leads to 
+both alleles expressing MeCP2 without wholesale activa-
+tion of genes on the X chromosome.
+Interestingly, in 2005, duplications spanning 
+MECP2 were identified in males with severe intellectual 
+disability. This condition, called MECP2 duplication 
+syndrome (MDS), includes autistic features, hypoto-
+nia, epilepsy, gait abnormalities, and recurrent infec-
+tions. Like Rett syndrome, it has also been productively 
+modeled in rodents. However, unlike Rett, the major-
+ity of identified cases are familial and not sporadic in 
+nature. In these cases, female carriers are often healthy 
+enough (due to favorable X-inactivation) to reproduce 
+and transmit the duplication to boys with only a single 
+X chromosome.
+Williams Syndrome
+Williams syndrome is caused by a segmental deletion 
+of about 27 genes on the long arm of chromosome 7 
+and is characterized by mild to moderate intellectual 
+disability, connective tissue abnormalities, cardiovas-
+cular defects, distinctive facies, and a behavioral phe-
+notype characterized by increased sociability, preserved 
+language abilities, affinity for music, and impaired 
+visuospatial capabilities. The disorder occurs in 1 in 
+10,000 live births. The connective tissue and key car-
+diovascular symptoms have been attributed to the loss 
+of the gene ELN (elastin), although no specific genes 
+within the deleted interval have yet been definitively 
+shown to result in the behavioral phenotype. Nonethe-
+less, the social cognitive features of Williams syndrome 
+are particularly intriguing: The degree of interest in 
+social interaction is striking, leading to a nearly univer-
+sal loss of reticence with strangers in children with the 
+syndrome. In contrast to the almost complete absence 
+of social anxiety, individuals with Williams syndrome 
+have a high degree of general anxiety and isolated 
+phobias. Finally, the affinity for and interest in music 
+among a very large percentage of 7q11.23 deletion car-
+riers, although less well characterized, are striking.
+Conversely, duplication of the identical region of 
+chromosome 7, including the same 26 to 28 genes, is a 
+significant risk factor for ASD and other neurodevel-
+opmental syndromes apart from Williams syndrome. 
+The observation of contrasting social phenotypes 
+depending on whether there is loss or gain of a small 
+region of the genome is fascinating. Whether social 
+functioning in William syndrome is truly the opposite 
+of that seen in ASD, as is sometimes argued, seems 
+less interesting than the conclusion that this region 
+of the genome must contain one or more genes that 
+modulate social affiliation. Consequently, the molec-
+ular characterization of these deletion and duplica-
+tion syndromes and intensive investigation of their 
+impact on the development of molecular, cellular, 
+and circuit properties in the central nervous system 
+are particularly important.
+
+
+===== Page 2 =====
+Chapter 62 / Disorders Affecting Social Cognition: Autism Spectrum Disorder     1533
+Figure 62–7  Imprinting in Prader-Willi and Angelman syn-
+dromes. Approximately 70% of Prader-Willi and Angelman 
+syndrome patients inherit chromosome 15 from one parent 
+with spontaneous (noninherited) deletions of the q11-13 
+interval. This interval contains imprinted genes with alleles 
+that are either expressed or not depending on whether the 
+chromosome was inherited from the father or mother. If the 
+chromosome with the deletion is from the father, Prader-Willi 
+syndrome occurs because maternally imprinted genes on the 
+corresponding interval of the intact maternal chromosome 
+(gene B, for example) are not expressed. If the chromosome 
+with the deletion is from the mother, the gene for ubiquitin 
+ligase (UBE3A) will not be expressed in offspring because of 
+its normal inactivation on the paternal chromosome caused by 
+imprinting; loss of expression of this gene leads to Angelman 
+syndrome.
+Angelman Syndrome and Prader-Willi Syndrome
+Angelman and Prader-Willi syndromes are paradig-
+matic examples of genetic syndromes that result from 
+mutations in genes subject to parental imprinting. To 
+understand these conditions, one must not only know 
+the associated DNA lesion but also its parental origin.
+For example, both syndromes most often result 
+from the loss of the identical region of chromosome 15 
+(15q11-q13) but have readily distinguishable pheno-
+types. Angelman syndrome is characterized by severe 
+intellectual disability, epilepsy, absence of speech, 
+hyperactivity, and inappropriate laughter. In contrast, 
+Prader-Willi is characterized by infantile hypotonia, 
+mild to moderate intellectual disability, obesity, highly 
+perseverative behavior, social disability, and dimin-
+ished or absent satiety.
+How these contrasting phenotypes result from the 
+loss of the identical set of genes confounded medical 
+geneticists until about the year 2000. The mystery was 
+Mother’s
+alleles
+Father’s 
+alleles
+Prader-Willi syndrome
+Son
+Son
+B  Spontaneous 15q11-13 deletion
+Imprinted genes (15q11-13) 
+Paternal deletion
+Maternal deletion
+Nonimprinted genes
+Alleles for both genes 
+from each parent expressed
+A  Normal
+Gene B not expressed
+Angelman syndrome
+Gene A not expressed
+Normal development
+15q11-13
+deletion
+B ON
+A OFF
+B OFF
+A ON
+Mother’s
+alleles
+Father’s 
+alleles
+15q11-13
+deletion
+A
+B
+Maternal A ON 
+(paternally 
+imprinted)
+Paternal B ON
+(maternally
+imprinted)
+Genes A and B expressed
+solved by the discovery that the chromosomal interval 
+is imprinted. Specifically, within this region, multiple 
+genes are expressed only on the paternally inherited 
+chromosome (maternal imprinting), whereas at least 
+two genes, UBE3A and ATP10C, are expressed only 
+on the maternally inherited chromosome (paternal 
+imprinting) (Figure 62–7).
+This discovery, along with a series of studies that 
+allowed for fine mapping of the interval, provided a 
+parsimonious explanation for the clinical observations. 
+If the deletion of proximal chromosome 15 involved 
+the maternal chromosome, the patient would suffer the 
+loss of the protein product of UBE3A, a ubiquitin-protein 
+ligase that stimulates the degradation and turnover of 
+other proteins, leading to Angelman syndrome. Alter-
+natively, if the paternal chromosome carried the dele-
+tion, UBE3A would be expressed normally, but a series 
+of other genes, including several strongly implicated 
+in Prader-Willi syndrome, would be lost.
+
+
+===== Page 3 =====
+1534    Part IX / Diseases of the Nervous System
+The solution to the phenotypic complexity seen in 
+15q11-13 deletion also led to a series of observations 
+that revealed other previously unappreciated genetic 
+mechanisms of behavioral pathology. For example, 
+deletions on the maternal chromosome not directly 
+involving the UBE3A gene were also observed in rare 
+patients with Angelman syndrome, contributing to 
+the identification of an Angelman syndrome imprinting 
+control region mapping some distance from UBE3A 
+but within the deletion interval. Similarly, the discov-
+ery of both Prader-Willi and Angelman syndromes in 
+patients without deletions of any kind led to the recog-
+nition that in a small percentage of both conditions two 
+copies of a chromosome from the same parent were 
+present (with no representation from the other parent), 
+a phenomenon called uniparental disomy.
+Both syndromes have complex behavioral pheno-
+types. Social disability is characteristic of Prader-Willi; 
+with Angelman syndrome, the overlap with ASD has 
+been more difficult to establish because of the marked 
+intellectual disability associated with the syndrome. 
+Differentiating intellectual disability from ASD in indi-
+viduals with very low IQ can be quite challenging. 
+Nonetheless, there are multiple clear molecular and 
+behavioral links with ASD. For example, duplications 
+of the 15q11-13 region are a well-established risk fac-
+tor for nonsyndromic ASD (see below), and functional 
+de novo missense mutations in the gene UBE3A have 
+been found in individuals with ASD without all of the 
+features of Angelman syndrome.
+Neurodevelopmental Syndromes Provide Insight 
+Into the Mechanisms of Social Cognition
+Although the fragile X, Rett, Williams, Angelman, and 
+Prader-Willi syndromes collectively account for a small 
+fraction of the burden of social disability in the popu-
+lation, studies of these disorders have contributed to 
+major advances in the understanding of normal brain 
+development, neurodevelopmental syndromes in gen-
+eral, and the mechanisms underlying social disability 
+in particular. A number of biological processes iden-
+tified in the study of these disorders—including the 
+contribution of epigenetic mechanisms and chromatin 
+dynamics, synaptic dysfunction, and the role of aber-
+rant local protein synthesis—have all turned out to be 
+important initial clues to the biological and develop-
+mental mechanisms underlying nonsyndromic forms 
+of ASD. Moreover, characterization of the genetics 
+underlying certain neurodevelopmental syndromes 
+provided some of the earliest examples of a phenom-
+enon that is now well accepted in ASD—either losses 
+or gains of identical risk genes or regions may lead to 
+neurodevelopmental disorders, sometimes with over-
+lapping and sometimes contrasting phenotypes.
+Importantly, in addition to the first clues regard-
+ing molecular mechanisms, recent studies of a number 
+of Mendelian syndromes have challenged conven-
+tional wisdom by highlighting, in model systems, the 
+potential reversibility of developmental phenotypes, 
+even into adulthood. These observations, particu-
+larly with regard to Rett, Angelman, MDS, and frag-
+ile X syndromes, defied the long and generally held 
+belief that the deficits associated with these types of 
+severe syndromes are unchangeable. Moreover, the 
+relevant studies have underscored the fact that a range 
+of manipulations—from genetic, to pharmacologi-
+cal, to the more recent use of antisense oligonucleo-
+tides (in the case of MEC2 duplication and Angelman 
+syndromes)—have all been successful in reversing 
+phenotype.
+These findings provide not only an avenue forward 
+for the development of rational therapies in humans 
+but also a critical antidote to the penchant for nihilistic 
+views of therapeutics development in neurodevelop-
+mental disorders. In short, these findings have collec-
+tively, and now repeatedly, reinforced the notion that 
+rationally designed therapies may reverse key symp-
+toms long after initial pathology has begun to unfold 
+in brain development. The question of how much of 
+the core symptomatology seen in nonsyndromic ASD 
+is a consequence of ongoing functional derangements, 
+versus what would more traditionally be considered 
+developmental pathology, remains to be clarified. One 
+should note, however, that even with the limited treat-
+ments available, the observation that some children 
+improve years after the onset of symptoms suggests 
+that aspects of ASD pathology are not entirely static 
+and may ultimately yield to the development of novel 
+biologically driven treatment approaches.
+The Complex Genetics of Common Forms of 
+Autism Spectrum Disorder Are Being Clarified
+The recent discovery of genes causing idiopathic 
+ASD—once a scientific quagmire—has been among 
+the most dramatic success stories in the field of 
+human genetics. The combination of high-throughput 
+genomic technologies—including the ability to assay 
+common and rare variations in both the sequence and 
+structure of DNA—the consolidation of large patient 
+cohorts, and considerable investment in ASD research 
+has transformed the field.
+Initial breakthroughs can be traced to studies of 
+the genes encoding the family of neuroligins—cell 
+
+
+===== Page 4 =====
+Chapter 62 / Disorders Affecting Social Cognition: Autism Spectrum Disorder     1535
+adhesion molecules found at postsynaptic densities of 
+glutaminergic synapses (Chapter 48). At the beginning 
+of this century, the group led by Thomas Bourgeron, 
+a geneticist at the Pasteur Institute, first identified 
+putatively deleterious coding mutations in the genes 
+coding for neuroligin 4X (loss-of-function) and neu-
+roligin 3X (missense). About 6 months after the initial 
+report on the loss-of-function mutation in NLGN4X, a 
+nearly identical loss-of-function mutation in the same 
+gene was found linked to both intellectual disability 
+and ASD in a large pedigree. The relevance of the neu-
+roligin 3X mutation to ASD has taken longer to clarify. 
+Contemporary studies provide statistical evidence that 
+NLGN3X is a probable, but not yet definitive, ASD risk 
+gene. Additional studies of large cohorts will clarify 
+this question.
+In retrospect, these findings were prescient. The 
+two papers on neuroligins pointed to the importance 
+of loss-of-function heterozygous mutations leading not 
+only to ASD but to a wide range of neurodevelopmen-
+tal phenotypes and highlighted a role for synaptic pro-
+teins at the excitatory synapse. Moreover, in addition 
+to being a harbinger of the contributions of both rare 
+and de novo mutations (Chapter 2), the reported find-
+ings from Bourgeron’s group also hinted, in retrospect, 
+at a female protective effect as well as a paternal origin 
+of de novo point mutations. In the initial report, the 
+unaffected mother carried a de novo loss-of-function 
+mutation on her paternally inherited X chromosome, 
+which she passed to two affected sons.
+Several years later, two key findings further ush-
+ered in the modern age of reliable and reproducible 
+genetic studies in ASD. First, papers in 2006 and 2007 
+reported on the observation of rare de novo heterozy-
+gous copy number variations (Chapter 2) in children 
+with ASD and intellectual disability. These studies 
+focused specifically on idiopathic, nonsyndromic ASD 
+and on families with only a single affected individual 
+(simplex families). Both papers reported high rates of 
+relatively large copy number variations among indi-
+viduals with both intellectual and social disability. 
+Second, it was not clear if individuals with ASD sim-
+ply had more chromosomal abnormalities than those 
+without. However, this question was soon answered 
+by studies from multiple laboratories. De novo copy 
+number variations did not appear to be distributed 
+randomly throughout the genome but tended to clus-
+ter in distinct regions of the genome, suggesting that 
+the increased rate in such cases was a consequence 
+of an accumulation of specific risk events. Moreover,  
+as higher-resolution genomic assays began to be 
+applied, similar results emerged: Only certain subsets 
+of mutations (eg, point mutations that disrupt gene 
+function) proved to be elevated in individuals with 
+autism, pointing to the aggregation of causal muta-
+tions in affected individuals, not hypermutability, as 
+an explanation for the excess rate(s) of de novo events 
+in affected individuals.
+A considerable investment in studying copy num-
+ber variations in simplex families has resulted in a 
+steadily expanding list of copy number variations that 
+clearly and dramatically increase the risk for ASD. 
+At present, about a dozen genomic intervals reach 
+genome-wide significance based on genome-wide 
+screening of cases for de novo mutations (Figure 62–8). 
+As a result, the American College of Medical Genetics 
+now considers screening for copy number variations 
+the standard of care for an individual presenting with 
+ASD of unknown etiology.
+Studies of de novo mutations have advanced 
+throughout the second decade of this millennium, 
+leading to the discovery that, similar to de novo copy 
+number variations, de novo changes in the sequence of 
+DNA—both single nucleotide variants and insertions 
+or deletions (indels)—also contribute to ASD risk and 
+can similarly be used to identify specific risk genes. 
+Recent reports have now leveraged this approach to 
+include more than 100 genes carrying large-effect single 
+nucleotide variants and indel mutations that disrupt 
+the function of the encoded protein (ie, likely gene-
+disruptive [LGD] mutations) (Chapter 2).
+Several associated findings deserve mention here. 
+First, although the contribution of de novo mutations 
+to the risk for ASD in the total population is quite small 
+(in the neighborhood of 3%), the proportion of individ-
+uals with large-effect de novo mutations who are seen 
+in clinical settings and recruited for genetic studies is 
+quite significant, as high as 40% of girls. The reason for 
+this apparent contradiction is that most of the risk to the 
+population writ large is carried in small-effect common 
+variations that in most individuals are not sufficient to 
+result in them crossing a diagnostic threshold for ASD. 
+In short, most individuals carrying some degree of risk 
+in the population never show overt social impairment 
+and do not come to clinical attention. Conversely, indi-
+viduals with large-effect de novo copy number varia-
+tions, single nucleotide variants, and indels are much 
+more likely to have significant clinical manifestations 
+and seek medical attention.
+Second, studies of de novo single nucleotide vari-
+ants and indels in ASD using exome sequencing have 
+found that the rate of de novo mutations increases 
+with the father’s age. Consistent with this observation 
+is the finding that the vast majority of deleterious de 
+novo sequence mutations in ASD cases are present on 
+the paternally inherited chromosome. Although the 
+
+
+===== Page 5 =====
+1536    Part IX / Diseases of the Nervous System
+X
+6
+5
+4
+3
+2
+1
+Y
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+11
+10
+9
+8
+7
+12
+CHD8
+SCN2A
+NRXN1
+DYRK1A
+CHD2
+KDM5B
+ADNP
+POGZ
+TBR1
+DSCAM
+TRIP12
+SETD5
+ASH1L
+CUL3
+NCKAP1
+RANBP17
+KDM6B
+ILF2
+DNMT3A
+WDFY3
+SPAST
+KAT2B
+MYT1L
+SLC6A1
+ZNF559
+BCL11A
+FOXP1
+GABRB3
+MIB1
+P2RX5
+TRIO
+ETFB
+NINL
+INTS6
+USP45
+CAPN12
+DIP2A
+NAA15
+APH1A
+IRF2BPL
+NLGN3
+MBD5
+PTK7
+ERBB2IP
+NF1
+TSC2
+KMT2C
+ARID1B
+SYNGAP1
+ANK2
+SHANK3
+TNRC6B
+KATNAL2
+SUV420H1
+SHANK2
+GRIN2B
+PTEN
+TCF7L2
+WAC
+GIGYF1
+PHF2
+MFRP
+KMT2E
+CTTNBP2
+OR52M1
+AKAP9
+ACHE
+TSC1
+FMR1
+MECP2
+1q21.1
+2p16.3
+22q13.33
+3q29
+15q11.2-13
+16p11.2
+22q11.2
+7q11.23
+Figure 62–8  Multiple genes and copy number variations that 
+have been strongly associated with idiopathic risk for autism 
+spectrum disorders (ASDs).  The figure identifies 71 genes and 
+copy number variations (CNVs) associated with risk for ASDs 
+based predominantly on the recurrence of de novo mutations. 
+Abbreviations in blue shading denote genes with a false discov-
+ery rate (FDR) less than 0.01; abbreviations in yellow shading 
+denote an FDR between 0.01 and 0.05; and abbreviations with 
+no shading denote an FDR greater than 0.05 and less than 0.1. 
+Green bars identify CNVs with an FDR less than 0.05. Data from 
+Sanders et al. 2015. Statistical analysis was performed using the 
+methods described in Sanders et al. 2015. Five additional genes 
+with names underlined cause the syndromic forms of ASD 
+discussed in the chapter text. Gene identification in ASD is con-
+tinuing at a rapid pace.  Up-to-date lists of associated genes and 
+genomic regions can be found at https://gene.sfari.org.
+absolute increase in risk with age is small, this observa-
+tion nonetheless provides a conceptual framework for 
+understanding secular increases in ASD prevalence. It 
+also sets the stage for further studies of the impact of 
+environmental factors in increasing de novo mutations 
+and thereby potentially increasing the true incidence 
+of clinical ASD cases.
+The relationship of de novo large-effect mutations 
+to intellectual disability has been the subject of consid-
+erable discussion, with some contending that de novo 
+
+

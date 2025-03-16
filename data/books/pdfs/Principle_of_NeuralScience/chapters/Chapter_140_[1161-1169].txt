@@ -1,0 +1,896 @@
+===== Page 1 =====
+1116    Part VII / Development and the Emergence of Behavior
+A  Induction of segmental identity
+B  Establishment of mutually exclusive expression
+C  Cell segregation and border sharpening
+D
+Hoxb1
+Krox20
+Dual expressing cell;
+intermediate identity
+Ephrin
+B3
+Eph
+A4
+r4 identity
+r3 identity
+Retinoic
+acid
+Anterior
+Posterior
+Figure 45–7  (Left) Repressive interactions divide the hindbrain 
+into rhombomeres.  The sharp border between hindbrain rhom-
+bomeres 3 and 4 forms in several steps. (Adapted, with permission, 
+from Addison and Wilkinson 2016. Copyright © 2016 Elsevier Inc.)
+A. A gradient of retinoic acid upregulates expression of hoxb1 in 
+anterior cells (blue) and krox20 in posterior cells (yellow), with 
+some cells at the prospective border expressing both genes 
+(green).
+B. Hoxb1 expression and Krox20 expression become mutually exclu-
+sive, thus endowing each cell with a unique molecular identity.
+C. Cells trapped in the wrong domain migrate to sharpen the border.
+D. Inhibitory interactions underlying border formation. Hoxb1 and 
+Krox20 repress each other’s expression in individual cells, so a mod-
+est imbalance in level leads to exclusive expression of one factor. 
+Krox20 then upregulates EphA4 in r3 cells, whereas ephrinB3 is 
+upregulated in r4 cells. EphA4 and ephrinB3 repel each other, driving 
+migration of isolated cells and sharpening the segment border.
+the strategies and principles that establish dorsoven-
+tral pattern. We focus initially on the mechanisms of 
+dorsoventral patterning at caudal levels of the neural 
+tube that give rise to the spinal cord and then describe 
+how similar strategies are used to pattern the forebrain.
+Neurons in the spinal cord serve two major func-
+tions. They relay cutaneous sensory input to higher 
+centers in the brain, and they transform sensory input 
+into motor output. The neuronal circuits that medi-
+ate these functions are segregated anatomically. Cir-
+cuits involved in the processing of cutaneous sensory 
+information are located in the dorsal half of the spinal 
+cord, whereas those involved in the control of motor 
+output are mainly located in the ventral half of the spi-
+nal cord.
+The neurons that form these circuits are generated 
+at different positions along the dorsoventral axis of the 
+spinal cord in a patterning process that begins with the 
+establishment of distinct progenitor cell types. Motor 
+neurons are generated close to the ventral midline, and 
+most of the interneuron classes that control motor out-
+put are generated just dorsal to the position at which 
+motor neurons appear (Figure 45–8). The dorsal half of 
+the neural tube generates projection neurons and local 
+circuit interneurons that process incoming sensory 
+information.
+How are the position and identity of spinal neu-
+rons established? The dorsoventral patterning of the 
+neural tube is initiated by signals from mesodermal 
+and ectodermal cells that lie close to the ventral and 
+dorsal poles of the neural tube and is perpetuated by 
+signals from two midline neural organizing centers. 
+Ventral patterning signals are initially provided by the 
+notochord, a mesodermal cell group that lies immedi-
+ately under the ventral neural tube (Figure 45–1). This 
+signaling activity is transferred to the floor plate, a 
+specialized glial cell group that sits at the ventral mid-
+line of the neural tube itself. Similarly, dorsal signals 
+are provided initially by cells of the epidermal ecto-
+derm that span the dorsal midline of the neural tube, 
+and subsequently by the roof plate, a glial cell group 
+embedded at the dorsal midline of the neural tube 
+(Figure 45–8).
+Thus, neural patterning is initiated through a 
+process of homogenetic induction, in which like begets 
+like: Notochord signals induce the floor plate, which 
+
+
+===== Page 2 =====
+Chapter 45 / Patterning the Nervous System    1117
+Figure 45–8  Distinct precursor popu-
+lations form along the dorsoventral 
+axis of the developing spinal cord.
+A. The neural plate is generated from 
+ectodermal cells that overlie the noto-
+chord (N) and the future somites (S).  
+It is flanked by the epidermal  
+ectoderm. (See also Figure 45–1)
+B. The neural plate folds dorsally at its 
+midline to form the neural fold. Floor 
+plate cells (blue) differentiate at the  
+ventral midline of the neural tube.
+C. The neural tube forms by fusion of 
+the dorsal tips of the neural folds. Roof 
+plate cells form at the dorsal midline 
+of the neural tube. Neural crest cells 
+migrate from the neural tube into and 
+past the somites before populating the 
+sensory and sympathetic ganglia.
+D. Distinct classes of neurons are gener-
+ated at different dorsoventral positions 
+in the embryonic spinal cord. Ventral 
+interneurons (V0–V3) and motor neu-
+rons (MN) differentiate from progenitor 
+domains in the ventral spinal cord. Six 
+classes of early dorsal interneurons 
+(D1–D6) develop in the dorsal half of  
+the spinal cord. (Adapted from  
+Goulding et al. 2002.)
+Roof plate
+D1
+D2
+D3
+D4
+D5
+D6
+V0
+V1
+V2
+MN
+V3
+Notochord
+Floor plate
+A  Neural plate
+B  Neural fold
+C  Neural tube
+D  Embryonic spinal cord
+S
+S
+Ectoderm
+N
+S
+S
+S
+S
+N
+Roof plate
+Floor plate
+Neural crest
+N
+induces ventral neurons, and signals from ectoderm 
+induce the roof plate, which induces dorsal neurons. 
+This strategy ensures that inductive signals are posi-
+tioned appropriately to control neural cell fate and 
+pattern over a prolonged period of development, as 
+tissues grow and cells move.
+The Ventral Neural Tube Is Patterned by Sonic 
+Hedgehog Protein Secreted from the Notochord and 
+Floor Plate
+Within the ventral half of the neural tube, the identity 
+and position of developing motor neurons and local 
+interneurons depend on the inductive activity of the 
+Shh protein, which is secreted by the notochord and 
+subsequently by the floor plate. Shh is a member of 
+a family of secreted proteins related to the Drosophila 
+hedgehog protein, which had been discovered ear-
+lier and shown to control many aspects of embryonic 
+development.
+Shh signaling is necessary for the induction of 
+each of the neuronal classes generated in the ventral 
+half of the spinal cord. How can a single inductive 
+signal specify the fate of at least half a dozen neuronal 
+classes? The answer lies in the ability of Shh to act as a 
+morphogen—a signal that can direct different cell fates 
+at different concentration thresholds. The secretion of 
+Shh from the notochord and floor plate establishes a 
+ventral-to-dorsal gradient of Shh protein activity in the 
+ventral neural tube, such that progenitor cells occupy-
+ing different dorsoventral positions within the neural 
+epithelium are exposed to small (two- to three-fold) 
+differences in ambient Shh signaling activity. Different 
+levels of Shh signaling activity direct progenitor cells 
+in different ventral domains to differentiation as motor 
+neurons and interneurons (Figure 45–9A).
+These findings raise two additional questions. 
+How is the spread of Shh protein within the ventral 
+neural epithelium controlled in such a precise manner? 
+And how are small differences in Shh signaling activ-
+ity converted into all-or-none decisions about the iden-
+tity of progenitor cells in the ventral neural tube?
+Active Shh protein is synthesized from a larger 
+precursor protein, cleaved through an unusual auto-
+catalytic process that involves a serine protease-like 
+activity resident within the carboxy terminus of the 
+precursor protein. Cleavage generates an amino 
+
+
+===== Page 3 =====
+1118    Part VII / Development and the Emergence of Behavior
+Figure 45–9  A sonic hedgehog signaling gradient controls 
+neuronal identity and pattern in the ventral spinal cord.
+A. A ventral-to-dorsal (V–D) gradient of sonic hedgehog (Shh) 
+signaling establishes dorsoventral domains of homeodomain 
+protein expression in progenitor cells within the ventral half 
+of the neural tube. At each concentration, a different homeo-
+domain transcription factor (Pax7, Dbx1, Dbx2, Irx3, or Pax6) 
+is repressed, with Pax7 the most sensitive and Pax6 the least 
+sensitive to repression. Other homeodomain transcription fac-
+tors (Nkx6.1 and Nkx2.2) are induced at different Shh levels. 
+The homeodomain proteins that abut a common progenitor 
+domain boundary have similar Shh concentration thresholds 
+for repression and activation. Graded Shh signaling generates a 
+corresponding gradient of Gli transcription factor activity  
+(not shown).
+B. Cross-repression between transcription factors induced 
+or repressed by Shh/Gli signaling specifies different neuronal 
+classes. For example, Pax6 and Nkx2.2, and Dbx2 and Nkx6.1, 
+act in a cell-autonomous manner to repress each other’s expres-
+sion (inset), conferring cell identity to progenitor cells in an unam-
+biguous manner. The sequential influence of graded Shh and 
+Gli signaling, together with homeodomain transcriptional cross-
+repression, establishes five cardinal progenitor domains.
+C. The postmitotic neurons that emerge from these domains 
+give rise to the five major classes of ventral neurons: the 
+interneurons V0–V3 and motor neurons (MN).
+D
+V
+Pax7
+Dbx1
+Dbx2
+Irx 3
+Pax6
+Pax6
+Dbx2
+p0
+V0
+p1
+V1
+p2
+V2
+pMN
+MN
+p3
+V3
+Nkx2.2 Nkx6.1
+Nkx2.2
+Nkx6.1
+Shh
+Neuronal
+fate
+A
+B
+C
+MN
+V2
+V1
+V0
+Floor
+plate
+Pax6Nkx2.2
+Pax6Nkx2.2
+Pax6Nkx2.2
+V3
+terminal protein fragment that possesses all of the sign-
+aling activity of Shh. During cleavage, the active amino 
+terminal fragment is modified covalently by the addi-
+tion of a cholesterol molecule. Following Shh secretion, 
+this lipophilic anchor tethers most of the protein to the 
+surface of notochord and floor plate cells. Neverthe-
+less, a small fraction of the anchored protein is released 
+from the cell surface and transferred from cell to cell 
+within the ventral neural epithelium. In reality, the 
+molecular machinery that ensures the formation of a 
+long-distance gradient of extracellular Shh protein is 
+more complex, involving specialized transmembrane 
+proteins that promote the release of Shh from the floor 
+plate, as well as proteins that regulate Shh protein 
+transfer between cells.
+How does the gradient of Shh protein within the 
+ventral neural tube direct progenitor cells along dif-
+ferent pathways of differentiation? Shh signaling is 
+initiated by its interaction with a transmembrane recep-
+tor complex that consists of a ligand-binding subunit 
+called patched and a signal-transducing subunit called 
+smoothened (named for the corresponding Drosophila 
+genes). The binding of Shh to patched relieves its inhi-
+bition of smoothened and so activates an intracellular 
+signaling pathway that involves several protein kinase 
+enzymes, transport proteins, and most important, the 
+Gli proteins, a class of zinc finger transcription factors.
+In the absence of Shh, the Gli proteins are proteo-
+lytically processed into transcriptional repressors that 
+prevent the activation of Shh target genes. Activation 
+of the Shh signaling pathway inhibits this proteolytic 
+processing, with the result that transcriptional acti-
+vator forms of Gli predominate, thus directing the 
+expression of Shh target genes. In this way, an extra-
+cellular gradient of Shh protein is converted into a 
+nuclear gradient of Gli activator proteins. The ratio of 
+
+
+===== Page 4 =====
+Chapter 45 / Patterning the Nervous System    1119
+Gli repressor and activator proteins at different dors-
+oventral positions determines which target genes are 
+activated.
+What genes are activated by Shh-Gli signaling, 
+and how do they participate in the specification of ven-
+tral neuronal subtypes? The major Gli targets are genes 
+encoding yet more transcription factors. One major 
+class of Gli targets encodes homeodomain proteins, 
+transcription factors that contain a conserved DNA-
+binding motif termed a homeobox. A second major class 
+of target genes encodes proteins with a basic helix-
+loop-helix DNA-binding motif. Some homeodomain 
+and basic helix-loop-helix proteins are repressed and 
+others activated by Shh signaling, each at a particular 
+concentration threshold. In this way, cells in the ventral 
+neural tube are allocated to one of five cardinal pro-
+genitor domains, each marked by its own transcription 
+factor profile (Figure 45–9B,C).
+The transcription factors that define adjacent 
+progenitor domains repress each other’s expression. 
+Thus, although a cell may initially express several 
+transcription factors that could direct the cell along 
+different pathways of differentiation, a minor imbal-
+ance in the starting concentration of the two factors is 
+rapidly amplified through repression, and only one of 
+these proteins is stably expressed. This winner-take-
+all strategy of transcriptional repression sharpens the 
+boundaries of progenitor domains and ensures that 
+an initial gradient of Shh and Gli activity will resolve 
+itself into clear distinctions in transcription factor 
+profile. The transcription factors that specify a ven-
+tral progenitor domain then direct the expression of 
+downstream genes that commit progenitor cells to a 
+particular postmitotic neuronal identity. Thus, stud-
+ies of Shh signaling have not only revealed the logic 
+of ventral neuronal patterning but also demonstrated 
+that the fate of a neuron is determined in part by the 
+actions of transcriptional repressors rather than acti-
+vators. This principle operates in many other tissues 
+and organisms.
+Although originally studied in the context of neural 
+development, defects in Shh signaling have now been 
+implicated in a wide variety of human diseases. Muta-
+tions in human Shh pathway genes result in defects in 
+the development of ventral forebrain structures (holo-
+prosencephaly), as well as neurological defects such as 
+spina bifida, limb deformities, and certain cancers.
+The Dorsal Neural Tube Is Patterned by Bone 
+Morphogenetic Proteins
+A signaling strategy based on graded morphogen lev-
+els activating sets of transcriptional programs has also 
+been found to determine the patterning of cell types 
+in the dorsal spinal cord. The differentiation of roof 
+plate cells at the dorsal midline of the neural tube is 
+triggered by BMP signals from epidermal cells that ini-
+tially border the neural plate and later flank the dorsal 
+neural tube.
+After the neural tube has closed, roof plate cells 
+themselves begin to express BMP as well as Wnt pro-
+teins. Wnt proteins promote the proliferation of pro-
+genitor cells in the dorsal neural tube. BMP proteins 
+induce the differentiation of neural crest cells at the 
+very dorsal margin of the neural tube and later induce 
+generation of diverse populations of sensory relay 
+neurons that settle in the dorsal spinal cord.
+Dorsoventral Patterning Mechanisms Are 
+Conserved Along the Rostrocaudal Extent  
+of the Neural Tube
+The strategies used to establish dorsoventral pattern 
+in the spinal cord also control cell identity and pattern 
+along the dorsoventral axis of the hindbrain and mid-
+brain, as well as throughout much of the forebrain.
+In the mesencephalic region of the neural tube, Shh 
+signals from the floor plate act in concert with the ros-
+trocaudal patterning signals discussed earlier to spec-
+ify dopaminergic neurons of the substantia nigra and 
+ventral tegmental area as well as serotonergic neurons 
+of the raphe nuclei (see Figure 45–5C). In the forebrain, 
+Shh signals from the ventral midline and BMP signals 
+from the dorsal midline act in combination to estab-
+lish different regional domains. Shh signaling from the 
+ventral midline sets up early progenitor domains that 
+later produce neurons of the basal ganglia and some 
+cortical interneurons, whereas BMP signaling from the 
+dorsal midline is involved in establishing early neocor-
+tical character.
+Local Signals Determine Functional  
+Subclasses of Neurons
+To this point, we have seen how a uniform group of 
+neural precursor cells, the neural plate, is progres-
+sively partitioned into discrete rostrocaudal and dor-
+soventral domains within the neural tube, largely 
+by morphogen-dependent differential expression of 
+different sets of transcriptional regulators. The next 
+question is how cells within these domains go on to 
+generate the extraordinary diversity of neuronal types 
+that characterize the vertebrate central nervous system. 
+We address that question by focusing on development 
+of the motor neuron.
+
+
+===== Page 5 =====
+1120    Part VII / Development and the Emergence of Behavior
+Motor neurons can be distinguished from all other 
+classes of neurons in the central nervous system by the 
+simple fact that they have axons that extend into the 
+periphery. Viewed in this light, motor neurons represent 
+a coherent and distinct class. But motor neuron types 
+can be distinguished by their position within the central 
+nervous system as well as by the target cells they inner-
+vate. The primary job of most motor neurons is to inner-
+vate skeletal muscles, of which there are approximately 
+600 in a typical mammal. From this, it follows that there 
+must be an equal number of motor neuron types.
+In this section, we discuss the developmental 
+mechanisms that direct the differentiation of these 
+different functional subclasses. The details of motor 
+neuron development are also important for under-
+standing the basis of neurological disorders that affect 
+these neurons, including spinal muscular atrophy and 
+amyotrophic lateral sclerosis (Lou Gehrig disease). In 
+both diseases, some motor neuron types are highly vul-
+nerable whereas others are relatively resilient. Similar 
+principles drive the diversification of other neuronal 
+classes into distinct types.
+Rostrocaudal Position Is a Major Determinant  
+of Motor Neuron Subtype
+Motor neurons are generated along much of the ros-
+trocaudal axis of the neural tube, from the midbrain to 
+the spinal cord. Distinct motor neuron types develop 
+at each rostrocaudal level (Figure 45–10), suggesting 
+that one goal of the patterning signals that establish 
+rostrocaudal positional identity within the neural tube 
+is to make motor neurons different.
+One major class of genes involved in specifying 
+motor neuron types is the Hox gene family. Their name 
+reflects the fact that they were the first transcription fac-
+tors found that contain a homeodomain, a DNA binding 
+domain now known to be present in many transcrip-
+tion factors that regulate developmental processes in 
+organisms as diverse as yeast, plants, and mammals. 
+For example, the Otx and Gbx genes discussed above 
+contain homeodomains. The mammalian Hox gene fam-
+ily is especially large, containing 39 genes organized in 
+four chromosomal clusters. These genes derive from an 
+ancestral Hox complex that also gave rise to the HOM-C 
+gene complex in Drosophila, where they were initially 
+discovered and analyzed (Figure 45–11).
+Members of the vertebrate Hox gene family are 
+expressed in overlapping domains along the rostro-
+caudal axis of the developing midbrain, hindbrain, and 
+spinal cord. As in Drosophila, the position of an individ-
+ual Hox gene within its cluster predicts its rostrocaudal 
+domain of expression within the neural tube. In most 
+but not all cases, Hox genes located at more 3′ positions 
+within the chromosomal cluster are expressed in more 
+rostral domains, within the midbrain and hindbrain, 
+whereas genes at more 5′ positions are expressed in 
+progressively more caudal positions within the spinal 
+cord (Figures 45–10 and 45–11). This spatial array of 
+Hox gene expression determines many aspects of neu-
+ronal diversity.
+Genetic studies, mostly in mice, have revealed 
+how Hox genes control motor neuron identity in the 
+hindbrain and spinal cord. We saw above that Hox 
+genes contribute to formation of the rhombomeres, the 
+fundamental cellular building blocks of the hindbrain. 
+Later, the same genes help to determine the identity 
+of motor neurons within rhombomeres. For example, 
+Hoxb1 is expressed at high levels in rhombomere 4, the 
+domain that gives rise to facial motor neurons, but is 
+absent from rhombomere 2, the domain that gives rise 
+to trigeminal motor neurons (Figure 45–10).
+In the mouse, mutations that eliminate the activ-
+ity of Hoxb1 change the fate of cells in rhombomere 4; 
+there is a switch in the identity and connectivity of the 
+motor neurons that emerge from this domain. In the 
+absence of Hoxb1 function, cells in rhombomere 4 gen-
+erate motor neurons that innervate trigeminal rather 
+than facial targets, that is, the motor neuron subtype 
+normally generated within rhombomere 2 (Figure 
+45–12). Many additional studies have confirmed the gen-
+eral principle that motor neuron identity in the hind-
+brain is controlled by the spatial distribution of Hox 
+gene expression.
+The control of spinal motor neuron identity is 
+more complicated. Spinal motor neurons are clustered 
+within longitudinal columns that occupy discrete 
+segmental positions, in register with their peripheral 
+targets. Motor neurons that innervate forelimb and 
+hindlimb muscles are found in the lateral motor col-
+umns at cervical and lumbar levels of the spinal cord, 
+respectively. In contrast, motor neurons that innervate 
+sympathetic neuronal targets are found within the 
+preganglionic motor column at thoracic levels of the 
+spinal cord. Within the lateral motor columns, motor 
+neurons that innervate a single limb muscle are clus-
+tered together into discrete groups, termed motor pools. 
+Because each limb in higher vertebrates contains more 
+than 50 different muscle groups, a corresponding num-
+ber of motor pools are required.
+The identity of motor neurons in the spinal cord 
+is controlled by the coordinate activity of Hox genes 
+found at more 5′ positions within the chromosomal 
+Hox clusters. For example, the spatial domains of 
+expression and activity of Hox6 and Hox9 proteins 
+establish the identities of motor neurons in the 
+
+
+===== Page 6 =====
+Chapter 45 / Patterning the Nervous System    1121
+Figure 45–10  The anteroposterior profile of 
+Hox gene expression determines the subtype 
+of motor neurons in the hindbrain and spinal 
+cord. Different Hox proteins are expressed in 
+discrete but partially overlapping rostrocaudal 
+domains of the hindbrain and spinal cord. The 
+position of Hox genes on the four mammalian 
+chromosomal clusters roughly corresponds to 
+their domain of expression along the anteroposte-
+rior axis of the neural tube.
+   At hindbrain levels, motor neurons sending 
+axons into cranial nerves V (trigeminal), VII (facial), 
+IX (glossopharyngeal), and X (vagus) are depicted. 
+These cranial motor nerves project to peripheral 
+targets in the branchial arches b1–b3. The hind-
+brain rhombomeres (r1–r8) and Hox profiles are 
+shown on the left.
+   At spinal levels, motor neurons that send axons 
+to the forelimb and hind limb are contained within 
+the lateral motor columns (LMC), located at bra-
+chial and lumbar levels of the spinal cord, respec-
+tively. Preganglionic autonomic motor neurons 
+(PGC) destined to innervate sympathetic ganglion 
+targets are generated at thoracic levels. (Adapted, 
+with permission, from Kiecker and Lumsden 
+2005. Copyright © 2005 Springer Nature.)
+r1
+r2
+r3
+r4
+r5
+r6
+r7
+r8
+Anterior
+Forelimb
+Sympathetic
+neurons
+Hind limb
+b1
+Face, cornea, 
+mouth
+N. V
+N. VII
+N. IX
+N. X
+b2
+b3
+Posterior
+Hoxa2
+Hoxb2
+Hoxb1
+Hoxa1
+Hoxb3
+Hoxa3
+Hoxb4
+Hoxa4
+Hoxa6
+Hoxc6
+Hoxa9
+Hoxc9
+Hoxa10
+Hoxd10
+Hoxc4
+Face
+Parotid gland
+Soft palate,
+pharynx
+LMC
+PGC
+LMC
+brachial lateral motor column and the preganglionic 
+motor column. Hox6 proteins specify brachial lat-
+eral motor column identity, whereas Hox9 proteins 
+specify preganglionic motor column identity. Motor 
+neurons at the boundary of the forelimb and thoracic 
+regions acquire an unambiguous columnar identity 
+because the Hox6 and Hox9 proteins are mutually 
+repressive (Figure 45–13A), similar to the transcrip-
+tional cross-repression that occurs in the dorsoventral 
+patterning of the spinal cord.
+Local Signals and Transcriptional Circuits Further 
+Diversify Motor Neuron Subtypes
+How do motor neurons within the lateral motor col-
+umns develop more refined identities, directing their 
+axons to specific limb muscles? Once again, Hox genes 
+control this stage of motor neuron diversification. We 
+illustrate this function of Hox proteins by considering 
+the pathway that generates the distinct divisional and 
+pool identities of neurons within the brachial lateral 
+
+
+===== Page 7 =====
+1122    Part VII / Development and the Emergence of Behavior
+Figure 45–11  The clustered organization of Hox genes is 
+conserved from flies to vertebrates.  The diagram shows the 
+chromosomal arrangement of Hox genes in the mouse and 
+HOM-C genes in Drosophila. Insects have one ancestral Hox 
+gene cluster, whereas higher vertebrates such as birds and 
+mammals have four duplicate Hox gene clusters. The position 
+of a given Hox or HOM-C gene on the chromosomal cluster is 
+typically related to the position on the anteroposterior body axis 
+where the gene is expressed. (Adapted, with permission, from 
+Wolpert et al. 1998. Permission conveyed through Copyright 
+Clearance Center, Inc.)
+A
+P
+lab
+3′
+a1
+a2
+a3
+a4
+a5
+a6
+a7
+a9
+a10
+a11
+a13
+3′
+Drosophila
+Mouse
+5′
+5′
+pb
+(Zen)
+Antennapedia complex
+Hoxa, chromosome 6
+c4
+c5
+c6
+c9
+c10
+c11
+c12
+c13
+Hoxc, chromosome 15
+b1
+b2
+b3
+b4
+b5
+b6
+b7
+b8
+c8
+d3
+d4
+d9
+d10
+d11
+d12
+d13
+Hoxd, chromosome 2 
+d8
+b9
+Hoxb, chromosome 11
+Bithorax complex
+Dfd
+Scr
+Antp
+Ubx
+Abd-A
+Abd-B
+d1
+A
+P
+motor column that innervate the muscles of the fore-
+limb (Figure 45–13A).
+Repressive interactions between Hox proteins 
+expressed by the neurons in different lateral motor 
+columns ensure that neurons that populate different 
+motor pools express distinct profiles of Hox protein 
+expression. These Hox profiles direct the expression 
+of downstream transcription factors as well as the 
+axonal surface receptors that enable motor axons to 
+respond to local cues within the limb that guide them 
+to specific muscle targets. For example, the expression 
+of Hox6 proteins activates a retinoic acid signaling 
+pathway that directs the expression of two homeodo-
+main transcription factors, Is11 and Lhx1. These fac-
+tors in turn assign motor neurons to two divisional 
+classes and determine the pattern of expression of the 
+ephrin receptors that guide motor axons in the limb. 
+The axons of motor neurons in these two divisions 
+project into the ventral and dorsal halves of the limb 
+mesenchyme under the control of ephrin signaling 
+(Figure 45–14).
+Not all motor neuron columns are determined by 
+Hox protein activity, however. The median motor col-
+umn is generated at all segmental levels of the spinal 
+cord in register with axial muscles. Development of 
+median motor column cells is controlled by Wnt4/5 
+signals secreted from the ventral midline of the spi-
+nal cord and by the expression of the homeodomain 
+proteins Lhx3 and Lhx4, which render neurons in this 
+column immune to the segmental patterning actions of 
+Hox proteins.
+Thus, in both the hindbrain and spinal cord, the 
+point-to-point connectivity of motor neurons with 
+specific muscles emerges through tightly orchestrated 
+programs of homeodomain protein expression and 
+activity. In vertebrates, these genes have evolved to 
+
+
+===== Page 8 =====
+Chapter 45 / Patterning the Nervous System    1123
+Figure 45–12  The mouse Hoxb1 gene 
+controls the identity and projection 
+of hindbrain motor neurons. Hoxb1 
+is normally expressed at highest levels 
+by cells in rhombomere r4. In wild-type 
+mice, trigeminal motor neurons are gen-
+erated in rhombomere r2, and their cell 
+bodies migrate laterally before projecting 
+their axons out of the hindbrain at the 
+r2 level. In contrast, the cell bodies of 
+facial motor neurons generated in rhom-
+bomere r4 migrate caudally yet project 
+their axons out of the hindbrain at the r4 
+level. In mouse Hoxb1 mutants, motor 
+neurons generated in rhombomere r4 
+migrate laterally instead of caudally, 
+acquiring the features of r2 level trigemi-
+nal motor neurons. Ellipses indicate 
+axonal exit points. (Adapted, with permis-
+sion, from Struder et al. 1996. Copyright 
+© 1996 Springer Nature.)
+r2
+r2
+r4
+Trigeminal
+motor
+neurons
+Trigeminal-
+like motor
+neurons
+Wild type
+r2
+r4
+Facial
+motor
+neurons
+Trigeminal
+motor
+neurons
+Hoxb1 mutant
+direct neuron subtype and connectivity as well the 
+basic body plan.
+The Developing Forebrain Is Patterned by 
+Intrinsic and Extrinsic Influences
+Neurons in the mammalian forebrain form circuits 
+that mediate emotional behaviors, perception, and 
+cognition and participate in the storage and retrieval 
+of memories. Much like the hindbrain, the embryonic 
+forebrain is initially divided along its rostrocaudal axis 
+into transversely organized domains called prosomeres. 
+Prosomeres 1 to 3 develop into the caudal part of the 
+diencephalon, from which the thalamus emerges. 
+Prosomeres 4 to 6 give rise to the rostral diencepha-
+lon and telencephalon. The ventral region of the rostral 
+diencephalon gives rise to the hypothalamus and basal 
+ganglia, whereas the telencephalon gives rise to the 
+neocortex and hippocampus.
+Inductive Signals and Transcription Factor 
+Gradients Establish Regional Differentiation
+Finally, we turn to the patterning of the neocortex 
+itself, asking whether the developmental mechanisms 
+and principles that govern the development of other 
+regions of the central nervous system also control the 
+emergence of cortical areas specialized for particular 
+sensory, motor, and cognitive functions.
+From the time of Brodmann’s classical anatomi-
+cal description at the beginning of the 20th century, 
+we have known that the cerebral cortex is subdivided 
+into many different areas. Recent studies of cortical 
+development have begun to provide insight into the 
+signaling mechanisms that establish somatosensory, 
+auditory, and visual areas.
+There is now evidence for the existence of a corti-
+cal “protomap,” a basic plan in which different corti-
+cal areas are established early in development before 
+inputs from other brain regions can influence develop-
+ment. This view is supported by studies of transcrip-
+tion factor expression in the developing neocortex. 
+Two homeodomain transcription factors, Pax6 and 
+Emx2, are expressed in complementary anteroposterior  
+gradients in the ventricular zone of the developing  
+neocortex—high levels of Pax6 at anterior levels and 
+high levels of Emx2 at posterior levels. These early pat-
+terns are established in part by a local rostral source 
+of FGF signals, which promote Pax6 and repress 
+Emx2 expression (Figure 45–15A). As is the case in the 
+hindbrain, the distinct spatial domains of expression 
+of Pax6 and Emx2 are sharpened by cross-repressive 
+interactions between the two transcription factors.
+
+
+===== Page 9 =====
+1124    Part VII / Development and the Emergence of Behavior
+Pec
+FCU
+Rostral
+LMC
+PGC
+LMC
+Caudal
+Hox9
+Hox6
+Hox10
+Hoxc6
+Hoxc8
+Hox5
+Hoxc4
+Pea3
+Runx1
+Scip
+FCU
+Wild type
+Pec
+FCU
+CMV Hoxc6
+Pec
+FCU
+RNAi Hoxc6
+Pec
+A
+B
+Figure 45–13  Hox proteins control the identity of neurons 
+in motor columns and pools. (Adapted, with permission, from 
+Dasen et al. 2005.)
+A. Hox6, Hox9, and Hox10 proteins are expressed in motor 
+neurons at distinct rostrocaudal levels of the spinal cord and 
+direct motor neuron identity and peripheral target connectiv-
+ity. Hox6 activities control the identity of cells in the brachial 
+lateral motor column (LMC), Hox9 controls the identity of cells 
+in the preganglionic column (PGC), and Hox10 controls the 
+identity of cells in the lumbar column (LMC). Cross-repressive 
+interactions between Hox6, Hox9, and Hox10 proteins refine 
+Hox profiles, and Hox activator functions define LMC and PGC 
+identities. A more complex Hox transcriptional network controls 
+motor pool identity and connectivity. Hox genes determine the 
+rostrocaudal position of motor pools within the LMC. Hoxc8 is 
+required in caudal LMC neurons to generate the motor pools 
+for the pectoralis (Pec) and flexor carpi ulnaris (FCU) muscles; 
+these neurons express the transcription factors Pea3 and Scip, 
+respectively. The patterns of Hox expression in the Pec and 
+FCU pools are established through a transcriptional network 
+that appears to be driven largely by Hox cross-repressive 
+interactions.
+B. Changing the Hox code within motor pools changes the  
+pattern of muscle connectivity. Alterations in the profile  
+of Hox6 expression determine the expression of Pea3 and Scip 
+and control the projection of motor axons to the Pec or FCU 
+muscles. RNA interference (RNAi) knock-down of Hox6 sup-
+presses innervation of the Pec muscle so that motor axons 
+innervate the FCU muscle only. Ectopic expression of Hoxc6 
+driven by a cytomegalovirus (CMV) promoter represses  
+connectivity with FCU, so that motor axons innervate only the 
+Pec muscle.
+The spatial distribution of Pax6 and Emx2 helps to 
+establish the initial regional pattern of the neocortex. 
+In mice lacking Emx2 activity, there is an expansion 
+of rostral neocortex—the motor and somatosensory 
+areas—at the expense of the more caudal auditory and 
+visual areas. Conversely, in mice lacking Pax6 activity, 
+visual and auditory areas are expanded at the expense 
+of motor and somatosensory areas (Figure 45–15B).
+Thus, as in the spinal cord, hindbrain, and mid-
+brain, early neocortical patterns are established 
+through the interplay between local inductive signals 
+and gradients of transcription factor expression. How 
+these gradients specify discrete functional areas in the 
+neocortex remains unclear. Unlike segmentation in 
+the hindbrain, where transcription factors precisely 
+specify rhombomeres, transcriptional markers of indi-
+vidual neocortical areas have not yet been identified.
+Afferent Inputs Also Contribute to Regionalization
+In the adult neocortex, different functional areas can 
+be distinguished by differences in the layering pattern 
+of neurons—the cytoarchitecture of the areas—and by 
+their neuronal connections. One striking instance of 
+
+

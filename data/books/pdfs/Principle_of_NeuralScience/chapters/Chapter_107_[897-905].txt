@@ -1,0 +1,957 @@
+===== Page 1 =====
+852    Part V / Movement
+and across movement-related cortical areas, with 
+stronger correlations to causal movement kinetics in 
+M1 and to higher-order motor parameters in premotor 
+and parietal cortex. However, these experimental find-
+ings have not yet led to a single unifying hypothesis 
+about how cortical motor circuits control voluntary 
+movements. Part of this uncertainty may result from 
+inadequacies in experimental task design.
+Representational motor-control models have inter-
+preted these complex results as evidence of the trans-
+formations between different levels of representation 
+of intended movements performed by neural popula-
+tions distributed across different cortical motor areas. 
+In contrast, nonrepresentational motor-control models 
+such as optimal feedback control argue that these same 
+results can only be interpreted as evidence of when 
+and where neural correlates of different motor output 
+parameters emerge in the dynamical activity distrib-
+uted across cortical motor areas but do not shed much 
+insight into the underlying neural computations. This 
+illustrates the experimental challenges still confronting 
+researchers as they try to reverse engineer the cortical 
+motor circuitry to reveal its internal computational 
+organization.
+Sensory Feedback Is Transmitted Rapidly to the 
+Primary Motor Cortex and Other Cortical Regions
+Postcentral and posterior parietal cortex provide much of 
+the sensory information related to the position and motion 
+of the body and the location of spatial goals that is impor-
+tant in voluntary motor control, although the cerebellum 
+is likely another important source (Chapter 37).
+The type of afferent information transmitted to 
+M1 differs between the proximal and distal portions 
+of the limb. Afferent input from cutaneous and muscle 
+sensory neurons is equally prevalent for hand-related 
+neurons, reflecting the importance for both sources of 
+sensory feedback when grasping and manipulating 
+objects with the hand. Muscle afferents provide the 
+major source of feedback from the proximal limb. Infor-
+mation from muscles is more prevalent in the rostral 
+M1, whereas cutaneous input is more common in the 
+caudal M1. Muscle afferent feedback to M1 is surpris-
+ingly rapid as it takes as little as 20 ms for M1 neurons 
+to respond following a mechanical disturbance to the 
+limb. Analogous to reaching, neural activity is broadly 
+tuned to the direction of the mechanical disturbance.
+Sensory feedback supports our ability to make 
+rapid goal-directed corrections for motor errors that 
+arise during movement planning and execution or are 
+caused by unexpected disturbances of the limb. When 
+a perturbing mechanical load is applied to the limb, the 
+motor system generates a multipeaked compensatory 
+electromyographic response, beginning with a short-
+latency stretch response (20–40 ms after the perturba-
+tion), followed by a long-latency response (50–100 ms) 
+and then a so-called “voluntary” response (≥100 ms). 
+The short latency of the initial response indicates that 
+it is generated at the spinal level. The response is rela-
+tively small and stereotyped, and its intensity scales 
+with the magnitude of the applied load. In contrast, 
+motor corrections beginning in the long-latency epoch 
+(50–100 ms) are modulated by a broad range of factors 
+necessary to attain a behavioral goal, including the 
+physics of the limb and environment, the presence of 
+obstacles in the environment, the urgency of the goal, 
+and properties of the target, including alternate goals. 
+These context-dependent features suggest the long-
+latency feedback epoch is an adaptive process in which 
+the control policy (ie, feedback gains) is adjusted based 
+on the behavioral goal, as predicted by the optimal 
+feedback control model.
+The ability of the motor system to rapidly gener-
+ate these goal-directed long-latency motor responses is 
+supported by a transcortical feedback pathway. Neural 
+activity across frontoparietal circuits responds rapidly 
+to mechanical disturbances to a limb, and the pattern 
+of activity across the cortex depends on the behavio-
+ral context. Perturbation-related activity is observed in 
+all cortical regions beginning at approximately 20 ms 
+after the disturbance even if the monkey is distracted 
+by watching a movie and does not have to respond to 
+the disturbance (Figure 34–23A,B). If the monkey is 
+actively maintaining its hand at a spatial goal, there 
+is an immediate increase in the neural response in 
+parietal area PE following the disturbance, followed 
+shortly thereafter by changes in activity in other corti-
+cal regions (Figure 34–23A,B). If the disturbance is a 
+cue that instructs the monkey to move to another spa-
+tial target, then M1 activity reflects the need for a more 
+vigorous response if the disturbance knocks the hand 
+away from the target compared to knocking the hand 
+into the target (Figure 34–23C). In contrast, perturba-
+tion-related activity in PE remains similar regardless 
+of target location.
+The Primary Motor Cortex Is Dynamic and 
+Adaptable
+One of the most remarkable properties of the brain 
+is the adaptability of its circuitry to changes in the 
+environment—the capacity to learn from experience 
+and to store the acquired knowledge as memories. 
+When human subjects practice a motor skill, perfor-
+mance improves.
+
+
+===== Page 2 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    853
+Figure 34–23  Changes in behavioral goals alter rapid 
+sensory feedback to parietal and frontal motor cortices.  
+(Reproduced, with permission, from Omrani et al. 2016. Part 
+A photo is from the film American Pie and is reproduced, with 
+permission, from Universal Studios. © 1999, Universal Pictures, 
+All Rights Reserved.)
+A. In the experiment described here, the responses of cortical 
+regions to mechanical loads randomly applied to the arm are 
+compared. In the left panel, motor corrections return the hand 
+to the spatial goal following the disturbance (green hand trajec-
+tory). In the middle panel, the monkey watches a movie and 
+does not have to respond to the disturbance, leading to the hand 
+remaining to the right following the disturbance (red hand tra-
+jectory). In the right panel, the monkey places its hand at a cen-
+tral start target, and one of two other targets is also presented. 
+The disturbance applied to the limb is a cue for the monkey to 
+move to this second target with its position being either in the 
+direction of the disturbance (cyan “in target” trajectory) or away 
+from the disturbance (blue “out target” trajectory).
+B. Left: Response of a neuron in PE and in M1 when a 
+mechanical load was applied to the limb and the monkey had to 
+counter the load and return the hand to a spatial target (green) 
+or was not required to respond to the disturbance (red). Right: 
+Population signals in each cortical region in response to pertur-
+bations. Note how all cortical areas show an increase in activity 
+approximately 20 ms after the applied load. Arrows denote 
+when activity was different when the monkey had to respond 
+to the disturbance (green curve) as compared to not being 
+required to respond to the disturbance (red curve). Note that 
+PE is the first to show a difference in activity between the two 
+conditions. Other cortical areas show changes at 40 ms or later. 
+A2 is a subregion of S-I. (For B and C: Vertical scale bars, 20/
+spikes/s); Activity between 60–250 ms (thick horizontal line) 
+compressed for visualization purposes.)
+C. Left: Responses of single neurons in PE and M1 when a 
+mechanical load was a cue and instructed the monkey to move 
+to another target. The disturbance either pushed the hand 
+toward the target (cyan) or away from it (blue). Right: Popula-
+tion signals based on perturbation-related activity in each corti-
+cal region for the “in target” and “out target” conditions. The 
+initial responses are similar for both “in target” and “out target” 
+disturbances across all cortical areas, and arrows denote when 
+there is a difference in activity between conditions. M1 is the 
+first to display an increase in activity for the “out target” distur-
+bance just prior to changes in muscle activity moving the hand 
+to the spatial target.
+A  Behavioral goals
+B  Neuronal responses to countering
+the load and no response required
+C  Neuronal responses to changing targets
+2 cm
+Counter the load
+No response required
+Change targets
+In target
+Out target
+Center
+target
+0
+100
+200
+0
+50
+100
+Neural activity (sp/s)
+Time (ms)
+0
+40
+–40
+250
+80
+Time (ms)
+M1
+M1
+PMd
+S-1
+A2
+PE
+0
+50
+100
+PE
+Load
+on
+Load
+on
+0
+100
+200
+0
+50
+100
+150
+Neural activity (sp/s)
+Time (ms)
+0
+–40
+250
+60
+Time (ms)
+M1
+M1
+PMd
+S-1
+A2
+PE
+0
+50
+100
+PE
+Perturbation
+Load
+on
+
+
+===== Page 3 =====
+854    Part V / Movement
+Figure 34–24  Learning a motor skill changes the organization 
+of the M1 motor map. (Reproduced, with permission, from Nudo 
+et al. 1996. Copyright © 1996 Society for Neuroscience.)
+A. Motor maps for the hand in a monkey before and after 
+training on retrieval of treats from a small well. Before train-
+ing, areas of the motor map that generate index finger 
+and wrist movements occupy less than half of a monkey’s 
+motor map. After training, the area from which the trained 
+movements can be evoked by intracortical microstimulation 
+expands substantially. The area of the map from which one 
+could elicit individuated movements such as finger extension 
+and flexion has expanded considerably, while the areas con-
+trolling wrist abduction, which this monkey used less in the 
+new skill, became less prominent. (Abbreviations: M, medial; 
+R, rostral.)
+B. The areas of the motor output map parallel the level of 
+performance (number of successful pellet retrievals) during 
+acquisition of the motor skill and extinction (due to lack of 
+practice). Two areas were tested: a “dual response” area (left 
+plot), from which any combination of finger and wrist motions 
+could be evoked, and an area from which the specific combina-
+tion of finger flexion and wrist extension could be evoked (right 
+plot). Both areas increased as the monkey’s skill improved with 
+practice and decreased as the monkey’s skill was extinguished 
+through lack of practice. These data are from a different mon-
+key than the one in part A but trained for same task.
+Motor experience can also modify the motor map. 
+In monkeys trained to use precise movements of the 
+thumb, index finger, and wrist to extract treats from 
+a small well, the area of the motor map in which 
+intracortical microstimulation (ICMS) could evoke 
+R
+M
+A
+B  
+0
+0
+5
+10
+15
+20
+0
+10
+20
+30             
+Number of retrievals
+Number of retrievals
+Dual response area (%)
+Finger ﬂex + wrist ext area (%)
+Baseline
+Training I
+Training II
+Extinction
+Reacquisition
+Baseline
+Training I
+Training II
+Extinction
+Reacquisition
+Number of retrievals
+Dual response area
+Pre-training
+Post-training
+Number of retrievals
+Finger ﬂex + wrist ext area
+Finger extension
+Finger ﬂexion
+Wrist abduction
+Other distal ﬂexion      
+% total
+30
+20
+10
+0
+Finger
+ext
+Finger 
+ﬂex
+Wrist 
+abd
+Pre
+Pre
+Pre
+Post
+Post
+Post
+1200
+1000
+800
+600
+400
+200
+0
+1200
+1000
+800
+600
+400
+200
+movements at these joints was larger than before train-
+ing (Figure 34–24). If a monkey did not practice the task 
+for a lengthy period, its skill level decreased, as did 
+the cortical area from which the trained movements 
+could be elicited by ICMS. Similar modifications of the 
+
+
+===== Page 4 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    855
+cortical representation of practiced actions in humans 
+have been demonstrated by functional imaging and 
+transcranial magnetic stimulation.
+At least some of the processes contributing to these 
+changes to the motor map are local to M1 itself. One of 
+the mechanisms contributing to the cortical reorganiza-
+tion underlying improved reach-to-grasp performance 
+in rodents involves changes in synaptic strength simi-
+lar to long-term potentiation and depression within 
+the local horizontal connections linking different parts 
+of the arm motor map. It has been shown that spike-
+triggered ICMS could cause specific alterations to the 
+M1 motor output map even without specific training. 
+For instance, one study first identified two different 
+cortical sites (A and B) that caused contractions of dif-
+ferent muscles (muscle A and muscle B, respectively) 
+when electrically stimulated. They then recorded the 
+activity of a neuron at site A; whenever that neuron 
+fired, they stimulated site B. Within a day or two of this 
+ICMS conditioning at site B, electrical stimulation of 
+site A was able to cause simultaneous contractions of 
+both muscles A and B. The change likely resulted from 
+a spike-timing dependent increase in synaptic strength 
+that was limited to the horizontal cortical projection 
+from site A to site B. Electromyographic responses elic-
+ited by ICMS at a third site that did not receive similar 
+conditioning did not change, confirming that the effect 
+was not generalized.
+Motor adaptation to visual or mechanical distur-
+bances has been studied extensively in human sub-
+jects (Chapter 30). Neural-recording studies have 
+demonstrated that these alterations lead to changes 
+in the activity of M1 neurons in monkeys as the ani-
+mals adapt to the perturbations. For instance, when 
+monkeys make reaching movements in a predictable 
+external force field that pushes on the arm in a direc-
+tion perpendicular to the direction of movement, their 
+initially curved reach trajectories get straighter. As this 
+adaptation evolves, large increases gradually arise in 
+the activity of M1 cells whose preferred directional 
+tuning is opposite to the applied force field. The mag-
+nitude of such adaptation-dependent changes in activ-
+ity diminishes progressively as the angle between the 
+force direction and cell preferred direction increases, 
+following a cosine-like function. This shows that the 
+adaptive changes were specific to the neurons that 
+would make the greatest contribution to compensate 
+for the external force field.
+Another example of selective changes in M1 activ-
+ity during motor learning comes from a visuomo-
+tor learning study in which visual feedback from a 
+computer monitor is rotated 90° clockwise such that 
+movements of a monkey’s arm to the right result in 
+downward movement of the cursor. Initially, the monkeys 
+make arm movements in the original direction aimed 
+at the visual target location, with corrections made 
+online after movement onset. However, with practice, 
+the monkeys begin to move in a new direction rotated 
+counterclockwise to the visual target so that the cursor 
+moves directly to the target. When training occurs for 
+only one direction, learning generalizes poorly to other 
+directions, suggesting that the adaptive changes occur 
+only in neurons that evoke the adapted movement. 
+The tuning curves of neurons with preferred directions 
+near the learned direction were altered during train-
+ing, whereas neurons with other preferred directions 
+were not affected by the training. This confirmed that 
+the adaptation was local, consistent with the findings 
+of the force-field adaptation study, and explained why 
+adaptation to the visuomotor rotation in one direction 
+generalized poorly to other directions.
+Motor-error signals in the precentral cortex also 
+play an important role in trial-by-trial motor adapta-
+tion based on feedback learning. In one study with 
+monkeys, an adjustable prism was used to displace 
+the apparent location of the reach target in the envi-
+ronment. Visual feedback of the target and arm were 
+blocked during the reaching movements, leading to 
+systematic errors in touching the target. The monkeys 
+were allowed to see visual feedback of the position 
+of the hand relative to the target for a brief period of 
+time at the end of movement (Figure 34–25). Activity 
+in M1 and PMd during that brief period of visual feed-
+back after movement reflected the direction of reach 
+end-point errors and could be involved in adapting 
+reaching movements to correct these errors. To test 
+that hypothesis, ICMS was then used in M1 and PMd 
+to simulate those error responses and showed that 
+the monkeys began to make adaptive changes in their 
+reaching movements to compensate for the simulated 
+errors even though no reaching error was actually 
+made.
+Some motor skills are relatively easy to learn, 
+such as compensation for a visuomotor rotation. Oth-
+ers, however, are very difficult to learn. Recent stud-
+ies examined this discrepancy by first measuring the 
+activity of a population of M1 neurons as the monkey 
+moved a cursor on a computer screen using a brain–
+machine interface and a neural activity decoder. This 
+population-level mapping between M1 activity and 
+cursor motion was then altered by changing the asso-
+ciation between the directional tuning of each neuron 
+and cursor motion in the decoder. When the altered 
+decoder mapping retained the normal co-modulation 
+structure of neural activity, as would be the case for 
+instance if the mapping between the activity of all 
+
+
+===== Page 5 =====
+856    Part V / Movement
+1  During movement
+111
+124
+108
+116
+35
+42
+6
+28
+2  After movement, target visible
+B  Activity of an M1 neuron
+Target appears
+–500
+0
+500
+–40
+40
+0
+s/s
+50
+25
+20
+0
+–20
+–40
+–20
+0
+20
+40
+Horizontal error (mm)
+Vertical error (mm)
+–40
+–20
+0
+20
+40
+Horizontal error (mm)
+1000
+Reach
+Touch
+A  Experiment
+Start trial
+Target appears
+Reach
+Touch
+Shutter close
+Figure 34–25  (right) Error signals in the primary motor 
+cortex drive adaptation.  After a movement is complete, 
+M1 activity reflects the error between the spatial target and 
+final hand position. (Reproduced, with permission, from 
+Inoue, Uchimura, and Kitazawa 2016. Copyright © 2016  
+Elsevier Inc.)
+A. Monkeys made reaching movements to spatial targets 
+on a touch screen. On each trial, adjustable prism goggles 
+shifted the viewed position of the spatial target by a variable 
+amount during the movement, while a shutter blocked vision 
+of the monkey’s hand and the target. Feedback of the final 
+hand position was only provided for 300 ms after contact 
+with the touch screen at the end of movement.
+B. Top: Discharge response of a typical M1 neuron. Raster 
+plots and spike-timing histograms are aligned with the initial 
+screen contact (touch).
+1. Distribution of reach endpoint errors (black dots) where 
+the origin represents the center of the target. Diameters 
+of green circles denote the firing rate of the neuron during 
+each movement (green bar in B); the firing rates were unre-
+lated to the subsequent endpoint error. The numbers in each 
+quadrant indicate the summed spike activity during move-
+ments that ended in the corresponding quadrant; they are all 
+nearly equal.
+2. Same as in part B except purple circles denote firing rate 
+100 to 200 ms after movement while the monkey can see its 
+hand while touching the screen (purple bar in part B). The 
+circles and spike counts show that the firing rate is greatest 
+for endpoint errors down and to the left relative to the posi-
+tion of the target (0,0), revealing that that the neural activity 
+during this postmovement period is strongly modulated by 
+visual feedback of reach endpoint error.
+neurons and cursor motions was rotated clockwise 
+by 45°, the monkeys showed significant adaptation 
+to the perturbation within a few hundred trials dur-
+ing a single recording session. In contrast, when the 
+perturbation required the monkeys to learn a more 
+complex “unnatural” remapping, for instance, ran-
+dom clockwise and counterclockwise rotations of the 
+apparent directional tuning of neurons by different 
+amounts, the monkeys showed little ability to recover 
+proficient cursor control over several hundred trials 
+in a single recording session. Importantly, another 
+study found that monkeys could eventually master an 
+“unnatural” change in an M1 neural activity decoder 
+mapping if they could practice with the same altered 
+decoder over several days, indicating that they could 
+learn a new neural co-modulation structure if allowed 
+enough experience with it. These studies reinforce 
+how neural circuits in these cortical motor regions are 
+critical for motor skill learning.
+The studies just described used brain–machine 
+interfaces and neural decoders to explore how single 
+neurons and neural populations contribute to motor 
+skill learning. This technology promises to be an 
+increasingly important research tool for developing 
+new insights into the neural mechanisms of voluntary 
+motor control and motor skill learning (Chapter 39).
+Highlights
+  1.  Voluntary motor behavior implements an individ-
+ual’s intentional choice or decision to move within, 
+and to interact physically with objects in, the envi-
+ronment. A hallmark of human motor action is the 
+breadth of skills we possess and, when highly prac-
+ticed, the ease and automaticity of these actions.
+  2.  Voluntary motor control has long been separated 
+into two stages—planning and execution—that 
+
+
+===== Page 6 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    857
+can be dissociated in time. Neural recording 
+studies have found correlates of these two stages 
+differentially distributed across many movement-
+related cortical areas.
+  3.  The overall computational problem that the 
+motor system must resolve to control voluntary 
+movement is to convert sensory information 
+about the current state of the world and the body 
+into plans for action and ultimately into patterns 
+of muscle activity that generate the causal forces 
+required to execute the desired movement(s), 
+while avoiding or correcting for errors.
+  4.  Representational models of voluntary motor con-
+trol such as the sensorimotor coordinate transfor-
+mation hypothesis assume that the motor system 
+directly plans and controls specific features or 
+parameters of intended movements. Single 
+neurons and neural populations express those 
+parameters in their activity and perform defin-
+able computations to effect the transformations 
+between the controlled movement parameters in 
+corresponding coordinate frameworks.
+  5.  Dynamical systems models of voluntary motor 
+control, in contrast, assume that motor circuits 
+find empirical solutions for the computations 
+underlying the planning and execution of move-
+ments by evolutionary and individual adaptive 
+processes. One recent theory, optimal feedback 
+control, proposes that planning and execution 
+of voluntary movements involve three func-
+tional processes, namely, state estimation, task 
+selection, and a control policy. Single neurons 
+and neural populations contribute to voluntary 
+motor control by participating in the computa-
+tions underlying these three processes.
+  6.  Distributed frontoparietal circuits in cerebral cor-
+tex play a pivotal role in voluntary control. There 
+are substantial reciprocal axonal interconnections 
+between frontal and parietal cortical regions, par-
+tially segregated based on body part (eg, hand, 
+arm, eye). Frontal motor and parietal cortical 
+regions both directly influence spinal process-
+ing through the corticospinal tract and indirectly 
+through brain stem descending pathways.
+  7.  Posterior parietal cortex plays a prominent role in 
+identifying potential goals and objects in the envi-
+ronment, state estimation of the body, and sensory 
+guidance of motor actions. Important sources of 
+sensory signals are transmitted from visual cor-
+tex through the dorsal visual pathway and from 
+primary somatosensory cortex. Behavioral goals 
+and objects are represented in many parietal sub-
+regions, but how they are represented (relative 
+to the orientation of the eye, head, or arm) varies 
+across subregions. The presence of multiple rep-
+resentations provides a rich basis for defining the 
+movement-relevant properties and the locations 
+of objects in the world and relative to the body 
+that can be used to select and guide movement.
+  8.  Premotor and prefrontal cortices play a promi-
+nent role in task selection and motor planning. 
+The dorsal and ventral premotor regions are often 
+implicated when external sensory information 
+plays a dominant role in selecting motor actions. 
+In contrast, more medial premotor regions, such 
+as the supplementary and cingulate motor areas, 
+may play a more dominant role when internal 
+desires are more critical in selecting and initiat-
+ing a motor action. However, this dichotomy is 
+not absolute, and multiple premotor and pre-
+frontal cortical areas all contribute to the control 
+of voluntary behavior in a broad range of con-
+texts and conditions.
+  9.  Primary motor cortex in primates has a represen-
+tation of the entire body along its mediolateral 
+axis, with larger cortical territories associated 
+with the hand and face relative to other body 
+parts. This cortical region also provides a large 
+component of the corticospinal tract and has pro-
+jections to both interneurons and alpha motor 
+neurons in the spinal cord.
+10.  Neural activity that reflects the causal forces 
+and the spatiotemporal features of muscle activ-
+ity necessary to move the limb is particularly 
+prominent in the primary motor cortex and can 
+be rapidly altered to correct movement errors 
+or to compensate for displacements of the limb 
+away from the desired movement if the limb is 
+perturbed. However, neural activity in primary 
+motor cortex can also show more complex prop-
+erties, reflecting changes based on the behavioral 
+context, performance goals and constraints, and 
+features such as movement kinematics. These 
+properties of primary motor cortex activity may 
+reflect the formation of a task-specific control 
+policy within the motor system.
+11.  Although parietal, premotor, and primary motor 
+cortical regions play prominent roles in state esti-
+mation, motor planning, and motor execution, 
+respectively, they are not uniquely responsible 
+for any one aspect; they are instead distributed 
+to some degree across most or all of these cortical 
+regions.
+12.  The cortical motor system is adaptive and can 
+undergo changes in its functional architecture 
+to adapt to long-term changes in the physical 
+
+
+===== Page 7 =====
+858    Part V / Movement
+properties of the world and the body, as well as 
+acquire, retain, and recall new motor skills.
+13.  New technologies such as large-scale multi-
+neuron 
+recording 
+and 
+imaging 
+methods, 
+enhanced multi-neuron activity decoding algo-
+rithms, and optogenetic control of the activity of 
+specific neural populations will lead to deeper 
+insights into the functional architecture of corti-
+cal motor circuits.
+ Stephen H. Scott 
+  John F. Kalaska 
+Selected Reading
+Battaglia-Mayer A, Babicola L, Satta E. 2016. Parieto-frontal 
+gradients and domains underlying eye and hand opera-
+tions in the action space. Neuroscience 334:76–92.
+Cisek P, Kalaska JF. 2010. Neural mechanisms for interacting 
+with a world full of action choices. Annu Rev Neurosci 
+33:269–298.
+Dum RP, Strick PL. 2002. Motor areas in the frontal lobe of 
+the primate. Physiol Behav 77:677–682.
+Hikosaka O, Isoda M. 2010. Switching from automatic to 
+controlled behaviour: cortico-basal ganglia mechanism. 
+Trends Cogn Sci 14:154–161.
+Lemon RN. 2008 Descending pathways in motor control. 
+Ann Rev Neurosci 31:195–218.
+Passingham RE, Bengtsson SL, Lau HC. 2010. Medial frontal 
+cortex: from self-generated action to reflection on one’s 
+own performance. Trends Cogn Sci 14:16–21.
+Scott SH. 2004. Optimal feedback control and the neural basis 
+of volitional motor control. Nat Rev Neurosci 5:532–546.
+References
+Batista AP, Buneo CA, Snyder LH, Andersen RA. 1999. Reach 
+plans in eye-centered coordinates. Science 285:257–260.
+Cheney PD, Fetz EE, Palmer SS. 1985. Patterns of facilita-
+tion and suppression of antagonist forelimb muscles from 
+motor cortex sites in the awake monkey. J Neurophysiol 
+53:805–820.
+Cherian A, Krucoff MO, Miller LE. 2011. Motor cortical pre-
+diction of EMG: evidence that a kinetic brain-machine 
+interface may be robust across altered movement dynam-
+ics. J Neurophysiol 106:564–575.
+Churchland MM, Shenoy KV. 2006. Temporal complexity 
+and heterogeneity of single-neuron activity in premotor 
+and motor cortex. J Neurophysiol 97:4235–4257.
+Cisek P, Crammond DJ, Kalaska JF. 2003. Neural activity in 
+primary motor and dorsal premotor cortex in reaching tasks 
+with the contralateral versus ipsilateral arm. J Neurophysiol 
+89:922–942.
+Cisek P, Kalaska JF. 2004. Neural correlates of mental 
+rehearsal in dorsal premotor cortex. Nature 431:993–996.
+Crammond DJ, Kalaska JF. 2000. Prior information in motor 
+and premotor cortex: activity in the delay period and effect 
+on pre-movement activity. J Neurophysiol 84:986–1005.
+Duhamel JR, Colby CL, Goldberg ME. 1998. Ventral intrapa-
+rietal area of the macaque: congruent visual and somatic 
+response properties. J Neurophysiol 79:126–136.
+Evarts EV. 1968. Relation of pyramidal tract activity to force 
+exerted during voluntary movement. J Neurophysiol 
+31:14–27.
+Evarts E, Tanji J. 1976. Reflex and intended responses in motor 
+cortex pyramidal tract neurons of monkey. J Neurophysiol 
+39:1069–1080.
+Fetz EE, Cheney PD. 1980. Postspike facilitation of forelimb 
+muscle activity by primate corticomotoneuronal cells.  
+J Neurophysiol 44:751–772.
+Ganguly K, Carmena JM. 2009. Emergence of a stable cortical 
+map for neuroprosthetic control. PLoS Biol. 7:e1000153.
+Georgopoulos AP, Caminiti R, Kalaska JF, Massey JT. 1983. 
+Spatial coding of movement: a hypothesis concerning the 
+coding of movement direction by motor cortical popula-
+tions. Exp Brain Res 49(Suppl 7):327–336.
+Georgopoulos AP, Kalaska, JF, Caminiti R, Massey JT. 1982. 
+On the relations between the direction of two-dimensional 
+arm movements and cell discharge in primate motor cortex. 
+J Neurosci 2:1527–1537.
+Georgopoulos AP, Kettner RE, Schwartz AB. 1988. Primate 
+motor cortex and free arm movements to visual tar-
+gets in three-dimensional space. II. Coding of the direc-
+tion of movement by a neuronal population. J Neurosci 
+8:2928–2937.
+Goodale MA, Milner AD. 1992. Separate visual pathways for 
+perception and action. Trends Neurosci 15:20–25.
+Griffin DM, Hudson HM, Belhaj-Saïf A, McKiernan BJ, 
+Cheney PD. 2008. Do corticomotoneuronal cells predict 
+target muscle EMG activity? J Neurophysiol 99:1169–1186.
+Heming EA, Lillicrap TP, Omrani M, Herter TM, Pruszynski 
+JA, Scott SH. 2016. Primary motor cortex neurons classi-
+fied in a postural task predict muscle activation patterns 
+in a reaching task. J Neurophysiol 115:2021–2032.
+Hepp-Reymond MC, Kirkpatrick-Tanner M, Gabernet L, 
+Qi Hx, Weber B. 1999. Context-dependent force cod-
+ing in motor and premotor cortical areas. Exp Brain Res 
+128:123–133.
+Humphrey DR, Tanji J. 1991. What features of voluntary 
+motor control are encoded in the neuronal discharge of 
+different cortical areas? In: DR Humphrey, H-J Freund 
+(eds). Motor Control: Concepts and Issues, pp 413–443. 
+New York: Wiley.
+Hwang EJ, Bailey PM, Andersen RA. 2013. Volitional control 
+of neural activity relies on the natural motor repertoire. 
+Curr Biol 23:353–361.
+
+
+===== Page 8 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    859
+Inoue M, Uchimura M, Kitazawa S. 2016. Error signals in 
+motor cortices drive adaptation in reaching. Neuron 
+90:1114–1126.
+Kalaska JF, Cohen DA, Hyde ML, Prud’Homme M. 1989. A 
+comparison of movement direction-related versus load 
+direction-related activity in primate motor cortex, using 
+a two-dimensional reaching task. J Neurosci 9:2080–2102.
+Kaufman MT, Churchland MM, Ryu SI, Shenoy KV. 2014. 
+Cortical activity in the null space: permitting preparation 
+without movement. Nat Neurosci 17:440–448.
+Klaes C, Westendorff S, Chakrabarti S, Gail A. 2011. Choos-
+ing goals, not rules: deciding among rule-based action 
+plans. Neuron 70:536–548.
+Kurtzer I, Herter TM, Scott SH. 2005. Random change in cor-
+tical load representation suggests distinct control of pos-
+ture and movement. Nat Neurosci 8:498–504.
+Maravita A, Iriki A. 2004. Tools for the body (schema). Trends 
+Cogn Sci 8:79–86.
+Moritz CT, Perlmutter SI, Fetz EE. 2008. Direct control of par-
+alysed muscles by cortical neurons. Nature 456:639–642.
+Muir RB, Lemon RN. 1983. Corticospinal neurons with a spe-
+cial role in precision grip. Brain Res 261:312–316.
+Murata A, Wen W, Asama H. 2016. The body and objects 
+represented in the ventral stream of the parieto-premotor 
+network. Neurosci Res 104:4–15.
+Nachev P, Kennard C, Husain M. 2008. Functional role of the 
+supplementary and pre-supplementary motor areas. Nat 
+Rev Neurosci 9:856–869.
+Nudo RJ, Milliken GW, Jenkins WM, Merzenich MM. 1996. 
+Use-dependent alterations of movement representa-
+tions in primary motor cortex of adult squirrel monkeys. 
+J Neurosci 16:785–807.
+Omrani M, Murnaghan CD, Pruszynski JA, Scott SH. 2016. 
+Distributed task-specific processing of somatosensory 
+feedback for voluntary motor control. eLife 5:e13141.
+Park MC, Belhaj-Saïf A, Gordon M, Cheney PD. 2001. 
+Consistent features in the forelimb representation of 
+primary motor cortex in rhesus macaques. J Neurosci 
+21:2784–2792.
+Paz R, Vaadia E. 2004. Learning-induced improvement in 
+encoding and decoding of specific movement directions 
+by neurons in the primary motor cortex. PLoS Biol 2:E45.
+Pruszynski JA, Kurtzer I, Nashed JY, Omrani M, Brouwer B, 
+Scott SH. 2011. Primary motor cortex underlies multi-
+joint integration for fast feedback control. Nature 478: 
+387–390.
+Rathelot JA, Strick PL. 2006. Muscle representation in the 
+macaque motor cortex: an anatomical perspective. Proc 
+Natl Acad Sci U S A 103:8257–8262.
+Rizzolatti G, Camarda R, Fogassi L, Gentilucci M, Luppino 
+G, Matelli M. 1988. Functional organization of inferior 
+area 6 in the macaque monkey. II. Area F5 and the control 
+of distal movement. Exp Brain Res 71:491–507.
+Rizzolatti G, Fadiga L, Gallese V, Fogassi L. 1996. Premotor 
+cortex and the recognition of motor actions. Cogn Brain 
+Res 3:131–141.
+Romo R, Hernández A, Zainos A. 2004. Neuronal correlates 
+of a perceptual decision in ventral premotor cortex. Neuron 
+41:165–173.
+Rozzi S, Calzavara R, Belmalih A, et al. 2006. Cortical con-
+nections of the inferior parietal cortical convexity of the 
+macaque monkey. Cereb Cortex 16:1389–1417.
+Sadtler PT, Quick KM, Golub MD, et al. 2014. Neural con-
+straints on learning. Nature 512:423–426.
+Schaffelhofer S, Scherberger H. 2016. Object vision to hand 
+action in macaque parietal, premotor, and motor cortices. 
+eLife 5:e15278.
+Schwartz AB. 1994. Direct cortical representation of drawing. 
+Science 265:540–542.
+Scott SH, Cluff T, Lowrey CR, Takei T. 2015. Feedback con-
+trol during voluntary motor actions. Curr Opin Neurobiol 
+33:85–94.
+Scott SH, Gribble P, Graham K, Cabel DW. 2001. Dissociation 
+between hand motion and population vectors from neural 
+activity in motor cortex. Nature 413:161–165.
+Sergio LE, Hamel-Pâquet C, Kalaska JF. 2005. Motor cortex 
+neural correlates of output kinematics and kinetics during 
+isometric-force and arm-reaching tasks. J Neurophysiol 
+94:2353–2378.
+Sergio LE, Kalaska JF. 2003. Systematic changes in motor 
+cortex cell activity with arm posture during directional 
+isometric force generation. J Neurophysiol 89:212–228.
+Shenoy KV, Sahani M, Churchland M. 2013. Cortical control 
+of arm movements: a dynamical systems perspective. 
+Annu Rev Neurosci 36:337–359.
+Shima K, Tanji J. 1998. Role of cingulate motor area cells in 
+voluntary movement selection based on reward. Science 
+282:1335–1338.
+Shinoda Y, Yokota J, Futami T. 1981. Divergent projections of 
+individual corticospinal axons to motoneurons of multiple 
+muscles in the monkey. Neurosci Lett 23:7–12.
+Sommer MA, Wurtz RH. 2008. Brain circuits for the internal 
+monitoring of movements. Ann Rev Neurosci 31:317–338.
+Strick PL. 1983. The influence of motor preparation on the 
+response of cerebellar neurons to limb displacements.  
+J Neurosci 3:2007–2020.
+Tanji J. 2001. Sequential organization of multiple movements: 
+involvement of cortical motor areas. Ann Rev Neurosci 
+24:631–651.
+Thach WT. 1978. Correlation of neural discharge with pattern 
+and force of muscular activity, joint position, and direc-
+tion of intended next arm movement in motor cortex and 
+cerebellum. J Neurophysiol 41:654–676.
+Wallis JD, Miller EK. 2003. From rule to response: neuronal pro-
+cesses in the premotor and prefrontal cortex. J Neurophysiol 
+90:1790–1806.
+
+
+===== Page 9 =====
+35
+The Control of Gaze
+I
+n preceding chapters, we learned about the motor 
+systems that control the movements of the body in 
+space. In this and the next chapter, we consider the 
+motor systems that control our gaze, balance, and posture 
+as we move through the world around us. In examining 
+these motor systems, we will focus on three biological 
+challenges that these systems resolve: How do we visu-
+ally explore our environment quickly and efficiently? 
+How do we compensate for planned and unplanned 
+movements of the head? How do we stay upright?
+In this chapter, we describe the oculomotor sys-
+tem and how it uses visual information to guide eye 
+movements. It is one of the simplest motor systems, 
+requiring the coordination of only the 12 evolutionar-
+ily old muscles that move the two eyes. In humans 
+and other primates, the primary objective of the ocu-
+lomotor system is to control the position of the fovea, 
+the central point in the retina that has the highest den-
+sity of photoreceptors and thus the sharpest vision. 
+The fovea is less than 1 mm in diameter and covers 
+less than 1% of the visual field. When we want to 
+examine an object, we must move its image onto the 
+fovea (Chapter 22).
+The Eye Is Moved by the Six Extraocular Muscles
+Eye Movements Rotate the Eye in the Orbit
+To a good approximation, the eye is a sphere that sits 
+in a socket, the orbit. Eye movements are simply rota-
+tions of the eye in the orbit. The eye’s orientation can 
+be defined by three axes of rotation—horizontal, ver-
+tical, and torsional—that intersect at the center of the 
+eyeball, and eye movements are described as rotations 
+The Eye Is Moved by the Six Extraocular Muscles
+Eye Movements Rotate the Eye in the Orbit
+The Six Extraocular Muscles Form Three Agonist–
+Antagonist Pairs
+Movements of the Two Eyes Are Coordinated
+The Extraocular Muscles Are Controlled by  
+Three Cranial Nerves
+Six Neuronal Control Systems Keep the Eyes on Target
+An Active Fixation System Holds the Fovea on a 
+Stationary Target
+The Saccadic System Points the Fovea Toward  
+Objects of Interest
+The Motor Circuits for Saccades Lie in the Brain Stem
+Horizontal Saccades Are Generated in the Pontine 
+Reticular Formation
+Vertical Saccades Are Generated in the Mesencephalic 
+Reticular Formation
+Brain Stem Lesions Result in Characteristic Deficits in 
+Eye Movements
+Saccades Are Controlled by the Cerebral Cortex Through the 
+Superior Colliculus
+The Superior Colliculus Integrates Visual and Motor 
+Information into Oculomotor Signals for the Brain Stem
+The Rostral Superior Colliculus Facilitates Visual Fixation
+The Basal Ganglia and Two Regions of Cerebral Cortex 
+Control the Superior Colliculus
+The Control of Saccades Can Be Modified by Experience
+Some Rapid Gaze Shifts Require Coordinated Head and 
+Eye Movements
+The Smooth-Pursuit System Keeps Moving Targets on the Fovea
+The Vergence System Aligns the Eyes to Look at Targets at 
+Different Depths
+Highlights
+
+

@@ -1,0 +1,870 @@
+===== Page 1 =====
+1292    Part VIII / Learning, Memory, and Cognition
+Contrary to the prevalent view that cognitive func-
+tions are localized in the brain, many students of learn-
+ing doubted that memory is localized. In fact, until 
+the middle of the 20th century, many psychologists 
+doubted that memory is a discrete function, independ-
+ent of perception, language, or movement. One reason 
+for the persistent doubt is that memory storage involves 
+many different parts of the brain. We now appreciate, 
+however, that these regions are not all equally impor-
+tant. There are several fundamentally different types 
+of memory, and certain regions of the brain are much 
+more important for encoding some types of memory 
+than for others.
+During the past several decades, researchers have 
+made significant progress in the analysis and under-
+standing of learning and memory. In this chapter, we 
+focus on studies of normal human memory behavior, 
+its perturbations following brain lesions due to injury 
+or surgery, and measurements of brain activity during 
+learning and memory recall using functional magnetic 
+resonance imaging (fMRI) and extracellular electro-
+physiological recordings. These studies have yielded 
+three major insights.
+First, there are several forms of learning and mem-
+ory. Each form of learning and memory has distinctive 
+cognitive and computational properties and is sup-
+ported by different brain systems. Second, memory 
+involves encoding, storage, retrieval, and consolida-
+tion. Finally, imperfections and errors in remember-
+ing can provide clues about the nature and function of 
+learning and memory and the fundamental role that 
+memory plays in guiding behavior and planning for 
+the future.
+Memory can be classified along two dimensions: 
+(1) the time course of storage and (2) the nature of the 
+information stored. In this chapter, we consider the time 
+course of storage. In the next two chapters, we focus on 
+the cellular, molecular, and circuit-based mechanisms 
+of different forms of learning and memory, based 
+largely on studies of animal models.
+Short-Term and Long-Term Memory Involve 
+Different Neural Systems
+Short-Term Memory Maintains Transient 
+Representations of Information Relevant to 
+Immediate Goals
+When we reflect on the nature of memory, we usually 
+think of the long-term memory that William James 
+referred to as “memory proper” or “secondary memory.” 
+That is, we think of memory as “the knowledge of a 
+former state of mind after it has already once dropped 
+from consciousness.” This knowledge depends on the 
+formation of a memory trace that is durable, in which 
+the representation persists even when its content has 
+been out of conscious awareness for a long period.
+Not all forms of memory, however, constitute “for-
+mer states of mind.” In fact, the ability to store informa-
+tion depends on a form of short-term memory, called 
+working memory, which maintains current, albeit 
+transient, representations of goal-relevant knowledge. 
+In humans, working memory consists of at least two 
+subsystems––one for verbal information and another 
+for visuospatial information. The functioning of these 
+two subsystems is coordinated by a third system called 
+the executive control processes. Executive control pro-
+cesses are thought to allocate attentional resources to 
+the verbal and visuospatial subsystems and to moni-
+tor, manipulate, and update stored representations.
+We use the verbal subsystem when we attempt 
+to keep speech-based (phonological) information in 
+conscious awareness, as when we mentally rehearse 
+a password before entering it. The verbal subsystem 
+consists of two interactive components: a store that 
+represents phonological knowledge and a rehearsal 
+mechanism that keeps these representations active 
+while we need them. Phonological storage depends 
+on posterior parietal cortices, and rehearsal partially 
+depends on articulatory processes in Broca’s area.
+The visuospatial subsystem of working memory 
+retains mental images of visual objects and of the loca-
+tion of objects in space. The rehearsal of spatial and 
+object information is thought to involve modulation of 
+this information in the parietal, inferior temporal, and 
+occipital cortices by the frontal and premotor cortices.
+Single-cell recordings in nonhuman primates 
+indicate that, over a period of seconds, some prefron-
+tal neurons maintain spatial representations, others 
+maintain object representations, and still others repre-
+sent the integration of spatial and object knowledge. 
+Although neurons concerned with working memory 
+of objects tend to lie in the ventrolateral prefrontal cor-
+tex and those concerned with spatial knowledge tend 
+to lie in the dorsolateral prefrontal cortex, all three 
+classes of neurons are found in both prefrontal subre-
+gions (Figure 52–1).
+Thus, working memory involves activation of 
+representations of information stored in specialized 
+cortical regions that vary based on the content of the 
+information, as well as activation of general control 
+mechanisms in prefrontal cortex. Prefrontal control 
+signals in working memory are further dependent on 
+interaction with the striatum and ascending dopamin-
+ergic inputs from the midbrain.
+
+
+===== Page 2 =====
+Chapter 52 / Learning and Memory    1293
+Figure 52–1  The prefrontal cortex maintains a working 
+memory. (Adapted, with permission, from Rainer, Asaad, and 
+Miller 1998.)
+A. The role of prefrontal cortex in maintaining information in 
+working memory is often assessed in monkeys using electro-
+physiological methods in conjunction with a delayed-match-to-
+sample (DMS) task. In this type of task, each trial begins when 
+the monkey grabs a response lever and visually fixates a small 
+target at the center of a computer screen. An initial visual stimu-
+lus (the sample) is briefly presented and must be held in working 
+memory until the next stimulus (the match) appears. In the task 
+illustrated here, the monkey was required to remember the sam-
+ple (“what”) and its location (“where”) and release the lever only 
+in response to stimuli that matched on both dimensions.
+B. Neural firing rates in the lateral prefrontal cortex of a monkey 
+during the delay period are often maintained above baseline 
+and represent responses to the type of stimulus (what), the 
+location (where), and the integration of the two (what and 
+where). As shown, at left is the activity of a prefrontal neuron in 
+response to a preferred object (to which the neuron responds 
+robustly) and to a nonpreferred object (to which the neuron 
+responds minimally). Activity is robust both when the monkey 
+looks at the preferred object (sample) and during the delay. 
+In the sketch at right, the symbols represent recording sites 
+where neurons maintained each type of information (what, 
+where, and what and where). Typically, several types of neu-
+rons were found at one site; hence, many symbols overlap and 
+some symbols indicate more than one neuron.
+Preferred 
+object 
+Nonpreferred 
+object 
+Match
+Sample
+Delay
+Sample
+Delay
+Match
+Location
+nonmatch
+Object
+nonmatch
+Object
+Location
+Object and 
+location
+Arcuate 
+sulcus 
+A
+B
+Time (ms)
+0
+1,000
+2,000
+Spikes/s
+Principal 
+sulcus
+Information Stored in Short-Term Memory Is 
+Selectively Transferred to Long-Term Memory
+In the mid-1950s, startling new evidence about the neu-
+ral basis of long-term memory emerged from the study 
+of patients who had undergone bilateral removal of the 
+hippocampus and neighboring regions in the medial 
+temporal lobe as treatment for epilepsy. The first and 
+best-studied case was a patient called H.M. studied by 
+the psychologist Brenda Milner and the surgeon William 
+Scoville. (After H.M. died on December 2, 2008, his full 
+name, Henry Molaison, was revealed to the world.)
+H.M. had suffered for a number of years from 
+untreatable temporal lobe epilepsy caused by brain 
+
+
+===== Page 3 =====
+1294    Part VIII / Learning, Memory, and Cognition
+damage sustained at age 7 years in a bicycle accident. 
+As an adult, his seizures rendered him unable to work 
+or lead a normal life, and at the age of 27, he under-
+went surgery. Scoville removed the brain regions 
+thought to be responsible for the seizures, including 
+the hippocampal formation, the amygdala, and parts 
+of the multimodal association area of the temporal cor-
+tex bilaterally (Figure 52–2). After the surgery, H.M.’s 
+seizures were better controlled, but he was left with a 
+devastating memory deficit (or amnesia). What was so 
+remarkable about H.M.’s deficit was its specificity.
+He still had normal working memory, for seconds 
+or minutes, indicating that the medial temporal lobe is 
+not necessary for transient memory. He also had long-
+term memory for events that had occurred before the 
+operation. For example, he remembered his name, the 
+job he had held, and childhood events. In addition, 
+he retained a command of language, including his 
+vocabulary, indicating that semantic memory––factual 
+knowledge about people, places, and things––was pre-
+served. His IQ remained unchanged, in the range of 
+bright-normal.
+What H.M. now lacked, and lacked dramatically, 
+was the ability to transfer new information into long-
+term memory, a deficit termed anterograde amnesia. 
+He was unable to retain for lengthy periods informa-
+tion about people, places, or objects that he had just 
+encountered. Asked to remember a new telephone 
+number, H.M. could repeat it immediately for seconds 
+to minutes because of his intact working memory. But 
+when distracted, even briefly, he forgot the number. 
+H.M. could not recognize people he met after surgery, 
+even when he met them again and again. For several 
+years, he saw Milner every month, yet each time she 
+entered the room, he reacted as though he had never 
+seen her before. H.M. is not unique. All patients with 
+extensive bilateral lesions of the limbic association 
+areas of the medial temporal lobe show similar long-
+term memory deficits.
+H.M. is a historic case because his deficit provided 
+the first clear link between memory and the medial 
+temporal lobe, including the hippocampus. Subse-
+quent studies by Larry Squire and others of patients 
+with brain damage more limited to the hippocam-
+pus confirmed its central role in memory. The obser-
+vation that H.M. and others with medial temporal 
+lobe damage had a profound deficit in the formation 
+of new memories while the retrieval of old memo-
+ries remained largely intact suggested that memories 
+must be transferred over time from the hippocampus 
+and medial temporal lobe to other brain structures. 
+These studies gave rise to four central questions that 
+continue to drive memory research to this day: First, 
+what is the functional role of the medial temporal lobe 
+memory system? Second, what are the roles of differ-
+ent subregions within this system? Third, how do these 
+subregions work together with other brain circuits to 
+support different forms of memory? Fourth, where are 
+hippocampal-dependent memories ultimately stored?
+The Medial Temporal Lobe Is Critical for 
+Episodic Long-Term Memory
+A crucial finding about H.M. was that formation of 
+long-term memory was impaired only for certain types 
+of information. H.M. and other patients with damage 
+to the medial temporal lobe were able to form and 
+retain certain types of durable memories just as well as 
+healthy subjects.
+For example, H.M. learned to draw the outlines 
+of a star while looking at the star and his hand in a 
+mirror (Figure 52–3). Like healthy subjects learning 
+to remap hand–eye coordination, H.M. initially made 
+many mistakes, but after several days of training, his 
+performance was error-free and comparable to that of 
+healthy subjects. Nevertheless, he did not consciously 
+remember having performed the task.
+Long-term memory formation in amnesic patients 
+is not limited to motor skills. These patients retain sim-
+ple reflexive learning, including habituation, sensitiza-
+tion, and some forms of conditioning (to be discussed 
+later in this chapter). Furthermore, they are able to 
+improve their performance on certain perceptual and 
+conceptual tasks. For example, they do well with a 
+form of memory called priming, in which perception 
+of a word or object or access to the meaning of a word 
+or object is improved by prior exposure. Thus, when 
+shown only the first few letters of previously studied 
+words, a subject with amnesia is able to generate the 
+same number of studied words as normal subjects, 
+even though the amnesic patient has no conscious 
+memory of having recently encountered the words 
+(Figure 52–4).
+This pattern of selectively impaired performance 
+in patients with amnesia raised questions about how to 
+classify these different forms of memory: What are the 
+key features that distinguish between memories that 
+survive medial temporal lobe damage and those that do 
+not? Early theories by Squire and colleagues suggested 
+that a critical factor may be conscious awareness—
+damage to the medial temporal lobe appears to impair 
+forms of memory that can be accessed consciously 
+and can be reported on or expressed in words, while 
+leaving intact forms of memory that cannot. For this 
+reason, memories that depend on the medial temporal 
+
+
+===== Page 4 =====
+Chapter 52 / Learning and Memory    1295
+Figure 52–2  The medial temporal lobe and memory 
+storage.
+A. The key components of the medial temporal lobe important 
+for memory storage.
+B. The areas of temporal lobe resected (gray shading) in the 
+patient known as H.M., viewed from the ventral surface of 
+the brain (left hemisphere is on the right side of the image). 
+Surgery was a bilateral, single-stage procedure, but to illustrate 
+the structures that were removed from the left hemisphere 
+(right side of the image), the left hemisphere is shown here 
+intact. The longitudinal extent of the lesion is shown in a ven-
+tral view of the brain (top). Cross sections 1 through 3 show 
+the estimated extent of areas of the brain removed from H.M. 
+(Adapted, with permission, from Corkin et al. 1997.)
+C. Magnetic resonance image (MRI) scan of a parasagittal 
+section from the left side of H.M.’s brain. The calibration bar 
+at the right of the panel has 1-cm increments. The asterisk 
+in the central area of the scan indicates the resected portion 
+of the anterior temporal lobes. The nearby arrowhead points 
+to the remaining portion of the intraventricular portion of the 
+hippocampal formation. Approximately 2 cm of preserved 
+hippocampal formation is visible bilaterally. Note also the sub-
+stantial degeneration in the enlarged folial spaces of the cer-
+ebellum. (Adapted, with permission, from Corkin et al. 1997.)
+Entorhinal cortex
+Lesion
+Entorhinal cortex
+Hippocampus
+Amygdala
+Lesion
+Lesion
+Hippocampus
+5 cm
+A
+C
+B
+1
+2
+3
+Entorhinal 
+cortex
+Perirhinal
+cortex
+Parahippocampal
+cortex
+CA1
+Subiculum
+Hippocampus
+Dentate
+gyrus
+CA3
+1
+2
+3
+
+
+===== Page 5 =====
+1296    Part VIII / Learning, Memory, and Cognition
+Figure 52–4  Amnesic subjects differ in their ability to recall 
+words under two conditions. Subjects were presented with 
+common words and then asked to recall the words. Amnesic 
+patients did not do well on this test during free recall. However, 
+when subjects were given the first three letters of a word  
+that had been presented and instructed to form the first word 
+that came to mind (word completion), the amnesic subjects 
+performed as well as normal subjects. The baseline guessing 
+rate in the word completion condition for words not previously 
+presented was 9%. (Adapted from Squire 1987.)
+Number of errors in each attempt
+10
+20
+30
+1
+10
+10
+1
+Attempts each day
+10
+1
+0
+1st day
+2nd day
+3rd day
+ABSENT
+INCOME
+FILLY
+DISCUSS
+CHEESE
+ELEMENT
+ABS
+INC
+FIL
+DIS
+CHE
+ELE
+Free recall
+0
+20
+40
+60
+80
+Mean correct  (percent)
+Control
+Amnesic
+After priming
+Figure 52–3  The amnesic patient H.M. could learn skilled 
+movements. He was taught to trace between two outlines of 
+a star while viewing his hand in a mirror. The graph plots the 
+number of times, during each attempt, that he strayed outside 
+the outlines as he drew the star. As with healthy subjects, H.M. 
+improved considerably with repeated attempts despite the fact 
+that he had no recollection of performing the task.  
+(Reproduced, with permission, from Blakemore 1977.)
+lobe are often referred to as explicit (or declarative) 
+memory. Explicit memory can be further classified 
+into episodic memory (the memory of personal expe-
+riences or autobiographical memory) and semantic 
+memory (memory for facts). Episodic memory refers 
+to our ability to remember rich details of moments in 
+time, including information about what happened, 
+when, and where. For example, episodic memory is 
+used to recall that we saw the first flowers of spring 
+yesterday or that we heard Beethoven’s “Moonlight 
+Sonata” several months ago. Semantic memory is used 
+to recall the meanings of words or concepts, among 
+other facts.
+Cognitive psychologists found a similar distinc-
+tion between different forms of memory in healthy 
+subjects by using tasks that differ in how memories are 
+expressed. One type is a nonconscious form of mem-
+ory that is evident in the performance of a task. This 
+form of memory is often referred to as implicit mem-
+ory (also referred to as nondeclarative or procedural 
+memory). Implicit memory is typically manifested in 
+an automatic manner, with little conscious processing 
+on the part of the subject. Different forms give rise to 
+priming, skill learning, habit memory, and condition-
+ing (Figure 52–5). Explicit memory is considered to 
+be highly flexible; multiple pieces of information can 
+be associated under different circumstances. Implicit 
+memory, however, is tightly connected to the original 
+conditions under which the learning occurred.
+The terms “explicit memory” and “implicit mem-
+ory” are used to describe two broad forms of memory 
+that differ in their hallmark behavioral characteris-
+tics and in their neural underpinnings. These forms 
+of memory can be acquired in parallel. For example, 
+one might form an explicit memory of how good a 
+bakery smelled upon entering it yesterday, while at 
+the same time, one might develop an automatic con-
+ditioned response of increased salivation upon view-
+ing a picture of the bakery. Moreover, we now believe 
+that these forms of memory, while distinct, normally 
+interact to support behavior, although the precise 
+
+
+===== Page 6 =====
+Chapter 52 / Learning and Memory    1297
+Figure 52–5  Long-term memory 
+is commonly classified as either 
+explicit (the memory is reported 
+verbally) or implicit (the memory is 
+expressed through behavior without 
+conscious awareness).
+Facts
+(semantic)
+Events
+(episodic)
+Priming
+Procedural
+(skills and
+habits)
+Associative learning:
+classical and
+operant conditioning
+Nonassociative learning:
+habituation and
+sensitization
+Two forms of
+long-term memory
+Implicit
+(nondeclarative)
+Explicit
+(declarative)
+nature and extent of their interactions are a topic of 
+ongoing investigation.
+There are also ongoing debates about the role of 
+conscious awareness in memory and about whether it 
+is indeed a necessary feature of memories supported 
+by the medial temporal lobe. These debates are driven 
+by a growing body of work showing that the same 
+medial temporal circuits necessary for explicit memory 
+are also necessary for some forms of implicit memory 
+(as described below). Indeed, although episodic mem-
+ory is typically assessed by asking subjects to report 
+the content of their memory, it remains unknown 
+whether conscious accessibility is an integral feature 
+of the memories themselves. Nonetheless, the distinc-
+tion between implicit and explicit memory played an 
+important historical role in differentiating forms of 
+memory and still offers a productive framework for 
+considering the neural bases of memory. Thus, we use 
+the terms “explicit memory” and “implicit memory” 
+here to distinguish these two forms of memory and 
+the classes of subjective experience and behaviors that 
+they are based on. In the following sections, we focus 
+on episodic memory, which has been the target of a 
+great deal of cognitive neuroscience research in both 
+amnesic patients and healthy individuals.
+Episodic Memory Processing Involves Encoding, 
+Storage, Retrieval, and Consolidation
+Episodic memory has been studied extensively and 
+offers a window into understanding how the brain 
+builds, stores, and retrieves details about episodes in 
+our lives. We now know that the brain does not have 
+a single long-term store of episodic memories. Instead, 
+the storage of any item of knowledge is widely dis-
+tributed among many brain regions that process dif-
+ferent aspects of the content of the memory and can 
+be accessed independently (by visual, verbal, or other 
+sensory clues). Second, episodic memory is mediated 
+by at least four related but distinct types of processing: 
+encoding, storage, consolidation, and retrieval.
+Encoding is the process by which new information 
+is initially acquired and processed during the formation 
+of a new memory. The extent of this processing is criti-
+cally important for determining how well the learned 
+material will be remembered. For a memory to persist 
+and be well remembered, the incoming information 
+must undergo what the psychologists Fergus Craik and 
+Robert Lockhart called “deep” encoding. This is accom-
+plished by attending to the information and associating 
+it with memories that were already established. Mem-
+ory encoding is also stronger when one is motivated to 
+remember, whether because the information has par-
+ticular emotional or behavioral relevance (eg, a memory 
+for a particularly delicious meal on an enjoyable first 
+date) or whether the information itself is neutral but is 
+associated with something meaningful (eg, remember-
+ing the location of that restaurant).
+Storage refers to the neural mechanisms and sites 
+by which the newly acquired information is retained 
+as a lasting memory over time. One of the remarkable 
+features about long-term storage is that it seems to 
+have an almost unlimited capacity. In contrast, work-
+ing memory storage is very limited; psychologists 
+believe that human working memory can hold only a 
+few pieces of information at any one time.
+Consolidation is the process that transforms tem-
+porarily stored and still labile information into a more 
+stable form. As we shall learn in the next two chapters, 
+consolidation involves expression of genes and protein 
+synthesis that give rise to structural changes at synapses.
+Finally, retrieval is the process by which stored 
+information is recalled. It involves bringing back to 
+mind different kinds of information that are stored 
+in different sites. Retrieval of memory is much like 
+perception; it is a constructive process and therefore 
+subject to distortion much as perception is subject to 
+illusions (Box 52–1). When a memory is retrieved, it 
+becomes active again, providing an opportunity for 
+an old memory to be encoded again. Because retrieval 
+is constructive, re-encoding of a retrieved memory 
+can differ from the original memory. For example, 
+
+
+===== Page 7 =====
+1298    Part VIII / Learning, Memory, and Cognition
+How accurate is episodic memory? This question was 
+explored by the psychologist Frederic Bartlett in a series 
+of studies in the 1930s in which subjects were asked to 
+read stories and then retell them. The recalled stories 
+were shorter and more coherent than the original stories, 
+reflecting reconstruction and condensation of the original.
+The subjects were unaware that they were editing 
+the original stories and often felt more certain about the 
+edited parts than about the unedited parts of the retold 
+stories. They were not confabulating; they were merely 
+interpreting the original material so that it made sense 
+on recall.
+Observations such as these demonstrate that epi-
+sodic memory is malleable. Moreover, the fact that peo-
+ple incorporate later edits into their original memories 
+leads us to believe that episodic memory is a constructive 
+process in the sense that individuals perceive the envi-
+ronment from the standpoint of a specific point in 
+space as well as a specific point in their own history. 
+Much like sensory perception, episodic memory is not 
+a passive recording of the external world but an active 
+process in which incoming bottom-up sensory informa-
+tion is shaped by top-down signals, representing prior 
+experience, along the afferent pathways. Likewise, once 
+information is stored, recall is not an exact copy of the 
+information stored. Past experiences are used in the pre-
+sent as cues that help the brain reconstruct a past event. 
+During recall, we use a variety of cognitive strategies, 
+including comparison, inference, shrewd guessing, and 
+supposition, to generate a memory that seems coherent 
+to us, that is consistent with other memories, and that is 
+consistent with our “memory of the memory.”
+Box 52–1  Episodic Memories Are Subject to Change During Recall
+re-encoding can include information from the old 
+memory together with the new context in which it was 
+retrieved. This re-encoding allows memories of sepa-
+rate moments in time to be connected in memory, but 
+it also opens the door to errors in memory, as discussed 
+later in the chapter.
+Retrieval of information is most efficient when a 
+retrieval cue reminds individuals of the episodic nature 
+of the events linking the elements of the encoded expe-
+rience. For example, in a classic behavioral experiment, 
+Craig Barclay and colleagues asked some subjects to 
+encode sentences such as “The man lifted the piano.” 
+On a later retrieval test, “something heavy” was a 
+more effective cue for recalling piano than “something 
+with a nice sound.” Other subjects, however, encoded 
+the sentence “The man tuned the piano.” For them, 
+“something with a nice sound” was a more effective 
+retrieval cue for piano than “something heavy” as it 
+reflected better the initial experience. Retrieval, partic-
+ularly of explicit memories, also is partially dependent 
+on working memory.
+Episodic Memory Involves Interactions Between the 
+Medial Temporal Lobe and Association Cortices
+Although studies of amnesic patients during the past 
+few decades have refined our understanding of vari-
+ous types of memory, medial temporal lobe damage 
+affects all four operations of memory—encoding, 
+storage, consolidation, and retrieval––and thus it is 
+often difficult to discern how the medial temporal 
+lobe contributes to each. fMRI allows us to scan brain 
+activity in the process of building new memories or 
+retrieving existing memories, and thus to identify spe-
+cific regions that are active during different processes 
+(Chapter 6).
+A common method for studying encoding with 
+fMRI is the subsequent memory paradigm. In a typical 
+subsequent memory task, a human subject views a 
+series of stimuli (eg, words or pictures) one at a time 
+while being scanned with fMRI, often while engaged 
+in a cover task (eg, determining whether the pictures 
+are in color or black and white). A subject’s memory 
+for the stimuli is then tested outside of the scanner, 
+allowing the researchers to sort all the encoding events 
+into those that were later remembered compared to 
+those that were later forgotten. fMRI scans show that 
+remembered items, compared with forgotten items, 
+are associated with greater activity in the hippocam-
+pus during encoding. This difference is also evident 
+in simultaneous activity in other parts of the brain, 
+including prefrontal, retrosplenial, and parietal corti-
+ces. Often, the activity of these regions covaries on a 
+moment-to-moment basis with the activity in the hip-
+pocampus during memory encoding, suggesting that 
+these regions are functionally connected (Figure 52–6).
+These fMRI findings, together with findings from 
+patients with amnesia, provide strong support for an 
+
+
+===== Page 8 =====
+Chapter 52 / Learning and Memory    1299
+Figure 52–6  In the study illustrated here, 
+neural activity during encoding of visual 
+events (presentation of words) was 
+measured using functional magnetic 
+resonance imaging (fMRI). Subsequently, 
+recall of the studied words was tested, 
+and each word was classified as either 
+remembered or forgotten. The scans taken 
+during encoding were then sorted into 
+two groups: those made during encoding 
+of words that were later remembered and 
+those made during encoding of words that 
+were later forgotten. The activity in regions 
+of the left prefrontal cortex and medial 
+temporal lobe was greater during the 
+encoding of words later remembered than 
+those later forgotten (locations denoted by 
+white arrows). At right are the observed 
+fMRI responses in these regions for words 
+later remembered and those later  
+forgotten. (Adapted, with permission, from 
+Wagner et al. 1998.)
+Left inferior prefrontal cortex 
+Left medial temporal lobe
+4
+3
+2
+1
+0
+–1
+4
+8
+12
+0
+Time (s)
+fMRI signal intensity
+4
+3
+2
+1
+0
+–1
+4
+8
+12
+0
+Time (s)
+fMRI signal intensity
+Words remembered
+Words forgotten 
+important role of the hippocampus in encoding epi-
+sodic memories. The fMRI findings also extend the 
+findings from amnesic patients, showing that success-
+ful formation of episodic memories depends on inter-
+action between frontoparietal networks and the medial 
+temporal lobe. However, as the medial temporal lobe 
+is a large structure, a key goal is to understand the role 
+of its different subregions. Such information is being 
+provided by higher-resolution fMRI studies that use 
+more powerful brain scanning technologies. These 
+studies reveal that distinct subregions within and out-
+side the hippocampus contribute to different aspects 
+of memory encoding. Thus, whereas some cortical 
+areas surrounding the hippocampus are particularly 
+important for object recognition (perirhinal cortex), 
+others are important for encoding spatial context 
+(parahippocampal cortex). These cortical regions pro-
+vide strong (but indirect) inputs to the hippocampus 
+proper, which is thought to bind together spatial and 
+object information, forming a unified memory.
+Interaction between the medial temporal lobe and 
+widely separated cortical regions is also central in 
+memory consolidation and retrieval. It was initially 
+thought that the hippocampus was not important for 
+retrieval, since patient H.M., whose medial temporal 
+lobe was surgically removed, could still recall child-
+hood memories. In fact, early observations suggested 
+that H.M. could recall many of the experiences of his 
+life up until several years before his operation. These 
+observations of H.M. and other amnesic patients with 
+damage to the medial temporal lobe suggested that old 
+memories must be ultimately stored in various other 
+cortical regions through interaction with the medial 
+temporal lobe. However, even though patients with 
+hippocampal damage like H.M. have some ability to 
+recall older memories, there is evidence that the extent 
+of memory recall may be impaired in these patients. 
+Current thinking suggests that there is a distributed 
+circuit for consolidation and retrieval involving sev-
+eral brain regions, with the hippocampus playing 
+an essential role in the binding of associations dur-
+ing both encoding and retrieval. The cortical regions 
+serve as the long-term repository of the separate ele-
+ments of information that constitute a memory and in 
+the controlled retrieval and reactivation of the content 
+of the memory itself.
+As with studies of encoding, studies of retrieval of 
+episodic knowledge have implicated specific regions 
+of association cortex, frontoparietal networks, and 
+the medial temporal lobe. The retrieval of contextual 
+or event details associated with an episodic memory 
+also involves activity in the hippocampus, with medial 
+temporal lobe retrieval processes facilitating the acti-
+vation of neocortical representations that were present 
+during encoding.
+fMRI scans have a fairly limited time resolution 
+due to the relatively slow time course of changes in 
+blood flow associated with brain activity. To achieve 
+higher temporal resolution of brain activity, research-
+ers can record electrical activity from the human brain 
+using extracellular electrodes. Such recordings are rare 
+and possible only in human patients who are already 
+
+
+===== Page 9 =====
+1300    Part VIII / Learning, Memory, and Cognition
+undergoing brain surgery for medical reasons, such as 
+severe epilepsy, when electrode implantation is used 
+to localize the site of seizure generation. In one study, 
+intracranial electroencephalography (iEEG) signals 
+were measured using subdural electrodes placed in 
+the medial temporal lobe and other areas of cortex. 
+A subject first learned associations between pairs of 
+words and then had to retrieve memories of those 
+associations. The retrieval of memories was associated 
+with neural activity in the hippocampus, coupled with 
+neural activity in temporal association cortex, a region 
+involved in language and multisensory integration. 
+This coupled neural activity was associated with a reac-
+tivation of cortical patterns that were initially observed 
+when participants first memorized word pairs. This 
+finding provides a link between the neural activity 
+observed in the hippocampus during initial encod-
+ing of a memory and the later coupled activity in the 
+temporal association cortex during retrieval. Related 
+observations of reactivation of encoding patterns dur-
+ing retrieval have been reported in numerous human 
+functional imaging studies, documenting the ubiquity 
+of such effects. As with encoding of episodic memory, 
+retrieval involves a complex interaction between the 
+medial temporal lobe and distributed cortical regions, 
+including frontoparietal networks and other high-level 
+association areas.
+Episodic Memory Contributes to Imagination and 
+Goal-Directed Behavior
+Memory enables us to use our past experience to pre-
+dict future events, thus promoting adaptive behav-
+ior. Like retrieval of memories, imagination of future 
+events involves construction of details from memory. 
+The first report of a possible connection between 
+memory and imagination came from the case study 
+of patient K.C., as reported by Endel Tulving in 1985. 
+Patient K.C. displayed typical and devastating amne-
+sia as a result of damage to his hippocampus and 
+medial temporal lobe. Similar to patient H.M., he had 
+a complete lack of episodic memory while language 
+and nonepisodic functions were unimpaired. Tulving’s 
+studies revealed further that such brain damage was 
+associated with the loss of the ability to imagine events 
+in the future. When asked what he would be doing the 
+next day, K.C. was unable to provide details.
+The importance of the hippocampus in imagin-
+ing future events is also seen with fMRI studies. Such 
+studies examined brain activity of healthy individu-
+als, comparing activity when subjects were asked to 
+remember an event from the past (eg, think of your 
+birthday last year) with activity when they imagined 
+events in the future (eg, imagine a beach vacation next 
+summer). The subjects were asked to report any vivid 
+details of the event that came to mind. The MRI scans 
+showed a striking overlap in the network of brain 
+regions that were active during memory retrieval and 
+imagination of future events. This network included 
+the hippocampus, prefrontal cortex, posterior cingu-
+late cortex, retrosplenial cortex, and lateral parietal and 
+temporal areas (Figure 52–7).
+Further evidence supporting the view that episodic 
+memory and hippocampal function are necessary for 
+planning future behavior comes from a study on human 
+performance of a spatial navigation task using virtual 
+reality simulations. High-resolution fMRI and multivoxel 
+pattern analysis (Chapter 6) showed that activity in the 
+hippocampus was related to simulation of navigation 
+goals. Moreover, hippocampal activity during planning 
+covaried with goal-related activity in prefrontal, medial 
+temporal, and medial parietal cortex (Figure 52–8).
+Episodic memory encoding and storage are also 
+influenced by the adaptive value of events. Alison 
+Adcock and colleagues showed that the anticipation 
+of a potential reward can enhance memory by elicit-
+ing coordinated activity between the medial temporal 
+lobe and midbrain regions that are rich in dopamine 
+neurons. Reward can also retroactively enhance mem-
+ories. When human participants navigate a maze for 
+a reward, they have better memory for neutral events 
+that happened right before the reward. The ability to 
+retroactively shape episodic memory based on out-
+comes is important because the relevance of a spe-
+cific episode may only become known after the fact. 
+Together with the role of episodic memory in con-
+structing the retrieval of past events and in imagining 
+and simulating future events, the findings on reward 
+support the view that a major function of episodic 
+memory is to guide adaptive behaviors.
+The Hippocampus Supports Episodic Memory by 
+Building Relational Associations
+In addition to the broad role of the hippocampus in 
+episodic memory, future thinking, and goal-directed 
+behavior, studies of rodents first pointed to a role for the 
+hippocampus in spatial navigation (Chapter 54), find-
+ings that were later supported by studies of nonhuman 
+primates and humans. In rodents, single neurons in the 
+hippocampus encode specific spatial information, and 
+lesions of the hippocampus interfere with the animal’s 
+memory for spatial location. Functional imaging of the 
+brain in healthy humans shows that activity increases 
+in the right hippocampus when spatial information 
+is recalled and in the left hippocampus when words, 
+
+

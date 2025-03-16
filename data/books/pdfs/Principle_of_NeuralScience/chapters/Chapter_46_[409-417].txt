@@ -1,0 +1,992 @@
+===== Page 1 =====
+364    Part III / Synaptic Transmission
+Histidine
+(1)
+CH2
+CH2
+Histamine
+NH2 + CO2
+N
+HN
+As described in the next section, the biogenic 
+amines are loaded into synaptic and secretory vesicles 
+by two transporters, VMAT1, mostly in peripheral cells, 
+and VMAT2, mostly in the central nervous system. As 
+the transporters are not selective for a given biogenic 
+amine, a mixture of transmitters can be present. Some 
+neurons co-release dopamine with norepinephrine, 
+whereas secretory vesicles from the adrenal medulla 
+can co-release epinephrine and norepinephrine.
+Amino Acid Transmitters
+In contrast to acetylcholine and the biogenic amines, 
+which are not intermediates in general metabolic path-
+ways and are produced only in certain neurons, the 
+amino acids glutamate and glycine are not only neu-
+rotransmitters but also universal cellular constituents. 
+Because they can be synthesized in neurons and other 
+cells, neither is an essential amino acid.
+Glutamate, the neurotransmitter most frequently 
+used at excitatory synapses throughout the central 
+nervous system, is produced from α-ketoglutarate, an 
+intermediate in the tricarboxylic acid cycle of inter-
+mediary metabolism. After it is released, glutamate is 
+taken up from the synaptic cleft by specific transporters 
+in the membrane of both neurons and glia (see later). 
+The glutamate taken up by astrocytes is converted  
+to glutamine by the enzyme glutamine synthase. This 
+glutamine is transported back into neurons that use 
+glutamate as a transmitter, where it is hydrolyzed  
+to glutamate by the enzyme glutaminase. Cytoplasmic 
+glutamate is then loaded into synaptic vesicles by the 
+vesicular glutamate transporter, VGLUT.
+Glycine is the major transmitter used by inhibitory 
+interneurons of the spinal cord. It is also a necessary 
+cofactor for activation of the N-methyl-d-aspartate 
+(NMDA) glutamate receptors (Chapter 13). Glycine is 
+synthesized from serine by the mitochondrial form of 
+the serine hydroxymethyltransferase. The amino acid 
+GABA is synthesized from glutamate in a reaction cat-
+alyzed by glutamic acid decarboxylase (step 1 below):
+CH2
+CH2
+H2N
+CH
+COOH
+COOH
+(1)
+Glutamate
+CH2
+CH2
++ CO2
+H2N
+CH2
+COOH
+GABA
+GABA is present at high concentrations through-
+out the central nervous system and is detectable in 
+other tissues. It is used as a transmitter by an impor-
+tant class of inhibitory interneurons in the spinal cord. 
+In the brain, GABA is the major transmitter of a wide 
+array of inhibitory neurons and interneurons. Both 
+GABA and glycine are loaded into synaptic vesicles 
+by the same transporter, VGAT, and thus can be co-
+released from the same vesicles.
+ATP and Adenosine
+ATP and its degradation products (eg, adenosine) act 
+as transmitters at some synapses by binding to several 
+classes of G protein–coupled receptors (the P1 and P2Y 
+receptors). ATP can also produce excitatory actions by 
+binding to ionotropic P2X receptors. Caffeine’s stim-
+ulatory effects depend on its inhibition of adenosine 
+binding to the P1 receptors. Adenine and guanine and 
+their sugar-containing derivatives are called purines; 
+the evidence for transmission at purinergic receptors 
+is especially strong for autonomic neurons that inner-
+vate the vas deferens, bladder, and muscle fibers of the 
+heart; for nerve plexuses on smooth muscle in the gut; 
+and for some neurons in the brain. Purinergic trans-
+mission is particularly important for nerves mediating 
+pain (Chapter 20).
+ATP released by tissue damage acts to transmit 
+pain sensation through one type of ionotropic purine 
+receptor present on the terminals of peripheral axons 
+of dorsal root ganglion cells that act as nociceptors. 
+ATP released from terminals of the central axons of 
+these dorsal root ganglion cells excites another type 
+of ionotropic purine receptor on neurons in the dor-
+sal horn of the spinal cord. ATP and other nucleo-
+tides also act at the family of P2Y G protein–coupled 
+receptors to modulate various downstream signaling 
+pathways.
+Small-Molecule Transmitters Are Actively 
+Taken Up Into Vesicles
+Common amino acids act as transmitters in some neu-
+rons but not in others, indicating that the presence of 
+a substance in a neuron, even in substantial amounts, 
+is not in itself sufficient evidence that the substance is 
+used as a transmitter. For example, at the neuromus-
+cular junction of the lobster (and other arthropods), 
+GABA is inhibitory and glutamate is excitatory. The 
+concentration of GABA is approximately 20 times 
+greater in inhibitory cells than in excitatory cells, 
+
+
+===== Page 2 =====
+Chapter 16 / Neurotransmitters    365
+supporting the idea that GABA is the inhibitory trans-
+mitter at the lobster neuromuscular junction. In con-
+trast, the concentration of the excitatory transmitter 
+glutamate is similar in both excitatory and inhibitory 
+cells. Glutamate therefore must be compartmentalized 
+within these neurons; that is, transmitter glutamate 
+must be kept separate from metabolic glutamate. In fact, 
+transmitter glutamate is compartmentalized in synap-
+tic vesicles.
+Although the presence of a specific set of biosyn-
+thetic enzymes can determine whether a small mol-
+ecule can be used as a transmitter, the presence of the 
+enzymes does not mean that the molecule will be used. 
+Before a substance can be released as a transmitter, it 
+usually must first be concentrated in synaptic vesicles. 
+Transmitter concentrations within vesicles are high, on 
+the order of several hundred millimolar. Neurotrans-
+mitter substances are concentrated in vesicles by trans-
+porters that are specific to each type of neuron and 
+energized by a vacuolar-type H+-ATPase (V-ATPase) 
+that is found not only in synaptic and secretory vesi-
+cles but also in all organelles in the secretory pathway, 
+including endosomes and lysosomes.
+Using the energy generated by the hydroly-
+sis of cytoplasmic ATP, the V-ATPase creates an H+ 
+electrochemical gradient by promoting the influx of 
+protons into the vesicle. Transporters use this pro-
+ton gradient to drive transmitter molecules into the 
+vesicles against their concentration gradient through 
+a proton-antiport mechanism. A number of different 
+vesicular transporters in mammals are responsible 
+for concentrating different transmitter molecules in 
+vesicles (Figure 16–1). These proteins span the vesicle 
+membrane 12 times and are distantly related to a class 
+of bacterial transporters that mediate drug resistance. 
+(Vesicular transporters differ structurally and mecha-
+nistically from the transporters in the plasma mem-
+brane, as discussed later.)
+Transmitter molecules are classically modeled 
+to be taken up into a vesicle by vesicular transport-
+ers in exchange for the transport of two protons out 
+of the vesicle. Because the maintenance of the pH 
+gradient requires the hydrolysis of ATP, the uptake 
+of transmitter into vesicles is energy-dependent. 
+Vesicular transporters can concentrate some neu-
+rotransmitters such as dopamine up to 100,000-fold 
+relative to their concentration in the cytoplasm. 
+Uptake of transmitters by the transporters is rapid, 
+enabling vesicles to be quickly refilled after they 
+release their transmitter and are retrieved by endo-
+cytosis; this is important for maintaining the supply 
+of releasable vesicles during periods of rapid nerve 
+firing (Chapter 15).
+The specificity of transporters for substrate is quite 
+variable. The vesicular ACh transporter (VAChT) does 
+not transport choline or other transmitters. Likewise, 
+the vesicular glutamate transporters, for which there 
+are three types (VGLUT1, 2, and 3) that are differen-
+tially expressed in the CNS, carry negligible amounts 
+of the other acidic amino acid, aspartate. However, 
+VMAT2 can transport all of the biogenic amines as 
+well as drugs including amphetamine and even some 
+neurotoxic compounds such as N-methyl-4-phe-
+nylpyridinium (MPP+). 1-Methyl-4-phenyl-1,2,3,6-tet-
+rahydropyridine (MPTP), a contaminant of a synthetic 
+opiate drug of abuse, is metabolized to MPP+ by the 
+enzyme monoamine oxidase (MAO) type B. In fact, 
+VMAT1 was cloned by Robert Edwards and colleagues 
+based on the ability of the transporter to protect cells 
+from the neurotoxic effects of MPP+; cells expressing 
+VMAT were able to sequester the toxin in vesicle-like 
+compartments, thereby lowering its cytoplasmic con-
+centration and promoting cell survival. By expressing 
+genes obtained from a cDNA library from adrenal pheo-
+chromocytoma cells in a mammalian cell line sensitive to 
+MPP+, Edwards was able to identify cells that expressed 
+VMAT1 based on their selective survival. VMAT2 was 
+subsequently identified by homology cloning, as well as 
+directly by a number of other groups.
+Transporters and V-ATPases are present in 
+the membranes of both small synaptic vesicles 
+and large dense-core vesicles. Vesicular trans-
+porters are the targets of several important phar-
+macological agents. Reserpine and tetrabenazine 
+inhibit uptake of amine transmitters by binding 
+to the vesicular monoamine transporter. The psy-
+chostimulants amphetamine, methamphetamine, 
+and 
+3,4-methylenedioxy-N-methylamphetamine 
+(MDMA or ecstasy) act to deplete vesicles of amine 
+transmitter molecules, but also cause their efflux 
+from the cytoplasm into the extracellular space via 
+the plasma membrane biogenic amine transporters 
+(see below). These compounds accumulate inside 
+vesicles through proton-antiport–driven transport 
+mediated by VMAT, which diminishes the proton 
+gradient necessary for loading amine transmitters 
+into vesicles.
+Drugs that are sufficiently similar to the normal 
+transmitter substance can act as false transmitters. These 
+are packaged in vesicles and released by exocytosis as 
+if they were true transmitters, but they often bind only 
+weakly or not at all to the postsynaptic receptor for the 
+natural transmitter, and thus their release decreases 
+the efficacy of transmission. Several drugs historically 
+used to treat hypertension, such as α-methyldopa and 
+guanethidine, are taken up into adrenergic synapses 
+
+
+===== Page 3 =====
+VGAT
+SN1/SN2
+Gln
+GS
+SATs
+Gln
+H+
+VGLUT1/-2/-3
+Presynaptic 
+cell
+Glial 
+cell
+Postsynaptic 
+cell
+AChE
+H+
+DAT/
+NET/SERT
+GAT1
+H+
+CHT
+A
++
+Ch
+ACh
+ACh
+ChAT
+Glu
+GABA
+GABA
+PAG
+GAD
+GLT
+H+
+D Glutamate
+C  GABA
+PAG
+GLT/GLAST
+H+
+A  Monoamines 
+B  Acetylcholine
+Glu
+Glu
+Na+
+Na+
+Gln
+Na+
+Na+
+Na+
+Na+
+Na+
+Na+
+Na+
+Na+
+SN1/SN2
+SATs
+Ch
+VAChT
+VMAT2
+H+
+Gln
+GS
+Glu
+GABA
+Glu
+GAT3
+Monamines
+Figure 16–1  Small-molecule transmitters are transported 
+from the cytosol into vesicles or from the synaptic cleft to 
+the cytosol by transporters. Most small-molecule neurotrans-
+mitters are released by exocytosis from the nerve terminal and 
+act on specific postsynaptic receptors. The signal is terminated 
+and transmitter recycled by specific transporter proteins located 
+at the nerve terminal or in surrounding glial cells. Transport by 
+these proteins (orange circles) is driven by the electrochemical 
+gradients of H+ (black arrows) or Na+ (red arrows). (Adapted, 
+with permission, from Chaudhry et al. 2008. Copyright © 2008 
+Springer-Verlag.)
+A. Three distinct transporters mediate reuptake of monoamines 
+across the plasma membrane. The dopamine transporter (DAT), 
+norepinephrine transporter (NET), and serotonin transporter 
+(SERT) are responsible for the reuptake (dark blue arrows) 
+of their cognate transmitters. The vesicular monoamine trans-
+porter (VMAT2) transports all three monoamines into synaptic 
+vesicles for subsequent exocytotic release.
+B. Cholinergic signaling is terminated by metabolism of acetyl-
+choline (ACh) to the inactive choline and acetate by acetylcho-
+linesterase (AChE), which is located in the synaptic cleft (green 
+bar). Choline (Ch) is transported by the choline transporter (CHT) 
+back into the nerve terminal (light blue arrow) where choline 
+acetyltransferase (ChAT) subsequently catalyzes acetylation of 
+choline to reconstitute ACh. The ACh is transported into the  
+vesicle by the vesicular ACh transporter (VAChT).
+C. At GABAergic and glycinergic nerve terminals, the GABA 
+transporter (GAT1) and glycine transporter (GLYT2, not shown) 
+mediate reuptake of GABA and glycine (gray arrow), respec-
+tively. GABA may also be taken up by surrounding glial cells 
+(eg, by GAT3). In the glial cells, GABA is first converted to gluta-
+mate (Glu) by GAD. Glu is then is converted by glial glutamine 
+synthetase (GS) to glutamine (Gln). Glutamine is transported 
+back to the nerve terminal by the concerted action of the sys-
+tem N transporter (SN1/SN2) and system A transporter (SAT) 
+(brown arrows). In the nerve terminal, phosphate-activated 
+glutaminase (PAG) converts glutamine to glutamate, which is 
+converted to GABA by glutamate decarboxylase (GAD). VGAT 
+then transports GABA into vesicles. The glial transporter GLYT1 
+(not shown) also contributes to the clearance of glycine.
+D. After release from excitatory neuronal terminals, the major-
+ity of glutamate is taken up by surrounding glial cells (eg, by 
+GLT and GLAST) for conversion to glutamine, which is subse-
+quently transported back to the nerve terminals by SN1/SN2 
+and a type of SAT (SATx) (brown arrows). Reuptake of gluta-
+mate at glutamatergic terminals also has been demonstrated 
+for a GLT isoform (purple arrows). Glutamate is transported 
+into vesicles by VGLUT.
+
+
+===== Page 4 =====
+Chapter 16 / Neurotransmitters    367
+(and converted into α-methyldopamine in the case of 
+α-methyldopa) and replace norepinephrine in synaptic 
+vesicles. When released, these drugs fail to stimulate 
+postsynaptic adrenergic receptors, thereby relaxing 
+vascular smooth muscle by inhibiting adrenergic tone. 
+Tyramine, which is found in high quantities in dietary 
+red wine and cheese, also acts as a false transmitter; 
+however, it also can act as a stimulant by releasing bio-
+genic amines through a mechanism akin to ampheta-
+mine. Another false transmitter, 5-hydroxydopamine, 
+can produce an electron-dense reaction product and 
+has been used to identify synaptic vesicles that acquire 
+biogenic amines.
+More recently, several fluorescent false neuro-
+transmitters have been designed, enabling research-
+ers to use imaging methods to monitor the uptake and 
+release of neurotransmitter derivatives during synap-
+tic activity in rodent and fly brain (see Figure 16–5 in 
+Box 16–2).
+An unexpected finding is that dopamine can be 
+released from dendrites as well as from axons, despite 
+the lack of synaptic vesicles in dendrites. Organelles 
+that express VMAT2 seem likely to be the source of 
+the release, albeit with different requirements for 
+intracellular Ca2+ than classical neurotransmission 
+at presynaptic terminals. For technical reasons, this 
+phenomenon has been studied mostly in dendrites of 
+dopaminergic neurons of the substantia nigra: dopa-
+mine can be measured directly by electrochemical 
+techniques, and the dendrites are well separated from 
+the cell bodies. However, it is possible that dendritic 
+neurotransmitter release occurs more widely through-
+out the nervous system.
+Many Neuroactive Peptides Serve  
+as Transmitters
+The enzymes that catalyze the synthesis of the low-
+molecular-weight neurotransmitters, with the excep-
+tion of dopamine β-hydroxylase, are found in the 
+cytoplasm. These enzymes are synthesized on free 
+polysomes in the cell body and probably in dendrites 
+and are distributed throughout the neuron by axoplas-
+mic flow. Thus, small-molecule transmitter substances 
+can be formed in all parts of the neuron; most impor-
+tantly, they can be synthesized at axonal presynaptic 
+sites from which they are released.
+In contrast, neuroactive peptides are derived 
+from secretory proteins that are formed in the cell 
+body. More than 50 short peptides are produced by 
+neurons or neuroendocrine cells and exert physi-
+ological actions (Table 16–2). Some act as hormones 
+Table 16–2  Neuroactive Mammalian Peptides
+Category
+Peptide
+Hypothalamic  
+neuropeptides
+Thyrotropin-releasing hormone
+Gonadotropin-releasing hormone
+Corticotropin-releasing factor (CRF)
+Growth hormone–releasing hormone
+Melanocyte-stimulating hormone 
+Melanocyte-inhibiting factor
+Somatostatin
+β-Endorphin
+Dynorphin
+Galanin
+Neuropeptide Y
+Orexin
+Oxytocin
+Vasopressin
+Neurohypophyseal  
+neuropeptides
+Oxytocin
+Vasopressin
+Pituitary peptides
+Adrenocorticotropic hormone
+β-Endorphin
+α-MSH
+Prolactin
+Luteinizing hormone
+Growth hormone
+Thyrotropin
+Pineal hormones
+Basal ganglia
+Melatonin
+Substance P
+Enkephalin
+Dynorphin
+Neuropeptide Y
+Neurotensin
+Cholecystokinin
+Glucagon-like peptide-1
+Cocaine- and amphetamine- 
+  regulated transcript (CART)
+Gastrointestinal  
+peptides
+Vasoactive intestinal polypeptide
+Cholecystokinin
+Gastrin
+Substance P
+Neurotensin
+Methionine-enkephalin
+Leucine-enkephalin
+Insulin
+Glucagon
+Bombesin
+Secretin
+Somatostatin
+Thyrotropin-releasing hormone
+Motilin
+Heart
+Atrial natriuretic peptide
+Other
+Angiotensin II
+Bradykinin
+Calcitonin
+Calcitonin gene-related peptide (CGRP)
+Galanin
+Leptin
+Sleep peptide(s)
+Substance K (neurokinin A)
+
+
+===== Page 5 =====
+368    Part III / Synaptic Transmission
+Table 16–3  The Main Families of Neuroactive Peptides
+Family
+Peptide members
+Opioids
+Opiocortin, enkephalins, 
+dynorphin, FMRFamide 
+(Phe-Met-Arg-Phe-amide)
+Neurohypophyseal 
+neuropeptides
+Vasopressin, oxytocin, neurophysins
+Tachykinins
+Substance P, physalaemin, kassinin, 
+uperolein, eledoisin, bombesin, sub-
+stance K
+Secretins
+Secretin, glucagon, vasoactive intesti-
+nal peptide, gastric inhibitory peptide, 
+growth hormone–releasing factor, 
+peptide histidine isoleucine amide
+Insulins
+Insulin, insulin-like growth factors I 
+and II
+Somatostatins
+Somatostatins, pancreatic polypeptide
+Gastrins
+Gastrin, cholecystokinin
+on targets outside the brain (eg, angiotensin and gas-
+trin) or are products of neuroendocrine secretion (eg, 
+oxytocin, vasopressin, somatostatin, luteinizing hor-
+mone, and thyrotropin-releasing hormone). In addi-
+tion, many neuropeptides act as neurotransmitters 
+when released close to a target neuron, where they 
+can cause inhibition, excitation, or both.
+Neuroactive peptides have been implicated in 
+modulating sensory perception and affect. Some pep-
+tides, including substance P and the enkephalins, are 
+preferentially located in regions of the central nerv-
+ous system involved in the perception of pain. Other 
+neuropeptides regulate complex responses to stress; these 
+peptides include γ-melanocyte-stimulating hormone, 
+corticotropin-releasing hormone (CRH), adrenocor-
+ticotropin (ACTH), dynorphin, and β-endorphin.
+Although the diversity of neuroactive peptides 
+is enormous, as a class these chemical messengers 
+share a common cell biology. A striking generality is 
+that neuroactive peptides are grouped in families with 
+members that have similar sequences of amino acid 
+residues. At least 10 have been identified; the seven 
+main families are listed in Table 16–3.
+Several different neuroactive peptides can be 
+encoded by a single continuous messenger RNA 
+(mRNA), which is translated into one large polypro-
+tein precursor (Figure 16–2). Polyproteins can serve 
+as a mechanism for amplification by providing more 
+than one copy of the same peptide from the one pre-
+cursor. For example, the precursor of glucagon con-
+tains two copies of the hormone. Polyproteins also 
+generate diversity by producing several distinct pep-
+tides cleaved from one precursor, as in the case of the 
+opioid peptides. The opioid peptides are derived from 
+polyproteins encoded by three distinct genes. These 
+peptides are endogenous ligands for a family of G 
+protein–coupled receptors. In addition to endogenous 
+agonists, the mu opioid receptor also binds drugs 
+with analgesic and addictive properties, such as mor-
+phine and synthetic derivatives, including heroin and 
+oxycodone.
+The processing of more than one functional pep-
+tide from a single polyprotein is not unique to neuro-
+active peptides. The mechanism was first described 
+for proteins encoded by small RNA viruses. Several 
+viral polypeptides are produced from the same viral 
+polyprotein, and all contribute to the generation of 
+new virus particles. As with the virus, where the dif-
+ferent proteins obviously serve a common biologi-
+cal purpose (formation of new viruses), a neuronal 
+polypeptide will in many instances yield peptides 
+that work together to serve a common physiological 
+goal. Sometimes the biological functions appear to 
+be more complex, as peptides with related or antag-
+onistic activities can be generated from the same 
+precursor.
+A particularly striking example of this form of 
+synergy is the group of peptides formed from the pre-
+cursor of egg-laying hormone (ELH), a set of neuro-
+peptides that govern diverse reproductive behaviors 
+in the marine mollusk Aplysia. Egg-laying hormone 
+can act as a hormone causing the contraction of  
+oviduct muscles; it can also act as a neurotransmitter to 
+alter the firing of several neurons involved in produc-
+ing behaviors, as do the other peptides cut from the 
+polyprotein.
+The processing of neuroactive peptides takes place 
+within the neuron’s intracellular membrane system 
+and in vesicles. Several peptides are produced from a 
+single polyprotein by limited and specific proteolytic 
+cleavage, catalyzed by proteases within these internal 
+membrane systems. Some of these enzymes are ser-
+ine proteases, a class that also includes the pancreatic 
+enzymes trypsin and chymotrypsin. As with trypsin, 
+the cleavage site of the peptide bond is determined by 
+basic amino acid residues (lysine and arginine) in the 
+substrate protein. Although cleavage is most common 
+at dibasic residues, it can also occur at single basic resi-
+dues, and polyproteins sometimes are cleaved at other 
+peptide bonds.
+
+
+===== Page 6 =====
+Chapter 16 / Neurotransmitters    369
+Figure 16–2  Hormone and neuropeptide precursors are 
+processed differentially: The opioid family of neuropep-
+tides. The opioid neuropeptides are derived from larger 
+precursor molecules that require multiple rounds of protease-
+mediated cleavage. These precursors are processed differ-
+entially to yield their specific peptide products. Transport of 
+these precursors through the membrane of the endoplasmic 
+reticulum is initiated by a hydrophobic signal sequence. 
+Internal cleavages often occur at basic residues within the 
+polypeptide. Moreover, these precursors have key cysteine 
+residues and sugar moieties that play roles in their processing 
+and function. Generally, the first iteration of processing begins 
+with the newly synthesized polyprotein precursor (known as 
+the pre-propeptide form). Cleavage of an amino-terminal sig-
+nal sequence generates a smaller molecule, the propeptide. 
+Three major opioid peptide precursor proteins are encoded 
+by three genes: proopiomelanocortin (POMC), proenkephalin 
+(PENK), and prodynorphin (PDYN) (not shown). Differential 
+processing of the three resultant pre-propeptides gives rise 
+to the major opioid peptides—endorphins, enkephalins, and 
+dynorphins.
+A. The POMC precursor is processed differently in different 
+lobes of the pituitary gland, resulting in α-melanocyte-stimulating 
+hormone (`-MSH) and f-MSH, corticotropin-like intermediate 
+lobe peptide (CLIP), and β-lipotropin (a-LPH). β-LPH is cleaved 
+to yield f-LPH and β-endorphin (a-END), which themselves yield 
+β-melanocyte-stimulating hormone (a-MSH) and α-endorphin 
+(`-END), respectively. The endoproteolytic cleavages within 
+adrenocorticotropic hormone (ACTH) and β-LPH take place in the 
+intermediate lobe but not the anterior lobe.
+B. Similar principles are evident in the processing of the 
+enkephalin precursor, which gives rise to six Met-enkephalin 
+peptides and one Leu-enkephalin peptide.
+C. The dynorphin precursor is cleaved into at least three 
+peptides that are related to Leu-enkephalin since the amino-
+terminal sequences of all three peptides contain the sequence 
+of Leu-enkephalin.
+B  Pre-proenkephalin A
+Dynorphin A Dynorphin B
+C  Pre-prodynorphin
+γ-MSH
+γ-LPH
+β-END
+α-MSH
+CLIP
+γ-MSH
+γ-MSH
+γ-LPH
+β-END
+α-MSH
+CLIP
+γ-LPH
+β-END
+α-MSH
+CLIP
+γ-LPH
+β-END
+β-MSH
+α-END
+α-MSH
+CLIP
+A  Pre-proopiomelanocortin
+Proopiomelanocortin (POMC)
+β-lipoprotein (β-LPH)
+Pre-propeptide
+Pre-propeptide
+Pre-propeptide
+Active peptides
+Proenkephalin A
+Propeptide
+Active peptides
+Propeptide
+Active peptides
+Active peptides
+Active peptides
+γ-lipotropin
+β-endorphin
+α-endorphin
+Leu-enkephalin
+Met-enkephalin
+Met-enkephalin
+Neoendorphin
+Met-enkephalin
+Signal peptide
+Signal peptide
+Signal peptide
+β-melanocyte stimulating 
+hormone
+α-melanocyte 
+stimulating 
+hormone
+γ-melanocyte 
+stimulating 
+hormone
+ACTH
+M M
+M
+M
+M
+M
+L
+M M
+M
+M
+M
+M
+L
+M M
+M
+M
+M
+M
+L
+N
+DynA
+DynB
+N
+DynA
+DynB
+
+
+===== Page 7 =====
+370    Part III / Synaptic Transmission
+Other types of peptidases also catalyze the lim-
+ited proteolysis required for processing neuroactive 
+peptides. Among these are thiol endopeptidases (with 
+catalytic mechanisms like that of pepsin), amino pepti-
+dases (which remove the N-terminal amino acid of the 
+peptide), and carboxy-peptidase B (an enzyme that 
+removes an amino acid from the C-terminal end of the 
+peptide if it is basic).
+Different neurons that produce the same polypro-
+tein may release different neuropeptides because of 
+differences in the way the polyprotein is processed. An 
+example is proopiomelanocortin (POMC), one of the 
+three branches of the opioid family. POMC is found 
+in neurons of the anterior and intermediate lobes of 
+the pituitary, in the hypothalamus, and in several 
+other regions of the brain, as well as in the placenta 
+and gut. The same mRNA for POMC is found in all 
+of these tissues, but different peptides are produced 
+from POMC in different tissues in a regulated man-
+ner. One possibility is that two neurons that process 
+the same polyprotein might differently express pro-
+teases with different specificities within the lumina of 
+the endoplasmic reticulum, Golgi apparatus, or vesi-
+cles. Alternatively, the two neurons might contain the 
+same processing proteases, but each cell might gly-
+cosylate the common polyprotein at different sites, 
+thereby protecting different regions of the polypep-
+tide from cleavage.
+Peptides and Small-Molecule Transmitters 
+Differ in Several Ways
+Large dense-core vesicles are homologous to the 
+secretory granules of nonneuronal cells. These vesicles 
+are formed in the trans-Golgi network, where they 
+are loaded with neuropeptides and other proteins 
+that enable formation of the dense core. The dense-
+core vesicles are then transported from the soma to 
+presynaptic sites in axons. In addition to containing 
+neuropeptides, these vesicles often contain small 
+molecule transmitters due to their expression of 
+vesicular transporters. After large dense-core vesi-
+cles release their contents through exocytosis, the 
+membrane is not recycled to form new large dense 
+core vesicles. Rather the vesicles must be replaced by 
+transport from the soma. In contrast, mature small 
+synaptic vesicles are not synthesized in the soma. 
+Rather, their protein components  are delivered to 
+release sites by transport of large dense-core precur-
+sor vesicles. To form a mature small synaptic vesi-
+cle, the precursor vesicles must first fuse with the 
+plasma membrane. Following endocytosis, mature 
+synaptic vesicles are then produced by local process-
+ing. Once their contents are released by exocytosis, 
+synaptic vesicles can be rapidly recycled to maintain 
+their local concentration during periods of sustained 
+neural firing.
+Although both types of vesicles contain many 
+similar proteins, dense-core vesicles lack several pro-
+teins needed for release at the active zones. The mem-
+branes from dense-core vesicles are used only once; 
+new dense-core vesicles must be synthesized in the 
+cell body and transported to the axonal terminals by 
+anterograde transport. Moreover, no uptake mecha-
+nisms exist for neuropeptides. Thus, once a peptide is 
+released, a new supply must arrive from the cell body. 
+Although there is evidence for local protein synthesis 
+in some axons, it has not been shown that this provides 
+new peptides for release.
+The large dense-core vesicles release their con-
+tents by an exocytotic mechanism that is not special-
+ized to nerve cells and does not require active zones; 
+release can thus take place anywhere along the mem-
+brane of the axon that has the appropriate fusion 
+machinery. As in other examples of regulated secre-
+tion, exocytosis of the dense-core vesicles depends 
+on a general elevation of intracellular Ca2+ through 
+voltage-gated Ca2+ channels that are not localized to 
+the site of release. As a result, this form of exocytosis 
+is slow and requires high stimulation frequencies to 
+raise Ca2+ to levels sufficient to trigger release. This is 
+in contrast to the rapid exocytosis of synaptic vesicles 
+following a single action potential, which initiates the 
+large, rapid increase in Ca2+ through voltage-gated 
+Ca2+ channels tightly clustered at the active zone 
+(Chapter 15).
+Peptides and Small-Molecule Transmitters Can 
+Be Co-released
+Neuroactive peptides, small-molecule transmitters, 
+and other neuroactive molecules coexist in the same 
+dense-core vesicles of some neurons (Chapters 7 and 15). 
+In mature neurons, the combination usually consists 
+of one of the small-molecule transmitters and one or 
+more peptides derived from a polyprotein. For exam-
+ple, ACh and vasoactive intestinal peptide (VIP) can be 
+released together and work synergistically on the same 
+target cells.
+Another example is calcitonin gene–related pep-
+tide (CGRP), which in most spinal motor neurons is 
+packaged together with ACh, the transmitter used at 
+
+
+===== Page 8 =====
+Chapter 16 / Neurotransmitters    371
+the neuromuscular junction. CGRP activates adeny-
+lyl cyclase, raising cyclic adenosine monophosphate 
+(cAMP) levels and cAMP-dependent protein phospho-
+rylation in the target muscles (Chapter 14). Increased 
+protein phosphorylation results in an increase in the 
+force of contraction. Another example is the co-release of 
+glutamate and dynorphin in neurons of the hippocam-
+pus, where glutamate is excitatory and dynorphin 
+inhibitory. Because postsynaptic target cells have recep-
+tors for both chemical messengers, all of these examples 
+of co-release are also examples of cotransmission.
+As already described, the dense-core vesicles that 
+release peptides differ from the small clear vesicles that 
+release only small-molecule transmitters. The peptide-
+containing vesicles may or may not contain small-
+molecule transmitter, but both types of vesicles contain 
+ATP. As a result, ATP is released by exocytosis of both 
+large dense-core vesicles and synaptic vesicles. Moreo-
+ver, it appears that ATP may be stored and released in 
+a number of distinct ways: (1) ATP is co-stored and co-
+released with transmitters, (2) ATP release is simultane-
+ous but independent of transmitter release, and (3) ATP 
+is released alone. Co-release of ATP (which after release 
+can be degraded to adenosine) may be an important 
+illustration that coexistence and co-release do not nec-
+essarily signify cotransmission. ATP, like many other 
+substances, can be released from neurons but still not 
+be involved in signaling if there are no receptors nearby.
+As mentioned earlier, one criterion for judging 
+whether a particular substance is used as a transmitter 
+is that the substance is present in high concentrations 
+in a neuron. Identification of transmitters in specific 
+neurons has been important in understanding synap-
+tic transmission, and a variety of histochemical meth-
+ods are used to detect chemical messengers in neurons 
+(Box 16–2).
+The 
+glutamate 
+synaptic 
+vesicle 
+transporters 
+VGLUT2 and VGLUT3 are expressed in neurons that 
+release other classes of neurotransmitter, particu-
+larly cholinergic, serotonergic, and catecholaminergic 
+neurons. An interesting example of co-release of two 
+small-molecule transmitters is that of glutamate and 
+dopamine by neurons projecting to the ventral striatum, 
+cortex, and elsewhere. This co-release may have impor-
+tant implications for modulation of motivated behaviors 
+and for establishing the patterns of axonal projections. 
+In some cases, glutamate is released together with dopa-
+mine in response to different patterns of dopaminergic 
+neuron firing. While there is a controversy regarding 
+whether the same synaptic vesicles can accumulate 
+both neurotransmitters, in isolated synaptic vesicles, 
+glutamate uptake enhances vesicular monoamine stor-
+age by increasing the pH gradient that drives vesicular 
+monoamine transport, providing a presynaptic mecha-
+nism to regulate quantal size.
+Removal of Transmitter From the Synaptic 
+Cleft Terminates Synaptic Transmission
+Timely removal of transmitters from the synaptic cleft 
+is critical to synaptic transmission. If transmitter mol-
+ecules released in one synaptic action were allowed 
+to remain in the cleft after release, this would impede 
+the normal spatial and temporal dynamics of signal-
+ing, initially boosting the signal but preventing new 
+signals from getting through. The synapse would ulti-
+mately become refractory, mainly because of receptor 
+desensitization resulting from continued exposure to 
+transmitter.
+Transmitter substances are removed from the cleft 
+by three mechanisms: diffusion, enzymatic degrada-
+tion, and reuptake. Diffusion removes some fraction 
+of all chemical messengers, but in brain regions with 
+very high innervation and thus a high requirement 
+for neurotransmitter release, diffusion can play a rela-
+tively small role in tapering signaling. In contrast, in 
+regions of low innervation, diffusion is a major means 
+by which signaling is decreased.
+At cholinergic synapses, the dominant means of 
+clearing ACh is enzymatic degradation of the transmit-
+ter by acetylcholinesterase. At the neuromuscular junc-
+tion, the active zone of the presynaptic nerve terminal 
+is situated just above the junctional folds of the muscle 
+membrane. The ACh receptors are located at the sur-
+face of the muscle facing the release sites and do not 
+extend deep into the folds (see Figure 12–1), whereas 
+acetylcholinesterase is anchored to the basement mem-
+brane within the folds. This anatomical arrangement of 
+transmitter, receptor, and degradative enzyme serves 
+two functions.
+First, on release, ACh reacts with its receptor; after 
+dissociation from the receptor, the ACh diffuses into 
+the cleft and is hydrolyzed to choline and acetate by 
+acetylcholinesterase. As a result, the transmitter mol-
+ecules are used only once. Thus, one function of the 
+esterase is to punctuate the synaptic message. Sec-
+ond, the choline that otherwise might be lost by dif-
+fusion away from the synaptic cleft is recaptured. 
+Once hydrolyzed by the esterase, the choline lingers 
+in the reservoir provided by the junctional folds and 
+is taken back up into cholinergic nerve endings by a 
+high-affinity choline transporter. (Unlike the biogenic 
+amines, there is no uptake mechanism for ACh itself 
+at the plasma membrane.) In addition to acetylcho-
+linesterase, ACh is also degraded by another esterase, 
+
+
+===== Page 9 =====
+372    Part III / Synaptic Transmission
+B
+200 µm
+4  GAD65–GFP
+5  GABA
+I
+I
+II–III
+II–III
+IV
+IV
+1  GAD65–GFP
+2  GAD65
+3  Overlay
+6  Overlay
+Cortical 
+layer
+A
+2  GAD
+1  GAT-1
+Figure 16–3  Techniques for visualizing chemical 
+messengers.
+A. A light-microscope section of the hippocampus of a rat. 
+1. In situ hybridization using a probe for the mRNA encod-
+ing GAT-1, a GABA transporter. The probe was end-labeled 
+with α-35S-dATP and visualized by clusters of silver grains 
+in the overlying autoradiographic photographic emulsion. 
+2. In situ hybridization of the mRNA for glutamic acid 
+decarboxylase (GAD), the specific biosynthetic enzyme 
+for GABA, was carried out with an oligonucleotide probe 
+linked to the enzyme alkaline phosphatase. The GAD 
+probe was visualized by accumulation of colored alkaline 
+phosphatase reaction product in the cytoplasm. Neurons 
+expressing both GAT-1 and GAD transcripts were labeled 
+by silver grains and the phosphatase reaction, respec-
+tively, and are indicated by circles enclosing cells bodies 
+that contain both labels. (Used with permission of Sarah 
+Augood.)
+B. Images of neocortex from a GAD65-GFP transgenic 
+mouse in which green fluorescent protein (GFP) is 
+expressed under the control of the GAD65 promotor. GFP 
+is co-localized with GAD65 (1–3) and GABA (4–6) (both 
+detected by indirect immunofluorescence) in neurons in 
+the different layers. Most of the GFP-positive neurons 
+are immunopositive for GAD65 and GABA (arrows show 
+selected examples). Scale bar = 100 μm. (Adapted, with 
+permission, from López-Bendito et al. 2004. Copyright © 
+2004 Oxford University Press.)
+Powerful histochemical techniques are available for 
+detecting both small-molecule transmitter substances 
+and neuroactive peptides in histological sections of 
+nervous tissue.
+Catecholamines and serotonin, when reacted with 
+formaldehyde vapor, form fluorescent derivatives. In an 
+early example of transmitter histochemistry, the Swedish 
+neuroanatomists Bengt Falck and Nils Hillarp found 
+that the reaction can be used to locate transmitters with 
+fluorescence microscopy under properly controlled 
+conditions.
+Because individual vesicles are too small to be 
+resolved by the light microscope, the exact position of 
+the vesicles containing the transmitter was inferred by 
+comparing the fluorescence under the light microscope 
+with the position of vesicles under the electron micro-
+scope. A number of fluorescent false transmitters, par-
+ticularly those that mimic catecholamines, are substrates 
+for plasma membrane and/or vesicular transporters, 
+enabling their use to label vesicles and assess their turn-
+over in living tissue. In addition, a variety of genetically 
+expressed neurotransmitter reporters based on green 
+fluorescent protein can be used to detect extracellular 
+levels of neurotransmitters.
+Histochemical analysis can be extended to the ultra-
+structure of neurons under special conditions. Fixation 
+of nervous tissue in the presence of potassium perman-
+ganate, chromate, or silver salts, or the dopamine analog 
+Box 16–2  Detection of Chemical Messengers and Their Processing Enzymes Within Neurons
+
+

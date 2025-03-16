@@ -1,0 +1,823 @@
+===== Page 1 =====
+1364    Part VIII / Learning, Memory, Language and Cognition
+A  Head direction cell
+B  Border cells
+C  Speed cells
+Maximum ﬁring rate [Hz]: 
+Maximum speed [cm/s]:
+0
+5
+90
+52
+0
+2
+65
+30
+0
+5
+11
+54
+90°
+0°
+Normalized ﬁring rate
+and speed
+Moderate
+ﬁring 
+Powerful
+ﬁring 
+Rate (Hz) 
+180°
+Head 
+direction
+(degrees) 
+Figure 54–14  The medial entorhinal cortex contains several 
+functional cell types tuned to distinct representations of an 
+animal’s navigation.
+A. On the left is the trajectory of a rat exploring a 100-cm-wide 
+square enclosure (red dots indicate firing locations). A color-
+coded firing rate map is also shown (color scale as in previous 
+figures). Note that the cell’s firing is scattered across the enclo-
+sure. The plot on the right shows the same cell’s firing rate as 
+a function of head direction, in polar coordinates. The cell fires 
+selectively when the rat faces south, anywhere in the box. 
+(Adapted, with permission, from Sargolini et al. 2006.)
+B. Firing rate maps for a representative border cell in enclosures 
+with different geometric shapes (red = high rate; blue = low rate).  
+Top row: The firing field map follows the walls when the enclo-
+sure is stretched from a square (left and middle maps) to a 
+rectangle (right map). Bottom row: The firing field of the same 
+border cell in another environment. Introduction of a discrete 
+wall (white pixels, right map) inside the square enclosure 
+causes a new border field to appear to the right of the wall. 
+(Reproduced, with permission, from Solstad et al. 2008.)
+C. Speed cells. Traces show normalized firing rate (colored traces) 
+and speed (gray) for seven representative entorhinal speed cells 
+during 2 minutes of free foraging. Maximum values of firing rate 
+and speed are indicated (left and right, respectively). Note high 
+correspondence between speed and firing rate in these cells. 
+(Reproduced, with permission, from Kropff et al. 2015.)
+
+
+===== Page 2 =====
+Chapter 54 / The Hippocampus and the Neural Basis of Explicit Memory Storage     1365
+Figure 54–15  Place cells form independent maps for differ-
+ent environments. Rate maps showing firing patterns of a sin-
+gle hippocampal place cell in different square enclosures, each 
+located in a different room. The rat was tested in one familiar (F) 
+and 11 novel (N) rooms (recordings only shown for four of the 
+novel rooms). The top row shows firing rate maps, whereas the 
+bottom row shows trajectories of the animal’s movement with 
+firing locations in red. The cell was active only in some of the 
+rooms (F, N1, N2, N3), where the firing locations were different. 
+When the rat was returned to the familiar room at the end of 
+the experiment, the cell’s firing field had a similar location to 
+the initial recording in the familiar room, indicating that a given 
+cell’s spatial firing pattern in the same environment is stable. 
+(Adapted, with permission, from Alme et al. 2014.)
+Taken together, these discoveries point to a net-
+work of functionally dedicated cells in the medial 
+entorhinal cortex reminiscent of the feature detectors 
+of the sensory cortices. The functional specificity of 
+each cell type stems from the cell’s representation of a 
+specific feature of behavior. In this sense, the entorhi-
+nal cell types differ from cells in most other associa-
+tion cortices, which integrate information from many 
+sources in ways that are not straightforward to decode.
+What are the key differences between space-coding 
+cells in the hippocampus and the medial entorhinal 
+cortex? A striking property of all entorhinal cell types 
+is the rigidity of their firing patterns. Ensembles of co-
+localized grid cells maintain the same intrinsic firing 
+pattern regardless of context or environment. When a 
+pair of grid cells has overlapping grid fields in one envi-
+ronment, their grid fields overlap also in other environ-
+ments. If their grid fields are opposite, or “out of phase,” 
+they will be opposite in other environments as well. A 
+similar rigidity is seen in head direction cells and bor-
+der cells: Cells with similar orientation in one environ-
+ment have similar orientations in other environments. 
+Speed cells also maintain their unique tuning to running 
+speed across environments. These findings suggest that 
+the medial entorhinal cortex, or modules of this cortical 
+circuit, may operate like a universal map of space that 
+disregards the details of the environment. By doing so, 
+the entorhinal map differs strongly from the place-cell 
+map of the hippocampus.
+F
+N1
+N2
+N5
+N3
+F
+The firing pattern of a hippocampal place cell is very 
+sensitive to changes in the environment. The place fields 
+of a given place cell in the hippocampus often switch 
+to encode a completely different spatial locale when 
+an animal’s environment undergoes a major change, a 
+process referred to as “remapping.” Sometimes even 
+minor changes in sensory or motivational inputs are 
+sufficient to elicit remapping. The lack of correlation 
+of hippocampal place maps for different environments 
+(Figure 54–15) is thought to facilitate storage of discrete 
+memories and minimize the risk that one memory will 
+be confused with another, a process termed interfer-
+ence. For an explicit memory system like the hippocam-
+pus, with millions of events to be stored, this may be a 
+huge advantage. For accurate and fast representation of 
+an animal’s position in space, as occurs in the medial 
+entorhinal cortex, it may instead be beneficial to use a 
+more stereotyped code that is less sensitive to environ-
+mental context or nonspatial sensory stimuli.
+Place Cells Are Part of the Substrate for  
+Spatial Memory
+In addition to representing the animal’s current loca-
+tion, place cells are thought to also store the memory 
+of a location in position-related firing patterns that 
+are evoked in the absence of the sensory inputs that 
+originally elicited the firing. For example, as an animal 
+sleeps after running repeated laps along a linear maze, 
+
+
+===== Page 3 =====
+1366    Part VIII / Learning, Memory, Language and Cognition
+place cells spontaneously fire in the same order that 
+they did in the maze, a phenomenon called “replay.” 
+Similarly, past trajectories and experiences may influ-
+ence firing rates at particular locations in the environ-
+ment. The ability of place cells to represent events and 
+locations experienced in the past likely underlies the 
+ability of the hippocampus to encode complex memo-
+ries of events.
+Once the firing pattern of a population of hip-
+pocampal neurons is formed for a given environment, 
+how is it maintained? Because the place cells are the 
+same hippocampal pyramidal neurons that undergo 
+experimental LTP, a natural question is whether LTP 
+is important. This question was addressed in experi-
+ments in mice in which LTP was disrupted.
+In mice lacking the NR1 subunit of the NMDA 
+receptor, hippocampal pyramidal neurons still fire in 
+place fields despite the fact that LTP is blocked. Thus, 
+this form of LTP is not required for the transforma-
+tion of spatial sensory information into place fields. 
+Wild type mouse
+Mutant mouse (LTP inhibited)
+Session 1
+Session 2
+Session 3
+Session 4
+Figure 54–16  Disruption of long-term potentiation (LTP) 
+degrades the stability of place field formation in the hip-
+pocampus.  Color-coded firing rate maps (see Figure 54–12) 
+show place fields recorded in four successive sessions from 
+a single hippocampal pyramidal neuron in a wild type mouse 
+and from a neuron in a mutant mouse that expresses the per-
+sistently active CaMKII (which inhibits the induction of LTP). 
+Before each recording session, the animal is taken out of the 
+enclosure and sometime later reintroduced into it. In each of the 
+four sessions, the place field for the cell in the wild type animal 
+is stable; the cell fires whenever the animal is in the upper right 
+region of the enclosure. By contrast, the place field for the cell in 
+the mutant mouse is unstable across the four sessions. (Repro-
+duced, with permission, from Rotenberg et al. 1996.)
+However, the place fields of the mutant mice are larger 
+and fuzzier in outline than those in normal animals. In 
+a second experiment with mutant mice, late LTP and 
+long-term spatial memory were selectively disrupted 
+by expression of a transgene that encodes a protein 
+inhibitor of PKA. In these mice, place fields also form, 
+but the firing patterns of individual cells are stable 
+only for an hour or so (Figure 54–16). Thus, late LTP is 
+required for long-term stabilization of place fields but 
+not their formation.
+To what degree do these maps of an animal’s 
+surroundings mediate explicit memory? In humans, 
+explicit memory is defined as the conscious recall of 
+facts about people, places, and objects. Although con-
+sciousness cannot be studied empirically in the mouse, 
+selective attention, which is required for conscious 
+recall, can be examined.
+When mice are presented with different behavio-
+ral tasks, the long-term stability of place fields corre-
+lates strongly with the degree of attention required to 
+
+
+===== Page 4 =====
+Chapter 54 / The Hippocampus and the Neural Basis of Explicit Memory Storage     1367
+perform the task. When a mouse does not attend to the 
+space it walks through, place fields form but are unsta-
+ble after 3 to 6 hours. Animals with unstable place 
+fields are unable to learn a spatial task. However, when 
+a mouse is forced to attend to the space, for example, 
+when trained to run to a specific location, the place 
+fields are stable for days.
+How does this attentional mechanism work? 
+Studies in primates have shown the importance of 
+the prefrontal cortex and the modulatory dopamin-
+ergic system during attention. Indeed, the formation 
+of stable place fields in mice requires the activation of 
+the dopamine D1/D5 type of receptor, which has been 
+shown to enhance the formation of late LTP through 
+production of cAMP and activation of PKA. These 
+results suggest that long-term memory of a place field, 
+rather than being a form of implicit memory that is 
+stored and recalled without conscious effort, requires 
+the animal to attend to its environment, as is the case 
+for explicit memory in humans.
+Disorders of Autobiographical Memory  
+Result From Functional Perturbations  
+in the Hippocampus
+Our sense of identity is greatly dependent on our store 
+of explicit autobiographical memories and our abil-
+ity to recognize and navigate through familiar spatial 
+environments. Neurological and psychiatric disorders 
+that disrupt these abilities often occur as a result of 
+changes in neural circuitry and plasticity mechanisms 
+within the hippocampus and related regions in the 
+temporal lobe.
+There is now substantial evidence that the dev-
+astating memory loss associated with Alzheimer 
+disease is associated with an accumulation of extra-
+cellular plaques of the protein fragment β-amyloid 
+(Aβ) and intracellular neurofibrillary tangles of tau, 
+a microtubule associated protein (Chapter 64). How-
+ever, even before plaques and tangles are apparent, 
+elevated levels of soluble Aβ and tau are thought to 
+disrupt a number of cellular processes, particularly 
+by reducing the magnitude of both early and late LTP 
+at certain synapses. Mouse models of Alzheimer dis-
+ease also show alterations in hippocampal place cell 
+stability and population-level synchrony, which may 
+contribute to memory loss and spatial disorientation. 
+Changes in grid-cell function have also been observed 
+in electrophysiological recordings in mouse disease 
+models and in humans through functional magnetic 
+resonance imaging studies. Although a number of pre-
+clinical studies have shown that agents that decrease 
+levels of Aβ can rescue synaptic function and memory 
+in rodents, so far these treatments have been less suc-
+cessful in treating patients with Alzheimer disease, 
+perhaps because treatment must be initiated at early 
+stages prior to irreversible synaptic changes.
+Altered hippocampal function may also contrib-
+ute to cognitive problems experienced by individuals 
+with schizophrenia, including disturbances in working 
+memory (Chapter 60). Recent studies using a genetic 
+mouse model of schizophrenia report reduced syn-
+chrony between the hippocampus and prefrontal cor-
+tex associated with working memory. Furthermore, 
+the place fields of place cells in the hippocampus CA1 
+region may be overly rigid in this mouse, suggest-
+ing that the ability of the hippocampus to distinguish 
+different contexts may be impaired. Finally, a deficit 
+in social memory in these mice has been linked to a 
+reduction of parvalbumin-positive inhibitory neurons 
+in the CA2 region; a similar loss of inhibitory neurons 
+has been observed in postmortem brain tissue from 
+individuals with schizophrenia and bipolar disorder.
+Thus, studies of the hippocampus and related tem-
+poral lobe structures offer the great promise of provid-
+ing fundamental insight into how explicit memories 
+are stored and recalled and how functional alterations 
+in these structures may contribute to neuropsychiatric 
+disease. In turn, such insight may aid in the discovery 
+of new treatments for these devastating disorders.
+Highlights
+  1.  Explicit memory has both a short-term compo-
+nent, termed working memory, and a long-term 
+component. Both forms depend on the prefrontal 
+cortex and hippocampus.
+  2.  Long-term memory is thought to depend on 
+activity-dependent long-term synaptic plasticity 
+at synapses within the cortico-hippocampal cir-
+cuit. A brief high-frequency train of tetanic stim-
+ulation leads to long-term potentiation (LTP) of 
+excitatory synaptic transmission at each stage of 
+the cortico-hippocampal circuit.
+  3.  LTP at many synapses depends on calcium 
+influx into the postsynaptic cell mediated by the 
+N-methyl-d-aspartate (NMDA) type of gluta-
+mate receptor. This receptor acts as a coincidence 
+detector: It requires both glutamate release and 
+strong postsynaptic depolarization to conduct 
+calcium.
+  4.  The expression of LTP depends on either the 
+insertion of the α-amino-3-hydroxy-5-methyl-
+4-isoxazolepropionic acid (AMPA) type of 
+
+
+===== Page 5 =====
+1368    Part VIII / Learning, Memory, Language and Cognition
+glutamate receptors in the postsynaptic mem-
+brane or an increase in presynaptic glutamate 
+release, depending on the type of synapse and 
+intensity of tetanic stimulation.
+  5.  LTP has both early and late phases. Early LTP 
+depends on covalent modifications, whereas late 
+LTP depends on new protein synthesis, gene tran-
+scription, and growth of new synaptic connections.
+  6.  Pharmacological and genetic manipulations that 
+disrupt LTP often lead to an impairment of long-
+term memory, indicating that LTP may provide 
+an important cellular mechanism for memory 
+storage.
+  7.  Memories are stored by cell assemblies. LTP may 
+be required for forming event-specific assem-
+blies. Recall of memory may reflect reactivation 
+of the same assemblies that were active during 
+the original event.
+  8.  The hippocampus encodes both spatial and 
+nonspatial signals. Many hippocampal neu-
+rons act as place cells, firing action potentials 
+when an animal visits a particular location in 
+its environment.
+  9.  The entorhinal cortex, the area of the cortex that 
+provides most of the input to hippocampus, also 
+encodes both nonspatial and spatial information. 
+The medial portion of entorhinal cortex contains 
+neurons, called grid cells, that fire when an animal 
+crosses the vertices of a hexagonal grid-like lat-
+tice of spatial locales. Grid cells are organized into 
+semi-independent semi-topographically organ-
+ized modules with distinct grid frequencies. The 
+entorhinal map also contains border cells, object-
+vector cells, head direction cells, and speed cells.
+10.  Within a grid-cell module, pairs of grid cells 
+maintain firing relationships rigidly across envi-
+ronments and experiences, suggesting that grid 
+cells form a universal map that is expressed simi-
+larly in all environments. In contrast, place cells 
+in the hippocampus form maps that are plastic 
+as they are completely uncorrelated between 
+environments.
+11.  Neuropsychiatric disorders such as Alzheimer 
+disease and schizophrenia have been associated 
+with deficits in hippocampal and entorhinal syn-
+aptic function, place-cell properties, and learning 
+and memory. Treatments aimed at restoring such 
+function may yield new therapeutic approaches 
+to disease.
+12.  Despite 
+their 
+clear 
+differences, 
+implicit  
+(Chapter 53) and explicit memory storage rely 
+on a common logic. Both activity-dependent 
+presynaptic facilitation for storing implicit 
+memory and associative long-term potentiation 
+for storing explicit memory rely on the asso-
+ciative properties of specific proteins: Adenylyl 
+cyclase activation in implicit memory requires 
+neurotransmitter plus intracellular Ca2+, whereas 
+NMDA receptor activation in explicit memory 
+requires glutamate plus postsynaptic depolari-
+zation. Such similarities indicate the fundamen-
+tal importance of associative learning rules for 
+memory storage.
+ Edvard I. Moser 
+  May-Britt Moser  
+ Steven A. Siegelbaum 
+Selected Reading
+Basu J, Siegelbaum SA. 2015. The corticohippocampal circuit, 
+synaptic plasticity, and memory. Cold Spring Harb Per-
+spect Biol 7:a021733.
+Bliss TV, Collingridge GL. 2013. Expression of NMDA recep-
+tor-dependent LTP in the hippocampus: bridging the 
+divide. Mol Brain 6:5.
+Frey U, Morris RG. 1991. Synaptic tagging and long-term 
+potentiation. Nature 385:533–536.
+Hafting T, Fyhn M, Molden S, Moser M-B, Moser EI. 2005. 
+Microstructure of a spatial map in the entorhinal cortex. 
+Nature 436:801–806.
+Kessels HW, Malinow R. 2009. Synaptic AMPA receptor plas-
+ticity and behavior. Neuron 61:340–350.
+Martin SJ, Grimwood PD, Morris RG. 2000. Synaptic plastic-
+ity and memory: an evaluation of the hypothesis. Annu 
+Rev Neurosci 23:649–711.
+Nicoll RA. 2017. A brief history of long-term potentiation. 
+Neuron 93:281–290.
+Rowland DC, Roudi Y, Moser MB, Moser EI. 2016. Ten years 
+of grid cells. Annu Rev Neurosci 39:19–40.
+Taube JS. 2007. The head direction signal: origins, and sensory-
+motor integration. Annu Rev Neurosci 30:181–207.
+Tonegawa S, Pignatelli M, Roy DS, Ryan TJ. 2015. Memory 
+engram storage and retrieval. Curr Opin Neurobiol 35: 
+101–109.
+References
+Abel T, Nguyen PV, Barad M, Deuel TAS, Kandel ER, Bourtch-
+ouladze R. 1997. Genetic demonstration of a role for PKA 
+in the late phase of LTP and in hippocampal based long-
+term memory. Cell 88:615–626.
+Alme CB, Miao C, Jezek K, Treves A, Moser EI, Moser M-B. 
+2014. Place cells in the hippocampus: eleven maps for 
+eleven rooms. Proc Natl Acad Sci U S A 111:18428–18435.
+
+
+===== Page 6 =====
+Chapter 54 / The Hippocampus and the Neural Basis of Explicit Memory Storage     1369
+Bliss TVP, Lømo T. 1973. Long-lasting potentiation of synap-
+tic transmission in the dentate gyrus of the anesthetized 
+rabbit following stimulation of the perforant path. J Physiol 
+(Lond) 232:331–356.
+Dudek SM, Bear MF. 1992. Homosynaptic long-term depres-
+sion in area CA1 of hippocampus and effects of N-methyl-
+d-aspartate receptor blockade. Proc Natl Acad Sci U S A 
+89:4363–4367.
+Fyhn M, Hafting T, Treves A, Moser M-B, Moser EI. 2007. Hip-
+pocampal remapping and grid realignment in entorhinal 
+cortex. Nature 446:190–194.
+Hebb DO. 1949. The Organization of Behavior: A Neuropsycho-
+logical Theory. New York: Wiley.
+Hitti FL, Siegelbaum SA. 2014. The hippocampal CA2 region 
+is essential for social memory. Nature 508:88–92.
+Høydal ØA, Skytøen ER, Andersson SO, Moser MB, Moser 
+EI. 2019. Object-vector coding in the medial entorhinal 
+cortex. Nature 568:400–404.
+Huang Y-Y, Kandel ER. 1994. Recruitment of long-lasting and 
+protein kinase A-dependent long-term potentiation in the 
+CA1 region of hippocampus requires repeated tetaniza-
+tion. Learn Mem 1:74–82.
+Kandel ER. 2001. The molecular biology of memory storage: 
+a dialog between genes and synapses (Nobel Lecture). 
+Biosci Rep 21:565–611.
+Kjelstrup KB, Solstad T, Brun VH, et al. 2008. Finite scale 
+of spatial representation in the hippocampus. Science 
+321:140–143.
+Kropff E, Carmichael JE, Moser M-B, Moser EI. 2015. Speed 
+cells in the medial entorhinal cortex. Nature 523:419–424.
+Lisman J, Yasuda R, Raghavachari S. 2012. Mechanisms of 
+CaMKII action in long-term potentiation. Nat Rev Neurosci 
+13:169–182.
+Liu X, Ramirez S, Pang PT, et al. 2012. Optogenetic stimu-
+lation of a hippocampal engram activates fear memory 
+recall. Nature 484:381–385.
+Mayford M, Bach ME, Huang Y-Y, Wang L, Hawkins RD, Kandel 
+ER. 1996. Control of memory formation through regulated 
+expression of a CaMKII transgene. Science 274:1678–1683.
+McHugh TJ, Blum KI, Tsien JZ, Tonegawa S, Wilson MA. 
+1996. Impaired hippocampal representation of space in 
+CA1-specific NMDAR1 knockout mice. Cell 87:1339–1349.
+McHugh TJ, Jones MW, Quinn JJ, et al. 2007. Dentate gyrus 
+NMDA receptors mediate rapid pattern separation in the 
+hippocampal network. Science 317:94–99.
+Montgomery JM, Pavlidis P, Madison DV. 2001. Pair recordings 
+reveal all-silent synaptic connections and the postsynaptic 
+expression of long-term potentiation. Neuron 29:691–701.
+Morgan SL, Teyler TJ. 2001. Electrical stimuli patterned after 
+the theta-rhythm induce multiple forms of LTP. J Neuro-
+physiol 86:1289–1296.
+Muller RU, Kubie JL, Ranck JB Jr. 1987. Spatial firing patterns 
+of hippocampal complex-spike cells in a fixed environ-
+ment. J Neurosci 7:1935–1950.
+Nakashiba T, Young JZ, McHugh TJ, Buhl DL, Tonegawa 
+S. 2008. Transgenic inhibition of synaptic transmission 
+reveals role of CA3 output in hippocampal learning. 
+Science 319:1260–1264.
+Nakazawa K, Quirk MC, Chitwood RA, et al. 2002. Require-
+ment for hippocampal CA3 NMDA receptors in associa-
+tive memory recall. Science 297:211–218.
+Nicholls RE, Alarcon JM, Malleret G, et al. 2008. Transgenic 
+mice lacking NMDAR-dependent LTD exhibit deficits in 
+behavioral flexibility. Neuron 58:104–117.
+O’Keefe J, Dostrovsky J. 1971. The hippocampus as a spa-
+tial map: preliminary evidence from unit activity in the 
+freely-moving rat. Brain Res 34:171–175.
+O’Keefe J, Nadel L. 1978. The Hippocampus as a Cognitive Map. 
+Oxford: Clarendon Press.
+Ramirez S, Liu X, Lin PA, et al. 2013. Creating a false memory 
+in the hippocampus. Science 341:387–391.
+Rotenberg A, Mayford M, Hawkins RD, Kandel ER, Muller 
+RU. 1996. Mice expressing activated CaMKII lack low fre-
+quency LTP and do not form stable place cells in the CA1 
+region of the hippocampus. Cell 87:1351–1361.
+Rumpel S, LeDoux J, Zador A, Malinow R. 2005. Postsynap-
+tic receptor trafficking underlying a form of associative 
+learning. Science 308:83–88.
+Sacktor TC. 2011. How does PKMζ maintain long-term mem-
+ory? Nat Rev Neurosci 12:9–15.
+Sargolini F, Fyhn M, Hafting T, et al. 2006. Conjunctive repre-
+sentation of position, direction, and velocity in entorhinal 
+cortex. Science 312:758–762.
+Silva AJ, Stevens CF, Tonegawa S, Wang Y. 1992. Deficient 
+hippocampal long-term potentiation in α-calcium-
+calmodulin kinase II mutant mice. Science 257:201–206.
+Solstad T, Boccara CN, Kropff E, Moser M-B, Moser EI. 2008. 
+Representation of geometric borders in the entorhinal cor-
+tex. Science 322:1865–1868.
+Stensola H, Stensola T, Solstad T, Frøland K, Moser M-B, 
+Moser EI. 2012. The entorhinal grid map is discretized. 
+Nature 492:72–78.
+Tang YP, Shimizu E, Dube GR, et al. 1999. Genetic enhance-
+ment of learning and memory in mice. Nature 401:63–69.
+Taube JS, Muller RU, Ranck JB Jr. 1990. Head-direction 
+cells recorded from the postsubiculum in freely moving 
+rats. I. Description and quantitative analysis. J Neurosci 
+10:420–435.
+Tsien JZ, Huerta PT, Tonegawa S. 1996. The essential role of 
+hippocampal CA1 NMDA receptor-dependent synaptic 
+plasticity in spatial memory. Cell 87:1327–1338.
+Whitlock JR, Heynen AJ, Shuler MG, Bear MF. 2006. Learning 
+induces long-term potentiation in the hippocampus. 
+Science 313:1093–1097.
+Zalutsky RA, Nicoll RA. 1990. Comparison of two forms of 
+long-term potentiation in single hippocampal neurons. 
+Science 248:1619–1624.
+
+
+===== Page 7 =====
+55
+Language
+Transcortical Aphasias Result From Damage to Areas 
+Near Broca’s and Wernicke’s Areas
+Less Common Aphasias Implicate Additional Brain 
+Areas Important for Language
+Highlights
+L
+anguage is uniquely human  and arguably 
+our greatest skill and our highest achievement. 
+Despite its complexity, all typically developing 
+children master it by the age of 3. What causes this uni-
+versal developmental phenomenon, and why are chil-
+dren so much better at acquiring a new language than 
+adults? What brain systems are involved in mature 
+language processing, and are these systems present at 
+birth? How does brain damage produce the various 
+disorders of language known as the aphasias?
+For centuries, these questions about language and 
+the brain have prompted vigorous debate among theo-
+rists. In the last decade, however, an explosion of infor-
+mation regarding language has taken us beyond the 
+nature–nurture debates and beyond the standard view 
+that a few specialized brain areas are responsible for 
+language. Two factors have brought about this change.
+First, functional brain imaging techniques such as 
+positron emission tomography (PET), functional mag-
+netic resonance imaging (fMRI), electroencephalogra-
+phy (EEG), and magnetoencephalography (MEG) have 
+allowed us to examine activation patterns in the brain 
+while a person carries out language tasks—naming objects 
+or actions, listening to sounds or words, and detect-
+ing grammatical anomalies. The results of these stud-
+ies reveal a far more complex picture than the one first 
+proposed by Carl Wernicke in 1874. Moreover, structural 
+Language Has Many Structural Levels: Phonemes, 
+Morphemes, Words, and Sentences
+Language Acquisition in Children Follows a Universal Pattern
+The “Universalist” Infant Becomes Linguistically 
+Specialized by Age 1
+The Visual System Is Engaged in Language Production 
+and Perception
+Prosodic Cues Are Learned as Early as In Utero
+Transitional Probabilities Help Distinguish Words in 
+Continuous Speech
+There Is a Critical Period for Language Learning
+The “Parentese” Speaking Style Enhances  
+Language Learning
+Successful Bilingual Learning Depends on the Age at 
+Which the Second Language Is Learned
+A New Model for the Neural Basis of Language Has Emerged
+Numerous Specialized Cortical Regions Contribute to 
+Language Processing
+The Neural Architecture for Language Develops Rapidly 
+During Infancy
+The Left Hemisphere Is Dominant for Language
+Prosody Engages Both Right and Left Hemispheres 
+Depending on the Information Conveyed
+Studies of the Aphasias Have Provided Insights into 
+Language Processing
+Broca’s Aphasia Results From a Large Lesion in  
+the Left Frontal Lobe
+Wernicke’s Aphasia Results From Damage to Left 
+Posterior Temporal Lobe Structures
+Conduction Aphasia Results From Damage to  
+a Sector of Posterior Language Areas
+Global Aphasia Results From Widespread Damage to 
+Several Language Centers
+
+
+===== Page 8 =====
+Chapter 55 / Language    1371
+brain imaging techniques, such as diffusion tensor 
+imaging (DTI), tractography, and quantitative magnetic 
+resonance imaging (qMRI), have revealed a network of 
+connections that link specialized language areas in the 
+brain. These discoveries are taking us beyond previous, 
+simpler views of the neural underpinnings of language 
+processing and production that assumed involvement of 
+only a few specific brain areas and connections.
+Second, behavioral and brain studies of language 
+acquisition show that infants begin to learn language 
+earlier than previously thought, and in ways that had 
+not been previously envisioned. Well before children 
+produce their first words, they learn the sound pat-
+terns underlying the phonetic units, words, and phrase 
+structure of the language they hear. Listening to lan-
+guage alters the infant brain early in development, and 
+early language learning affects the brain for life.
+Taken together, these advances are shaping a new 
+view of the functional anatomy of language in the brain 
+as a complex and dynamic network in the adult brain, 
+one in which multiple, spatially distributed brain sys-
+tems cooperate functionally via long-distance neural 
+fascicles (axon fiber bundles). This mature network 
+arises from the considerable brain structure and func-
+tion in place at birth and develops in conjunction with 
+powerful innate learning mechanisms responsive to lin-
+guistic experience. This new view of language encom-
+passes not only its development and mature state, but 
+also its dissolution when brain damage leads to aphasia.
+Humans are not the only species to communicate. 
+Passerine birds attract mates with songs, bees code 
+the distance and direction to nectar by dancing, and 
+monkeys signal a desire for sexual contact or fear at the 
+approach of an enemy with coos and grunts. With lan-
+guage, we accomplish all of the above and more. We 
+use language to provide information and express our 
+emotions, to comment on the past and future, and to 
+create fiction and poetry. Using sounds that have only 
+an arbitrary association with the meanings they con-
+vey, we talk about anything and everything. No ani-
+mal has a communication system that parallels human 
+language either in form or in function. Language is the 
+defining characteristic of humans, and living without it 
+creates a totally different world, as patients with apha-
+sia following a stroke experience so heartbreakingly.
+Language Has Many Structural Levels: 
+Phonemes, Morphemes, Words, and Sentences
+What distinguishes language from other forms of com-
+munication? The key feature is a finite set of distinctive 
+speech sounds or phonemes that can be combined with 
+infinite possibilities. Phonemes are the building blocks 
+of units of significance called morphemes. Each lan-
+guage has a distinctive set of phonemes and rules for 
+combining them into morphemes and words. Words 
+can be combined according to the rules of syntax into 
+an infinite number of sentences.
+Understanding language presents an interesting 
+set of puzzles, ones that challenge supercomputers. 
+The advent of virtual personal assistants such as Siri 
+and Alexa, based on machine-learning algorithms, has 
+allowed electronic devices to respond to select kinds of 
+human utterances. However, we are still not convers-
+ing with computers. Fundamental advances will need 
+to be made before humans can expect to have a conver-
+sation with a machine that resembles a conversation 
+you can have with any 3-year-old. Machine-learning 
+solutions do not accomplish their limited responses by 
+mimicking human brain systems used for language, 
+nor do they learn in the ways that human infants learn. 
+Comparing machine-learning approaches (artificial 
+intelligence) and human approaches is of theoretical 
+and practical interest (Chapter 39) and is a hot topic for 
+future research.
+Language presents such a complex puzzle because 
+it involves many functionally interconnected levels, 
+starting at the most basic level with the sounds that 
+distinguish words. For example, in English, the sounds 
+/r/ and /1/ differentiate the words rock and lock. In 
+Japanese, however, this sound change does not dis-
+tinguish words because the /r/ and /l/ sounds are 
+used interchangeably. Similarly, Spanish speakers dis-
+tinguish between the words pano and bano, whereas 
+English speakers treat the /p/ and /b/ sounds at the 
+beginning of these words as the same sounds. Given 
+that many languages use identical sounds but group 
+them differently, children must discover how sounds 
+are grouped to make meaningful distinctions in their 
+language.
+Phonetic units are subphonemic. As we have illus-
+trated above with /r/ and /l/, these two sounds are 
+both phonetic units, but their phonemic status differs 
+in English and Japanese. In English, the two are phone-
+mically distinct, meaning that they change the mean-
+ing of a word. In Japanese, /r/ and /l/ belong to the 
+same phonemic category and are not distinct. Phonetic 
+units are distinguished by subtle acoustic variations 
+caused by the shape of the vocal tract called formant 
+frequencies (Figure 55–1). The patterns and timing of 
+formant frequencies distinguish words that differ in 
+only one phonetic unit, such as the words pat and bat. 
+In normal speech, formant changes occur very rapidly, 
+on the order of milliseconds. The auditory system has 
+to track these rapid changes in order for an individual 
+
+
+===== Page 9 =====
+1372    Part VIII / Learning, Memory, and Cognition
+Figure 55–1  Formant frequencies. For-
+mants are systematic variations in the 
+concentration of energy at various sound 
+frequencies and represent resonances of 
+the vocal tract. They are shown here as a 
+function of time in a spectrographic analy-
+sis of speech. The formant patterns for 
+two simple vowels (/a/ and /ae/) spoken 
+in isolation are distinguished by differ-
+ences in formant 2 (F2). Formant patterns 
+for the sentence “Did you hit it to Tom?” 
+spoken slowly and clearly illustrate 
+the rapid changes that underlie normal 
+speech. (Data from Patricia Kuhl.)
+to distinguish semantically different sounds and thus 
+understand speech. Whereas in written language, 
+spaces are customarily inserted between words, in 
+speech, there are no acoustic breaks between words. 
+Thus, speech requires a process that can detect words 
+on the basis of something other than sounds bracketed 
+by silence. Computers have a great deal of trouble rec-
+ognizing words in the normal flow of speech.
+Phonotactic rules specify how phonemes can be 
+combined to form words. Both English and Polish use 
+the phonemes /z/ and /b/, for example, but the com-
+bination /zb/ is not allowed in English, whereas in 
+Polish, it is common (as in the name Zbigniew).
+Morphemes are the smallest structural units of a 
+language, best illustrated by prefixes and suffixes. In 
+English, for example, the prefix un (meaning not) can 
+be added to many adjectives to convey the opposite 
+meaning (eg, unimportant). Suffixes often signal the 
+tense or number of a word. For example, in English, we 
+add s or es to indicate more than one of something (pot 
+becomes pots, bug becomes bugs, or box becomes boxes). 
+To indicate the tense of a regular verb, we add an end-
+ing to the word (eg, play can become plays, playing, and 
+played). Irregular verbs do not follow the rule (eg, go 
+becomes went rather than goed and break becomes broke 
+rather than breaked). Every language has a different set 
+of rules for altering the tense and number of a word.
+Finally, to create language, words have to be 
+strung together. Syntax specifies word and phrase 
+order for a given language. In English, for example, 
+sentences typically conform to a subject-verb-object 
+order (eg, He eats cake), whereas in Japanese, it is typi-
+cally subject-object-verb (eg, Karewa keeki o tabenzasu, 
+literally He cake eats). Languages have systematic dif-
+ferences in the order of larger elements (noun phrases 
+and verb phrases) of a sentence, and in the order of 
+words within phrases, as illustrated by the difference 
+between English and French noun phrases. In English, 
+adjectives precede the noun (eg, a very intelligent man), 
+whereas in French, most follow the noun (eg, un homme 
+tres intelligent).
+Language Acquisition in Children  
+Follows a Universal Pattern
+Regardless of culture, all children initially exhibit uni-
+versal patterns of speech perception and production 
+that do not depend on the specific language children 
+hear (Figure 55–2). By the end of the first year, infants 
+have learned through exposure to a specific language 
+which phonetic units convey meaning in that language 
+and to recognize likely words, even though they do 
+not yet understand those words. By 12 months of age, 
+ Frequency (kHz)
+ Frequency (kHz)
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+6
+7
+/a/ in “hot”
+/ae/ in “hat”
+d i
+d
+y
+ou
+h
+i t
+i
+t
+t
+o
+t
+o
+m
+ Time (s)
+0
+1
+2
+ Time (s)
+ Time (s)
+0
+0.2
+0.4
+0
+0.2
+0.4
+F3
+F3
+F2
+F1
+F2
+F1
+
+

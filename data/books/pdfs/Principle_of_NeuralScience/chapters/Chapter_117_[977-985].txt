@@ -1,0 +1,856 @@
+===== Page 1 =====
+38
+The Basal Ganglia
+Throughout Vertebrate Evolution, the Basal Ganglia Have 
+Been Highly Conserved
+Action Selection Is a Recurring Theme in  
+Basal Ganglia Research
+All Vertebrates Face the Challenge of Choosing One 
+Behavior From Several Competing Options
+Selection Is Required for Motivational, Affective, 
+Cognitive, and Sensorimotor Processing
+The Neural Architecture of the Basal Ganglia Is 
+Configured to Make Selections
+Intrinsic Mechanisms in the Basal Ganglia  
+Promote Selection
+Selection Function of The Basal Ganglia  
+Questioned
+Reinforcement Learning Is an Inherent Property of a 
+Selection Architecture
+Intrinsic Reinforcement Is Mediated by Phasic Dopamine 
+Signaling Within the Basal Ganglia Nuclei
+Extrinsic Reinforcement Could Bias Selection by 
+Operating in Afferent Structures
+Behavioral Selection in the Basal Ganglia Is Under  
+Goal-Directed and Habitual Control
+Diseases of the Basal Ganglia May Involve Disorders of 
+Selection
+A Selection Mechanism Is Likely to Be Vulnerable to 
+Several Potential Malfunctions
+Parkinson Disease Can Be Viewed in Part as a Failure to 
+Select Sensorimotor Options
+Huntington Disease May Reflect a Functional Imbalance 
+Between the Direct and Indirect Pathways
+Schizophrenia May Be Associated With a General Failure 
+to Suppress Nonselected Options
+The Basal Ganglia Network Consists of Three Principal Input 
+Nuclei, Two Main Output Nuclei, and One Intrinsic Nucleus
+The Striatum, Subthalamic Nucleus, and Substantia 
+Nigra Pars Compacta/Ventral Tegmental Area Are the 
+Three Principal Input Nuclei of the Basal Ganglia
+The Substantia Nigra Pars Reticulata and the Internal 
+Globus Pallidus Are the Two Principal Output Nuclei of 
+the Basal Ganglia
+The External Globus Pallidus Is Mostly an Intrinsic 
+Structure of the Basal Ganglia
+The Internal Circuitry of the Basal Ganglia Regulates How 
+the Components Interact
+The Traditional Model of the Basal Ganglia Emphasizes 
+Direct and Indirect Pathways
+Detailed Anatomical Analyses Reveal a More  
+Complex Organization
+Basal Ganglia Connections With External Structures Are 
+Characterized by Reentrant Loops
+Inputs Define Functional Territories in the  
+Basal Ganglia
+Output Neurons Project to the External Structures That 
+Provide Input
+Reentrant Loops Are a Cardinal Principle of Basal 
+Ganglia Circuitry
+Physiological Signals Provide Further Clues to Function in 
+the Basal Ganglia
+The Striatum and Subthalamic Nucleus Receive Signals 
+Mainly from the Cerebral Cortex, Thalamus,  
+and Ventral Midbrain
+Ventral Midbrain Dopamine Neurons Receive Input 
+From External Structures and Other Basal Ganglia Nuclei
+Disinhibition Is the Final Expression of  
+Basal Ganglia Output
+
+
+===== Page 2 =====
+Chapter 38 / The Basal Ganglia    933
+Figure 38–1  The basal ganglia and surrounding structures.   
+The nuclei of the basal ganglia are identified on the right in this 
+coronal section of a human brain. (Adapted from Nieuwenhuys, 
+Voogd, and van Huijzen 1981.)
+Attention Deficit Hyperactivity Disorder and Tourette 
+Syndrome May Also Be Characterized by Intrusions of 
+Nonselected Options
+Obsessive-Compulsive Disorder Reflects the Presence of 
+Pathologically Dominant Options
+Addictions Are Associated With Disorders of 
+Reinforcement Mechanisms and Habitual Goals
+Highlights
+T
+he traditional view that the basal  ganglia 
+play a role in movement arises primarily because 
+diseases of the basal ganglia, such as Parkinson 
+and Huntington disease, are associated with prominent 
+disturbances of movement, and from the belief that 
+basal ganglia neurons send their output exclusively to 
+the motor cortex by way of the thalamus. However, we 
+now know that the basal ganglia also project to wide 
+areas of the brain stem and via the thalamus to non-
+motor areas of the cerebral cortex and limbic system, 
+thereby providing a mechanism whereby they contrib-
+ute to a wide variety of cognitive, motivational, and 
+affective operations. This understanding also explains 
+Thalamus
+Internal
+capsule
+Caudate nucleus
+Putamen
+Basal
+ganglia
+Subthalamic
+nucleus
+Substantia nigra
+Globus pallidus:
+  External segment
+  Internal segment
+Caudate nucleus
+Putamen
+why diseases of the basal ganglia are frequently associ-
+ated with complex cognitive, motivational, and affec-
+tive dysfunction in addition to the better-known motor 
+disturbances.
+This chapter provides a perspective on the funda-
+mental contributions of the basal ganglia (Figure 38–1) 
+to overall brain function. Recent advances in the fields 
+of artificial neural networks and robotics emphasize that 
+behavioral function is an emergent property of signal 
+processing in physically connected networks (Chapter 5). 
+Thus, how components of networks are connected and 
+how their input signals are transformed into output sig-
+nals impose important constraints on final behavioral 
+outputs. We first describe the principal anatomical and 
+physiological features of the basal ganglia network and 
+consider the constraints these might impose on their 
+function. We consider the extent to which the basal gan-
+glia have been conserved during vertebrate brain evo-
+lution and, based on these insights, review evidence 
+suggesting that the basal ganglia’s normal functions are 
+to select between incompatible behaviors and to medi-
+ate reinforcement learning. We conclude by examining 
+important insights into how the system can malfunction 
+in some of the major diseases involving the basal ganglia.
+
+
+===== Page 3 =====
+934    Part V / Movement
+Figure 38–2  The principal input, intrinsic, and 
+output connections of the mammalian basal 
+ganglia.  The main input nuclei are the striatum 
+(STR), subthalamic nucleus (STN), and substantia 
+nigra pars compacta (not shown). They receive 
+input directly from the thalamus, cerebral cortex, 
+and limbic structures (amygdala and hippocampus). 
+The main output nuclei are the substantia nigra 
+pars reticulata (SNr) and internal globus pallidus/
+entopeduncular nucleus (not shown). The external 
+globus pallidus (GP) is classified as an intrinsic 
+nucleus as most of its connections are with other 
+basal ganglia nuclei. Structures are shown on a 
+sagittal schematic of the rodent brain. Red and 
+dark gray arrows denote excitatory and inhibitory 
+connections, respectively.
+The Basal Ganglia Network Consists of Three 
+Principal Input Nuclei, Two Main Output 
+Nuclei, and One Intrinsic Nucleus
+The striatum (a collective term for the caudate nucleus 
+and putamen; see Figure 38–1), subthalamic nucleus, 
+and substantia nigra pars compacta/ventral tegmental 
+area are the three major input nuclei of the basal ganglia, 
+receiving signals directly and indirectly from structures 
+distributed throughout the neuraxis (Figure 38–2).
+The Striatum, Subthalamic Nucleus, and Substantia 
+Nigra Pars Compacta/Ventral Tegmental Area Are the 
+Three Principal Input Nuclei of the Basal Ganglia
+The striatum is the largest nucleus of the basal gan-
+glia. It receives direct input from most regions of the 
+cerebral cortex and limbic structures, including the 
+amygdala and hippocampus. Important input from 
+sensorimotor and motivational regions of the brain 
+stem is relayed indirectly via the thalamus. In rodents, 
+the number of contacts received in the striatum from 
+the cerebral cortex and thalamus are approximately 
+equivalent. Finally, important modulatory input to the 
+striatum comes from the substantia nigra pars com-
+pacta (dopamine), midbrain raphe (serotonin), and 
+pedunculopontine nucleus (acetylcholine).
+The striatum is subdivided functionally on the basis 
+of the organization of input connections, principally the 
+topographically organized afferents from the cerebral 
+cortex. Limbic, associative, and sensorimotor terri-
+tories are generally recognized along a ventromedial-
+dorsolateral continuum. This diversity of input shows 
+that the basal ganglia receive signals from brain regions 
+involved in different motivational, emotional, cognitive, 
+and sensorimotor processes, implying that whatever 
+Cortex
+Tectum
+Thalamus
+Hippocampus
+STR
+GP
+STN
+SNr
+Amygdala
+Reticular
+formation
+the basal ganglia are doing, they are doing it for a wide 
+range of brain processes.
+An additional architectural feature of the striatum 
+suggests that the basal ganglia are performing more or 
+less the same operations on their inputs from function-
+ally diverse afferent structures. Specifically, within each 
+of the striatum’s functional territories, the cellular archi-
+tecture is remarkably similar. In all regions, inhibitory 
+γ-aminobutyric acid (GABA)-ergic medium spiny neu-
+rons are the principal cell type (>90% of all neurons). 
+In addition, in all functionally defined regions, the 
+medium spiny neurons are separated into two popula-
+tions according to the relative expression of neuroactive 
+peptides (substance P and dynorphin versus enkepha-
+lin) or the expression of D1 and D2 dopamine receptors, 
+which are thought to positively and negatively modu-
+late cyclic adenosine monophosphate signaling in these 
+neurons. These populations contribute differentially to 
+different efferent projections of the striatum. In addition 
+to these long-range inhibitory connections to other basal 
+ganglia nuclei, medium spiny neurons also send local 
+collaterals to adjacent cells. Colocalized GABAergic and 
+peptidergic neurotransmission provides local mutu-
+ally inhibitory and excitatory influences. The remain-
+ing 5% to 10% of neurons in the striatum are purely 
+GABAergic and cholinergic interneurons, which can 
+be distinguished according to neurochemical, electro-
+physiological, and in some cases morphological charac-
+teristics. The fact that this local cellular architecture is 
+present in all functional regions suggests that neurons 
+in the striatum are applying the same or similar compu-
+tations on functionally diverse afferent pathways.
+The subthalamic nucleus has traditionally been 
+considered an important internal relay in the “indi-
+rect output pathway” from the striatum to the basal 
+ganglia output nuclei (see below). It is now also recog-
+nized as a second important input nucleus of the basal 
+
+
+===== Page 4 =====
+Chapter 38 / The Basal Ganglia    935
+ganglia. Topographically organized inputs derive not 
+only from large parts of frontal cortex, but also from 
+various thalamic and brain stem structures. The sub-
+thalamic nucleus is the only component of the basal 
+ganglia that has excitatory (glutamatergic) output con-
+nections. These project to both output nuclei and to the 
+intrinsic external globus pallidus.
+The substantia nigra pars compacta/ventral teg-
+mental area contain an important population of dopa-
+minergic neurons. These neurons represent the third 
+major input station of the basal ganglia and give rise to 
+the nigrostriatal and mesolimbic/mesocortical dopa-
+mine projections. They receive significant afferent con-
+nections from other basal ganglia nuclei (the striatum, 
+globus pallidus, and subthalamus), but also from many 
+structures in the brain stem (eg, superior colliculus, 
+rostromedial tegmental region, raphe nuclei, pedun-
+culopontine nucleus, and parabrachial area). Other 
+afferent connections are from the frontal cortex and the 
+amygdala. This pattern of connectivity is important 
+because it suggests the most important direct influence 
+over the dopaminergic neurons arises from evolution-
+arily ancient parts of the brain (see below).
+Individual dopaminergic neurons have highly 
+branching axons that project into extensive regions of 
+not only the other basal ganglia nuclei but also exter-
+nal structures (eg, frontal cortex, septal area, amygdala, 
+habenula). This suggests that their important modula-
+tory signals are widely broadcast throughout targeted 
+structures. The highest concentration of dopaminergic 
+terminals is found in the striatum, where synaptic and 
+nonsynaptic contacts are formed with both medium 
+spiny cells and interneurons. The existence of nonsyn-
+aptic contacts gives rise to what has been called volume 
+transmission. This occurs when neurotransmitters dif-
+fuse through the brain’s extracellular fluid from release 
+points that may be remote from targeted cells. Conse-
+quently, volume transmission typically has a longer 
+time course than synaptic neurotransmission. Deploy-
+ment of volume transmission in targeted structures is 
+further evidence for the idea that the effects of dopamine 
+in targeted structures are widely broadcast and spatially 
+imprecise. Variable proportions of GABAergic neurons 
+(substantia nigra and the ventral tegmental area) and 
+glutamatergic neurons (ventral tegmental area) contrib-
+ute to local processing in these structures.
+The Substantia Nigra Pars Reticulata and the 
+Internal Globus Pallidus Are the Two Principal 
+Output Nuclei of the Basal Ganglia
+The internal globus pallidus/entopeduncular nucleus 
+is one of the two principal output nuclei. It receives 
+inputs from other basal ganglia nuclei and projects 
+to external targets in the thalamus and brain stem. 
+GABAergic input from the striatum and external 
+globus pallidus are inhibitory, while input from the 
+subthalamic nucleus is glutamatergic and excitatory. 
+Neurons of the internal globus pallidus are themselves 
+GABAergic and have high levels of tonic activity. 
+Under normal circumstances, this imposes powerful 
+inhibitory effects on targets in the thalamus, lateral 
+habenula, and brain stem.
+The substantia nigra pars reticulata is the second 
+principal output nucleus. It also receives afferents from 
+other basal ganglia nuclei and provides efferent con-
+nections to the thalamus and brain stem. Inhibitory 
+(GABAergic) inputs come from the striatum and globus 
+pallidus (external) and excitatory input from the sub-
+thalamus. Pars reticulata neurons are also GABAergic 
+and impose strong inhibitory control over parts of the 
+thalamus and brain stem, including the superior colli-
+culus, pedunculopontine nucleus, and parts of the mid-
+brain and medullary reticular formation.
+The External Globus Pallidus Is Mostly an Intrinsic 
+Structure of the Basal Ganglia
+Most connections of the globus pallidus are with other 
+basal ganglia nuclei, including inhibitory (GABAergic) 
+input from the striatum and excitatory (glutamatergic) 
+input from the subthalamus, and the globus pallidus 
+provides inhibitory efferent connections to all the basal 
+ganglia’s input and output nuclei. This pattern of con-
+nections suggests that that the external globus palli-
+dus is an essential regulator of internal basal ganglia 
+activity.
+Having described the core components of the basal 
+ganglia, we will now consider in more detail how they 
+are connected, first with each other and then with 
+external structures in the brain.
+The Internal Circuitry of the Basal Ganglia 
+Regulates How the Components Interact
+The Traditional Model of the Basal Ganglia 
+Emphasizes Direct and Indirect Pathways
+An influential interpretation of the intrinsic circuitry 
+of the basal ganglia was proposed in the late 1980s by 
+Roger Albin and colleagues (Figure 38–3A). In their 
+scheme, signals originating in the cerebral cortex are 
+distributed to two populations of medium spiny out-
+put neurons in the striatum.
+Neurons containing substance P and a preponder-
+ance of D1 dopamine receptors make direct inhibitory 
+
+
+===== Page 5 =====
+936    Part V / Movement
+Figure 38–3  Intrinsic connections within the basal ganglia.
+A. The influential proposal by Roger Albin and colleagues (1989) 
+is presented, where output of the basal ganglia is determined 
+by the balance between a direct pathway from the striatum to 
+the output nuclei (internal globus pallidus [Gpi] and substantial 
+nigra pars reticulata [SNr]), which promotes behavior, and an 
+indirect pathway from the striatum to the output nuclei via 
+relays in the external globus pallidus (GPe) and subthalamic 
+nucleus (STN), which suppresses behavior. The balance 
+between the direct and indirect projections was thought to 
+be regulated by afferent dopaminergic signals from substantia 
+nigra pars compacta (SNc) acting on differentially distributed D1 
+and D2 dopamine receptors.
+B. More recent anatomical investigations have revealed a rather 
+more complex organization where the transformations of basal 
+ganglia inputs that generate outputs are less easy to predict.
+A  Internal circuitry proposed by Albin et al. (1989)
+GPe
+STN
+GPi/SNr
+SNc
+Dopamine
+Direct
+Indirect
+GABA
+Glutamate
+Thalamus
+Striatum
+D1
+D2
+B  Contemporary view of internal circuitry
+Cortex
+GPi/SNr
+SNc
+Thalamus
+Striatum
+D1
+D2
+GPe
+STN
+Cortex
+contact with the basal ganglia output nuclei—the 
+direct pathway. In contrast, striatal neurons containing 
+enkephalin and expressing mainly D2 dopamine recep-
+tors make excitatory contact with the output nuclei via 
+relays in the globus pallidus and subthalamus—the 
+indirect pathway. Basal ganglia output was thought to 
+reflect a cortically determined balance between these 
+inhibitory and excitatory projections terminating on 
+the two output structures (the internal globus pallidus 
+and substantia nigra pars reticulata). In this model, a 
+behavior would be promoted when the direct pathway 
+was dominant and inhibited when the indirect path-
+way was dominant.
+Detailed Anatomical Analyses Reveal a More 
+Complex Organization
+Recent anatomical observations show that the inter-
+nal circuitry of the basal ganglia is more complex than 
+originally envisaged (Figure 38–3B). The main findings 
+have been that: (1) medium spiny neurons of the direct 
+pathway also provide collateral input to the globus 
+pallidus; (2) globus pallidus neurons also make direct 
+contact with the output nuclei in addition to the tradi-
+tional indirect connections to the subthalamus—often 
+with branching collaterals to all three structures; (3) the 
+globus pallidus also projects back to the striatum and 
+to structures outside the basal ganglia; (4) the subtha-
+lamic nucleus also projects back to the external globus 
+pallidus, in addition to the feedforward connections 
+to the two basal ganglia output nuclei; and (5) major 
+inputs to the subthalamic nucleus originate from both 
+cortical and subcortical structures external to the basal 
+ganglia. Consequently, the subthalamus is now consid-
+ered a major input structure of the basal ganglia (see 
+above), rather than a simple relay in the intrinsic indi-
+rect projection. A modern appreciation of this complex 
+organization within the basal ganglia suggests it is no 
+longer possible to intuit how a particular input might 
+be transformed by the basal ganglia to generate a spe-
+cific output. For this reason, computational modeling 
+of the internal circuitry of the basal ganglia has become 
+increasingly important.
+Although the overall pattern of intrinsic circuitry is 
+complex (Figure 38–3B), connections between compo-
+nents of the basal ganglia are topographically ordered 
+
+
+===== Page 6 =====
+Chapter 38 / The Basal Ganglia    937
+throughout. Some of these projections are compara-
+tively focused (eg, the striatonigral projection), while 
+others are more diffuse (eg, the subthalamonigral 
+projection). Significant reductions in the comparative 
+numbers of neurons in afferent structures, the stria-
+tum, and the output nuclei suggest a dramatic com-
+pression of information as it is processed within the 
+basal ganglia.
+Basal Ganglia Connections With External 
+Structures Are Characterized by  
+Reentrant Loops
+Inputs Define Functional Territories in the  
+Basal Ganglia
+The functional status of inputs to the striatum from 
+the cerebral cortex, limbic structures, and thalamus pro-
+vides the rationale for classifying functional territories 
+within the basal ganglia nuclei (limbic, associative, 
+and sensorimotor). However, the manner in which the 
+afferent projections make contact with neurons of the 
+basal ganglia nuclei suggests important functional dif-
+ferences. For example, axons arriving in the striatum 
+from the cerebral cortex and central lateral thalamic 
+nucleus appear to make few contacts with many stri-
+atal neurons. In contrast, inputs from other regions, 
+principally the parafascicular thalamic nucleus, have 
+axons that make many contacts with fewer individual 
+striatal neurons. Afferent connections to the subtha-
+lamic nucleus, at least from cerebral cortex, are also 
+topographically organized according to the limbic, 
+associative, and sensorimotor classification. However, 
+there is no evidence of the same kind of precise topo-
+graphical input from external structures to SNc and 
+VTA dopamine neurons in the ventral midbrain.
+Output Neurons Project to the External  
+Structures That Provide Input
+Basal ganglia output neurons project to regions of the 
+thalamus (the intralaminar and ventromedial nuclei) 
+that project back to basal ganglia input nuclei as well 
+as to those regions of cortex that provided the original 
+inputs to the striatum. Similarly, outputs from the basal 
+ganglia to the brain stem tend to target those regions 
+that provide input to the striatum via the thalamic 
+midline and intralaminar nuclei. Importantly, projec-
+tions from the basal ganglia output nuclei to the thala-
+mus and brain stem are also topographically ordered.
+Finally, many output projections of the basal ganglia 
+are extensively collateralized, thereby simultaneously 
+contacting targets in the thalamus, midbrain, and 
+hindbrain. An example of the functional consequences 
+of this organization is that a subset of neurons in the 
+substantia nigra pars reticulata associated with oral 
+behavior can simultaneously influence the activity in 
+the specific regions of the thalamus/cortex, midbrain, 
+and hindbrain that interact during the production of 
+oral behavior.
+Reentrant Loops Are a Cardinal Principle  
+of Basal Ganglia Circuitry
+Spatial topographies associated with input projec-
+tions, intrinsic connections, and outputs of the 
+basal ganglia provided the basis for the influen-
+tial organizational principle suggested by Garrett  
+Alexander and colleagues in 1989. Connections between 
+the cerebral cortex and basal ganglia can be viewed as 
+a series of reentrant parallel projecting, partly segre-
+gated, cortico-striato-nigro-thalamo-cortical loops or 
+channels (Figure 38–4). Thus, an important component 
+of the projections from different functional areas of 
+cerebral cortex (eg, limbic, associative, sensorimotor) 
+makes exclusive contact with specific regions of the 
+basal ganglia input nuclei. This regional separation 
+is maintained in forward projections throughout the 
+internal circuitry. Focused output signals from func-
+tional territories represented in the basal ganglia 
+output nuclei are returned, via appropriate thalamic 
+relays, to the cortical regions providing the original 
+input signals.
+The concept of parallel projecting reentrant loops 
+through the basal ganglia has been extended to their 
+connections with sensorimotor and motivational struc-
+tures in the brain stem, including the superior col-
+liculus, periaqueductal gray, pedunculopontine, and 
+parabrachial nuclei. This implies that the reentrant 
+loop architecture through the basal ganglia must have 
+predated the evolutionary expansion of the cerebral 
+cortex. An important difference is that for the cortical 
+loops the thalamic relay is on the output side of the 
+loop, whereas for the subcortical loops, the thalamic 
+relay is on the input side (Figure 38–5). Further work 
+will be required to test whether projections from dif-
+ferent brain stem structures, as they pass through the 
+thalamic and basal ganglia relays, are functionally dis-
+tinct channels.
+In summary, the partially segregated reentrant loop 
+organization is one of the dominant features character-
+izing the connections between the basal ganglia and 
+external structures. This pattern of connections pro-
+vides important clues as to the role played by the basal 
+ganglia nuclei in overall brain function. However, at 
+
+
+===== Page 7 =====
+938    Part V / Movement
+Figure 38–4  Connections between the basal ganglia and 
+cerebral cortex.
+A. The connections between the cerebral cortex and basal 
+ganglia can be viewed as a series of parallel projecting, largely 
+segregated loops or channels. Functional territories repre-
+sented at the level of cerebral cortex are maintained throughout 
+the basal ganglia nuclei and thalamic relays. However, for each 
+loop, the relay points in the cortex, basal ganglia, and thalamus 
+offer opportunities for activity inside the loop to be modified by 
+signals from outside the loop. Red and dark gray arrows rep-
+resent excitatory and inhibitory connections, respectively.
+B. Spatially segregated rostral-caudal gradient of human frontal 
+cortical connectivity in caudate, putamen, and pallidum. The 
+color-coded ring denotes regions of cerebral cortex in the sagit-
+tal plane. (Reproduced, with permission, from Draganski et al. 
+2008. Copyright © 2008 Society for Neuroscience.)
+Figure 38–5  Cortical and subcortical sensorimotor loops 
+through the basal ganglia.
+A. For cortical loops, the position of the thalamic relay is  
+on the return arm of the loop.
+B. In the case of all subcortical loops, the position of the 
+thalamic relay is on the input side of the loop. Red indicates 
+predominantly excitatory regions and connections, while  
+dark gray indicates inhibitory regions and connections.  
+(Abbreviations: SN/GPi, substantia nigra/globus pallidus;  
+Thal, thalamus.)
+Caudate
+Putamen
+Pallidum
+A
+B
+Cerebral cortex
+Limbic
+Associative
+Sensory
+Motor
+Striatum
+Pallidum/nigra
+Thalamus
+M
+ot
+or
+ c
+or
+te
+x
+Pr
+e
+m
+ot
+o
+r 
+c
+o
+rt
+e
+x
+Pr
+ef
+ro
+nt
+al
+ c
+o
+rt
+e
+x
+D
+or
+so
+la
+te
+ra
+l
+ M
+ed
+ia
+l 
+an
+d 
+or
+bi
+ta
+l
+S
+e
+n
+s
+or
+i
+m
+ot
+or
+ c
+or
+te
+x
+Pa
+ri
+et
+al
+ c
+or
+te
+x
+A  Cortical loops
+Motor
+output
+Sensory
+input
+Cerebral
+cortex
+Thalamus
+Striatum
+SN/GPi
+B  Subcortical loops
+Motor
+output
+Sensory
+input
+Subcortical
+structures
+SN/GPi
+Thalamus
+Striatum
+
+
+===== Page 8 =====
+Chapter 38 / The Basal Ganglia    939
+this point, it is important not to think of the reentrant 
+loop architecture as comprising a series of independ-
+ent and isolated functional channels. At each node 
+or relay point in the loop (eg, in the cortex, the input 
+nuclei, the output nuclei, and the thalamus), there is 
+the opportunity for information flow within the loop to  
+be modified by information from outside the loop (see 
+the section on reinforcement learning below).
+At the beginning of this chapter, we stated that 
+behavior is an emergent property of signal processing 
+within a neural network. Having specified the systems-
+level network of the basal ganglia, we now consider 
+the signals that are being processed within this system.
+Physiological Signals Provide Further Clues  
+to Function in the Basal Ganglia
+The Striatum and Subthalamic Nucleus Receive 
+Signals Mainly from the Cerebral Cortex,  
+Thalamus, and Ventral Midbrain
+Signals received by the striatum from the cerebral 
+cortex and thalamus are conveyed by excitatory glu-
+tamatergic neurotransmission. These fast, phasically 
+active excitatory inputs are mediated predominantly 
+by α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic 
+acid (AMPA) and kainate receptors when the medium 
+spiny neurons are near resting potential; N-methyl-
+d-aspartate (NMDA) receptors play a greater role 
+when the neurons are depolarized. Glutamatergic 
+inputs from both cerebral cortex and thalamus also 
+impinge on striatal interneurons.
+It is important to appreciate that these signals 
+come from external structures that are simultaneously 
+generating a wide range of behavioral options. Since 
+these options could not all be expressed at the same 
+time, these inputs to the basal ganglia are thought to 
+be in competition with each other. Another important 
+signal to the striatum is an efference copy of the out-
+put activity from the external structures that generate 
+behavioral responses. For example, the sensorimotor 
+territories of the dorsolateral striatum receive collat-
+eral fibers from motor cortex axons that send signals 
+to the spinal cord.
+The effects of dopaminergic inputs from the ven-
+tral midbrain on striatal neuronal activity are com-
+plicated, with many conflicting results. In part, this 
+is due to the problem of evoking normal patterns of 
+input activity in slice and anaesthetized preparations. 
+However, recent developments in optogenetic technol-
+ogy in alert, active animals have enabled investigators 
+both to record and manipulate dopamine signals to 
+the striatum in a temporally controlled manner. Con-
+sequently, current evidence suggests dopamine can 
+increase signal-to-noise ratios in the striatum, enhanc-
+ing the effects of strong external inputs while suppress-
+ing weak ones. There is further evidence that dopamine 
+can increase the excitability of medium spiny neurons 
+in the direct pathways while at the same time decreas-
+ing the excitability of those in the indirect pathway.
+Finally, dopamine input is necessary for both long-
+term potentiation and long-term depression of gluta-
+matergic inputs to striatal medium spiny neurons from 
+both cortex and thalamus. This latter point is of great 
+significance for the role played by the basal ganglia 
+in reinforcement learning (see below). Dopamine can 
+also influence the activity of GABAergic and cholin-
+ergic interneurons. Although anatomically significant, 
+much less is known about the role(s) of serotoninergic 
+inputs to the basal ganglia.
+The main external sources of input to the striatum 
+also provide parallel inputs to the subthalamic nucleus. 
+The subthalamus therefore receives phasic excitatory 
+(glutamatergic) signals from the cerebral cortex, thala-
+mus, and brain stem. Following cortical activation, 
+short-latency excitatory effects in the subthalamus are 
+thought to be mediated via these “hyperdirect” con-
+nections, whereas longer-latency suppressive effects 
+are more likely to come from indirect inhibitory inputs 
+from other basal ganglia nuclei, principally the exter-
+nal globus pallidus. The subthalamus receives short-
+latency excitatory sensory input from the brain stem 
+(eg, the superior colliculus); it is also influenced by 
+dopaminergic, serotonergic, and cholinergic modula-
+tory inputs.
+Ventral Midbrain Dopamine Neurons Receive  
+Input From External Structures and Other  
+Basal Ganglia Nuclei
+Afferent signals to the dopaminergic neurons in the 
+ventral midbrain come from a wide variety of auto-
+nomic, sensory, and motor areas and operate over 
+a range of time scales. For example, laterally located 
+neurons in the substantia nigra receive short-latency 
+excitatory inputs from cortical and subcortical senso-
+rimotor regions, while more medially positioned neu-
+rons receive both short-latency sensory signals and 
+autonomic-related inputs from the hypothalamus over 
+longer time scales.
+Important inhibitory control over dopaminergic 
+neurons is exercised by GABAergic neurons, both local 
+and distant from areas like the rostromedial tegmen-
+tum. However, the densest inputs to the dopaminergic 
+neurons are inhibitory inputs from the striatum and 
+
+
+===== Page 9 =====
+940    Part V / Movement
+Figure 38–6  The diagram illustrates the principle of selec-
+tion operating at the level of the basal ganglia output 
+nuclei.  Throughout the figure, the relative levels of activity 
+within the competing channels are represented by the thick-
+ness of projections, and for clarity, the indirect pathway and 
+the return connections of the loops via the thalamus have been 
+omitted. One of the competing inputs to the striatum (the mid-
+dle one) is more active than its competitors. Relative activities 
+in the direct inhibitory pathways (shown here) differentially sup-
+press activity in the different channels within the output nuclei. 
+Because output nuclei neurons are also inhibitory and tonically 
+active, the selected channel will be the one with the strong-
+est inhibitory input from the striatum. Tonic inhibitory output is 
+maintained on the nonselected channels. This selective disin-
+hibitory mechanism operating at the level of the output nuclei 
+means that selection will be an emergent property of the entire 
+reentrant network. Disinhibition of selected external targets 
+will allow them to direct movement, while nonselected targets 
+remain inhibited and unable to influence behavior. Red, excita-
+tory; gray, inhibitory.
+globus pallidus and excitatory signals from the sub-
+thalamic nucleus. The midbrain raphe nuclei provide 
+important modulatory serotonergic input, while both 
+the pedunculopontine nucleus and lateral dorsal teg-
+mental nucleus provide cholinergic and glutamatergic 
+inputs. An important functional question concerning 
+the wide range of afferent signals to dopaminergic 
+neurons is whether dopamine performs a highly inte-
+grative role or performs an essential function that is 
+accessed by numerous different systems at different 
+times.
+Disinhibition Is the Final Expression of Basal 
+Ganglia Output
+The basal ganglia exercise influence over external 
+structures by the fundamental processes of inhibition 
+and disinhibition (Figure 38–6). GABAergic neurons 
+in the basal ganglia output nuclei typically have high 
+tonic firing rates (40–80 Hz). This activity ensures that 
+target regions of the thalamus and brain stem are main-
+tained under a tight and constant inhibitory control.
+Focused excitatory inputs from external structures 
+to the striatum can impose focused suppression (medi-
+ated via direct pathway GABAergic inhibitory con-
+nections) on subpopulations of output nuclei neurons. 
+This focused reduction of inhibitory output effectively 
+releases or disinhibits targeted regions in the thalamus 
+(eg, ventromedial nucleus) and brain stem (eg, supe-
+rior colliculus) from normal inhibitory control. This 
+sudden release from tonic inhibition allows activity 
+in the targeted region to influence behavioral output, 
+which in the case of the midbrain superior colliculus is 
+to elicit saccadic eye movements.
+The patterns of signaling within the basal ganglia 
+architecture provide important insights into what the 
+overall functional properties of these networks might 
+be (see below). Further constraints on the likely core 
+functions of the basal ganglia also become apparent 
+when considering the evolutionary history of the ver-
+tebrate brain.
+Throughout Vertebrate Evolution, the Basal 
+Ganglia Have Been Highly Conserved
+Detailed comparisons between the mammalian basal 
+ganglia and those found in phylogenetically ancient 
+vertebrates (eg, the lamprey) have found striking simi-
+larities in their individual components, internal organ-
+ization, inputs from external structures (the cortex/
+pallium and thalamus), and the efferent projections 
+of their output nuclei. For example, both direct and 
+Selective disinhibition
+Cortex
+Striatum
+Output
+nucleus
+indirect pathways from striatal medium spiny neurons 
+have been observed in the lamprey. Similarly, tonically 
+active GABAergic output neurons are present in the 
+lamprey internal globus pallidus and substantia nigra 
+pars reticulata. The neurotransmitters and membrane 
+properties of basal ganglia neurons are also remarkably 
+similar in evolutionarily ancient and modern species.
+This high degree of morphological and neuro-
+chemical conservation implies that the architecture and 
+operation of basal ganglia circuits have been retained 
+for more than 500 million years. The basal ganglia are 
+therefore an essential component of brain architecture 
+
+

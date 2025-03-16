@@ -1,0 +1,881 @@
+===== Page 1 =====
+716    Part V / Movement
+(increasing tension as the rate of stretch increases). 
+For small perturbations, these properties tend to act 
+to stabilize the length of a muscle and hence stabilize 
+the joint on which the muscle acts. For example, if an 
+external perturbation extends a joint, the flexor mus-
+cles will be stretched, increasing their tension, while 
+the extensor muscles will be shortened, reducing their 
+tension, and the imbalance in tension will tend to bring 
+the joint back toward its original position. A particular 
+advantage of such control is that, unlike higher levels 
+in the motor hierarchy, such changes in force act with 
+minimal delay as they are simply an effect of passive 
+physical properties of the muscles.
+In addition to the passive properties of muscles, 
+sensory inputs can cause motor output directly with-
+out the intervention of higher brain centers. Sensori-
+motor responses, such as spinal reflexes, control for 
+local disturbance or noxious stimuli. Reflexes are ste-
+reotyped responses to specific stimuli that are gener-
+ated by simple neural circuits in the spinal cord or 
+brain stem. For example, a spinal flexor withdrawal 
+reflex can remove your hand from a hot stove without 
+any descending input from the brain. The advantage 
+of such reflexes is that they are fast; the disadvantage 
+is they are less flexible than voluntary control systems 
+(Chapter 32). Again, there is a hierarchy of reflex cir-
+cuits. The fastest is the monosynaptic stretch reflex, 
+which drives contraction of a stretched muscle. In 
+this reflex circuit, sensory neurons that are activated 
+by stretch receptors in the muscle (the muscle spindle) 
+directly synapse onto motor neurons that cause the 
+same muscle to contract. The time from the stimu-
+lus to the response is around 25 ms. This reflex can 
+be tested clinically by striking the quadriceps muscle 
+tendon just below the patella.
+While this monosynaptic stretch reflex is not adapt-
+able on short timescales, multisynaptic reflexes, which 
+involve higher level structures such as motor cortex, 
+can produce responses at around 70 ms. Unlike the 
+monosynaptic reflex, multisynaptic reflexes are adapt-
+able to changes in behavioral goals because the circuit 
+connecting sensory and motor neurons can be modified 
+by task-dependent properties. The strength of a reflex 
+tends to increase with the tension in a muscle (called 
+gain-scaling), and therefore, reflexes can be amplified 
+by co-contracting the set of muscles around a joint so as 
+to respond to perturbations with a greater force. In fact, 
+we use such co-contraction when holding the hand of a 
+rebellious child when crossing a road. Such a strategy 
+can amplify the reflexes, thereby reducing deviations 
+of the arm caused by random external forces.
+Finally, voluntary movements are those that 
+are under conscious control by the brain. Voluntary 
+movements can be generated in the absence of a stim-
+ulus or used to compensate for a perturbation. The 
+time to generate a voluntary movement in response 
+to a physical perturbation depends both on the 
+nature of the perturbation (modality and size) as well 
+as whether the response can be specified before the 
+perturbation occurs. For example, a voluntary correc-
+tion to a small physical perturbation can occur with a 
+latency of about 110 ms.
+Although we have described clear distinctions 
+between the different levels of the motor hierarchy, 
+from reflexes through to voluntary control, in real-
+ity, such distinctions are blurred in a continuum of 
+responses spanning different latencies. Increasing 
+the response time permits additional neural circuitry 
+to be involved in the sensorimotor loop and tends 
+to increase the sophistication and adaptability of the 
+response, leading to a trade-off between the speed of 
+the response and the sophistication of processing as 
+one ascends the motor hierarchy.
+Motor Signals Are Subject to Feedforward  
+and Feedback Control
+In this section, we will first illustrate some principles of 
+control that are important for dealing with the problem 
+of sensory delays, sensory noise, and motor noise. For 
+simplicity, we confine our discussion to relatively sim-
+ple movements, such as moving the eyes in response 
+to head movements or moving the hand from one loca-
+tion to another. We consider two broad classes of con-
+trol, feedforward and feedback, which differ in their 
+reliance on sensory feedback during the movement.
+Feedforward Control Is Required for  
+Rapid Movements
+Some movements are executed without monitoring the 
+sensory feedback that arises from the action. In such 
+feedforward control situations, the motor command is 
+generated without regard to the sensory consequences. 
+Such commands are therefore also termed open-loop, 
+reflecting the fact that the sensorimotor loop is not 
+completed by sensory feedback (Figure 30–2A).
+Open-loop control requires some information 
+about the body so that the appropriate command can 
+be generated. For example, it should include informa-
+tion about the dynamics of the motor system. Here, 
+“dynamics” refers to the relation between the motor 
+command (or the torques or forces) applied and the 
+ensuing motion of the body, for example, joint rota-
+tions. For perfect open-loop control, one needs to 
+
+
+===== Page 2 =====
+Chapter 30 / Principles of Sensorimotor Control    717
+Figure 30–2  Feedforward and feedback 
+control.
+A. A feedforward control motor command 
+is based on a desired state. Any errors 
+that arise during the movement are not 
+monitored. Although we illustrate the ele-
+ments of feedforward control for the arm, 
+only the initial portion of any arm move-
+ment is driven by feedforward signals and 
+the movement typically involves feedback 
+control.
+B. With feedback control, the desired and 
+sensed states are compared (at the com-
+parator) to generate an error signal, which 
+helps shape the motor command. There 
+can be considerable delay in the feedback 
+of sensory information to the comparator.
+A  Feedforward control
+B  Feedback control
+Desired state
+Feedforward
+controller
+Actuator
+(muscle)
+Sensed state
+Motor 
+command
+Error
+Comparator
+Feedforward
+controller
+Input processing
+(ﬁltering, 
+ampliﬁcation)
+Sensor
+(muscle
+spindle)
+Actuator
+(muscle)
++
+–
+Motor 
+command
+Desired 
+state
+Desired 
+state
+invert the dynamics so as to calculate the motor com-
+mand that will generate the desired motion. The neu-
+ral mechanism that performs this inversion is called an 
+inverse model, a type of internal model (Box 30–1). An 
+inverse model coupled to open-loop control can deter-
+mine what motor commands are needed to produce 
+the particular movements necessary to achieve a goal.
+Although not monitoring the consequences of an 
+action may seem counterproductive, there are good 
+reasons for not doing so. The main reason, as discussed 
+earlier, is that there are delays in both sensing and act-
+ing. That is, the conversion of a stimulus into neural 
+signals by sensory receptors and conveyance of these 
+signals to central neurons take time. For example, 
+visual inputs can take around 60 ms to be processed 
+in the retina and transmitted to the visual cortex. In 
+addition to delays in afferent sensory systems, there 
+are also delays in central processing, in the transmis-
+sion of efferent signals to motor neurons, and in the 
+response of muscles. In all, the combined sensorimotor 
+loop delay is appreciable, approximately 120 to 150 ms 
+for a motor response to a visual stimulus. This delay 
+means that movements like saccades, which redi-
+rect gaze within 30 ms, cannot use sensory feedback 
+to guide movement. Even for slower movements like 
+reaching, which takes on the order of 500 ms, sensory 
+information cannot be used to guide the initial part of a 
+movement, so open-loop control must be used.
+Open-loop control also has disadvantages. Any 
+movement errors caused by inaccuracies in planning 
+or execution will not be corrected, and therefore will 
+compound themselves over time or successive move-
+ments. The more complex the system under control, 
+the more difficult it is to arrive at an accurate inverse 
+model through learning.
+An example of a purely open-loop control system 
+is the control of the eye in response to head rotation. 
+The vestibulo-ocular reflex (Chapter 27) uses open-
+loop control to fix gaze on an object during head rota-
+tion. The vestibular labyrinth senses the head rotation 
+and drives appropriate movements of the eyes through 
+a three-synapse circuit. The reflex does not require (or 
+use) vision during the movement (the eyes maintain 
+a stable gaze when the head is rotated in the dark). 
+Sensory information from the vestibular system does 
+drive the eye movement, but the control is feedfor-
+ward (any errors that arise are not corrected during the 
+movement). Such precise open-loop control is possible 
+because the dynamic properties of the eye are relatively 
+simple, the rotation of the head can be directly sensed 
+by the vestibular labyrinth, and the eye tends not to be 
+substantially perturbed by external events. In contrast, 
+it is very difficult to optimize an inverse model for a 
+complex musculoskeletal system such as the arm, and 
+thus, the control of arm movement requires some form 
+of error correction.
+
+
+===== Page 3 =====
+Figure 30–3  Internal sensorimotor models represent 
+relationships of the body and external world. The 
+inverse model determines the motor commands that will 
+produce a behavioral goal, such as raising the arm while 
+holding a ball. A descending motor command acts on the 
+musculoskeletal system to produce the movement. A 
+copy of the motor command is passed to a forward model 
+that simulates the interaction of the motor system and the 
+world and thus can predict behaviors. If both forward and 
+inverse models are accurate, the output of the forward 
+model (the predicted behavior) will be the same as the 
+input to the inverse model (the desired behavior).
+The utility of numerical models in the physical sci-
+ences has a long history. Numerical models are abstract 
+quantitative representations of complex physical sys-
+tems. Some start with equations and parameters that 
+represent initial conditions and run forward, either in 
+time or space, to generate physical variables at some 
+future state. For example, we can construct a model of 
+the weather that predicts wind speed and temperature  
+2 weeks from now.
+Other models start with a state, a set of physical 
+variables with specific values, and run in the inverse 
+direction to determine what parameters in the system 
+account for that state. When we fit a straight line to a 
+set of data points, we are constructing an inverse model 
+that estimates slope and intercept based on the equa-
+tions of the system being linear. An inverse model thus 
+may allow us to know how to set the parameters of the 
+system to obtain desired outcomes.
+Over the past 50 years, the idea that the nervous sys-
+tem has similar predictive models of the physical world 
+to guide behavior has become a major issue in neuro-
+science. Such a model is termed “internal” because it is 
+instantiated in neural circuits and is therefore inter-
+nal to the central nervous system. The idea originated 
+in Kenneth Craik’s notion of internal models for cogni-
+tive function. In his 1943 book The Nature of Explanation, 
+Craik was perhaps the first to suggest that organisms 
+make use of internal representations of the external 
+world:
+If the organism carries a “small-scale model” of external reality 
+and of its own possible actions within its head, it is able to try 
+out various alternatives, conclude which is the best of them, 
+react to future situations before they arise, use the knowledge 
+of past events in dealing with the present and future, and in 
+every way to react in a much fuller, safer, and more competent 
+manner to the emergencies that face it.
+In this view, an internal model allows an organism 
+to contemplate the consequences of potential actions 
+without actually committing itself to those actions. In 
+the context of sensorimotor control, internal models can 
+answer two fundamental questions. First, how can we 
+generate motor commands that act on our muscles so as 
+to control the behavior of our body? Second, how can we 
+predict the consequences of our own motor commands?
+The central nervous system must exercise both 
+control and prediction to achieve skilled motor perfor-
+mance. Prediction and control are two sides of the same 
+coin, and the two processes map exactly onto forward 
+and inverse models (Figure 30–3). Prediction turns 
+motor commands into expected sensory consequences, 
+whereas control turns desired sensory consequences 
+into motor commands.
+Box 30–1  Internal Models
+Desired
+behavior
+Forward model
+Predicted 
+behavior
+Actual behavior 
+Efference copy
+Motor 
+command
+Inverse model
+
+
+===== Page 4 =====
+Chapter 30 / Principles of Sensorimotor Control    719
+Feedback Control Uses Sensory Signals to  
+Correct Movements
+To correct movement errors as they arise, movement must 
+be monitored. Systems that perform error correction are 
+known as feedback or closed-loop control because the 
+sensorimotor loop is complete (Figure 30–2B).
+The simplest form of feedback control is one in 
+which the control system generates a fixed response 
+when the error exceeds some threshold. Such a sys-
+tem is seen in most central heating systems in which 
+a thermostat is set to a desired temperature. When the 
+house temperature falls below the specified level, the 
+heating is turned on until the temperature reaches that 
+level. Although such a system is simple and can be 
+effective, it has the drawback that the amount of heat 
+being put into the house does not relate to the discrep-
+ancy between the actual and desired temperature (the 
+error). A better system is one in which the control sig-
+nal is proportional to the error.
+Such proportional control of movement involves 
+sensing the error between the actual and desired posi-
+tion of, for example, the hand. The size of the correc-
+tive motor command is in proportion to the size of the 
+error and in a direction to reduce the error. The amount 
+by which the corrective motor command is increased 
+or decreased per unit of positional error is called the 
+gain. By continuously correcting a movement, feed-
+back control can be robust both to noise in the sensori-
+motor system and to environmental perturbations.
+While feedback control can update commands 
+in response to deviations that arise during the move-
+ment, it is sensitive to feedback delays. Without any 
+delay, as the gain of the feedback controller increases, 
+the system will track a desired position with increas-
+ing fidelity (Figure 30–4). However, as feedback delay 
+increases, the control system may start to oscillate and 
+eventually become unstable. This is because with a 
+delay the system may respond to errors that no longer 
+exist and may therefore even correct in the wrong 
+direction.
+Smooth pursuit eye movement, used to track a 
+moving object, is an example of a movement driven 
+primarily by feedback. Smooth pursuit uses feedback 
+to minimize the velocity error on the retina (the dif-
+ference between the gaze and target velocity). We can 
+compare the efficiency of feedforward and feedback 
+control in minimizing error. Compare how easy it is 
+to fixate on your outstretched stationary finger when 
+quickly rotating your head back and forth versus try-
+ing to track your finger when it is moving it rapidly 
+sinusoidally left and right while your head remains 
+stationary. Although the relative motion of finger to 
+head is the same in both conditions, the former is pre-
+cise because it uses the vestibulo-ocular reflex, whereas 
+the latter uses feedback (requiring an error in velocity 
+to drive the eye movement) and thus is less precise, 
+particularly as the frequency of motion increases.
+In most motor systems, movement control is 
+achieved through a combination of feedforward and 
+feedback processes. We will see later that these two 
+components arise naturally in a unified model of 
+movement production.
+Estimation of the Body’s Current State Relies on 
+Sensory and Motor Signals
+Accurate control of movement requires information 
+about our body’s current state, for example, the posi-
+tions and velocities of the different segments of the 
+body. To grasp an object, we need to know not only the 
+location, shape, and surface properties of the object but 
+also the current configuration of our arm and fingers 
+so as to appropriately shape and position the hand.
+Estimating the state of the body is not a trivial 
+problem. First, as we have seen, sensory signals are 
+delayed due to sensory transduction and conduction 
+time. Therefore, signals from our muscles, joints, and 
+vision are all out of date by the time they reach the 
+central nervous system. Second, the sensory signals 
+we receive are often imprecise and corrupted by neu-
+ral noise. For example, if you touch the underside of a 
+table with the finger of one hand and try to estimate its 
+location on the top of the table with your other hand, 
+you can be off by a considerable distance. Third, we often 
+do not have sensors that directly communicate rele-
+vant information. For example, although we have sen-
+sors that report muscle length and joint angle, we have 
+no sensors within the limb that directly determine the 
+location of the hand in space. Therefore, sophisticated 
+computation is required to estimate current body 
+states as accurately as possible. Several principles have 
+emerged as to how the brain estimates state.
+First, state estimation relies on internal models of 
+sensorimotor transformations. Given the fixed lengths 
+of our limb segments, there is a mathematical relation 
+between the muscle lengths or joint angles of the arm 
+and the location of the hand in space. A neural rep-
+resentation of this relation allows the central nervous 
+system to estimate hand position if it knows the joint 
+angles and segment lengths. Neural circuits that com-
+pute such sensorimotor transformations are examples 
+of internal models (Box 30–1).
+Second, state estimation can be improved by 
+combining multiple sensory modalities. For example, 
+information about the state of our limbs arrives from 
+
+
+===== Page 5 =====
+720    Part V / Movement
+Figure 30–4  The interplay of gain and delay in feedback 
+control. Performance of a feedback controller trying to track a 
+target moving sinusoidally in one dimension. The sensory feed-
+back signal that conveys error in the position arrives after some 
+period of time (the delay), and the motor system tries to correct 
+for the error by increasing or decreasing the size of its com-
+mand relative to the error (the gain).
+   The plots show the performance in which there is either 
+instantaneous feedback (no delay) of error (left column) or 
+feedback with delay of 80 or 100 ms (middle and right col-
+umns). When the gain is high and the delay is low, tracking is 
+very good. However, when the delay increases, because the 
+controller is compensating for errors that existed 80 or  
+100 ms earlier, the correction may be inappropriate for the cur-
+rent error. The gain can be lowered to maintain stability, but 
+as the feedback controller corrects errors only slowly, tracking 
+becomes inaccurate.
+  At low gain (bottom row), the feedback controller corrects 
+errors only slowly and tracking is inaccurate. As the gain 
+increases (middle row), the feedback controller corrects 
+errors more rapidly and tracking performance improves. At 
+high gain (top row), the system corrects rapidly but is prone 
+to overcorrect, leading to instability when the time delay in 
+feedback is on the order of physiological time delays (top 
+right). Because the controller is compensating for errors 
+that existed 100 ms earlier, the correction may therefore be 
+inappropriate for the current error. This overcorrection leads 
+to oscillations and is one mechanism proposed to account 
+for some forms of oscillatory tremor seen in neurological 
+disease.
+0
+0.5
+1
+1.5
+2
+–4
+–2
+0
+2
+–4
+–2
+0
+2
+–4
+–2
+0
+2
+4
+0
+0.5
+1
+1.5
+2
+0
+0.5
+1
+1.5
+2
+High
+gain
+Medium
+gain
+Low
+gain
+Delay = 0 ms
+Time (s)
+Position
+Delay = 80 ms
+Increasing delay
+Increasing
+gain
+Delay = 100 ms
+Target
+Hand
+proprioceptive information from muscle spindles, 
+the stretch of the skin, and the sight of the arm. These 
+modalities have different amounts of variability (or 
+noise) associated with them, and just as we average a 
+set of experimental data to reduce measurement error, 
+these sensory modalities can be combined to reduce 
+the overall uncertainty in the state estimate.
+The optimal way to combine these sources is for 
+higher brain centers to take the uncertainty of each 
+modality into account and rely on the more certain 
+modalities. For example, the location of the hand can 
+be sensed both by proprioception and vision. The sight 
+of your hand in front of you tends to be more reliable 
+than proprioception for estimating location along the 
+azimuth (right–left) but less reliable for depth (forward–
+back). Therefore, visual input should be given greater 
+weight than proprioceptive input when estimating 
+the azimuth location of your hand, and vice versa for 
+depth. By measuring the precision of each modality 
+when used alone, it is possible to predict the increased 
+
+
+===== Page 6 =====
+Chapter 30 / Principles of Sensorimotor Control    721
+precision when both are used at the same time. Experi-
+ments have shown that this process is often close to 
+optimal. Precision can also be improved by combining 
+prior knowledge with sensory inputs using the math-
+ematics of Bayesian inference (Box 30–2).
+Third, the motor command can also provide valu-
+able information. If both the current state of the body 
+and the descending motor command are known, the 
+next state of the body can be estimated. This estimate 
+can be derived from an internal model that represents 
+the causal relation between actions and their con-
+sequences. This is called a forward model because it 
+estimates future sensory inputs based on motor out-
+puts (Box 30–1). Thus, a forward model can be used to 
+anticipate how the motor system’s state will change as 
+the result of a motor command. A copy of a descend-
+ing motor command is passed into a forward model 
+that acts as a neural simulator of the musculoskeletal 
+system moving in the environment. This copy of the 
+motor command is known as an efference copy (or cor-
+ollary discharge). Forward and inverse models can be 
+better understood if we place the two in series. If the 
+structure and parameter values of each model are cor-
+rect, the output of the forward model (the predicted 
+behavior) will be the same as the input to the inverse 
+model (the desired behavior) (Figure 30–3).
+Using the motor command to estimate the state 
+of the body is advantageous as, unlike sensory infor-
+mation that is delayed, the motor command is avail-
+able before it acts on the musculoskeletal system and 
+therefore can be used to anticipate changes in the state. 
+However, this estimate will tend to drift over time if 
+the forward model is not perfectly accurate, and there-
+fore, sensory feedback is used to correct the state esti-
+mate, albeit with a delay.
+It may seem surprising that the motor command is 
+used in state estimation. In fact, the first demonstration 
+of a forward model used a motor system that relies on 
+only the motor command to estimate state, that is, the 
+position of the eye within the orbit. The concept of 
+motor prediction was first considered by Helmholtz 
+when trying to understand how we localize visual 
+objects. To calculate the location of an object relative to 
+the head, the central nervous system must know both 
+the retinal location of the object and the gaze direction 
+of the eye. Helmholtz’s ingenious suggestion was that 
+the brain, rather than sensing the gaze direction, pre-
+dicted it based on a copy of the motor command to the 
+eye muscles.
+Helmholtz used a simple experiment on himself to 
+demonstrate this. If you move your own eye without 
+using the eye muscles (cover one eye and gently press 
+with your finger on your open eye through the eyelid), 
+the retinal locations of visual objects change. Because 
+the motor command to the eye muscles is required to 
+update the estimate of the eye’s state, the predicted eye 
+position is not updated. However, because the retinal 
+image has changed, this leads to the false percept that 
+the world must have moved. A more dramatic exam-
+ple is that if the eye muscles are temporarily para-
+lyzed with curare, then trying to move the eyes leads 
+to a percept that the world is moving. This is because 
+Bayesian inference is a mathematical framework for 
+making estimates about the world based on uncertain 
+information. The fundamental idea is that probabilities 
+(between 0 and 1) can be used to represent the degree of 
+belief in different alternatives, such as the belief that the 
+chance of your rolling a six with fair dice is 1 in 6.
+The beauty of Bayesian inference is that by using 
+the rules of probability we can specify how beliefs 
+should be formed and updated based on our experience 
+and new information from sensory input. For example, 
+when playing tennis, we want to estimate where the ball 
+will land. Because vision does not provide perfect infor-
+mation about the ball’s position and velocity in flight, 
+there is uncertainty as to the landing location. However, 
+if we know the level of noise in our sensory system, then 
+the current sensory input can be used to compute the 
+likelihood (ie, probability) of the particular sensory input 
+for different potential landing locations.
+We can learn additional information from repeated 
+experience of the game: The position where the ball 
+lands is not equally probable over the court. For exam-
+ple, bounce locations are likely to be concentrated near 
+the boundary lines where it is most difficult to return the 
+ball. This distribution is termed the prior.
+The Bayes rule defines how to combine the prior 
+and likelihood to make an optimal estimate of the bounce 
+location. While the Bayesian approach was originally 
+developed in statistics, it now provides a unifying frame-
+work to understand how the brain deals with uncertainty 
+in the perceptual, motor, and cognitive domains.
+Box 30–2  Bayesian Inference
+
+
+===== Page 7 =====
+722    Part V / Movement
+the command leads to a state estimate that the eye 
+has moved, but with a fixed retinal input (due to the 
+paralysis), the only consistent interpretation is that the 
+world has moved.
+Finally, the best estimate of state is achieved by 
+combining sensory modalities with motor commands. 
+The drawbacks of using only sensory feedback or only 
+motor prediction can be ameliorated by monitoring 
+both and using a forward model to estimate the current 
+state. A neural apparatus that does this is known as 
+an observer model. The major objectives of the observer 
+model are to compensate for sensorimotor delays and 
+Figure 30–5  An observer model.  The model is being used 
+to estimate the finger’s location during movement of the arm. 
+A previous estimate of the distribution of possible finger posi-
+tions (1, blue cloud) is updated (2, yellow cloud) using an 
+efference copy of the motor command and a forward model 
+of the dynamics. The updated distribution of finger positions 
+is larger than that of the previous estimate. The model then 
+uses a forward sensory model to predict the sensory feedback 
+that would occur for these new finger positions, and the error 
+between the predicted and actual sensory feedback is used to 
+correct the estimate of current finger position. This correction 
+changes the sensory error into state errors and also deter-
+mines the relative reliance on the efference copy and sensory 
+feedback.
+   The final estimate of current finger position (3, purple 
+cloud) has less uncertainty. This estimate will become the 
+new previous estimate for subsequent movement as this 
+sequence is repeated many times. Delays in sensory feed-
+back that must be compensated have been omitted from the 
+diagram for clarity.
+Forward
+dynamic
+model
+Forward
+sensory
+model
+Gain
+Predicted
+sensory
+feedback
+Sensory-based
+correction
+Motor command
+efference copy
+Cloud of
+uncertainty
+Sensory
+feedback
+2  Predicted current state
+3  Final state estimate
+1  Previous state estimate
++
++
++
+–
+to reduce uncertainty in the estimate of current state 
+arising from noise in both the sensory and motor sig-
+nals (Figure 30–5). Such a model has been supported by 
+empirical studies of how the nervous system estimates 
+hand position, posture, and head orientation. We will 
+see how such models are used to decode neural signals 
+in brain–machine interfaces (Chapter 39).
+State estimation is not a passive process. Skilled 
+performance requires the effective and efficient gather-
+ing and processing of sensory information relevant to 
+an action. The quality of sensory information depends 
+on our actions because what we see, hear, and touch is 
+
+
+===== Page 8 =====
+Chapter 30 / Principles of Sensorimotor Control    723
+influenced by our movements. For example, the ocular 
+motor system controls the eyes’ sensory input by ori-
+enting the fovea to points of interest within the visual 
+scene. Thus, movement can be used to efficiently gather 
+information, a process termed active sensing. Active 
+sensing involves two main processes: perception, by 
+which we process sensory information and make infer-
+ences about the world, and action, by which we choose 
+how to sample the world to obtain useful sensory 
+information. Eye movements can betray the difference 
+between skilled and amateur performers. For example, 
+a batsman in the game of cricket will make a predictive 
+saccade to the place where he expects a bowled ball to 
+hit the ground, wait for it to bounce, and use a pursuit 
+eye movement to follow the ball’s trajectory after the 
+bounce. A shorter latency for this first saccade distin-
+guishes expert from amateur batsmen. Therefore, the 
+motor system can also be used to improve our sensing 
+of the world so as to gather information that, in turn, 
+helps us achieve our motor goals.
+Prediction Can Compensate for  
+Sensorimotor Delays
+As we have seen, delays in feedback can lead to prob-
+lems during a movement, as the delayed informa-
+tion does not reflect the present state of the body and 
+world. Two strategies, intermittency and prediction, 
+can compensate for such delays and thus increase 
+accuracy of information during movement. With inter-
+mittency, movement is momentarily interrupted by 
+rest, as in eye saccades and manual tracking. Provided 
+the interval of rest is greater than the time delay of the 
+sensorimotor loop, intermittency fosters more accurate 
+sensory feedback. Prediction is a better strategy and, as 
+we have seen, can form a major component of a state 
+estimator.
+The nervous system uses different modes of con-
+trol that depend on prediction and sensory feedback 
+to different extents. These modes are nicely illustrated 
+by differences in object manipulation under different 
+conditions. When an object’s behavior is unpredictable, 
+sensory feedback provides the most useful signal for 
+estimating load. For example, when flying a kite, we 
+need to adjust our grip almost continuously in response 
+to unpredictable wind currents. When dealing with 
+such unpredictability, grip force needs to be high to pre-
+vent slippage because adjustments to grip tend to lag 
+behind changes in load force (Figure 30–6A).
+However, when handling objects with stable proper-
+ties, predictive control mechanisms can be effective. For 
+example, when the load is increased by a self-generated 
+action, such as moving the arm, the grip force increases 
+instantaneously with load force (Figure 30–6B). Sensory 
+detection of the load would be too slow to account for 
+this rapid increase in grip force.
+Such predictive control is essential for the rapid 
+movements commonly observed in dexterous behav-
+ior. Indeed, this predictive ability can be demonstrated 
+easily with the “waiter task.” Hold a weighty book on 
+the palm of your hand with an outstretched arm. If 
+you then use your other hand to remove the book (like 
+a waiter removing objects from a tray), the support-
+ing hand remains stationary. This shows our ability to 
+anticipate a change in load caused by our own action 
+and thus generate an appropriate and exquisitely timed 
+change in muscle activity. In contrast, if someone else 
+removes the book from your hand, even though you 
+are watching the removal, it is close to impossible to 
+maintain the hand stationary. We will see how cerebel-
+lar lesions affect this ability to predict, leading to a lack 
+of such a coordinated response (Chapter 37).
+Detecting any discrepancies between predicted 
+and actual sensory feedback is also essential in motor 
+control. This discrepancy, termed sensory prediction 
+error, can drive learning of internal models and also 
+be used for control. For example, when we pick up 
+an object, we anticipate when the object will lift off 
+the surface. The brain is particularly sensitive to the 
+occurrence of unexpected events or the nonoccurrence 
+of expected events (ie, to sensory prediction errors). 
+Thus, if an object is lighter or heavier than expected 
+and therefore lifts off too early or cannot be lifted, reac-
+tive responses are initiated.
+In addition to its use in compensating for delays, 
+prediction is a key element in sensory processing. 
+Sensory feedback can arise as a consequence of both 
+external events and our own movements. In the 
+sensory receptors, these two sources are not distin-
+guishable, as sensory signals do not carry a label of 
+“external stimulus” or “internal stimulus.” Sensitiv-
+ity to external events can be amplified by reducing 
+the feedback from our own movement. Thus, sub-
+tracting predictions of sensory signals that arise from 
+our own movements from the total sensory feedback 
+enhances the signals that carry information about 
+external events. Such a mechanism is responsible 
+for the fact that self-tickling is a less intense experi-
+ence than tickling by another. When subjects were asked 
+to tickle themselves using a robotic interface, but a 
+time delay was introduced between the motor com-
+mand and the resulting tactile input, the ticklishness 
+increased. With such delayed tactile input, the predic-
+tions become inaccurate and thus fails to cancel the 
+sensory feedback, resulting in the increased tickle 
+sensation. Such predictive modulation of sensory 
+
+
+===== Page 9 =====
+724    Part V / Movement
+Figure 30–6  Anticipatory control of self-generated 
+actions.  (Adapted, with permission, from Blakemore,  
+Goodbody, and Wolpert 1998. Copyright © 1998 Society for 
+Neuroscience.
+A. When a subject is instructed to hold an object to which a 
+sinusoidal load force is mechanically applied, the grip force 
+of the fingers is high to prevent slippage, and the grip force 
+modulation lags behind the changes in load force. This is high-
+lighted for a portion of the load force modulation (dark red 
+solid line) that  leads to a corresponding grip force (dark red 
+dashed line), which is delayed. (Trial duration 4 s).
+B. When a subject generates a similar load profile by pulling down 
+on the fixed object, the load force can be anticipated, and thus, 
+the grip force is lower and also tracks the load force without delay.
+Force (N)
+0
+5
+10
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+Force (N)
+0
+5
+10
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+Grip
+force 
+Load
+force 
+Hand
+moves
+A  Robot controls movement
+B  Hand controls movement
+Load 
+force
+Grip force
+lags
+Grip and load
+forces aligned
+Grip force
+Load 
+force
+Robot
+arm moves
+Grip force
+signals by motor actions is a fundamental property of 
+many sensory systems.
+Sensory Processing Can Differ for Action  
+and Perception
+A growing body of research supports the idea that the 
+sensory information used to control actions is pro-
+cessed in neural pathways that are distinct from the 
+afferent pathways that contribute to perception. It has 
+been proposed that visual information flows in two 
+streams in the brain (Chapter 25). A dorsal stream that 
+projects to the posterior parietal cortex is particularly 
+involved in the use of vision for action (Chapter 34), 
+while a ventral stream that projects to the inferotem-
+poral cortex is involved in conscious visual perception.
+This distinction between the uses of vision for action 
+and perception is based on a double dissociation seen in 
+patient studies. For example, the patient D.F. developed 
+visual agnosia after damage to her ventral stream. She 
+is unable, for example, to indicate the orientation of a 
+slot either verbally or with her hand. However, when 
+asked to perform a simple action, such as putting a card 
+through the slot, she has no difficulty orienting her 
+hand appropriately to put the card through the slot 
+(Chapter 59). Conversely, patients with damage to the 
+dorsal stream can develop optic ataxia in which percep-
+tion is intact but control is affected.
+Although the distinction between perception and 
+action arose from clinical observations, it can also be 
+seen in normal people, as in the size–weight illusion. 
+When lifting two objects of different size but equal 
+weight, people report that the smaller object feels 
+heavier. This illusion, first documented more than  
+100 years ago, is both powerful and robust. It does not 
+lessen when a person is informed that the objects are of 
+equal weight and does not weaken with repeated lifting.
+When subjects begin to lift large and small objects 
+that weigh the same, they generate larger grip and load 
+forces for the larger object because they assume that 
+larger objects are heavier. After alternating between 
+the two objects, they rapidly learn to scale their finger-
+tip forces precisely for the true object weight (Figure 
+30–7). This shows that the sensorimotor system recog-
+nizes that the two weights are equal. Nevertheless, the 
+size–weight illusion persists, suggesting not only that 
+
+

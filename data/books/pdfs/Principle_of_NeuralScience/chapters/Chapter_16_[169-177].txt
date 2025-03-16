@@ -1,0 +1,400 @@
+===== Page 1 =====
+124    Part I / Overall Perspective
+A  Regions involved in episodic memory
+B  Multiple functions of the hippocampus
+Hippocampus
+Overlap
+0%
+100%
+Hippocampus
+Precuneus
+Medial
+prefrontal
+cortex
+Inferior
+frontal
+gyrus
+Angular
+gyrus
+Attention
+Perception
+Place
+Events
+Associations
+Reward
+Learning
+Memory
+Figure 6–3  Challenges of mapping mind and brain. Any 
+interpretation of data from fMRI must consider the complex-
+ity of the relationship between cognitive functions and brain 
+regions. This complexity is illustrated here with a meta-analysis 
+from a database containing more than 14,000 published fMRI 
+studies. (Data retrieved in 2019 from http://neurosynth.org, 
+displayed on brain from Edlow et al. 2019; figure updated and 
+adapted from Shohamy and Turk-Browne 2013 by Tristan Yates.)
+A. This map shows that multiple brain regions are engaged by 
+episodic memory—that is, encoding and retrieval of specific 
+events from one’s past. Colored voxels indicate a high probabil-
+ity of the term “episodic” in studies that reported activation in 
+these voxels (reverse inference). This example illustrates how a 
+single cognitive function can be associated with multiple brain 
+regions (one-to-many mapping).
+B. These maps show that multiple cognitive functions engage 
+the hippocampus (circled in white in each hemisphere). Colored 
+voxels in each inset brain indicate a high probability that these 
+voxels were activated in studies that examined the corre-
+sponding term (forward inference). The overlap map shows 
+the percentage of these terms that activated each voxel. This 
+example illustrates how a single brain region can be associated 
+with multiple cognitive functions and behaviors (many-to-one 
+mapping).
+
+
+===== Page 2 =====
+Chapter 6 / Imaging and Behavior    125
+The ability to image the human brain with noninvasive 
+tools and to measure internal mental processes has led 
+to interest in applying fMRI to a variety of real-world 
+problems, such as clinical diagnosis and treatment, law 
+and justice, artificial intelligence, marketing and eco-
+nomics, and politics.
+In the clinical realm, one interesting direction is the 
+use of fMRI to examine patients in a vegetative state. 
+Studies suggest that some such patients exhibit brain 
+activity that reflects mental processing. For example, 
+a patient might appear comatose—unconscious, non-
+communicative, and unreactive to external stimuli—yet 
+exhibit neural activity in the motor cortex when asked to 
+think of an action or in category-specific visual regions 
+when asked to imagine specific visual cues. Such find-
+ings could influence the prognosis and treatment of 
+patients by clinicians.
+Another potential real-world application of fMRI 
+is lie detection. The ability to accurately distinguish 
+truth from lies based on brain activity could have sig-
+nificant value in the courtroom. Some laboratory studies 
+have reported differential brain activity when groups 
+of subjects are instructed to lie repeatedly. To be useful, 
+however, fMRI would need to provide highly reliable 
+evidence about whether an individual person is lying 
+about a specific event, in a way that is immune from 
+strategies or countermeasures. This is not possible at 
+present, and indeed, fMRI evidence is generally inad-
+missible in court.
+These and other applications of fMRI raise ethical 
+and privacy concerns. For example, authorities could 
+use fMRI data to justify consequential decisions (eg, guilt 
+or innocence), exploiting the public’s bias to believe bio-
+logical explanations, even when the underlying science 
+is not settled. More troubling, humans currently have 
+autonomy over whether we share our internal thoughts 
+and feelings, but devices that sense this information 
+could change that. As a result, an important challenge 
+for neuroscientists when considering practical appli-
+cations is to accurately convey that fMRI is powerful 
+but has limitations and that our understanding of the 
+human brain is a work in progress.
+Box 6–2  Brain Imaging in the Real World
+astrocytes and other glia, neuromodulatory systems, 
+and the vascular system. A better understanding of 
+the relationship between BOLD activity and these pro-
+cesses is essential for knowing when and why measure-
+ments of different types align and diverge. Although 
+some experimental conditions lead to an increase in 
+both neuronal activity and BOLD activity, others do 
+not. For example, although the presentation of a visual 
+cue increases both blood flow in the visual cortex and 
+neuronal firing, if this visual cue is highly expected but 
+not presented, blood flow can still increase but with-
+out an increase in neuronal activity. This suggests that 
+there are important nuances to the coupling of neural 
+and vascular activity that may have functional signifi-
+cance and that the vascular signals themselves may be 
+more complex than previously appreciated.
+As the history of fMRI shows, scientific discover-
+ies in one field can lead to unexpected breakthroughs 
+in other fields. The discovery of MRI in the 1970s 
+(which 20 years later led to fMRI) came from physics 
+and chemistry, and was so profound and far-reaching 
+that it was recognized by the Nobel Prize in Physiol-
+ogy or Medicine in 2003 to Paul Lauterbur and Peter 
+Mansfield. This in turn was made possible by the dis-
+covery of nuclear magnetic resonance decades earlier, 
+which resulted in the Nobel Prize in Physics in 1944 
+to Isidor Rabi and in 1952 to Felix Bloch and Edward 
+Purcell. These discoveries had no initial connection 
+to neuroscience but came to spark a revolution in the 
+study of mind, brain, and behavior.
+Highlights
+1.	 Functional brain imaging methods in cognitive 
+neuroscience seek to record activity in the human 
+brain associated with mental processes as they 
+unfold in the human mind, linking biological and 
+behavioral measures. Currently, the dominant 
+technique is fMRI.
+2.	 fMRI is based on two main concepts: the physics 
+of magnetic resonance and the biology of neuro-
+vascular coupling. Combined, they allow fMRI to 
+measure the BOLD response to neuronal activity. 
+When human subjects perform cognitive tasks 
+during fMRI, measurements of BOLD activity 
+can be linked to particular mental processes and 
+behaviors over time.
+3.	 The link between BOLD activity and behavior is 
+inferred through a series of preprocessing steps 
+and statistical analyses. These analyses can answer 
+
+
+===== Page 3 =====
+126    Part I / Overall Perspective
+a range of questions, such as which brain regions 
+are active during specific tasks, what information 
+is coded in the spatial pattern of activity within a 
+region, and how regions interact with each other 
+over time as part of a network.
+4.	 Human brain imaging has led to fundamental 
+insights about the neural mechanisms of behavior 
+across many domains. Some prominent examples 
+are understanding how the human brain processes 
+faces, how memories are stored and retrieved, and 
+how we learn from trial and error. Across these 
+domains, data from fMRI have converged with 
+findings from neuronal recordings in animals and 
+with theoretical predictions from computational 
+models, providing a more complete picture of the 
+relationship between brain and mind.
+5.	 fMRI records brain activity but does not directly 
+modify activity. Therefore, it does not support 
+inferences about whether a brain region is neces-
+sary for a behavior, but rather whether the region 
+is involved in that behavior. Most studies sup-
+port forward inferences about this involvement, 
+whereby activity in the brain can be linked to a 
+mental process because the experiment manipu-
+lates that process.
+6.	 fMRI provides an opportunity to study the func-
+tion of the human brain as it engages in a variety 
+of mental processes, in both health and disease. 
+This technology and analyses of the data it gen-
+erates are undergoing continual development to 
+improve the temporal and spatial resolution of 
+biological measurements and to clarify the links 
+between these measurements, mental processes, 
+and behavior.
+Daphna Shohamy 
+Nick Turk-Browne 
+Suggested Reading
+Bandettini PA. 2012. Twenty years of functional MRI: the 
+science and the stories. NeuroImage 62:575–588.
+Bullmore E, Sporns O. 2009. Complex brain networks: graph 
+theoretical analysis of structural and functional systems. 
+Nat Rev Neurosci 10:186–198.
+Cohen JD, Daw N, Engelhardt B, et al. 2017. Computational 
+approaches to fMRI analysis. Nat Neurosci 20:304–313.
+Daw ND, Doya K. 2006. The computational neurobiology of 
+learning and reward. Curr Opin Neurobiol 16:199–204.
+Kanwisher N. 2010. Functional specificity in the human 
+brain: a window into the functional architecture of the 
+mind. Proc Natl Acad Sci U S A 107:11163–11170.
+Poldrack RA, Mumford JA, Nichols TE. 2011. Handbook of Func-
+tional MRI Data Analysis. Cambridge: Cambridge Univ. Press.
+Shohamy D, Turk-Browne NB. 2013. Mechanisms for wide-
+spread hippocampal involvement in cognition. J Exp 
+Psychol Gen 142:1159–1170.
+References
+Aly M, Ranganath C, Yonelinas AP. 2013. Detecting changes 
+in scenes: the hippocampus is critical for strength-based 
+perception. Neuron 78:1127–1137.
+Aly M, Turk-Browne NB. 2016. Attention stabilizes repre-
+sentations in the human hippocampus. Cereb Cortex 
+26:783–796.
+Brewer JB, Zhao Z, Desmond JE, Glover GH, Gabrieli JD. 
+1998. Making memories: brain activity that predicts 
+how well visual experience will be remembered. Science 
+281:1185–1187.
+Dricot L, Sorger B, Schiltz C, Goebel R, Rossion B. 2008. The 
+roles of “face” and “non-face” areas during individual 
+face perception: evidence by fMRI adaptation in a brain-
+damaged prosopagnosic patient. NeuroImage 40:318–332.
+Edlow BL, Mareyam A, Horn A, et al. 2019. 7 Tesla MRI of the ex 
+vivo human brain at 100 micron resolution. Sci Data 30:244.
+Farah MJ, Hutchinson JB, Phelps EA, Wagner AD. 2014. 
+Functional MRI-based lie detection: scientific and societal 
+challenges. Nat Rev Neurosci 15:123–131.
+Foerde K, Shohamy D. 2011. Feedback timing modu-
+lates brain systems for learning in humans. J Neurosci 
+31:13157–13167.
+Fox MD, Raichle ME. 2007. Spontaneous fluctuations in 
+brain activity observed with functional magnetic reso-
+nance imaging. Nat Rev Neurosci 8:700–711.
+Friston KJ, Holmes AP, Worsley KJ, Poline JP, Frith CD, 
+Frackowiak, RS. 1994. Statistical parametric maps in func-
+tional imaging: a general linear approach. Hum Brain 
+Mapp 2:189–210.
+Grill-Spector K, Henson R, Martin A. 2006. Repetition and 
+the brain: neural models of stimulus-specific effects. 
+Trends Cogn Sci 10:14–23.
+Hannula DE, Ranganath C. 2009. The eyes have it: hip-
+pocampal activity predicts expression of memory in eye 
+movements. Neuron 63:592–599.
+Huettel SA, Song AW, McCarthy G. 2014. Functional Magnetic 
+Resonance Imaging. Sunderland, Massachusetts: Sinauer 
+Associates, Inc.
+Kanwisher N, McDermott J, Chun MM. 1997. The fusiform 
+face area: a module in human extrastriate cortex special-
+ized for face perception. J Neurosci 17:4302–4311.
+Kim H. 2011. Neural activity that predicts subsequent mem-
+ory and forgetting: a meta-analysis of 74 fMRI studies. 
+NeuroImage 54:2446–2461.
+Kriegeskorte N, Mur M, Bandettini P. 2008. Representational 
+similarity analysis—connecting the branches of systems 
+neuroscience. Front Syst Neurosci 2:4.
+
+
+===== Page 4 =====
+Chapter 6 / Imaging and Behavior    127
+McCarthy G, Puce A, Gore JC, Allison T. 1997. Face-specific 
+processing in the human fusiform gyrus. J Cog Neurosci 
+9:605–610.
+Moeller S, Freiwald WA, Tsao DY. 2008. Patches with links: a 
+unified system for processing faces in the macaque tem-
+poral lobe. Science 320:1355–1359.
+Norman KA, Polyn SM, Detre GJ, Haxby JV. 2006. Beyond 
+mind-reading: multi-voxel pattern analysis of fMRI data. 
+Trends Cogn Sci 10:424–430.
+O’Doherty JP, Hampton A, Kim H. 2007. Model-based fMRI 
+and its application to reward learning and decision mak-
+ing. Ann NY Acad Sci 1104:35–53.
+Owen AM, Coleman MR, Boly M, Davis MH, Laureys S, 
+Pickard JD. 2006. Detecting awareness in the vegetative 
+state. Science 313:1402.
+Schapiro AC, Kustner LV, Turk-Browne NB. 2012. Shaping of 
+object representations in the human medial temporal lobe 
+based on temporal regularities. Curr Biol 22:1622–1627.
+Sirotin Y, Das A. 2009. Anticipatory haemodynamic signals 
+in sensory cortex not predicted by local neuronal activity. 
+Nature 457:475–479.
+Squire LR. 1992. Memory and the hippocampus: a synthesis 
+from findings with rats, monkeys, and humans. Psychol 
+Rev 99:195–231.
+Turk-Browne NB. 2013. Functional interactions as big data in 
+the human brain. Science 342:580–584.
+Wagner AD, Schacter DL, Rotte M, et al. 1998. Building mem-
+ories: remembering and forgetting of verbal experiences 
+as predicted by brain activity. Science 281:1188–1191.
+Wimmer GE, Shohamy D. 2012. Preference by association: 
+how memory mechanisms in the hippocampus bias deci-
+sions. Science 338:270–273.
+Yarkoni T, Poldrack RA, Nichols TE, Van Essen DC, Wager 
+TD. 2011. Large-scale automated synthesis of human 
+functional neuroimaging data. Nat Methods 8:665–670.
+
+
+===== Page 5 =====
+This page intentionally left blank 
+
+
+===== Page 6 =====
+Part II
+
+
+===== Page 7 =====
+Preceding Page
+Crystal structure of the MthK Ca2+-regulated K+ channel from the archaeon Methano-
+bacterium thermoautotrophicum, a thermophilic microbe. The view is from the extra-
+cellular side of the channel in the Ca2+-bound open state. MthK consists of two major 
+functional domains. An integral membrane protein forms an aqueous pore (blue), which 
+selects and conducts K+ ions, and has a gate that switches between open and closed 
+conformations; an intracellular Ca2+-binding gating ring (gray) controls the gate. When it 
+binds Ca2+, the resulting conformational change is mechanically transmitted to the pore, 
+causing it to switch to the open state. (Used with permission of Kenton Swartz, based 
+on PDB code 1LNQ, from Jian Y, Lee A, Chen J, et al. 2002. Nature 417:523–526.)
+
+
+===== Page 8 =====
+Cell and Molecular Biology of 
+Cells of the Nervous System
+II
+I
+n all biological systems, from the most primitive to the most 
+advanced, the basic building block is the cell. Cells are often 
+organized into functional modules that are repeated in complex 
+biological systems. The vertebrate brain is the most complex example 
+of a modular system. Complex biological systems have another basic 
+feature: They are architectonic—that is, their anatomy, fine structure, 
+and dynamic properties all reflect a specific physiological function. 
+Thus, the construction of the brain and the cell biology, biophysics, 
+and biochemistry of its component cells reflect its fundamental func-
+tion, which is to mediate behavior. 
+The nervous system is made up of glial cells and nerve cells. Ear-
+lier views of glia as purely structural elements have been supplanted 
+by our current understanding that there are several types of glial 
+cells, each of which is specialized to regulate one or more particu-
+lar aspects of neuronal function. Different varieties of glial cells play 
+essential roles in enabling and guiding neural development, insulat-
+ing axonal processes, controlling the extracellular milieu, supporting 
+synaptic transmission, facilitating learning and memory, and modu-
+lating pathological processes within the nervous system. Some glial 
+cells have receptors for neurotransmitters and voltage-gated ion 
+channels that enable them to communicate with one another and 
+with neurons to support neuronal signaling. 
+In contrast to glial cells, the great diversity of nerve cells—the 
+fundamental units from which the modules of the nervous systems 
+are assembled—are variations on one basic cell plan. Four features 
+of this plan give nerve cells the unique ability to communicate with 
+one another precisely and rapidly over long distances. First, the 
+neuron is polarized, possessing receptive dendrites on one end and 
+communicating axons with presynaptic terminals at the other. This 
+polarization of functional properties restricts the predominant flow 
+of voltage impulses to one direction. Second, the neuron is electri-
+cally excitable. Its cell membrane contains specialized proteins—ion 
+channels and receptors—that permit the influx and efflux of spe-
+cific inorganic ions, thus creating electrical currents that generate 
+the voltage signals across the membrane. Third, the neuron contains 
+proteins and organelles that endow it with specialized secretory 
+
+
+===== Page 9 =====
+properties that allow it to release neurotransmitters at syn-
+apses. Fourth, this system for rapid signaling over the long 
+distances between the cell body and its terminals is enabled 
+by a cytoskeletal structure that mediates, on a slower time 
+scale, efficient transport of various proteins, mRNAs, and 
+organelles between the two compartments.
+In this part of the book, we shall be concerned with the 
+distinctive cell biological properties that allow neurons and 
+glia to fulfill their various specialized functions. A major 
+emphasis will be on properties of ion channels that endow 
+neurons with the ability to generate and propagate electri-
+cal signals in the form of action potentials. We begin the 
+discussion of neurons by considering general properties 
+shared by ion channels—the ability to select and conduct 
+ions, and to gate between open and closed conformations. 
+Neurons use four major classes of channels for signaling: (1) 
+resting channels generate the resting potential and underlie 
+the passive electrical properties of neurons that determine 
+the time course of synaptic potentials, their spread along 
+dendrites, and the threshold for firing an action potential; 
+(2) sensory receptor channels respond to certain sensory 
+stimuli to generate local receptor potentials; (3) ligand-
+gated channels open in response to neurotransmitters, 
+generating local synaptic potentials; and (4) voltage-gated 
+channels produce the currents that generate self-propagat-
+ing action potentials. In this part, we focus mainly on rest-
+ing and voltage-gated channels. In Part III, we consider in 
+more detail ligand-gated channels, and the neurotransmit-
+ters and second messengers that control their activity. The 
+channels that are activated by sensory stimuli will be exam-
+ined in Part IV.
+Part Editors: John D. Koester and Steven A. Siegelbaum
+Part II
+Chapter 7	
+The Cells of the Nervous System
+Chapter 8	
+Ion Channels
+Chapter 9	
+Membrane Potential and the Passive 
+Electrical Properties of the Neuron
+Chapter 10 	 Propagated Signaling: The Action Potential
+
+

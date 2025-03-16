@@ -1,0 +1,747 @@
+===== Page 1 =====
+580    Part IV / Perception
+  5.  Individual cells in inferior temporal cortex 
+can be highly shape-selective and respond 
+selectively, eg, to a hand or a face. They can 
+maintain selectivity across position, size, and 
+even rotation—properties that might explain 
+perceptual constancy.
+  6.  Inferotemporal cortex comprises a yet-unknown 
+number of areas with very different functional 
+specializations. While the functional logic of the 
+overall organization remains unknown, we do 
+know that cells with similar selectivity group into 
+cortical columns and that face cells are organized 
+into larger units called face areas.
+  7.  Face recognition is supported by multiple face 
+areas, each with a unique functional specializa-
+tion. Face areas are selectively coupled to form a 
+face-processing network, which has emerged as a 
+model system for high-level vision.
+  8.  Inferotemporal cortex is interconnected with 
+perirhinal and parahippocampal cortices for 
+memory formation, with the amygdala for the 
+assignment of emotional valence to objects, and 
+with prefrontal cortex for object categorization 
+and visual working memory. If associative memo-
+ries are stored as patterns of connections between 
+neurons, what then are the specific contributions 
+of hippocampus and neocortical structures of 
+the medial temporal lobe, and by what cellular 
+mechanisms do they exert their influences? The 
+confluence of molecular-genetic, cellular, neuro-
+physiological, and behavioral approaches prom-
+ises to solve these and other problems.
+  9.  Objects are perceived as members of a category. 
+This simplifies the selection of appropriate 
+behaviors, which often do not depend on stim-
+ulus details. Neurons with categorical selectiv-
+ity are found in dorsolateral prefrontal cortex, a 
+main projection site of inferior temporal cortex.
+10.  Object recognition relies on past experience. Per-
+ceptual learning can improve the ability to dis-
+criminate between complex objects and refine 
+neural selectivity in inferior temporal cortex.
+11.  Visual information can be held in short-term 
+working memory to be available beyond the dura-
+tion of a sensory stimulus. Neurons in temporal 
+and prefrontal cortex can exhibit delay-period 
+activity after the disappearance of a stimulus. 
+How these networks establish the ability to keep 
+information online is an open question.
+12.  High-level 
+visual 
+information 
+processing 
+changes with top-down modulation. The sensory 
+experience of an image in view and the recall of 
+the same stimulus from memory are subjectively 
+similar. Neurons in inferior temporal cortex 
+exhibit similar activity during bottom-up activa-
+tion and cued recall.
+ Thomas D. Albright  
+ Winrich A. Freiwald 
+Selected Reading
+Freedman DJ, Miller EK. 2008. Neural mechanisms of visual 
+categorization: insights from neurophysiology. Neurosci 
+Biobehav Rev 32:311–329.
+Gross CG. 1999. Brain, Vision, Memory: Tales in the History of 
+Neuroscience. Cambridge, MA: MIT Press.
+Kanwisher N, McDermott J, Chun MM. 1997. The fusiform 
+face area: a module in human extrastriate cortex special-
+ized for face perception. J Neurosci 17:4302–4311.
+Logothetis NK, Sheinberg DL. 1996. Visual object recogni-
+tion. Annu Rev Neurosci 19:577–621.
+McCarthy G, Puce A, Gore J, Allison T. 1997. Face-specific 
+processing in the human fusiform gyrus. J Cog Neurosci 
+9:605–610.
+Messinger A, Squire LR, Zola SM, Albright TD. 2005. Neural 
+correlates of knowledge: stable representation of stimulus 
+associations across variations in behavioral performance. 
+Neuron 48:359–371.
+Miller EK, Li L, Desimone R. 1991. A neural mechanism for 
+working and recognition memory in inferior temporal 
+cortex. Science 254:1377–1379.
+Miyashita Y. 1993. Inferior temporal cortex: where visual per-
+ception meets memory. Annu Rev Neurosci 16:245–263.
+Schlack A, Albright TD. 2007. Remembering visual motion: 
+neural correlates of associative plasticity and motion 
+recall in cortical area MT. Neuron 53:881–890.
+Squire LR, Zola-Morgan S. 1991. The medial temporal lobe 
+memory system. Science 253:1380–1386.
+Ungerleider LG, Courtney SM, Haxby JV. 1998. A neural sys-
+tem for human visual working memory. Proc Natl Acad 
+Sci U S A 95:883–890.
+References
+Baker CI, Behrmann M, Olson CR. 2002. Impact of learn-
+ing on representation of parts and wholes in monkey 
+inferotemporal cortex. Nat Neurosci 5:1210–1216.
+Brown S, Schafer ES. 1888. An investigation into the func-
+tions of the occipital and temporal lobes of the monkey’s 
+brain. Philos Trans R Soc Lond B Biol Sci 179:303–327.
+Damasio AR, Damasio H, Van Hoesen GW. 1982. Prosop-
+agnosia: anatomic basis and behavioral mechanisms. 
+Neurology 32:331–341.
+
+
+===== Page 2 =====
+Chapter 24 / High-Level Visual Processing: From Vision to Cognition     581
+Desimone R, Albright TD, Gross CG, Bruce CJ. 1984. Stimu-
+lus selective properties of inferior temporal neurons in the 
+macaque. J Neurosci 8:2051–2062.
+Desimone R, Fleming J, Gross CG. 1980. Prestriate affer-
+ents to inferior temporal cortex: an HRP study. Brain Res 
+184:41–55.
+Farah MJ. 1990. Visual Agnosia: Disorders of Object Recognition 
+and What They Tell Us About Normal Vision. Cambridge, 
+MA: MIT Press.
+Felleman DJ, Van Essen DC. 1991. Distributed hierarchical 
+processing in the primate cerebral cortex. Cereb Cortex 
+1:1–47.
+Freedman DJ, Riesenhuber M, Poggio T, Miller EK. 2002. Vis-
+ual categorization and the primate prefrontal cortex: neu-
+rophysiology and behavior. J Neurophysiol 88:929–941.
+Freiwald WA, Tsao DY. 2010. Functional compartmentaliza-
+tion and viewpoint generalization within the macaque 
+face-processing system. Science 330:845–851.
+Fujita I, Tanaka K, Ito M, Cheng K. 1992. Columns for vis-
+ual features of objects in monkey inferotemporal cortex. 
+Nature 360:343–346.
+Fuster JM, Jervey JP. 1982. Neuronal firing in the inferotem-
+poral cortex of the monkey in a visual memory task.  
+J Neurosci 2:361–375.
+Gross CG, Bender DB, Rocha-Miranda CE. 1969. Visual 
+receptive fields of neurons in inferotemporal cortex of the 
+monkey. Science 166:1303–1306.
+Kosslyn SM. 1994. Image and Brain. Cambridge, MA: MIT 
+Press.
+Leibo JZ, Liao Q, Anselmi F, Freiwald WA, Poggio T. 2017. 
+View-tolerant face recognition and Hebbian learning 
+imply mirror-symmetric neural tuning to head orienta-
+tion. Curr Biol 27:62–67.
+Logothetis NK, Pauls J. 1995. Psychophysical and physiolog-
+ical evidence for viewer-centered object representations in 
+the primate. Cereb Cortex 5:270–288.
+Messinger A, Squire LR, Zola SM, Albright TD. 2001. Neu-
+ronal representations of stimulus associations develop in 
+the temporal lobe during learning. Proc Natl Acad Sci U S A 
+98:12239–12244.
+Miyashita Y, Chang HS. 1988. Neuronal correlate of picto-
+rial short-term memory in the primate temporal cortex. 
+Nature 331:68–70.
+Rainer G, Rao SC, Miller EK. 1999. Prospective coding 
+for objects in primate prefrontal cortex. J Neurosci 
+19:5493–5505.
+Rollenhagen JE, Olson CR. 2000. Mirror-image confusion in 
+single neurons of the macaque inferotemporal cortex. 
+Science 287:1506–1508.
+Sakai K, Miyashita Y. 1991. Neural organization for the long-
+term memory of paired associates. Nature 354:152–155.
+Schwartz EL, Desimone R, Albright TD, Gross CG. 1983. 
+Shape recognition and inferior temporal neurons. Proc 
+Natl Acad Sci U S A 80:5776–5778.
+Suzuki WA, Amaral DG. 2004. Functional neuroanatomy 
+of the medial temporal lobe memory system. Cortex 
+40:220–222.
+Tanaka K. 2003. Columns for complex visual object features 
+in the inferotemporal cortex: clustering of cells with simi-
+lar but slightly different stimulus selectivities. Cereb 
+Cortex 13:90–99.
+Teuber HL. 1968. Disorders of memory following penetrat-
+ing missile wounds of the brain. Neurology 18:287–288.
+Tomita H, Ohbayashi M, Nakahara K, Hasegawa I, Miyashita 
+Y. 1999. Top-down signal from prefrontal cortex in execu-
+tive control of memory retrieval. Nature 401:699–703.
+Tsao DY, Freiwald WA, Tootell RB, Livingstone MS. 2006. A 
+cortical region consisting entirely of face-selective cells. 
+Science 311:670–674.
+Wheeler ME, Petersen SE, Buckner RL. 2000. Memory’s echo: 
+vivid remembering reactivates sensory-specific cortex. 
+Proc Natl Acad Sci U S A 97:11125–11129.
+
+
+===== Page 3 =====
+25
+Visual Processing for Attention and Action
+from information conveyed in several discrete neural 
+pathways from the eyes. When we look at a painting, 
+for example, we explore it with a series of quick eye 
+movements (saccades) that redirect the fovea to differ-
+ent objects of interest in the visual field. The brain must 
+take into account these eye movements in the course of 
+producing an interpretable visual image from the light 
+stimuli in the retina.
+As each saccade brings a new object onto the fovea, 
+the image of the entire visual world shifts on the fovea. 
+These shifts occur several times per second, such that 
+after several minutes the record of movement is a jum-
+ble (Figure 25–1). With such constant movement, visual 
+images should resemble an amateur video in which the 
+image jerks around because the camera operator is not 
+skilled at holding the camera steady. In fact, however, 
+our vision is so stable that we are ordinarily unaware 
+of the visual effects of saccades. This is so because the 
+brain makes continual adjustments to the images fall-
+ing on the retina after each saccade.
+A simple laboratory experiment, shown in Figure 
+25–2, illustrates the biological challenge to the brain.
+Motor Commands for Saccades Are Copied  
+to the Visual System
+The first insight into the brain mechanisms underlying 
+visual stability came from an observation by Hermann 
+von Helmholtz in the 19th century. He saw a patient 
+who could not move his eye horizontally toward his 
+ear because of a paralysis of the lateral rectus muscle. 
+Whenever the patient attempted to look toward his 
+ear, the entire visual world jumped in the opposite 
+direction and then returned to the center of gaze.
+The Brain Compensates for Eye Movements to Create a Stable 
+Representation of the Visual World
+Motor Commands for Saccades Are Copied to the  
+Visual System
+Oculomotor Proprioception Can Contribute to Spatially 
+Accurate Perception and Behavior
+Visual Scrutiny Is Driven by Attention and Arousal Circuits
+The Parietal Cortex Provides Visual Information to the  
+Motor System
+Highlights
+T
+he human brain has an amazing  ability to 
+direct action to objects in the visual world—a 
+baby reaching for an object, a tennis player hit-
+ting a ball, an artist looking at a model. This ability 
+requires that the visual system solve three problems: 
+making a spatially accurate analysis of the visual 
+world, choosing the object of interest from the welter 
+of stimuli in the visual world, and transferring infor-
+mation on the location and details of the object to the 
+motor system.
+The Brain Compensates for Eye Movements  
+to Create a Stable Representation of the  
+Visual World
+Although the visual system produces vivid represen-
+tations of our visual world, as described in preceding 
+chapters, a visual image is not like an instantaneous 
+photographic record but is dynamically constructed 
+
+
+===== Page 4 =====
+Chapter 25 / Visual Processing for Attention and Action    583
+Figure 25–1  Eye movements during vision. A subject 
+viewed this painting (An Unexpected Visitor by llya Repin) 
+for several minutes, making saccades to selected fixation 
+points, primarily to faces. Lines indicate saccades, and spots 
+indicate points of fixation. (Reproduced, with permission, 
+from Yarbus 1967).
+Helmholtz postulated that a copy of the motor 
+command for each saccade was fed to the visual sys-
+tem so that the representation of the visual world 
+could be adjusted to compensate for eye movement. 
+This adjustment would lead to a stable image of the 
+visual world. In the 19th century, Helmholtz called 
+such a copy a “sense of effort,” and in the 20th century, 
+it was named an efference copy or corollary discharge.
+The corollary discharge solves the problem of the 
+double-step saccade. In order for a corollary discharge 
+to affect visual perception across eye movements, motor 
+information has to affect the activity of visual neurons. 
+This is precisely what happens to neurons in the pari-
+etal cortex, frontal eye field, prestriate visual cortex, 
+and superior colliculus when a monkey makes a sac-
+cade. Each saccade can be considered a vector with two 
+dimensions—direction and amplitude. Although the 
+retinal image is different after each saccade, the brain 
+can use the vector of each saccade to reconstruct the 
+whole visual scene from the sequence of retinal images.
+The corollary discharge can be seen at the level 
+of a single cell. Physiological studies in the Rhesus 
+monkey, an animal whose oculomotor and visual sys-
+tems resemble those of humans, have illuminated the 
+
+
+===== Page 5 =====
+584    Part IV / Perception
+Figure 25–2  The double-step task illustrates how the brain 
+stabilizes images during saccades.
+A. A subject starts by looking at a fixation point (FP) that disap-
+pears, after which two saccade targets A and B appear and disap-
+pear sequentially before the subject can make the saccade. The 
+first saccade (to target A) is simple. The retinal vector (FP→A) and 
+the saccade vectors are the same. After the first saccade, the 
+subject is looking at A. The retinal vector is A→B′, but the mon-
+key must make a saccade whose vector is A→B. The brain must 
+adjust the retinal vector to compensate for the first saccade.
+B. Timing. The upper records show when the targets appear 
+(colored bars). (Abbreviations: H, horizontal; V, vertical.)
+A  Task geometry
+B  Task timing
+200 ms
+Saccade
+to A
+Saccade
+to B
+A
+A
+B
+B
+B′
+FP
+FP
+H
+V
+Eye 
+movement
+Target 
+appearance
+problem. Every time a monkey makes a saccade, a 
+stimulus currently not in the receptive field of a neu-
+ron in the lateral intraparietal area, and therefore inca-
+pable of exciting the neuron, will excite the neuron if 
+the impending saccade will bring the stimulus into the 
+receptive field, even before the saccade occurs (Figure 
+25–3). Thus, a corollary discharge of the impending 
+saccade affects the visual responsiveness of the pari-
+etal neuron.
+This transient remapping of the receptive field 
+explains how subjects can perform the double-step task. 
+Consider the diagram in Figure 25–2A. The task begins 
+with the monkey directing gaze to the fixation point 
+(FP). After the monkey makes the first saccade, the reti-
+nal vector A→B′ is no longer useful for making the A→B 
+saccade. However, the FP→A saccade remaps the activ-
+ity of the cell describing the vector A→B, so it responds 
+to the target at the retinal location of B, which was not 
+in its receptive field when the monkey was looking at 
+FP. Remapping is found in a number of cortical and 
+subcortical areas, including lateral intraparietal area, 
+frontal eye field, medial intraparietal area, intermediate 
+layers of the superior colliculus, and prestriate areas V4, 
+V3a, and V2. As we shall see, remapping facilitates both 
+visual perception around the time of a saccade and the 
+accuracy of visually guided movement.
+The first question this raises is: How does the brain 
+obtain the vector of the saccade that it feeds back to 
+the visual system? We know from decades of research 
+that the motor command for the vector is represented 
+in the superior colliculus on the roof of the midbrain 
+(Chapter 35). Each neuron in the superior colliculus 
+is tuned to saccades of a given vector, such that the 
+neurons collectively provide a map of the vectors of 
+all possible saccades. Inactivation of the superior col-
+liculus affects the monkey’s ability to make saccades. 
+Electrical stimulation of the superior colliculus evokes 
+saccades of the vector described by the neurons at 
+the stimulation site. But this provides the vectors that 
+actually drive the eye, not the vectors that inform per-
+ception about the vector of the saccade. How does the 
+vector information used to move the eye become avail-
+able to brain processes that do not move the eye but do 
+require information about how it moved?
+Since the vectors for moving the eye have been 
+identified in the superior colliculus, it is reasonable to 
+expect that this also might be the source of a corollary 
+discharge. Indeed, it is. The superior colliculus has both 
+descending pathways for generating the saccades and 
+ascending pathways to the cerebral cortex that could 
+carry the corollary discharge of the impending move-
+ment (Figure 25–4). The pathways to the cortex pass 
+through the thalamus, as does all internal and almost 
+all external information reaching the cerebral cortex.
+The motor signal in the thalamus is not necessar-
+ily a corollary discharge; it could also be a movement 
+command that simply passes through the cerebral 
+cortex. That is not the case, however, because inactiva-
+tion of this pathway in the thalamus does not alter the 
+amplitude and direction of saccades. It is not driving 
+saccades. It is more likely to be a corollary discharge. 
+After inactivation of the thalamic pathway, monkeys 
+cannot accurately perform the second saccade of the 
+double-step task. In addition, inactivation disrupts the 
+
+
+===== Page 6 =====
+Chapter 25 / Visual Processing for Attention and Action    585
+Figure 25–3  Remapping of the receptive field of a visual 
+neuron in the parietal cortex of a monkey in conjunction 
+with saccadic eye movements. (A [left] and B adapted, with 
+permission, from Duhamel, Colby, and Goldberg 1992. A [right] 
+reproduced with permission, from M.E. Goldberg.)
+A. Left: The monkey looks at fixation point 1 (FP1), and the cell 
+responds to the abrupt onset of a task-irrelevant stimulus in the 
+current receptive field (CRF). Successive trials are synchronized 
+on the appearance of the stimulus. (Abbreviations: H, horizontal 
+eye position; V, vertical eye position.) Right: The monkey looks 
+at FP1, and the cell does not respond to a stimulus flashed in 
+the future receptive field (FRF).
+B. The monkey makes a saccade from FP1 to FP2, which will 
+bring the cell’s receptive field onto the stimulus in the FRF. 
+Now the cell fires even before the saccade begins, which 
+means that a corollary discharge of the saccade plan remapped 
+the area of the retina to which the cell responds.
+Saccade
+A  Fixation
+B  Saccade
+50 ms
+Stimulus
+Stim
+100
+spikes/s
+H
+V
+Stim
+H
+V
+Stim
+H
+V
+FP1
+FP1
+FP2
+FP1
+Stimulus in current
+receptive ﬁeld
+CRF
+CRF
+FRF
+CRF
+FRF
+Stimulus in future
+receptive ﬁeld
+Stimulus in future
+receptive ﬁeld
+receptive field remapping described earlier (Figure 
+25–3B). Because disrupting the corollary discharge dis-
+rupts both receptive field remapping and the behav-
+ioral compensation for eye movements, it is likely 
+that the corollary discharge is essential for solving the 
+problem of spatial accuracy for action.
+To determine whether the corollary discharge also 
+provides the information that allows the visual system 
+to perceive the location of objects that appeared before 
+a saccade, the monkey is trained to indicate where it 
+thinks its eyes are directed at the end of the saccade. 
+We can measure where the motor system moved the 
+eye, but what we want to know is the monkey’s per-
+ception of the change in its eye direction with each 
+saccade. This can be determined using a task devel-
+oped for humans by Heiner Deubel and his colleagues 
+and adapted for monkeys. In this task, the monkey 
+looks at a fixation point and then makes a saccade to 
+a target (Figure 25–5A). During the saccade, the target 
+temporarily disappears; when it reappears, it has been 
+displaced to a location left or right of the original tar-
+get. After the trial, the monkey moves a bar to the right 
+or left to indicate the direction of the displacement 
+(Figure 25–5A).
+Over a series of trials, the monkey’s responses 
+are plotted to generate a psychometric curve (Figure 
+25–5B). This curve show the actual intrasaccadic target 
+displacement (horizontal axis) in the same (forward) 
+or opposite (backward) direction as the initial saccade, 
+and how frequently the monkey reports that it was 
+moved forward (vertical axis). The monkey responded 
+that the target had moved forward 100% of the time 
+when the target was 3° to the right. When the target 
+moved 3° to the left, the monkey responded that it had 
+never moved forward. The point on the psychometric 
+curve where the monkey reported forward and back-
+ward displacements with equal frequency (the 50% 
+horizontal line) was taken as the perceptual null point. 
+
+
+===== Page 7 =====
+Figure 25–4  A corollary discharge from the motor program 
+for saccades directs a shift in location of the receptive field 
+of frontal eye field neurons prior to the saccade. (Adapted, 
+with permission, from Sommer and Wurtz 2008. Copyright © 
+2008 by Annual Reviews.)
+A. One possible pathway for the corollary discharge originates 
+in saccade-generating neurons in the superior colliculus, passes 
+through the medial dorsal nucleus of the thalamus, and termi-
+nates in the frontal eye field (FEF) in the frontal cortex.
+B. When the medial dorsal nucleus (MD) is inactivated, the 
+response of a frontal eye field neuron to a stimulus probe in 
+the cell’s current receptive field is unaffected (upper records), 
+whereas the response to a stimulus in a future (post-saccade) 
+receptive field is severely impaired (lower records). This 
+result demonstrates that a corollary discharge from the sac-
+cade motor program directs the shift in the neuron’s receptive 
+field properties.
+Figure 25–5  Perceived saccade direction changes with dis-
+ruption of corollary discharge.
+A. At the start of each trial, the monkey fixates a target on a 
+screen (1). When the fixation point is turned off, the monkey 
+makes a saccade to the target; during the saccade, the target 
+is displaced randomly (up to 3°) either to the left or to the 
+right (2). After the saccade to the original target, the monkey 
+receives a reward for manually moving a bar in the direction of 
+the target displacement (3).
+B. Psychometric curves before (black) and after (purple) inac-
+tivation of the medial dorsal nucleus of the thalamus, which 
+contains the relay neurons for the corollary discharge in its 
+pathway between the superior colliculus and the frontal cortex. 
+The curve shows the proportion of forward (in the direction of 
+the saccade) judgments (y-axis) for each target displacement 
+(x-axis). The post-saccadic target location at which the monkey 
+perceived no displacement is defined as the perceptual null 
+location. (Adapted, with permission, from Cavanaugh et al. 2016.)
+100 ms
+B
+A
+Probe onset 
+(during initial ﬁxation)
+Probe onset 
+(just before saccade)
+Saccade 
+initiation
+200
+spikes/s
+Baseline
+MD inactivated
+Superior
+colliculus
+Medial dorsal 
+nucleus of 
+the thalamus
+Inactivation
+Recording
+FEF
+Bar
+1. Fixation
+A  Task for perceived eye direction
+B  Change in perceptual location
+2. Saccade to target; 
+target displaced
+rightward
+3. Monkey turns bar 
+indicating displacement 
+direction
+Saccade
+Target displacement
+(degrees forward)
+Proportion of “forward” reports
+0.00
+0.25
+0.50
+0.75
+1.00
+–3
+–2
+–1
+0
+1
+2
+3
+Fixation
+point
+Displaced target
+Target
+
+
+===== Page 8 =====
+Chapter 25 / Visual Processing for Attention and Action    587
+We take this point to be the monkey’s perception of the 
+original target location. If the target were not perceived 
+to move, it must be in the same location as before the 
+saccade; in a normal monkey, that point is close to zero 
+(Figure 25–5B).
+We now have a corollary discharge that can pro-
+vide the vector for each saccade and a task for a mon-
+key that allows us to determine where it perceives the 
+target to be at the end of the saccade. If the corollary 
+discharge contributes to the monkey’s perception, then 
+inactivating the corollary discharge should change the 
+animal’s perception of target location. It does. The 
+purple curve in Figure 25–5B represents the perceived 
+location after corollary discharge inactivation; the 
+curve shifts to the left after inactivation of the medial 
+dorsal nucleus of the thalamus. The conclusion is that 
+the corollary discharge does provide the vector of the 
+saccade, which is necessary for the monkey to perceive 
+that the target had moved. With each saccade, corol-
+lary discharge information provides perceptual infor-
+mation for determining the amplitude and direction of 
+the current saccade, and it does so with machine-like 
+precision several times per second.
+The corollary discharge provides the vector infor-
+mation available before the saccade is made, but it is 
+not the only source of information. Two other types of 
+information must be evaluated after the saccade has 
+taken place: visual cues and eye muscle propriocep-
+tion. Visual cues are unlikely to be a factor in the per-
+ceptual experiment described (Figure 25–5) because 
+the experiment was done in total darkness except for 
+light scattered from the very dim fixation point and 
+saccade target. In the light, however, could  visual 
+cues be a factor? In fact, repeating the experiment in 
+the light did not improve the monkey’s judgment and 
+frequently made it worse.
+Oculomotor proprioception is unlikely to pro-
+vide the vector information at the end of the saccade 
+because, on average, the metrics of the saccades before 
+and during inactivation do not change, so there is little 
+reason to expect that the muscle proprioception will 
+have changed. In addition, while the corollary discharge 
+begins at least 100 ms before the saccade, neuronal activ-
+ity from oculomotor proprioception reaches the lateral 
+intraparietal area about 150 ms after the saccade. As 
+we will see in the next section, the role of propriocep-
+tion in perception might be to provide information 
+long after the saccade ends.
+Finally, there is a second potential disruption of 
+vision produced by saccades: a blur as the saccade 
+sweeps the visual scene across the retina. The blur is 
+not seen, however, because neuronal activity in a num-
+ber of visual areas is suppressed around the time of 
+every saccade. This so-called saccadic suppression 
+was first seen in the superior colliculus and has subse-
+quently been seen in the thalamus and areas of visual 
+cortex beyond primary visual cortex.
+A corollary discharge contributes to this neuronal 
+activity suppression because the suppression occurs 
+even in total darkness (no vision) and even if eye 
+movement is blocked (no proprioception). Suppres-
+sion can also be produced by visual masking, which 
+occurs when one stimulus reduces the perception of 
+a following or preceding stimulus. If a saccade starts 
+in total darkness, and an object is then flashed and 
+extinguished before the saccade ends, a blur can be 
+seen during the  saccade. If a mask is flashed after the 
+saccade, the blur is suppressed. A correlate of such a 
+masking effect is clearly seen in neurons in primary 
+visual cortex. The suppression resulting from a corol-
+lary discharge is relatively weak but is present with all 
+saccades; that from visual masking is much stronger 
+but is present only in the light.
+Oculomotor Proprioception Can Contribute to 
+Spatially Accurate Perception and Behavior
+Charles Sherrington suggested that the way the brain 
+compensates for a moving eye is to measure directly 
+where the eyes are in the orbit and adjust the visual 
+signal for changes in position. Richard Andersen and 
+Vernon Mountcastle discovered that the responses of 
+parietal visual neurons with retinotopic receptive fields 
+are modulated by the position of the eye in the orbit in a 
+linear fashion called the gain field (Figure 25–6). From this 
+relationship, the position of an object in head-centered 
+(craniotopic) coordinates can easily be calculated.
+Where does the eye position signal that creates the 
+gain fields come from? It could come from a corollary 
+discharge of eye position, or it could come from a pro-
+prioceptive mechanism. Human eye muscles have two 
+structures that could contribute to oculomotor pro-
+prioception: muscle spindles and myotendinous cyl-
+inders, or palisade endings, an eye-specific structure. 
+Area 3a, the region of somatosensory cortex to which 
+skeletal muscle spindles project, has a representation 
+of the position of the eye, which arises from proprio-
+ceptors in the contralateral orbit (Figure 25–7).
+However, the proprioceptive measurement of eye 
+position lags changes in eye position by 60 ms, and for 
+150 ms after a saccade, the gain fields modulate the vis-
+ual response as if the monkey were still looking at the 
+presaccadic target, long after the corollary discharge 
+has remapped the visual response. Therefore, the eye 
+position signal creating the gain fields probably arises 
+from a proprioceptive mechanism. The possibility 
+
+
+===== Page 9 =====
+588    Part IV / Perception
+B
+A
+C
+Receptive
+ﬁeld
+Fix center
+Fix left
+Fix: (–20,20)
+(0,20)
+(20,20)
+(–20,0)
+(0,0)
+(20,0)
+(–20,–20)
+(0,–20)
+(20,–20)
+40°
+10
+20
+40
+Figure 25–6  The position of the eye in the orbit affects the 
+responses of parietal visual neurons with retinotopic recep-
+tive fields.
+A. Receptive field relative to the fovea. Contour plot indicates 
+spike rates for different spatial locations. Numbers are spikes 
+per second for each contour at the maximum position.
+B. The receptive field moves in space with the eye. On the left 
+the monkey is fixating the center of the screen. On the right 
+the same monkey is fixating 20° to the left of center. For the 
+recordings in C, the stimulus (blue square) is always presented 
+in the center of the receptive field.
+C. Responses to a stimulus at the optimum location in the 
+receptive field change as a function of the position of the eye 
+in the orbit, from a maximum when the monkey fixates a point 
+at −20°,20° to a minimum when the monkey fixates a point at 
+20°,−20°. Arrows indicate onset of stimulus flash. Trial duration, 
+1.5 sec; ordinate, 25 spikes/division. (Adapted, with permission, 
+from Andersen, Essick, and Siegel 1985. Copyright © 1985 AAAS.)
+exists that the brain calculates the spatial location of 
+an object that appeared before an eye movement using 
+two mechanisms: a corollary discharge that is rapid 
+and a proprioceptive signal that is slow but can be 
+more accurate than the corollary discharge. The pro-
+prioceptive signal can also be used to calibrate the cor-
+ollary discharge.
+Visual Scrutiny Is Driven by Attention and 
+Arousal Circuits
+In the 19th century, William James described atten-
+tion as “the taking possession by the mind in clear and 
+vivid form, of one out of what seem several simultane-
+ously possible objects or trains of thought. It implies 
+withdrawal from some things in order to deal effec-
+tively with others.” James went on to describe two dif-
+ferent kinds of attention: “It is either passive, reflex, 
+non-voluntary, effortless or active and voluntary. In 
+passive immediate sensorial attention the stimulus is a 
+sense-impression, either very intense, voluminous, or 
+sudden … big things, bright things, moving things … 
+blood.”
+Your attention to this page as you read it is an 
+example of voluntary attention. If a bright light sud-
+denly flashed, your attention would probably be pulled 
+away involuntarily from the page. Large changes in 
+the visual scene that occur outside the focus of atten-
+tion are often missed until the subject directs attention 
+to them, a phenomenon referred to as change blind-
+ness (Figure 25–8).
+Voluntary attention is closely linked to saccadic 
+eye movements because the fovea has a much denser 
+array of cones than the peripheral retina (Chapter 17) 
+and moving the fovea to an attended object permits a 
+finer-grain analysis than is possible with peripheral 
+vision. Attention that selects a point in space, whether 
+or not it is accompanied by a saccade, is called spatial 
+attention. Searching for a specific kind of object, for 
+
+

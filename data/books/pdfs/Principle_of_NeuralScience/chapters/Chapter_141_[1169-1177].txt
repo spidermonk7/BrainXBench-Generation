@@ -1,0 +1,770 @@
+===== Page 1 =====
+1124    Part VII / Development and the Emergence of Behavior
+Pec
+FCU
+Rostral
+LMC
+PGC
+LMC
+Caudal
+Hox9
+Hox6
+Hox10
+Hoxc6
+Hoxc8
+Hox5
+Hoxc4
+Pea3
+Runx1
+Scip
+FCU
+Wild type
+Pec
+FCU
+CMV Hoxc6
+Pec
+FCU
+RNAi Hoxc6
+Pec
+A
+B
+Figure 45–13  Hox proteins control the identity of neurons 
+in motor columns and pools. (Adapted, with permission, from 
+Dasen et al. 2005.)
+A. Hox6, Hox9, and Hox10 proteins are expressed in motor 
+neurons at distinct rostrocaudal levels of the spinal cord and 
+direct motor neuron identity and peripheral target connectiv-
+ity. Hox6 activities control the identity of cells in the brachial 
+lateral motor column (LMC), Hox9 controls the identity of cells 
+in the preganglionic column (PGC), and Hox10 controls the 
+identity of cells in the lumbar column (LMC). Cross-repressive 
+interactions between Hox6, Hox9, and Hox10 proteins refine 
+Hox profiles, and Hox activator functions define LMC and PGC 
+identities. A more complex Hox transcriptional network controls 
+motor pool identity and connectivity. Hox genes determine the 
+rostrocaudal position of motor pools within the LMC. Hoxc8 is 
+required in caudal LMC neurons to generate the motor pools 
+for the pectoralis (Pec) and flexor carpi ulnaris (FCU) muscles; 
+these neurons express the transcription factors Pea3 and Scip, 
+respectively. The patterns of Hox expression in the Pec and 
+FCU pools are established through a transcriptional network 
+that appears to be driven largely by Hox cross-repressive 
+interactions.
+B. Changing the Hox code within motor pools changes the  
+pattern of muscle connectivity. Alterations in the profile  
+of Hox6 expression determine the expression of Pea3 and Scip 
+and control the projection of motor axons to the Pec or FCU 
+muscles. RNA interference (RNAi) knock-down of Hox6 sup-
+presses innervation of the Pec muscle so that motor axons 
+innervate the FCU muscle only. Ectopic expression of Hoxc6 
+driven by a cytomegalovirus (CMV) promoter represses  
+connectivity with FCU, so that motor axons innervate only the 
+Pec muscle.
+The spatial distribution of Pax6 and Emx2 helps to 
+establish the initial regional pattern of the neocortex. 
+In mice lacking Emx2 activity, there is an expansion 
+of rostral neocortex—the motor and somatosensory 
+areas—at the expense of the more caudal auditory and 
+visual areas. Conversely, in mice lacking Pax6 activity, 
+visual and auditory areas are expanded at the expense 
+of motor and somatosensory areas (Figure 45–15B).
+Thus, as in the spinal cord, hindbrain, and mid-
+brain, early neocortical patterns are established 
+through the interplay between local inductive signals 
+and gradients of transcription factor expression. How 
+these gradients specify discrete functional areas in the 
+neocortex remains unclear. Unlike segmentation in 
+the hindbrain, where transcription factors precisely 
+specify rhombomeres, transcriptional markers of indi-
+vidual neocortical areas have not yet been identified.
+Afferent Inputs Also Contribute to Regionalization
+In the adult neocortex, different functional areas can 
+be distinguished by differences in the layering pattern 
+of neurons—the cytoarchitecture of the areas—and by 
+their neuronal connections. One striking instance of 
+
+
+===== Page 2 =====
+Chapter 45 / Patterning the Nervous System    1125
+Figure 45–14  The axons of lateral motor 
+column neurons are guided into the limb by 
+ephrin class tyrosine kinase receptors.  Motor 
+neurons in the medial and lateral divisions of the 
+lateral motor column (LMC) project axons into 
+the ventral and dorsal halves of the limb mesen-
+chyme, respectively. The profile of expression of 
+LIM class homeodomain proteins regulates this 
+dorsoventral projection. The LIM homeodomain 
+protein Isl1 expressed by medial LMC neurons 
+directs a high level of expression of EphB recep-
+tors, such that as the axons of these cells enter 
+the limb, they are prevented from projecting 
+dorsally by the high level of repellant ephrin B 
+ligands expressed by cells of the dorsal limb mes-
+enchyme. These axons therefore project into the 
+ventral limb mesenchyme. Conversely, the LIM 
+homeodomain protein Lhx1 expressed by lateral 
+LMC neurons directs a high level of expression of 
+EphA receptors, such that as the axons of these 
+cells enter the limb, they are prevented from 
+projecting ventrally by the high level of repellant 
+ephrin A ligands expressed by cells of the ventral 
+limb mesenchyme. These axons therefore project 
+into the dorsal limb mesenchyme. Eph and ephrin 
+signaling is discussed in greater detail in Chapter 47. 
+(Abbreviation: MMC, medial motor column.)
+Axial
+Dorsal
+Ventral
+MMC
+LMC(m)
+LMC(l)
+Isl1, Isl2, 
+Lhx3, Lhx4
+Isl1, Isl2
+Isl2, Lhx1
+Limb bud 
+Ephrin B
+Ephrin A
+Collapse
+Ephrin B
+Ephrin A
+Ephrin B
+Ephrin A
+EphA
+EphB
+regional distinctiveness in cell pattern is a grid-like 
+array of neurons and glial cells termed “barrels” in the 
+primary somatosensory cortex of rodents. Each corti-
+cal barrel receives somatosensory information from 
+a single whisker on the snout, and the regular array 
+of cortical barrels reflects the somatotopic organiza-
+tion of afferent information from the body surface, 
+culminating in the projection of thalamic efferents to 
+specific cortical barrels (Figure 45–16A).
+Cortical barrels are evident soon after birth, and 
+their development depends on a critical period of 
+afferent input from the periphery; their formation is 
+disrupted if the whisker field in the skin is eliminated 
+during this critical period. Strikingly, if prospective 
+
+
+===== Page 3 =====
+1126    Part VII / Development and the Emergence of Behavior
+Figure 45–15  Anteroposterior gradients of expression  
+of transcription factors establish discrete functional  
+areas along the anteroposterior axis of the developing  
+forebrain.  (Adapted from Hamasaki et al. 2004.)
+A. (1) FGF8 signals from the anteromedial telencephalon 
+establish the rostrocaudal pattern of the cerebral cortex. (2) A 
+top-down view of the developing cerebral cortex in the mouse 
+shows inverse rostrocaudal gradients of the transcription 
+factors Pax6 and Emx2. (3) These two transcription factors 
+mutually repress each other’s expression.
+B. Different functional areas develop at different rostrocaudal posi-
+tions. Motor areas develop in the anterior region (M) and visual 
+areas in more posterior regions (V). Genetic elimination of Emx2 
+function results in expansion of the motor areas and contraction in 
+auditory (A) and visual areas. Conversely, elimination of Pax6 func-
+tion results in an expansion of the visual areas and a contraction of 
+motor and auditory areas. (Abbreviation: S, somatosensory areas.)
+Lateral
+Rostral 
+Pax6  
+Emx2
+B
+Wild type
+Emx2 mutant
+Pax6 mutant
+M
+A
+S
+V
+M
+A
+S
+V
+M
+A
+S
+V
+M
+M
+A
+A
+S
+S
+V
+V
+2
+FGF8
+Anteromedial
+telencephalon
+1
+A
+M
+V
+S
+A
+3
+Caudal
+Rostral
+Pax6
+Emx2
+visual cortical tissue is transplanted into the soma-
+tosensory cortex around the time of birth, barrels 
+form in the transplanted tissue with a pattern that 
+closely resembles that of the normal somatosensory 
+barrel field (Figure 45–16B). Together, these find-
+ings demonstrate that afferent input superimposes 
+aspects of neocortical patterning on the basic fea-
+tures of the protomap.
+The nature of the input to different cortical areas 
+influences neural function as well as cytoarchitecture. 
+This can be shown by monitoring physiological and 
+behavioral responses after rerouting afferent pathways 
+of one sensory modality to a region of neocortex that 
+normally processes a different modality. In animals 
+in which retinal inputs are rerouted into the auditory 
+pathway, the primary auditory cortex contains a sys-
+tematic representation of visual space rather than of 
+sound frequency (Figure 45–17). When these animals 
+are trained to discriminate a visual from an auditory 
+cue, they perceive a cue as visual when the rewired 
+auditory cortex is activated by vision.
+Thus, brain pathways and neocortical regions are 
+established through genetic programs during early 
+development but later depend on afferent inputs for their 
+specialized anatomical, physiological, and behavioral 
+functions.
+
+
+===== Page 4 =====
+Figure 45–16  Sensory input regu-
+lates the organization of “barrels” 
+in the developing somatosensory 
+cortex in rodents. (Adapted from 
+Schlaggar and O’Leary 1991.)
+A. The barrel area of the rodent 
+somatosensory cortex forms a soma-
+totopic representation of the rows of 
+whiskers on the animal’s snout. Simi-
+lar representations of the whisker 
+field are present upstream—in the 
+brain stem and in the thalamic nuclei 
+that relay somatosensory inputs from 
+the face to the cortex.
+B. A barrel-like cellular organization is 
+induced in developing visual cortex 
+tissue that was grafted at an early 
+postnatal stage into the somatosen-
+sory cortex.
+Face
+B
+Normal development of cortical barrels
+A
+Maturation
+Maturation
+Visual
+cortex
+Barrel development after grafting
+Transplant into
+somatosensory cortex
+Trigeminal
+ganglion
+Brain stem
+Thalamus
+Somatosensory cortex
+Visually responsive
+auditory cortex 
+Normal
+Rewired
+A  Reorganization of thalamic pathways
+B  Orientation maps
+Normal V1 
+ 
+Rewired A1  
+Ablated
+Retina
+Inferior
+colliculus
+Visual
+cortex (V1)
+Auditory
+cortex (A1)
+LGN
+MGN
+Cochlea
+Retina
+Figure 45–17  Rerouting thalamocortical input can recruit 
+cortical areas for new sensory functions. (Adapted, with per-
+mission, from Sharma, Angelucci, and Sur 2000. Copyright © 
+2000 Springer Nature.)
+A. The visual pathway consists of afferent fibers from the retina 
+that innervate the lateral geniculate nucleus (LGN) and superior 
+colliculus. Axons from the LGN project to the primary visual cortex 
+(V1). The auditory pathway projects from the cochlear nucleus (not 
+shown) to the inferior colliculus, and then to the medial geniculate 
+nucleus (MGN) and on to the primary auditory cortex (A1).  
+Ablating the inferior colliculus in neonatal ferrets causes retinal 
+afferents to innervate the MGN. As a consequence, the auditory 
+cortex is reprogrammed to process visual information.
+B. Visual orientation maps similar to those seen in normal V1 
+cortex are observed in rewired A1 auditory cortex of ferrets using 
+optical imaging of intrinsic signals. The different colors represent 
+different receptor field orientations (see bars at right). The pattern 
+of activity in rewired A1 resembles that of normal V1.
+
+
+===== Page 5 =====
+1128    Part VII / Development and the Emergence of Behavior
+Highlights
+  1.  The early vertebrate embryo consists of three 
+layers of cells—ectoderm, mesoderm, and endo-
+derm. The entire nervous system arises from the 
+ectoderm, and more specifically from a central 
+strip of ectoderm called the neural plate.
+  2.  Formation of neural plate within the ectoderm 
+occurs by a process called induction, in which 
+underlying mesodermal cells secrete soluble fac-
+tors that induce a neural program of gene expres-
+sion in neighboring ectodermal cells. Induction 
+involves a “de-repression” mechanism in which 
+mesoderm-derived 
+soluble 
+factors 
+prevent  
+ectoderm-derived bone morphogenetic proteins 
+(BMPs; members of the transforming growth fac-
+tor β family) from suppressing the neural fate.
+  3.  Following induction, the neural plate invaginates 
+from the ectoderm to form a neural tube. The tube 
+gives rise to the central nervous system, while 
+cells at the border between neural tube and ecto-
+derm form neural crest, which migrates through 
+the embryo to form the sensory and autonomic 
+ganglia of the peripheral nervous system.
+  4.  As soon as the neural tube forms, it begins to 
+become regionalized. Regionalization along the 
+anterior-posterior axis leads to a series of subdi-
+visions. The anterior region becomes the brain, 
+and the posterior region becomes the spinal 
+cord. Divisions of the prospective brain gener-
+ate the forebrain, midbrain, and hindbrain. The 
+forebrain divides further to form the telencepha-
+lon, from which cortex, hippocampus, and basal 
+ganglia arise; and the diencephalon, which gives 
+rise to thalamus, hypothalamus, and retina. The 
+hindbrain divides to form the pons and cerebel-
+lum anteriorly and the medulla posteriorly.
+  5.  Anterior-posterior patterning is established 
+by gradients of Wnt signaling, which arise 
+from selective production of Wnts posteriorly 
+and selective production of Wnt inhibitors 
+anteriorly.
+  6.  Subdivisions along the anteroposterior axis are 
+established by groups of cells called organizing 
+centers at defined positions within the neural 
+tube. The organizing centers secrete factors that 
+pattern neighboring regions of the neural tube 
+and specify neuronal types within them. For 
+example, the isthmic organizer at the boundary 
+of the hindbrain and midbrain secretes Wnts and 
+fibroblast growth factors (FGFs). They act differ-
+entially in anterior and posterior regions because 
+the earlier patterning events led to expression of 
+different transcription factors by cells in these 
+regions.
+  7.  Still later, further subdivisions form segments 
+called prosomeres in the forebrain and rhom-
+bomeres in the hindbrain, with differential 
+expression of transcription factors leading to 
+generation of distinct neural types in each.
+  8.  In both the hindbrain and the spinal cord, motor 
+neurons acquire distinct properties according to 
+their anterior-posterior position, differentiating 
+into the groups that innervate distinct muscles. 
+Differential expression of transcription factors 
+called Hox proteins is particularly important in 
+diversification of motor neurons. They act with 
+other transcription and soluble factors to divide 
+motor neurons into columns and pools, with 
+each pool destined to innervate a specific muscle.
+  9.  The neural tube is also patterned along the 
+dorsoventral axis. Similar to anterior-posterior 
+regionalization, patterning results from gradi-
+ents of morphogens. The most important are sonic 
+hedgehog (Shh), which forms a ventral high–
+dorsal low gradient, and BMPs, which form a 
+dorsal high–ventral low gradient. Different lev-
+els of Shh and BMPs induce different transcrip-
+tion factors, which in turn lead to generation of 
+different cell types.
+10.  Regionalization of the cerebral cortex into motor, 
+sensory, and association areas also begins with 
+gradients of morphogens that induce differen-
+tial expression of transcription factors, leading to 
+establishment of a “protomap” of area identity. 
+Interactions among areas along with input from 
+subcortical regions refine the protomap to form 
+definitive cortical areas.
+11.  Several general principles explain many aspects 
+of early neural development: (a) Inductive inter-
+actions lead to subdivision of a uniform set of 
+cells into discrete areas. (b) A small set of soluble 
+factors such as FGFs, BMPs, and Wnts are used 
+multiple times at multiple stages to regionalize 
+the nervous system. (c) Varying levels of these 
+factors lead to expression of different transcrip-
+tion factors, which in turn generate different neu-
+ral cell types. (d) Repressive interactions between 
+cells expressing different transcription factors 
+sharpen boundaries along both anteroposterior 
+and dorsoventral axes.
+12.  Until recently, studies on early stages of neural 
+development have been restricted to experimen-
+tal animals. Recent advances now enable neuro-
+scientists to recapitulate some of these processes 
+using cultured human cells. It should therefore 
+
+
+===== Page 6 =====
+Chapter 45 / Patterning the Nervous System    1129
+soon be possible to learn whether there are criti-
+cal early differences between humans and other 
+species that contribute to the complexity of the 
+human brain and to human brain disorders.
+ Joshua R. Sanes  
+Thomas M. Jessell 
+Selected Reading
+Anderson C, Stern CD. 2016. Organizers in development. 
+Curr Top Dev Biol 117:435–454.
+Catela C, Shin MM, Dasen JS. 2015. Assembly and function 
+of spinal circuits for motor control. Annu Rev Cell Dev 
+Biol 31:669–698.
+Dessaud E, McMahon AP, Briscoe J. 2008. Pattern formation in 
+the vertebrate neural tube: a sonic hedgehog morphogen- 
+regulated transcriptional network. Development 135: 
+2489–2503.
+Goulding M. 2009. Circuits controlling vertebrate locomotion: 
+moving in a new direction. Nat Rev Neurosci 10:507–518.
+Hamburger V. 1988. The Heritage of Experimental Embryology. Hans 
+Spemann and the Organizer. New York: Oxford Univ. Press.
+Kiecker C, Lumsden A. 2012. The role of organizers in pattern-
+ing the nervous system. Annu Rev Neurosci 35:347–367.
+Ozair MZ, Kintner C, Brivanlou AH. 2013. Neural induction 
+and early patterning in vertebrates. Wiley Interdiscip Rev 
+Dev Biol 2:479–498.
+Rakic P. 2002. Evolving concepts of cortical radial and areal 
+specification. Prog Brain Res 136:265–280.
+Sur M, Rubenstein JL. 2005. Patterning and plasticity of the 
+cerebral cortex. Science 310:805–810.
+References
+Addison M, Wilkinson DG. 2016. Segment identity and cell 
+segregation in the vertebrate hindbrain. Curr Top Dev 
+Biol 117:581–596.
+Bell E, Wingate RJ, Lumsden A. 1999. Homeotic transforma-
+tion of rhombomere identity after localized Hoxb1 misex-
+pression. Science 284:2168–2171.
+Cholfin JA, Rubenstein JL. 2007. Patterning of frontal cor-
+tex subdivisions by Fgf17. Proc Natl Acad Sci U S A 
+104:7652–7657.
+Dasen JS. 2017. Master or servant? Emerging roles for motor 
+neuron subtypes in the construction and evolution of 
+locomotor circuits. Curr Opin Neurobiol 42:25–32.
+Dasen JS, Tice BC, Brenner-Morton S, Jessell TM. 2005. A Hox 
+regulatory network establishes motor neuron pool iden-
+tity and target-muscle connectivity. Cell 123:477–491.
+Goulding M, Lanuza G, Sapir T, Narayan S. 2002. The formation 
+of sensorimotor circuits. Curr Opin Neurobiol 12:505–515.
+Hamasaki T, Leingartner A, Ringstedt T, O’Leary DD. 2004. 
+EMX2 regulates sizes and positioning of the primary sen-
+sory and motor areas in neocortex by direct specification 
+of cortical progenitors. Neuron 43:359–372.
+Horng S, Sur M. 2006. Visual activity and cortical rewiring: 
+activity-dependent plasticity of cortical networks. Prog 
+Brain Res 157:3–11.
+Ille F, Atanasoski S, Falkm S, et al. 2007. Wnt/BMP signal 
+integration regulates the balance between proliferation 
+and differentiation of neuroepithelial cells in the dorsal 
+spinal cord. Dev Biol 304:394–408.
+Kiecker C, Lumsden A. 2005. Compartments and their 
+boundaries in vertebrate brain development. Nat Rev 
+Neurosci 6:553–564.
+Levine AJ, Brivanlou AH. 2007. Proposal of a model of mam-
+malian neural induction. Dev Biol 308:247–256.
+Lim Y, Golden JA. 2007. Patterning the developing dienceph-
+alon. Brain Res Rev 53:17–26.
+Liu A, Niswander LA. 2005. Bone morphogenetic protein 
+signalling and vertebrate nervous system development. 
+Nat Rev Neurosci 6:945–954.
+Lupo G, Harris WA, Lewis KE. 2006. Mechanisms of ven-
+tral patterning in the vertebrate nervous system. Nat Rev 
+Neurosci 7:103–114.
+Mallamaci A, Stoykova A. 2006. Gene networks controlling 
+early cerebral cortex arealization. Eur J Neurosci 23:847–856.
+Nordstrom U, Maier E, Jessell TM, Edlund T. 2006. An early 
+role for WNT signaling in specifying neural patterns of 
+Cdx and Hox gene expression and motor neuron subtype 
+identity. PLoS Biol 4:1438–1452.
+Rash BG, Grove EA. 2006. Area and layer patterning in the 
+developing cerebral cortex. Curr Opin Neurobiol 16:25–34.
+Schlaggar BL, O’Leary DDM. 1991. Potential of visual cortex 
+to develop an array of functional units unique to soma-
+tosensory cortex. Science 252:1556–1560.
+Sharma J, Angelucci A, Sur M. 2000. Induction of visual ori-
+entation modules in auditory cortex. Nature 404:841–847.
+Song MR, Pfaff SL. 2005. Hox genes: the instructors working 
+at motor pools. Cell 123:363–365.
+Stamataki D, Ulloa F, Tsoni SV, Mynett A, Briscoe J. 2005. A 
+gradient of Gli activity mediates graded Sonic Hedgehog 
+signaling in the neural tube. Genes Dev 19:626–641.
+Struder M, Lumsden A, Ariza-McNaughton L, Bradley A, 
+Krumlauf R. 1996. Altered segmental identity and abnor-
+mal migration of motor neurons in mice lacking Hoxb-1. 
+Nature 384:630–634.
+von Melchner L, Pallas SL, Sur M. 2000. Visual behaviour 
+mediated by retinal projections directed to the auditory 
+pathway. Nature 404:871–876.
+Wolpert L, Beddington R, Brockes J, Jessell TM, Lawrence 
+PA, Meyerowitz E. 1998. Principles of Development. New 
+York: Oxford Univ Press.
+Wolpert L, Smith J, Jessell T, Lawrence P, Robertson E,  
+Meyerowitz E. 2006. Principles of Development, 3rd ed. 
+New York: Oxford Univ. Press.
+Wurst W, Bally-Cuif L. 2001. Neural plate patterning: 
+upstream and downstream of the isthmic organizer. Nat 
+Rev Neurosci 2:99–108.
+
+
+===== Page 7 =====
+46
+Differentiation and Survival of Nerve Cells
+I
+n the preceding chapter, we described how local 
+inductive signals pattern the neural tube and estab-
+lish the early regional subdivisions of the nervous 
+system—the spinal cord, hindbrain, midbrain, and 
+forebrain. Here, we turn to the issue of how progeni-
+tor cells within these regions differentiate into neurons 
+and glial cells, the two major cell types of the nervous 
+system. The mature brain comprises billions of nerve 
+cells and a similar number of glial cells arranged in 
+complex patterns, yet its precursor, the neural plate, 
+initially contains only a few hundred cells arranged in 
+a simple columnar epithelium. From this observation 
+alone, it should be apparent that the generation of neu-
+ral cells and their delivery to appropriate sites must be 
+carefully regulated.
+We begin by discussing some of the molecules that 
+specify neuronal and glial cell fates. The basic mecha-
+nisms of neurogenesis endow cells with common neu-
+ronal properties, features that are largely independent 
+of the region of the nervous system in which they are 
+generated or the specific functions they perform. We 
+also describe mechanisms by which developing neu-
+rons become specialized, for example by acquiring the 
+machinery to synthesize specific neurotransmitters.
+We next discuss how neurons are delivered from 
+their sites of origin to their final destinations. A com-
+mon theme is that neurons are frequently “born”—that 
+is, become postmitotic—far from where they end up, 
+for example, in the layers of the cerebral cortex or the 
+ganglia of the peripheral nervous system. Such dis-
+tances necessitate elaborate migratory mechanisms, 
+which differ among neuronal types.
+After the identity and functional properties 
+of the neuron have begun to emerge, additional 
+The Proliferation of Neural Progenitor Cells Involves 
+Symmetric and Asymmetric Cell Divisions
+Radial Glial Cells Serve as Neural Progenitors and  
+Structural Scaffolds
+The Generation of Neurons and Glial Cells Is Regulated 
+by Delta-Notch Signaling and Basic Helix-Loop-Helix 
+Transcription Factors
+The Layers of the Cerebral Cortex Are Established by 
+Sequential Addition of Newborn Neurons
+Neurons Migrate Long Distances From Their Site of Origin to 
+Their Final Position
+Excitatory Cortical Neurons Migrate Radially  
+Along Glial Guides
+Cortical Interneurons Arise Subcortically and Migrate 
+Tangentially to Cortex
+Neural Crest Cell Migration in the Peripheral Nervous 
+System Does Not Rely on Scaffolding
+Structural and Molecular Innovations Underlie the Expansion 
+of the Human Cerebral Cortex
+Intrinsic Programs and Extrinsic Factors Determine the 
+Neurotransmitter Phenotypes of Neurons
+Neurotransmitter Choice Is a Core Component of 
+Transcriptional Programs of Neuronal Differentiation
+Signals From Synaptic Inputs and Targets Can Influence 
+the Transmitter Phenotypes of Neurons
+The Survival of a Neuron Is Regulated by Neurotrophic 
+Signals From the Neuron’s Target
+The Neurotrophic Factor Hypothesis Was Confirmed by 
+the Discovery of Nerve Growth Factor
+Neurotrophins Are the Best-Studied Neurotrophic Factors
+Neurotrophic Factors Suppress a Latent Cell  
+Death Program
+Highlights
+
+
+===== Page 8 =====
+Chapter 46 / Differentiation and Survival of Nerve Cells    1131
+developmental processes determine whether the neu-
+ron will live or die. Remarkably, approximately half 
+of the neurons generated in the mammalian nervous 
+system are lost through programmed cell death. We 
+examine the factors that regulate the survival of neu-
+rons and the possible benefits of widespread neuronal 
+loss. Finally, we describe a core biochemical pathway 
+in nerve cells destined for elimination.
+The Proliferation of Neural Progenitor  
+Cells Involves Symmetric and Asymmetric  
+Cell Divisions
+Histologists in the late 19th century showed that neu-
+ral epithelial cells close to the ventricular lumen of the 
+embryonic brain exhibit features of mitosis. We now 
+know that the proliferative zones surrounding the ven-
+tricles are the major sites for the production of neural 
+cells in the central nervous system. Moreover, newborn 
+cells in the proliferative zones often become committed 
+to neuronal or glial fates before migrating from these 
+zones.
+At early stages of embryonic development, most 
+progenitor cells in the ventricular zone of the neural 
+tube proliferate rapidly. Many of these early neural 
+progenitors have the properties of stem cells: They 
+can generate additional copies of themselves, a pro-
+cess called self-renewal, and also give rise to differen-
+tiated neurons and glial cells. In a later chapter, we 
+will describe the more recent discovery that stem cells 
+resembling those of embryos also exist in the adult 
+brain and may be harnessed for therapeutic purposes 
+(Chapter 50).
+As with other types of stem cells, neural progeni-
+tor cells undergo stereotyped programs of cell divi-
+sion. One mode of cell division is symmetric: Neural 
+stem cells divide to produce two stem cells, and in this 
+way expand the population of proliferative progenitor 
+cells. This mode predominates at the earliest times, as 
+the neuroepithelium expands. A second mode is asym-
+metric: The progenitor produces one differentiated 
+daughter and another daughter that retains its stem 
+cell–like properties. This mode retains but does not 
+amplify the stem cell population. A third mode leads 
+to production of two differentiated daughters. In this 
+symmetric mode, the stem cell population is depleted. 
+All three modes have been found in the embryonic cer-
+ebral cortex in vivo and in cortical cells grown in tissue 
+culture (Figure 46–1).
+The incidence of symmetric and asymmetric cell 
+division is influenced by signals in the local envi-
+ronment of the dividing cell, making it possible to 
+control the probability of self-renewal or differentia-
+tion. Environmental factors can influence the outcome 
+of progenitor cell divisions in two fundamental ways. 
+They can act in an “instructive” manner, biasing the 
+outcome of the division process and causing the stem 
+cell to adopt one fate at the expense of others. Or they 
+can act in a “selective” manner, permitting the survival 
+and maturation of only certain cell progeny.
+Radial Glial Cells Serve as Neural Progenitors 
+and Structural Scaffolds
+Radial glial cells are the earliest morphologically dis-
+tinguishable cell type to appear within the primitive 
+neural epithelium. Their cell bodies are located in the 
+ventricular zone, and their long process extends to the 
+pial surface. As the brain thickens, the processes of 
+radial glial cells remain attached to the ventricular and 
+pial surfaces. After the generation of neurons is com-
+plete, many radial glial cells differentiate into astro-
+cytes. The elongated shape of the radial glial cell places 
+it in a favorable position to serve as a scaffold for the 
+migration of neurons that emerge from the ventricular 
+zone (Figure 46–2).
+The ventricular zone was once thought to con-
+tain two major cell types: radial glial cells and a set of 
+neuroepithelial progenitors that serve as the primary 
+source of neurons. More recently, this classical view 
+has changed dramatically. Once symmetric divisions 
+of stem cells have expanded the neuroepithelium, 
+these cells give rise to radial glial cells. The radial glial 
+cells serve as progenitor cells that generate both neu-
+rons and astrocytes in addition to their role in neuronal 
+migration (Figure 46–2). Labeling of radial glial cells 
+with fluorescent dyes or viruses shows that their clonal 
+progeny include both neuronal and radial glial cells. 
+These findings indicate that radial glial cells are able to 
+undergo both asymmetric and self-renewing cell divi-
+sion and serve as a major source of postmitotic neu-
+rons as well as astrocytes.
+The Generation of Neurons and Glial Cells Is 
+Regulated by Delta-Notch Signaling and Basic 
+Helix-Loop-Helix Transcription Factors
+How do radial glial cells make the decision to self-
+renew, generate neurons, or give rise to mature 
+astrocytes? The answer to this question involves an 
+evolutionarily conserved signaling system.
+In flies and vertebrates, neural fate is regulated 
+by a cell-surface signaling system, comprised of the 
+
+
+===== Page 9 =====
+1132    Part VII / Development and the Emergence of Behavior
+Asymmetric
+Progenitor cells
+Neurons
+Oligodendrocytes
+Symmetric
+A  Strategies of cell division
+B
+P
+N
+P
+G
+P
+P
+P
+P
+N
+P
+N
+N
+Figure 46–1  Neural progenitor cells have different modes 
+of division.
+A. Asymmetric and symmetric modes of cell division. A pro-
+genitor cell (P) can undergo asymmetric division to generate 
+a neuron (N) and a glial cell (G), or a neuron and another pro-
+genitor. This mode of division contributes to the generation 
+of neurons at early stages of development and of glial cells 
+at later stages, typical of many regions of the central nervous 
+system. Progenitor cells can also undergo symmetric division 
+to generate two additional progenitor cells or two postmitotic 
+neurons.
+B. Time-lapse cinematography captures the divisions and dif-
+ferentiation of isolated cortical progenitor cells in the rodent. 
+Lineage diagrams illustrate cells that undergo predominantly 
+asymmetric division, giving rise to neurons, or symmetric 
+division, giving rise to oligodendrocytes. (Adapted, with per-
+mission, from Qian et al. 1998. Permission conveyed through 
+Copyright Clearance Center, Inc.)
+transmembrane ligand Delta and its receptor Notch. 
+This signaling system was revealed in genetic stud-
+ies in Drosophila. Neurons emerge from within a 
+larger cluster of ectodermal cells, called a proneural 
+region, all of which have the potential to generate 
+neurons. Yet within the proneural region, only cer-
+tain cells form neurons; the others become epider-
+mal support cells.
+Delta and Notch are initially expressed at similar 
+levels by all proneural cells (Figure 46–3A). With time, 
+however, Notch activity is enhanced in one cell and 
+suppressed in its neighbor. The cell in which Notch 
+activity is highest loses the potential to form a neuron 
+and acquires an alternative fate. The binding of Delta 
+to Notch results in proteolytic cleavage of the Notch 
+cytoplasmic domain, which then enters the nucleus. 
+
+

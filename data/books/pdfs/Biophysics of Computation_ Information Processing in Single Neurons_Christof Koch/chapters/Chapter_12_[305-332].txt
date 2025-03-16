@@ -1,0 +1,1111 @@
+===== Page 1 =====
+DENDRITIC SPINES
+Dendritic spines, sometimes also called dendritic thorns, are tiny, specialized protoplasmic
+protuberances that cover the surface of many neurons. First described by Ramon y Cajal
+(1909; 1991) in light-microscopic studies of Golgi stained tissue, they are among the most
+striking subneuronal features of many neurons. Indeed, the presence of a high density of
+dendritic spines allows the unambiguous classification of neuronal types into spiny and
+aspiny, sparsely spiny, or smooth neurons. Over 90% of all excitatory synapses that occur
+in the cortex are located on dendritic spines. Spines can be found in all vertebrates as well as
+in invertebrates (e.g., the dendrites of Kenyon cells in the mushroom bodies in the olfactory
+system of the insect brain). The intimate association of spines with synaptic traffic suggests
+some crucial role in synaptic transmission and plasticity.
+Because of their submicrometer size (see below), physiological hypotheses as to the
+function of dendritic spines have only very recently become accessible to the experimental-
+ist. For the previous two decades, spine properties have been investigated through analytical
+and computational studies based on morphological data, providing a very fertile ground for
+the crosspollination of theory and experiment. (For a very readable historical account of
+this see Segev et al., 1995.) The recent technical advances in the direct visualization of
+calcium dynamics in dendrites and spines are now permitting direct tests of some of these
+theoretical inferences (Guthrie, Segal, and Kater, 1991; Mu'ller and Connor, 1991; Yuste
+and Denk, 1995; Denk, Sugimori, and Llinas, 1995; Svoboda, Tank, and Denk, 1996). As
+discussed in this chapter and, more extensively, in Chap. 19, the theoretical models that
+have endowed spines with active properties giving rise to all-or-none behavior (Perkel and
+Perkel, 1985; Shepherd et al., 1985; Segev and Rail, 1988; Baer and Rinzel, 1991) have, in
+general, been confirmed experimentally.
+Historically, the possibility of implementing synaptic memory by modulating the elec-
+troanatomy of spines was recognized early on (Chang, 1952) and was subsequently analyzed
+in depth by Rail (1970, 1974, 1978) and many others. Because small changes in the spine
+morphology can lead to large changes in the amplitude of the EPSP induced by the excitatory
+synapse on the spine, spines have been considered to contribute to the modulation of synaptic
+"weight" during long-term potentiation (see Chap. 13). In a radical extension of this original
+idea, Crick (1982) advanced the "twitching spine" hypothesis, the notion that spines, using
+actin-based contractile machinery in the spine neck, could subserve very fast changes (less
+280
+12
+
+
+===== Page 2 =====
+12.1 Natural History of Spines 
+• 
+281
+than a second) in synaptic efficacy, and that this might provide a mechanism for short-term
+memory. Remarkably, it has now been shown in cultured hippocampal neurons that spines
+can change their shape within seconds (Fischer et al., 1998).
+Within the last years the focus of research has shifted away from the electrical properties
+of spines toward their ability to provide a local and isolated biochemical compartment for
+calcium and other second messengers underlying the induction and expression of synaptic
+plasticity (for the first clear statement of this, see Shepherd, 1972, 1978; for reviews, see
+Koch and Zador, 1993; Harris and Kater, 1994; Shepherd, 1996). Furthermore, spines have
+also been treated as devices subserving highly localized "pseudological" computations.
+We begin this chapter by reviewing the natural history of spines before we analyze their
+electrical properties and show how dendrites studded with spines can be reduced to smooth
+dendrites in terms of the solution of the associated linear cable equation. We defer a thorough
+discussion of the threshold type of logical computations that can be carried out in spines
+with HH-like membranes to Sec. 19.3.2. Finally, we apply the concepts introduced in the
+previous chapter to understand why spines can serve as a microenvironment for highly local
+calcium changes that serve to isolate synapses on the spine from the dendrite and vice versa.
+12.1 Natural History of Spines
+In the following, we review some of the pertinent facts concerning the structure, size, and
+distribution of dendritic spines.
+12.1.1 Distribution of Spines
+Neurons in different parts of the brain can be classified into two groups according to whether
+or not their dendrites are studded with spines. Spiny neurons include pyramidal and stellate
+cells and account for about three-quarters of the neurons in the neocortex, while smooth cells,
+whose dendrites carry few or no spines, make up the remainder. Smooth cells include basket
+cells, chandelier or axo-axonic cells, and double-bouquet cells, and stain for the inhibitory
+neurotransmitter GABA (Douglas and Martin, 1998). It is at present a mystery why one
+class of cortical cells, inhibitory interneurons, should have no spines, while excitatory cells
+have so many.
+It is important to realize that in many parts of the brain outside of the cortex, inhibitory
+cells can be covered with spines. Two of the best known examples are the Purkinje cells
+in the cerebellum (Llinas and Walton, 1998) and the principal cells in the neostriatum
+(Kawaguchi, Wilson, and Emson, 1990; Wilson, 1998). Both are covered by spines, both
+use an inhibitory neurotransmitter, and both constitute the only output of their respective
+systems (Fig. 12.1).
+Indeed, the proper generalization appears to be that spiny cells are the principal output
+cell class of their particular brain area (frequently also referred to as projection cells;
+Shepherd, 1998).
+Spines are numerous. A large layer 5 pyramidal cell in the visual cortex may have as
+many as 15,000 spines, averaging about two spines per micrometer of dendrite (Larkman,
+1991), while the density for CA1 pyramidal cells varies from about one to five spines per
+micrometer of dendrite, depending on the staining method used (Harris and Stevens, 1989;
+Amaral, Ishizuka, and Claiborne, 1990). The inhibitory projection cells in the neostriatum
+have a peak density of four to six spines per micrometer of dendrite (Wilson et al., 1983).
+The record, though, is held by cells in the human cerebellum, where individual Purkinje
+
+
+===== Page 3 =====
+282 . 
+DENDRITIC SPINES
+Fig. 12.1 SPINY INHIBITORY NEURON Dendritic (left) and axonal (right) arborization of a pro-
+jection cell in the rat neostriatum, part of the basal ganglia, that was injected with biocytin and
+reconstructed. The dendrites are covered by up to five spines per micrometer. In the human, three-
+quarters of the approximately 110 million neostriatum neurons are of this type. They make both local
+connections, as illustrated here, and leave the neostriatum (elongated arrow) to terminate in the globus
+pallidus. These axons are the only output of the neostriatum and have an inhibitory effect on their
+postsynaptic target. Spiny cells in neocortex and hippocampus, in contrast, are excitatory. Reprinted
+by permission from Kawaguchi, Wilson, and Emson (1990).
+cells are studded by up to 200,000 spines, each spine carrying a single excitatory synapse
+from a parallel fiber (Braitenberg and Atwood, 1958; Harris and Stevens, 1988b).
+12.1.2 Microanatomy of Spines
+Spines are found in a wide variety of shapes (Jones and Powell, 1969; Peters and Kaiserman-
+Abramof, 1970; Woolf, Shepherd, and Greer, 1991a,b; Figs. 12.2-12.4), ranging from short
+and stubby, through the archetypal "mushroom shaped," to long and thin ones. Many spines
+branch. In the case of spines on CAS hippocampal pyramidal cells receiving mossy fiber
+inputs, up to 16 branches have been observed to emerge from a single dendritic origin
+(Chicurel and Harris, 1992).
+Given the diversity of spine shapes (Fig. 12.4), it is not easy to define the "average"
+spine. However, most spines show a clearly differentiated "neck" and a "head." Their exact
+morphology can best be appreciated via three-dimensional reconstructions of serial electron
+micrographs of the entire cell (a heroic task) as carried out by White and Rock (1980) in
+the mouse somatosensory cortex, by Wilson et al., (1983) in the neostriatum, and by Harris
+and Stevens (1988a,b, 1989) in the cerebellum and the cortex. For CA1 pyramidal cells in
+the rat hippocampus, Harris and Stevens (1989) found wide variability in the dimensions
+of spines, with spine necks ranging in length from 0.08 to 1.58 /urn and in diameter from
+0.04 to 0.46 //m. The total volume ranges from 0.04 to 0.56 /um3 (Fig. 12.4; see also Segev
+
+
+===== Page 4 =====
+12.1 Natural History of Spines
+283
+Fig. 12.2 STEREO VIEW OF A SPINY DENDRITE 
+Stereoscopic view of a portion of a spiny dendrite
+(of the type shown in Fig. 12.1) in the rat neostriatum. The large number of spines springing from
+the dendrite can be viewed in depth by focusing the eyes at a point at infinity (that is, by looking
+through the image). The reconstruction has been performed using high-voltage electron-microscopic
+axial tomography from a single 3-^tm-thick section. The cube has a dimension of 0.5 p,m on each
+side. Reprinted by permission from Wilson et al., (1992).
+Fig. 12.3 DENDRITIC SPINES IN THE HIPPOCAMPUS
+Three-dimensional reconstruction of a piece of dendrite
+from a CA1 pyramidal cell of the rat hippocampus. There
+are between one and three spines per micrometer of den-
+drite. The diversity in the morphologies and dimensions
+of spines is striking. Reprinted by permission from Harris
+and Stevens (1989).
+et al., 1995). Larger spine heads are associated with larger synapses—as measured by the
+size of the associated postsynaptic density—and more vesicles in the presynaptic axonal
+varicosity.
+These dimensions indicate how spines bridge the gap between molecular and cellular
+scales: at a resting concentration of 80 nM and for the average spine head volume of
+0.05 //,m3, only about two unbuffered Ca2+ ions are expected to be found in a spine head.
+Dendritic spines appear to be filled with complex cellular machinery (for an overview, see
+Harris and Kater, 1994), most notably a specialized form of smooth endoplasmic reticulum
+termed the spine apparatus. The membranes making up the spine apparatus are closely
+apposed to the plasma membrane of the spine neck and appear to sequester calcium (Fifkova,
+Markham, and Delay, 1983; Burgoyne, Gray, and Barron, 1983).
+
+
+===== Page 5 =====
+284 . 
+DENDRITIC SPINES
+Type of Spine 
+dn (nm) 
+L (jirn) 
+Area (jim2) Volume (urn3)
+Thin 
+0.10 ±0.03 0.98 ±0.42 0.59 ±0.29 
+0.04 + 0.02
+Mushroom 
+0.20 ±0.07 1.50 + 0.25 2.70 ±0.93 
+0.29 ±0.13
+Stubby 
+0.32 + 0.13 0.44 + 0.15 0.45 ±0.14 
+0.03 + 0.01
+Fig. 12.4 DIVERSITY OF SPINE SHAPES Three most frequent types of spine shapes in the cortex with
+some of their dimensions: spine neck diameter dn, total length L, surface area, and volume. The length
+of the spine neck /„ is 0.51 ± 0.34 /zm for thin spines and 0.43 ± 0.21 /urn for mushroom-type spines.
+All values are averages and standard deviations. Black areas indicate the postsynaptic densities (PSD)
+of the asymmetric excitatory synapses on the spines. Frequently more than one synapse is located on
+a spine. Stubby spines are also known as "sessile." The data are measured from electron-microscopic
+reconstructions of spines on adult rat CA1 hippocampal pyramidal cells. Reprinted in modified form
+by permission from Harris, Jensen, and Tsao (1992).
+Other cellular organs, such as mitochondria, microtubules, or ribosomes, are usually
+absent. An exception are the spines on granule cell dendrites, which make reciprocal dendro-
+dendritic synapses with projection neurons in the mammalian olfactory bulb (Rail et al.,
+1966; Cameron, Kaliszewski, and Greer, 1991; Sec. 5.3). Here the mitochondria are most
+likely needed to provide energy to subserve presynaptic functions. Although spines lack
+neurofilaments, spine heads contain a dense network of actin filaments (Fischer et al., 1998).
+In the neck, actin filaments are oriented lengthwise along the spine apparatus (Fifkova,
+1985). A number of proteins known to be involved in actin-mediated activities, such as
+neuronal myosin (Drenckhahn and Kaiser, 1983), fodrin (Carlin, Bartelt, and Siekevitz,
+1983) and calmodulin (Caceres et al., 1983), have been found in dendritic spines.
+The close association of spines with the terminal boutons of axons prompted early specu-
+lation that spines might conduct impulses between neurons (Ramon y Cajal, 1909). Electron
+microscopic studies have since confirmed that spines are indeed the major postsynaptic
+target of excitatory (asymmetric, type I) synaptic input (Gray, 1959). For instance, in cat
+visual cortex, 93% of the afferent geniculate terminals in layer 4 is located on spines (LeVay,
+1986), while a similarly high percentage is observed in the Schaffer projection from CA3
+cells onto CA1 pyramidal cells in the hippocampus. Note, however, that not all excitatory
+pathways terminate on spines. For instance, about 70% of the excitatory synapses from
+layer 6 pyramidal cells terminates directly on the dendrites of layer 4 spiny stellate cells,
+and only a bit less than one-third of layer 6 synapses chooses spines as their termination
+zones (Ahmed et al., 1994). As mentioned before, excitatory projections onto inhibitory
+cells always make a synapse directly onto the dendrites since these cells lack spines.
+Interestingly, the association between spines and synapses is limited to excitatory traffic.
+Inhibitory (symmetric, type II) profiles are only observed at a small fraction (between 5
+and 20%) of spines in the cortex, but usually in conjunction with excitatory synapses and
+
+
+===== Page 6 =====
+12.2 Spines only Connect 
+• 
+285
+never by themselves (Jones and Powell, 1969; Dehay et al., 1991; Fifkova, Eason, and
+Schaner, 1992).
+12.1.3 Induced Changes in Spine Morphology
+Both the absolute number and the shape of spines can change—sometimes quite drastic-
+ally—in the young and in the mature animal, and also as a function of external stimulation.
+During development, absolute spine density can more than double relative to densities
+in the adult. Yet this increase does not occur homogeneously across all spines. Rather,
+thin, branched, and certain types of mushroom spines increase fourfold in density (between
+2 weeks postnatal and adulthood in the rat hippocampus), while stubby spines decrease
+by more than half (Harris and Stevens, 1989; Harris, Jensen, and Tsao, 1992; see also
+Schiiz, 1986; Papa et al, 1995; and Fig. 12.4). In adult female rats, the dendritic spine
+density on CA1 hippocampal pyramidal cells varies by 30% or more over the five-day
+estrus cycle, while pyramidal cells in the CAS region show little statistically significant
+variation (Woolley et al., 1990). It is not known whether the number of synapses also varies
+by this fraction, or whether it is just the spines that wax and wane, but this certainly makes
+for a very dynamic environment.
+Other studies have shown that the shape of spines—in particular the length and diameter
+of the neck—can change in response to behavioral or environmental cues such as light,
+social interaction, or one-shot learning or exploratory motor activity (Purpura, 1974; Coss
+and Globus, 1978; Bradley and Horn, 1979; Brandon and Coss, 1982; Rausch and Scheich,
+1982; Lowndes and Stewart, 1994; Moser, Trommald, and Andersen, 1994).
+As discussed in the following chapter, long-term potentiation (LTP), the best studied
+form of synaptic plasticity, is induced by brief high-frequency electrical stimulation. In
+the hippocampus, stimulating cells in this manner causes alterations in the spine structure
+(Van Harrefeld and Fifkova, 1975; Lee et al., 1980; Greenough and Chang, 1985; Desmond
+and Levy, 1990; Calverly and Jones, 1990; Harris, Jensen and Tsao, 1992). Some of the
+reported changes include larger spine heads, distortions in the shape of the spine stem,
+an increased incidence of concave spine heads, and an increase in the number of shaft
+synapses. It is not known what role—if any—the changes in spine shape play in the
+increase in synaptic efficacy (see also Desmond and Levy, 1988). Remarkably, some of
+these changes in spine shape occur within seconds, mediated by actin filaments (Fischer et
+al., 1998).
+12.2 Spines only Connect
+Most of the early hypotheses considered the establishment of physical contact with presy-
+naptic terminals as the main function of spines. (For a modern view of this, see Swindale,
+1981.) It was argued that because dendritic space is scarce, spines provide additional
+membrane areas for synapses to make contact with. This idea has been largely dismissed,
+however, because electron microscopic views of spiny dendrites show that the dendritic
+membrane between spines often lacks synapses.
+On the basis of their three-dimensional electron-microscopic reconstructions, Harris
+and Stevens (1988a) estimate that 29-45% of the dendritic membrane area of Purkinje cells
+would have been covered by synapses if all spines had been deleted and the associated
+synapses moved onto the dendrites. For CA1 pyramidal cell dendrites, only 5-9% of the
+total dendritic surface area would have been covered by the spine synapses (Harris and
+
+
+===== Page 7 =====
+286 
+• 
+DENDRITIC SPINES
+Stevens, 1988a), arguing against the hypothesis that spines are necessary to supplement
+the dendritic membrane area available for synaptic contacts. This is corroborated by the
+observation (Schiiz and Dortenmann, 1987) that the density of excitatory synapses on
+nonspiny dendrites in the cortex exceeds the spine density of pyramidal cell dendrites.
+These results do not, however, address whether spines play a role in streamlining the
+layout of axonal and dendritic processes in the three-dimensional neuropil. It is certainly
+true that for a fixed dendritic radius, spiny dendrites sample a larger brain volume than
+dendrites devoid of spines (indeed, the latter tend to be thicker than the former; Harris and
+Kater, 1994).
+In order to understand the functional theories that have been proposed to explain
+the existence of spines, we need to study their electrical properties and their ability to
+compartmentalize various important biological molecules.
+12.3 Passive Electrical Properties of Single Spines
+Rail (1974, 1978) was the first researcher to analyze the properties of passive spines,
+followed by many others (Wilson, 1984; Turner, 1984; Koch and Poggio, 1983a,b; Brown
+et al., 1988). We here follow the derivation of Koch and Poggio (1983b).
+12.3.1 Current Injection into a Spine
+The principal idea can be understood in terms of the simplified electrical circuit of a passive
+spine attached to a dendrite (Fig. 12.5). Any current injected into the spine head must flow
+either across the spine head resistance R/, and capacitance Cf, or down through the spine
+neck impedance and into the dendrite. Neglecting capacitive and cable properties of the
+neck—due to its tiny size—we model the spine neck resistance as that of a cylinder of
+length /„, diameter dn, and resistivity /?,-,
+(12.1)
+The input impedance of the spine head membrane can be described by the complex function
+(12.2)
+where rm = RhCh = RmCm. Because RH is inversely proportional to the spine head area,
+for average spine dimensions, Rh > 1000 GQ.
+The input impedance at the spine head Ksp<sp(f) is determined by current flowing either
+through the spine head or through the spine neck. Remembering the way parallel resistances
+add, we have
+(12.3)
+where Kdd(f) is the dendritic input impedance. Because for the entire relevant frequency
+range (up to hundreds of kilohertz) the spine head impedance is so much bigger than the
+sum of the spine neck resistance and the dendritic input impedance, we obtain the simple
+additive relationship between spine and dendritic input impedance,
+(12.4)
+
+
+===== Page 8 =====
+12.3 Passive Electrical Properties of Single Spines 
+• 
+287
+Fig. 12.5 ELECTRICAL MODEL OF A PASSIVE SPINE 
+(A) Schema of a spine with a single synaptic
+input on a passive dendrite. Drawn to scale, the dendrite is 0.63 /u.m thick, the spine head has a diameter
+of 0.7 ^m, and the spine neck has dimensions of dn =0.1 fj,m and /„ = 1 /xm. With /?; = 200 £2-cm,
+the spine neck resistance is 254 MS (Eq. 12.1). With a spine neck half as thick, Rn quadruples to just
+beyond 1 G£2. (B) Lumped electrical model of such a spine, described by an RC "head" compartment
+attached through an ohmic neck resistance Rn to the parent dendrite. Due to its small size, the cable
+and capacitive properties of the neck can be neglected.
+Solving directly for the transfer impedance from the spine to the parent dendrite on the basis
+of Fig. 12.5 while assuming that no current loss occurs across the spine head membrane up
+to very high frequencies, leads to
+(12.5)
+Numerically, the two last equations hold to within a small fraction of a percent (Koch and
+Poggio, 1983b). By exploiting transitivity (Eq. 3.29), we can write an expression for the
+transfer impedance from the spine to any point i in the dendritic tree as
+(12.6)
+
+
+===== Page 9 =====
+288 
+• 
+DENDRITIC SPINES
+In other words, the depolarization at any point i in a passive dendritic tree due to a spine
+input is identical to the EPSP caused by the same current injected into the dendrite at the
+base of the spine. Or, put more succinctly, electrically speaking, "spines don't matter in the
+linear case" (Koch and Poggio, 1985c). The reason why any current injected into the spine
+will reach the dendrite is that practically no current is lost across the membrane of the spine
+head and neck.
+However, it should be noted that the membrane potential in the spine neck might need to
+exceed some critical threshold value to be able to initiate some biochemical event (such as
+those leading to long-term potentiation, as described in Chap. 13). If a synapse were made
+directly on the dendrite, it would require a far larger conductance change to achieve the
+same EPSP amplitude than a synapse on a spine. Thus, spines might matter for essentially
+"local" reasons (see below and Segev et al., 1995).
+12.3.2 Excitatory Synaptic Input to a Spine
+As discussed above, spines always appear to carry at least one excitatory synapse (Fig. 12.5).
+We can express the current flowing across this synapse as
+(12.7)
+where Vsp is the EPSP at the spine head. Applying Ohm's law, we arrive at
+(12.8)
+Dealing first with stationary (or slowly varying) synaptic input, we can express the
+steady-state amplitude of the spine EPSP as
+(12.9)
+where Ksp^sp corresponds to the amplitude of the steady-state spine input resistance. By the
+judicious use of Ohm's and Kirchhoff 's laws, we can derive a similar expression for V^,
+the EPSP in the dendrite just below the spine,
+(12.10)
+Let us consider these equations in the case of very small and very large synaptic input.
+If the product of the synaptic conductance change gsyn and the spine input resistance
+Ksp<sp is much less than 1, the numerator in Eqs. 12.9 and 12.10 can be approximated by 1
+and the spine and dendritic EPSPs can be expressed as
+(12.11)
+and
+(12.12)
+In other words, if the synaptic-induced conductance change gsyn is small relative to the
+spine input conductance ]/KspiSp, the action of the synapse can be approximated by a
+constant current source of amplitude gsynEsyn. As we saw above, spines do not matter in
+this limit. More specifically, changes in spine morphology have no effect on the dendritic
+potential just below the spine. Note, however, that this does not imply that the spine EPSP is
+identical to the dendritic EPSP; they are not. Indeed, the dendritic EPSP will be attenuated
+
+
+===== Page 10 =====
+12.3 Passive Electrical Properties of Single Spines 
+• 
+289
+with respect to the spine EPSP by a factor of Vj/Vsp = Kddl(f-dd + Rn) (Kawato and
+Tsukahara, 1983; Turner, 1984; Koch and Poggio, 1985c).
+At the other extreme, if gsyn is large (that is, if gsyn KspiSp 3> 1), the voltage at the spine
+head saturates and the spine potential converges toward the synaptic reversal potential
+(12.13)
+while the dendritic EPSP converges to
+(12.14)
+Because in this regime the synapse-spine complex acts as a voltage—rather than a current—
+source, that is, like a battery, changes in the geometry of the spine neck will—via changes in
+/?„—affect the amount of synaptic current entering the spine head. Under these conditions,
+changes in spine morphology will change the effective "weight" of the synapse.
+Figure 12.6A indicates graphically how stretching or squishing the spine neck, keeping
+its membrane area constant, affects the somatic EPSP for a sustained synaptic input of
+gpeak = 1 nS. Spine geometry only plays a role for very thin and elongated spines, when
+gpeak > l/Rn (the curve bends around dn = 0.05 /^m, where gpeak & !//?„). For transient
+inputs, very similar considerations apply (Fig. 12.6A and B). Owing to the very small
+membrane area of the spine head, the total spine capacity is exceedingly small, leading to
+very large impedance values even at high frequencies. Thus, relative independence of the
+dendritic membrane potential for small conductance inputs and saturation for large inputs
+also hold for very rapid inputs (Fig. 12.6). Spine neck geometry can affect the weight of
+the synapse significantly if the spine starts out very thin and elongated and becomes very
+short and chubby. (However, a factor of 5 change of the somatic EPSP requires an order of
+magnitude change in both /„ and dn.)
+Depending on the product of the synaptic conductance change and the spine input
+resistance, gSynKSp,sp = gsyn(Kdd + ^«)» the spine-synapse complex will thus tend to
+act either more as a current or as a voltage source, constraining the extent to which the
+morphology of the spine can alter the synaptic efficiency of the synapse. An additional
+requirement for the spine shape to influence the synaptic weight is that Rn needs to be large
+compared to the dendritic input resistance. Otherwise, modulating /?„ will have little or no
+effect on Ksp,sp (Eq. 12.10).
+We can now pose the critical question: are spines elongated and thin enough to be able to
+effectively modulate synaptic weight? Technical advances in the last decade have provided
+sufficient data to estimate the spine operating regime. Probably the most complete data are
+available at the Schaffer collateral input to region CA1 pyramidal cells in the hippocampus.
+Here, the experimental estimates of gsyn are 0.05-0.2 nS for the fast voltage-independent
+AMPA synaptic component (Bekkers, Richerson, and Stevens, 1990; Malinow and Tsien,
+1990) and less than 0.5 nS for the NMDA component (Bashir et al., 1991).
+Based on their reconstruction of spines in the same region, Harris and Stevens (1988b,
+1989) estimate the spine neck conductance Gn — !//?„ to lie mainly between 18 and
+138 nS, making the critical ratio gsyn/Gn very small. Even taking account of the spine
+apparatus, the smooth endoplasmic reticulum that partly occludes the spine neck, does not
+change this conclusion appreciably. Svoboda, Tank, and Denk (1996), on the basis of high-
+resolution two-photon microscopy, directly estimated the diffusive and resistive coupling
+between the spine head and its parent dendrite, concluding with a lower bound on Gn
+of7nS.
+
+
+===== Page 11 =====
+290
+DENDRITIC SPINES
+Fig. 12.6 How Do CHANGES IN SPINE NECK GEOMETRY AFFECT SYNAPTIC WEIGHT? 
+Neck
+length ln of a single spine is varied in the presence of a single fast ((peak = 0.5 msec) voltage-
+independent excitatory synapse (gpeak = 1 nS) on a spine along the upper portion of the apical tree in
+the layer 5 pyramidal cell (around location a 1 in Fig. 3.7). We here assume that the total surface area
+of the spine neck remains constant (at 0.157 /xm2) as dn (upper part of label on x axis) is changed,
+implying that the spine neck length /„ (lower part of label on x axis) changes inversely. It follows from
+Eq. 12.1 that the spine neck resistance scales as d~3. The resultant EPSP is computed at the spine head
+itself (in A) as well as at the soma (in B). Experimental estimates of the spine neck resistance Rn are
+below 150 M£2, corresponding here to values of dn > 0.15 /xm, falling on the portion of the curve that
+is relatively flat. Given the large spine neck conductance relative to the peak synaptic conductance
+change (estimated to be about 0.2 nS for the AMPA component), changes in spine geometry are
+likely to have only a minor effect on the size of the associated EPSP. In other words, postsynaptic
+changes in spine geometry are unlikely to implement synaptic "weight" changes. The dotted curve in A
+corresponds to the steady-state change in membrane potential in response to a sustained conductance
+input of the same amplitude as the transient input. When the spine is shielded from any dendritic
+capacitance, that is, for dn -> 0, the capacitance of the spine itself can be neglected.
+
+
+===== Page 12 =====
+12.3 Passive Electrical Properties of Single Spines 
+• 
+291
+In agreement with earlier estimates of spine dimensions (Wilson, 1984; Turner, 1984;
+Brown et al., 1988), we conclude that the hippocampal projection onto spines on CA1
+pyramidal cells acts as a current source and that changing the morphology of these spines
+most likely does not affect the associated dendritic EPSP. A similar conclusion has also
+been reached for a reconstructed spiny stellate cell in somatosensory cortex (Segev et al.,
+1995).
+A different way to understand this is to ask: What effective synaptic conductance does an
+excitatory synapse directly on the dendrite need to possess in order to inject the same current
+as an excitatory synapse of amplitude gsyn on a spine? Neglecting all capacitive effects and
+any other synaptic input, the single spine will inject the current /„ = gsyn^syn/O + ^ngsyn)
+into the dendrite. Thus, a synapse on a spine can be mimicked by a dendritic synapse of
+amplitude
+(12.15)
+We see that unless the product of the spine neck resistance with the synaptic conductance
+change is on the order of unity (or larger), the effect of the spine can be neglected.
+The observation that spine necks probably do not contribute toward modulating synap-
+tic weight agrees with experimental evidence regarding the mechanisms underlying the
+expression of LTP in the hippocampus. While the specific pathways and sites of action
+remain controversial, there is little to suggest that a postsynaptic change in the electrical
+impedance of the spine is involved (see the next chapter). This conclusion is also likely
+to hold in the neocortex, unless synaptic conductance changes are substantially larger and
+spines thinner and longer than in hippocampus.
+12.3.3 Joint Excitatory and Inhibitory Input to a Spine
+As mentioned above, it has been a consistent observation that between 5 and 15% of all
+spines in the cortex carry symmetrical, GABAergic synaptic terminals. Almost always,
+these same spines are also contacted by excitatory synapses. Such a pair of excitatory and
+inhibitory synapses localized on a single spine would be the ultimate in highly specific
+microcircuitry.
+Koch and Poggio (1983a,b; see also Diamond, Gray, and Yasargil, 1970) proposed that
+such a dual synaptic arrangement can implement a temporally and spatially very specific
+veto operation on the basis of the nonlinear interaction between excitation and inhibition of
+the silent or shunting type (see Sec. 5.1). Indeed, they found that fast GABA^ inhibition can
+reduce the EPSP in the spine to very small levels provided that it arrived within a very tight
+time window around the onset of excitation (Fig. 12.7A). According to these numerical
+solutions to the linear cable equation, such a microcircuit implements an AND-NOT gate
+with temporal discrimination at the 0.1 msec level.
+The degree of temporal specificity, caused by the exceedingly small capacitance in the
+spine head, can be quantified by the use of the input delay in the spine Dsp,sp (Sees. 2.4
+and 3.6.2). Following Agmon-Snir and Segev (1993), this corresponds to the delay between
+the centroid of the synaptic current and the centroid of the local EPSP. On the basis of the
+electrical model of the spine illustrated in Fig. 12.5 and neglecting the tiny current loss
+across the spine head membrane, we have
+(12.16)
+
+
+===== Page 13 =====
+292
+DENDRITIC SPINES
+Fig. 12.7 AND-NOT GATING AT THE LEVEL OF A SINGLE SPINE Nonlinear interaction of the AND-
+NOT type between a fast excitatory synaptic input (of the AMPA type) and inhibition at a single spine.
+(A) The effectiveness of silent GABA/i inhibition in reducing excitation when both are colocalized
+either on the spine (solid curve) or on the dendrite at the base of the spine (dotted curve). The curve
+shows the F factor (Eq. 5.14), that is, the ratio of EPSP without inhibition to the mixed excitatory-
+inhibitory potential, as a function of the onset of inhibition relative to excitation. The half-widths of the
+curves are 0.12 and 0.22 msec for the spine and dendrite case, respectively. The linear cable equation
+for a spine located on a pyramidal cell was solved with 1^^. = 0.25 msec for both excitation and
+inhibition, Et = 0 and Ee = 80 mV. Reprinted in modified form by permission from Koch and Poggio
+(1983b). (B) Time course of the spine membrane potential (relative to rest) for the nonlinear Nernst-
+Planck electrodiffusion model. Here a small EPSP (solid line; (peai; = 1 msec, G^ = 0.1 nS) can be
+effectively vetoed by a hyperpolarizing potassium conductance increase (due to a GAB AS inhibition
+with ?peak = 1 msec, GK = 1 nS; lower dotted curve), while the same or a hundred times stronger
+conductance change associated with silent inhibition of the GABA/i type (intermediate dashed curves)
+had almost no effect. Reprinted in modified form by permission from Qian and Sejnowski (1990).
+where D^ is the local dendritic delay at the base of the dendrite. If the spine neck is
+sufficiently thin and elongated, the time window during which inhibition can effectively
+veto excitation can be a fraction of the corresponding dendritic time window. This effect
+is particularly strong for spines close to the soma—providing an isolated environment for
+excitation and inhibition to interact on a very small time scale—while the local spine
+delay for spines in the distal dendritic tree will be close to the local dendritic delay
+(Kdd/Rn -> oo).
+However, as described in Sec. 11.3, for very thin processes it is important to account
+
+
+===== Page 14 =====
+12.3 Passive Electrical Properties of Single Spines 
+• 
+293
+for the change in the relevant ionic concentrations. In the case of a spine, even small
+synaptic inputs can significantly alter the reversal potentials for chloride and potassium,
+both across the membrane and between the spine head, neck, and the dendrite. This
+requires solving the nonlinear Nernst-Planck equation as advocated by Qian and Sejnowski
+(1989, 1990). They studied the interaction between excitation and inhibition on a spine
+and found that for reasonable inhibitory conductance changes associated with chloride ions
+(such as would be caused by activation of GAB A^ receptors), the intracellular concentra-
+tion of chloride rapidly increases, bringing the synaptic reversal potential of inhibition
+substantially above the resting potential, thereby rendering it ineffective (Fig. 12.7B).
+Indeed, massive activation of GABA^ receptors in thin processes will lead to a depo-
+larization as the chloride concentration gradient decreases, shifting ECI to progressively
+more depolarized values. Such "paradoxical" EPSPs have indeed been observed in distal
+dendrites of pyramidal cells following intense GABAA activation (Staley, Soldo, and
+Proctor, 1995).
+While shifts in the potassium reversal battery will also occur, rendering GABA^ inhi-
+bition equally ineffective for large conductance changes, the situation is quite different for
+small inputs. Here £K moves toward the resting potential of the spine, causing a profound
+reduction in the amplitude of the EPSP without leading to a hyperpolarizing response
+(Fig. 12.7B). This leads Qian and Sejnowski (1990) to argue that should inhibition play a
+role in selectively vetoing excitation on a spine or on thin dendrites, that inhibition must be
+of the GABAfi type (for large dendrites, the advantage reverts to silent GABA^ inhibition).
+We find no fault in their arguments.
+Must dual-input cortical spines necessarily be functional? Dehay et al., (1991) throw the
+entire idea into doubt by serially reconstructing selected spines that receive geniculate
+input in cat primary visual cortex. Here, as elsewhere, about 8% of all spines in the
+input layer (layer 4) carry both an excitatory as well as an inhibitory synaptic input.
+Because Emerson et al., (1985) as well as Koch and Poggio (1985b) hypothesized that
+direction and orientation selectivity in visual cortex neurons is mediated by very specific
+interactions among excitation and shunting inhibition possibly localized on spines, Dehay
+and colleagues investigated whether geniculo-cortical synapses on spines are a preferred
+target for inhibition. Using a laborious electron-microscopic reconstruction technique, they
+showed that these synapses do not have a higher likelihood of being paired with an inhibitory
+synapse than the majority of synapses originated among cortical cells. Furthermore, in
+certain cases Dehay et al., (1991) observed an axon from an inhibitory cell making both a
+synapse on a spine and, a few micrometers away, another synapse on the parent dendrite,
+revealing a lack of spatial specificity.
+At least in cat visual cortex, it appears that dual-input spines could simply be the logical
+consequence of an imprecise developmental rule that specifies that inhibitory synapses
+should primarily innervate dendrites and that a small fraction fails to do so.
+12.3.4 Geniculate Spine Triad
+In other parts of the brain, however, the association between dual synaptic input and spines is
+much stronger. We encountered already one such microcircu.it (Rail et al., 1966; Shepherd,
+1978) in the mammalian olfactory bulb (Sec. 5.3), which mediates self and lateral inhibition.
+We will here discuss another instance of a synaptic microcircuit, involving dual input to a
+spinelike structure.
+
+
+===== Page 15 =====
+294
+DENDRITIC SPINES
+The mammalian lateral geniculate nucleus (LGN), the midway station for visual input
+between the retina and the visual cortex, is the site of a very complex synaptic structure
+known as glomerulus (Fig. 12.8). At the heart of each glomerulus lies a terminal from a
+retinal axon. It is surrounded by the complex intertwining of very thin dendritic processes
+of a geniculate interneuron with those of a geniculate relay cell (Harnori et al., 1974; Hamos
+et al., 1985). This circuit is also termed a triad because of the intimate association among
+three different synaptic terminals: the retinal input makes a synapse both on the spine of a
+geniculate relay cell and on the interneuron. The GABAergic interneuron, in turn, makes a
+synapse on the geniculate spine.
+Retinal output is organized in multiple parallel channels of information. One of these,
+the X cells, which are particularly sensitive to high spatial frequencies, tends to make the
+majority of synaptic contacts onto geniculate relay cells and interneurons in association with
+these spine triads (Wilson, Friedlander, and Sherman, 1984). At least in cat, the Y cells, the
+other major retinal output pathway, tend to make their synapses directly onto the dendrites
+of their geniculate target relay cells, bypassing the inhibitory interneurons (Sherman and
+Guillery, 1996).
+Passive cable modeling of geniculate relay cells with the spine-triad local circuit using
+excitation and shunting inhibition (Koch, 1985) shows that if the size of the inhibitory
+Fig. 12.8 SYNAPTIC SPINE TRIADS IN THE LGN
+These drawings, based on laborious electron-
+microscopic reconstructions of cells in the cat
+LGN (Hamos et al., 1985), illustrate the very
+intricate and baroque synaptic microcircuits that
+can be found in the nervous system. The arrange-
+ment shown, known as a glomerulus, includes
+(A) a dendrite (marked d) of a local inhibitory in-
+terneuron from which a dozen very thin processes
+spring forth. The full circles indicate the location
+of excitatory synapses from a retinal axon. The
+interneuron in turn inhibits the geniculate relay cell
+at the nine sites indicated with full arrows. (B) This
+interneuron (in black) is shown grappling with five
+spinelike appendages on a dendrite of a geniculate
+relay cell (in white), which are shown more fully in
+(C). The full circles indicate nine retinal synapses,
+and the filled triangles 40 inhibitory synapses from
+other interneurons. The triad is a synaptic arrange-
+ment in which an excitatory input (here, an optic
+nerve axon) excites both an interneuron as well as
+the geniculate relay cell. The interneuron, in turn,
+directly inhibits this site. Reprinted by permission
+from Hamos et al., (1985).
+
+
+===== Page 16 =====
+12.4 Active Electrical Properties of Single Spines 
+• 
+295
+conductance change due to the GABA^ receptors is neither too small nor too large, it can
+effectively and specifically veto the retinally induced EPSP without inhibiting EPSPs from
+neighboring synapses. Thus, although the inhibition is postsynaptic, from a functional point
+of view it acts similar to presynaptic inhibition.
+Because of the expected 1 or 2 msec delay between retinal input triggering an EPSP in
+the interneuron and the opening of postsynaptic GABA^ receptors on the spine in response
+to this input, inhibition is likely to be not very effective at low firing rates (caused, for
+instance, by a low contrast stimulus). Inhibition would be strongly activated for sustained,
+high-contrast input. Because the spine-triad circuit is essentially limited to X cells, Y cells
+should not show any comparable localized and specific type of inhibition. Experimentally, it
+is known that geniculate cells are more phasic than their retinal counterparts (Cleland, Dubin,
+and Levick, 1971) and that inhibition is independent of stimulus contrasts for Y cells but
+increases with increasing stimulus contrast in X cells (Berardi and Morrone, 1984). Finally,
+it is clear that the level of activity in the interneuron itself will be crucial in determining
+whether or not it can inhibit the retinal input (Bloomfield and Sherman, 1989). Such context-
+dependent inhibition could be important, for instance, during saccadic suppression.
+We conclude that the spine-triad microcircuit on geniculate X cells appears to implement
+a specific type of activity-dependent inhibition (Hamori et al., 1974; Koch, 1985).
+12.4 Active Electrical Properties of Single Spines
+In the mid-1980s, several independent groups worked on the idea of synaptic amplification in
+dendritic spines endowed with active, regenerative electrical properties (Perkel and Perkel,
+1985; Miller, Rail and Rinzel, 1985; Shepherd et al., 1985; Pongracz, 1985; Segev and
+Rail, 1988). At first viewed with skepticism by experimentalists, recent calcium-imaging
+experiments have shown that spines on hippocampal pyramidal as well as cerebellar
+Purkinje cells can show all-or-nothing responses (Yuste and Denk, 1995; Denk, Sugimore
+and Llinas, 1995; see Sec. 12.6.2). It remains to be seen whether these spikes are actually
+restricted to the spines or whether they invade the neighboring dendrites.
+The basic idea is simple and will be explained with reference to the painstakingly
+executed Segev and Rail (1988; see also Rail and Segev, 1987) study. They endowed the
+head of a single spine—on an otherwise passive dendrite—with the fast sodium and delayed-
+rectifier potassium conductances found in the squid axon (adjusted for 20° C and with a
+tenfold increase in peak conductances; see Fig. 12.9). With a single-channel conductance
+of about 15 pS (Table 8.1) this corresponds to 1050 sodium channels per spine. Using a
+very fast synaptic input (fpeak = 0.035 msec), Segev and Rail found that the amplitude of
+the synaptic input gpeak nad to exceed a very sharp threshold in order to generate an all-
+or-nothing action potential in the spine (Fig. 12.10). Such a tongue-twisting "spine spike"
+will be initiated once Vsp exceeds a critical voltage threshold V& (see the discussion in
+Sees. 6.3.1 and 19.2). At Vth, the sum of the synaptic and active spine currents exceeds the
+current /„ flowing through the spine neck and onward into the dendrite.
+In the suprathreshold domain, the amplification that can be obtained with a small number
+of strategically placed active channels on a spine is evident in the lower graph of Fig. 12.10.
+The 90 mV spine action potential is attenuated across the 1000 M£2 neck but still leads to a
+5 mV EPSP at the base of the spine. Contrariwise, a passive spine would have depolarized
+to 27 mV, of which only about 1 mV would have survived the attenuation through the spine
+neck (dotted lines in Fig. 12.10). Thus, a tiny 1 /zm2 patch of active channels leads to a
+fivefold voltage amplification.
+
+
+===== Page 17 =====
+296 
+• 
+DENDRITIC SPINES
+Fig. 12.9 MODEL OF AN ACTIVE SPINE Lumped electrical model of an active spine, as used in the
+Segev and Rail (1988) study. The spine head is endowed with squid axon membrane (at 20° C, but with
+a tenfold increase in the maximal conductances G^ and GK). With Cm = 1 ju,F/cm2, the passive time
+constant in the spine at rest is 1.4 msec. The synaptic input is very fast, with fpeak = 0.035 msec and
+£syn = 100 mV. A tenfold slower synaptic input is expected to yield a similar behavior in the presence
+of a tenfold slower membrane time constant. The input resistance at the base spine is 262 M£2.
+The amplitude (as well as the integrated area) of the dendritic EPSP is independent
+of variations in gpeak (as long as gpeak is above threshold; Fig. 12.10), since the maximal
+value of Vsp is determined by the height of the action potential, which is rather fixed.
+Given the large variability in the postsynaptic amplitude of individual synaptic inputs at
+cortical synapses (see, Fig. 4.4), active spines can thereby eliminate a source of uncertainty
+associated with passive spines (as well as amplify their responses).
+Figure 12.11 illustrates the dependency of Vsp and Vd on the spine neck resistance.
+For small values of Rn (here below 620 M£2), the spine input impedance KsptSp is not
+sufficiently high in order for the local EPSP to exceed V±: the peak value of both Vsp and
+Vd in the presence of sodium and potassium channels is little different from the peak value
+of the potential in the passive situation (right panels in Fig. 12.11). For /?„ = 630 M£2,
+a spike is generated after a short delay, while for the high resistance neck (curve b),
+an action potential is established in a very secure manner and with a larger amplitude.
+Seemingly paradoxically, however, the amplitudes of the resulting EPSPs at the dendrite
+are reversed. While a larger spine neck resistance increases the spine input impedance
+(witness Eq. 12.4), thereby facilitating spike generation, it also causes a larger voltage
+attenuation across the spine neck. In the limit of an infinitely thin spine neck, the smallest
+input will cause V,/ to "lock up" at £syn; yet none of that will be visible at the base of
+the spine. (For all the subtleties of this dependency, see Segev and Rail, 1988.) As the
+lower right panel in Fig. 12.11 best summarizes, amplification over the passive spine is
+obtained within a narrow range of Rn. Given the inverse quadratic dependency of Rn
+on dn (Eq. 12.1), this translates into a very strong dependency of Vj on the spine neck
+geometry.
+
+
+===== Page 18 =====
+12.4 Active Electrical Properties of Single Spines
+297
+Fig. 12.10 ACTIVE SPINES AS A FUNCTION or THE INPUT AMPLITUDE Time course and peak
+depolarization in the spine and dendrite shown in Fig. 12.9 as a function of the amplitude of the fast
+('peak = 0.035 msec) voltage-independent synaptic conductance change gpeak- The two left panels
+illustrate Vsp(t) and Vj(t) for two values of gpeak (0.2 nS for a and 0.4 nS for V) while the right
+panels plot the peak values of Vsp and Vj as a function of the input amplitude. Rn is always set to
+1 GR. Dotted curves are for a passive spine, whereas the solid curves are for an active spine. Close
+inspection of these plots reveals some minimal evidence of active channels for the smaller inputs of
+the two. If the input is doubled, a very robust all-or-none spike is initiated. Further increases of gpeak
+have no further effect on the peak of either Vsp or Vj. The dashed line in the lower right panel shows
+the peak of V^ when the same synaptic input is applied directly to the passive dendrite, rather than to
+the spine. Active spines can be used to amplify synaptic input. Reprinted by permission from Segev
+and Rail (1988).
+At present, we do not know whether sodium channels are present on dendritic spines.
+However, phenomena similar to those discussed here could be instantiated with slower
+calcium-mediated all-or-none spine spikes. Two-photon microscopy experiments using
+calcium dyes have provided tantalizing preliminary evidence for all-or-none calcium events
+following synaptic input onto spines of hippocampal and Purkinje cells (see Sec. 12.6.2).
+What Segev and Rail (1988; see also Perkel and Perkel, 1985; Miller, Rail, and Rinzel,
+1985; Shepherd et al., 1985) demonstrate is that active spines can significantly amplify
+(two to tenfold) synaptic input at minimal metabolic costs (only requiring the insertion of
+voltage-dependent channels into a very small membrane patch the size of a spine head). We
+conclude that active spines could provide the biophysical substrate for information storage
+as well as information processing.
+The strong dependency of Vj on parameters associated with spine neck geometry
+provides the cell with a sensitive mechanism to modulate the synaptic weight of individual
+inputs. Only within a narrow range of Rn will the synaptic input be high; outside of this range,
+the dendritic EPSP will be much reduced. At the same time, this sensitivity also represents
+the Achilles heel of the hypothesis: as evidenced by the large degree of variability in the
+
+
+===== Page 19 =====
+298
+DENDRITIC SPINES
+Fig. 12.11 ACTIVE SPINES AS A FUNCTION OF THE SPINE NECK RESISTANCE Time course and
+peak depolarization in the spine and dendrite shown in Fig. 12.9 as a function of the spine neck
+resistance (for gp^ = 0.37 nS and fpeak = 0.035 msec). The two left panels illustrate Vsp(t) and
+Vd(t) for Rn = 630 Mfl (curve a) and Rn = 1000 Mfi (curve b) while the right panels plot the peak
+values of Vsp and Vj as a function of R„. Dotted curves are for a passive spine, whereas the solid
+curves are for an active spine. Large amplification of the dendritic EPSP with respect to a passive
+spine only occurs in a relatively narrow range of Rn values: if the neck is too short or too thick, the
+electrical decoupling of excitable channels at the spine head from the rest of the cell is insufficient to
+initiate an action potential, while for very thin and long spine necks (implying large values of Rn),
+the attenuation across the spine neck is excessive. This dependency on spine neck geometry could be
+exploited in synaptic plasticity. Reprinted by permission from Segev and Rail (1988).
+spine neck geometry (Fig. 12.4), the brain might not be able to control spine neck geometry
+with sufficient accuracy to exploit it in a consistent manner.
+What remains unclear from an experimental point of view is whether action potentials
+are restricted to the spines themselves or whether they spread to the parent dendrite. As
+witnessed by Fig. 12.11, a true spiking spine requires a very thin or elongated neck to
+achieve the necessary isolation from the parent dendrite.
+More interesting from the point of view of neuronal computation are the combinatorial
+possibilities for nonlinear interactions among active spines on distal dendrites. Under
+certain circumstances, one or a small number of simultaneous inputs to active spines can
+trigger action potentials in neighboring spines. We will pick up the threads of this story in
+Sec. 19.3.2.
+12.5 Effect of Spines on Cables
+Given the large spine density (up to 10 spines per micrometer of dendrites), 50% or more of
+the total neuronal membrane area resides in spines. It is therefore important to account for
+
+
+===== Page 20 =====
+12.5 Effect of Spines on Cables 
+• 
+299
+this additional area to properly analyze the propagation of electrical signals in the dendritic
+tree. Although these effects provide no insight into the function of spines, they may be
+ironically the only ones that we can infer with confidence to be important.
+Accounting for the effect that spines have on cable propagation is based on the assumption
+that for current flow from the dendrite back into the spine the membrane area of the spine
+can be incorporated into the membrane of the parent dendrite. As we expect from basic
+cable theory and as discussed more fully below, there exists almost no voltage attenuation
+from the dendrite back into the spine (contrary to the voltage attenuation from the spine
+into the dendrite). This isopotentiality is the reason that the spine area can be lumped into
+the overall area of the dendrite. Several different methods to deal with this problem have
+been proposed, based on the intuition that in the presence of a large number of spines, the
+total capacitance will increase while the membrane resistance will decrease.
+One method (Stratford et al., 1989) transforms the spiny dendrite (with diameter d and
+length /) into a single "equivalent" (and smooth) cylinder, whose diameter d' and length /'
+are larger than those of the parent dendrite by some fraction y, with
+(12.17)
+where Adend is the total membrane area of the "stem" dendrite without any spines, and
+^spine is the total membrane area of all spines (spine necks and spine heads) on the dendrite.
+The dimensions of this equivalent cable are
+(12.18)
+and
+(12.19)
+Solving for the membrane potential in a cable studded by n spines requires the solution of
+2n + 1 coupled equations (assuming that each spine is modeled using two compartments,
+one for the neck and one for the head). The transformation described here reduces this to
+solving the cable equation in a single, unbranched cylinder. The effective area of the cable
+is scaled by J7, its infinite input resistance by JF~1//2, and its electrotonic length of the
+equivalent cable by JF1/2. The time constant remains unchanged. The transformed segment
+behaves like the spiny original under most circumstances (Stratford et al., 1989).
+An alternative transformation method (Shelton, 1985; Holmes, 1989; Segev et al., 1992)
+preserves the dimensions of the dendrite but scales Cm and Rm appropriately by
+(12.20)
+and
+(12.21)
+Both methods are mathematically equivalent.
+A novel analytical method to incorporate spines into the continuous cable equation was
+developed by Baer and Rinzel (1991). It is powerful, since it can deal with passive as well
+as active spines. Baer and Rinzel replace the cable equation for a single passive cable by
+two equations, one for the voltage along the dendrite Vd(x, t) and one for the voltage in
+the spines Vsp(x, t). The density of spines per unit electrotonic length of cable is s(x). A
+single spine receives synaptic input current Isya(x, 0 (which can vary with the position of
+
+
+===== Page 21 =====
+300 • 
+DENDRITIC SPINES
+the spine along the cable), generating a local current across the spine head /ionic that can
+include Hodgkin-Huxley or other voltage-dependent currents. Spines are independent of
+each other, only interacting with the dendrites via the neck current /„ that flows through the
+spine neck. The associated cable equation can be expressed as
+(12.22)
+(12.23)
+with an additional equation for the neck current,
+(12.24)
+Here T, A. and 7?oo are the time and space constants and the input resistance of a semi-infinite
+cable in the absence of any spines, and C/, is the tiny spine head capacitance (Fig. 12.5).
+Baer and Rinzel (1991) go on to solve these equations for active as well as passive spines.
+In the former case, wavelike propagation can occur along the passive cable, supported by
+the amplifying spines. In the latter case, both equations are linear and /ionjc = Vsp/Rh-
+Assuming a constant density of spines, s (x) = s, and steady-state conditions, they compute
+the effective electrotonic length of a spiny dendrite as
+(12.25)
+and the infinite input resistance as
+(12.26)
+Since under almost all circumstances Rh ^> /?„, these reduce to
+(12.27)
+and
+(12.28)
+as in the more heuristic methods discussed at the beginning of this section.
+In summary, all of the spine-replacement methods discussed here conclude that the
+collective effect of dendritic spines is to increase the effective membrane capacitance and
+decrease the membrane resistance, leading to a lower input resistance and an increased
+electrotonic length compared to a smooth dendrite of equal diameter and physical length
+(Wilson, 1988). Indeed, Jaslove (1992) argues that these population effects—influencing
+the degree of spatio-temporal integration occurring in the dendrites—are the primary
+functional reason for why some cells are studded with spines while others are devoid
+of them.
+12.6 Diffusion in Dendritic Spines
+So far, we have focused exclusively on the electrical properties of spines. Yet, over the
+last decade, an alternative view of spines has emerged which emphasizes their effect on
+chemical, rather than electrical, signaling. As discussed in Chap. 13, chemical dynamics of
+
+
+===== Page 22 =====
+12.6 Diffusion in Dendritic Spines 
+• 
+301
+intracellular calcium and other second messengers in the spine are of particular importance
+in the induction of long-term potentiation.
+12.6.1 Solutions of the Reaction-Diffusion Equation for Spines
+Compartmental modeling of calcium diffusion and binding following synaptic input to the
+spine (Robinson and Koch, 1984; Coss and Perkel, 1985; Gamble and Koch, 1987; Wickens,
+1988) played a trail-blazing role here, followed a few years later by the experimental study
+of calcium dynamics in single spines (Miiller and Connor, 1991; Guthrie, Segal and Kater,
+1991; Jaffe, Fisher, and Brown, 1994; Eilers, Augustine, and Konnerth, 1995; Yuste and
+Denk, 1995; Denk, Sugimore, and Llinas, 1995; Svoboda, Tank, and Denk, 1996). More
+recent modeling studies have, of course, become much more sophisticated and use a very
+fine grained spatial resolution to keep track of substances in the spine head and neck (Holmes
+and Levy, 1990; Zador, Koch, and Brown, 1990; Koch, Zador, and Brown, 1992;DeSchutter
+and Bower, 1993; Gold and Bear, 1994; Zador and Koch, 1994; Woolf and Greer, 1994;
+Jaffe, Fisher and Brown, 1994).
+The principal ideas are really very simple, in particular in light of the linearized reaction-
+diffusion equation discussed in Sec. 11.7. Using the geometry of Fig. 12.12A, and in the
+presence of low calcium concentration, a linear nonsaturable calcium pump in the spine neck
+and head membrane, and a fast second-order nondiffusible buffer, the reaction-diffusion
+equations (Eqs. 11.48) in the presence of calcium pumps can be reduced to the linear partial
+differential equation (Eq. 11.51), formally identical to the cable equation.
+This allows us to define the "chemical input resistance" (Carnevale and Rosenthal, 1992;
+Zador and Koch, 1994), in analogy to the standard electrical input resistance, as the change
+in calcium concentration in response to a current of calcium ions (Table 11.2). Both the
+chemical and the electrical spine input resistances are much larger than the associated
+dendritic input resistances. At the spine head, the input resistance is 4.2 x 10~2 /zM/fA
+while the dendritic input resistance is 4.8 x 10~3 /u-M/fA. In other words, a sustained
+calcium current injected into the spine head leads to a tenfold larger increase in calcium
+concentration than the same current applied at the dendritic shaft.
+A key difference between the electrical and the chemical properties of spines arises from
+the effect of the spine neck. In our analysis, as well as in almost all published studies of the
+electrical properties of spines, the electrical cable properties associated with the spine neck
+are neglected, since no significant current will cross the membrane of the 1 -/zm long "cable,"
+a direct consequence of the large value of A.. In order to estimate the loss of calcium current
+through the spine neck membrane, we compute the space constant of Eq. 11.55 associated
+with the linearized reaction-diffusion equation. Reading off from Fig. 11.9, \r-d for a
+0.1 /xm thin cable is 0.46 /urn (0.27 /urn without diffusible buffer). Because the dendritic
+shaft is more than 1kr-d away from the spine head, the calcium concentration at the shaft
+is expected to be tenfold lower than at the head. This is in dramatic contrast to the almost
+complete lack of electrical current attenuation experienced between the spine head and the
+base (A. is close to three orders of magnitude larger than Ar__rf; Fig. 11.9).
+These principles are illustrated in simulations of the fully nonlinear calcium dynamics
+thought to underly the induction of LTP (Zador, Koch, and Brown, 1990; Brown et al.,
+1991b). In the model, synaptic input activates a fast non-NMDA conductance (Eq. 4.5) as
+well as an NMDA voltage-gated conductance (Eq. 4.6; Fig. 12.12A). 2% of the NMDA
+current is assumed to be carried by Ca2+ ions. Subsequent to entry into the intracellular
+cytoplasm, these ions can bind to one of the four calmodulin binding sites (Fig. 11.7),
+
+
+===== Page 23 =====
+302
+DENDRITIC SPINES
+Fig. 12.12 SPATIO-TEMPORAL DYNAMICS OF CALCIUM IN A SPINE 
+(A) Compartmental represen-
+tation for solving the reaction-diffusion equation associated with the system controlling intracellular
+calcium in response to a mixed excitatory voltage-independent non-NMDA and a voltage-dependent
+NMDA synaptic input. Opening of the NMDA channels causes an influx of calcium ions. These
+are removed by the action of membrane-bound pumps in the spine head and neck, by binding to
+cytoplasmic calcium buffers, as well as by diffusion into the dendrite. The drawing is to scale, with
+dn = 0.1 fj,m. The individual compartments are shown by thin lines. (B) Spatio-temporal dynamics
+of Ca2+ in response to a train of three presynaptic stimuli (at 100 Hz) while the membrane potential
+in the spine was simultaneously clamped to —40 mV (mimicking a somatic voltage-clamp protocol).
+Changes in [Ca2+],-—induced by the calcium influx through the NMDA channel—are restricted
+mainly to the spine head, x indicates the distance from the dendritic shaft (with 0 corresponding to
+the shaft and x = 1.3 /zm to the subsynaptic cleft). Reprinted by permission from Zador, Koch, and
+Brown (1990).
+they can be pumped out of the cell via two different pumps, and they can diffuse along
+the spine neck and out into the dendrite (assumed to be an infinite capacity sink with a
+resting calcium level of 50 nM). Simulated calcium dynamics following a train of synaptic
+stimuli are shown in Fig. 12.12B. Due to the tiny volume of the spine, the small Ca2+
+influx following synaptic stimulation leads to a large transient increase in the spine calcium
+concentration (here, [Ca +]sp = 10/u,M corresponds to about 350 Ca2+ions). We conclude
+that spines can amplify the small incoming calcium signal dramatically. Yet due to the large
+mismatch in volumes and the associated small chemical input impedance at the dendrite, the
+
+
+===== Page 24 =====
+12.6 Diffusion in Dendritic Spines 
+• 
+303
+large peak changes in [Ca2+](- at the spine cause the dendritic level of [Ca2+],- to fluctuate
+only by several tens of nanomolars.
+Due to the difference in input impedances between the spine and the dendrite, both
+calcium and voltage will be severely attenuated when going from the spine to the dendrite,
+even though no current is lost across the spine neck membrane in the case of the cable
+equation. This is illustrated in a different manner in Fig. 12.13, showing both voltage and
+calcium attenuation along the spine, that is, the ratio of the voltage (or calcium concentration)
+at one location to the voltage (or calcium concentration) at another location.
+Quite a dramatic difference emerges when considering antidromic attenuation. When
+voltage clamping the dendrite to any particular value, the voltage at the spine head will be
+attenuated by the factor (Eq. 3.34)
+(12.29)
+Since Ksp^ «* K^d (Eq. 12.5) to a pretty good approximation, no voltage attenuation is
+expected into the spine, as confirmed by the upper dashed line in Fig. 12.13. However,
+due to the sustained loss of calcium ions as they are being pumped through the spine neck
+membrane into the extracellular cytoplasm, the effective value of Ksp^ for the reaction-
+Fig. 12.13 VOLTAGE AND CALCIUM ATTENUATION IN AND OUT OF A SPINE 
+Voltage and calcium
+attenuation for two different simulations as a function of the distance from the dendrite (at 0; the spine
+neck ends at 1 /u.m and the spine head extends from 1 to 1.3 /zm). The upward diagonal dashed and
+solid curves illustrate voltage and calcium attenuation from the spine into the dendrite. These curves
+are taken from the simulation shown in Fig. 12.12B and indicate peak calcium and voltages following
+three presynaptic stimuli to the spine synapse. Both variables attenuate about tenfold. In a different
+simulation illustrating antidromic steady-state behavior, either the calcium (downward going solid
+curve) or the voltage (constant dashed line) is clamped to a fixed value in the dendrite. Due to the
+presence of calcium pumps in the spine neck, calcium rapidly attenuates and reaches baseline levels
+at the spine head. The membrane potential, however, does not attenuate across the spine neck due to
+the negligible current loss across the spine neck and head membranes. Reprinted by permission from
+Koch and Zador( 1993).
+
+
+===== Page 25 =====
+304 . 
+DENDRITIC SPINES
+diffusion system is very low. As a consequence, when the calcium concentration in the
+dendrite is "clamped" to 1 /xM, the calcium attenuation into the spine head is very large:
+it remains protected from the high dendritic calcium values by the presence of calcium
+pumps in the membrane of the spine neck (Zador, Koch, and Brown, 1990; Koch, Zador,
+and Brown, 1992), providing a graphic illustration of the tiny size of the associated space
+constant. Given the square-root dependency of Ar_^ on the density of pump molecules in
+the membrane (Table 11.3), this density would have to change substantially before any
+significant effect of dendrite calcium on the spine head would be seen. Or, short and sweet,
+"spines are electrically coupled but chemically isolated from changes occurring in the
+dendrite." Of course, the presence of the spine apparatus or other organelles would further
+impede the flow of calcium ions into the spine head. What applies to calcium will, of course,
+also apply to other second messenger systems (see also Woolf and Greer, 1994).
+The value of many of the relevant biophysical and biochemical parameters can only be
+specified within a factor of 2, 5, or even 10. For instance, relatively small changes in the
+spine neck geometry or in the buffer concentration can cause the peak calcium concentration
+in the spine head to vary quite a bit. Whether this sensitivity of peak [Ca2+]sp subserves a
+function, as contended by Gold and Bear (1994) (Fig. 13.7) is not known.
+One obvious effect that should be emphasized is that the electrical as well as the chemical
+input impedance increases with increasingly longer and thinner spines. If the establishment
+of LTP were to depend on exceeding either a voltage threshold or a critical concentration
+of [Ca2+],, the thin and elongated spines would be in a better position than the short,
+stubby ones to achieve this. Conversely, since the synaptic weight depends little on the
+spine neck—for the range of geometries reported in hippocampus and for passive spines—
+stubby spines could be considered to be permanently modified, while elongated or thin
+spines would constitute a reservoir that can be recruited for long-term synaptic potentiation
+as well as for long-term depression. Indeed, several reports have emphasized that high-
+frequency synaptic stimulation that causes LTP leads to an excess of short or thick spines
+(Lee et al., 1980; Chang and Greenough, 1984).
+Although we mainly use arguments from linear cable theory, the simulations in Figs.
+12.12 and 12.13, based as they are on the peak transient calcium concentration changes in
+the full nonlinear model, confirm these expectations.
+12.6.2 Imaging Calcium Dynamics in Single Dendritic Spines
+While it remains technically impossible to record spine EPSPs directly, a number of groups
+are "pushing the technological envelope" by imaging calcium activity in dendrites and in
+individual spines via calcium-sensitive fluorescent dyes (Miiller and Connor, 1991; Guthrie,
+Segal, and Kater, 1991;RegehrandTank, 1992; Jaffe, Fisher, and Brown, 1994; Yuste and
+Denk, 1995; Segal, 1995a; Eilers, Augustine, and Konnerth, 1995; Denk, Sugimore, and
+Llinas, 1995; for a review see Denk et al., 1996). The more recent studies make use of
+confocal laser scanning or two-photon fluorescence microscopy. They confirm that in the
+absence of calcium entry through voltage-dependent calcium channels, spines do isolate in
+both directions: a high calcium concentration in the dendrite is frequently not paralleled by
+an equally high concentration change in the spine (Fig. 12.14C). Control experiments with
+injected cobalt indicate that the lag is not due to a physical diffusion barrier between the
+dendrite and the spine (Guthrie, Segal, and Kater, 1991), supporting the idea that calcium-
+dependent processes, such as calcium pumps or other uptake systems, were responsible
+for isolating the spine head. Conversely, synaptic stimulation leads to restricted calcium
+
+
+===== Page 26 =====
+12.6 Diffusion in Dendritic Spines 
+• 
+305
+Fig. 12.14 IMAGING CALCIUM IN A SINGLE SPINE Fluorescence signal from a single spine on a
+CA1 pyramidal cell in a rat hippocampus slice. (A) Using two-photon microscopy, Yuste and Denk
+(1995) record the increase in fluorescence of a calcium indicator, due to an increase in free intracellular
+calcium, evoked either by spontaneous synaptic activity (sy) or by the antidromic invasion of a
+postsynaptic action potential (ap). Following synaptic input, calcium rises within 2 msec, the temporal
+resolution of the measurement. The influx of calcium in response to a postsynaptic spike is mediated
+by voltage-dependent calcium currents in the dendrites and spines. (B) Stochastic failure of synaptic
+transmission at the same spine can also be visualized. Left column: fluorescence measurements in
+response to subthreshold synaptic stimulation. Right column: simultaneous current recording at the
+soma. In only three cases is a clear synaptic response evident at the single spine. Only in about 20
+to 40% of the cases will a presynaptic spike cause release of a synaptic vesicle and a postsynaptic
+response. (C) Spontaneous synaptic activity causes an increase in [Ca2+], at a single spine (1) and
+the adjacent dendritic shaft (2), while a neighboring spine (3) or dendrite (4) shows no such increase.
+Later during the same recording session, a synaptic-evoked calcium accumulation was restricted to
+the spine (3). Reprinted by permission from Yuste and Denk (1995).
+increase in individual spines but not in the dendrite, confirming the basic aspects of the
+models discussed above. Indeed, the resolution of these methods is such that stochastic
+failure of synaptic transmission can be observed in the calcium response at a single spine
+(Fig. 12.14B).
+In real life, things become more interesting, but also more complicated, by the presence of
+high-threshold noninactivating voltage-dependent calcium channels in dendrites and spines:
+both somatic depolarization via an intracellular electrode and antidromic spike invasion
+lead to calcium increases in dendrites and in spines throughout the cell (Fig. 12.14A;
+Markram, Helm, and Sakmann, 1995; Sec. 19.1). With the exception of Robinson and
+Koch (1984) and Gamble and Koch (1987), previous compartmental models have assumed
+that all calcium entry occurs via the activated NMDA synaptic receptors at the stimulated
+
+
+===== Page 27 =====
+306 
+• 
+DENDRITIC SPINES
+spine. Since antidromic spike invasion does occur under physiological conditions and may
+indeed be facilitated by the presence of sodium channels on the apical dendrites (Stuart and
+Sakmann, 1994; Sees. 19.1 and 19.2.2), it is unclear what this implies about the specificity
+of LTP, which is generally believed to be restricted to the stimulated synapse (see the
+following chapter). It might well be that under physiological conditions the critical calcium
+concentration required to initiate the biochemical cascade that leads to the enhancement of
+the synapse cannot be achieved unless calcium accumulation from synaptic (calcium entry
+viaNMDA and non-NMDA receptors; Schneggenburger et al., 1993) as well as nonsynaptic
+(voltage-dependent calcium channels and calcium-triggered calcium release; Regehr and
+Tank, 1992) sources cooperate.
+12.7 Recapitulation
+The small extent of dendritic spines, somewhat smaller than the average-sized Escherichia
+coli colon bacterium, precluded until very recently direct experimental access, making the
+function and properties of dendritic spines a favorite subject among modelers. Hypotheses
+concerning their function can be divided into two major categories: spines as devices for the
+induction and/or the expression of synaptic plasticity and spines as devices subserving spe-
+cific computations. Other proposals have been advanced, such as that spines primarily serve
+to connect axons with dendrites (Swindale, 1981), that spines serve to increase the effective
+membrane capacity of a dendrite (Jaslove, 1992), or that spines serve to protect the dendrite
+from high, and therefore possibly toxic, overdoses of calcium during synaptic activation
+(Segal, 1995b). While each of these ideas may contain some grain of truth, we here empha-
+size those properties of spines of direct relevance to information processing and storage.
+That changes in the electrical resistance of the spine neck can modulate the EPSP
+amplitude of a synapse on this spine has been a popular idea since it was discussed in detail
+by Rail (1970, 1974). It now appears, at least in the case of hippocampal CA1 pyramidal
+cells (but most likely also for neocortical spines), that the spine neck conductance is too
+large relative to the synaptic-induced conductance change to be able to effectively modulate
+the dendritic EPSP for passive spines. Furthermore, as covered in the following chapter,
+the weight of the evidence leans in favor of a pre- rather than a postsynaptic site as the
+locus where the long-term changes in synaptic weight are affected. It is most likely in
+the induction phase of Hebbian long-term changes in synaptic plasticity that spines play a
+critical role.
+Both theoretical and experimental evidence is accumulating that spines may create an
+isolated biochemical microenvironment for inducing changes in synaptic strength. In the
+induction of associative (or Hebbian) LTP, for example, the spine could restrict changes
+in postsynaptic calcium concentration to precisely those synapses that met the criteria
+for potentiation. Furthermore, changes in spine shape could control the peak calcium
+concentration induced by synaptic input: all other factors being equal, long and skinny spines
+would have higher peak calcium levels than short and stubby spines. This could provide
+an alternative explanation for some of the environmental effects on spine morphology. The
+biochemical compartmentalization provided by dendritic spines could, of course, be equally
+crucial for a number of other diffusible second messengers, such as I?3, calmodulin, cyclic
+AMP, and others. We conclude that while spines may not play any role in the expression
+of synaptic plasticity, they may be crucial in the induction phase by offering a protected
+microenvironment for calcium and other messenger molecules.
+
+
+===== Page 28 =====
+12.7 Recapitulation 
+• 
+307
+Spines can provide a very rich substrate for computation if they are endowed with
+regenerative, all-or-none electrical properties as experimental data are now suggesting.
+The elevated spine input resistance, as compared to the input resistance of the parent
+dendrite, and the partial electrical isolation of the spine from the rest of the cell, could
+make spines a favorable site for the initiation of action potentials. The proposal that spines
+contain voltage-dependent membrane conductances, first advanced by theoreticians and
+now experimentally supported by evidence for calcium spikes, implies that a dendritic
+spine is a basic computational gate with two states, on or off. Modeling studies, treated
+in Sec. 19.3.2, demonstrate that a population of strategically placed active spines can
+instantiate various classes of quasi-Boolean logic. The combination of excitatory and
+inhibitory synapses on a single spine—whether passive or active—observed in certain brain
+areas can only enhance this computational power. With up to 200,000 spines on certain cell
+types, it remains to be seen whether the nervous system makes use of this vast computational
+capacity.
+
+

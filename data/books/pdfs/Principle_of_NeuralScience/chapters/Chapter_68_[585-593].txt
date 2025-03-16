@@ -1,0 +1,771 @@
+===== Page 1 =====
+540    Part IV / Perception
+depends on the point of recombination. In tritanopes, 
+the loss of S-cone function arises from mutations in the 
+S-pigment gene.
+Rod and Cone Circuits Merge in the Inner Retina
+For vision under low-light conditions, the mammalian 
+retina has an ON bipolar cell that is exclusively con-
+nected to rods (see Figure 22–3B). By collecting inputs 
+from up to 50 rods, this rod bipolar cell can pool the 
+effects of dispersed single-photon absorptions in a 
+small patch of retina. There is no corresponding OFF 
+bipolar cell dedicated to rods.
+Unlike all other bipolar cells, the rod bipolar cell 
+does not contact ganglion cells directly but instead 
+excites a dedicated neuron, the AII amacrine cell. This 
+amacrine cell receives inputs from several rod bipolar 
+cells and conveys its output to cone bipolar cells. It 
+provides excitatory signals to ON bipolar cells through 
+gap junctions as well as glycinergic inhibitory signals 
+to OFF bipolar cells. These cone bipolar cells in turn 
+excite ON and OFF ganglion cells, as described earlier. 
+Thus, the rod signal is fed into the cone system after 
+a detour that produces the appropriate signal polari-
+ties for the ON and OFF pathways. The purpose of the 
+added interneurons may be to allow greater pooling of 
+rod signals than of cone signals.
+Rod signals also enter the cone system through 
+two other pathways. Rods can drive neighboring 
+cones directly through electrical junctions, and they 
+make connections with an OFF bipolar cell that ser-
+vices primarily cones. Once the rod signal has reached 
+the cone bipolars through these pathways, it can take 
+advantage of the same intricate circuitry of the inner 
+retina. Thus, the rod system of the mammalian retina 
+may have been an evolutionary afterthought added to 
+the cone circuits.
+The Retina’s Sensitivity Adapts to Changes in 
+Illumination
+Vision operates under many different lighting condi-
+tions. The intensity of the light coming from an object 
+depends on the intensity of the ambient illumination 
+and the fraction of this light reflected by the object’s 
+surface, called the reflectance. The range of intensities 
+encountered in a day is enormous, with variation span-
+ning 10 orders of magnitude, but most of this variation 
+is useless for the purpose of guiding behavior.
+The illumination intensity varies by about nine 
+orders of magnitude, mostly because our planet turns 
+about its axis once a day, while the object reflectance 
+varies much less, by about one order of magnitude 
+in a typical scene. But this reflectance is the interest-
+ing quantity for vision, for it characterizes objects and 
+distinguishes them from the background. In fact, our 
+visual system is remarkably good at calculating sur-
+face reflectances independently of ambient illumina-
+tion (Figure 22–18).
+With an overall increase in ambient illumination, 
+all points in the visual scene become brighter by the 
+same factor. If the eye could simply reduce its sensi-
+tivity by that same factor, the neural representation of 
+the image would remain unchanged at the level of the 
+ganglion cells and could be processed by the rest of the 
+brain in the same way as before the change in illumina-
+tion. Moreover, the retinal ganglion cells would only 
+need to encode the 10-fold range of image intensities 
+owing to the different object reflectances, instead of the 
+10-billion-fold range that includes variations in ambi-
+ent illumination. Some of this adjustment in sensitivity 
+is performed by the pupil, which contracts in bright 
+light, reducing retinal illumination by up to a factor of 
+10. In addition, the retina itself performs an automatic 
+gain control, called light adaptation, that approaches the 
+ideal normalization we have imagined here.
+Light Adaptation Is Apparent in Retinal Processing 
+and Visual Perception
+When flashes of light of different intensity are pre-
+sented with a constant background illumination, the 
+responses of a retinal ganglion cell fit a sigmoidal 
+curve (Figure 22–19A). The weakest flashes elicit no 
+response, a graded increase in flash intensity elicits 
+graded responses, and the brightest flashes elicit satu-
+ration. When the background illumination is increased, 
+the response curve maintains the same shape but is 
+shifted to higher flash intensities. Compensating for 
+the increase in background illumination, the ganglion 
+cell is now less sensitive to light variations: In the pres-
+ence of a higher background, a larger change is needed 
+to cause the same response. This lateral shifting of the 
+stimulus–response relationship is a hallmark of light 
+adaptation in the retina.
+The consequences of this gain change for human 
+visual perception are readily apparent in psychophysi-
+cal experiments. When human subjects are asked to 
+detect a flash in a background field of constant illu-
+mination, detection on a brighter background neces-
+sitates a brighter flash (Figure 22–19B). Under the ideal 
+gain-control mechanism discussed earlier, two stimuli 
+would produce the same response if they caused the 
+same fractional change from the background inten-
+sity. In that case, the threshold flash intensity should 
+
+
+===== Page 2 =====
+Chapter 22 / Low-Level Visual Processing: The Retina    541
+Figure 22–18  A brightness illusion.
+A. The two tiles marked with small dots appear to have differ-
+ent color but actually reflect the same light intensity. (To see 
+this, fold the page so they touch.) The trace underneath plots 
+a profile of light intensity at the level of the arrowheads. Your 
+visual system interprets this retinal image as a regular tile pat-
+tern under spatially varying illumination with a diffuse shadow 
+in the right half. Under that interpretation, the right tile must 
+have a lighter color than the left, which is what you perceive. 
+This process is automatic and requires no conscious analysis.
+B. Retinal processing contributes to the perception of “light-
+ness” by discounting the shadow’s smooth gradients of 
+illumination and accentuating the sharp edges between 
+checkerboard fields. The receptive field for a visual neuron with 
+an excitatory center and inhibitory surround is shown at the 
+top. As shown in a hundredfold magnification at the bottom, 
+the surround is weak but extends over a much larger area than 
+the center.
+C. The result when a population of visual neurons with 
+receptive fields as in B processes the image in A. This opera-
+tion—the convolution of the image in A with the profile in 
+B—subtracts from each point in the visual field the average 
+intensity in a large surrounding region. The neural representa-
+tion of the object has largely lost the effects of shading, and 
+the two tiles in question do indeed have different brightness 
+values in this representation.
+x100
+A
+B
+C
+be proportional to the background intensity, a rela-
+tionship known as Weber’s law of adaptation, which we 
+encountered in considering somatic receptor sensitiv-
+ity (Chapter 17). The visual system follows Weber’s law 
+approximately: Over the entire range of vision, sensi-
+tivity decreases somewhat less steeply with increasing 
+background intensity (Figure 22–19B).
+Multiple Gain Controls Occur Within the Retina
+The enormous change in gain required for light adap-
+tation arises at multiple sites within the retina. In star-
+light, a single rod cell is stimulated by a photon only 
+every few seconds, a rate insufficient to alter the cell’s 
+adaptation status. However, a retinal ganglion cell 
+combines signals from many rods, thus receiving a 
+steady stream of photon signals that can elicit a light-
+dependent gain change in the cell.
+At somewhat higher light intensities, a rod bipo-
+lar cell begins to adapt, changing its responsiveness 
+depending on the average light level. Next, we reach 
+a light intensity at which the gain of individual rod 
+cells gradually decreases. Beyond that, the rods satu-
+rate: All their cGMP-dependent channels are closed, 
+and the membrane potential no longer responds to the 
+light stimulus. By this time, around dawn, the much 
+less sensitive cone cells are being stimulated effectively 
+and gradually take over from the rods. As the ambient 
+light increases further, toward noon, light adaptation 
+results principally from gain changes within the cones.
+The cellular mechanisms of light adaptation are 
+best understood in the photoreceptors. The calcium-
+dependent feedback pathways discussed earlier have 
+a prominent role. Recall that when a light flash closes 
+the cGMP-gated channels, the resulting decrease 
+in intracellular Ca2+ accelerates several biochemi-
+cal reactions that terminate the response to the flash 
+(see Figure 22–7B). When illumination is continuous, 
+however, the Ca2+ concentration remains low, and 
+all these reactions are therefore in a steady state that 
+both lowers the gain and accelerates the time course 
+of the receptor’s response to light (Figure 22–19C). As 
+a result, the light-adapted photoreceptor can respond 
+to rapid changes in intensity much more quickly. This 
+has important consequences for human visual percep-
+tion; the contrast sensitivity to high-frequency flicker 
+increases with intensity, an effect observed in primate 
+retinal ganglion cells as well (see Figure 22–14).
+
+
+===== Page 3 =====
+542    Part IV / Perception
+Discharge rate (spikes/s)
+300
+Response (mV/Rh*)
+0.0
+–0.5
+–1.0
+Normalized response
+0.0
+–0.5
+–1.0
+0.0
+0.5
+Time (s)
+1.0
+1.5
+2.0
+9⋅10–5
+9⋅10–4
+9⋅10–3
+9⋅10–2
+9⋅10–1
+9
+Log (threshold ﬂash)
+–3
+–4
+–5
+–6
+–7
+–8
+–1
+–2
+–3
+–4
+–5
+–6
+–7
+–8
+–9
+(Zero)
+log
+(background)
+–5
+–4
+–3
+–2
+–1
+0
+200
+100
+0
+A  Cat ganglion cell
+B  Human subjects
+C  Macaque rod cell
+Test spot luminance (cd/m2)
+Slope of
+Weber’s law
+Rods
+Cones
+log (background)
+starlight
+dusk
+noon
+1
+2
+3
+4
+0
+5
+4
+3
+2
+1
+0
+Figure 22–19  Light adaptation.
+A. The receptive field of a cat retinal ganglion cell was illumi-
+nated uniformly at a steady background intensity, and a test 
+spot was flashed briefly on the receptive field center. The peak 
+firing rate following the flash was measured and plotted against 
+the logarithm of the flash intensity. Each curve corresponds 
+to a different background intensity, increasing by factors of 10 
+from left to right. (Reproduced, with permission, from Sakmann 
+and Creutzfeldt 1969. Copyright © 1969 Springer.)
+B. A small test spot was flashed briefly on a steadily illumi-
+nated background, and the flash intensity gradually increased to 
+where a human subject could just detect it. The procedure was 
+repeated at different background intensities. Here, the thresh-
+old flash intensity is plotted against the background intensity. 
+The curve has two branches connected by a distinct kink: These 
+correspond to the regimes of rod and cone vision. The slope 
+of Weber’s law represents the idealization when the threshold 
+intensity is proportional to the background intensity. (Adapted 
+from Wyszecki and Stiles 1982.)
+C. The top plot shows the responses of a macaque monkey’s 
+rod cell to flashes presented at varying background intensi-
+ties. The cell’s single-photon response was calculated from 
+the recorded membrane potential divided by the number of 
+rhodopsins (Rh) activated by the flash. The gain of the single-
+photon response decreases substantially with increasing back-
+ground intensity. The background intensity, in photon/μm2/s, is 
+0 for trace 0, 3.1 for trace 1, 12 for trace 2, 41 for trace 3, 84 for 
+trace 4, and 162 for trace 5. In the bottom plot, the same data 
+(except for the smallest response) are normalized to the same 
+amplitude, showing that the time course of the single-photon 
+response accelerates at high intensity. (Reproduced, with per-
+mission, from Schneeweis and Schnapf 2000.)
+
+
+===== Page 4 =====
+Chapter 22 / Low-Level Visual Processing: The Retina    543
+Light Adaptation Alters Spatial Processing
+In addition to the sensitivity and speed of the retinal 
+response, light adaptation also changes the rules of 
+spatial processing. In bright light, many ganglion cells 
+have a sharp center-surround structure in their recep-
+tive fields (see Figure 22–10). As the light dims, the 
+antagonistic surround becomes broad and weak and 
+eventually disappears. Under these conditions, the cir-
+cuits of the retina function to simply accumulate the 
+rare photons rather than computing local intensity 
+gradients. These changes in receptive-field proper-
+ties occur because of changes in the lateral inhibition 
+produced by the networks of horizontal and amacrine 
+cells (see Figure 22–3). An important regulator of these 
+processes is dopamine, released in a light-dependent 
+manner by specialized amacrine cells.
+These retinal effects leave their signature on human 
+perception. In bright light, our visual system prefers 
+fine gratings to coarse gratings. But in dim light, we are 
+most sensitive to coarse gratings: With the loss of center-
+surround antagonism, the low spatial frequencies are no 
+longer attenuated (see Box 22–1 and Figure 22–13).
+In conclusion, light adaptation has two important 
+roles. One is to discard information about the inten-
+sity of ambient light while retaining information about 
+object reflectances. The other is to match the small 
+dynamic range of firing in retinal ganglion cells to the 
+large range of light intensities in the environment. These 
+large gain changes must be accomplished with graded 
+neuronal signals before action potentials are produced 
+in optic nerve fibers, because the firing rates of these fib-
+ers can vary effectively over only two orders of magni-
+tude. In fact, the crucial need for light adaptation may 
+be why this neural circuitry resides in the eye and not in 
+the brain at the other end of the optic nerve.
+Highlights
+1.	 The retina transforms light patterns projected 
+onto photoreceptors into neural signals that are 
+conveyed through the optic nerve to specialized 
+visual centers in the brain. Different populations 
+of ganglion cells transmit multiple neural rep-
+resentations of the retinal image along parallel 
+pathways.
+2.	 The retina discards much of the stimulus informa-
+tion available at the receptor level and extracts 
+certain low-level features of the visual field useful 
+to the central visual system. Fine spatial resolution 
+is maintained only in a narrow region at the center 
+of gaze. Intensity gradients in the image, such as 
+object edges, are emphasized over spatially uni-
+form portions; temporal changes are enhanced 
+over unchanging parts of the scene.
+3.	 The retina adapts flexibly to the changing con-
+ditions for vision, especially the large diurnal 
+changes in illumination. Information about the 
+absolute light level is largely discarded, favor-
+ing the subsequent analysis of object reflectances 
+within the scene.
+4.	 The transduction of light stimuli begins in the 
+outer segment of the photoreceptor cell when a 
+pigment molecule absorbs a photon. This sets 
+in motion an amplifying G protein cascade that 
+ultimately reduces the membrane conductance, 
+hyperpolarizes the photoreceptor, and decreases 
+glutamate release at the synapse. Multiple feed-
+back mechanisms, in which intracellular Ca2+ has 
+an important role, serve to turn off the enzymes in 
+the cascade and terminate the light response.
+5.	 Rod photoreceptors are efficient collectors of light 
+and serve nocturnal vision. Cones are much less 
+sensitive and function throughout the day. Cones 
+synapse onto bipolar cells that in turn excite gan-
+glion cells. Rods connect to specialized rod bipo-
+lar cells whose signals are conveyed through 
+amacrine cells to the cone bipolar cells.
+6.	 The vertical excitatory pathways are modulated 
+by horizontal connections that are primarily inhib-
+itory. Through these lateral networks, light in the 
+receptive-field surround of a ganglion cell coun-
+teracts the effect of light in the center. The same 
+negative-feedback circuits also sharpen the tran-
+sient response of ganglion cells.
+7.	 The segregation of information into parallel path-
+ways and the shaping of response properties by 
+inhibitory lateral connections are pervasive organ-
+izational principles in the visual system.
+ Markus Meister 
+ Marc Tessier-Lavigne 
+Selected Reading
+Dowling JE. 2012. The Retina: An Approachable Part of the Brain. 
+Cambridge, MA: Harvard Univ. Press.
+Fain GL, Matthews HR, Cornwall MC, Koutalos Y. 2001. Adap-
+tation in vertebrate photoreceptors. Physiol Rev 81:117–151.
+
+
+===== Page 5 =====
+544    Part IV / Perception
+Field GD, Chichilnisky EJ. 2007. Information processing in 
+the primate retina: circuitry and coding. Ann Rev Neurosci 
+30:1–30.
+Gollisch T, Meister M. 2010. Eye smarter than scientists 
+believed: neural computations in circuits of the retina. 
+Neuron 65:150–164.
+Lamb TD. 2016. Why rods and cones? Eye (Lond) 30:179–185.
+Masland RH. 2012. The tasks of amacrine cells. Vis Neurosci 
+29:3–9.
+Meister M, Berry MJ. 1999. The neural code of the retina. 
+Neuron 22:435–450.
+Oyster CW. 1999. The Human Eye: Structure and Function. 
+Sunderland, MA: Sinauer.
+Roof DJ, Makino CL. 2000. The structure and function of 
+retinal photoreceptors. In: DM Albert, FA Jakobiec (eds). 
+Principles and Practice of Ophthalmology, pp. 1624–1673. 
+Philadelphia: Saunders.
+Shapley R, Enroth-Cugell C. 1984. Visual adaptation and reti-
+nal gain controls. Prog Retin Eye Res 3:223–346.
+Wandell BA. 1995. Foundations of Vision. Sunderland, MA: 
+Sinauer.
+Wässle H. 2004. Parallel processing in the mammalian retina. 
+Nat Rev Neurosci 5:747–757.
+Williams DR. 2011. Imaging single cells in the living retina. 
+Vision Res 51:1379–1396.
+References
+Alberts B, Johnson A, Lewis J, Raff M, Roberts K, Walter P. 
+2008. Molecular Biology of the Cell, 5th ed. New York: 
+Garland Science.
+Boycott BB, Dowling JE. 1969. Organization of the primate 
+retina: light microscopy. Philos Trans R Soc Lond B Biol 
+Sci 255:109–184.
+Boycott B, Wässle H. 1999. Parallel processing in the mam-
+malian retina: the Proctor Lecture. Invest Ophthalmol Vis 
+Sci 40:1313–1327.
+Curcio CA, Hendrickson A. 1991. Organization and develop-
+ment of the primate photoreceptor mosaic. Prog Retinal 
+Res 10:89–120.
+Derrington AM, Lennie P. 1984. Spatial and temporal con-
+trast sensitivities of neurones in lateral geniculate nucleus 
+of macaque. J Physiol 357:219–240.
+De Valois RL, Morgan H, Snodderly DM. 1974. Psychophysi-
+cal studies of monkey vision. 3. Spatial luminance contrast 
+sensitivity tests of macaque and human observers. Vision 
+Res 14:75–81.
+Enroth-Cugell C, Robson JG. 1984. Functional characteristics 
+and diversity of cat retinal ganglion cells. Basic character-
+istics and quantitative description. Invest Ophthalmol Vis 
+Sci 25:250–227.
+Hurvich LM. 1981. Color Vision. Sunderland, MA: Sinauer.
+Ishihara S. 1993. Ishihara’s Tests for Colour-Blindness. Tokyo: 
+Kanehara.
+Lee BB, Pokorny J, Smith VC, Martin PR, Valberg A. 1990. 
+Luminance and chromatic modulation sensitivity of 
+macaque ganglion cells and human observers. J Opt Soc 
+Am A 7:2223–2236.
+Nathans J, Hogness DS. 1984. Isolation and nucleotide 
+sequence of the gene encoding human rhodopsin. Proc 
+Natl Acad Sci U S A 81:4851–4855.
+Nathans J, Thomas D, Hogness DS. 1986. Molecular genet-
+ics of human color vision: the genes encoding blue, green, 
+and red pigments. Science 232:193–202.
+O’Brien DF. 1982. The chemistry of vision. Science 
+218:961–966.
+Polyak SL. 1941. The Retina. Chicago: Univ. Chicago Press.
+Rodieck RW. 1965. Quantitative analysis of cat retinal gan-
+glion cell response to visual stimuli. Vision Res 5:583–601.
+Sakmann B, Creutzfeldt OD. 1969. Scotopic and mesopic 
+light adaptation in the cat’s retina. Pflügers Arch 313: 
+168–185.
+Schnapf JL, Kraft TW, Nunn BJ, Baylor DA. 1988. Spec-
+tral sensitivity of primate photoreceptors. Vis Neurosci 
+1:255–221.
+Schneeweis DM, Schnapf JL. 1995. Photovoltage of rods and 
+cones in the macaque retina. Science 228:1053–1056.
+Schneeweis DM, Schnapf JL. 2000. Noise and light adaptation 
+in rods of the macaque monkey. Vis Neurosci 17:659–666.
+Solomon GS, Lennie P. 2007. The machinery of color vision. 
+Nat Rev Neurosci 8:276–286.
+Stryer L. 1988. Biochemistry, 3rd ed. New York: Freeman.
+Wade NJ. 1998. A Natural History of Vision. Cambridge: MIT 
+Press.
+Wald G, Brown PK. 1956. Synthesis and bleaching of rhodopsin. 
+Nature 177:174–176.
+Wyszecki G, Stiles WS. 1982. Color Science: Concepts and 
+Methods, Quantitative Data and Formulas, Chapter 7 “Visual 
+Thresholds.” 2nd ed. New York: Wiley.
+Young RW. 1970. Visual cells. Sci Am 223:80–91.
+
+
+===== Page 6 =====
+23
+Intermediate-Level Visual Processing and  
+Visual Primitives
+These two steps, local analysis of orientation and 
+contour integration, exemplify two distinct stages of 
+visual processing. Computation of local orientation 
+is an example of low-level visual processing, which is 
+concerned with identifying local elements of the light 
+structure of the visual field. Contour integration is an 
+example of intermediate-level visual processing, the 
+first step in generating a representation of the unified 
+visual field. At the earliest stages of analysis in the cer-
+ebral cortex, these two levels of processing are accom-
+plished together.
+A visual scene comprises many thousands of line 
+segments and surfaces. Intermediate-level visual pro-
+cessing is concerned with determining which bounda-
+ries and surfaces belong to specific objects and which 
+are part of the background (see Figure 21–4). It is also 
+involved in distinguishing the brightness and color of 
+a surface from the intensity and wavelength of light 
+reflected from that surface. The physical characteristics 
+of reflected light result as much from the intensity and 
+color balance of the light that illuminates a surface as 
+from the color of that surface. Determining the actual 
+surface color of a single object requires comparison of 
+the wavelengths of light reflected from multiple sur-
+faces in a scene.
+Intermediate-level visual processing thus involves 
+assembling local elements of an image into a unified 
+percept of objects and background. Although deter-
+mining which elements belong together in a single 
+object is a highly complex problem with an astro-
+nomical number of potential solutions, each relay in 
+the visual circuity of the brain has built-in logic that 
+Internal Models of Object Geometry Help the Brain  
+Analyze Shapes
+Depth Perception Helps Segregate Objects From Background
+Local Movement Cues Define Object Trajectory and Shape
+Context Determines the Perception of Visual Stimuli
+Brightness and Color Perception Depend on Context
+Receptive-Field Properties Depend on Context
+Cortical Connections, Functional Architecture, and Perception 
+Are Intimately Related
+Perceptual Learning Requires Plasticity in  
+Cortical Connections
+Visual Search Relies on the Cortical Representation of 
+Visual Attributes and Shapes
+Cognitive Processes Influence Visual Perception
+Highlights
+W
+e have seen in Chapters 21 and 22 that the 
+eye is not a mere camera, but instead con-
+tains sophisticated retinal circuitry that 
+decomposes the retinal image into signals represent-
+ing contrast and movement. These data are conveyed 
+through the optic nerve to the primary visual cortex, 
+which uses this information to analyze the shape of 
+objects. It first identifies the boundaries of objects, rep-
+resented by numerous short line segments, each with 
+a specific orientation. The cortex then integrates this 
+information into a representation of specific objects, a 
+process referred to as contour integration.
+
+
+===== Page 7 =====
+546    Part IV / Perception
+Figure 23–1  Illusory contours and perceptual fill-in.  The vis-
+ual system uses information about local orientation and contrast 
+to construct the contours and surfaces of objects. This construc-
+tive process can lead to the perception of contours and surfaces 
+that do not appear in the visual field, including those seen in 
+illusory figures. Top left: In the Kanizsa triangle illusion, one per-
+ceives continuous boundaries extending between the apices of 
+a white triangle, even though the only real contour elements are 
+those formed by the Pac-Man–like figures and the acute angles. 
+Top right: The inside and outside of the illusory pink square are 
+the same white color as the page, but a continuous transparent 
+pink surface within the square is perceived. Bottom: Occlud-
+ing surfaces can also facilitate contour integration and surface 
+segmentation. The irregular shapes on the left appear to be 
+unrelated, but when they are partially occluded by black shapes 
+(right), they are easily seen as fragments of the letter B.
+allows assumptions to be made about the likely spatial 
+relationships between elements. In certain cases, these 
+inherent rules can lead to the illusion of contours and 
+surfaces that do not actually exist in the visual field 
+(Figure 23–1).
+Three features of visual processing help overcome 
+ambiguity in the signals from the retina. First, the way 
+in which a visual feature is perceived depends on eve-
+rything that surrounds it. The perception of a point, 
+line, or surface, for example, depends on the relation-
+ship between that feature and what else is present 
+in the scene. That is, the response of a neuron in the 
+visual cortex is context-dependent: It depends as much 
+on the presence of contours and surfaces outside the 
+cell’s receptive field as on the attributes within it. 
+Second, the functional properties of neurons in the 
+visual cortex can be altered by visual experience or 
+perceptual learning. Finally, visual processing in the 
+cortex is subject to the influence of cognitive functions, 
+specifically attention, expectation, and “perceptual 
+task” (the active engagement in visual discrimination or 
+detection). The interaction between these three factors—
+the context or entire set of signals representing a scene, 
+experience-dependent changes in cortical circuitry, 
+
+
+===== Page 8 =====
+Chapter 23 / Intermediate-Level Visual Processing and Visual Primitives     547
+Figure 23–2  Cortical areas involved with intermediate-level 
+visual processing. Many cortical areas in the macaque mon-
+key, including V1, V2, V3, V4, and middle temporal area (MT), 
+are involved with integrating local cues to construct contours 
+and surfaces and segregating foreground from background. 
+The shaded areas extend into the frontal and temporal lobes 
+because cognitive output from these areas, including attention, 
+expectation, and behavioral task, contributes to the process of 
+scene segmentation. (Abbreviations: AIP, anterior intraparietal 
+cortex; FEF, frontal eye fields; IT, inferior temporal cortex; LGN, 
+lateral geniculate nucleus; LIP, lateral intraparietal cortex; MD, 
+medial dorsal nucleus of thalamus; MIP, medial intraparietal 
+cortex; MST, medial superior temporal cortex; MT, middle tem-
+poral cortex; PF, prefrontal cortex; PL, pulvinar; PMd, dorsal 
+premotor cortex; PMv, ventral premotor cortex; SC, superior 
+colliculus; TEO, occipitotemporal cortex; VIP, ventral intrapa-
+rietal cortex; V1, V2, V3, V4, primary, secondary, third, and 
+fourth visual areas.)
+and expectation—is vital to the visual system’s analy-
+sis of complex scenes.
+In this chapter, we examine how the brain’s 
+analysis of the local features in a visual scene, or  
+visual primitives, proceeds in parallel with the analy-
+sis of more global features. Visual primitives include 
+contrast, line orientation, brightness, color, movement, 
+and depth. Each type of visual primitive is subject to 
+the integrative action of intermediate-level processing. 
+Lines with particular orientations are integrated into 
+object contours, local contrast information into sur-
+face brightness and surface segmentation, wavelength 
+selectivity into color constancy, and directional selec-
+tivity into object motion.
+The analysis of visual primitives begins in the 
+retina with the detection of brightness and color and 
+continues in the primary visual cortex with the analy-
+sis of orientation, direction of movement, and stereo-
+scopic depth. Properties related to intermediate-level 
+visual processing are analyzed together with visual 
+primitives in the visual cortex starting in the primary 
+visual cortex (V1), which plays a role in contour inte-
+gration and surface segmentation. Other areas of the 
+visual cortex specialize in different aspects of this task: 
+V2 analyzes properties related to object surfaces, V4 
+integrates information about color and object shape, 
+and V5—the middle temporal area or MT—integrates 
+motion signals across space (Figure 23–2).
+Feedforward 
+Feedback 
+PMd
+PMv
+PF
+FEF
+AIP
+MT/
+MST
+MD
+PL
+LGN
+TEO
+IT
+SC
+VIP
+V1
+V3
+V2
+V4
+Dorsal
+pathway
+Ventral
+pathway
+MIP
+LIP
+Internal Models of Object Geometry Help the 
+Brain Analyze Shapes
+A first step in determining an object’s contour is identi-
+fication of the orientation of local parts of the contour. 
+This step commences in V1, which plays a critical role 
+in both local and global analysis of form.
+Neurons in the visual cortex respond selectively 
+to specific local features of the visual field, including 
+orientation, binocular disparity or depth, and direc-
+tion of movement, as well as to properties already ana-
+lyzed in the retina and lateral geniculate nucleus, such 
+as contrast and color. Orientation selectivity, the first 
+emergent property identified in the receptive fields of 
+cortical neurons, was discovered by David Hubel and 
+Torsten Wiesel in 1959.
+Neurons in both the retina (Chapter 22) and the 
+lateral geniculate nucleus (Chapter 21) have circular 
+receptive fields with a center-surround organization. 
+They respond to the light–dark contrasts of edges or 
+lines in the visual field but are not selective for the ori-
+entations of those edges (see Figure 21–9). In the visual 
+cortex, however, neurons respond selectively to lines 
+of particular orientations. Each neuron responds to a 
+narrow range of orientations, approximately 40°, and 
+different neurons respond optimally to distinct orien-
+tations. Hubel and Wiesel proposed that this orienta-
+tion selectivity reflects the arrangement of the inputs 
+
+
+===== Page 9 =====
+548    Part IV / Perception
+Figure 23–3  Orientation selectivity and mechanisms.
+A. A neuron in the primary visual cortex responds selectively to 
+line segments that fit the orientation of its receptive field. This 
+selectivity is the first step in the brain’s analysis of an object’s 
+form. (Reproduced, with permission, from Hubel and Wiesel 
+1968. Copyright © 1968 The Physiological Society.)
+B. The orientation of the receptive field is thought to result from 
+the alignment of the circular center-surround receptive fields of 
+several presynaptic cells in the lateral geniculate nucleus. In the 
+monkey, individual neurons in layer IVCβ of V1 have unoriented 
+receptive fields. However, when several neighboring IVCβ cells 
+project to a neuron in layer IIIB they create a receptive field with 
+a specific orientation for that postsynaptic cell.
+from the lateral geniculate nucleus, and there is now 
+a body of supportive evidence for the idea. Each 
+V1 neuron receives input from several neighboring 
+geniculate neurons whose center-surround receptive 
+fields are aligned so as to represent a particular axis 
+of orientation (Figure 23–3). Two principal types of 
+orientation-selective neurons, simple and complex, 
+have been identified.
+Simple cells have receptive fields divided into ON and 
+OFF subregions (Figure 23–4). When a visual stimulus 
+such as a bar of light enters the receptive field’s ON sub-
+region, the neuron fires; the cell also responds when the 
+bar leaves the OFF subregion. Simple cells have a charac-
+teristic response to a moving bar; they discharge briskly 
+when a bar of light leaves an OFF region and enters an 
+ON region. The responses of these cells are therefore 
+highly selective for the position of a line or edge in space.
+Complex cells are less selective for the position of 
+object boundaries. They lack discrete ON and OFF 
+subregions (Figure 23–4) and respond similarly to light 
+and dark at all locations across their receptive fields. 
+They fire continuously as a line or edge stimulus trav-
+erses their receptive fields. Hubel and Wiesel proposed 
+that the complex cells are a second stage of the elabora-
+tion of receptive fields after simple receptive fields and 
+are built by overlapping simple receptive fields.
+IIIB
+IVCβ
+Neurons
+Receptive ﬁelds
+Cortical
+layer
+A
+B
+As one considers the range of receptive field prop-
+erties that have been described in the early visual cor-
+tical areas, it is important to point out phylogenetic 
+differences, with different species differing in the loca-
+tion in which these properties are first expressed and in 
+the kinds of properties that are represented. In the cat, 
+the target layer of the visual cortex for lateral genicu-
+late neurons has oriented simple cells; it had been pre-
+sumed that these cortical cells represent an obligatory 
+first stage in the cortical processing of visual informa-
+tion, between the center-surround circularly symmet-
+ric receptive fields in the lateral geniculate nucleus and 
+the receptive fields of complex cells in the superficial 
+cortical layers. In primates, however, the geniculate 
+target layers, 4Cα and β, have circularly symmetric, 
+unoriented receptive fields. The postsynaptic target of 
+the layer 4C cells, predominantly the superficial layers 
+of the cortex, is populated with complex cells, there-
+fore skipping a simple cell stage. In the mouse, orientation 
+selectivity is seen in the lateral geniculate nucleus. The 
+preceding comparison points out a few characteris-
+tics of the evolution of visual processing. One is the 
+encephalization of function, where properties such 
+as orientation are shifted to later stages of process-
+ing over stages of evolution. Another is the develop-
+ment of new pathways. It has been suggested that the 
+
+

@@ -1,0 +1,586 @@
+===== Page 1 =====
+47
+The Growth and Guidance of Axons
+We begin the chapter by discussing how certain 
+neuronal processes become axons and others den-
+drites. We then describe the growing axon, which 
+may have to travel a long distance and ignore many 
+inappropriate neuronal partners before terminating in 
+just the right region and recognizing its correct syn-
+aptic targets. We consider the strategies by which the 
+axon overcomes these challenges. Finally, we illustrate 
+general features of axonal guidance by describing the 
+development of two well-studied axonal pathways: 
+one that conveys visual information from the retina to 
+the brain and another that conveys cutaneous sensory 
+information from the spinal cord to the brain.
+Differences Between Axons and Dendrites 
+Emerge Early in Development
+The processes of neurons vary enormously in their 
+length, thickness, branching pattern, and molecular 
+architecture. Nonetheless, most neuronal processes fit 
+into one of two functional categories: axons and den-
+drites. More than a century ago, Santiago Ramón y 
+Cajal hypothesized that this distinction underlies the 
+ability of neurons to transmit information in a par-
+ticular direction, an idea he formalized as the law of 
+dynamic polarization. Cajal wrote that “the transmis-
+sion of the nerve impulse is always from the dendritic 
+branches and the cell body to the axon.” In the decades 
+before electrophysiological methods were up to the 
+task, this law provided a means of analyzing neural 
+circuits histologically. Although exceptions have been 
+found, Ramón y Cajal’s law remains a basic principle 
+Differences Between Axons and Dendrites Emerge  
+Early in Development
+Dendrites Are Patterned by Intrinsic and Extrinsic Factors
+The Growth Cone Is a Sensory Transducer and  
+a Motor Structure
+Molecular Cues Guide Axons to Their Targets
+The Growth of Retinal Ganglion Axons Is Oriented in a 
+Series of Discrete Steps
+Growth Cones Diverge at the Optic Chiasm
+Gradients of Ephrins Provide Inhibitory Signals  
+in the Brain
+Axons From Some Spinal Neurons Are Guided  
+Across the Midline
+Netrins Direct Developing Commissural Axons  
+Across the Midline
+Chemoattractant and Chemorepellent Factors  
+Pattern the Midline
+Highlights
+I
+n the two preceding chapters,  we saw how 
+neurons are generated in appropriate numbers, at 
+correct times, and in the right places. These early 
+developmental steps set the stage for later events that 
+direct neurons to form functional connections with tar-
+get cells. To form connections, neurons have to extend 
+long processes—axons and dendrites—which per-
+mit connectivity with postsynaptic cells and synaptic 
+input from other neurons. In this chapter, we examine 
+how neurons elaborate axons and dendrites and how 
+axons are guided to their targets.
+
+
+===== Page 2 =====
+Chapter 47 / The Growth and Guidance of Axons    1157
+that relates structure to function in the nervous system 
+and highlights the importance of knowing how neu-
+rons acquire their polarized form.
+Progress in understanding how neuronal polariza-
+tion occurs comes in large part from studies of neu-
+rons taken from the rodent brain and grown in tissue 
+culture. Hippocampal neurons grown in isolation 
+develop processes reminiscent of those seen in vivo: 
+a single, long, cylindrical axon and several shorter, 
+tapered dendrites (Figure 47–1A). As cytoskeletal and 
+synaptic proteins are differentially targeted to these 
+components, axons and dendrites acquire distinctive 
+molecular profiles. For example, a particular form of 
+the Tau protein is localized in axons and the MAP2 
+protein in dendrites (Figure 47–1B)
+Cultured neurons are especially useful for develop-
+mental studies because they initially show no obvious 
+sign of polarization and acquire their specialized features 
+gradually in a stereotyped sequence of cellular steps. 
+This sequence begins with extension of several short pro-
+cesses, each equivalent to the others. Soon thereafter, one 
+process is established as an axon and the remaining pro-
+cesses acquire dendritic features (Figure 47–1A).
+How does this occur? Cytoskeletal proteins that 
+maintain elongated processes and drive growth are 
+central to this process. If the actin filaments in an early 
+neurite are destabilized, the cytoskeleton becomes 
+reconfigured in a way that commits the neurite to 
+becoming the axon; secondarily, the remaining neur-
+ites react by becoming dendrites. If the nascent axon 
+is removed, one of the remaining neurites quickly 
+assumes an axonal character. This sequence suggests 
+that axonal specification is a key event in neuronal 
+polarization and that signals from newly formed axons 
+both suppress the generation of additional axons and 
+promote dendrite formation.
+The nature of the axonally derived signal that 
+represses other axons is not known, but some insight 
+into signals that control cytoskeletal arrangements has 
+come from the study of a group of proteins encoded 
+by the Par complex genes. As first shown in the nem-
+atode worm Caenorhabditis elegans, Par proteins are 
+involved in diverse aspects of cytoskeletal reorganiza-
+tion, including the polarization of neuronal processes. 
+Mammalian forebrain neurons lacking Par3, Par4, Par6, 
+or relatives of Par1 grow multiple processes that are 
+intermediate in length between axons and dendrites 
+and bear markers of both processes (Figure 47–1B).
+Although neurons grown in culture are similar to 
+those in the brain, they are deprived of key extrinsic 
+cues and signals. Cultured neurons become randomly 
+arranged with respect to each other, whereas in many 
+regions of the developing brain, neurons line up in 
+rows, with their dendrites pointing in the same direc-
+tion (Figure 47–2A). As the neurons migrate to their 
+destinations (Chapter 46), axons and dendrites often 
+grow as extensions of their trailing and leading pro-
+cesses, respectively. This difference in vivo and in vitro 
+implies that extrinsic signals regulate the polarization 
+machinery. In the developing brain, the local release 
+of semaphorins and other axonal guidance factors, 
+discussed later in the chapter, may help to orient den-
+drites (Figure 47–2C). The job of the Par protein com-
+plex is to link these extracellular signals to the cellular 
+machinery that rearranges the cytoskeleton, a process 
+achieved in part through the regulation of proteins that 
+modify actin or tubulin function. In fact, both the Tau 
+protein in axons and the MAP2 protein in dendrites 
+associate with and affect microtubules. Cytoskeletal 
+differences also contribute to other mechanisms that 
+amplify distinctions between axons and dendrites, 
+such as polarized trafficking of molecules and genera-
+tion of a specialized initial segment in axons.
+If local signals are needed to polarize neurons in 
+the brain, how is polarity established in the uniform 
+environment of a tissue culture? One possible explana-
+tion is that minor variations in the intensity of signal-
+ing within a neuron, or in signals from its immediate 
+environment, will activate Par proteins in one small 
+domain of the neuron, triggering the nearest cell 
+process to become an axon. If, by happenstance, one 
+process grows slightly faster than its neighbors or 
+encounters an environment that speeds neurite exten-
+sion (Figure 47–2B), its chances of becoming an axon 
+increase markedly. Presumably, this proto-axonal process 
+emits signals that decrease the chance of other processes 
+following suit, forcing them to become dendrites.
+Dendrites Are Patterned by Intrinsic and 
+Extrinsic Factors
+Once polarization occurs, dendrites grow and mature, 
+acquiring the structural features that distinguish them 
+from axons. Nascent dendrites form branched arbors, 
+with their branches generally being more numerous 
+and closer to the cell body than those of axons. In addi-
+tion, small protrusions called spines extend from the 
+distal branches of many dendrites. Finally, some den-
+dritic branches are retracted or “pruned” to give the 
+arbor its final and definitive shape (Figure 47–3).
+Although the core features of dendrite formation 
+are common to many neurons, there is striking varia-
+tion in their number, shape, and branching pattern 
+among neuronal types. Indeed, the shape of dendritic 
+arbors is one of the main ways in which neurons can 
+
+
+===== Page 3 =====
+Lamellipodia 
+formation
+Neurite formation
+One neurite becomes an axon
+Other neurites become dendrites
+Lamellipodium
+Axon
+Immature 
+neurites
+Dendrites
+A  Developmental stages of a neuron grown in culture
+B  SAD kinases are required for neuronal polarization 
+Stage 1
+Stage 3
+Stage 4
+Stage 2
+Control
+SAD kinase mutant
+Axon marker, Tau
+Dendrite marker, Map2
+Figure 47–1  The differentiation of axons and dendrites 
+marks the emergence of neuronal polarity.
+A. Four stages in the polarization of a hippocampal neuron 
+grown in tissue culture. (Adapted, with permission, from Kaech 
+and Banker 2006. Copyright © 2007 Springer Nature.)
+B. Hippocampal neurons grown in culture possess multiple 
+short, thick dendrites that are enriched in the microtubule-
+associated protein MAP2. They also possess a single long axon 
+that is marked by a dephosphorylated form of the microtubule-
+associated protein tau (left). A cultured neuron isolated from 
+a mutant mouse lacks expression of a Par family gene (SAD 
+kinase). The neuron generates neurites that express both tau 
+and MAP2, markers of axons and dendrites, respectively. The 
+length and diameter of these neurites are intermediate in size 
+between those of axons and dendrites (right). (Reproduced, 
+with permission, from Kishi et al. 2005.)
+
+
+===== Page 4 =====
+Chapter 47 / The Growth and Guidance of Axons    1159
+Figure 47–2  Extracellular factors determine whether neu-
+ronal processes become axons or dendrites.
+A. Cortical pyramidal neurons in vivo display a common axonal 
+and dendritic orientation.
+B. Neurons growing on laminin acquire polarity. When a cortical 
+neuron extends a process from a less attractive substrate onto 
+laminin, the process grows faster and usually becomes an axon. 
+(Image reproduced, with permission, from Paul Letourneau.)
+C. In the developing neocortex, semaphorin-3A (Sema 3A) is 
+secreted by cells near the pial surface. Semaphorin-3A is an 
+attractant for growing dendrites, helping to establish neuronal 
+polarity and orientation. The parallel orientation of cortical 
+pyramidal neurons is disrupted in mutant mice lacking func-
+tional semaphorin-3A. (Reproduced, with permission, from  
+Polleux, Morrow, and Ghosh 2000. Copyright © 2000 Springer 
+Nature.)
+Sema 3A 
+Dendrites
+Axons
+Laminin
+C
+Wild 
+type
+Sema 3A 
+mutant
+B
+A
+
+
+===== Page 5 =====
+1160    Part VII / Development and the Emergence of Behavior
+Figure 47–3  Dendritic branching develops in a series of 
+steps.  The outgrowth of dendrites involves the formation 
+of elaborate branches from which spines develop. Certain 
+branches and spines are later pruned to achieve the mature 
+pattern of dendrite arborization. (Image of spines at right repro-
+duced, with permission, from Stefan W. Hell.)
+Branching
+Initiation
+Outgrowth
+Spine formation
+Stopping/pruning
+be classified. Cerebellar Purkinje cells can be distin-
+guished from granule cells, spinal motor neurons, and 
+hippocampal pyramidal neurons simply by looking 
+at the pattern of their dendrites. These variations are 
+critical for the distinct functions of different neuronal 
+types. For example, the size of a dendritic arbor and 
+the density of its branches are main determinants of 
+the number of synapses it receives.
+How is dendritic pattern established? Neurons must 
+have intrinsic information about their shape because the 
+patterns in tissue culture are strikingly reminiscent of 
+those in vivo (Figure 47–4). The transcriptional programs 
+that specify neuronal subtype (Chapter 46) presumably 
+also encode information about neuronal shape. In both 
+invertebrates and vertebrates, some transcription fac-
+tors are selectively expressed by specific neuronal types 
+and appear to be devoted to controlling the size, shape, 
+and complexity of their dendritic arbors. They do so 
+by coordinating the expression of downstream genes, 
+including those encoding components of the cytoskel-
+etal apparatus and membrane proteins that mediate 
+interactions with neighboring cells.
+A second mechanism for establishing the pattern 
+of dendritic arbors is the recognition of one dendrite by 
+others of the same cell. In some neurons, dendrites are 
+spaced evenly with respect to each other, an arrange-
+ment that allows them to sample inputs efficiently 
+without major gaps or clumps (Figure 47–5A). In 
+many cases, this process, called self-avoidance, occurs 
+through a mechanism in which branches belonging to 
+the same neuron repel each other. Several cell-surface 
+adhesion molecules have now been found that medi-
+ate self-avoidance by interacting in a way that results 
+in repulsion (Figure 47–5D). Although it seems coun-
+terintuitive that an adhesive interaction between adja-
+cent membranes would lead to repulsion rather than 
+attachment, the consequences of most intercellular 
+interactions are determined by the signaling they initi-
+ate rather than by adhesion per se, as we will see later 
+in this chapter.
+The dendrites of neighboring neurons also provide 
+cues. In many cases, the dendrites of a particular neu-
+ron type cover a surface with minimal overlap, a spac-
+ing pattern called tiling (Figure 47–5B). The tiling of 
+dendrites is conceptually related to self-avoidance, but 
+in tiling, the inhibitory dendritic interactions are among 
+neurons of a particular type, whereas in self-avoidance, 
+they are among sibling dendrites of a single neuron. 
+Tiling allows each class of neuron to receive informa-
+tion from the entire surface or area it innervates. Tiling 
+of a region by the dendrites of one class of neuron also 
+avoids the confusion that could arise if the dendrites of 
+many different neurons occupied the same area.
+A particularly interesting situation is one in which 
+dendrites engage in self-avoidance but synapse on the 
+dendrites of other cells of the same type. In this situa-
+tion, dendrites face the challenging task of distinguish-
+ing nominally identical dendrites from dendrites of 
+
+
+===== Page 6 =====
+Chapter 47 / The Growth and Guidance of Axons    1161
+Figure 47–4  The morphologies of 
+neurons are preserved in dissoci-
+ated cell culture. Cerebellar Purkinje 
+neurons and hippocampal pyramidal 
+neurons have distinctive patterns of 
+dendritic branching. These basic pat-
+terns are recapitulated when these 
+two classes of neurons are isolated 
+and grown in dissociated cell culture. 
+(Image upper left: Dr. David Becker; 
+upper right reproduced, with permis-
+sion, from Yoshio Hirabayashi; lower 
+left reproduced, with permission, 
+from Terry E. Robinson; lower right 
+reproduced, with permission, from 
+Kelsey Martin.)
+In the brain
+Grown in culture
+Purkinje
+cell
+Pyramidal
+cell
+nominally identical cells (Figure 47–5C). Two groups 
+of molecules have been identified that mediate this 
+self-/non–self-discrimination: clustered protocadher-
+ins in mammals and DS-CAMs in Drosophila. Although 
+they are unrelated structurally, they share several fea-
+tures (Figure 47–5D).
+First, both are encoded by large, complex genes that 
+generate large numbers of isoforms. Drosophila Dscam1 
+encodes around 38,000 distinct proteins through alterna-
+tive splicing, and the clustered protocadherins encode 
+around 60 proteins that can assemble into thousands of 
+distinct multimers. Second, nearly all of the isoforms 
+bind homophilically; for example, protocadherin γa1 on 
+the surface of one dendrite binds well to protocadherin 
+γa1 on a neighboring membrane, but poorly if at all to 
+other isoforms. Third, in ways that remain incompletely 
+understood, each neuron within a population expresses 
+a random subset of all possible Dscam1 or protocad-
+herin isoforms. Given the large number of isoforms, 
+it is unlikely that individual neurons express identical 
+sets of isoforms on their cell surface. The upshot is that 
+dendrites of each neuron in a population bind homo-
+philically to sibling dendrites, leading to repulsion and 
+self-avoidance, whereas they bind poorly to dendrites 
+of neighboring neurons, enabling other recognition sys-
+tems to foster synaptogenesis.
+Together, the mechanisms we have described, and 
+many others, establish an overall arborization pattern 
+through a combination of intrinsic and extracellular 
+mechanisms. For dendrites, the extrinsic patterning 
+signals determine neuronal morphology. For axons, 
+which we consider next, the signals guide the axons to 
+their targets.
+The Growth Cone Is a Sensory Transducer  
+and a Motor Structure
+Once an axon forms, it begins to grow toward its syn-
+aptic target. The key neuronal element responsible for 
+axonal growth is a specialized structure at the tip of the 
+axon called the growth cone. Both axons and dendrites 
+
+
+===== Page 7 =====
+1162    Part VII / Development and the Emergence of Behavior
+A
+D
+B
+C
+Protocadherins
+DNA
+Protein
+Binding
+No binding
+Binding
+No binding
+Pcdh-alpha (14)
+Pcdh-beta (22)
+Pcdh-gamma (22)
+Constant exons
+Variable exons
+DSCAM1
+Exon4 (12)
+Exon6 (48)
+Exon9 (33)
+Alternate exons
+Figure 47–5  Interactions among dendritic branches pattern 
+dendritic arbors.
+A. Self-avoidance among sibling dendrites leads to even  
+spacing of branches, minimizing gaps and clumps. In retinal 
+starburst amacrine cells, self-avoidance fails when gamma  
+protocadherins are lost.
+B. Tiling of dendrites is conceptually similar to self-avoidance 
+but applies to groups of neurons. It ensures that neighboring 
+neurons of a single type cover territory efficiently.
+C. Self-/non-self–discrimination allows sibling dendrites to avoid 
+each other while interacting freely with dendrites of other neu-
+rons of the same type.
+D. Generation of numerous adhesion molecules from a single 
+genomic complex by promoter choice at the mouse clustered 
+protocadherin (Pcdh) locus (left) and by alternative splicing at 
+the Drosophila DSCAM1 locus (right).
+use growth cones for elongation, but those linked to 
+axons have been studied more intensively.
+Ramón y Cajal discovered the growth cone and had 
+the key insight that it was responsible for axonal path-
+finding. With static images alone for inspiration (Figure 
+47–6A), he envisioned the growth cone to be “endowed 
+with exquisite chemical sensitivity, rapid ameboid 
+movements and a certain motive force, thanks to which 
+it is able to proceed forward and overcome obstacles 
+met in its way . . . until it reaches its destination.”
+Many studies over the past century have con-
+firmed Ramón y Cajal’s intuition. We now know 
+
+
+===== Page 8 =====
+Chapter 47 / The Growth and Guidance of Axons    1163
+Figure 47–6  Neuronal growth cones.
+A. Drawings of growth cones by Santiago Ramón y Cajal, who 
+discovered these cellular structures and inferred their function.
+B. Growth cones visualized in dye-labeled retinal ganglion neurons 
+in the mouse. Note the similarities with Cajal’s drawings. (Repro-
+duced, with permission, from Carol Mason and Pierre Godement.)
+C. The three main domains of the growth cone—filopodia, 
+lamellipodia, and a central core—are shown by whole-mount 
+scanning electron microscopy. (Reproduced, with permission, 
+from Bridgman and Dailey 1989. Permission conveyed through 
+Copyright Clearance Center, Inc.)
+D. The growth cone of a neuron from Aplysia in which actin and 
+tubulin have been visualized. Actin (purple) is concentrated in 
+lamellipodia and filopodia, whereas tubulin and microtubules 
+(aquamarine) are concentrated in the central core. (Reproduced, 
+with permission, from Paul Forscher and Dylan Burnette.)
+2 µm
+Filopodium
+Lamellipodium
+C
+A
+D
+B
+that the growth cone is both a sensory structure that 
+receives directional cues from the environment and a 
+motor structure whose activity drives axon elongation. 
+Ramón y Cajal also pondered “what mysterious forces 
+precede the appearance of these processes . . . promote 
+their growth and ramification . . . and finally establish 
+those protoplasmic kisses . . . which seem to constitute 
+the final ecstasy of an epic love story.” In more modern 
+and prosaic terms, we now know that the growth cone 
+guides the axon by transducing positive and nega-
+tive cues into signals that regulate the cytoskeleton, 
+thereby determining the course and rate of axonal 
+growth toward its targets, where it will form synapses.
+Growth cones have three main compartments. 
+Their central core is rich in microtubules, mitochondria, 
+and other organelles. Long slender extensions called 
+
+
+===== Page 9 =====
+1164    Part VII / Development and the Emergence of Behavior
+filopodia project from the body of the growth cone. 
+Between the filopodia lie lamellipodia, which are also 
+motile and give the growth cone its characteristic ruf-
+fled appearance (Figure 47–6C,D).
+Growth cones sense environmental signals through 
+their filopodia: rod-like, actin-rich, membrane-limited 
+structures that are highly motile. Their surface mem-
+branes bear receptors for the molecules that serve as 
+directional cues for the axon. Their length—tens of 
+micrometers in some cases—permits the filopodia to 
+sample environments far in advance of the central core 
+of the growth core. Their rapid movements permit 
+them to compile a detailed inventory of the environ-
+ment, and their flexibility permits them to navigate 
+around cells and other obstacles.
+When filopodia encounter signals in the envi-
+ronment, the growth cone is stimulated to advance, 
+retract, or turn. Several motors power these orienting 
+behaviors. One source of power is the movement of 
+actin along myosin, an interaction similar to the one 
+that powers the contraction of skeletal muscle fibers, 
+although the actin and myosin of neurons are different 
+from those in muscle. The assembly of actin monomers 
+into polymeric filaments also contributes a propulsive 
+force for filopodial extension. As the actin filaments 
+are constantly depolymerized at the base of filopodia, 
+the balance of polymerization and depolymerization 
+enables the filopodia to move forward without becom-
+ing longer. Depolymerization slows during periods of 
+growth cone advance, leading to greater net forward 
+motion. The movement of membranes along the sub-
+strate provides yet another source of forward motion.
+The contribution of each type of molecular motor 
+to the advance of the growth cone is likely to vary from 
+one situation to another. Nevertheless, the final step 
+involves the flow of microtubules from the central core 
+of the growth cone into the newly extended tip, thus 
+moving the growth cone ahead and leaving in its wake 
+a new segment of axon. New lamellipodia and filopo-
+dia form in the advancing growth cone and the cycle 
+repeats (Figure 47–7).
+Accurate pathfinding can occur only if the growth 
+cone’s motor action is linked to its sensory function. 
+Therefore, it is crucial that the recognition proteins on 
+the filopodia are signal-inducing receptors and not 
+merely binding moieties that mediate adhesion. The 
+binding of a ligand to its receptor affects growth in 
+diverse ways. In some cases, it engages the cytoskele-
+ton directly, through the intracellular domain of recep-
+tors (Figure 47–7). Integrin receptors couple to actin 
+in growth cones when they bind molecules associated 
+with the surface of adjoining cells or the extracellular 
+matrix, thereby influencing motility.
+Of equal if not greater importance is the ability 
+of ligand binding to stimulate the formation, accu-
+mulation, and even breakdown of soluble intracel-
+lular molecules that function as second messengers. 
+These second messengers affect the organization of 
+the cytoskeleton, and in this way regulate the direction 
+and rate of movement of the growth cone.
+One important second messenger is calcium. The 
+calcium concentration in growth cones is regulated 
+by the activation of receptors on filopodia, and this 
+affects the organization of the cytoskeleton, which in 
+turn modulates motility. Growth cone motility is opti-
+mal within a narrow range of calcium concentrations, 
+called a set point. Activation of filopodia on one side of 
+the growth cone leads to a concentration gradient of 
+calcium across the growth cone, providing a possible 
+basis for changes in the direction of growth.
+Other second messengers that link receptors and 
+motor molecules include cyclic nucleotides, which 
+modulate the activity of enzymes such as protein 
+kinases, protein phosphatases, and rho-family guano-
+sine triphosphatases (GTPases). In turn, these messen-
+gers and enzymes regulate the activity of proteins that 
+regulate the polymerization and depolymerization of 
+actin filaments, thereby promoting or inhibiting axonal 
+extension.
+The critical role of intracellular signals in growth 
+cone motility and orientation can be demonstrated 
+using embryonic neurons grown in culture. Applica-
+tion of growth factors to one side of a growth cone 
+activates receptors locally and leads to extension and 
+turning of the growth cone toward the source of the 
+signal. In essence, the factor attracts the growth cone. 
+Yet when cyclic adenosine monophosphate (cAMP) 
+levels in the neuron are decreased, the same stimulus 
+acts as a repellent and the growth cone turns away 
+from the signal (Figure 47–8A). Other repulsive factors 
+can become attractive when levels of the second mes-
+senger cyclic guanosine 3’,5’-monophosphate (cGMP) 
+are raised.
+Recently, another mechanism for coupling guid-
+ance molecules to growth cone behavior has come to 
+light. It was long thought that all neuronal protein 
+synthesis occurs in the cell body, but we now know 
+that growth cones (as well as some dendrites) con-
+tain the machinery for protein synthesis, including a 
+subset of messenger RNAs. Initial evidence that these 
+molecules play an important role came from experi-
+ments in which axons were severed from their parent 
+cell body. The growth cones continued to advance for 
+a few hours; they could be stimulated to turn toward 
+or away from local depots of guidance molecules, and 
+these behaviors were abolished by inhibitors of protein 
+
+

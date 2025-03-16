@@ -1,0 +1,744 @@
+===== Page 1 =====
+1220    Part VII / Development and the Emergence of Behavior
+Normal vision
+Binocular
+region
+Monocular
+region
+LGN
+One eye closed during 
+normal critical period
+A
+B
+Right 
+eye
+Optic chiasm
+Ipsi
+Contra
+Contralateral
+Ipsilateral
+Contralateral
+Ipsilateral
+Ipsi
+Contra
+Cells (%)
+Cells (%)
+LGN
+Figure 49–8  A critical period for ocular dominance plasticity is 
+evident in mice. (Adapted, with permission, from Hensch 2005.)
+A. The visual cortex in mice contains a small region that receives 
+thalamic (lateral geniculate nucleus [LGN]) inputs from both 
+eyes. In this binocular region, most neurons are predominantly 
+responsive to contralateral eye input, fewer respond to binocular 
+inputs, and very few respond to ipsilateral eye input only.
+B. When the contralateral eye has been closed during the 
+normal critical period and then reopened, inputs from that eye 
+are underrepresented, and many more neurons respond to 
+binocular or ipsilateral eye input. Eye closure before or after the 
+time of the normal critical period does not elicit the same shift 
+in responsiveness.
+First, excitatory synapses within the primary visual 
+cortex may weaken because of the decreased input 
+from the closed eye, perhaps through long-term 
+depression (LTD) (Chapter 53). Second, excitatory syn-
+apses carrying input from the open eye may become 
+stronger. Third, the strength of inhibitory synapses 
+may be altered, leading to a net decrease in the level of 
+excitation of cortical neurons by inputs from the closed 
+eye or a net increase in excitation from the open eye. 
+Fourth, neuromodulation within the cortex may tune 
+the circuit in more subtle ways, altering the balance 
+between excitation and inhibition.
+Careful analysis of neurons in mouse cortex has 
+provided insight into roles played by some of these 
+mechanisms. During the first few days after clos-
+ing one eye, responses to input from the closed eye 
+are greatly weakened, with no major effect on inputs 
+from the open eye. The weakening results from a pro-
+cess like LTD or a closely related phenomenon called 
+spike timing–dependent plasticity (STDP). Then, over 
+the following few days, responses to inputs from the 
+open eye become stronger. The increase results from 
+a combination of synaptic changes called long-term 
+potentiation and homeostatic plasticity. Homeostatic 
+plasticity is a circuit mechanism that endeavors to 
+maintain a steady level of input to neurons. In this 
+case, loss of excitatory drive from the closed eye leads 
+to a compensatory increase in excitatory drive from the 
+open eye.
+Further studies demonstrated that inhibitory 
+interneurons have an important role in the timing of the 
+critical period. Maturation of inhibitory input onto vis-
+ual cortical neurons coincides with the beginning of the 
+critical period. Moreover, manipulations that lead to ear-
+lier development of γ-aminobutyric acid (GABA) signal-
+ing result in advancing the critical period (Figure 49–9). 
+Conversely, delaying GABA signaling delays the period 
+in which monocular deprivation enhances the prefer-
+ence for ipsilateral eye input (Figure 49–9). Together 
+these results and others suggest that a sufficient level 
+of inhibitory input plays a critical role in “gating” the 
+opening of the critical period, whereas excitatory mech-
+anisms may play a more prominent role in enacting the 
+alterations that occur during the critical period.
+
+
+===== Page 2 =====
+Chapter 49 / Experience and the Refinement of Synaptic Connections     1221
+Figure 49–9  The timing of the critical period for ocular 
+dominance plasticity in mice is sensitive to the level 
+of GABAergic neurotransmission. Altering the status of 
+γ-aminobutyric acid (GABA) synthesis and signaling shifts 
+the period in which monocular deprivation can change the 
+response properties of neurons in the visual cortex. Enhancing 
+GABA signaling (through administration of benzodiazepines) 
+shifts the critical period for monocular deprivation to an earlier 
+developmental time. In contrast, delaying GABA signaling (by 
+reducing GABA synthesis genetically and then administering 
+benzodiazepines at a later time) shifts the critical period for 
+monocular deprivation to a later developmental time. (Adapted 
+from Hensch et al. 1998.)
+Control
+Deprivation before normal critical period
+Deprivation after normal critical period
+Contralateral
+Ipsilateral
+Contralateral
+Ipsilateral
+Cells (%)
+Contralateral
+Ipsilateral
+Contralateral
+Ipsilateral
+Enhanced GABA
+Control
+Cells (%)
+Plasticity
+Delayed GABA
+Normal
+Age
+Binocular
+vision
+Critical period for plasticity after monocular deprivation
+GABA function 
+enhanced
+GABA function 
+delayed
+Synaptic Structures Are Altered During the  
+Critical Period
+Many studies have sought structural changes that cor-
+relate with the altered responsiveness of the visual cor-
+tex to input from the closed and open eyes. Particular 
+attention has been paid to dendritic spines as potential 
+sites of plasticity.
+Spines are small protrusions from the dendrites of 
+many cortical neurons on which excitatory synapses 
+form. They are dynamic structures, and their appear-
+ance and loss are thought to reflect the formation and 
+elimination of synapses. Spine motility is especially 
+marked during early postnatal development, and 
+increases in spine dynamics and number have been 
+associated with changes in behavior.
+Striking alterations in the motility and number of 
+dendritic spines on neurons in the mouse visual cortex 
+are observed following closure of one eye. Two days after 
+eye closure in young mice, the motility and turnover of 
+dendritic spines on neurons in the visual cortex increases, 
+suggesting that synaptic connections are beginning to 
+rearrange (Figure 49–10). A few days later, the number 
+of spines begins to change; the number of spines on the 
+apical dendrites of pyramidal neurons decreases initially, 
+but after longer periods of deprivation increases again.
+These alterations in spine motility and number can 
+be correlated with three known features of the criti-
+cal period. First, rather than occurring in layer IV, the 
+changes occur primarily in superficial and deep layers 
+of the cortex, where binocular cells lie. Second, they 
+occur only in the portion of the visual cortex that nor-
+mally receives binocular input. Third, they fail to occur 
+following eye closure in adult mice (Figure 49–10).
+Together, these results support a linkage of spine 
+dynamics with critical period plasticity. According to 
+one model, spine motility may result from the imbal-
+ance of inputs to binocular neurons from the open and 
+closed eyes, and it may reflect the first stages in synap-
+tic rearrangement. In turn, the loss of spines, and pre-
+sumably of synapses, corresponds in time and space to 
+the loss of input from the closed eye and may provide 
+a structural basis for the permanence of this loss. The 
+later growth of new spines occurs as or after respon-
+siveness to the open eye increases and may underlie 
+the adaptive rearrangement that permits the cortex to 
+make the best use of the input available to it.
+Thalamic Inputs Are Remodeled During  
+the Critical Period
+How are local changes in spines related to the large-
+scale structural changes in ocular dominance columns 
+
+
+===== Page 3 =====
+1222    Part VII / Development and the Emergence of Behavior
+Shortly after closure
+Before eye closure
+Long after closure
+Closure during 
+the critical period
+Closure after 
+the critical period
+Responsive to 
+contralateral inputs
+Responsive to 
+ipsilateral inputs
+Previous spine 
+position
+Figure 49–10  The motility of dendritic 
+spines in the mouse visual cortex changes 
+after one eye is closed.  The dendrites of 
+pyramidal neurons in the visual cortex have 
+many spines, the density of which remains 
+comparatively constant under normal condi-
+tions. Closure of one eye (contralateral in 
+this example) during the critical period for 
+binocular development enhances the motility 
+of dendritic spines and, over time, results in 
+an increase in the proportion of spines that 
+receive synaptic input from the open eye.  
+Similar changes in spine motility are not 
+observed if the eye is closed after the critical 
+period. (Adapted from Oray, Majewska,  
+and Sur 2004.)
+shown in Figure 49–4? When developing axons from 
+the lateral geniculate nucleus first reach the cortex, the 
+terminal endings of several neurons overlap exten-
+sively. Each fiber extends a few branches over an area 
+of the visual cortex that spans several future ocular 
+dominance columns. As the cortex matures, axons 
+retract some branches, expand others, and even form 
+new branches (Figure 49–11A).
+With time, each geniculate neuron becomes con-
+nected almost exclusively to a group of neighboring 
+cortical neurons within a single column. The arbors 
+become segregated into columns through the prun-
+ing or retraction of certain axons and the sprouting of  
+others. This dual process of axon retraction and sprout-
+ing occurs widely throughout the nervous system 
+during development.
+What happens after one eye is closed? Axons 
+from a closed eye are at a disadvantage, and a greater 
+than normal proportion retract. At the same time, 
+axons from the open eye sprout new terminals at sites 
+vacated by fibers that would otherwise convey input 
+from the closed eye (Figure 49–11B). If an animal is 
+deprived of the use of one eye early during the criti-
+cal period of axonal segregation, the normal processes 
+of axon retraction and outgrowth are perturbed. In 
+contrast, if an animal is deprived of the use of one eye 
+after the ocular dominance columns are almost fully 
+segregated, axons conveying input from the open eye 
+actually sprout collaterals in regions of the cortex that 
+they had vacated earlier (see Figure 49–5).
+Initially, it was believed that rearrangements of 
+thalamocortical axons in monocularly deprived ani-
+mals caused the changes in cortical responsiveness 
+to the open and closed eyes. We now know, through 
+electrophysiological recording and imaging of spines, 
+that physiological changes and synaptic alterations 
+
+
+===== Page 4 =====
+Chapter 49 / Experience and the Refinement of Synaptic Connections     1223
+Figure 49–11  The branching of thalamocortical fibers in the 
+visual cortex of kittens changes after the closure of an eye.  
+(Adapted, with permission, from Antonini and Stryker 1993. 
+Copyright © 1993 AAAS.)
+A. During normal postnatal development, the axons of  
+lateral geniculate nucleus cells branch widely in the visual  
+cortex. The branching eventually becomes confined to a  
+small region.
+B. After one eye is closed, the terminal arbors of neurons in the 
+pathway from that eye are dramatically smaller compared to 
+those of the open eye.
+A  Normal development
+B  Development after eye closure
+Mature
+Closed eye
+Open eye
+Young
+precede the large-scale axonal rearrangements. So 
+rather than causing the physiological changes, axonal 
+remodeling may contribute to making these changes 
+enduring and irreversible. The question then becomes: 
+How do alterations in synaptic structure and function 
+within the cortex lead to alterations in the input?
+One idea is that synaptic activity regulates the 
+secretion of neurotrophic factors by cortical neurons. 
+Such factors may then regulate survival of some neu-
+rons at the expense of others (Chapter 46) or promote 
+the expansion of some axonal arbors at the expense of 
+others. One such factor, brain-derived neurotrophic 
+factor (BDNF) is synthesized and secreted by cortical 
+neurons, and administering excess BDNF or interfer-
+ing with its receptor trkB modifies the formation of 
+ocular dominance columns. Nevertheless, interpreting 
+the actions of BDNF is not straightforward. BDNF and 
+trkB signaling affect the cortex in many ways, includ-
+ing enhancing the growth of thalamocortical axons. 
+BDNF can also speed the maturation of inhibitory cir-
+cuits, which, as noted above, can influence plasticity. 
+It remains unclear whether BDNF is a specific catalyst 
+of the competition that preferentially promotes expan-
+sion of some arbors.
+Synaptic Stabilization Contributes to Closing  
+the Critical Period
+A hallmark of critical periods is that the interval in 
+which experience affects the development of neural 
+circuits is limited. What brings this period of height-
+ened plasticity to a close?
+Since synapses and circuits are labile during criti-
+cal periods, investigators have sought developmental 
+changes in cortex that could lead to stabilization. One 
+parameter is the state of myelination of axons, which 
+occurs around the time the critical period closes. For-
+mation of myelin creates physical barriers to sprouting 
+and axonal growth. Moreover, as discussed in detail in 
+Chapter 50, myelin contains factors such as Nogo and 
+myelin-associated glycoprotein that actively inhibit 
+growth of axons. In mutant mice lacking Nogo or one 
+of its receptors, NogoR, the critical period remains 
+open into adulthood, suggesting that the appearance 
+of these receptors normally contributes to closing the 
+critical period (Figure 49–12).
+Another possible agent of closure is the perineu-
+ronal net, a web of glycosaminoglycans that wraps 
+certain classes of inhibitory neurons. These nets form 
+around the time that the critical period closes. Infusion 
+of the enzyme chondroitinase, which digests perineu-
+ronal nets, maintains plasticity. Thus, critical periods 
+may close once molecular barriers to synaptic growth 
+and rearrangement come into play.
+Additional agents of closure may be intrinsic to 
+the neurons. In Chapter 50, we will see that neuronal 
+growth programs decrease with age, and in Chapter 51, 
+we will describe epigenetic mechanisms that “lock 
+in” experience-dependent patterns of gene expression 
+established in early postnatal life.
+
+
+===== Page 5 =====
+1224    Part VII / Development and the Emergence of Behavior
+Normal
+critical period
+Extended critical period
+(Nogo / NogoR mutants)
+Wild type
+Nogo or NogoR mutant
+24 days
+45 days
+Plasticity
+Binocular 
+zone 
+normal
+Ipsi
+Contra
+Ipsi
+Contra
+Monocular 
+deprivation 
+during the
+critical period
+(24 days)
+Monocular 
+deprivation 
+after the
+critical period
+(45 days)
+Figure 49–12  (Left) The critical period for monocular dep-
+rivation is extended in mice lacking Nogo signaling.  The 
+drawings show arborization patterns of thalamocortical axons 
+carrying signals from contralateral and ipsilateral eyes to the 
+binocular zone in visual cortex. Monocular deprivation dur-
+ing the critical period results in a shift in ocular preference in 
+neurons in the binocular zone in both wild-type mice and mice 
+mutant for Nogo or the Nogo receptor (NogoR). After the nor-
+mal critical period (at 45 days), the shift in ocular preference 
+continues in mice with mutant Nogo-A or the Nogo receptor 
+but not in wild-type mice. The plot shows that elimination of 
+Nogo signaling prevents closure of the critical period. (Adapted 
+from McGee et al. 2005.)
+Why should there be an end to critical periods? 
+Would it not be advantageous for the brain to maintain 
+its ability to remodel into adulthood? Perhaps not—the 
+ability of our brain to adapt to variations in sensory 
+input, to gradual physical growth (eg, increases in the 
+distance between the eyes affecting binocular corre-
+spondence), and to various congenital disorders is a 
+valuable asset. At an extreme, if one eye is lost, it is 
+advantageous to devote all available cortical real estate 
+to the remaining eye. However, one would not want 
+wholesale reorganization, possibly accompanied by 
+loss of skills and memories, if vision through one eye 
+were lost temporarily in adulthood due to disease or 
+injury. So, enhancing plasticity during a critical period 
+may represent an adaptive compromise between flex-
+ibility and stability.
+Experience-Independent Spontaneous Neural 
+Activity Leads to Early Circuit Refinement
+As noted above, the segregation of visual cortex into 
+ocular dominance columns in cats and monkeys begins 
+before the onset of visual experience. What drives this 
+early phase of segregation? One possibility is that 
+axons from the ipsilateral and contralateral eyes bear 
+different molecular labels that lead to their association. 
+A similar mechanism occurs in the formation of the 
+olfactory projection (Chapter 48). However, no such 
+molecule or mechanism has yet been discovered in the 
+visual projection. Instead segregation appears to rely 
+on spontaneous activity, which not only occurs prior 
+to sensory input but also exhibits striking patterning. 
+This mechanism was initially discovered in studies of 
+the lateral geniculate nucleus, whose neurons provide 
+visual input to the visual cortex.
+The arbors of retinal ganglion cells from the two 
+eyes are segregated into alternating layers in the lateral 
+geniculate nucleus, much as the projections from this 
+nucleus are segregated in alternating ocular dominance 
+
+
+===== Page 6 =====
+Chapter 49 / Experience and the Refinement of Synaptic Connections     1225
+Figure 49–13  The terminals of retinal ganglion cells in the 
+lateral geniculate nucleus (LGN) become segregated during 
+normal development. At early stages of development, the ter-
+minals of axons from each eye intermingle, but at later stages, 
+they segregate into separate layers of the nucleus. In some 
+species, axons from one eye even segregate into functionally 
+specialized sublayers (on and off layers in ferrets). (Adapted, 
+with permission, from Sanes and Yamagata 1999.)
+Diffuse projection
+LGN
+Right eye
+Left eye
+Right eye
+Left eye
+Off
+On
+Off
+On
+Segregation into 
+eye-speciﬁc laminae
+Segregation into 
+functional sublaminae
+columns in the visual cortex (Figure 49–13). In both 
+structures, individual axons at first form terminals 
+in multiple domains (layers in the geniculate nucleus, 
+columns in the cortex). Later, the terminals become 
+segregated by a process of refinement. The refine-
+ment involves both growth of terminal arbors in the 
+“appropriate” layer and elimination of terminals from 
+the inappropriate layer (Chapter 48).
+As in the cortex, application of tetrodotoxin to 
+the optic nerves disrupts the segregation of the inputs 
+from each eye, indicating that activity is essential for 
+segregation. In contrast to cortex, however, segrega-
+tion of inputs is complete before the onset of visual 
+experience—prior to birth in monkeys and postnatally 
+but prior to eye opening in mice. Thus, vision cannot 
+drive the neural activity essential for segregation.
+It turns out that the axons of retinal ganglion neu-
+rons are spontaneously active in utero, well before the 
+eyes open. Neighboring ganglion cells fire in synchro-
+nous bursts that last a few seconds, followed by silent 
+periods that may last for minutes. Sampling the activ-
+ity of retinal ganglion neurons across the entire retina 
+revealed that these bursts propagate across much of 
+the retina in a wave-like manner (Figure 49–14). This 
+pattern of ganglion cell activity appears to be coordi-
+nated by excitatory inputs from amacrine cells in the 
+overlying layer of the retina (Chapter 22).
+The spontaneous, synchronous firing of a select 
+group of ganglion neurons excites a local group of 
+neurons in the lateral geniculate nucleus. Such syn-
+chronized activity appears to strengthen these syn-
+apses at the expense of other nearby synapses, perhaps 
+by a Hebbian mechanism similar to that posited for 
+experience-dependent refinement. This does not mean 
+that visually evoked activity has no role in sculpting 
+the retinogeniculate pathway. At a later stage, other 
+aspects of refinement, such as spatial rearrangement 
+of synapses along the axon, are regulated by visual 
+experience.
+The discovery that spontaneous activity can lead 
+to circuit refinement provides a likely explanation for 
+the initial segregation of inputs to the visual cortex. 
+More generally, the parsing of activity-dependent cir-
+cuit refinement into two phases, the first dependent on 
+spontaneous activity and the second on sensory input, 
+now appears to be a general theme in the development 
+of brain circuits that begin refinement before they have 
+the chance to respond to environmental stimulation.
+Activity-Dependent Refinement of Connections 
+Is a General Feature of Brain Circuitry
+We have seen that neural activity is critical for segregat-
+ing axons from the two retinas into distinct layers in 
+the lateral geniculate nucleus and then into distinct col-
+umns in the visual cortex. Is this developmental role of 
+activity a special case, or does activity also affect matu-
+ration elsewhere in the visual system, and even in other 
+parts of the brain? Studies of many systems show that 
+activity-dependent control of refinement is a general 
+property of neural circuits in the mammalian brain.
+Many Aspects of Visual System Development  
+Are Activity-Dependent
+One well-studied example of activity-dependent 
+development in the visual system is the sharpening 
+
+
+===== Page 7 =====
+1226    Part VII / Development and the Emergence of Behavior
+Figure 49–14  Correlated waves of neural activity in the 
+developing retina.
+A. Microscopic visualization of the activity of retinal ganglion 
+neurons in a flat-mounted preparation of mammalian retina. 
+Spontaneous waves of neural activity are visualized by moni-
+toring Ca2+ transients (yellow domain) after loading of cells 
+with dyes that change their fluorescent emission spectrum in 
+response to changes in intracellular Ca2+ concentration.
+B. These still images from a movie sequence show the propa-
+gation of one Ca2+ activity focus (yellow domain) across the 
+retina. Images were taken 1 second apart. Many cells within 
+the activity focus are activated synchronously. (Reproduced, 
+with permission, from Blankenship et al. 2009. Copyright © 
+2009 Elsevier Inc.)
+C. Retinal activity waves recorded over time are superim-
+posed in this image. Discrete waves are indicated in different 
+colors; the origin of a wave is indicated by a darker hue. These 
+waves originate in different retinal foci and spread in distinct, 
+unpredictable directions. (Reproduced, with permission, from 
+Meister et al. 1991. Copyright © 1991 AAAS.)
+Retina
+whole 
+mount
+A  Imaging retinal activity 
+Time (s) 
+Ca2+ 
+wave 
+Quiescent
+region
+C  Superimposed retinal waves
+B  Dynamic Ca2+ waves
+0
++ 2 
++ 3 
++ 4 
++ 5 
++ 8 
+of the topographic distribution of retinal ganglion cell 
+axons onto their central targets, a topic we introduced 
+in Chapter 47. In vertebrates, molecular cues such as 
+ephrins guide axons from the retina to appropriate 
+sites in the optic tectum (called the superior colliculus 
+in mammals—see Figure 47–11), but they are not suf-
+ficient to form the refined visual map.
+Histological and physiological studies have 
+found that the map formed initially in the superior 
+colliculus/optic tectum is coarse and that individual 
+retinal ganglion cell axons have large, overlapping 
+arbors. These axonal arbors are later pruned to their 
+mature size, resulting in a more restricted and precise 
+field of termination. If retinal activity is inhibited, only 
+the initial coarse map forms.
+Is it the pattern of activity or activity itself that is 
+important in visual map formation? Put another way, is 
+activity simply a precondition for refinement, or does 
+it have an organizing role, determining exactly which 
+axons win or lose the competition? Many experiments 
+show that the latter idea is closer to the truth.
+In one study, the accuracy of the retinotectal map 
+was assessed in fish raised in a tank illuminated only 
+by brief flashes from a strobe light. A control group 
+was raised in a normal laboratory environment. The 
+total light intensity presented to the fish was similar 
+
+
+===== Page 8 =====
+Chapter 49 / Experience and the Refinement of Synaptic Connections     1227
+Figure 49–15  The barn owl uses interaural 
+time differences to localize its prey. Sound 
+waves generated by movements of a mouse are 
+received by the owl’s left and right ears. As the 
+prey emits noise, the difference in the time of 
+arrival of auditory stimuli at the two ears—the 
+interaural time difference (ITD)—is used to cal-
+culate the precise position of the prey target. 
+(Reproduced, with permission, from Knudsen 
+2002. Copyright © 2002 Springer Nature.)
+under both conditions, but the resulting pattern was 
+very different. In control fish, the images fell haphaz-
+ardly on various parts of the retina as the fish swam 
+around their tanks. This input produces local synchro-
+nous activity of the sort generated by the waves of 
+spontaneous activity described above—neighboring 
+ganglion cells tend to fire together, but there is little 
+correlation with the firing patterns of distant ganglion 
+cells. In these fish, the map becomes precise. In con-
+trast, stroboscopic illumination synchronously acti-
+vates nearly all of the ganglion cells, and in these fish, 
+the retinotectal map remains coarse.
+Presumably, the tectum determines which retinal 
+axons are near neighbors by judging which ones fire 
+in synchrony, much as activity patterns in the lateral 
+geniculate nucleus or visual cortex determine which 
+axons carry signals from the same eye. This informa-
+tion is then used to refine the topographic map, through 
+mechanisms similar to those in the cortex. When all of 
+the axons fire in synchrony, the tectum cannot deter-
+mine which axons are neighbors; refinement fails, and 
+the map remains coarse.
+Sensory Modalities Are Coordinated During a 
+Critical Period
+Our experience of the world is shaped by synthesizing 
+sensory input from multiple modalities. For example, 
+our mental image of where an object is with respect to 
+our body is the same whether we localize it by touch, 
+sound, or sight. For each modality, information is 
+mapped in an orderly way within relevant brain areas, 
+much like the retinotopic maps in the optic tectum and 
+visual cortex. Multimodal localization requires that 
+these maps, which are formed independently during 
+development, be brought into register. This aspect of 
+refinement occurs during critical periods.
+Studies on barn owls have provided insight into 
+how auditory and visual maps are coordinated dur-
+ing a critical period. During the day, owls use vision to 
+localize their prey—mice or other small rodents—but 
+at night, they rely on auditory cues, and at dusk, both 
+sensory channels are used. The localization of sound 
+must be precise if owls are to succeed in finding prey, 
+and it is intuitively obvious that the visual and audi-
+tory cues for the same location need to be consistent.
+Auditory localization in owls, as in people, results 
+from the presence of neurons that vary in their sensi-
+tivity to sounds sensed by the two ears. For example, 
+sounds arising from a source to the left arrive slightly 
+sooner at the left ear than at the right ear and are 
+slightly louder in the left ear. These discrepancies help 
+us determine the point in horizontal space from which 
+a sound arises (Chapter 28). Computation of the tem-
+poral difference in the arrival of sounds at the two ears 
+is particularly crucial. The difference is only a few tens 
+of microseconds, as expected from calculations based 
+upon the speed of sound and the width of the head. 
+Remarkably, the auditory system is sensitive to these 
+extremely short interaural time differences (ITDs) and 
+can calculate prey position from them (Figure 49–15). 
+Moreover, many auditory neurons in the optic tectum 
+Auditory stimulus
+Sound level (dB)
+L ear
+R ear
+ITD
+R
+L
+
+
+===== Page 9 =====
+1228    Part VII / Development and the Emergence of Behavior
+Figure 49–16  (Right) Reorganization of sensory maps in the 
+optic tectum of owls after systematic displacement of the 
+retinal image.  The retinal image in adolescent owls can be 
+displaced by prism goggles, which shift images from 5° to 30°. 
+(Adapted, with permission, from Knudsen 2002. Copyright © 
+2002 Springer Nature.)
+A. Before application of the prisms, the visual and auditory neu-
+ral maps coincide.
+B. The prism goggles displace the retinal image by 23°. Conse-
+quently, the neural and auditory maps are out of alignment.
+C. The two brain maps are once again congruent 42 days after 
+prism application because the auditory map has shifted to realign 
+with the visual map.
+D. Soon after the prisms are removed, the visual map reverts to 
+its original position, but the auditory map remains in its shifted 
+position.
+with receptive fields centered on a particular location 
+are also tuned to ITDs that correspond to sounds emit-
+ted from that same point in space. The registration is 
+imprecise at early stages but becomes progressively 
+more precise during early adolescence as a conse-
+quence of the animal’s experience.
+Crucial insight into how this registration occurs 
+came from experiments in which prisms were mounted 
+over the eyes of young owls. The prisms shifted the 
+retinal image horizontally so that the visual map in 
+the tectum reflected a world systematically displaced 
+from its “actual” orientation. This change abruptly 
+disrupted the correspondence between visual and 
+auditory receptive fields. Over the next several weeks, 
+however, the ITD to which tectal neurons responded 
+optimally, ie, their auditory receptive field, changed 
+until the visual and auditory maps came back into reg-
+ister (Figure 49–16). Thus, the visual map instructs the 
+auditory map.
+Further experiments showed that this reorganiza-
+tion resulted from rewiring of connections between 
+two deeper auditory nuclei (Figure 49–17). When 
+prism goggles were placed on young owls, changes 
+in ITD tuning were fully adaptive in that the animals 
+compensated completely for the effects of the prisms. 
+In contrast, goggles placed on mature owls (older than 
+7 months of age) had little effect. Thus, reorganization 
+of this auditory projection occurs optimally during a 
+critical juvenile period.
+Different Functions and Brain Regions Have 
+Different Critical Periods of Development
+Not all brain circuits are stabilized at the same time. 
+Even within the visual cortex, the critical periods for 
+organization of inputs differ among layers in both mice 
+10
+–10
++10
+10
+30
+L
+R
+10
+–10
++10
+10
+30
+L
+R
+Auditory stimuli
+Visual stimuli 
+mutations
+Head orientation 
+in response to:
+–5
+10
+–10
++10
+10
+20
+30
+L
+R
+10
+–5
++5
+10
+30
+L
+R
+A  Before prisms
+B  Soon after visual 
+ 
+ﬁeld is displaced 
+ 
+23° rightward 
+C  42 days after 
+ 
+displacement 
+D  Soon after removal
+ 
+of prisms 
+
+

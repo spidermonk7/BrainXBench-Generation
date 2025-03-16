@@ -1,0 +1,671 @@
+===== Page 1 =====
+properties that allow it to release neurotransmitters at syn-
+apses. Fourth, this system for rapid signaling over the long 
+distances between the cell body and its terminals is enabled 
+by a cytoskeletal structure that mediates, on a slower time 
+scale, efficient transport of various proteins, mRNAs, and 
+organelles between the two compartments.
+In this part of the book, we shall be concerned with the 
+distinctive cell biological properties that allow neurons and 
+glia to fulfill their various specialized functions. A major 
+emphasis will be on properties of ion channels that endow 
+neurons with the ability to generate and propagate electri-
+cal signals in the form of action potentials. We begin the 
+discussion of neurons by considering general properties 
+shared by ion channels—the ability to select and conduct 
+ions, and to gate between open and closed conformations. 
+Neurons use four major classes of channels for signaling: (1) 
+resting channels generate the resting potential and underlie 
+the passive electrical properties of neurons that determine 
+the time course of synaptic potentials, their spread along 
+dendrites, and the threshold for firing an action potential; 
+(2) sensory receptor channels respond to certain sensory 
+stimuli to generate local receptor potentials; (3) ligand-
+gated channels open in response to neurotransmitters, 
+generating local synaptic potentials; and (4) voltage-gated 
+channels produce the currents that generate self-propagat-
+ing action potentials. In this part, we focus mainly on rest-
+ing and voltage-gated channels. In Part III, we consider in 
+more detail ligand-gated channels, and the neurotransmit-
+ters and second messengers that control their activity. The 
+channels that are activated by sensory stimuli will be exam-
+ined in Part IV.
+Part Editors: John D. Koester and Steven A. Siegelbaum
+Part II
+Chapter 7	
+The Cells of the Nervous System
+Chapter 8	
+Ion Channels
+Chapter 9	
+Membrane Potential and the Passive 
+Electrical Properties of the Neuron
+Chapter 10 	 Propagated Signaling: The Action Potential
+
+
+===== Page 2 =====
+7
+The Cells of the Nervous System
+First, they have a high degree of morphological 
+and functional asymmetry: Neurons have receptive 
+dendrites at one end and a transmitting axon at the 
+other. This arrangement is the structural basis for uni-
+directional neuronal signaling.
+Second, neurons are both electrically and chemi-
+cally excitable. The cell membrane of neurons contains 
+specialized proteins—ion channels and receptors—that 
+facilitate the flow of specific inorganic ions, thereby 
+redistributing charge and creating electrical currents 
+that alter the voltage across the membrane. These 
+changes in charge can produce a wave of depolariza-
+tion in the form of action potentials along the axon, the 
+usual way a signal travels within the neuron. Glia are 
+less excitable, but their membranes contain transporter 
+proteins that facilitate the uptake of ions as well as pro-
+teins that remove neurotransmitter molecules from the 
+extracellular space, thus regulating neuronal function.
+There are hundreds of distinct types of neurons 
+depending on their dendritic morphology, pattern of 
+axonal projections, and electrophysiological proper-
+ties. This structural and functional diversity is largely 
+specified by the genes expressed by each neuronal 
+cell type. Although neurons all inherit the same 
+complement of genes, each expresses a restricted set 
+and thus produces only certain molecules—enzymes, 
+structural proteins, membrane constituents, and 
+secretory products—and not others. In large part, 
+this expression depends on the cell’s developmental 
+history. In essence, each cell is the set of molecules it 
+expresses.
+There are also many kinds of glial cells that can 
+be identified based on their unique morphological, 
+Neurons and Glia Share Many Structural and Molecular 
+Characteristics
+The Cytoskeleton Determines Cell Shape
+Protein Particles and Organelles Are Actively Transported 
+Along the Axon and Dendrites
+Fast Axonal Transport Carries Membranous Organelles
+Slow Axonal Transport Carries Cytosolic Proteins and 
+Elements of the Cytoskeleton
+Proteins Are Made in Neurons as in Other Secretory Cells
+Secretory and Membrane Proteins Are Synthesized and 
+Modified in the Endoplasmic Reticulum
+Secretory Proteins Are Modified in the Golgi Complex
+Surface Membrane and Extracellular Substances Are 
+Recycled in the Cell
+Glial Cells Play Diverse Roles in Neural Function
+Glia Form the Insulating Sheaths for Axons
+Astrocytes Support Synaptic Signaling
+Microglia Have Diverse Functions in Health and Disease
+Choroid Plexus and Ependymal Cells Produce  
+Cerebrospinal Fluid
+Highlights
+T
+he cells of the nervous system— neurons and 
+glia—share many characteristics with cells in 
+general. However, neurons are specially endowed 
+with the ability to communicate precisely and rapidly 
+with other cells at distant sites in the body. Two fea-
+tures give neurons this ability.
+
+
+===== Page 3 =====
+134    Part II / Cell and Molecular Biology of Cells of the Nervous System
+physiological, and biochemical features. The diverse 
+morphologies of glial cells suggest that glia are prob-
+ably as heterogeneous as neurons. Nonetheless, glia in 
+the vertebrate nervous system can be divided into two 
+major classes: macroglia and microglia. There are three 
+main types of macroglia: oligodendrocytes, Schwann 
+cells, and astrocytes. In the human brain, about 90% 
+of all glial cells are macroglia. Of these, approximately 
+half are myelin-producing cells (oligodendrocytes and 
+Schwann cells) and half are astrocytes. Oligodendrocytes 
+provide the insulating myelin sheaths of the axons of 
+some neurons in the central nervous system (CNS) 
+(Figure 7–1A). Schwann cells myelinate the axon of neu-
+rons in the peripheral nervous system (Figure 7–1B); 
+nonmyelinating Schwann cells have other functions, 
+including promoting development, maintenance, and 
+repair at the neuromuscular synapse. Astrocytes owe 
+their name to their irregular, roughly star-shaped cell 
+bodies and large numbers of processes; they support 
+neurons and modulate neuronal signaling in several 
+ways (Figure 7–1C). Microglia are the brain’s resident 
+immune cells and phagocytes, but also have homeo-
+static functions in the healthy brain.
+Layers
+of myelin
+Inner
+tongue
+Nucleus
+Schwann
+cell
+Axon
+Nodes of
+Ranvier
+A  Oligodendrocyte
+B  Schwann cell
+Capillary
+End-foot
+Fibrous
+astrocyte
+Neuron
+End-foot
+Nodes 
+of Ranvier
+C  Astrocyte
+Figure 7–1  The principal types of glial cells are oligoden-
+drocytes and astrocytes in the central nervous system and 
+Schwann cells in the peripheral nervous system.
+A. Oligodendrocytes are small cells with relatively few pro-
+cesses. In the white matter of the brain, as shown here, they 
+provide the myelin sheaths that insulate axons. A single oligo-
+dendrocyte can wrap its membranous processes around many 
+axons. In the gray matter, perineural oligodendrocytes surround 
+and support the cell bodies of neurons.
+B. Schwann cells furnish the myelin sheaths for axons in the 
+peripheral nervous system. During development, several 
+Schwann cells are positioned along the length of a single axon. 
+Each cell forms a myelin sheath approximately 1 mm long 
+between two nodes of Ranvier. The sheath is formed as the 
+inner tongue of the Schwann cell turns around the axon several 
+times, wrapping the axon in layers of membrane. In actuality, 
+the layers of myelin are more compact than what is shown 
+here. (Adapted from Alberts et al. 2002.)
+C. Astrocytes, a major class of glial cells in the central nervous 
+system, are characterized by their star-like shape and the broad 
+end-feet on their processes. Because these end-feet put the 
+astrocyte into contact with both capillaries and neurons, astro-
+cytes are thought to have a nutritive function. Astrocytes also 
+play an important role in maintaining the blood–brain barrier 
+(described later in the chapter).
+Neurons and Glia Share Many Structural and 
+Molecular Characteristics
+Neurons and glia develop from common neuroepi-
+thelial progenitors of the embryonic nervous system 
+and share many structural characteristics (Figure 7–2). 
+The boundaries of these cells are defined by the cell 
+membrane or plasmalemma, which has the asymmet-
+ric bilayer structure of all biological membranes and 
+provides a hydrophobic barrier impermeable to most 
+water-soluble substances. Cytoplasm has two main 
+components: cytosol and membranous organelles.
+Cytosol is the aqueous phase of cytoplasm. In this 
+phase, only a few proteins are actually free in solu-
+tion. With the exception of some enzymes that catalyze 
+metabolic reactions, most proteins are organized into 
+functional complexes. A recent subdiscipline called 
+proteomics has determined that these complexes can 
+consist of many distinct proteins, none of which are 
+covalently linked to another. For example, the cyto-
+plasmic tail of the N-methyl-d-aspartate (NMDA)-type 
+glutamate receptor, a membrane-associated protein 
+that mediates excitatory synaptic transmission in the 
+
+
+===== Page 4 =====
+Chapter 7 / The Cells of the Nervous System    135
+Nuclear
+envelope
+Cell
+body
+Axon
+Synaptic
+vesicle
+Myelin sheath
+Transport
+vesicle
+Endoplasmic
+reticulum
+Golgi 
+apparatus
+Dendrites
+Synaptic
+terminal
+Muscle
+Figure 7–2  The structure of a neuron. The cell body and 
+nucleus of a spinal motor neuron are surrounded by a double-
+layered membrane, the nuclear envelope, which is continu-
+ous with the endoplasmic reticulum. The space between the 
+two membrane layers that constitutes the nuclear envelope 
+is continuous with the lumen of the endoplasmic reticulum. 
+Dendrites emerge from the basal aspect of the neuron, the 
+axon from the apical aspect. (Adapted, with permission, from 
+Williams et al. 1989.)
+CNS, is anchored in a large complex of more than 100 
+scaffold proteins and protein-modifying enzymes. 
+(Many cytosolic proteins involved in second-messenger 
+signaling, discussed in later chapters, are embed-
+ded in the cytoskeletal matrix immediately below 
+the plasmalemma.) Ribosomes, the organelle on which 
+messenger RNA (mRNA) molecules are translated, 
+are made up of several protein subunits. Proteasomes, 
+large multi-enzyme organelles that degrade ubiq-
+uitinated proteins (a process described later in this  
+chapter), are also present throughout the cytosol of 
+neurons and glia.
+Membranous organelles, the second main compo-
+nent of cytoplasm, include mitochondria and peroxi-
+somes as well as a complex system of tubules, vesicles, 
+and cisternae called the vacuolar apparatus. Mitochon-
+dria and peroxisomes process molecular oxygen. Mito-
+chondria generate adenosine triphosphate (ATP), the 
+major molecule by which cellular energy is transferred 
+or spent, whereas peroxisomes prevent accumulation 
+of the strong oxidizing agent hydrogen peroxide. Mito-
+chondria, which are derived from symbiotic archeobac-
+teria that invaded eukaryotic cells early in evolution, 
+are not functionally continuous with the vacuolar 
+apparatus. Mitochondria also play other essential roles 
+in Ca2+ homeostasis and lipid biogenesis.
+The vacuolar apparatus includes the smooth endo-
+plasmic reticulum, the rough endoplasmic reticulum, 
+the Golgi complex, secretory vesicles, endosomes, lys-
+osomes, and a multiplicity of transport vesicles that 
+interconnect these various compartments (Figure 7–3). 
+Their lumen corresponds topologically to the out-
+side of the cell; consequently, the inner leaflet of their 
+lipid bilayer corresponds to the outer leaflet of the 
+plasmalemma.
+The major subcompartments of this system are 
+anatomically discontinuous but functionally con-
+nected because membranous and lumenal material is 
+moved from one compartment to another by means of 
+transport vesicles. For example, proteins and phospho-
+lipids synthesized in the rough endoplasmic reticulum 
+(the portion of the reticulum studded with ribosomes) 
+and the smooth endoplasmic reticulum are transported 
+to the Golgi complex and then to secretory vesicles, 
+which empty their contents when the vesicle mem-
+brane fuses with the plasmalemma (a process called 
+exocytosis). This secretory pathway adds membranous 
+components to the plasmalemma and also releases the 
+contents of these secretory vesicles into the extracellu-
+lar space.
+Conversely, components of cell membrane are 
+taken into the cell through endocytic vesicles (endocytosis). 
+These are incorporated into early endosomes, sort-
+ing compartments that are concentrated at the cell’s 
+periphery. The endocytosed membrane, which typi-
+cally contains specific proteins such as transmembrane 
+receptors, can be either directed back to the plasma 
+membrane by maturing into recycling endosomes or 
+can mature into late endosomes which are targeted 
+for degradation by fusion with lysosomes. (Exocyto-
+sis and endocytosis are discussed in detail later in this 
+
+
+===== Page 5 =====
+Mit
+AT
+AT
+G
+Mt
+G
+Mt
+R
+R
+ER
+ER
+ER
+ER
+N
+Nf
+Ly
+A
+B
+C
+D
+Ly
+N
+Ch
+Mit
+G
+G
+Ly
+Ly
+Ly
+Mit
+Mit
+N
+M
+G
+Ly
+RER
+B
+A
+D
+C
+Figure 7–3  Organelles of the neuron. Electron micrographs 
+show cytoplasm in four different regions of the  
+neuron. (Adapted, with permission, from Peters et al. 1991.)
+A. A dendrite emerges from a pyramidal neuron’s cell body, 
+which includes the endoplasmic reticulum (ER) above the 
+nucleus (N) and a portion of the Golgi complex (G) nearby. 
+Some Golgi cisternae have entered the dendrite, as have 
+mitochondria (Mit), lysosomes (Ly), and ribosomes (R). Microtu-
+bules (Mt) are prominent cytoskeletal filaments in the cytosol. 
+Axon terminals (AT) making contact with the dendrite are seen 
+at the top and right.
+B. Some components of a spinal motor neuron that participate 
+in the synthesis of macromolecules. The nucleus (N) contains 
+masses of chromatin (Ch) and is bounded by the nuclear enve-
+lope, which contains many nuclear pores (arrows). The mRNA 
+leaves the nucleus through these pores and attaches to ribo-
+somes that either remain free in the cytoplasm or attach to the 
+membranes of the endoplasmic reticulum to form the rough 
+endoplasmic reticulum (RER). Regulatory proteins synthesized 
+in the cytoplasm are imported into the nucleus through the 
+pores. Several parts of the Golgi apparatus (G) are seen, as are 
+lysosomes (Ly) and mitochondria (Mit).
+C, D. Micrographs of a dorsal root ganglion cell (C) and a 
+motor neuron (D) show the organelles in the cell body that are 
+chiefly responsible for synthesis and processing of proteins. 
+The mRNA enters the cytoplasm through the nuclear envelope 
+and is translated into proteins. Free polysomes, strings of 
+ribosomes attached to a single mRNA, generate cytosolic pro-
+teins and proteins to be imported into mitochondria (Mit) and 
+peroxisomes. Proteins destined for the endoplasmic reticulum 
+are formed after the polysomes attach to the membrane of the 
+endoplasmic reticulum (ER). The particular region of the motor 
+neuron shown here also includes membranes of the Golgi 
+apparatus (G), in which membrane and secretory proteins are 
+further processed. Some of the newly synthesized proteins 
+leave the Golgi apparatus in vesicles that move down the axon 
+to synapses; other membrane proteins are incorporated into 
+lysosomes (Ly) and other membranous organelles. The micro-
+tubules (M) and neurofilaments (Nf) are components of the 
+cytoskeleton.
+
+
+===== Page 6 =====
+Chapter 7 / The Cells of the Nervous System    137
+chapter.) The smooth endoplasmic reticulum also acts 
+as a regulated internal Ca2+ store throughout the neu-
+ronal cytoplasm (see the discussion of Ca2+ release in 
+Chapter 14).
+A specialized portion of the rough endoplasmic 
+reticulum forms the nuclear envelope, a spherical flat-
+tened cisterna that surrounds chromosomal DNA and 
+its associated proteins (histones, transcription factors, 
+polymerases, and isomerases) and defines the nucleus 
+(Figure 7–3). Because the nuclear envelope is continu-
+ous with other portions of the endoplasmic reticulum 
+and other membranes of the vacuolar apparatus, it is 
+presumed to have evolved as an invagination of the 
+plasmalemma to ensheathe eukaryotic chromosomes. 
+The nuclear envelope is interrupted by nuclear pores, 
+where fusion of the inner and outer membranes of the 
+envelope results in the formation of hydrophilic chan-
+nels through which proteins and RNA are exchanged 
+between the cytoplasm proper and the nuclear 
+cytoplasm.
+Even though nucleoplasm and cytoplasm are 
+continuous domains of cytosol, only molecules with 
+molecular weights less than 5,000 can pass through 
+the nuclear pores freely by diffusion. Larger molecules 
+B
+A
+10 µm
+0.5 µm
+Figure 7–4  Golgi and endoplasmic 
+reticulum membranes extend from 
+the cell body into dendrites.
+A. The Golgi complex (solid arrow) 
+appears under the light microscope as 
+several filaments that extend into the 
+dendrites (open arrow) but not into the 
+axon. The arrowheads at the bottom 
+indicate the axon hillock. For this micro-
+graph, a large neuron of the brain stem 
+was immunostained with antibodies 
+specifically directed against the Golgi 
+complex. (Reproduced, with permission, 
+from De Camilli et al. 1986. Copyright © 
+1986 Rockefeller University Press.)
+B. Smooth endoplasmic reticulum 
+(arrowhead) extends into the neck of 
+a dendritic spine, while another mem-
+brane compartment sits at the origin 
+of the spine (arrow). (Reproduced, 
+with permission, from Cooney et al. 
+2002. Copyright © 2002 Society for 
+Neuroscience.)
+need help. Some proteins have special nuclear localiza-
+tion signals, domains that are composed of a sequence 
+of basic amino acids (arginine and lysine) that are 
+recognized by soluble proteins called nuclear import 
+receptors (importins). At a nuclear pore, this complex is 
+guided into the nucleus by another group of proteins 
+called nucleoporins.
+The cytoplasm of the nerve cell body extends into 
+the dendritic tree without functional differentiation. 
+Generally, all organelles in the cytoplasm of the cell 
+body are also present in dendrites, although the densi-
+ties of the rough endoplasmic reticulum, Golgi com-
+plex, and lysosomes rapidly diminish with distance 
+from the cell body. In dendrites, the smooth endoplas-
+mic reticulum is prominent at the base of thin pro-
+cesses called spines (Figures 7–4 and 7–5), the receptive 
+portion of excitatory synapses. Concentrations of pol-
+yribosomes in dendritic spines mediate local protein 
+synthesis (see below).
+In contrast to the continuity of the cell body 
+and dendrites, a sharp functional boundary exists 
+between the cell body at the axon hillock, where 
+the axon emerges. The organelles that compose the 
+main biosynthetic machinery for proteins in the 
+
+
+===== Page 7 =====
+138    Part II / Cell and Molecular Biology of Cells of the Nervous System
+Figure 7–5  Types of dendritic spines. Three types of dendritic 
+spine shapes are shown in a mature dendrite in a pyramidal 
+cell in the CA1 region of the hippocampus. The drawing at left 
+is based on a series of electron micrographs. (Drawing repro-
+duced, with permission, from Harris and Stevens 1989;  
+A, B, and C are reproduced, with permission, from Sorra  
+and Harris 1993. Copyright © 1993 Society for Neuroscience.)
+A. In this thin dendritic spine, the thickened receptive surface 
+(arrow), located across from the presynaptic axon, contains 
+synaptic receptors. The tissue shown here and in B and C is 
+from the hippocampus of a postnatal day-15 rat brain.
+B. Stubby spines containing postsynaptic densities (arrow) are 
+both small and rare in the mature hippocampus. Their larger 
+counterparts (not shown) predominate in the immature brain.
+C. Mushroom-shaped spines have a larger head. The immature 
+spine shown here contains flat cisternae of smooth endoplas-
+mic reticulum, some with a beaded appearance (solid arrow). 
+The postsynaptic density is indicated by the open arrow.
+A  Thin
+B  Stubby
+C  Mushroom
+10 µm
+Thin
+Stubby
+Mushroom
+
+
+===== Page 8 =====
+Chapter 7 / The Cells of the Nervous System    139
+neuron—ribosomes, rough endoplasmic reticulum, 
+and the Golgi complex—are generally excluded from 
+axons (Figure 7–4), as are lysosomes and certain pro-
+teins. However, axons are rich in smooth endoplasmic 
+reticulum, individual synaptic vesicles, and their pre-
+cursor membranes.
+The Cytoskeleton Determines Cell Shape
+The cytoskeleton determines the shape of a cell and is 
+responsible for the asymmetric distribution of orga-
+nelles within the cytoplasm. It includes three filamen-
+tous structures: microtubules, neurofilaments, and 
+microfilaments. These filaments and associated pro-
+teins account for approximately a quarter of the total 
+protein in the cell.
+Microtubules form long scaffolds that extend from 
+one end of a neuron to the other and play a key role 
+in developing and maintaining cell shape. A single 
+microtubule can be as long as 0.1 mm. Microtubules 
+consist of protofilaments, each of which consists of 
+multiple pairs of a- and b-tubulin subunits arranged 
+longitudinally along the microtubule (Figure 7–6A). 
+Tubulin subunits bind to neighboring subunits along 
+the protofilament and also laterally between adjacent 
+protofilaments. Microtubules are polarized with a plus 
+end (or growing end) and a minus end (where micro-
+tubules can be depolymerized). Interestingly, microtu-
+bule orientations differ between axons and dendrites. 
+In the axon, microtubules display a single orientation 
+with the plus end directed away from the cell body. In 
+proximal dendrites, microtubules can be oriented both 
+ways, with a plus end oriented toward or away from 
+the cell body.
+Microtubules grow by addition of guanosine 
+triphosphate (GTP)-bound tubulin dimers at their plus 
+end. Shortly after polymerization, the GTP is hydro-
+lyzed to guanosine diphosphate (GDP). When a micro-
+tubule stops growing, its positive end is capped by 
+a GDP-bound tubulin monomer. The low affinity of  
+the GDP-bound tubulin for the polymer would lead 
+to catastrophic depolymerization, were not for the fact 
+that the microtubules are stabilized by interaction with 
+other proteins.
+In fact, while microtubules undergo rapid cycles 
+of polymerization and depolymerization in dividing 
+cells, a phenomenon referred to as dynamic instability, 
+in mature dendrites and axons, they are more stable. 
+This stability is thought to be caused by microtubule-
+associated proteins (MAPs) that promote the oriented 
+polymerization and assembly of the tubulin poly-
+mers. MAPs in axons differ from those in dendrites. 
+For example, MAP2 is present in dendrites but not in 
+axons, where tau proteins (see Box 7–1) and MAP1b 
+are present. Furthermore, microtubule stability is also 
+tightly regulated by many different types of revers-
+ible tubulin posttranslational modifications such as 
+acetylation, detyrosination, and polyglutamylation. 
+In Alzheimer disease and some other degenerative 
+disorders, tau proteins are modified and abnormally 
+polymerized, forming a characteristic lesion called the 
+neurofibrillary tangle (Box 7–1).
+Tubulins are encoded by a multigene family. At 
+least six genes code the α- and β-subunits. Because of 
+the expression of the different genes or posttranscrip-
+tional modifications, more than 20 isoforms of tubulin 
+are present in the brain.
+Neurofilaments, 10 nm in diameter, are the bones 
+of the cytoskeleton (Figure 7–6B). Neurofilaments are 
+related to intermediate filaments of other cell types, 
+including the cytokeratins of epithelial cells (hair and 
+nails), glial fibrillary acidic protein in astrocytes, and 
+desmin in muscle. Unlike microtubules, neurofilaments 
+are stable and almost totally polymerized in the cell.
+At 3 to 7 nm in diameter, microfilaments are the 
+thinnest of the three main types of fibers that make up 
+the cytoskeleton (Figure 7–6C). Like thin filaments of 
+muscle, microfilaments are made up of two strands of 
+polymerized globular actin monomers, each bearing 
+an ATP or adenosine diphosphate (ADP), wound into 
+a double-stranded helix. Actin is a major constituent 
+of all cells, perhaps the most abundant animal protein 
+in nature. There are several closely related molecular 
+forms: the α actin of skeletal muscle and at least two 
+other molecular forms, β and γ. Each is encoded by a 
+different gene. Neural actin in higher vertebrates is a 
+mixture of the β and γ species, which differ from mus-
+cle actin by a few amino acid residues. Most actin mol-
+ecules are highly conserved, not only in different cell 
+types of a species but also in organisms as distantly 
+related as humans and protozoa.
+Unlike microtubules and neurofilaments, actin 
+filaments are short. They are concentrated at the cell’s 
+periphery in the cortical cytoplasm just beneath the 
+plasmalemma, where they form a dense network 
+with many actin-binding proteins (eg, spectrin-
+fodrin, ankyrin, talin, and actinin). This matrix plays 
+a key role in the dynamic function of the cell’s periph-
+ery, such as the motility of growth cones (the grow-
+ing tips of axons) during development, generation 
+of specialized microdomains at the cell surface, and 
+the formation of pre- and postsynaptic morphological 
+specializations.
+Like microtubules, microfilaments undergo cycles 
+of polymerization and depolymerization. At any one 
+
+
+===== Page 9 =====
+140    Part II / Cell and Molecular Biology of Cells of the Nervous System
+Figure 7–6  Atlas of fibrillary structures.
+A. Microtubules, the largest-diameter fibers (25 nm), are helical 
+cylinders composed of 13 protofilaments, each 5 nm in width. 
+Each protofilament is made up of a column of alternating α- and 
+β-tubulin subunits; each subunit has a molecular weight of 
+approximately 50,000 Da. Adjacent subunits bind to each other 
+along the longitudinal protofilaments and laterally between 
+subunits of adjacent protofilaments.
+    A tubulin molecule is a heterodimer consisting of one α- and 
+one β-tubulin subunit. 1. View of a microtubule. The arrows indi-
+cate the direction of the right-handed helix. 2. A side view of a 
+microtubule shows the alternating α- and β-subunits.
+B. Neurofilaments are built with fibers that twist around each 
+other to produce coils of increasing thickness. The thinnest 
+units are monomers that form coiled-coil heterodimers. These 
+dimers form a tetrameric complex that becomes the proto-
+filament. Two protofilaments become a protofibril, and three 
+protofibrils are helically twisted to form the 10-nm diameter 
+neurofilament. (Adapted, with permission, from Bershadsky 
+and Vasiliev 1988.)
+C. Microfilaments, the smallest-diameter fibers (approximately 
+7 nm), are composed of two strands of polymerized globular 
+actin (G-actin) monomers arranged in a helix. At least six differ-
+ent (but closely related) actins are found in mammals; each  
+variant is encoded by a separate gene. Microfilaments are  
+polar structures because the globular monomers are 
+asymmetric.
+B  Neuroﬁlament
+C  Microﬁlament
+Monomers
+Coiled-coil
+dimers
+Tetrameric
+complex
+(protoﬁlament)
+Protoﬁlament
+Protoﬁbril
+Filament
+50 nm
+2 nm
+A  Microtubule
+1
+2
+10 nm
+Protoﬁlament
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+1
+2
+3
+5.5 nm
+35.5 nm
+time, approximately half of the total actin in a cell can 
+exist as unpolymerized monomers. The state of actin is 
+controlled by binding proteins, which facilitate assem-
+bly and limit polymer length by capping the rapidly 
+growing end of the filament or by severing it. Other 
+binding proteins crosslink or bundle actin filaments. 
+The dynamic state of microtubules and microfilaments 
+permits a mature neuron to retract old axons and den-
+drites and extend new ones. This structural plasticity 
+is thought to be a major factor in changes of synaptic 
+connections and efficacy and, therefore, cellular mech-
+anisms of long-term memory and learning.
+
+

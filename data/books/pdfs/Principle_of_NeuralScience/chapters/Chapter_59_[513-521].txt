@@ -1,0 +1,802 @@
+===== Page 1 =====
+468    Part IV / Perception
+Felleman DJ, Van Essen DC. 1991. Distributed hierarchical 
+processing in the primate cerebral cortex. Cereb Cortex 
+1:1–47.
+Fitzgerald PJ, Lane JW, Thakur PH, Hsiao SS. 2006. Receptive 
+field properties of the macaque second somatosensory 
+cortex: representation of orientation on different finger 
+pads. J Neurosci 26:6473–6484.
+Flanagan JR, Vetter P, Johansson RS, Wolpert DM. 2003. 
+Prediction precedes control in motor learning. Curr Biol 
+13:146–150.
+Fogassi L, Luppino G. 2005. Motor functions of the parietal 
+lobe. Curr Opin Neurobiol 15:626–631.
+Gardner EP. 1988. Somatosensory cortical mechanisms of 
+feature detection in tactile and kinesthetic discrimination. 
+Can J Physiol Pharmacol 66:439–454.
+Gardner EP. 2008. Dorsal and ventral streams in the sense of 
+touch. In: JH Kaas, EP Gardner (eds). The Senses: A Com-
+prehensive Reference. Vol. 6, Somatosensation, pp. 233–258. 
+Oxford: Elsevier.
+Gardner EP, Babu KS, Ghosh S, Sherwood A, Chen J. 2007. 
+Neurophysiology of prehension: III. Representation of 
+object features in posterior parietal cortex of the macaque 
+monkey. J Neurophysiol 98:3708–3730.
+Hikosaka O, Tanaka M, Sakamoto M, Iwamura Y. 1985. Defi-
+cits in manipulative behaviors induced by local injections 
+of muscimol in the first somatosensory cortex of the con-
+scious monkey. Brain Res 325:375–380.
+Hinkley LB, Krubitzer LA, Nagarajan SS, Disbrow EA. 2007. 
+Sensorimotor integration in S2, PV, and parietal rostro-
+ventral areas of the human Sylvian fissure. J Neurophysiol 
+97:1288–1297.
+Hyvärinen J, Poranen A. 1978. Movement-sensitive and 
+direction and orientation-selective cutaneous receptive 
+fields in the hand area of the post-central gyrus in mon-
+keys. J Physiol (Lond) 283:523–537.
+Iwamura Y, Iriki A, Tanaka M. 1994. Bilateral hand represen-
+tation in the postcentral somatosensory cortex. Nature 
+369:554–556.
+Iwamura Y, Tanaka M, Sakamoto M, Hikosaka O. 1993. Ros-
+trocaudal gradients in neuronal receptive field complex-
+ity in the finger region of the alert monkey’s postcentral 
+gyrus. Exp Brain Res 92:360–368.
+Jenmalm P, Birznieks I, Goodwin AW, Johansson RS. 2003. 
+Influence of object shape on responses of human tactile 
+afferents under conditions characteristic of manipulation. 
+Eur J Neurosci 18:164–176.
+Johansson RS. 1996. Sensory control of dexterous manipula-
+tion in humans. In: AM Wing, P Haggard, JR Flanagan 
+(eds). Hand and Brain, pp. 381–414. San Diego, CA: 
+Academic Press.
+Johansson RS, Flanagan JR. 2009. Coding and use of tactile 
+signals from the fingertips in object manipulation tasks. 
+Nat Rev Neurosci 10:345–359.
+Johansson RS, Landström U, Lundström R. 1982. Responses 
+of mechanoreceptive afferent units in the glabrous skin of 
+the human hand to sinusoidal skin displacements. Brain 
+Res 244:17–25.
+Johansson RS, Vallbo ÅB. 1983. Tactile sensory coding in 
+the glabrous skin of the human hand. Trends Neurosci 
+6:27–32.
+Johnson KO, Phillips JR. 1981. Tactile spatial resolution: I. 
+Two-point discrimination, gap detection, grating resolu-
+tion and letter recognition. J Neurophysiol 46:1177–1191.
+Jones EG, Powell TPS. 1969. Connexions of the somatic sen-
+sory cortex of the rhesus monkey. I. Ipsilateral cortical 
+connexions. Brain 92:477–502.
+Klatzky RA, Lederman SJ, Metzger VA. 1985. Identifying 
+objects by touch: an “expert system.” Percept Psychophys 
+37:299–302.
+Koch KW, Fuster JM. 1989. Unit activity in monkey parietal 
+cortex related to haptic perception and temporary mem-
+ory. Exp Brain Res 76:292–306.
+LaMotte RH, Mountcastle VB. 1979. Disorders in somethe-
+sis following lesions of parietal lobe. J Neurophysiol 
+42:400–419.
+Lederman SJ, Klatzky RL. 1987. Hand movements: a 
+window into haptic object recognition. Cogn Psychol 19: 
+342–368.
+Lieber JD, Xia X, Weber AI, Bensmaia SJ. 2017. The neural 
+code for tactile roughness in the somatosensory nerves.  
+J Neurophysiol 118:3107–3117.
+Manfredi LR, Saal, HP, Brown KJ, et al. 2014. Natural scenes 
+in tactile texture. J Neurophysiol 111:1792–1802.
+Mountcastle VB. 1997. The columnar organization of the neo-
+cortex. Brain 120:701–722.
+Mountcastle VB, LaMotte RH, Carli G. 1972. Detection 
+thresholds for stimuli in humans and monkeys: com-
+parison with threshold events in mechanoreceptive affer-
+ent fibers innervating the monkey hand. J Neurophysiol 
+35:122–136.
+Mountcastle VB, Lynch JC, Georgopoulos AP, Sakata H, 
+Acuna C. 1975. Posterior parietal association cortex of 
+the monkey: command functions for operations within 
+extrapersonal space. J Neurophysiol 38:871–908.
+Muniak MA, Ray S, Hsiao SS, Dammann JF, Bensmaia SJ. 
+2007. The neural coding of stimulus intensity: linking the 
+population response of mechanoreceptive afferents with 
+psychophysical behavior. J Neurosci 27:11687–11699.
+Murray EA, Mishkin M. 1984. Relative contributions of SII 
+and area 5 to tactile discrimination in monkeys. Behav 
+Brain Res 11:67–83.
+Nelson RJ, Sur M, Felleman DJ, Kaas JH. 1980. Representa-
+tions of the body surface in postcentral parietal cortex of 
+Macaca fascicularis. J Comp Neurol 192:611–643.
+Nolano M, Provitera V, Crisci C, et al. 2003. Quantification 
+of myelinated endings and mechanoreceptors in human 
+digital skin. Ann Neurol 54:197–205.
+Oberlaender M, de Kock CP, Bruno RM, et al. 2012. Cell type-
+specific three-dimensional structure of thalamocortical 
+circuits in a column of rat vibrissal cortex. Cereb Cortex 
+22:2375–2391.
+Pandya DN, Seltzer B. 1982. Intrinsic connections and archi-
+tectonics of posterior parietal cortex in the rhesus monkey. 
+J Comp Neurol 204:196–210.
+
+
+===== Page 2 =====
+Chapter 19 / Touch    469
+Pause M, Kunesch E, Binkofski F, Freund H-J. 1989. Sensori-
+motor disturbances in patients with lesions of the parietal 
+cortex. Brain 112:1599–1625.
+Pei Y-C, Denchev P V, Hsiao SS, Craig JC, Bensmaia SJ. 2009. 
+Convergence of submodality-specific input onto neu-
+rons in primary somatosensory cortex. J Neurophysiol 
+102:1843–1853.
+Peters RM, Hackeman E, Goldreich D. 2009. Diminutive dig-
+its discern delicate details: fingertip size and the sex dif-
+ference in tactile spatial acuity. J Neurosci 29:15756–15761.
+Phillips JR, Johansson RS, Johnson KO. 1990. Representation 
+of braille characters in human nerve fibres. Exp Brain Res 
+81:589–592.
+Pons TP, Garraghty PE, Mishkin M. 1992. Serial and parallel 
+processing of tactual information in somatosensory cortex 
+of rhesus monkeys. J Neurophysiol 68:518–527.
+Pons TP, Garraghty PE, Ommaya AK, Kaas JH, Taub E, Mishkin 
+M. 1991. Massive cortical reorganization after sensory deaf-
+ferentation in adult macaques. Science 252:1857–1860.
+Pruszynski JA, Johansson RS. 2014. Edge-orientation process-
+ing in first-order tactile neurons. Nat Neurosci 17:1404–1409.
+Quilliam TA. 1978. The structure of finger print skin. In: G 
+Gordon (ed). Active Touch, pp. 1–18. Oxford: Pergamon 
+Press.
+Robinson CJ, Burton H. 1980. Somatic submodality distribu-
+tion within the second somatosensory (SII), 7b, retro-
+insular, postauditory and granular insular cortical areas 
+of M. fascicularis. J Comp Neurol 192:93–108.
+Romo R, Hernandez A, Zainos A, Lemus L, Brody CD. 2002. 
+Neuronal correlates of decision-making in secondary 
+somatosensory cortex. Nat Neurosci 5:1217–1235.
+Saal HP, Bensmaia SJ. 2014. Touch is a team effort: interplay 
+of submodalities in cutaneous sensibility. Trends Neurosci 
+37:689–697.
+Salinas E, Hernandez A, Zainos A, Romo R. 2000. Periodicity 
+and firing rate as candidate neural codes for the frequency 
+of vibrotactile stimuli. J Neurosci 20:5503–5515.
+Snider WD. 1998. How do you feel? Neurotrophins and 
+mechanotransduction. Nat Neurosci 1:5–6.
+Srinivasan MA, Whitehouse JM, LaMotte RH. 1990. Tactile 
+detection of slip: surface microgeometry and peripheral 
+neural codes. J Neurophysiol 63:1323–1332.
+Sripati AP, Yoshioka T, Denchev P, Hsiao SS, Johnson KO. 
+2006. Spatiotemporal receptive fields of peripheral affer-
+ents and cortical area 3b and 1 neurons in the primate 
+somatosensory system. J Neurosci 26:2101–2114.
+Talbot WH, Darian-Smith I, Kornhuber HH, Mountcastle 
+VB. 1968. The sense of flutter-vibration: comparison of the 
+human capacity with response patterns of mechanore-
+ceptive afferents from the monkey hand. J Neurophysiol 
+31:301–334.
+Vega-Bermudez F, Johnson KO. 1999. Surround suppression 
+in the responses of primate SA1 and RA mechanorecep-
+tive afferents mapped with a probe array. J Neurophysiol 
+81:2711–2719.
+Warren S, Hämäläinen HA, Gardner EP. 1986. Objective 
+classification of motion- and direction-sensitive neurons 
+in primary somatosensory cortex of awake monkeys.  
+J Neurophysiol 56:598–622.
+Weber AI, Saal HP, Lieber JD, et al. 2013. Spatial and tem-
+poral codes mediate the tactile perception of natural tex-
+tures. Proc Nat Acad Sci USA 110:17107–17112.
+Weinstein S. 1968. Intensive and extensive aspects of tactile 
+sensitivity as a function of body part, sex, and lateral-
+ity. In: DR Kenshalo (ed). The Skin Senses, pp. 195–222. 
+Springfield, IL: Thomas.
+Westling G, Johansson RS. 1987. Responses in glabrous skin 
+mechanoreceptors during precision grip in humans. Exp 
+Brain Res 66:128–140.
+Wimmer VC, Bruno RM, de Kock CP, Kuner T, Sakmann B. 
+2010. Dimensions of a projection column and architecture 
+of VPM and POm axons in rat vibrissal cortex. Cereb 
+Cortex 20:2265–2276.
+
+
+===== Page 3 =====
+20
+Pain
+distinctive of all the sensory modalities. As with the 
+other somatosensory modalities—touch, pressure, and 
+position sense—pain serves an important protective 
+function, alerting us to injuries that require evasion or 
+treatment. In children born with insensitivity to pain, 
+severe injuries often go unnoticed and can lead to per-
+manent tissue damage. Yet pain is unlike other soma-
+tosensory modalities, or vision, hearing, and smell, in 
+that it has an urgent and primitive quality, possessing 
+a powerful emotional component.
+The perception of pain is subjective and is influ-
+enced by many factors. An identical sensory stimulus 
+can elicit quite distinct responses in the same indi-
+vidual under different conditions. Many wounded 
+soldiers, for example, do not feel pain until they have 
+been removed from the battlefield; injured athletes are 
+often not aware of pain until a game is over. Simply 
+put, there are no purely “painful” stimuli, sensory 
+stimuli that invariably elicit the perception of pain in 
+all individuals. The variability of the perception of 
+pain is yet another example of a principle that we have 
+encountered in earlier chapters: Pain is not the direct 
+expression of a sensory event but rather the product of 
+elaborate processing in the brain of a variety of neural 
+signals.
+When pain is experienced, it can be acute, persis-
+tent, or, in extreme cases, chronic. Persistent pain char-
+acterizes many clinical conditions and is usually the 
+reason that patients seek medical attention. In contrast, 
+chronic pain appears to have no useful purpose; it only 
+makes patients miserable. Pain’s highly individual and 
+subjective nature is one of the factors that make it so 
+difficult to define objectively and to treat clinically.
+Noxious Insults Activate Thermal, Mechanical, and 
+Polymodal Nociceptors
+Signals From Nociceptors Are Conveyed to Neurons in the 
+Dorsal Horn of the Spinal Cord
+Hyperalgesia Has Both Peripheral and Central Origins
+Four Major Ascending Pathways Convey Nociceptive 
+Information From the Spinal Cord to the Brain
+Several Thalamic Nuclei Relay Nociceptive Information to 
+the Cerebral Cortex
+The Perception of Pain Arises From and Can Be Controlled 
+by Cortical Mechanisms
+Anterior Cingulate and Insular Cortex Are Associated 
+With the Perception of Pain
+Pain Perception Is Regulated by a Balance of Activity in 
+Nociceptive and Nonnociceptive Afferent Fibers
+Electrical Stimulation of the Brain Produces Analgesia
+Opioid Peptides Contribute to Endogenous Pain Control
+Endogenous Opioid Peptides and Their Receptors Are 
+Distributed in Pain-Modulatory Systems
+Morphine Controls Pain by Activating Opioid Receptors
+Tolerance to and Dependence on Opioids Are Distinct 
+Phenomena
+Highlights
+A
+ccording to the international associa-
+tion for the Study of Pain, pain is an unpleas-
+ant sensation and emotional experience 
+associated with actual or potential tissue damage, or 
+described in terms of such damage. Pricking, burn-
+ing, aching, stinging, and soreness are among the most 
+
+
+===== Page 4 =====
+Chapter 20 / Pain    471
+Figure 20–1  Propagation of action potentials in different 
+classes of nociceptive fibers.
+A. The speed at which action potentials are conducted is a 
+function of each fiber’s cross-sectional diameter. Wave peaks in 
+the figure are labeled alphabetically in order of latency. The first 
+peak and its subdivisions are the summed electrical activity of 
+myelinated A fibers. A delayed (slowly conducting) deflection 
+represents the summed action potentials of unmyelinated C 
+fibers. The compound action potential of the A fibers is shown 
+on a faster time-base to depict the summation of the action 
+potentials of several fibers. (Adapted, with permission, from 
+Perl 2007. Copyright © 2007 Springer Nature.)
+B. First and second pain are carried by A delta and C fibers, 
+respectively. (Adapted, with permission, from Fields 1987.)
+In this chapter, we discuss the neural processes 
+that underlie the perception of pain in normal individ-
+uals and explain the origins of some of the abnormal 
+pain states that are encountered clinically.
+Noxious Insults Activate Thermal, Mechanical, 
+and Polymodal Nociceptors
+Many organs in the periphery, including skin and sub-
+cutaneous structures such as joints and muscles, pos-
+sess specialized sensory receptors that are activated by 
+noxious insults. Unlike the specialized somatosensory 
+receptors for light touch and pressure, most of these 
+nociceptors are simply the free nerve endings of pri-
+mary sensory neurons. There are three main classes of 
+B  First and second pain
+A  Compound action potential
+0
+1
+2
+3
+4
+5
+6
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Time (ms)
+Amplitude (mV)
+Aα, Aβ
+Aδ
+C
+Aα, Aβ
+Aδ
+0
+0.4
+0.8
+1.2
+1.6
+2.0
+2.4
+2.8
+Time (ms)
+First pain
+Second pain
+Pain intensity
+Time
+Thinly myelinated
+(Aδ ﬁber)
+Unmyelinated
+(C ﬁber)
+nociceptors—thermal, mechanical, and polymodal—
+as well as a more enigmatic fourth class, termed silent 
+nociceptors.
+Thermal nociceptors are activated by extremes in tem-
+perature, typically greater than 45°C (115°F) or less than 
+5°C (41°F). They include the peripheral endings of small-
+diameter, thinly myelinated Aδ axons that conduct action 
+potentials at speeds of 5 to 30 m/s and unmyelinated 
+C-fiber axons that conduct at speeds less than 1.0 m/s 
+(Figure 20–1A). Mechanical nociceptors are activated opti-
+mally by intense pressure applied to the skin; they too 
+are the endings of thinly myelinated Aδ axons. Polymodal 
+nociceptors can be activated by high-intensity mechani-
+cal, chemical, or thermal (both hot and cold) stimuli. This 
+class of nociceptors consists predominantly of unmyeli-
+nated C fibers (Figure 20–1A).
+
+
+===== Page 5 =====
+472    Part IV / Perception
+These three classes of nociceptors are widely 
+distributed in skin and deep tissues and are often 
+co-activated. When a hammer hits your thumb, you 
+initially feel a sharp pain (“first pain”) followed by a 
+more prolonged aching and sometimes burning pain 
+(“second pain”) (Figure 20–1B). The fast sharp pain is 
+transmitted by Aδ fibers that carry information from 
+damaged thermal and mechanical nociceptors. The 
+slow dull pain is transmitted by C fibers that convey 
+signals from polymodal nociceptors.
+Silent nociceptors are found in the viscera. This class 
+of receptors is not normally activated by noxious stim-
+ulation; instead, inflammation and various chemical 
+agents dramatically reduce their firing threshold. Their 
+activation is thought to contribute to the emergence of 
+secondary hyperalgesia and central sensitization, two 
+prominent features of chronic pain.
+Noxious stimuli depolarize the bare nerve endings 
+of afferent axons and generate action potentials that 
+are propagated centrally. How is this achieved? The 
+membrane of the nociceptor contains receptors that 
+convert the thermal, mechanical, or chemical energy of 
+noxious stimuli into a depolarizing electrical potential. 
+One such protein is a member of a large family of so-
+called transient receptor potential (TRP) ion channels. 
+This receptor-channel, TRPV1, is expressed selectively 
+by nociceptive neurons and mediates the pain- 
+producing actions of capsaicin, the active ingredient of 
+hot peppers and many other pungent chemicals. The 
+TRPV1 channel is also activated by noxious thermal 
+stimuli, with a threshold for activation around 45°C, 
+the temperature that provokes heat pain. Importantly, 
+TRPV1-mediated membrane currents are enhanced 
+by a reduction in pH, a characteristic of the chemical 
+milieu of inflammation.
+Other receptor-channels of the TRP channel fam-
+ily are expressed by nociceptors and underlie the per-
+ception of a wide range of temperatures, from cold to 
+intense heat. Of particular interest is TRPM8, a menthol-
+responsive and cold-sensing channel that likely medi-
+ates the extreme cold hypersensitivity produced by 
+many chemotherapeutic drugs (such as oxaliplatin). 
+TRPA1 responds to a variety of irritants, from mustard 
+oil to garlic and even air pollutants (Figure 20–2). Very 
+recently, a family of mechanical transducers (Piezo1 
+and Piezo2) was described (Chapter 18). These chan-
+nels may be important contributors to the mechanical 
+hypersensitivity that is a prominent feature of many 
+chronic pain conditions.
+In addition to this constellation of TRP channels, 
+sensory neurons express many other receptors and ion 
+channels involved in the transduction of peripheral 
+stimuli. Nociceptors selectively express many different 
+voltage-gated Na2+ channels, which are the target of 
+local anesthetics that so effectively block pain. (Think 
+of the dentist who can completely eliminate tooth 
+pain.) Nociceptors express Na2+ channels that are 
+sensitive or resistant to tetrodotoxin (TTX). One type 
+of TTX-sensitive channel, Nav1.7, is a key molecular 
+mechanism in the perception of pain in humans, as 
+revealed in the rare individuals who have a loss-of-
+function mutation in the corresponding SCN9A gene. 
+These individuals are insensitive to pain but are oth-
+erwise healthy and exhibit normal sensory responses 
+to touch, temperature, proprioception, tickle, and 
+pressure. A second class of mutations in the SCN9A 
+gene result in hyperexcitability of nociceptors; indi-
+viduals with these mutations exhibit an inherited 
+condition called erythromelalgia, in which there is 
+intense, ongoing burning pain of the extremities, 
+accompanied by profound redness (vasodilation). 
+Since Nav1.7, unlike many other voltage-gated Na+ 
+channels, is not found in the central nervous system, 
+pharmaceutical companies are developing antago-
+nists that will hopefully provide a novel approach to 
+regulating pain processing without the adverse side 
+effects that can occur with systemic administration of 
+lidocaine, which blocks all subtypes of voltage-gated 
+Na+ channels.
+Nociceptors also express an ionotropic puriner-
+gic receptor, PTX3, which is activated by adenosine 
+triphosphate (ATP) released from peripheral cells after 
+tissue damage. In addition, they express members of 
+the Mas-related G protein–coupled receptor (Mrg) fam-
+ily, which are activated by peptide ligands and serve 
+to sensitize nociceptors to other chemicals released in 
+their local environment (see Figure 20–7). Subsets of 
+these unmyelinated afferents also include receptor-
+channels that respond to a variety of itch-provoking 
+substances, including the pruritogens histamine and 
+chloroquine. It follows that these receptors and chan-
+nels are attractive targets for the development of drugs 
+selective for sensory neurons responsive to pain and 
+itch-provoking stimuli.
+Uncontrolled activation of nociceptors is asso-
+ciated with several pathological conditions. Two 
+common pain states that result from alterations in noci-
+ceptor activity are allodynia and hyperalgesia. Patients 
+with allodynia feel pain in response to stimuli that are 
+normally innocuous: a light stroking of sunburned 
+skin, the movement of joints in patients with rheuma-
+toid arthritis, and even the act of getting out of bed in 
+the morning after a vigorous workout. Nevertheless, 
+patients with allodynia do not feel pain constantly; in 
+the absence of a peripheral stimulus, there is no pain. 
+In contrast, patients with hyperalgesia—an exaggerated 
+
+
+===== Page 6 =====
+Chapter 20 / Pain    473
+Extracellular 
+side
+Cytoplasmic 
+side
+TRPV4
+TRPA1
+TRPV3
+TRPV1
+TRPM8
+TRPV2
+N
+N
+N
+N
+N
+N
+C
+C
+C
+C
+C
+C
+Receptor temperature range (°C)
+0°
+10°
+20°
+30°
+40°
+50°
+60°
+TRPM8
+TRPV4
+TRPV1
+TRPV2
+B  Thermosensitivity of TRP channels in dorsal root ganglion cells
+C  Pathway to TRP channel opening 
+PKC
+BK
+BK receptor
+TRPV1
+TRPA1
+G protein
+GTP
+Endoplasmic
+reticulum
+PIP2
+IP3
+Ca2+
+Ca2+
+P
+P
+P
+Ca2+
+PLC
+RNA
+28°
+36°
+44°
+51°
+A  Thermosensitivity of TRP channels in Xenopus oocytes
+Figure 20–2  Transient receptor potential ion channels in 
+nociceptive neurons.
+A. Recordings from Xenopus oocytes injected with mRNA encod-
+ing transient receptor potential (TRP) channels reveal the thermo-
+sensitivity of the channels. The temperature (centigrade) at which 
+a specific TRP channel is activated is shown by the downward 
+deflection of the recording. (Photograph on left reproduced, with 
+permission, from Erwin Siegel 1987; traces on the right repro-
+duced, with permission, from Tominaga and Caterina 2004.)
+B. Temperature response profiles of different TRP channels 
+expressed by dorsal root ganglion neurons. (Adapted, with 
+permission, from Jordt, McKemy, and Julius 2003; Dhaka, 
+Viswanath, and Patapoutian 2006.)
+C. Bradykinin (BK) binds to G protein–coupled receptors on 
+the surface of primary afferent neurons to activate phos-
+pholipase C (PLC), leading to the hydrolysis of membrane 
+phosphatidylinositol bisphosphate (PIP2), the production of 
+inositol 1,4,5-trisphosphate (IP3), and the release of Ca2+ 
+from intracellular stores. Activation of protein kinase C (PKC) 
+regulates TRP channel activity. The TRPV1 channel is sensi-
+tized, leading to channel opening and Ca2+ influx. (Source: 
+Bautista et al. 2006.)
+
+
+===== Page 7 =====
+474    Part IV / Perception
+response to noxious stimuli—typically report persis-
+tent pain in the absence of sensory stimulation.
+Persistent pain can be subdivided into two broad 
+classes, nociceptive and neuropathic. Nociceptive pain 
+results from the activation of nociceptors in the skin or 
+soft tissue in response to tissue injury, and it usually 
+occurs with inflammation. Sprains and strains produce 
+mild forms of nociceptive pain, whereas arthritis or a 
+tumor that invades soft tissue produce a much more 
+severe nociceptive pain. Typically, nociceptive pain 
+is treated with nonsteroidal anti-inflammatory drugs 
+(NSAIDS; see later discussion) or, when severe, with 
+opiates such as morphine.
+Neuropathic pain results from direct injury to 
+nerves in the peripheral or central nervous system, and 
+is often accompanied by a burning or electric sensa-
+tion. Neuropathic pains include complex regional pain 
+syndrome, which can follow even very minor damage 
+to a limb peripheral nerve; post-herpetic neuralgia, the 
+severe pain experienced by many patients after a bout 
+of shingles; or trigeminal neuralgia, an intense, shoot-
+ing pain in the face that results from an as yet unknown 
+pathology of the trigeminal nerve. Other neuropathic 
+pains include phantom limb pain, which can occur after 
+limb amputation (see Figure 20–14). In some instances, 
+spontaneous, ongoing, often burning pain can even 
+occur without a peripheral stimulus, a phenomenon 
+termed anesthesia dolorosa. This syndrome can be trig-
+gered following attempts to treat trigeminal neuralgia 
+by ablating trigeminal sensory neurons. Neuropathic 
+pains do not respond to NSAIDS and are generally 
+poorly responsive to opiates. Finally, lesions of the cen-
+tral nervous system, for example, in multiple sclerosis, 
+after stroke, or after spinal cord injury, can also result 
+in central neuropathic pain states. Since loss of inhibi-
+tory controls (as occurs in epilepsy) is an important 
+contributor to neuropathic pain, the first-line therapy 
+for neuropathic pain, not surprisingly, involves anti-
+convulsants, notably the gabapentinoids. (The refer-
+ence to γ-aminobutyric acid [GABA] was based on a 
+structural similarity of gabapentin to GABA. However, 
+gabapentin in fact exerts its action by binding to the 
+α2δ-subunit of voltage-gated Ca2+ channels, ultimately 
+decreasing neurotransmitter release.)
+Signals From Nociceptors Are Conveyed to 
+Neurons in the Dorsal Horn of the Spinal Cord
+The sensation of noxious stimuli arises from signals 
+in the peripheral axonal branches of nociceptive sen-
+sory neurons whose cell bodies are located in dorsal 
+root ganglia. The central branches of these neurons 
+terminate in the spinal cord in a highly orderly manner. 
+Most terminate in the dorsal horn. Primary afferent 
+neurons that convey distinct sensory modalities termi-
+nate in different laminae (Figure 20–3B) such that there 
+is a tight link between the anatomical organization of 
+dorsal horn neurons, their receptive properties, and 
+their function in sensory processing.
+Many neurons in the most superficial lamina of 
+the dorsal horn, termed lamina I or the marginal layer, 
+respond to noxious stimuli conveyed by Aδ and C 
+fibers. Because they respond selectively to noxious 
+stimulation, they have been called nociceptive-specific 
+neurons. This set of neurons projects to the midbrain 
+and thalamus. A second class of lamina I neurons 
+receives input from C fibers that are activated selec-
+tively by cool stimuli. Other classes of lamina I neu-
+rons respond in a graded fashion to both innocuous 
+and noxious mechanical stimulation and thus are 
+termed wide dynamic range neurons.
+Lamina II, the substantia gelatinosa, is a densely 
+packed layer that contains many different classes of 
+local interneurons, some excitatory and others inhib-
+itory. Some of these interneurons respond selectively 
+to pain-provoking inputs, whereas others are selec-
+tively activated by itch-provoking stimuli. Laminae III  
+and IV contain a mixture of local interneurons and 
+supraspinal projection neurons. Many of these 
+neurons receive input from Aβ afferent fibers that 
+respond to innocuous cutaneous stimuli, such as 
+deflection of hairs and light pressure. Lamina V 
+contains neurons that respond to a wide variety of 
+noxious stimuli and project to the brain stem and 
+thalamus. These neurons receive direct inputs from 
+Aβ and Aδ fibers and, because their dendrites extend 
+into lamina II, are also innervated by C-fiber nociceptors 
+(Figure 20–3B).
+Neurons in lamina V also receive input from noci-
+ceptors in visceral tissues. The convergence of somatic 
+and visceral nociceptive inputs onto individual lamina 
+V neurons provides one explanation for a phenomenon 
+called “referred pain,” a condition in which pain from 
+injury to a visceral tissue is perceived as originating 
+from a region of the body surface. Patients with myo-
+cardial infarction, for example, frequently report pain 
+from the left arm as well as the chest (Figure 20–4). 
+This phenomenon occurs because a single lamina V 
+neuron receives sensory input from both regions, and 
+thus a signal from this neuron does not inform higher 
+brain centers about the source of the input. As a conse-
+quence, the brain often incorrectly attributes the pain to 
+the skin, possibly because cutaneous inputs predomi-
+nate. Another anatomical explanation for instances of 
+referred pain is that the axons of nociceptive sensory 
+
+
+===== Page 8 =====
+Chapter 20 / Pain    475
+C ﬁber
+I
+II
+III
+IV
+V
+VI
+To brain stem
+and thalamus
+To thalamus
+B  Spinal cord inputs
+Aδ ﬁbers 
+Aδ ﬁber 
+Aβ ﬁber
+(mechanoreceptor)
+C ﬁber
+Thermal 
+Polymodal
+Silent
+Mechanical
+A  Nociceptor types
+Figure 20–3  Nociceptive fibers terminate in different lami-
+nae of the dorsal horn of the spinal cord.
+A. There are three main classes of peripheral nociceptor as well 
+as the silent nociceptors, which are activated by inflammation 
+and various chemical substances.
+B. Neurons in lamina I of the dorsal horn receive direct input 
+from myelinated (Ac) nociceptive fibers and both direct  
+and indirect input from unmyelinated (C) nociceptive  
+fibers via interneurons in lamina II. Lamina V neurons receive 
+low-threshold input from large-diameter myelinated Aβ 
+mechanoreceptive fibers as well as inputs from nociceptive 
+Aδ and C fibers. Lamina V neurons send dendrites to lamina 
+IV, where they are contacted by the terminals of Aβ primary 
+afferents. Axon terminals of lamina II interneurons can make 
+contact with dendrites in lamina III that arise from cells in 
+lamina V. Aα primary afferents contact motor neurons and 
+interneurons in the ventral spinal cord (not shown).  
+(Adapted, with permission, from Fields 1987.)
+neurons branch in the periphery, innervating both skin 
+and visceral targets.
+Neurons in lamina VI receive inputs from large-
+diameter primary afferent fibers that innervate muscles 
+and joints. These neurons are activated by innocuous 
+joint movement and do not contribute to the trans-
+mission of nociceptive information. Many neurons 
+in laminae VII and VIII, the intermediate and ventral 
+regions of the spinal cord, do respond to noxious stimuli. 
+These neurons typically have complex response prop-
+erties because the inputs from nociceptors to these 
+neurons are conveyed through many intervening syn-
+apses. Neurons in lamina VII often respond to stimu-
+lation of either side of the body, whereas most dorsal 
+horn neurons receive unilateral input. The activation 
+of lamina VII neurons is therefore thought to contrib-
+ute to the diffuse quality of many pain conditions.
+Nociceptive sensory neurons that activate neu-
+rons in the dorsal horn of the spinal cord release two 
+major classes of neurotransmitters. Glutamate is the 
+primary neurotransmitter of all primary sensory neu-
+rons, regardless of sensory modality. Neuropeptides 
+are released as cotransmitters by many nociceptors 
+with unmyelinated axons. These peptides include 
+substance P, calcitonin gene–related peptide (CGRP), 
+somatostatin, and galanin (Figure 20–5). Glutamate is 
+stored in small, electron-lucent vesicles, whereas pep-
+tides are sequestered in large, dense-core vesicles at 
+the central terminals of nociceptive sensory neurons 
+(Figure 20–6). Separate storage sites permit these two 
+classes of neurotransmitters to be selectively released 
+under different physiological conditions.
+Of the neuropeptide transmitters released by noci-
+ceptive sensory neurons, the actions of substance P, a 
+member of the neurokinin peptide family, have been 
+studied in most detail. Substance P is released from the 
+central terminals of nociceptive afferents in response to 
+tissue injury or after intense stimulation of peripheral 
+
+
+===== Page 9 =====
+476    Part IV / Perception
+Figure 20–4  Signals from nociceptors in the viscera can be 
+felt as “referred pain” elsewhere in the body.
+A. Myocardial infarction and angina can be experienced as deep 
+referred pain in the chest and left arm. The source of the pain 
+cannot be readily predicted from the site of referred pain.
+B. Convergence of visceral and somatic afferent fibers may 
+account for referred pain. Nociceptive afferent fibers from 
+the viscera and fibers from specific areas of the skin  
+converge on the same projection neurons in the dorsal horn. 
+The brain has no way of knowing the actual site of the  
+noxious stimulus and mistakenly associates a signal from  
+a visceral organ with an area of skin. (Adapted, with permission, 
+from Fields 1987.)
+Skin in
+which pain
+is perceived
+B
+A
+Intestine:
+site of injury
+Anterolateral
+column axon
+nerves. Its interaction with neurokinin receptors on 
+dorsal horn neurons elicits slow excitatory postsynap-
+tic potentials that prolong the depolarization elicited 
+by glutamate. Although the physiological actions of 
+glutamate and neuropeptides on dorsal horn neurons 
+are different, these transmitters act coordinately to reg-
+ulate the firing properties of dorsal horn neurons.
+Details of the interaction of neuropeptides with 
+their receptors on dorsal horn neurons have suggested 
+strategies for chronic pain regulation. Infusion of sub-
+stance P coupled to a neurotoxin into the dorsal horn 
+of experimental animals results in selective destruction 
+of neurons that express neurokinin receptors. Animals 
+treated in this way fail to develop the central sensitization 
+that is normally associated with peripheral injury. This 
+method of neuronal ablation is more selective than 
+traditional surgical interventions such as partial spi-
+nal cord transection (anterolateral cordotomy) and is 
+being considered as a treatment for patients suffering 
+from otherwise intractable chronic pain.
+Hyperalgesia Has Both Peripheral and  
+Central Origins
+Up to this point, we have considered the conveyance of 
+noxious signals in the normal physiological state. But 
+the normal process of sensory signaling can be dra-
+matically altered when peripheral tissue is damaged, 
+resulting in an increase in pain sensitivity or hyper-
+algesia. This condition can be elicited by sensitizing 
+peripheral nociceptors through repetitive exposure to 
+noxious stimuli (Figure 20–7).
+The sensitization is triggered by a complex mix of 
+chemicals released from damaged cells that accumulate 
+at the site of tissue injury. This cocktail contains pep-
+tides and proteins such as bradykinin, substance P, and 
+nerve growth factor, as well as molecules such as ATP, 
+histamine, serotonin, prostaglandins, leukotrienes, 
+and acetylcholine. Many of these chemical mediators 
+are released from distinct cell types, but together they 
+act to decrease the threshold of nociceptor activation.
+
+

@@ -1,0 +1,817 @@
+===== Page 1 =====
+244    Part III / Synaptic Transmission
+potential. At electrical synapses, the synaptic delay—
+the time between the presynaptic spike and the post-
+synaptic potential—is remarkably short (Figure 11–2B).
+Such a short latency is not possible with chemi-
+cal transmission, which requires several biochemical 
+steps: release of a transmitter from the presynaptic 
+neuron, diffusion of transmitter molecules across the 
+synaptic cleft to the postsynaptic cell, binding of trans-
+mitter to a specific receptor, and subsequent gating of 
+ion channels (all described in this and the next chapter). 
+Only current passing directly from one cell to another 
+can produce the near-instantaneous transmission 
+observed at the giant motor electrical synapse.
+Another feature of electrical transmission is that 
+the change in potential of the postsynaptic cell is 
+directly related to the size and shape of the change in 
+potential of the presynaptic cell. Even when a weak 
+subthreshold depolarizing current is injected into the 
+presynaptic neuron, some current enters the postsyn-
+aptic cell and depolarizes it (Figure 11–3). In contrast, 
+at a chemical synapse, the current in the presynaptic 
+cell must reach the threshold for an action potential 
+before it can release transmitter and elicit a response in 
+the postsynaptic cell.
+Most electrical synapses can transmit both depolar-
+izing and hyperpolarizing currents. A presynaptic action 
+potential with a large hyperpolarizing afterpotential 
+produces a biphasic (depolarizing-hyperpolarizing) 
+change in potential in the postsynaptic cell. Signal trans-
+mission at electrical synapses is similar to the passive 
+propagation of subthreshold electrical signals along 
+axons (Chapter 9) and therefore is also referred to as 
+electrotonic transmission. At some specialized gap junc-
+tions, the channels have voltage-dependent gates that 
+permit them to conduct depolarizing current in only 
+Figure 11–3  Electrical transmission is graded. It occurs 
+even when the current in the presynaptic cell is below the 
+threshold for an action potential. As demonstrated by single-
+cell recordings, a subthreshold depolarizing stimulus causes a 
+passive depolarization in the presynaptic and postsynaptic cells. 
+(Depolarizing or outward current is indicated by an upward 
+deflection.)
+Current pulse to
+presynaptic cell
+Voltage recorded
+in presynaptic cell
+Voltage recorded
+in postsynaptic cell
+one direction, from the presynaptic cell to the postsyn-
+aptic cell. These junctions are called rectifying synapses. 
+(The crayfish giant motor synapse is an example.)
+Cells at an Electrical Synapse Are Connected by 
+Gap-Junction Channels
+At an electrical synapse, the pre- and postsynaptic 
+components are apposed at the gap junction, where 
+the separation between the two neurons (4 nm) is 
+much less than the normal nonsynaptic space between 
+neurons (20 nm). This narrow gap is bridged by  
+gap-junction channels, specialized protein structures 
+that conduct ionic current directly from the presynap-
+tic to the postsynaptic cell.
+A gap-junction channel consists of a pair of 
+hemichannels, or connexons, one in the presynaptic and 
+the other in the postsynaptic cell membrane. These 
+hemichannels thus form a continuous bridge between 
+the two cells (Figure 11–4). The pore of the channel 
+has a large diameter of approximately 1.5 nm, much 
+larger than the 0.3- to 0.5-nm diameter of ion-selective 
+ligand-gated or voltage-gated channels. The large pore 
+of gap-junction channels does not discriminate among 
+inorganic ions and is even wide enough to permit 
+small organic molecules and experimental markers 
+such as fluorescent dyes to pass between the two cells.
+Each connexon is composed of six identical subu-
+nits, called connexins. Connexins in different tissues are 
+encoded by a large family of 21 separate but related 
+genes. In mammals, the most common connexon in 
+neurons is formed from the product of connexin 36. 
+Connexin genes are named for their predicted molec-
+ular weight, in kilodaltons, based on their primary 
+amino acid sequence. All connexin subunits have an 
+intracellular N- and C-terminus with four interposed 
+α-helixes that span the cell membrane (Figure 11–4C).
+Many gap-junction channels in different cell 
+types are formed by the products of different con-
+nexin genes and thus respond differently to modu-
+latory factors that control their opening and closing. 
+For example, although most gap-junction channels 
+close in response to lowered cytoplasmic pH or ele-
+vated cytoplasmic Ca2+, the sensitivity of different 
+channel isoforms to these factors varies widely. The 
+closing of gap-junction channels in response to pH 
+and Ca2+ plays an important role in the decoupling 
+of damaged cells from healthy cells, as damaged cells 
+contain elevated Ca2+ levels and a high concentration 
+of protons. Finally, neurotransmitters released from 
+nearby chemical synapses can modulate the opening 
+of gap-junction channels through intracellular meta-
+bolic reactions (Chapter 14).
+
+
+===== Page 2 =====
+Connexon
+Postsynaptic
+cytoplasm
+Presynaptic
+cytoplasm
+A
+Normal
+extracellular space
+4 nm
+20 nm
+D
+B
+Channel formed by 
+pores in each membrane
+Connexin
+Presynaptic
+cytoplasm
+Extracellular
+space
+Extracellular loops for
+homophilic interactions
+1 2 3 4
+N
+C
+NTH
+Cytoplasmic loops
+for regulation
+C
+Open
+Closed
+Figure 11–4  A three-dimensional model of the gap-junction 
+channel, based on X-ray and electron diffraction studies.
+A. The electrical synapse, or gap junction, is composed of 
+numerous specialized channels that span the membranes of 
+the pre- and postsynaptic neurons. These gap-junction chan-
+nels allow current to pass directly from one cell to the other. 
+The array of channels in the electron micrograph was isolated 
+from the membrane of a rat liver cell that had been negatively 
+stained, a technique that darkens the area around the chan-
+nels and in the pores. Each channel appears hexagonal in outline. 
+Magnification ×307,800. (Reproduced, with permission, from N. 
+Gilula.)
+B. A gap-junction channel is actually a pair of hemichannels, 
+one in each apposite cell that connects the cytoplasm of the two 
+cells. (Adapted from Makowski et al. 1977.)
+C. Each hemichannel, or connexon, is made up of six identi-
+cal subunits called connexins. Each connexin is approximately 
+7.5 nm long and spans the cell membrane. A single connexin 
+has intracellular N- and C-terminals, including a short intracel-
+lular N-terminal α-helix (NTH), and four membrane-spanning 
+α-helixes (1–4). The amino acid sequences of gap-junction 
+proteins from many different kinds of tissue have regions of 
+similarity that include the transmembrane helixes and the extra-
+cellular regions, which are involved in the homophilic matching 
+of apposite hemichannels.
+D. The connexins are arranged in such a way that a pore is 
+formed in the center of the structure. The resulting connexon, 
+with a pore diameter of approximately 1.5 to 2 nm, has a 
+characteristic hexagonal outline, as shown in the photograph 
+in part A. In some gap-junction channels, the pore is opened 
+when the subunits rotate approximately 0.9 nm at the cyto-
+plasmic base in a clockwise direction. (Reproduced, with per-
+mission, from Unwin and Zampighi 1980. Copyright © 1980 
+Springer Nature.)
+
+
+===== Page 3 =====
+246    Part III / Synaptic Transmission
+The three-dimensional structure of a gap-junction 
+channel formed by the human connexin 26 subu-
+nit has been determined by X-ray crystallography. 
+This structure shows how the membrane-spanning 
+α-helixes assemble to form the central pore of the 
+channel and how the extracellular loops connecting 
+the transmembrane helixes interdigitate to connect the 
+two hemichannels (Figure 11–5). The pore is lined with 
+polar residues that facilitate the movement of ions. 
+An N-terminal α-helix may serve as the voltage gate 
+of the connexin 26 channel, plugging the cytoplasmic 
+mouth of the pore in the closed state. A separate gate 
+Figure 11–5  High-resolution three-dimensional structure 
+of a gap-junction channel. All structures were determined 
+by X-ray crystallography of gap-junction channels formed by 
+the human connexin 26 subunit. (Reproduced, with permis-
+sion, from Maeda et al. 2009. Copyright © 2009 Springer 
+Nature.)
+A. Left: Diagram of an intact gap-junction channel showing the 
+pair of apposed hemichannels. Middle: This high-resolution 
+structure of a single connexin subunit shows four transmem-
+brane α-helixes (1–4) and a short N-terminal helix (NTH). The 
+orientation of the subunit corresponds to that of the yellow 
+subunit in the diagram to the right. Right: Bottom-up view look-
+ing into a hemichannel from the cytoplasm. Each of the six 
+subunits has a different color. The helixes of the yellow subunit 
+are numbered. The orientation corresponds to that of the yel-
+low hemichannel in the diagram at left, following a 90-degree 
+rotation toward the viewer.
+B. Two side views of the gap-junction channel in the plane of 
+the membrane show the two apposed hemichannels. The ori-
+entation is the same as in part A. Left: Cross section through 
+the channel shows the internal surface of the channel pore. 
+Blue indicates positively charged surfaces; red indicates nega-
+tively charged surfaces. The green mass inside the pore at 
+the cytoplasmic entrance (funnel) is thought to represent the 
+channel gate formed by the N-terminal helix. Right: A side view 
+of the channel shows each of the six connexin subunits in the 
+same color scheme as in part A. The entire gap-junction channel 
+is approximately 9 nm wide by 15 nm tall.
+Postsynaptic
+cytoplasm
+Presynaptic
+cytoplasm
+Presynaptic
+membrane
+Extracellular
+space
+Postsynaptic
+membrane
+Extracellular
+cavity
+Negatively
+charged
+path
+Funnel
+NTH
+2
+1
+3
+4
+A
+B
+2
+3
+4
+NTH
+1
+
+
+===== Page 4 =====
+Chapter 11 / Overview of Synaptic Transmission    247
+at the extracellular side of the channel, formed by the 
+extracellular loop connecting the first two membrane 
+helixes, has been inferred from functional studies. This 
+loop gate is thought to close isolated hemichannels 
+that are not docked to a hemichannel partner in the 
+apposing cell.
+Electrical Transmission Allows Rapid and 
+Synchronous Firing of Interconnected Cells
+How are electrical synapses useful? As we have seen, 
+electrical synaptic transmission is rapid because it 
+results from the direct passage of current between cells. 
+Speed is important for escape responses. For example, 
+the tail-flip response of goldfish is mediated by a giant 
+neuron in the brain stem (known as the Mauthner 
+cell), which receives sensory input at electrical syn-
+apses. These electrical synapses rapidly depolarize the 
+Mauthner cell, which in turn activates the motor neu-
+rons of the tail, allowing rapid escape from danger.
+Electrical transmission is also useful for orchestrat-
+ing the actions of groups of neurons. Because current 
+crosses the membranes of all electrically coupled cells 
+A
+B
+C
+Recording
+B  Motor cell responses to tail stimulation
+Recording
+Recording
+Tail
+Stimulus
+Release
+of ink
+Tail stimulus
+A
+B
+C
+Ink gland
+Motor neurons
+Sensory neuron
+A  Neural circuit of the inking response
+Figure 11–6  Electrically coupled motor neurons firing 
+together can produce synchronous behaviors. (Adapted, 
+with permission, from Carew and Kandel 1976.)
+A. In the marine snail Aplysia, sensory neurons from the 
+tail ganglion form synapses with three motor neurons that 
+innervate the ink gland. The motor neurons are interconnected 
+by electrical synapses.
+B. A train of stimuli applied to the tail produces a synchronized 
+discharge in all three motor neurons that results in the release 
+of ink.
+at the same time, several small cells can act together 
+as one large cell. Moreover, because of the electrical 
+coupling between the cells, the effective resistance of 
+the network is smaller than the resistance of an indi-
+vidual cell. Thus, from Ohm’s law, the synaptic current 
+required to fire electrically coupled cells is larger than 
+that necessary to fire an individual cell. That is, electri-
+cally coupled cells have a higher firing threshold. Once 
+this high threshold is surpassed, however, electrically 
+coupled cells fire synchronously because voltage-
+activated Na+ currents generated in one cell are very 
+rapidly conducted to other cells.
+Thus, a behavior controlled by a group of electri-
+cally coupled cells has an important adaptive advan-
+tage: It is triggered explosively. For example, when 
+seriously perturbed, the marine snail Aplysia releases 
+massive clouds of purple ink that provide a protective 
+screen. This stereotypic behavior is mediated by three 
+electrically coupled motor cells that innervate the ink 
+gland. Once the action potential threshold is exceeded 
+in these cells, they fire synchronously (Figure 11–6). In 
+certain fish, rapid eye movements (called saccades) are 
+also mediated by electrically coupled motor neurons 
+
+
+===== Page 5 =====
+248    Part III / Synaptic Transmission
+firing together. Gap junctions are also important in 
+the mammalian brain, where the synchronous firing 
+of electrically coupled inhibitory interneurons gener-
+ates synchronous 40- to 100-Hz (gamma) oscillations 
+in large populations of cells.
+In addition to providing speed or synchrony in 
+neuronal signaling, electrical synapses also can trans-
+mit metabolic signals between cells. Because of their 
+large-diameter pore, gap-junction channels conduct a 
+variety of inorganic cations and anions, including the 
+second messenger Ca2+, and even conduct moderate-
+sized organic compounds (<1 kDa molecular weight) such 
+as the second messengers inositol 1,4,5-trisphosphate 
+(IP3), cyclic adenosine monophosphate (cAMP), and 
+even small peptides.
+Gap Junctions Have a Role in Glial  
+Function and Disease
+Gap junctions are formed between glial cells as well 
+as between neurons. In glia, the gap junctions medi-
+ate both intercellular and intracellular signaling. In 
+the brain, individual astrocytes are connected to each 
+other through gap junctions forming a glial cell net-
+work. Electrical stimulation of neuronal pathways in 
+brain slices can release neurotransmitters that trigger 
+a rise in intracellular Ca2+ in certain astrocytes. This 
+produces a wave of Ca2+ that propagates from astro-
+cyte to astrocyte at a rate of approximately 1–20  μm/s, 
+about a million-fold slower than the propagation of an 
+action potential (10–100 m/s). Although the precise 
+function of the waves is unknown, their existence 
+suggests that glia may play an active role in intercellular 
+signaling in the brain.
+Gap-junction channels also enhance communi-
+cation within certain glial cells, such as the Schwann 
+cells that produce the myelin sheath of axons in the 
+peripheral nervous system. Successive layers of mye-
+lin formed by a single Schwann cell are connected by 
+gap junctions. These gap junctions may help to hold 
+the layers of myelin together and promote the passage 
+of small metabolites and ions across the many layers 
+of myelin. The importance of the Schwann cell gap-
+junction channels is underscored by certain genetic 
+diseases. For example, the X chromosome–linked form 
+of Charcot-Marie-Tooth disease, a demyelinating dis-
+order, is caused by single mutations that disrupt the 
+function of connexin 32, the gene expressed in Schwann 
+cells. Inherited mutations that prevent the function of a 
+connexin in the cochlea (connexin 26), which normally 
+forms gap-junction channels that are important for 
+fluid secretion in the inner ear, underlie up to half of 
+all instances of congenital deafness.
+Chemical Synapses Can Amplify Signals
+In contrast to electrical synapses, at chemical synapses, 
+there is no structural continuity between presynap-
+tic and postsynaptic neurons. In fact, the separation 
+between the two cells at a chemical synapse, the syn-
+aptic cleft, is usually slightly wider (20–40 nm) than 
+the nonsynaptic intercellular space (20 nm). Chemi-
+cal synaptic transmission depends on a neurotrans-
+mitter, a chemical substance that diffuses across the 
+synaptic cleft and binds to and activates receptors in 
+the membrane of the target cell. At most chemical syn-
+apses, transmitter is released from specialized swell-
+ings of the presynaptic axon—synaptic boutons—that 
+typically contain 100 to 200 synaptic vesicles, each of 
+which is filled with several thousand molecules of 
+neurotransmitter (Figure 11–7).
+The synaptic vesicles are clustered at specialized 
+regions of the synaptic bouton called active zones. Dur-
+ing a presynaptic action potential, voltage-gated Ca2+ 
+channels at the active zone open, allowing Ca2+ to 
+enter the presynaptic terminal. The rise in intracellular 
+Ca2+concentration triggers a biochemical reaction that 
+causes the vesicles to fuse with the presynaptic mem-
+brane and release neurotransmitter into the synaptic 
+cleft, a process termed exocytosis. The transmitter mol-
+ecules then diffuse across the synaptic cleft and bind 
+Figure 11–7  The fine structure of a presynaptic terminal.   
+This electron micrograph shows an axon terminal in the  
+cerebellum. The large dark structures are mitochondria. The 
+many small round bodies are vesicles that contain neurotrans-
+mitter. The fuzzy dark thickenings along the presynaptic mem-
+brane (arrows) are the active zones, specialized areas that are 
+thought to be docking and release sites for synaptic vesicles. 
+The synaptic cleft is the space separating the pre- and post-
+synaptic cell membranes. (Reproduced, with permission, from 
+Heuser and Reese 1977.)
+
+
+===== Page 6 =====
+Chapter 11 / Overview of Synaptic Transmission    249
+to their receptors on the postsynaptic cell membrane. 
+This in turn activates the receptors, leading to the 
+opening or closing of ion channels. The resulting flux 
+of ions alters the membrane conductance and potential 
+of the postsynaptic cell (Figure 11–8).
+These several steps account for the synaptic delay 
+at chemical synapses. Despite its biochemical com-
+plexity, the release process is remarkably efficient—the 
+synaptic delay is usually only 1 ms or less. Although 
+chemical transmission lacks the immediacy of electrical 
+synapses, it has the important property of amplification. 
+Just one synaptic vesicle releases several thousand 
+molecules of transmitter that together can open thou-
+sands of ion channels in the target cell. In this way, a 
+small presynaptic nerve terminal, which generates 
+only a weak electrical current, can depolarize a large 
+postsynaptic cell.
+The Action of a Neurotransmitter Depends on the 
+Properties of the Postsynaptic Receptor
+Chemical synaptic transmission can be divided into 
+two steps: a transmitting step, in which the presynap-
+tic cell releases a chemical messenger, and a receptive 
+Figure 11–8  Synaptic transmission at chemical synapses 
+involves several steps. The complex process of chemical syn-
+aptic transmission accounts for the delay between an action 
+potential in the presynaptic cell and the synaptic potential in the 
+postsynaptic cell, as compared with the virtually instantaneous 
+transmission of signals at electrical synapses (see Figure 11–2B).
+A. An action potential arriving at the terminal of a presynaptic 
+axon causes voltage-gated Ca2+ channels at the active zone to 
+open. The gray filaments represent the docking and release 
+sites of the active zone.
+B. The Ca2+ channel opening produces a high concentration of 
+intracellular Ca2+ near the active zone, causing vesicles contain-
+ing neurotransmitter to fuse with the presynaptic cell mem-
+brane and release their contents into the synaptic cleft  
+(a process termed exocytosis).
+C. The released neurotransmitter molecules then diffuse across 
+the synaptic cleft and bind specific receptors on the postsyn-
+aptic membrane. These receptors cause ion channels to open 
+(or close), thereby changing the membrane conductance and 
+membrane potential of the postsynaptic cell.
+Presynaptic
+action potential
++40
+0
+–55
+–70
+Excitatory
+postsynaptic
+potential
+Threshold
+mV
+Ca2+
+Presynaptic 
+nerve
+terminal
+Receptor-
+channel
+Transmitter
+Post-
+synaptic
+cell
+Na+
+Na+
+Na+
+–55
+–70
+Threshold
+1 ms
+Delay
+mV
+A
+B
+C
+step, in which the transmitter binds to and activates 
+the receptor molecules in the postsynaptic cell. The 
+transmitting process in neurons resembles endocrine 
+hormone release. Indeed, chemical synaptic transmis-
+sion can be seen as a modified form of hormone secre-
+tion. Both endocrine glands and presynaptic terminals 
+release a chemical agent with a signaling function, and 
+both are examples of regulated secretion (Chapter 7). 
+Similarly, both endocrine glands and neurons are usu-
+ally some distance from their target cells.
+There is one important difference, however, 
+between endocrine and synaptic signaling. Whereas 
+the hormone released by a gland travels through the 
+blood stream until it interacts with all cells that contain 
+an appropriate receptor, a neuron usually communi-
+cates only with the cells with which it forms synapses. 
+Because the presynaptic action potential triggers the 
+release of a chemical transmitter onto a target cell 
+across a distance of only 20 nm, the chemical signal 
+travels only a small distance to its target. Therefore, 
+neuronal signaling has two special features: It is fast 
+and it is precisely directed.
+In most neurons, this directed or focused release is 
+accomplished at the active zones of synaptic boutons. 
+
+
+===== Page 7 =====
+250    Part III / Synaptic Transmission
+In presynaptic neurons neurons without active zones, 
+the distinction between neuronal and hormonal trans-
+mission becomes blurred. For example, the neurons in 
+the autonomic nervous system that innervate smooth 
+muscle reside at some distance from their postsynaptic 
+cells and do not have specialized release sites in their 
+terminals. Synaptic transmission between these cells 
+is slower and relies on a more widespread diffusion 
+of transmitter. Furthermore, the same transmitter sub-
+stance can be released differently from different cells. 
+A substance can be released from one cell as a conven-
+tional transmitter acting directly on neighboring cells. 
+From other cells, it can be released in a less focused 
+way as a modulator, producing a more diffuse action; 
+and from still other cells, it can be released into the 
+blood stream as a neurohormone.
+Although a variety of chemicals serve as neuro-
+transmitters, including both small molecules and pep-
+tides (Chapter 16), the action of a transmitter depends 
+on the properties of the postsynaptic receptors that 
+recognize and bind the transmitter, not the chemical 
+properties of the transmitter. For example, ACh can 
+excite some postsynaptic cells and inhibit others, and 
+at still other cells, it can produce both excitation and 
+inhibition. It is the receptor that determines the action 
+of ACh, including whether a cholinergic synapse is 
+excitatory or inhibitory.
+Within a group of closely related animals, a trans-
+mitter substance binds conserved families of recep-
+tors and is often associated with specific physiological 
+functions. In vertebrates, ACh acts on excitatory ACh 
+receptors at all neuromuscular junctions to trigger con-
+traction while also acting on inhibitory ACh receptors 
+to slow the heart.
+The distinction between the transmitting and 
+receptive processes is not absolute; many presynap-
+tic terminals contain transmitter receptors that can 
+modify the release process. In some instances, these 
+presynaptic receptors are activated by the transmitter 
+released from the same presynaptic terminal. In other 
+instances, the presynaptic terminal can be contacted 
+by presynaptic terminals from other classes of neurons 
+that release distinct neurotransmitters.
+The notion of a receptor was introduced in the late 
+19th century by the German bacteriologist Paul Ehrlich 
+to explain the selective action of toxins and other phar-
+macological agents and the great specificity of immu-
+nological reactions. In 1900, Ehrlich wrote: “Chemical 
+substances are only able to exercise an action on the 
+tissue elements with which they are able to establish 
+an intimate chemical relationship … [This relationship]  
+must be specific. The [chemical] groups must be 
+adapted to one another … as lock and key.”
+In 1906, the English pharmacologist John Langley 
+postulated that the sensitivity of skeletal muscle to 
+curare and nicotine was caused by a “receptive mol-
+ecule.” A theory of receptor function was later devel-
+oped by Langley’s students (in particular, A.V. Hill 
+and Henry Dale), a development that was based on 
+concurrent studies of enzyme kinetics and cooperative 
+interactions between small molecules and proteins. As 
+we shall see in the next chapter, Langley’s “receptive 
+molecule” has been isolated and characterized as the 
+ACh receptor of the neuromuscular junction.
+All receptors for chemical transmitters have two 
+biochemical features in common:
+1.	 They are membrane-spanning proteins. The 
+region exposed to the external environment of  
+the cell recognizes and binds the transmitter from 
+the presynaptic cell.
+2.	 They carry out an effector function within the target 
+cell. The receptors typically influence the opening 
+or closing of ion channels.
+Activation of Postsynaptic Receptors Gates Ion 
+Channels Either Directly or Indirectly
+Neurotransmitters control the opening of ion channels 
+in the postsynaptic cell either directly or indirectly. 
+These two classes of transmitter actions are medi-
+ated by receptor proteins derived from different gene 
+families.
+Receptors that gate ion channels directly, such as 
+the ACh receptor at the neuromuscular junction, are 
+composed of four or five subunits that form a sin-
+gle macromolecule. Such receptors contain both an 
+extracellular domain that forms the binding site for 
+the transmitter and a membrane-spanning domain 
+that forms an ion-conducting pore (Figure 11–9A). 
+This kind of receptor is often referred to as ionotropic 
+because the receptor directly controls ion flux. Upon 
+binding neurotransmitter, the receptor undergoes a 
+conformational change that opens the ion channel. 
+The actions of ionotropic receptors, also called receptor-
+channels or ligand-gated channels, are discussed in detail 
+in Chapters 12 and 13.
+Receptors that gate ion channels indirectly, like 
+the several types of receptors for norepinephrine or 
+dopamine in neurons of the cerebral cortex, are nor-
+mally composed of one or at most two subunits that 
+are distinct from the ion channels they regulate. These 
+receptors, which commonly have seven membrane-
+spanning α-helixes, act by altering intracellular meta-
+bolic reactions and are often referred to as metabotropic 
+receptors. Activation of these receptors often stimulates 
+
+
+===== Page 8 =====
+Chapter 11 / Overview of Synaptic Transmission    251
+the production of second messengers, small freely 
+diffusible intracellular metabolites such as cAMP or 
+diacylglycerol. Many of these second messengers acti-
+vate protein kinases, enzymes that phosphorylate differ-
+ent substrate proteins. In many instances, the protein 
+kinases directly phosphorylate ion channels, includ-
+ing gap-junction channels and ionotropic receptors, 
+modulating their opening or closing (Figure 11–9B). 
+The actions of metabotropic receptors are examined in 
+detail in Chapter 14.
+Ionotropic and metabotropic receptors have differ-
+ent functions. The ionotropic receptors produce rela-
+tively fast synaptic actions lasting only milliseconds. 
+These are commonly found at synapses in neural cir-
+cuits that mediate rapid behaviors, such as the stretch 
+receptor reflex. The metabotropic receptors produce 
+slower synaptic actions, lasting hundreds of millisec-
+onds to minutes. These slower actions can modulate a 
+behavior by altering the excitability of neurons and the 
+A  Direct gating
+B  Indirect gating 
+Extracellular
+side
+Transmitter
+Transmitter
+Effector
+function
+Channel
+Receptor
+Pore
+Cytoplasmic
+side
+NH2
+COOH
+Gate
+G protein
+Receptor
+cAMP
+GTP
+Adenylyl
+cyclase
+NH2
+COOH
+Extracellular side
+Cytoplasmic side
+Pore
+Channel
+Gate
+PKA
+Effector
+function
+α
+γ
+α
+δ
+β
+P
+P
+P
+P
+Figure 11–9  Neurotransmitters open postsynaptic ion chan-
+nels either directly or indirectly.
+A. A receptor that directly opens ion channels is an integral part 
+of the macromolecule that also forms the channel. Many such 
+ligand-gated channels are composed of five subunits, each of 
+which is thought to contain four membrane-spanning α-helical 
+regions.
+B. A receptor that indirectly opens an ion channel is a distinct 
+macromolecule separate from the channel it regulates. In one 
+large family of such receptors, the receptors are composed 
+of a single subunit with seven membrane-spanning α-helical 
+regions that bind the ligand within the plane of the mem-
+brane. These receptors activate a guanosine triphosphate 
+(GTP)–binding protein (G protein), which in turn activates a 
+second-messenger cascade that modulates channel activity. In 
+the cascade illustrated here, the G protein stimulates adenylyl 
+cyclase, which converts adenosine triphosphate (ATP) to cyclic 
+adenosine monophosphate (cAMP). The cAMP activates the 
+cAMP-dependent protein kinase (PKA), which phosphorylates 
+the channel (P), leading to a change in opening.
+strength of the synaptic connections in the neural cir-
+cuit that mediates the behavior. Such modulatory syn-
+aptic actions often act as crucial reinforcing pathways 
+in the process of learning.
+Electrical and Chemical Synapses  
+Can Coexist and Interact
+As we now realize, both Henry Dale and John Eccles 
+were correct about the existence of chemical and elec-
+trical synapses, respectively. Furthermore, we now 
+know that both forms of synaptic transmission can coex-
+ist in the same neuron and that electrical and chemical 
+synapses can modify each other’s efficacy. For exam-
+ple, during development, many neurons are initially 
+connected by electrical synapses, whose presence helps 
+in the formation of chemical synapses. As chemical 
+
+
+===== Page 9 =====
+252    Part III / Synaptic Transmission
+synapses begin to form, they often initiate the down-
+regulation of electrical transmission.
+Both types of synapses also can coexist in neurons 
+in the mature nervous system. The role of these two 
+types of synapses is perhaps best understood in the 
+circuitry of the retina. There, rod and cone photorecep-
+tors release the neurotransmitter glutamate and form 
+chemical synapses on a class of interneurons called 
+bipolar cells. Each bipolar cell extends its dendrites 
+horizontally, receiving chemical synaptic input from a 
+number of overlying rods and cones that respond to 
+light from a very small region of the visual field. The 
+receptive field of a bipolar neuron, however, extends 
+about twice as far as the receptive field of the photore-
+ceptors from which it receives chemical synaptic input. 
+This is a result of electrical synapses formed between 
+neighboring bipolar cells and between bipolar cells 
+and a second type of interneuron, the amacrine cell 
+(Chapter 22).
+Finally, the efficacy of gap junctions can be regu-
+lated by phosphorylation through different protein 
+kinases, which generally enhances gap-junction cou-
+pling. For example, dopamine and other transmitters 
+can increase or decrease gap-junction coupling by 
+acting on metabotropic G protein–coupled receptors 
+to regulate levels of cAMP and thereby enhance or 
+decrease channel phosphorylation. Such complex sign-
+aling loops are a hallmark of many neural circuits and 
+greatly expand their computational powers.
+Highlights
+1.	 Neurons communicate by two major mechanisms: 
+electrical and chemical synaptic transmission.
+2.	 Electrical synapses are formed at regions of tight 
+apposition called gap junctions, which provide 
+a direct pathway for charge to flow between the 
+cytoplasm of communicating neurons. This results 
+in very rapid synaptic transmission that is suited 
+for synchronizing the activity of populations of 
+neurons.
+3.	 Neurons at electrical synapses are connected 
+through gap-junction channels, which are formed 
+from a pair of hemichannels, called connexons, 
+one each contributed by the presynaptic and post-
+synaptic cells. Each connexon is a hexamer, com-
+posed of six subunits termed connexins.
+4.	 At chemical synapses, a presynaptic action poten-
+tial triggers the release of a chemical transmitter 
+from the presynaptic cell through the process of 
+exocytosis. Transmitter molecules then rapidly 
+diffuse across the synaptic cleft to bind to and 
+activate transmitter receptors in the postsynaptic 
+cell.
+5.	 Although slower than electrical synaptic transmis-
+sion, chemical transmission allows for amplification 
+of the presynaptic action potential through the 
+release of tens of thousands of molecules of trans-
+mitter and the activation of hundreds to thou-
+sands of receptors in the postsynaptic cell.
+6.	 There are two major classes of transmitter recep-
+tors. Ionotropic receptors are ligand-gated ion 
+channels. Binding of transmitter to an extracellu-
+lar binding site triggers a conformational change 
+that opens the channel pore, generating an ionic 
+current that excites (depolarizes) or inhibits 
+(hyperpolarizes) the postsynaptic cell, depend-
+ing on the receptor. Ionotropic receptors underlie 
+fast chemical synaptic transmission that mediates 
+rapid signaling in the nervous system.
+7.	 Metabotropic receptors are responsible for the 
+second major class of chemical synaptic actions. 
+These receptors activate intracellular metabolic 
+signaling pathways, often leading to the synthesis 
+of second messengers, such as cAMP, that regulate 
+levels of protein phosphorylation. Metabotropic 
+receptors underlie slow, modulatory synaptic 
+actions that contribute to changes in behavioral 
+state and arousal.
+ Steven A. Siegelbaum  
+ Gerald D. Fischbach 
+Selected Reading
+Bennett MV, Zukin RS. 2004. Electrical coupling and neu-
+ronal synchronization in the mammalian brain. Neuron 
+19:495–511.
+Colquhoun D, Sakmann B. 1998. From muscle endplate to 
+brain synapses: a short history of synapses and agonist-
+activated ion channels. Neuron 20:381–387.
+Cowan WM, Kandel ER. 2000. A brief history of synapses 
+and synaptic transmission. In: MW Cowan, TC Südhof, 
+CF Stevens (eds). Synapses, pp. 1–87. Baltimore and London: 
+The Johns Hopkins Univ. Press.
+Curti S, O’Brien J. 2016. Characteristics and plasticity of elec-
+trical synaptic transmission. BMC Cell Biol 17:13. Suppl 1.
+Eccles JC. 1976. From electrical to chemical transmission in 
+the central nervous system. The closing address of the 
+
+

@@ -1,0 +1,802 @@
+===== Page 1 =====
+300    Part III / Synaptic Transmission
+Gray EG. 1963. Electron microscopy of presynaptic organelles 
+of the spinal cord. J Anat 97:101–106.
+Grenningloh G, Rienitz A, Schmitt B, et al. 1987. The 
+strychnine-binding subunit of the glycine receptor shows 
+homology with nicotinic acetylcholine receptors. Nature 
+328:215–220.
+Hamill OP, Bormann J, Sakmann B. 1983. Activation of 
+multiple-conductance state chloride channels in spinal 
+neurones by glycine and GABA. Nature 305:805–808.
+Hestrin S, Nicoll RA, Perkel DJ, Sah P. 1990. Analysis of 
+excitatory synaptic action in pyramidal cells using whole-
+cell recording from rat hippocampal slices. J Physiol 
+422:203–225.
+Heuser JE, Reese TS. 1977. Structure of the synapse. In: ER 
+Kandel (ed), Handbook of Physiology: A Critical, Comprehen-
+sive Presentation of Physiological Knowledge and Concepts, 
+Sect. 1 The Nervous System. Vol. 1, Cellular Biology of Neurons, 
+Part 1, pp. 261–294. Bethesda, MD: American Physiological 
+Society.
+Hollmann M, O’Shea-Greenfield A, Rogers SW, Heinemann 
+S. 1989. Cloning by functional expression of a member of 
+the glutamate receptor family. Nature 342:643–648.
+Jia H, Rochefort NL, Chen X, Konnerth A. 2010. Dendritic 
+organization of sensory input to cortical neurons in vivo. 
+Nature 464:1307–1312.
+Kayser MS, Dalmau J. 2016. Anti-NMDA receptor enceph-
+alitis, autoimmunity, and psychosis. Schizophr Res 
+176:36–40.
+Lang C, Barco A, Zablow L, Kandel ER, Siegelbaum SA, 
+Zakharenko SS. 2004. Transient expansion of synapti-
+cally connected dendritic spines upon induction of hip-
+pocampal long-term potentiation. Proc Natl Acad Sci U S A 
+101:16665–16670.
+Larkum ME, Zhu JJ, Sakmann B. 1999. A new cellular mecha-
+nism for coupling inputs arriving at different cortical lay-
+ers. Nature 398:338–341.
+Llinas R. 1988. The intrinsic electrophysiological properties 
+of mammalian neurons: insights into central nervous sys-
+tem function. Science 242:1654–1664.
+Llinas R, Sugimori M. 1980. Electrophysiological properties 
+of in vitro Purkinje cell dendrites in mammalian cerebel-
+lar slices. J Physiol 305:197–213.
+Markram H, Lubke J, Frotscher M, Sakmann B. 1997. Reg-
+ulation of synaptic efficacy by coincidence of postsynap-
+tic APs and EPSPs. Science 275:213–215.
+Morgan SL, Teyler TJ. 2001. Electrical stimuli patterned after 
+the theta-rhythm induce multiple forms of LTP. J Neuro-
+physiol 86:1289–1296.
+Palay SL. 1958. The morphology of synapses in the central 
+nervous system. Exp Cell Res Suppl 5:275–293.
+Pfeffer CK, Xue M, He M, Huang ZJ, Scanziani M. 2013. 
+Inhibition of inhibition in visual cortex: the logic of con-
+nections between molecularly distinct interneurons. Nat 
+Neurosci 16:1068–1076.
+Pritchett DB, Sontheimer H, Shivers BD, et al. 1989. Impor-
+tance of a novel GABAA receptor subunit for benzodiaz-
+epine pharmacology. Nature 338:582–585.
+Redman S. 1979. Junctional mechanisms at group Ia syn-
+apses. Prog Neurobiol 12:33–83.
+Sakmann B. 1992. Elementary steps in synaptic transmission 
+revealed by currents through single ion channels. Neuron 
+8:613–629.
+Schiller J, Schiller Y. 2001. NMDA receptor-mediated den-
+dritic spikes and coincident signal amplification. Curr 
+Opin Neurobiol 11:343–348.
+Sheng M, Hoogenraad C. 2007. The postsynaptic architecture 
+of excitatory synapses: a more quantitative view. Ann Rev 
+Biochem 76:823–847.
+Sherrington CS. 1897. The central nervous system. In: M 
+Foster (ed). A Text Book of Physiology, 7th ed. London: 
+Macmillan.
+Sobolevsky AI, Rosconi MP, Gouaux E. 2009. X-ray structure, 
+symmetry and mechanism of an AMPA-subtype gluta-
+mate receptor. Nature 462:745–756.
+Sommer B, Köhler M, Sprengel R, Seeburg PH. 1991. RNA 
+editing in brain controls a determinant of ion flow in 
+glutamate-gated channels. Cell 67:11–19.
+Stuart G, Spruston N, Häuser M (eds). 2016. Dendrites, 3rd 
+ed. Oxford, England, and New York: Oxford Univ. Press.
+Yuste R. 2010. Dendritic Spines. Cambridge, MA and London, 
+England: MIT Press.
+Yuste R, Denk W. 1995. Dendritic spines as basic functional 
+units of neuronal integration. Nature 375:682–684.
+
+
+===== Page 2 =====
+14
+Modulation of Synaptic Transmission and 
+Neuronal Excitability: Second Messengers
+Modulators Can Influence Circuit Function by Altering 
+Intrinsic Excitability or Synaptic Strength
+Multiple Neuromodulators Can Converge Onto the  
+Same Neuron and Ion Channels
+Why So Many Modulators?
+Highlights
+T
+he binding of neurotransmitter to postsyn-
+aptic receptors produces a postsynaptic poten-
+tial either directly, by opening ion channels, or 
+indirectly, by altering ion channel activity through 
+changes in the postsynaptic cell’s biochemical state. As 
+we saw in Chapters 11 to 13, the type of postsynap-
+tic action depends on the type of receptor. Activation 
+of an ionotropic receptor directly opens an ion channel 
+that is part of the receptor macromolecule itself. In con-
+trast, activation of metabotropic receptors regulates the 
+opening of ion channels indirectly through biochemi-
+cal signaling pathways; the metabotropic receptor and 
+the ion channels regulated by the receptor are distinct 
+macromolecules (Figure 14–1).
+Whereas the action of ionotropic receptors is fast 
+and brief, metabotropic receptors produce effects that 
+begin slowly and persist for long periods, ranging 
+from hundreds of milliseconds to many minutes. The 
+two types of receptors also differ in their functions. 
+Ionotropic receptors underlie fast synaptic signaling 
+that is the basis of all behaviors, from simple reflexes to 
+complex cognitive processes. Metabotropic receptors 
+The Cyclic AMP Pathway Is the Best Understood  
+Second-Messenger Signaling Cascade Initiated by  
+G Protein–Coupled Receptors
+The Second-Messenger Pathways Initiated by G Protein–
+Coupled Receptors Share a Common Molecular Logic
+A Family of G Proteins Activates Distinct Second-
+Messenger Pathways
+Hydrolysis of Phospholipids by Phospholipase C 
+Produces Two Important Second Messengers, IP3 and 
+Diacylglycerol
+Receptor Tyrosine Kinases Compose the Second Major 
+Family of Metabotropic Receptors
+Several Classes of Metabolites Can Serve as  
+Transcellular Messengers
+Hydrolysis of Phospholipids by Phospholipase A2 
+Liberates Arachidonic Acid to Produce Other  
+Second Messengers
+Endocannabinoids Are Transcellular Messengers  
+That Inhibit Presynaptic Transmitter Release
+The Gaseous Second Messenger Nitric Oxide  
+Is a Transcellular Signal That Stimulates Cyclic  
+GMP Synthesis
+The Physiological Actions of Metabotropic Receptors  
+Differ From Those of Ionotropic Receptors
+Second-Messenger Cascades Can Increase or Decrease 
+the Opening of Many Types of Ion Channels
+G Proteins Can Modulate Ion Channels Directly
+Cyclic AMP–Dependent Protein Phosphorylation  
+Can Close Potassium Channels
+Second Messengers Can Endow Synaptic Transmission  
+with Long-Lasting Consequences
+
+
+===== Page 3 =====
+302    Part III / Synaptic Transmission
+Figure 14–1  Neurotransmitter actions can be divided into 
+two groups according to the way receptor and effector 
+functions are coupled.
+A. Direct transmitter actions are produced by the binding of 
+transmitter to ionotropic receptors, ligand-gated channels in 
+which the receptor and ion channel are domains within a single 
+macromolecule. The binding of transmitter to the receptor on 
+the extracellular aspect of the receptor-channel protein directly 
+opens the ion channel embedded in the cell membrane.
+B. Indirect transmitter actions are caused by binding of trans-
+mitter to metabotropic receptors, macromolecules that are 
+separate from the ion channels they regulate. There are two 
+families of these receptors. 1. G protein–coupled receptors acti-
+vate guanosine triphosphate (GTP)-binding proteins that engage 
+a second-messenger cascade or act directly on ion channels. 
+2. Receptor tyrosine kinases initiate a cascade of protein phos-
+phorylation reactions, beginning with autophosphorylation (P) 
+of the kinase itself on tyrosine residues.
+P
+Pore
+Transmitter
+Channel
+Extracellular
+side
+A  Direct gating
+B  Indirect gating
+Cytoplasmic
+side
+1  G protein–coupled receptor
+Second-messenger
+cascade
+G protein
+Transmitter
+Gate
+2  Receptor tyrosine kinase
+Transmitter
+βγ
+α
+Second-messenger
+cascade
+modulate behaviors; they modify reflex strength, acti-
+vate motor patterns, focus attention, set emotional 
+states, and contribute to long-lasting changes in neural 
+circuits that underlie learning and memory. Metabo-
+tropic receptors are responsible for many of the actions 
+of transmitters, hormones, and growth factors. The 
+actions of these neuromodulators can produce remark-
+able and dramatic changes in neuronal excitability and 
+synaptic strength and, in so doing, can profoundly 
+alter the state of activity in an entire circuit important 
+for behavior.
+Ionotropic receptors change the membrane poten-
+tial quickly. As we have seen, this change is local at first 
+but is propagated as an action potential along the axon 
+if the change in membrane potential is suprathreshold. 
+Activation of metabotropic receptors also begins as a 
+local action that can spread to a wider region of the cell. 
+The binding of a neurotransmitter with a metabotropic 
+receptor activates proteins that in turn activate effec-
+tor enzymes. The effector enzymes then often produce 
+second-messenger molecules that can diffuse within a 
+cell to activate still other enzymes that catalyze modifi-
+cations of a variety of target proteins, greatly changing 
+their activities.
+There are two major families of metabotropic 
+receptors: G protein–coupled receptors and receptor 
+tyrosine kinases. We first describe the G protein–coupled 
+receptor family and later discuss the receptor tyrosine 
+kinase family.
+The G protein–coupled receptors are coupled to an 
+effector by a trimeric guanine nucleotide-binding pro-
+tein, or G protein (Figure 14–1B). This receptor family 
+comprises α- and β-adrenergic receptors for norepi-
+nephrine, muscarinic acetylcholine (ACh) receptors, 
+γ-aminobutyric acid B (GABAB) receptors, certain glu-
+tamate and serotonin receptors, all receptors for dopa-
+mine, receptors for neuropeptides, odorant receptors, 
+rhodopsin (the protein that reacts to light, initiating vis-
+ual signals; see Chapter 22), and many others. Many of 
+these receptors are thought to be involved in neurologi-
+cal and psychiatric diseases and are key targets for the 
+actions of important classes of therapeutic drugs.
+G protein–coupled receptors activate a variety of 
+effectors. The typical effector is an enzyme that pro-
+duces a diffusible second messenger. These second 
+messengers in turn trigger a biochemical cascade, 
+either by activating specific protein kinases that phos-
+phorylate the hydroxyl group of specific serine or 
+threonine residues in various proteins or by mobiliz-
+ing Ca2+ ions from intracellular stores, thereby initiat-
+ing reactions that change the cell’s biochemical state. In 
+some instances, the G protein or the second messenger 
+acts directly on an ion channel.
+
+
+===== Page 4 =====
+Chapter 14 / Modulation of Synaptic Transmission and Neuronal Excitability: Second Messengers    303
+The Cyclic AMP Pathway Is the  
+Best Understood Second-Messenger  
+Signaling Cascade Initiated by  
+G Protein–Coupled Receptors
+The adenosine 3′,5′-cyclic monophosphate (cyclic 
+AMP or cAMP) pathway is a prototypic example of a 
+G protein–coupled second-messenger cascade. It was 
+the first second-messenger pathway to be discovered, 
+and our conception of other second-messenger path-
+ways is based on it.
+The binding of transmitter to receptors linked to 
+the cAMP cascade first activates a specific G protein, Gs 
+(named for its action to stimulate cAMP synthesis). In its 
+resting state, Gs, like all G proteins, is a trimeric protein 
+consisting of an α-, β-, and γ-subunit. The α-subunit is 
+only loosely associated with the membrane and is usu-
+ally the agent that couples the receptor to its primary 
+effector enzyme. The β- and γ-subunits form a strongly 
+bound complex that is more tightly associated with 
+the membrane. As described later in this chapter, the 
+βγ complex of G proteins can regulate the activity of 
+certain ion channels directly.
+In the resting state, the α-subunit binds a molecule 
+of guanosine diphosphate (GDP). Upon the binding 
+of ligand, a G protein–coupled receptor undergoes a 
+conformational change that enables it to bind to the 
+α-subunit, thereby promoting the exchange of GDP 
+with a molecule of guanosine triphosphate (GTP). 
+This leads to a conformational change that causes the 
+α-subunit to dissociate from the βγ complex, thereby 
+activating the α-subunit.
+The particular class of α-subunit that is coupled to 
+the cAMP cascade is termed αs, which stimulates the 
+integral membrane protein adenylyl cyclase to cata-
+lyze the conversion of adenosine triphosphate (ATP) 
+to cAMP. When associated with the cyclase, αs also 
+acts as a GTPase, hydrolyzing its bound GTP to GDP. 
+When GTP is hydrolyzed, αs becomes inactive. It disso-
+ciates from adenylyl cyclase and reassociates with the 
+βγ complex, thereby stopping the synthesis of cAMP 
+(Figure 14–2A). A Gs protein typically remains active 
+for a few seconds before its bound GTP is hydrolyzed.
+Once a G protein–coupled receptor binds a ligand, 
+it can interact sequentially with more than one G protein 
+macromolecule. As a result, the binding of relatively few 
+molecules of transmitter to a small number of receptors 
+can activate a large number of cyclase complexes. The 
+signal is further amplified in the next step in the cAMP 
+cascade, the activation of the protein kinase.
+The major target of cAMP in most cells is the 
+cAMP-dependent protein kinase (also called pro-
+tein kinase A or PKA). This kinase, identified and 
+characterized by Edward Krebs and colleagues, is a 
+heterotetrameric enzyme consisting of a dimer of two 
+regulatory (R) subunits and two catalytic (C) subunits. 
+In the absence of cAMP, the R subunits bind to and 
+inhibit the C subunits. In the presence of cAMP, each 
+R subunit binds two molecules of cAMP, leading to a 
+conformational change that causes the R and C subunits 
+to dissociate (Figure 14–2B). Dissociation frees the C 
+subunits to transfer the γ-phosphoryl group of ATP to 
+the hydroxyl groups of specific serine and threonine 
+residues in substrate proteins. The action of PKA is ter-
+minated by phosphoprotein phosphatases, enzymes 
+that cleave the phosphoryl group from proteins, pro-
+ducing inorganic phosphate.
+Protein kinase A is distantly related through evolu-
+tion to other serine and threonine protein kinases that 
+we shall consider: the calcium/calmodulin-dependent 
+protein kinases and protein kinase C. These kinases 
+also have regulatory and catalytic domains, but both 
+domains are within the same polypeptide molecule 
+(see Figure 14–4).
+In addition to blocking enzymatic activity, the 
+regulatory subunits of PKA also target the catalytic 
+subunits to distinct sites within cells. Human PKA has 
+two types of R subunits, RI and RII, each with two sub-
+types: RIα, RIβ, RIIα, and RIIβ. The genes for each derive 
+from a common ancestor but have different properties. 
+For example, type II PKA (containing RII-type subunits) 
+is targeted to the membrane by A kinase attachment 
+proteins (AKAPs). One type of AKAP targets PKA to 
+the N-methyl-D-aspartate (NMDA)-type glutamate 
+receptor by binding both PKA and the postsynaptic 
+density protein PSD-95, which binds to the cytoplas-
+mic tail of the NMDA receptor (Chapter 13). In addi-
+tion, this AKAP also binds a protein phosphatase, 
+which removes the phosphate group from substrate 
+proteins. By localizing PKA and other signaling com-
+ponents near their substrate, AKAPs form local sign-
+aling complexes that increase the specificity, speed, 
+and efficiency of second-messenger cascades. Because 
+AKAPs have only a weak affinity for RI subunits, most 
+type I PKA is free in the cytoplasm.
+Kinases can only phosphorylate proteins on ser-
+ine and threonine residues that are embedded within 
+a context of specific phosphorylation consensus sequences 
+of amino acids. For example, phosphorylation by 
+PKA usually requires a sequence of two contiguous 
+basic amino acids—either lysine or arginine—followed  
+by any amino acid, and then by the serine or threo-
+nine residue that is phosphorylated (for example, 
+Arg-Arg-Ala-Thr).
+Several important protein substrates for PKA have 
+been identified in neurons. These include voltage-gated 
+
+
+===== Page 5 =====
+Gs protein
+βγ
+αs
+Transmitter
+Extracellular side
+Adenylyl cyclase
+A  The cAMP cycle
+B  Activation of protein kinase A
+Cytoplasmic side
+Receptor
+GDP
+Pi
+ATP
+cAMP
+P
+P
+P
+GTP
+P
+P
+P
+P
+P
+P
+P
+cAMP
+cAMP
+AMP
+Phosphodiesterase
+Regulatory
+subunit
+PKA
+Bound cAMP
+Active
+catalytic
+subunit
+Inactive
+catalytic
+subunit
++ATP
+Protein
+(inactive)
+Protein-P
+(active)
+Pi
+Cellular
+response
+Protein
+phosphatases
+P
+Figure 14–2  Activation of G protein–coupled receptors 
+stimulates cyclic adenosine monophosphate (cAMP) pro-
+duction and protein kinase A. (Adapted from Alberts et al. 
+1994.)
+A. The binding of a transmitter to certain receptors activates 
+the stimulatory G protein (Gs), consisting of αs-, β-, and 
+γ-subunits. When activated, the αs-subunit exchanges its bound 
+guanosine diphosphate (GDP) for guanosine triphosphate 
+(GTP), causing αs to dissociate from the βγ complex. Next, αs 
+associates with an intracellular domain of adenylyl cyclase, 
+thereby stimulating the enzyme to produce cAMP from adeno-
+sine triphosphate (ATP). The hydrolysis of GTP to GDP and 
+inorganic phosphate (Pi) leads to dissociation of αs from the 
+cyclase and its reassociation with the βγ complex. The cyclase 
+then stops producing the second messenger. As transmitter 
+dissociates from the receptor, the three subunits of the G pro-
+tein reassociate, and the guanine nucleotide-binding site on the 
+α-subunit is occupied by GDP.
+B. Four cAMP molecules bind to the two regulatory subunits 
+of protein kinase A (PKA), liberating the two catalytic subu-
+nits, which are then free to phosphorylate specific substrate 
+proteins on certain serine or threonine residues, thereby regu-
+lating protein function to produce a given cellular response. 
+Two kinds of enzymes regulate this pathway. Phosphodies-
+terases convert cAMP to adenosine monophosphate (which 
+is inactive), and protein phosphatases remove phosphate 
+groups (P) from the substrate proteins, releasing inorganic 
+phosphate, Pi. Phosphatase activity is, in turn, decreased by 
+the protein inhibitor-1 (not shown), when it is phosphorylated 
+by PKA.
+
+
+===== Page 6 =====
+Chapter 14 / Modulation of Synaptic Transmission and Neuronal Excitability: Second Messengers    305
+and ligand-gated ion channels, synaptic vesicle pro-
+teins, enzymes involved in transmitter biosynthesis, 
+and proteins that regulate gene transcription. As a 
+result, the cAMP pathway has widespread effects on 
+the electrophysiological and biochemical properties of 
+neurons. We shall consider some of these actions later 
+in this chapter.
+The Second-Messenger Pathways Initiated  
+by G Protein–Coupled Receptors Share a 
+Common Molecular Logic
+Approximately 3.5% of genes in the human genome 
+code for G protein–coupled receptors. Although many 
+of these are odorant receptors in olfactory neurons 
+(Chapter 29), many others are receptors for well-
+characterized neurotransmitters used throughout the 
+nervous system. Despite their enormous diversity, all 
+G protein–coupled receptors consist of a single poly-
+peptide with seven characteristic membrane-spanning 
+regions (serpentine receptors) (Figure 14–3A). Recent 
+results from X-ray crystallography have provided 
+detailed insights into the three-dimensional structure 
+of these receptors in contact with their respective G 
+proteins (Figure 14–3B).
+The number of substances that act as second mes-
+sengers in synaptic transmission is much fewer than 
+the number of transmitters. More than 100 substances 
+serve as transmitters; each can activate several types 
+of receptors present in different cells. The few second 
+messengers that have been well characterized fall into 
+two categories, intracellular and transcellular. Intra-
+cellular messengers are molecules whose actions are 
+confined to the cell in which they are produced. Tran-
+scellular messengers are molecules that can readily 
+cross the cell membrane and thus can leave the cell in 
+which they are produced to act as intercellular signals, 
+or first messengers, on neighboring cells.
+A Family of G Proteins Activates Distinct  
+Second-Messenger Pathways
+Approximately 20 types of α-subunits have been iden-
+tified, 5 types of β-subunits, and 12 types of γ-subunits. 
+G proteins with different α-subunits couple different 
+classes of receptors and effectors and therefore have 
+different physiological actions. For example, the inhib-
+itory Gi proteins, which contain the αi-subunit, inhibit 
+adenylyl cyclase and decrease cAMP levels. Other 
+G proteins (Gq/11 proteins, which contain αq- or α11-
+subunits) activate phospholipase C and probably other 
+signal transduction mechanisms not yet identified. The 
+Go protein, which contains the αo-subunit, is expressed 
+at particularly high levels in the brain, but its exact 
+targets are not known. Compared with other organs 
+of the body, the brain contains an exceptionally large 
+variety of G proteins. Even so, because of the limited 
+number of classes of G proteins compared to the much 
+larger number of receptors, one type of G protein can 
+often be activated by different classes of receptors.
+The number of known effector targets for  
+G proteins is even more limited than the types of 
+G proteins. Important effectors include certain ion 
+channels that are activated by the βγ complex, ade-
+nylyl cyclase in the cAMP pathway, phospholipase 
+C in the diacylglycerol-inositol polyphosphate path-
+way, and phospholipase A2 in the arachidonic acid 
+pathway. Each of these effectors (except for the ion 
+channels) initiates changes in specific target proteins 
+within the cell, either by generating second messen-
+gers that bind to the target protein or by activating a 
+protein kinase that phosphorylates it.
+Hydrolysis of Phospholipids by Phospholipase C 
+Produces Two Important Second Messengers,  
+IP3 and Diacylglycerol
+Many important second messengers are generated 
+through the hydrolysis of phospholipids in the inner 
+leaflet of the plasma membrane. This hydrolysis is 
+catalyzed by three enzymes—phospholipase C, D, 
+and A2—named for the ester bonds they hydrolyze 
+in the phospholipid. The phospholipases each can be 
+activated by different G proteins coupled to different 
+receptors.
+The most commonly hydrolyzed phospholipid is 
+phosphatidylinositol 4,5-bisphosphate (PIP2), which 
+typically contains the fatty acid stearate esterified 
+to the glycerol backbone in the first position and the 
+unsaturated fatty acid arachidonate in the second. 
+Activation of receptors coupled to Gq or G11 stimu-
+lates phospholipase C, which leads to the hydrolysis of 
+PIP2 (specifically the phosphodiester bond that links 
+the glycerol backbone to the polar head group) and 
+production of two second messengers, diacylglycerol 
+(DAG) and inositol 1,4,5-trisphosphate (IP3).
+Diacylglycerol, which is hydrophobic, remains in 
+the membrane when formed, where it recruits the cyto-
+plasmic protein kinase C (PKC). Together with DAG 
+and certain membrane phospholipids, PKC forms an 
+active complex that can phosphorylate many protein 
+substrates in the cell, both membrane-associated and 
+cytoplasmic (Figure 14–4A). Activation of some iso-
+forms of PKC requires elevated levels of cytoplasmic 
+Ca2+ in addition to DAG.
+
+
+===== Page 7 =====
+G protein
+Inactive
+Ras-like
+domain
+GDP
+GDP
+α-helical
+domain
+Active
+B  Interaction of receptor and G protein
+A  Typical G protein–coupled receptor
+GDP
+GTP
+P
+P
+NH2
+Asp113
+Extracellular side
+Cytoplasmic side
+Gs binding
+site
+Ser
+Ser
+HOOC
+HOOC
+NH2
+P
+P
+P
+Figure 14–3  G protein–coupled receptors contain seven 
+membrane-spanning domains.
+A. The β2-adrenergic receptor shown here is representative 
+of G protein–coupled receptors, including the β1-adrenergic 
+and muscarinic acetylcholine (ACh) receptors and rhodopsin. 
+It consists of a single subunit with an extracellular amino ter-
+minus, intracellular carboxy terminus, and seven membrane-
+spanning α-helixes. The binding site for the neurotransmitter 
+lies in a cleft in the receptor formed by the transmembrane 
+helixes. The amino acid residue aspartic acid (Asp)-113 par-
+ticipates in binding. The part of the receptor indicated in 
+brown associates with Gs protein α-subunits. Two serine (Ser) 
+residues in the intracellular carboxy-terminal tail are sites for 
+phosphorylation by specific receptor kinases, which helps 
+inactivate the receptor. (Adapted, with permission, from  
+Frielle et al. 1989.)
+B. Models based on X-ray crystal structures of the β2-
+adrenergic receptor (blue) interacting with the Gs protein in 
+the inactive guanosine diphosphate (GDP)-bound state and 
+the active guanosine triphosphate (GTP)-bound state. A high-
+affinity synthetic agonist is bound in the transmembrane region 
+near the extracellular surface of the membrane (space-filling 
+model). The αs-, β-, and γ-subunits of the inactive Gs protein 
+are shown in brown, cyan, and purple, respectively. In the 
+active state, αs (gold) undergoes a conformational change that 
+enables it to interact with adenylyl cyclase. (Adapted, with per-
+mission, from Kobilka 2013. Copyright © 2013 Wiley-VCH Verlag 
+GmbH & Co. KGaA, Weinheim.)
+
+
+===== Page 8 =====
+Chapter 14 / Modulation of Synaptic Transmission and Neuronal Excitability: Second Messengers    307
+Figure 14–4  Hydrolysis of phospholipids in the cell mem-
+brane activates three major second-messenger cascades.
+A. The binding of transmitter to a receptor activates a G protein 
+that activates phospholipase Cβ (PLCβ). This enzyme cleaves 
+phosphatidylinositol 4,5-bisphosphate (PIP2) into the second 
+messengers inositol 1,4,5-trisphosphate (IP3) and diacylglycerol 
+(DAG). IP3 is water soluble and diffuses into the cytoplasm, 
+where it binds to the IP3 receptor-channel on the smooth endo-
+plasmic reticulum, thereby releasing Ca2+ from internal stores. 
+DAG remains in the membrane, where it recruits and activates 
+protein kinase C (PKC). Membrane phospholipid is also a nec-
+essary cofactor for PKC activation. Some isoforms of PKC also 
+require Ca2+ for activation. PKC is composed of a single protein 
+molecule that has both a regulatory domain that binds DAG 
+and a catalytic domain that phosphorylates proteins on serine 
+or threonine residues. In the absence of DAG the regulatory 
+domain inhibits the catalytic domain.
+B. The calcium/calmodulin-dependent protein kinase is  
+activated when Ca2+ binds to calmodulin and the calcium/ 
+calmodulin complex then binds to a regulatory domain of the 
+kinase. The kinase is composed of many similar subunits (only 
+one of which is shown here), each having both regulatory and 
+catalytic functions. The catalytic domain phosphorylates  
+proteins on serine or threonine residues. (ATP, adenosine 
+triphosphate; C, catalytic subunit; COOH, carboxy terminus; 
+H2N, amino terminus; R, regulatory subunit.)
+C
+C
+R
+C
+R
+IP3
+A  Protein kinase C
+Receptor Transmitter
+DAG
+Ca2+
+R
+PKC
+DAG
+HOOC
+H2N
+Ca2+
+Smooth
+endoplasmic
+reticulum
+HOOC
+H2N
+Calmodulin
+Phosphoprotein
+Cellular
+response
+Substrate protein
++
+ATP
+Phosphoprotein
+Response
+Substrate protein
++
+ATP
+B  Ca2+/calmodulin-dependent protein kinase
+G protein
+Ca2+
+Ca2+
+βγ
+GTP P
+P
+P
+PLCβ
+α
+PIP2
+IP3
+IP3 receptor
+R
+C
+The second product of the phospholipase C path-
+way, IP3, stimulates the release of Ca2+ from intracel-
+lular membrane stores in the lumen of the smooth 
+endoplasmic reticulum. The membrane of the reticu-
+lum contains a large integral membrane macromole-
+cule, the IP3 receptor, which forms both a receptor for 
+IP3 on its cytoplasmic surface and a Ca2+ channel that 
+spans the membrane of the reticulum. When this mac-
+romolecule binds IP3, the channel opens, releasing Ca2+ 
+into the cytoplasm (Figure 14–4A).
+The increase in intracellular Ca2+ triggers many bio-
+chemical reactions and opens calcium-gated channels 
+
+
+===== Page 9 =====
+308    Part III / Synaptic Transmission
+in the plasma membrane. Calcium can also act as a 
+second messenger to trigger the release of additional 
+Ca2+ from internal stores by binding to another inte-
+gral protein in the membrane of the smooth endo-
+plasmic reticulum, the ryanodine receptor (so called 
+because it binds the plant alkaloid ryanodine, which 
+inhibits the receptor; in contrast, caffeine opens the 
+ryanodine receptor). Like the IP3 receptor to which 
+it is distantly related, the ryanodine receptor forms 
+a Ca2+ channel that spans the reticulum membrane; 
+however, cytoplasmic Ca2+, not IP3, opens the ryano-
+dine receptor-channel.
+Calcium often acts by binding to the small cyto-
+plasmic protein calmodulin. An important function of 
+the calcium/calmodulin complex is to activate calcium/
+calmodulin-dependent protein kinase (CaM kinase). This 
+enzyme is a complex of many similar subunits, each con-
+taining both regulatory and catalytic domains within the 
+same polypeptide chain. When the calcium/calmodulin 
+complex is absent, the C-terminal regulatory domain of 
+the kinase binds and inactivates the catalytic portion. 
+Binding to the calcium/calmodulin complex causes con-
+formational changes of the kinase molecule that unfet-
+ter the catalytic domain for action (Figure 14–4B). Once 
+activated, CaM kinase can phosphorylate itself through 
+intramolecular reactions at many sites in the molecule. 
+Autophosphorylation has an important functional effect: 
+It converts the enzyme into a form that is independent 
+of calcium/calmodulin and therefore persistently active, 
+even in the absence of Ca2+.
+Persistent activation of protein kinases is a gen-
+eral and important mechanism for maintaining bio-
+chemical processes that underlie long-term changes 
+in synaptic function associated with certain forms of 
+memory. In addition to the persistent activation of  
+calcium/calmodulin-dependent protein kinase, PKA 
+can also become persistently active following a pro-
+longed increase in cAMP because of a slow enzymatic 
+degradation of free regulatory subunits through the 
+ubiquitin pathway. The decline in regulatory subunit 
+concentration results in the long-lasting presence of 
+free catalytic subunits, even after cAMP levels have 
+declined, leading to the continued phosphorylation of 
+substrate proteins. PKC can also become persistently 
+active through proteolytic cleavage of its regulatory 
+and catalytic domains or through the expression of a 
+PKC isoform that lacks a regulatory domain. Finally, 
+the duration of phosphorylation can be enhanced by 
+certain proteins that act to inhibit the activity of phos-
+phoprotein phosphatases. One such protein, inhibi-
+tor-1, inhibits phosphatase activity only when the 
+inhibitor is itself phosphorylated by PKA.
+Receptor Tyrosine Kinases Compose  
+the Second Major Family of  
+Metabotropic Receptors
+The receptor tyrosine kinases represent a distinct family 
+of receptors from the G protein–coupled receptors. The 
+receptor tyrosine kinases are integral membrane pro-
+teins composed of a single subunit with an extracellu-
+lar ligand-binding domain connected to a cytoplasmic 
+region by a single transmembrane segment. The cyto-
+plasmic region contains a protein kinase domain that 
+phosphorylates both itself (autophosphorylation) and 
+other proteins on tyrosine residues (Figure 14–5A). 
+This phosphorylation results in the activation of a 
+large number of proteins, including other kinases that 
+are capable of acting on ion channels.
+Receptor tyrosine kinases are activated when 
+bound by peptide hormones, including epidermal 
+growth factor (EGF), fibroblast growth factor (FGF), 
+nerve growth factor (NGF), brain-derived neurotrophic 
+factor (BDNF), and insulin. Cells also contain impor-
+tant nonreceptor cytoplasmic tyrosine kinases, such 
+as the protooncogene src. These nonreceptor tyrosine 
+kinases are often activated by interactions with recep-
+tor tyrosine kinases and are important in regulating 
+growth and development.
+Many (but not all) of the receptor tyrosine kinases 
+exist as monomers in the plasma membrane in the 
+absence of ligand. Ligand binding causes two mono-
+meric receptor subunits to form a dimer, thereby 
+activating the intracellular kinase. Each monomer 
+phosphorylates its counterpart at a tyrosine residue, an 
+action that enables the kinase to phosphorylate other 
+proteins. Like the serine and threonine protein kinases, 
+tyrosine kinases regulate the activity of neuronal pro-
+teins they phosphorylate, including the activity of 
+certain ion channels. Tyrosine kinases also activate an 
+isoform of phospholipase C, phospholipase Cγ, which 
+like PLCβ cleaves PIP2 into IP3 and DAG.
+Receptor tyrosine kinases initiate cascades of reac-
+tions involving several adaptor proteins and other 
+protein kinases that often lead to changes in gene tran-
+scription. The mitogen-activated protein kinases (MAP 
+kinases) are an important group of serine-threonine 
+kinases that can be activated by a signaling cascade ini-
+tiated by receptor tyrosine kinase. MAP kinases are acti-
+vated by cascades of protein-kinase reactions (kinase 
+kinases), each cascade specific to one of three types 
+of MAP kinase: extracellular signal-regulated kinase 
+(ERK), p38 MAP kinase, and c-Jun N-terminal kinase 
+(JNK). Activated MAP kinases have several important 
+actions. They translocate to the nucleus where they 
+
+

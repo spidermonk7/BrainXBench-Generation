@@ -1,0 +1,948 @@
+===== Page 1 =====
+204    Part II / Cell and Molecular Biology of Cells of the Nervous System
+does not. A true resistor responds to a step change in 
+current with a similar step change in voltage, but the 
+neuron’s membrane potential rises and decays more 
+slowly than the step change in current because of its 
+capacitance (Figure 9–10).
+To understand how the capacitance slows down 
+the voltage response, recall that the voltage across a 
+capacitor is proportional to the charge stored on the 
+capacitor. To alter the voltage, charge Q must be added 
+to or removed from the capacitor C:
+ΔV = ΔQ/C.
+To change the charge across the capacitor (the 
+membrane lipid bilayer), there must be current across 
+the capacitor (Ic). Since current is the flow of charge per 
+unit time (Ic = ΔQ/Δt), the change in voltage across a 
+capacitor is a function of the magnitude and duration 
+of the current:
+ΔV = Ic · Δt/C.
+Thus, the magnitude of the change in voltage across 
+a capacitor in response to a current pulse depends on 
+the duration of the current, because time is required to 
+deposit and remove charge from the capacitor.
+If the membrane had only resistive properties, 
+a step pulse of outward current would change the 
+membrane potential instantaneously. Conversely, if 
+the membrane had only capacitive properties, the 
+membrane potential would change linearly with time 
+∆Vm
+a
+b
+63% ∆Vm
+τ
+Im
+Ii
+Ic
+Ic
+Ii
+Im
+Out
+In
+Time
+0
+Figure 9–10  The rate of change in the membrane potential 
+is slowed by the membrane capacitance. The upper plot 
+shows the response of the membrane potential (ΔVm) to a step 
+current pulse (Im). The shape of the actual voltage response 
+(red line) combines the properties of a purely resistive element 
+(dashed line a) and a purely capacitive element (dashed line 
+b). The time taken to reach 63% of the final voltage defines 
+the membrane time constant, τ. The lower plot shows the two 
+elements of the total membrane current (Im) during the current 
+pulse: the ionic current (Ii) across the resistive elements of the 
+membrane (ion channels) and the capacitive current (Ic).
+in response to the same step of current. Because the 
+membrane has both capacitive and resistive properties 
+in parallel, the actual change in membrane potential 
+combines features of the two pure responses. The ini-
+tial slope of the change reflects a purely capacitive ele-
+ment, whereas the final slope and amplitude reflect a 
+purely resistive element (Figure 9–10, upper plot).
+In the simple case of the spherical cell body of a 
+neuron, the time course of the potential change is 
+described by the following equation:
+ΔVm (t) = ImRm(1 − e–t/τ),
+where e is the base of the system of natural logarithms 
+with a value of approximately 2.72, and τ is the mem-
+brane time constant, given by the product of the mem-
+brane resistance and capacitance (RmCm). The time 
+constant can be measured experimentally as the time 
+it takes the membrane potential to rise to 1 − 1/e, or 
+approximately 63% of its steady-state value (Figure 9–10, 
+upper plot). Typical values of τ for neurons range from 
+20 to 50 ms. We shall return to the time constant in 
+Chapter 13 where we consider the temporal summa-
+tion of synaptic inputs in a cell.
+Membrane and Cytoplasmic Resistance Affect  
+the Efficiency of Signal Conduction
+So far, we have considered the effects of the passive 
+properties of neurons on signaling only within the cell 
+body. Distance is not a factor in the propagation of a 
+signal in the neuron’s soma because the cell body can 
+be approximated as a sphere whose membrane voltage 
+is uniform. However, a subthreshold voltage signal 
+traveling along extended structures (dendrites, axons, 
+and muscle fibers) decreases in amplitude with dis-
+tance from the site of initiation because some charge 
+leaks out of the resting membrane conductance as it 
+flows along the dendrite or axon. To show how this 
+attenuation occurs, we will consider how the geometry 
+of a neuron influences the distribution of current.
+If current is injected into a dendrite at one point, 
+how will the membrane potential change along its 
+length? For simplicity, consider how membrane poten-
+tial varies with distance after a constant-amplitude cur-
+rent pulse has been on for some time (t >> τ). Under 
+these conditions, the membrane capacitance is fully 
+charged, so membrane potential reaches a steady value. 
+The variation of the potential with distance depends 
+on the fraction of charge that leaks out of the dendrite 
+compared to the fraction that flows inside the dendrite 
+towards the soma. Since charge flows along the path of 
+least resistance, this depends on the relative values of 
+the membrane resistance in a unit length of dendrite rm 
+
+
+===== Page 2 =====
+Chapter 9 / Membrane Potential and the Passive Electrical Properties of the Neuron    205
+Figure 9–11  The change in membrane potential along a 
+neuronal process during electrotonic conduction decreases 
+with distance.
+A. Current injected into a neuronal process by a microelectrode 
+follows the path of least resistance to the return electrode in 
+the extracellular fluid. (The thickness of the arrows represents 
+the magnitude of membrane current.)
+B. The change in Vm decays exponentially with distance from 
+the site of current injection. The distance at which ΔVm has 
+decayed to 37% of its value at the point of current injection 
+defines the length constant, λ.
+(units of Ω · cm) and the axial resistance per unit length 
+of dendrite ra (units of Ω/cm). The change in membrane 
+potential along the dendrite becomes smaller with dis-
+tance from the current electrode (Figure 9–11A). This 
+decay with distance is exponential and expressed by
+ΔV(x) = ΔV0 e–x /λ,
+where λ is the membrane length constant, x is the dis-
+tance from the site of current injection, and ΔV0 is the 
+change in membrane potential produced by the cur-
+rent at the site of injection (x = 0). The length constant 
+is the distance along the dendrite to the site where ΔVm 
+has decayed to 1/e, or 37% of its initial value (Figure 
+9–11B). It is a measure of the efficiency of electrotonic 
+conduction—the passive spread of voltage changes 
+along the neuron—and is determined by the values of 
+membrane and axial resistance as follows:
+r
+r
+(
+/ ).
+m
+a
+λ =
+The better the insulation of the membrane (that is, 
+the greater rm) and the better the conducting properties 
+Current generator
+A
+B
+Extracellular
+electrode
+∆Vm
+0
+Distance (x)
+λ
+100%
+37%
+of the inner core (the lower ra), the greater the length 
+constant of the dendrite. That is because current is able 
+to spread farther along the inner conductive core of the 
+dendrite before leaking across the membrane at some 
+point x to alter the local membrane potential:
+ΔV(x) = i(x) · rm.
+The length constant is also a function of the diam-
+eter of the neuronal process. Neuronal processes vary 
+greatly in diameter, from as much as 1 mm for the 
+squid giant axon to 1 μm for fine dendritic branches 
+in the mammalian brain. For neuronal processes with 
+similar ion channel surface densities (number of chan-
+nels per unit membrane area) and cytoplasmic compo-
+sition, thicker axons and dendrites have longer length 
+constants than do narrower processes and hence can 
+transmit passive electrical signals for greater distances. 
+Typical values for neuronal length constants for unmy-
+elinated axons range from about 0.5 to 1.0 mm. Myeli-
+nated axons have longer length constants—up to about 
+1.5 mm—because the insulating properties of myelin 
+lead to an increase in the effective rm of the axon.
+To understand how the diameter of a process 
+affects the length constant, we must consider how the 
+diameter (or radius) affects rm and ra. Both rm and ra 
+are measures of resistance for a unit length of a neu-
+ronal process of a given radius. The axial resistance 
+ra of the process depends inversely on the number of 
+charge carriers (ions) in a cross section of the process. 
+Therefore, given a fixed cytoplasmic ion concentration, 
+ra depends inversely on the cross-sectional area of the 
+process 1/(π · radius2). The resistance of a unit length 
+of membrane rm depends inversely on the total number 
+of channels in a unit length of the neuronal process.
+Channel density, the number of channels per μm2 
+of membrane, is often similar among different-sized 
+processes. As a result, the number of channels per unit 
+length of a neuronal process increases in direct propor-
+tion to increases in membrane area, which depends 
+on the circumference of the process times its length; 
+therefore, rm varies as 1/(2 · π · radius). Because rm/ra 
+varies in direct proportion to the radius of the process, 
+the length constant is proportional to the square root 
+of the radius. In this analysis, we have assumed that 
+dendrites have only passive electrical properties. As 
+discussed in Chapter 13, however, voltage-gated ion 
+channels endow most dendrites with active properties 
+that modify their purely passive length constants.
+The efficiency of electrotonic conduction has two 
+important effects on neuronal function. First, it influ-
+ences spatial summation, the process by which syn-
+aptic potentials generated in different regions of the 
+
+
+===== Page 3 =====
+206    Part II / Cell and Molecular Biology of Cells of the Nervous System
+neuron are added together at the trigger zone of the 
+axon (Chapter 13). Second, electrotonic conduction is a 
+factor in the propagation of the action potential. Once 
+the membrane at any point along an axon has been 
+depolarized beyond threshold, an action potential is 
+generated in that region. This local depolarization 
+spreads passively down the axon, causing successive 
+adjacent regions of the membrane to reach the thresh-
+old for generating an action potential (Figure 9–12). 
+Thus, the depolarization spreads along the length of the 
+axon by local current driven by the difference in poten-
+tial between the active and resting regions of the axon 
+membrane. In axons with longer length constants, local 
+current spreads a greater distance down the axon, and 
+therefore, the action potential propagates more rapidly.
+Large Axons Are More Easily Excited  
+Than Small Axons
+The influence of axonal geometry on action poten-
+tial conduction plays an important role in a common 
+neurological exam. In the examination of a patient for 
+A
+2
+3
+1
+2
+3
+1
+Direction of 
+propagation
+Distance
++50 mV
+–60 mV
+0 mV
++50 mV
+–60 mV
+0 mV
+Vm
+B
+Vm
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
++
+–
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
++
+–
++
+–
++
+– –
++
+–
++
+–
++
+–
++
+–
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
++
+–
++
+–
++
+–
++
+–
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
+–
+–
++
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+Figure 9–12  Electrotonic conduction contrib-
+utes to propagation of the action potential.
+A. An action potential propagating from right to 
+left causes a difference in membrane potential 
+between two adjacent regions of the axon. The 
+difference creates a local-circuit current that 
+causes the depolarization to spread passively. 
+Current spreads from the more positive active 
+region (2) to the less positive resting region 
+ahead of the action potential (1), as well as to 
+the less positive area behind the action potential 
+(3). However, because there is also an increase 
+in membrane K+ conductance in the wake of the 
+action potential (Chapter 10), the buildup of posi-
+tive charge along the inner side of the membrane 
+in area 3 is more than balanced by the local 
+efflux of K+, allowing this region of membrane to 
+repolarize.
+B. A short time later, the action potential has 
+traveled down the axon and the process is 
+repeated.
+diseases of peripheral nerves, the nerve often is stim-
+ulated by passing current between a pair of external 
+cutaneous electrodes placed over the nerve, and the 
+population of resulting action potentials (the compound 
+action potential) is recorded farther along the nerve 
+by a second pair of cutaneous voltage-recording elec-
+trodes. In this situation, the total number of axons that 
+generate action potentials varies with the amplitude of 
+the current pulse (Chapter 57).
+To drive a cell to threshold, a stimulating current 
+from the positive electrode must pass through the cell 
+membrane into the axon. There it travels along the 
+axoplasmic core, eventually exiting the axon into the 
+extracellular fluid through the membrane to reach 
+the second (negative) electrode. However, most of 
+the stimulating current does not even enter the axon, 
+moving instead through neighboring axons or through 
+the low-resistance pathway of the extracellular fluid. 
+Thus, the axons into which current enters most easily 
+are the ones most excitable.
+In general, axons with the largest diameter have 
+the lowest threshold for such excitation. The greater the 
+
+
+===== Page 4 =====
+Chapter 9 / Membrane Potential and the Passive Electrical Properties of the Neuron    207
+diameter of the axon, the lower is the axial resistance to 
+the flow of current down the axon because the number 
+of charge carriers (ions) per unit length of the axon is 
+greater. Because more current enters the larger axon, 
+the axon is depolarized more efficiently than a smaller 
+axon. For these reasons, larger axons are recruited at 
+low values of current; axons with smaller diameter are 
+recruited only at relatively greater current strengths.
+The fact that larger axons conduct more rapidly 
+and have a lower current threshold for excitation aids 
+in the interpretation of clinical nerve-stimulation tests. 
+Neurons that convey different types of information 
+(eg, motor versus sensory) often differ in axon diame-
+ter and thus conduction velocity (Chapter 18). In addi-
+tion, a specific disease may preferentially affect certain 
+functional classes of axons. Thus, using conduction 
+velocity as a criterion to determine which classes of 
+axons have defective conduction properties can help 
+one infer the neuronal basis for the neurological deficit.
+Passive Membrane Properties and Axon Diameter 
+Affect the Velocity of Action Potential Propagation
+The passive spread of depolarization during conduc-
+tion of the action potential is not instantaneous. In fact, 
+electrotonic conduction is a rate-limiting factor in the 
+propagation of the action potential. We can understand 
+this limitation by considering a simplified equivalent 
+circuit of two adjacent segments of axon membrane 
+connected by a segment of axoplasm.
+An action potential generated in one segment of 
+membrane supplies depolarizing current to the adja-
+cent membrane, causing it to depolarize gradually 
+toward threshold (Figure 9–12). According to Ohm’s 
+law, the larger the axoplasmic resistance, the smaller 
+is the current between adjacent membrane segments 
+(I = V/R) and thus the longer it takes to change the 
+charge on the membrane capacitance of the adjacent 
+segment.
+Recall that, since ΔV = ΔQ/C, the membrane poten-
+tial changes slowly if the current is small because ΔQ, 
+equal to the magnitude of the current multiplied by 
+time, changes slowly. Similarly, the larger the membrane 
+capacitance, the more charge must be deposited on the 
+membrane to change the potential across the membrane, 
+so the current requires a longer time to produce a given 
+depolarization. Therefore, the time it takes for depolari-
+zation to spread along the axon is determined by both 
+the axial resistance ra and the capacitance per unit length 
+of the axon cm (units F/cm). The rate of passive spread 
+of charge varies inversely with the product racm. If this 
+product is reduced, the rate of passive spread increases 
+and the action potential propagates faster.
+Rapid propagation of the action potential is func-
+tionally important, and two adaptations have evolved to 
+increase it. One is an increase in the diameter of the axon 
+core. Because ra decreases in proportion to the square of 
+axon diameter, whereas cm increases in direct proportion 
+to diameter, the net effect of an increase in diameter is a 
+decrease in racm. This adaptation has been carried to an 
+extreme in the giant axon of the squid, which can reach a 
+diameter of 1 mm. No larger axons have evolved, presum-
+ably because of the competing need to keep neuronal size 
+small so that many cells can be packed into a limited space.
+The second adaptation that increases conduction 
+velocity is the wrapping of a myelin sheath around an 
+axon (Chapter 7). This process is functionally equivalent 
+to increasing the thickness of the axonal membrane by 
+as much as 100-fold. Because the capacitance of a par-
+allel-plate capacitor such as the membrane is inversely 
+proportional to the thickness of the insulation, myeli-
+nation decreases cm and thus racm. Each layer of myelin 
+is extremely thin—only 80 Å. Therefore, myelination 
+results in a proportionately much greater decrease in 
+racm than does the same increase in the diameter of a 
+bare axon core, because the many layers of membrane 
+in the myelin sheath produce a large decrease in cm with 
+a relatively small increase in overall axon diameter. For 
+this reason, conduction in myelinated axons is faster 
+than in nonmyelinated axons of the same diameter.
+In a neuron with a myelinated axon, the action poten-
+tial is triggered at the nonmyelinated initial segment 
+of the axon. The inward current through this region of 
+membrane is available to discharge the capacitance of the 
+myelinated axon ahead. Even though the capacitance of 
+the axon is quite small (because of the myelin insulation), 
+the amount of current down the core of the axon from the 
+trigger zone is not enough to discharge the capacitance 
+along the entire length of the myelinated axon.
+To prevent the action potential from dying out, 
+the myelin sheath is interrupted every 1 to 2 mm by 
+the nodes of Ranvier, bare patches of axon membrane 
+approximately 1 μm in length (Chapter 7). Although the 
+area of membrane at each node is quite small, the nodal 
+membrane is rich in voltage-gated Na+ channels and 
+thus can generate an intense depolarizing inward Na+ 
+current in response to the passive spread of depolariza-
+tion down the axon. These regularly distributed nodes 
+thus periodically boost the amplitude of the action 
+potential, preventing it from decaying with distance.
+The action potential, which spreads quite rapidly 
+along the internodal region because of the low capaci-
+tance of the myelin sheath, slows down as it crosses 
+the high-capacitance region of each bare node. Conse-
+quently, as the action potential moves down the axon, it 
+jumps quickly from node to node (Figure 9–13A). For this 
+
+
+===== Page 5 =====
+208    Part II / Cell and Molecular Biology of Cells of the Nervous System
+Internode
+Myelin
+Node of
+Ranvier
+Demyelinated region
+A  Normal axon
+Distance along axon
+Time between stimulus and
+arrival of action potential
+Nodal
+region
+Na+ channels
+K+ channels
+B  Demyelinated axon
+Figure 9–13  Action potentials in myelinated nerves are 
+regenerated at the nodes of Ranvier.
+A. The densities of capacitive and ionic membrane currents 
+(membrane current per unit area of membrane) are much 
+higher at the nodes of Ranvier than in the myelin-insulated 
+internodal regions. (The density of membrane current at 
+any point along the axon is represented by the thickness of 
+the arrows.) Because of the higher capacitance of the axon 
+membrane at the nodes, the action potential slows down as 
+it approaches each node and thus appears to skip rapidly from 
+node to node as it propagates from left to right.
+B. In regions of the axon that have lost their myelin, the  
+spread of the action potential is slowed down or blocked. The 
+local-circuit currents must discharge a larger membrane capaci-
+tance, and because of the shorter length constant (caused by 
+the low membrane resistance in demyelinated stretches of 
+axon), they do not spread as well down the axon. In response 
+to demyelination, additional voltage-gated Na+ and K+ ion 
+channels are inserted into the membrane that is normally 
+myelinated.
+reason, the action potential in a myelinated axon is said 
+to move by saltatory conduction (from the Latin saltare, to 
+jump). Because ions flow across the membrane only at 
+the nodes in myelinated fibers, saltatory conduction is 
+also favorable from a metabolic standpoint. Less energy 
+must be expended by the Na+-K+ pump to restore the Na+ 
+and K+ concentration gradients, which tend to run down 
+as the action potential is propagated.
+The distribution of conduction velocities varies 
+widely among neurons and even between different 
+branches of an axon, depending on axon diameter 
+and degree of myelination. Additional geometric fea-
+tures of myelinated axons, such as internodal length 
+and nodal diameter, can also affect velocity. Evolu-
+tion has adapted conduction velocities to optimize 
+the behavioral functions of each neuron. In general, 
+axons that are involved in rapid sensory and motor 
+computations generally have high rates of conduc-
+tion. More specifically, in certain neural circuits in 
+the auditory system, an optimal behavioral response 
+depends on the precise temporal relationship of pre-
+synaptic action potentials in two pathways that con-
+verge on the same postsynaptic neuron (Chapter 28). 
+In such cases, values of the geometrical parameters 
+of myelinated axons in the two input pathways can 
+result in different conduction velocities that compen-
+sate for the differences in the input path lengths.
+Various diseases of the nervous system are 
+caused by demyelination, such as multiple sclerosis 
+and Guillain-Barré syndrome. As an action potential 
+goes from a myelinated region to a bare stretch of 
+demyelinated axon, it encounters a region of rela-
+tively high cm and low rm. The inward current gener-
+ated at the node just before the demyelinated segment 
+may be too small to provide the capacitive current 
+required to depolarize the segment of demyelinated 
+membrane to threshold. In addition, this local-circuit 
+current does not spread as far as it normally would 
+because it encounters a segment of axon that has a 
+relatively short length constant resulting from its low 
+rm (Figure 9–13B). These two factors can combine to 
+slow, and in some cases actually block, the conduc-
+tion of action potentials, causing devastating effects 
+on behavior (Chapter 57).
+Highlights
+  1.  When the cell is at rest, passive fluxes of ions into 
+and out of the cell through ion channels are bal-
+anced, such that the charge separation across the 
+membrane remains constant and the membrane 
+potential is maintained at its resting value.
+
+
+===== Page 6 =====
+Chapter 9 / Membrane Potential and the Passive Electrical Properties of the Neuron    209
+  2.  The permeability of the cell membrane for an ion 
+species is proportional to the number of open 
+channels that allow passage of that ion. Accord-
+ing to the Goldman equation, the value of the 
+resting membrane potential in nerve cells is 
+determined by resting channels that conduct K+, 
+Cl−, and Na+; the membrane potential is closest 
+to the equilibrium (Nernst) potential of the ion 
+or ions with the greatest membrane permeability.
+  3.  Changes in membrane potential that generate 
+neuronal electrical signals (action potentials, 
+synaptic potentials, and receptor potentials) are 
+caused by changes in the membrane’s relative 
+permeabilities to these three ions and to Ca2+ ions.
+  4.  Although the changes in permeability caused 
+by the opening of gated ion channels change the 
+net charge separation across the membrane, they 
+typically produce only negligible changes in the 
+bulk concentrations of ions.
+  5.  The functional properties of a neuron can be 
+described by an electrical equivalent circuit, 
+which includes the membrane capacitance, the 
+ionic conductances, the EMF–generating proper-
+ties of ion channels, and cytoplasmic resistance. 
+In this model, membrane potential is determined 
+by the ion or ions with the greatest membrane 
+conductances.
+  6.  Ion pumps prevent the ionic batteries from run-
+ning down due to passive fluxes through the 
+ion channels. The Na+-K+ pump uses the chemi-
+cal energy of one molecule of ATP to exchange 
+three intracellular Na+ ions for two extracellular 
+K+ ions, an example of primary active transport. 
+Secondary active transport by cotransporters is 
+powered by coupling the downhill ionic gradi-
+ents of one or two types of ions to drive the uphill 
+transport of another ion. The coupling may take 
+the form of symtransport (in the same direction) 
+or antitransport (opposite directions).
+  7.  The Na+-Ca2+ antitransporter exchanges inter-
+nal Ca2+ ion for external Na+ ions. There are two 
+types of Cl− cotransporters in the cell membrane. 
+The Cl−-K+ symtransporter, which transports Cl− 
+and K+ out of the cell, maintains ECl at a relatively 
+negative potential, and is the most common vari-
+ant of Cl− transporter found in mature neurons. 
+The Cl−-Na+-K+ symtransporter, which transports 
+Cl–, Na+, and K+ into the cell, generates an ECl that 
+is relatively positive. It is expressed in immature 
+neurons and in certain adult neurons.
+  8.  The details of the molecular transitions during 
+primary and secondary active transport are an 
+area of active investigation.
+  9.  The nerve cell membrane has a relatively high 
+capacitance per unit of membrane area. As a 
+result, when a channel opens and ions begin 
+to flow, the membrane potential changes more 
+slowly than the membrane current.
+10.  The currents that change the charge on the mem-
+brane capacitance along the length of an axon 
+or dendrite pass through a relatively poor con-
+ductor—a thin column of cytoplasm. These two 
+factors combine to slow down the conduction of 
+voltage signals. Moreover, the various ion chan-
+nels that are open at rest and that give rise to the 
+resting potential also degrade the signaling func-
+tion of the neuron, as they make the cell leaky 
+and limit how far a signal can travel passively.
+11.  To overcome the physical constraints on long-
+distance signaling, neurons use sequential 
+transient opening of voltage-gated Na+ and K+ 
+channels to generate action potentials. The action 
+potential is continually regenerated along the 
+axon and thus conducted without attenuation.
+12.  For pathways in which rapid signaling is particu-
+larly important, conduction of the action poten-
+tial is enhanced by myelination of the axon, an 
+increase in axon diameter, or both. Conduction 
+velocities can vary between or within axons in 
+ways that optimize the timing of neuronal sig-
+nals within a neuronal circuit.
+John D. Koester  
+Steven A. Siegelbaum 
+Selected Reading
+Clausen MV, Hilbers F, Poulsen H. 2017. The structure and 
+function of the Na,K-ATPase isoforms in health and dis-
+ease. Front Physiol 8:371.
+Hille B. 2001. Ionic Channels of Excitable Membranes, 3rd ed. 
+Sunderland, MA: Sinauer.
+Hodgkin AL. 1964. Saltatory conduction in myelinated nerve. 
+In: The Conduction of the Nervous Impulse. The Sherrington 
+Lecture, VII, pp. 47–55. Liverpool: Liverpool University Press.
+Jack JB, Noble D, Tsien RW. 1975. Electric Current Flow in 
+Excitable Cells, pp. 1–4, 83–97, 131–224, 276–277. Oxford: 
+Clarendon.
+Johnston D, Wu M-S. 1995. Functional properties of den-
+drites. In: Foundations of Cellular Neurophysiology, pp. 55–120. 
+Cambridge, MA: MIT Press.
+Koch C. 1999. Biophysics of Computation, pp. 25–48. New York: 
+Oxford Univ. Press.
+
+
+===== Page 7 =====
+210    Part II / Cell and Molecular Biology of Cells of the Nervous System
+References
+Debanne D, Campanac E, Bialowas A, Carlier E, Alcaraz G. 
+2011. Axon physiology. Physiol Rev 91:555–602.
+Ford MC, Alexandrova O, Cossell L, et al. 2015. Tuning of  
+Ranvier node and internode properties in myelinated axons 
+to adjust action potential timing. Nat Commun 6:8073.
+Friedrich T, Tavraz NN, Junghans C. 2016. ATP1A2 mutations 
+in migraine: seeing through the facets of an ion pump onto 
+the neurobiology of disease. Front Physiol 7:239.
+Gadsby DC. 2009. Ion channels versus ion pumps: the 
+principal difference, in principle. Nat Rev Mol Cell Biol 
+10:344–352.
+Goldman DE. 1943. Potential, impedance, and rectification in 
+membranes. J Gen Physiol 27:37–60.
+Hodgkin AL, Katz B. 1949. The effect of sodium ions on the 
+electrical activity of the giant axon of the squid. J Physiol 
+108:37–77.
+Hodgkin AL, Rushton WAH. 1946. The electrical con-
+stants of a crustacean nerve fibre. Proc R Soc Lond Ser B 
+133:444–479.
+Huxley AF, Stämpfli R. 1949. Evidence for saltatory con-
+duction in peripheral myelinated nerve fibres. J Physiol 
+108:315–339.
+Jorgensen PL, Hakansson KO, Karlish SJ. 2003. Structure and 
+mechanism of Na,K-ATPase: functional sites and their 
+interactions. Annu Rev Physiol 65:817–849.
+Kaila K, Price T, Payne J, Puskarjov M, Voipio J. 2014. Cation-
+chloride cotransporters in neuronal development, plastic-
+ity and disease. Nat Rev Neurosci 15:637–654.
+Lytton J. 2007. Na+/Ca2+ exchangers: three mammalian gene 
+families control Ca2+ transport. Biochem J 406:365–382.
+Moore JW, Joyner RW, Brill MH, Waxman SD, Najar-Joa M. 
+1978. Simulations of conduction in uniform myelinated 
+fibers: relative sensitivity to changes in nodal and inter-
+nodal parameters. Biophys J 21:147–160.
+Nernst W. [1888] 1979. Zur Kinetik der in Lösung befindli-
+chen Körper. [On the kinetics of substances in solution.] 
+Z Physik Chem 2:613–622, 634–637. English translation 
+in: GR Kepner (ed). 1979. Cell Membrane Permeability and 
+Transport, pp. 174–183. Stroudsburg, PA: Dowden, 
+Hutchinson & Ross.
+Ren D. 2011. Sodium leak channels in neuronal excitability 
+and rhythmic behaviors. Neuron 72:899–911.
+Seidl AH, Rubel EW, Barría A. 2014. Differential conduction 
+velocity regulation in ipsilateral and contralateral collat-
+erals innervating brainstem coincidence detector neurons. 
+J Neurosci 34:4914–4919.
+Stokes DL, Green NM. 2003. Structure and function of the cal-
+cium pump. Annu Rev Biophys Biomol Struct 32:445–468.
+Toyoshima C, Flemming F. 2013. New crystal structures of 
+PII-type ATPases: excitement continues. Curr Op Struct 
+Biol 23:507–514.
+
+
+===== Page 8 =====
+10
+Propagated Signaling: The Action Potential
+N
+erve cells are able to carry  electrical 
+signals over long distances because the 
+long-distance signal, the action potential, is 
+continually regenerated and thus does not attenuate as 
+it moves down the axon. In Chapter 9, we saw how an 
+action potential arises from sequential changes in the 
+membrane’s permeability to Na+ and K+ ions and how 
+the membrane’s passive properties influence the speed 
+at which the action potential is conducted. In this 
+chapter, we describe in detail the voltage-gated ion 
+channels that are critical for generating and propagat-
+ing action potentials and consider how these channels 
+are responsible for important features of a neuron’s 
+electrical excitability.
+Action potentials have four properties impor-
+tant for neuronal signaling. First, they can be initi-
+ated only when the cell membrane voltage reaches 
+a threshold. As we saw in Chapter 9, in many nerve 
+cells, the membrane behaves as a simple resistor in 
+response to small hyperpolarizing or depolarizing 
+current steps. The membrane voltage changes in a 
+graded manner as a function of the size of the cur-
+rent step according to Ohm’s law, ΔV = ΔI · R (in 
+terms of conductance, ΔV = ΔI/G). However, as 
+the size of the depolarizing current increases, the 
+membrane voltage will eventually reach a thresh-
+old, typically at around −50 mV, at which an action 
+potential can be generated (see Figure 9–2C). Second, 
+the action potential is an all-or-none event. The size 
+and shape of an action potential initiated by a large 
+depolarizing current is the same as that of an action 
+potential evoked by a current that just surpasses the 
+The Action Potential Is Generated by the Flow of Ions 
+Through Voltage-Gated Channels
+Sodium and Potassium Currents Through Voltage-Gated 
+Channels Are Recorded With the Voltage Clamp
+Voltage-Gated Sodium and Potassium Conductances  
+Are Calculated From Their Currents
+The Action Potential Can Be Reconstructed From the 
+Properties of Sodium and Potassium Channels
+The Mechanisms of Voltage Gating Have Been Inferred  
+From Electrophysiological Measurements
+Voltage-Gated Sodium Channels Select for Sodium on the 
+Basis of Size, Charge, and Energy of Hydration  
+of the Ion
+Individual Neurons Have a Rich Variety of  
+Voltage-Gated Ion Channels That Expand  
+Their Signaling Capabilities
+The Diversity of Voltage-Gated Channel Types is 
+Generated by Several Genetic Mechanisms
+Voltage-Gated Sodium Channels
+Voltage-Gated Calcium Channels
+Voltage-Gated Potassium Channels
+Voltage-Gated Hyperpolarization-Activated Cyclic 
+Nucleotide-Gated Channels
+Gating of Ion Channels Can Be Controlled by  
+Cytoplasmic Calcium
+Excitability Properties Vary Between Types of Neurons
+Excitability Properties Vary Between Regions  
+of the Neuron
+Neuronal Excitability Is Plastic
+Highlights
+
+
+===== Page 9 =====
+212    Part II / Cell and Molecular Biology of Cells of the Nervous System
+threshold.1 Third, the action potential is conducted 
+without decrement. It has a self-regenerative feature 
+that keeps the amplitude constant, even when it is con-
+ducted over great distances. Fourth, the action poten-
+tial is followed by a refractory period. For a brief time 
+after an action potential is generated, the neuron’s abil-
+ity to fire a second action potential is suppressed. The 
+refractory period limits the frequency at which a nerve 
+can fire action potentials, and thus limits the information-
+carrying capacity of the axon.
+These four properties of the action potential—
+initiation threshold, all-or-none amplitude, conduc-
+tion without decrement, and refractory period—are 
+unusual for biological processes, which typically 
+respond in a graded fashion to changes in the envi-
+ronment. Biologists were puzzled by these properties 
+for almost 100 years after the action potential was first 
+recorded in the mid-1800s. Finally, in the late 1940s 
+and early 1950s, studies of the membrane properties of 
+the giant axon of the squid by Alan Hodgkin, Andrew 
+Huxley, and Bernard Katz provided the first quantita-
+tive insight into the mechanisms underlying the action 
+potential.
+The Action Potential Is Generated by the Flow 
+of Ions Through Voltage-Gated Channels
+An important early insight into how action potentials 
+are generated came from an experiment performed by 
+Kenneth Cole and Howard Curtis that predated the 
+studies by Hodgkin, Huxley, and Katz. While record-
+ing from the giant axon of the squid, they found that the 
+conductance of the membrane increases dramatically 
+during the action potential (Figure 10–1). This discov-
+ery provided evidence that the action potential results 
+from a dramatic increase in the ion permeability of the 
+cell membrane. It also raised two central questions: 
+Which ions are responsible for the action potential, and 
+how is the permeability of the membrane regulated?
+Hodgkin and Katz provided a key insight into 
+this problem by demonstrating that the amplitude of 
+the action potential is reduced when the external Na+ 
+Figure 10–1  The action potential results from an increase in 
+ion conductance of the axon membrane. This historic record-
+ing from an experiment conducted in 1939 by Kenneth Cole 
+and Howard Curtis shows the oscilloscope record of an action 
+potential superimposed on a simultaneous record of axonal 
+membrane conductance.
+Action potential
+Membrane conductance
+1The all-or-none property describes an action potential that is gener-
+ated under a specific set of conditions. The size and shape of the 
+action potential can be affected by changes in membrane proper-
+ties, ion concentrations, temperature, and other variables, as dis-
+cussed later in the chapter. The shape can also be affected slightly 
+by the current that is used to evoke it, if measured near the point of 
+stimulation.
+concentration is lowered, indicating that Na+ influx is 
+responsible for the rising phase of the action potential. 
+They proposed that depolarization of the cell above the 
+threshold for an action potential causes a brief increase 
+in the cell membrane’s Na+ conductance, during which 
+the Na+ conductance overwhelms the K+ conductance 
+that predominates in the cell at rest, thereby driving 
+the membrane potential towards ENa. Their data also 
+suggested that the falling phase of the action potential 
+was caused by a later increase in K+ permeability.
+Sodium and Potassium Currents Through  
+Voltage-Gated Channels Are Recorded  
+With the Voltage Clamp
+This insight of Hodgkin and Katz raised a further ques-
+tion. What mechanism is responsible for regulating the 
+changes in the Na+ and K+ permeabilities of the mem-
+brane? Hodgkin and Andrew Huxley reasoned that 
+the Na+ and K+ permeabilities were regulated directly 
+by the membrane voltage. To test this hypothesis, they 
+systematically varied the membrane potential in the 
+squid giant axon and measured the resulting changes 
+in the conductance of voltage-gated Na+ and K+ chan-
+nels. To do this, they made use of a new apparatus, the 
+voltage clamp, developed by Kenneth Cole.
+Prior to the availability of the voltage-clamp tech-
+nique, attempts to measure Na+ and K+ conductance 
+as a function of membrane potential had been lim-
+ited by the strong interdependence of the membrane 
+potential and the gating of Na+ and K+ channels. For 
+example, if the membrane is depolarized sufficiently 
+to open some voltage-gated Na+ channels, the influx 
+of Na+ through these channels causes further depolari-
+zation. The additional depolarization causes still more 
+
+

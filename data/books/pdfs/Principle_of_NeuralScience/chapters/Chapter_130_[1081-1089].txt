@@ -1,0 +1,832 @@
+===== Page 1 =====
+1036    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Liver
+Nucleus of the
+solitary tract
+Long-term signals
+Pancreas
+Fat
+mass
+Short-term signals
+A  Maintenance of energy balance
+B
+Blood
+Blood
+Hypothalamus
+B
+Vagus
+nerve
+Cervical spine
+SNS afferents
+GLP-1
+PYY
+CCK
+Ghrelin
+Insulin
+Leptin
+Satiety
+Hunger
+AgRP
+POMC
+VGLUT2
+Arcuate
+nucleus
+Hypothalamus
+MC4R
+GABA
+AgRP
+Glutamate
+–
++
+NPY
+αMSH
+Hunger
+promoting
+Satiety 
+promoting
+PVH satiety neuron
+Lateral parabrachial nucleus
+
+
+===== Page 2 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1037
+Figure 41–14  (Opposite) Neural and endocrine components 
+combine to regulate energy balance.
+A. Short-term signals. During meals, cholecystokinin (CCK) 
+from the intestinal tract stimulates sensory fibers of the vagus 
+nerve, thus promoting satiation (meal termination). Glucagon-
+like peptide-1 (GLP-1) and peptide YY (PYY), also released by 
+the intestinal tract, appear to work on both sensory fibers of 
+the vagus and neurons in the brain. The vagal sensory fibers, 
+along with sympathetic fibers from the gut and orosensory 
+information, converge in the nucleus of the solitary tract (NTS). 
+Prior to mealtime, release of ghrelin from the stomach peaks, 
+providing a blood-borne signal to neurons in the brain. Whereas 
+CCK promotes satiety, ghrelin promotes eating.
+   Long-term signals. Leptin and insulin are among the humoral 
+signals that inform the brain about the status of the fat stores. 
+Leptin is produced in fat-storing cells, whereas insulin is pro-
+duced in the pancreas. Both hormones are sensed by recep-
+tors in the arcuate nucleus of the hypothalamus as well as by 
+receptors in the NTS. Leptin and insulin reduce food intake and 
+increase energy expenditure. (Abbreviation: SNS, sympathetic 
+nervous system.)
+B. Neurons in the arcuate nucleus that synthesize agouti-
+related peptide (AgRP), proopiomelanocortin (POMC), and 
+vesicular glutamate transporter 2 (VGLUT2) project to the 
+paraventricular nucleus of the hypothalamus (PVH) where they 
+control hunger and satiety. Satiety-promoting POMC neurons 
+release the processed POMC peptide, α-melanocyte stimulat-
+ing hormone (αMSH), which binds to melanocortin-4 receptors 
+(MC4R) on neurons in the PVH. Activation of these neurons 
+causes satiety. In contrast, the hunger-promoting AgRP neu-
+rons release two inhibitory transmitters, γ-aminobutyric acid 
+(GABA) and neuropeptide Y (NPY), and the MC4R antagonist 
+AgRP. Their combined effect is to inhibit the MC4R-expressing 
+neurons, causing hunger. The MC4R-expressing neurons also 
+receive direct excitatory input from another population of arcu-
+ate neurons, VGLUT2 neurons, which also promote satiety. The 
+binding of αMSH to MC4R causes satiety by two mechanisms: 
+by directly activating the PVH-MC4R neurons and by upregulat-
+ing excitatory transmission from the arcuate VGLUT2 neurons 
+to the PVH-MC4R neurons (blue arrows). Finally, PVH-MC4R 
+neurons project to the lateral parabrachial nucleus where they 
+promote satiety.
+rather, they simply have leptin levels that exceed the 
+maximally effective concentration.
+POMC, AgRP, and MC4R Neurons Are Key Nodes in the 
+Afferent/Efferent Loop
+Neuron-specific 
+manipulation 
+technologies 
+have 
+revealed two antagonistic populations of neurons in 
+the arcuate nucleus that control energy balance: one 
+expresses agouti-related peptide (AgRP) and the other 
+the precursor polypeptide proopiomelanocortin (POMC) 
+(Figure 41–14B). POMC neurons decrease hunger and 
+stimulate sympathetically driven energy expenditure; 
+AgRP neurons do the opposite. POMC neurons release 
+the processed peptide α-melanocyte-stimulating hor-
+mone (αMSH), which activates the melanocortin-4 
+receptor (MC4R), a G protein–coupled receptor.
+The downstream MC4R-expressing neurons that 
+control hunger lie within the PVH. When these MC4R 
+neurons are excited by αMSH released from POMC 
+afferents, hunger is decreased. The PVH-MC4R “sati-
+ety neurons” are glutamatergic; they decrease hunger 
+via their excitatory projections to the lateral parabra-
+chial nucleus.
+The MC4R-expressing neurons that control energy 
+expenditure are sympathetic preganglionic neurons in 
+the spinal cord. POMC neurons project to these sites, 
+in addition to the PVH, increasing sympathetically 
+driven energy expenditure.
+The AgRP neurons increase hunger in part by 
+opposing the actions of POMC neurons (Figure 41–14B). 
+They release three factors: AgRP, an inverse agonist of 
+MC4R, and neuropeptide Y and γ-aminobutyric acid 
+(GABA), two inhibitory transmitters. The AgRP neu-
+rons project to and inhibit the PVH-MC4R satiety neu-
+rons and directly inhibit POMC neurons. In addition, 
+different subsets of arcuate AgRP neurons project to 
+other sites, including the lateral hypothalamus and the 
+bed nucleus of the stria terminalis. These sites, when 
+inhibited by AgRP inputs, can also stimulate hunger.
+A third group of neurons in the arcuate nucleus 
+express VGLUT2, release glutamate, and act in parallel 
+with POMC neurons to induce satiety (Figure 41–14B). 
+Like POMC neurons, and opposite to AgRP neurons, 
+they excite the PVH-MC4R satiety neurons. αMSH/
+MC4R signaling in PVH-MC4R neurons causes satiety 
+by two mechanisms: by directly activating the PVH-
+MC4R satiety neurons and by upregulating excitatory 
+transmission from the VGLUT2 neurons to the PVH-
+MC4R neurons via postsynaptic facilitation.
+The importance of the POMC, AgRP, and PVH-
+MC4R satiety neurons in regulating food intake is 
+supported by a number of compelling findings. First, 
+fasting activates AgRP neurons and inhibits POMC 
+neurons, while feeding or leptin treatment does the 
+opposite. The downstream PVH-MC4R satiety neu-
+rons are inhibited by fasting and excited by feeding. 
+Second, genetic deficiency of the POMC protein or 
+MC4R causes massive obesity. Third, genetic ablation 
+of AgRP neurons in mice causes starvation, while stim-
+ulation of AgRP neurons rapidly brings about extreme 
+hyperphagia, even in mice that are calorically replete 
+and otherwise sated. Finally, several findings impli-
+cate the PVH-MC4R satiety neurons as an important 
+
+
+===== Page 3 =====
+1038    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+downstream target of AgRP and POMC neurons. 
+Most notable are the development of marked hyper-
+phagia and obesity in mice genetically engineered to 
+lack MC4R neurons in the PVH and the induction of 
+intense feeding following optogenetic stimulation of 
+AgRP terminals in the PVH, which inhibits the satiety 
+neurons.
+Surprisingly, environmental cues that predict 
+future ingestion of food induce inhibition of AgRP 
+neurons. Indeed, in fasted mice, which have high 
+AgRP neuron activity, presentation of food alone with-
+out ingestion decreases AgRP neuron firing. This is 
+roughly analogous to rapid, feedforward inhibition 
+of vasopressin secretion and thirst neuron activity 
+(mentioned previously). Thus, in addition to receiv-
+ing strong bottom-up feedback signals from the body, 
+the hunger-promoting AgRP neurons also receive top-
+down feedforward information from the environment. 
+The function of this input is not yet clear, but it could 
+serve as an anticipatory signal to limit future ingestion 
+of excessive calories, or as discussed below, it could 
+serve as a reward-related signal to motivate feeding.
+Finally, the complete pathway accounting for reg-
+ulation of hunger by the AgRP and POMC neuron → 
+PVH pathway is presently unknown. It is likely that, 
+via relays through a number of synapses, it affects neu-
+ronal activity in pathways controlling reward as well 
+as perception. This is the case because, in the fasted 
+state, food and cues predictive of food are both more 
+rewarding and much more likely to become the focus of 
+attention. How specificity for a given goal—in this case 
+food—is retained as neural information flows from the 
+highly specific deficiency-regulated homeostatic neu-
+rons in the hypothalamus to the “nonspecific” reward 
+and perception pathways in the accumbens and cortex 
+is one of the great mysteries of motivated behaviors 
+such as hunger and thirst. The solution could provide 
+clues for disorders of motivated behavior like drug 
+addiction.
+Psychological Concepts Are Used to Explain Motivational 
+Drives Such as Hunger
+In a simplified stimulus–response view of behavior, 
+one might assume that neural detection of water or 
+energy deficiency (the stimulus) is hardwired to motor 
+pathways for drinking or eating (the response), and thus 
+analogous to the knee-jerk stretch reflex (Chapter 3). 
+However, this cannot be the case because the responses 
+that can be employed to obtain food, all motivated by 
+the deficiency stimulus, are remarkably varied and 
+complex—to such a degree that they could not be 
+hardwired. Indeed, animals can complete an infinite 
+number of complex operant learning tasks to obtain 
+water or food rewards.
+The challenge to understanding motivational 
+drive is to devise a model that accounts for the ability 
+of deprivation states to induce behavior that is remark-
+ably varied and complex, while remaining completely 
+specific for one goal. Two compelling theories are rel-
+evant. According to incentive motivation theory, defi-
+ciency increases the reward value of food and water. 
+Drive reduction theory posits that deficiency generates 
+an aversive state, the resolution of which is thought 
+to motivate behavior. Notably, these two views are 
+not mutually exclusive and may in some ways be two 
+sides of the same coin.
+Incentive Motivation: Fasting Increases the Reward Value 
+of Food.  The incentive motivation theory is the work 
+of theorists over many years, most recently refined 
+by Frederick Toates and Kent Berridge. Consider eat-
+ing and the hunger drive. Briefly, food is viewed as 
+inherently rewarding. Through learned associations, 
+cues and tasks related to obtaining food also become 
+rewarding; in this way, varied and complex behavioral 
+responses are learned (Figure 41–15A).
+The theory posits that the deprivation state 
+increases the reward value of food and of the related 
+cues and tasks (ie, their incentive salience). Thus, 
+during fasting, the reward value is increased, and all 
+food and cues and tasks related to food are extremely 
+rewarding. After a meal, the reward value is decreased, 
+and only the most inherently palatable foods, for exam-
+ple, ice cream, are still sufficiently rewarding to be 
+eaten. The task of neuroscientists is to determine how 
+deprivation increases reward value. Experimental acti-
+vation of AgRP neurons in an otherwise sated mouse 
+dramatically increases the reward value of food—
+remarkably, the reward value of food is increased to 
+the same extremely high level seen with fasting.
+Drive Reduction: Activity of AgRP Hunger Neurons Can Be 
+Aversive.  As we know from personal experience, the 
+behavioral states created by dehydration and caloric 
+deficiency, namely thirst and hunger, are unpleasant. 
+It was originally proposed many years ago that reduc-
+tion of these states, which relieves this discomfort, is 
+rewarding and hence motivates drinking and feeding. 
+Recently, Scott Sternson’s group has provided compel-
+ling new support for a modified version of this model 
+(Figure 41–15B). Using a behavioral conditioning para-
+digm such as the place preference test, they discovered 
+that optogenetic activation of AgRP neurons in sated 
+mice was aversive. When the same mice were then stud-
+ied in a food-deprived state (which is associated with 
+
+
+===== Page 4 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1039
+Figure 41–15  Two theories of how fasting promotes eating.
+A. Incentive motivation. Food is inherently rewarding, and 
+different foods have different reward values (lettuce–low, ice 
+cream–high). Through learned associations, cues that predict 
+food become rewarding. The fed (sated) versus fasted state 
+sets the gain determining how rewarding food and food cues 
+are. Fasting greatly increases while the sated state decreases 
+reward value.
+B. Drive reduction. The feeling of hunger is aversive. Eating 
+reduces this aversive state. Consistent with this theory, experi-
+mental stimulation of hunger-promoting agouti-related peptide 
+(AgRP) neurons is aversive, while stimulation of satiety-promoting 
+paraventricular nucleus of the hypothalamus melanocortin-4 
+receptors (MC4R) neurons (which are downstream of the AgRP 
+and proopiomelanocortin [POMC] neurons) in an otherwise 
+hungry mouse creates a pleasant feeling.
+A  Incentive motivation
+B  Drive reduction
+Fasting
+AgRP
+neurons
+POMC
+neurons
+AgRP
+neurons
+POMC
+neurons
+Hunger
+Hunger
+External Stimuli
+Food
+(unconditioned stimuli)
+The brain
+Reward value?
+Motivational
+state
+(hunger)
+Cues predictive of food
+(conditioned stimuli)
+Fasted
+Sated
+Behavior
+Eating
+Seeking food 
+Seeking food 
+Eating
+The body
+Caloric deﬁciency
+Reward value
+(signals from the 
+body adjust gain)
+AgRP neurons
+Aversive
++
++
+–
++
+Rewarding
+increased AgRP neuron activity), they engaged in behav-
+iors that in the earlier conditioning had lowered AgRP 
+neuron activity—in short, they acted as if motivated to 
+turn off the AgRP neuron–induced aversive state. Similar 
+results were obtained with thirst neurons in the SFO.
+In further support of this view, optogenetic acti-
+vation of downstream PVH-MC4R satiety neurons 
+in calorically deprived mice, but not in sated mice, is 
+emotionally positive (ie, the mice like it). Thus, caus-
+ing satiety when otherwise hungry is pleasant. In total, 
+these findings provide strong evidence for the view that 
+homeostatic deficiency is unpleasant, that the aversive 
+state is caused by activation of deficiency-responsive 
+homeostatic neurons, and that when afflicted by the 
+deficiency-induced aversive state animals engage in 
+behaviors that they associate with relief.
+This model provides an explanation for why diet-
+ing is so difficult. It generates an aversive, unpleasant 
+state that can only be relieved by eating. Finally, the 
+rapid reduction in AgRP neuron activity in response 
+to sensory cues that predict food, and the alleviation 
+of the aversive state that this should cause, could func-
+tion as a rewarding “teaching signal” that motivates 
+pursuit of the goal (food).
+Sexually Dimorphic Regions in the 
+Hypothalamus Control Sex, Aggression, and 
+Parenting
+Now we turn to behaviors that are not homeostatic, 
+but are controlled by the hypothalamus, involve inte-
+gration between sensory cues and signals from the 
+body (ie, gonadal steroids), and are critical for survival 
+of the species.
+
+
+===== Page 5 =====
+1040    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Figure 41–16  Sexually dimorphic neural structures com-
+prise highly interconnected behavioral circuits. Hypotha-
+lamic and amygdalar nuclei that regulate sexually dimorphic 
+behaviors are extensively interconnected. These areas pro-
+cess pheromonal information, and subsets of adult neurons 
+within each of these regions express sex hormone receptors; 
+neurons within some of these regions (blue) also express 
+aromatase. (Abbreviations: BNSTmpm, medial division  
+of the posteromedial bed nucleus of the stria terminalis;  
+MeA, medial amygdala; PAG, periaqueductal gray; PMV, 
+ventral premammillary nucleus; POA, preoptic hypothalamus; 
+VMHvl, ventrolateral component of the ventromedial hypo-
+thalamus.) (Reproduced, with permission, from Yang and Shah 
+2014. Copyright © 2014 Elsevier Inc.)
+Males and females differ in their sexual, aggres-
+sive, and parenting behaviors. These differences are 
+especially notable in animals, for example in mice, 
+where they are clearly hardwired (ie, require no prior 
+training). These differences include mounting and lor-
+dosis by males and females, respectively; territorial-
+related behaviors such as marking and aggression by 
+males; and the tendency toward nurturing in females 
+versus aggressive behavior in males when dealing 
+with the young. The latent capacity for these sexu-
+ally dimorphic behaviors is the product of sex steroid 
+action on the brain during embryogenesis (Chapter 51). 
+Full actualization of adult sex-specific behaviors also 
+requires adult levels of gonadal steroids. Sex chromo-
+some–specific genes, other than Sry, which causes male 
+sex determination, as well as genes that are imprinted 
+in a sexually dimorphic way, also subtly modulate sex-
+specific behaviors independent of gonadal steroids. 
+Ultimately, the behaviors themselves are triggered by 
+cues from the environment, such as pheromones.
+Two regions of the hypothalamus are critically 
+involved in the control of these behaviors, the POA and 
+the ventral lateral aspect of the ventromedial hypotha-
+lamic nucleus (vlVMH). Both sites are sexually dimor-
+phic: The POA contains more neurons in males, and 
+the vlVMH contains more progesterone-expressing 
+neurons in females. These sites are heavily intercon-
+nected, and they receive strong input from two other 
+sexually dimorphic areas outside the hypothalamus: 
+the medial division of the posteromedial bed nucleus 
+of the stria terminalis (BNSTmpm) and medial amyg-
+dala (MeA).
+Sexual Behavior and Aggression Are Controlled by 
+the Preoptic Hypothalamic Area and a Subarea of 
+the Ventromedial Hypothalamic Nucleus
+Brain lesion studies have demonstrated that the sexu-
+ally dimorphic brain regions—the accessory olfac-
+tory bulb, BNSTmpm, MeA, and particularly POA 
+and vlVMH—play important roles in sex-specific 
+behaviors. Neurons in these regions are highly inter-
+connected, are downstream of pathways involved in 
+detecting and responding to pheromones (BNSTmpm 
+and MeA), express sex hormone receptors, and, with 
+the exception of neurons in the vlVMH, also express 
+aromatase (Figure 41–16). Neurons in both the POA 
+and vlVMH send strong projections to the lateral peri-
+aqueductal gray area, which is thought to mediate and 
+coordinate the motor and autonomic aspects of sexual 
+and aggressive behavior.
+The vlVMH plays a critical role in controlling 
+sexually dimorphic behaviors. Firing rates of vlVMH 
+neurons in male mice increase during mating or peri-
+ods of aggression toward a male intruder. Stimula-
+tion of these neurons triggers intense attack behavior 
+toward intruder males and toward atypical targets 
+for male aggression such as castrated males, females, 
+or even rubber gloves! Silencing these neurons elimi-
+nates aggressive behavior toward male intruders. 
+BNSTmpm
+POA
+VMHvl
+PMV
+MeA
+PAG
+
+
+===== Page 6 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1041
+Furthermore, stimulation of a subset of vlVMH neu-
+rons that express estrogen receptor evokes either sex-
+ual behavior (mounting) or aggression, depending on 
+the number of neurons activated and their degree of 
+activation: Lower levels of activation induce mount-
+ing, whereas higher levels induce aggression. Con-
+sistent with these results, genetic ablation of related 
+progesterone receptor–expressing vlVMH neurons 
+causes loss of both sexual behavior and aggression in 
+males and loss of sexual behavior in females. Thus, it is 
+clear that sex neurons in the vlVMH-expressing steroid 
+receptors play a critical role in driving sexual behavior 
+in males and females and aggression in males.
+Parental Behavior Is Controlled by the Preoptic 
+Hypothalamic Area
+Nurturing parental behavior is key to the survival of 
+one’s offspring. Male rodents demonstrate strikingly 
+different patterns of behavior. Males can be nurturing 
+or hostile to offspring, even to the point of infanticide, 
+depending on whether they view the offspring as their 
+own or those of another male. Female mice, on the 
+other hand, are generally nurturing.
+Social interaction between mouse pups and appro-
+priately receptive adult female and male mice, but 
+not hostile adult male mice, induces activity in sub-
+sets of galanin-expressing neurons in the POA. These 
+offspring-activated neurons are largely distinct from 
+POA neurons activated by mating. Genetic ablation of 
+galanin-expressing POA neurons prevents nurturing 
+parental behavior, even to the point of inducing unchar-
+acteristic aggression in females toward their offspring. 
+On the other hand, stimulation of these galanin-positive 
+neurons in males, which are normally extremely hostile 
+to unrelated pups, decreases aggression and induces 
+nurturing pup grooming. Thus, neurons in the POA, in 
+addition to controlling sexual behavior itself, also play a 
+role in ensuring survival of the fruit of sexual behavior.
+Highlights
+  1.  The hypothalamus and the autonomic and 
+neuroendocrine motor systems coordinate and 
+control body homeostasis by inducing adaptive 
+behaviors; by controlling glands, smooth muscle, 
+cardiac muscle, and adipocytes; and by releasing 
+hormones from the pituitary gland.
+  2.  Homeostatic control of body temperature, fluid 
+and electrolyte balance, and blood pressure 
+allows organisms to function under harsh envi-
+ronmental conditions.
+  3.  Feedback loops that sense temperature, osmo-
+larity, blood pressure, and body fat are essential 
+for homeostatic control. The combined action of 
+multiple feedback-informed sensory-afferent/
+efferent-effector control loops results in emergent 
+settling points.
+  4.  Modality-specific hypothalamic neurons link 
+specific interoceptive sensory feedback with out-
+puts that control adaptive behaviors and physi-
+ologic responses. In addition to feedback, these 
+modality-specific neurons also receive feedfor-
+ward information regarding future anticipated 
+homeostatic challenges.
+  5.  The autonomic motor system contains neurons 
+located in sympathetic, parasympathetic, and 
+enteric ganglia located near the spinal column 
+or embedded within peripheral targets. Func-
+tional subsets of autonomic neurons selectively 
+innervate effector tissues comprised of smooth 
+muscle, cardiac muscle, glandular epithelia, and 
+adipocytes.
+  6.  Sympathetic neurons are activated in response to 
+exercise and stress. Parasympathetic and sympa-
+thetic neurons generally have antagonistic func-
+tions, but often act in concert. The enteric system 
+coordinates peristaltic contractions of the gastro-
+intestinal tract with mucosal function and local 
+blood flow.
+  7.  Preganglionic neurons that control the sympa-
+thetic and parasympathetic outflows are located 
+in the spinal cord and brain stem.
+  8.  Acetylcholine, norepinephrine, and neuropep-
+tide cotransmitters act as synaptic signaling mol-
+ecules in the autonomic motor system. Excitatory 
+fast synaptic transmission in autonomic ganglia 
+is mediated by acetylcholine acting on nicotinic 
+receptors. G protein–coupled receptors in ganglia 
+mediate additional pre- and postsynaptic excita-
+tory and inhibitory effects. G protein–coupled 
+receptors mediate transmitter actions at auto-
+nomic neuroeffector junctions.
+  9.  The neuroendocrine system links the hypo-
+thalamus, via the pituitary gland, to various 
+physiologic responses in the body. The posterior 
+pituitary contains hypothalamic axon terminals 
+that release two neurohormones into the blood: 
+Vasopressin stimulates water reabsorption by 
+the kidney, while oxytocin controls uterine con-
+traction and milk release. The anterior pituitary 
+contains endocrine cells that secrete hormones 
+in response to factors released by hypothalamic 
+neurons. These anterior pituitary hormones con-
+trol the thyroid gland, glucocorticoid secretion 
+
+
+===== Page 7 =====
+1042    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+by the adrenal cortex, sex steroid secretion by the 
+gonads, lactation, and linear growth.
+10.  Body temperature is detected in multiple sites 
+including the periphery, in and around major 
+organs, and in the brain. Constancy of body 
+temperature is maintained by multiple thermo-
+receptor-afferent/thermoeffector-efferent control 
+loops.
+11.  Some neurons in the lamina terminalis are acti-
+vated by both dehydration and loss of intravas-
+cular volume. Key parameters sensed in these 
+deficiency states include osmolarity and angio-
+tensin II levels, respectively. When these neurons 
+are activated, they cause thirst and release of vas-
+opressin from the posterior pituitary. Vasopressin 
+release is also rapidly regulated in a feedforward 
+fashion by cues that anticipate future distur-
+bances in osmolarity.
+12.  Energy balance involves short-term and long-
+term feedback signals. Short-term signals from 
+the gut mediate satiation, which terminates 
+meals. CCK, released by intestinal endocrine 
+cells, plays a key role in satiation. A key long-
+term signal is leptin, which is secreted by adipo-
+cytes in proportion to the amount of fat stores. 
+When fat stores are low, the consequent low lev-
+els of leptin signal the brain to induce a hunger 
+state and to decrease energy expenditure, result-
+ing in replenished fat stores.
+13.  Leptin is more effective in defending against low 
+fat stores than in resisting obesity.
+14.  POMC-, AgRP-, and MC4R-expressing neurons 
+in the hypothalamus are key nodes in the afferent/
+efferent loop controlling energy balance. Neurons 
+that signal satiety are activated by satiety-promoting 
+POMC neurons and inhibited by hunger-promoting 
+AgRP neurons.
+15.  How specificity for a given goal (eg, food) is 
+retained as neural information flows from the 
+highly specific deficiency-regulated homeo-
+static neurons in the hypothalamus to the “non-
+specific” reward and perception pathways in 
+the accumbens and cortex is one of the great 
+mysteries of motivated behaviors such as hun-
+ger and thirst. Solving this could provide clues 
+for disorders of motivated behavior like drug 
+addiction.
+16.  Leptin regulates hunger and energy expenditure 
+in part by activating POMC neurons and inhib-
+iting AgRP neurons. Hunger-promoting AgRP 
+neurons are also rapidly regulated in a feed-
+forward fashion by cues that anticipate future 
+changes in energy balance.
+17.  Motivational drives such as hunger have been 
+explained by two mechanisms: The deficiency 
+state (starvation) increases the reward value of 
+food, or deficiency generates an aversive state, 
+the resolution of which motivates behavior.
+18.  Sexually dimorphic regions in the hypothalamus 
+control sexual behavior and aggression. Neural 
+activity in the sexually dimorphic preoptic area 
+controls parental behavior. Full actualization of 
+adult sex-specific behaviors also requires adult 
+levels of gonadal steroids.
+ Bradford B. Lowell 
+  Larry W. Swanson 
+  John P. Horn 
+Selected Reading
+Andermann ML, Lowell BB. 2017. Towards a wiring diagram 
+understanding of appetite control. Neuron 95:757–778.
+Berridge KC. 2004. Motivation concepts in behavioral neuro-
+science. Physiol Behav 81:179–209.
+Bourque CW. 2008. Central mechanisms of osmosensa-
+tion and systemic osmoregulation. Nat Rev Neurosci 
+9:519–531.
+Clarke IJ. 2015. Hypothalamus as an endocrine organ. Compr 
+Physiol 5:217–253.
+Dulac C, O’Connell LA, Wu Z. 2014. Neural control of mater-
+nal and paternal behaviors. Science 345:765–770.
+Guyenet PG. 2006. The sympathetic control of blood pres-
+sure. Nat Rev Neurosci 7:335–346.
+Jænig, W. 2006. The Integrative Action of the Autonomic Nervous 
+System. Cambridge, England: Cambridge Univ. Press.
+Leib DE, Zimmerman CA, Knight ZA. 2016. Thirst. Curr Biol 
+26:R1260–R1265.
+Morrison SF. 2016. Central control of body temperature. 
+F1000Res 5:F1000.
+Morton GJ, Meek TH, Schwartz MW. 2014. Neurobiology 
+of food intake in health and disease. Nat Rev Neurosci 
+15:367–378.
+Romanovsky AA. 2007. Thermoregulation: some concepts 
+have changed. Functional architecture of the thermoregu-
+latory system. Am J Physiol Regul Integr Comp Physiol 
+292:R37–R46.
+Rosenbaum M, Leibel RL. 2014. 20 years of leptin: role of 
+leptin in energy homeostasis in humans. J Endocrinol 
+223:T83–T96.
+Yang CF, Shah NM. 2014. Representing sex in the brain, one 
+module at a time. Neuron 82:261–278.
+
+
+===== Page 8 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1043
+References
+Ahima RS, Prabakaran D, Mantzoros C, et al. 1996. Role of 
+leptin in the neuroendocrine response to fasting. Nature 
+382:250–252.
+Aponte Y, Atasoy D, Sternson SM. 2011. AGRP neurons are 
+sufficient to orchestrate feeding behavior rapidly and 
+without training. Nat Neurosci 14:351–355.
+Balthasar N, Dalgaard LT, Lee CE, et al. 2005. Divergence of 
+melanocortin pathways in the control of food intake and 
+energy expenditure. Cell 123:493–505.
+Berthoud HR, Neuhuber WL. 2000. Functional and chemi-
+cal anatomy of the afferent vagal system. Auton Neurosci 
+85:1-17.
+Betley JN, Xu S, Cao ZF, et al. 2015. Neurons for hunger and 
+thirst transmit a negative-valence teaching signal. Nature 
+521:180–185.
+Brookes SJ, Spencer NJ, Costa M, Zagorodnyuk VP. 2013. 
+Extrinsic primary afferent signalling in the gut. Nat Rev 
+Gastroenterol Hepatol 10:286–296.
+Burnstock G. 2013. Cotransmission in the autonomic nervous 
+system. Handb Clin Neurol 117:23–35.
+Campos CA, Bowen AJ, Schwartz MW, Palmiter RD. 2016. 
+Parabrachial CGRP neurons control meal termination. 
+Cell Metab 23:811–820.
+Chambers AP, Sandoval DA, Seeley RJ. 2013. Integration of 
+satiety signals by the central nervous system. Curr Biol 
+23:R379–R388.
+Chen Y, Lin YC, Kuo TW, Knight ZA. 2015. Sensory detection 
+of food rapidly modulates arcuate feeding circuits. Cell 
+160:829–841.
+Coleman DL. 2010. A historical perspective on leptin. Nat 
+Med 16:1097–1099.
+DeGroat WC, Booth AM, Yoshimura N. 1993. Neurophysiol-
+ogy of micturition and its modification in animal mod-
+els of human disease. In: CA Maggi (ed). Nervous Control 
+of the Urogenital System, pp. 227–348. Chur, Switzerland: 
+Harwood Academic Publishers.
+Fenselau H, Campbell JN, Verstegen AM, et al. 2017. A 
+rapidly acting glutamatergic ARC→PVH satiety circuit 
+postsynaptically regulated by α-MSH. Nat Neurosci 20: 
+42–51.
+Furness JB. 2012. The enteric nervous system and neu-
+rogastroenterology. Nat Rev Gastroenterol Hepatol 9: 
+286–294.
+Furness JB, Costa M. 1980. Types of nerves in the enteric 
+nervous system. Neurosci 5:1–20.
+Furness JB, Jones C, Nurgali K, Clerc N. 2004. Intrinsic pri-
+mary afferent neurons and nerve circuits within the intes-
+tine. Prog Neurobiol 72:143–164.
+Garfield AS, Li C, Madara JC, et al. 2015. A neural basis for 
+melanocortin-4 receptor-regulated appetite. Nat Neurosci 
+18:863–871.
+Gay VL. 1972. The hypothalamus: physiology and clinical 
+use of releasing factors. Fertil Steril 23:50–63.
+Gibbins IL. 1995. Chemical neuroanatomy of sympathetic 
+ganglia. In: E McLachlan (ed). Autonomic Ganglia, pp. 73–122. 
+Luxembourg: Harwood Academic Publishers.
+Huszar D, Lynch CA, Fairchild-Huntress V, et al. 1997. Tar-
+geted disruption of the melanocortin-4 receptor results in 
+obesity in mice. Cell 88:131–141.
+Ingalls AM, Dickie MM, Snell GD. 1950. Obese, a new muta-
+tion in the house mouse. J Hered 41:317–318.
+Krashes MJ, Koda S, Ye C, et al. 2011. Rapid, reversible acti-
+vation of AgRP neurons drives feeding behavior in mice. 
+J Clin Invest 121:1424–1428.
+Krashes MJ, Lowell BB, Garfield AS. 2016. Melanocortin-4 
+receptor-regulated energy homeostasis. Nat Neurosci 
+19:206–219.
+Lechner SG, Markworth S, Poole K, et al. 2011. The molecular 
+and cellular identity of peripheral osmoreceptors. Neuron 
+69:332–344.
+Lee H, Kim DW, Remedios R, et al. 2014. Scalable control of 
+mounting and attack by Esr1+ neurons in the ventrome-
+dial hypothalamus. Nature 509:627–632.
+Lin D, Boyle MP, Dollar P, et al. 2011. Functional identifica-
+tion of an aggression locus in the mouse hypothalamus. 
+Nature 470:221–226.
+Locke AE, Kahali B, Berndt SI, et al. 2015. Genetic studies of 
+body mass index yield new insights for obesity biology. 
+Nature 518:197–206.
+Lowell BB, Spiegelman BM. 2000. Towards a molecu-
+lar understanding of adaptive thermogenesis. Nature 
+404:652–660.
+Luquet S, Perez FA, Hnasko TS, Palmiter RD. 2005. NPY/
+AgRP neurons are essential for feeding in adult mice but 
+can be ablated in neonates. Science 310:683–685.
+Mandelblat-Cerf Y, Kim A, Burgess CR, et al. 2017. Bidirec-
+tional anticipation of future osmotic challenges by vaso-
+pressin neurons. Neuron 93:57–65.
+Mandelblat-Cerf Y, Ramesh RN, Burgess CR, et al. 2015. 
+Arcuate hypothalamic AgRP and putative POMC neu-
+rons show opposite changes in spiking across multiple 
+timescales. Elife 4:e07122.
+McKinley MJ, Yao ST, Uschakov A, McAllen RM, Rundgren 
+M, Martelli D. 2015. The median preoptic nucleus: front 
+and centre for the regulation of body fluid, sodium, tem-
+perature, sleep and cardiovascular homeostasis. Acta 
+Physiol (Oxf) 214:8–32.
+Mountjoy KG, Robbins LS, Mortrud MT, Cone RD. 1992. The 
+cloning of a family of genes that encode the melanocortin 
+receptors. Science 257:1248–1251.
+Myers MG Jr, Leibel RL, Seeley RJ, Schwartz MW. 2010. 
+Obesity and leptin resistance: distinguishing cause from 
+effect. Trends Endocrinol Metab 21:643–651.
+Nakamura K, Morrison SF. 2011. Central efferent path-
+ways for cold-defensive and febrile shivering. J Physiol 
+589:3641–3658.
+Oka Y, Ye M, Zuker CS. 2015. Thirst driving and suppress-
+ing signals encoded by distinct neural populations in the 
+brain. Nature 520:349–352.
+Powley TL, Phillips RJ. 2004. Gastric satiation is volumetric, 
+intestinal satiation is nutritive. Physiol Behav 82:69–74.
+Reichlin S. 1978. The hypothalamus: introduction. Res Publ 
+Assoc Res Nerv Ment Dis 56:1–14.
+
+
+===== Page 9 =====
+1044    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Romanovsky AA. 2014. Skin temperature: its role in ther-
+moregulation. Acta Physiol (Oxf) 210:498–507.
+Rossi J, Balthasar N, Olson D, et al. 2011. Melanocortin-4 
+receptors expressed by cholinergic neurons regulate 
+energy balance and glucose homeostasis. Cell Metab 
+13:195–204.
+Saper CB. 2002. The central autonomic nervous system: con-
+scious visceral perception and autonomic pattern genera-
+tion. Annu Rev Neurosci 25:433–469.
+Saper CB, Romanovsky AA, Scammell TE. 2012. Neural cir-
+cuitry engaged by prostaglandins during the sickness 
+syndrome. Nat Neurosci 15:1088–1095.
+Shah BP, Vong L, Olson DP, et al. 2014. MC4R-expressing 
+glutamatergic neurons in the paraventricular hypothala-
+mus regulate feeding and are synaptically connected 
+to the parabrachial nucleus. Proc Natl Acad Sci U S A 
+111:13193–13198.
+Song K, Wang H, Kamm GB, et al. 2016. The TRPM2 channel 
+is a hypothalamic heat sensor that limits fever and can 
+drive hypothermia. Science 353:1393–1398.
+Speakman JR, Levitsky DA, Allison DB, et al. 2011. Set points, 
+settling points and some alternative models: theoreti-
+cal options to understand how genes and environments 
+combine to regulate body adiposity. Dis Model Mech 
+4:733–745.
+Stricker EM, Hoffmann ML. 2007. Presystemic signals in the 
+control of thirst, salt appetite, and vasopressin secretion. 
+Physiol Behav 91:404–412.
+Swanson LW. 2000. Cerebral hemisphere regulation of moti-
+vated behavior. Brain Res 886:113–164.
+Tan CH, McNaughton PA. 2016. The TRPM2 ion channel is 
+required for sensitivity to warmth. Nature 536:460–463.
+Tan CL, Cooke EK, Leib DE, et al. 2016. Warm-sensitive neu-
+rons that control body temperature. Cell 167:47–59 e15.
+Tanaka M, Owens NC, Nagashima K, Kanosue K, McAllen 
+RM. 2006. Reflex activation of rat fusimotor neurons by 
+body surface cooling, and its dependence on the medul-
+lary raphe. J Physiol 572:569–583.
+Toates F 1986. Motivational Systems. New York: Cambridge 
+University Press.
+Williams EK, Chang RB, Strochlic DE, Umans BD, Lowell BB, 
+Liberles SD. 2016. Sensory neurons that detect stretch and 
+nutrients in the digestive system. Cell 166:209–221.
+Wong LC, Wang L, D’Amour JA, et al. 2016. Effective mod-
+ulation of male aggression through lateral septum to 
+medial hypothalamus projection. Curr Biol 26:593–604.
+Wu Z, Autry AE, Bergan JF, Watabe-Uchida M, Dulac CG. 
+2014. Galanin neurons in the medial preoptic area govern 
+parental behaviour. Nature 509:325–330.
+Yang CF, Chiang MC, Gray DC, et al. 2013. Sexually dimor-
+phic neurons in the ventromedial hypothalamus gov-
+ern mating in both sexes and aggression in males. Cell 
+153:896–909.
+Zhang Y, Proenca R, Maffei M, Barone M, Leopold L,  
+Friedman JM. 1994. Positional cloning of the mouse obese 
+gene and its human homologue. Nature 372:425–432.
+Zimmerman CA, Lin YC, Leib DE, et al. 2016. Thirst neurons 
+anticipate the homeostatic consequences of eating and 
+drinking. Nature 537:680–684.
+
+

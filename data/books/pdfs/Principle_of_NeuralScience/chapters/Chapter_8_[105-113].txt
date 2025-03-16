@@ -1,0 +1,893 @@
+===== Page 1 =====
+60    Part I / Overall Perspective
+A  Unipolar cell
+C  Pseudo-unipolar cell
+B  Bipolar cell
+Invertebrate neuron
+Ganglion cell of dorsal root
+Bipolar cell of retina
+Central 
+axon
+Single bifurcated 
+process
+Cell body
+Peripheral axon
+to skin and
+muscle
+Dendrites
+Dendrites
+Cell body
+Axon
+Dendrites
+Cell body
+Axon
+D  Three types of multipolar cells
+Basal
+dendrite
+Cell
+body
+Axon
+Motor neuron of spinal cord
+Pyramidal cell of hippocampus
+Purkinje cell of cerebellum
+Dendrites
+Cell body
+Axon
+Apical
+dendrite
+Axon terminals
+Dendrites
+Axon
+Axon
+terminals
+Cell body
+Figure 3–3  Neurons are classified as unipolar, bipolar, or 
+multipolar according to the number of processes that origi-
+nate from the cell body.
+A. Unipolar cells have a single process emanating from the cell. 
+Different segments serve as receptive surfaces or releasing 
+terminals. Unipolar cells are characteristic of the invertebrate 
+nervous system.
+B. Bipolar cells have two types of processes that are function-
+ally specialized. The dendrite receives electrical signals and the 
+axon transmits signals to other cells.
+C. Pseudo-unipolar cells, which are variants of bipolar cells, 
+carry somatosensory information to the spinal cord. During 
+development, the two processes of the embryonic bipolar cell 
+fuse and emerge from the cell body as a single process that 
+has two functionally distinct segments. Both segments func-
+tion as axons; one extends to peripheral skin or muscle, the 
+other to the central spinal cord. (Adapted, with permission, 
+from Ramón y Cajal 1933.)
+D. Multipolar cells have a single axon and many dendrites. 
+They are the most common type of neuron in the mammalian 
+nervous system. Three examples illustrate the large diversity 
+of these cells. Spinal motor neurons innervate skeletal muscle 
+fibers. Pyramidal cells have a roughly triangular cell body; den-
+drites emerge from both the apex (the apical dendrite) and the 
+base (the basal dendrites). Pyramidal cells are found in the hip-
+pocampus and throughout the cerebral cortex. Purkinje cells of 
+the cerebellum are characterized by a rich and extensive dendritic 
+tree that accommodates an enormous number of synaptic 
+inputs. (Adapted, with permission, from Ramón y Cajal 1933.)
+
+
+===== Page 2 =====
+Chapter 3 / Nerve Cells, Neural Circuitry, and Behavior    61
+neurons that do not innervate muscle directly but that 
+command action indirectly. A useful characterization 
+of motor and sensory neurons alike is their temporal 
+fidelity to matters outside the nervous system. Their 
+activity keeps up with changes in external stimuli and 
+dynamical forces exerted by the body musculature. 
+Sensory neurons supply the brain with data, whereas 
+motor neurons convert ideation into praxis. Together 
+they compose our interface with the world.
+Interneurons comprise the most numerous func-
+tional category and are subdivided into two classes: 
+relay and local. Relay or projection interneurons 
+have long axons and convey signals over consider-
+able distances, from one brain region to another. Local 
+interneurons have short axons because they form con-
+nections with nearby neurons in local circuits. Since 
+almost every neuron can be regarded as an interneu-
+ron, the term is often used to distinguish between 
+neurons that project to another neuron within a local 
+circuit as opposed to neurons that project to a separate 
+neural structure. The term is also sometimes used as 
+shorthand for an inhibitory neuron, especially in stud-
+ies of cortical circuits, but for clarity, the term inhibitory 
+interneuron should be used when appropriate.
+Each functional classification can be subdivided 
+further. Sensory system interneurons can be classified 
+according to the type of sensory stimuli to which they 
+Figure 3–4  Sensory neurons can be subdivided into function-
+ally distinct groups. For example, at least 13 types of retinal gan-
+glion cells are distinguished based on the size and shape of their 
+dendrites combined with the depth within the retina at which they 
+receive their inputs. The inner plexiform layer contains the connec-
+tions between interneurons of the retina (bipolar and amacrine 
+cells) and the ganglion cells. (Reproduced, with permission, from 
+Dacey et al. 2003. Copyright © 2003 Elsevier.)
+respond; these initial classifications can be broken 
+down still further, according to location, density, and 
+size as well as patterns of gene expression. Indeed, 
+our view of neuronal complexity is rapidly evolving 
+due to advances in mRNA sequence analysis that have 
+enabled the molecular profiling of individual neurons. 
+Such analyses have recently revealed a much greater 
+heterogeneity of neuronal types than previously thought 
+(Figure 3–4).
+Glial Cells Support Nerve Cells
+Glial cells greatly outnumber neurons—there are 2 
+to 10 times more glia than neurons in the vertebrate 
+central nervous system. Although the name for these 
+cells derives from the Greek for glue, glia do not com-
+monly hold nerve cells together. Rather they surround 
+the cell bodies, axons, and dendrites of neurons. Glia 
+differ from neurons morphologically; they do not form 
+dendrites and axons.
+Glia also differ functionally. Although they arise 
+from the same embryonic precursor cells, they do not 
+have the same membrane properties as neurons and 
+thus are not electrically excitable. Hence, they are not 
+directly involved in electrical signaling, which is the 
+function of nerve cells. Yet they play a role in allow-
+ing electrical signals to move quickly along the axons 
+Dendritic
+ﬁeld size 
+and 
+complexity
+Position of
+dendrites
+in inner 
+plexiform
+layer
+Ganglion
+cell layer
+Midget
+Parasol
+Large sparse
+Giant sparse
+Monostratiﬁed
+Bistratiﬁed
+Broad thorny
+Narrow thorny
+Small
+Large
+
+
+===== Page 3 =====
+62    Part I / Overall Perspective
+of neurons, and they appear to play an important role 
+in guiding connectivity during early development and 
+stabilizing new or altered connections between neu-
+rons that occur through learning. Over the past decade, 
+interest in the diverse functions of glia has accelerated, 
+and their characterization has changed from support 
+cells to functional partners of neurons (Chapter 7).
+Each Nerve Cell Is Part of a Circuit That 
+Mediates Specific Behaviors
+Every behavior is mediated by specific sets of inter-
+connected neurons, and every neuron’s behavioral 
+function is determined by its connections with other 
+neurons. A simple behavior, the knee-jerk reflex, will 
+illustrate this. The reflex is initiated when a transient 
+imbalance of the body stretches the quadriceps exten-
+sor muscles of the leg. This stretching elicits sensory 
+information that is conveyed to motor neurons, which 
+in turn send commands to the extensor muscles to con-
+tract so that balance is restored.
+This reflex is used clinically to test the integrity of 
+the nerves as well as the cerebrospinal control of the 
+reflex amplitude (or gain). The underlying mechanism 
+is important because it maintains normal tone in the 
+quadriceps and prevents our knees from buckling when 
+we stand or walk. The tendon of the quadriceps femoris, 
+an extensor muscle that moves the lower leg, is attached 
+to the tibia through the tendon of the patella (kneecap). 
+Tapping this tendon just below the patella stretches the 
+quadriceps femoris. This stretch initiates reflex contrac-
+tion of the quadriceps muscle to produce the familiar 
+knee jerk. By increasing the tension of a select group of 
+muscles, the stretch reflex changes the position of the 
+leg, suddenly extending it outward (Figure 3–5).
+The cell bodies of the sensory neurons involved in 
+the knee-jerk reflex are clustered near the spinal cord 
+in the dorsal root ganglia. They are pseudo-unipolar 
+cells; one branch of each cell’s axon runs to the quadri-
+ceps muscle at the periphery, while the other runs cen-
+trally into the spinal cord. The branch that innervates 
+the quadriceps makes contact with stretch-sensitive 
+receptors (muscle spindles) and is excited when the 
+muscle is stretched. The branch reaching the spinal 
+cord forms excitatory connections with the motor neu-
+rons that innervate the quadriceps and control its con-
+traction. This branch also contacts local interneurons 
+that inhibit the motor neurons controlling the oppos-
+ing flexor muscles (Figure 3–5). Although these local 
+interneurons are not involved in producing the stretch 
+reflex itself, they increase the stability of the reflex by 
+coordinating the actions of opposing muscle groups. 
+Figure 3–5  The knee-jerk reflex is controlled by a simple 
+circuit of sensory and motor neurons. Tapping the kneecap 
+with a reflex hammer pulls on the tendon of the quadriceps 
+femoris, a muscle that extends the lower leg. When the muscle 
+stretches in response to the pull of the tendon, information 
+regarding this change in the muscle is conveyed to the central 
+nervous system by sensory neurons. In the spinal cord, the 
+sensory neurons form excitatory synapses with extensor motor 
+neurons that contract the quadriceps, the muscle that was 
+stretched. The sensory neurons act indirectly, through interneu-
+rons, to inhibit flexor motor neurons that would otherwise con-
+tract the opposing hamstring muscles. These actions combine 
+to produce the reflex behavior. In the drawing, each extensor 
+and flexor motor neuron represents a population of many cells.
+Quadriceps
+(extensor)
+Stimulus
+Hamstring
+(ﬂexor)
+Inhibitory
+interneuron
+Spinal
+cord
+Extensor
+motor
+neuron
+(activated)
+Flexor
+motor
+neuron
+(inhibited)
+Sensory
+neuron
+Muscle
+spindle
+Thus, the electrical signals that produce the stretch 
+reflex carry four kinds of information:
+1.	 Sensory information is conveyed to the central 
+nervous system (the spinal cord) from muscle.
+2.	 Motor commands from the central nervous sys-
+tem are issued to the muscles that carry out the 
+knee jerk.
+3.	 Inhibitory commands are issued to motor neurons 
+that innervate opposing muscles.
+4.	 Information about local neuronal activity related to 
+the knee jerk is sent to higher centers of the central 
+nervous system, permitting the brain to coordinate 
+different behaviors simultaneously or in series.
+
+
+===== Page 4 =====
+Chapter 3 / Nerve Cells, Neural Circuitry, and Behavior    63
+Figure 3–6  Diverging and converging neuronal connections 
+are a key organizational feature of the brain.
+A. In the sensory systems, each receptor neuron usually 
+contacts several neurons that represent the second stage of 
+processing. At subsequent processing stages, the incoming 
+connections diverge even more. This allows sensory informa-
+tion from a single site to be distributed more widely in the spi-
+nal cord and brain.
+B. By contrast, motor neurons are the targets of progressively 
+converging connections. With this arrangement, input from 
+many presynaptic cells is required to activate the motor neuron.
+Figure 3–7  Inhibitory interneurons can produce either feed-
+forward or feedback inhibition.
+A. Feedforward inhibition enhances the effect of the active 
+pathway by suppressing the activity of pathways mediating 
+opposing actions. Feedforward inhibition is common in mono-
+synaptic reflex systems. For example, in the knee-jerk reflex 
+circuit (Figure 3–5) afferent neurons from extensor muscles 
+excite not only the extensor motor neurons but also inhibitory 
+interneurons that prevent the firing of the motor cells innervat-
+ing the opposing flexor muscles.
+B. Feedback inhibition is a self-regulating mechanism. Here 
+extensor motor neurons act on inhibitory interneurons that in 
+turn act on the extensor motor neurons themselves and thus 
+reduce their probability of firing. The effect is to dampen activity 
+within the stimulated pathway and prevent it from exceeding a 
+certain critical level.
+In addition, the brain asserts context-dependent 
+control of the reflex to adjust its gain. For example, 
+when we run, the hamstring muscles flex the knee, 
+thereby stretching the quadriceps. The brain and spi-
+nal cord suppress the stretch reflex to allow the quadri-
+ceps to relax. When these descending pathways are 
+disrupted, as in some strokes, the reflex is exaggerated 
+and the joint has stiffness.
+The stretching of just one muscle, the quadriceps, 
+activates several hundred sensory neurons, each of 
+which makes direct contact with 45 to 50 motor neu-
+rons. This pattern of connection, in which one neu-
+ron activates many target cells, is called divergence  
+(Figure 3–6A). It is especially common in the input 
+stages of the nervous system; by distributing its signals 
+to many target cells, a single neuron can exert wide and 
+diverse influence. Conversely, a single motor cell in 
+the knee-jerk circuit receives 200 to 450 input contacts 
+from approximately 130 sensory cells. This pattern 
+of connection is called convergence (Figure 3–6B). It is 
+common at the output stages of the nervous system; a 
+target motor cell that receives information from many 
+sensory neurons is able to integrate information from 
+many sources. Each sensory neuron input produces 
+relatively weak excitation, so convergence also ensures 
+that a motor neuron is activated only when a sufficient 
+number of sensory neurons are activated together.
+A  Divergence
+B  Convergence
+A stretch reflex such as the knee-jerk reflex is a 
+simple behavior produced by two classes of neurons 
+connecting at excitatory synapses. But not all impor-
+tant signals in the brain are excitatory. Many neurons 
+produce inhibitory signals that reduce the likelihood 
+of firing. Even in the simple knee-jerk reflex, the sen-
+sory neurons make both excitatory and inhibitory 
+connections. Excitatory connections in the leg’s exten-
+sor muscles cause these muscles to contract, whereas 
+connections with inhibitory interneurons prevent the 
+antagonist flexor muscles from contracting. This fea-
+ture of the circuit is an example of feedforward inhibi-
+tion (Figure 3–7A). In the knee-jerk reflex, feedforward 
++
++
+A  Feedforward inhibition
+Afferent neurons
+innervating
+extensor muscles
+Extensor
+motor neuron
++
++
++
++
++
++
+–
+–
+Afferent neurons
+innervating
+ﬂexor muscles
+Inhibitory
+interneuron
+Flexor motor neuron
+Flexors
+Extensors
+Extensors
+B  Feedback inhibition
+Afferent neuron
+innervating
+extensor muscles
+Extensor
+motor neuron
+Inhibitory
+interneuron
+
+
+===== Page 5 =====
+64    Part I / Overall Perspective
+inhibition is reciprocal, ensuring that the flexor and 
+extensor pathways always inhibit each other so that 
+only muscles appropriate for the movement and not 
+those opposed to it are recruited.
+Some circuits provide feedback inhibition. For exam-
+ple, a motor neuron may have excitatory connections 
+with both a muscle and an inhibitory interneuron that 
+itself forms a connection with the motor neuron. When 
+the inhibitory interneuron is excited by the motor neu-
+ron, the interneuron is able to limit the ability of the 
+motor neuron to excite the muscle (Figure 3–7B). We 
+will encounter many examples of feedforward and 
+feedback inhibition when we examine more complex 
+behaviors in later chapters.
+Signaling Is Organized in the Same Way in  
+All Nerve Cells
+To produce a behavior, a stretch reflex for example, 
+each participating sensory and motor nerve cell must 
+generate four different signals in sequence, each at a 
+different site within the cell. Despite variations in cell 
+size and shape, transmitter biochemistry, or behavio-
+ral function, almost all neurons can be described by 
+a model neuron that has four functional components 
+Figure 3–8  Most neurons have four functional regions in 
+which different types of signals are generated. Thus, the 
+functional organization of most neurons, regardless of type, 
+can be represented schematically by a model neuron. This 
+model neuron is the physiological expression of Ramón y 
+Cajal’s principle of dynamic polarization. The input, integrative, 
+and conductive signals are all electrical and integral to the cell, 
+whereas the output signal is a chemical substance ejected by 
+the cell into the synaptic cleft. Not all neurons share all of these 
+features; for example, some local interneurons lack a conduc-
+tive component.
+Region:
+Integrative
+Conductive
+Output
+Sensory
+neuron
+Motor
+neuron
+Local
+interneuron
+Projection
+interneuron
+Neuroendocrine
+cell
+Muscle
+Central
+neuron
+Central
+neuron
+Central
+neuron
+Model
+neuron
+Capillary
+Input
+that generate the four types of signals: a receptive 
+component for producing graded input signals, a 
+summing or integrative component that produces 
+a trigger signal, a conducting long-range signaling 
+component that produces all-or-none conducting sig-
+nals, and a synaptic component that produces out-
+put signals to the next neuron in line or to muscle or 
+gland cells (Figure 3–8).
+The different types of signals generated in a neu-
+ron are determined in part by the electrical properties 
+of the cell membrane. Every cell, including a neuron, 
+maintains a certain difference in the electrical potential 
+on either side of the plasma membrane when the cell 
+is at rest. This is called the resting membrane potential. 
+In a typical resting neuron, the voltage of the inside of 
+the cell is about 65 mV more negative than the voltage 
+outside the cell. Because the voltage outside the mem-
+brane is defined as zero, we say the resting membrane 
+potential is –65 mV. The resting potential in different 
+nerve cells ranges from –40 to –80 mV; in muscle cells, 
+it is greater still, about –90 mV. As described in detail 
+in Chapter 9, the resting membrane potential results 
+from two factors: the unequal distribution of electri-
+cally charged ions, in particular the positively charged 
+Na+ and K+ ions, and the selective permeability of the 
+membrane.
+
+
+===== Page 6 =====
+Chapter 3 / Nerve Cells, Neural Circuitry, and Behavior    65
+The unequal distribution of positively charged 
+ions on either side of the cell membrane is maintained 
+by two main mechanisms. Intracellular Na+ and K+ 
+concentrations are largely controlled by a membrane 
+protein that actively pumps Na+ out of the cell and K+ 
+back into it. This Na+-K+ pump, about which we shall 
+learn more in Chapter 9, keeps the Na+ concentration 
+in the cell low (about one-tenth the concentration out-
+side the cell) and the K+ concentration high (about 20 
+times the concentration outside). The extracellular con-
+centrations of Na+ and K+ are maintained by the kid-
+neys and the astroglial cells, also known as astrocytes.
+The otherwise impermeable cell membrane con-
+tains proteins that form pores called ion channels. The 
+channels that are active when the cell is at rest are 
+highly permeable to K+ but considerably less perme-
+able to Na+. The K+ ions tend to leak out of these open 
+channels, down the ion’s concentration gradient. As K+ 
+ions exit the cell, they leave behind a cloud of unneu-
+tralized negative charge on the inner surface of the 
+membrane, so that the net charge inside the membrane 
+is more negative than that outside. With this state of 
+affairs, the membrane potential is typically maintained 
+at around –65 mV relative to outside of the neuron, and 
+the neuron is said to be at rest.
+The resting state is perturbed when the cell begins 
+to take up Na+ (or Ca2+), which are at a higher concen-
+tration outside the cell. The inward movement of these 
+positively charged ions (inward current) partially neu-
+tralizes the negative voltage inside the cell. We will say 
+more about these events below. What happens next, 
+however, holds the key to understanding what it is 
+about neurons that makes signaling suitable for con-
+veying information.
+A cell, such as nerve and muscle, is said to be excit-
+able when its membrane potential can be quickly and 
+significantly altered. In many neurons, a 10-mV change 
+in membrane potential (from –65 to –55 mV) makes 
+the membrane much more permeable to Na+ than to 
+K+. The resultant influx of Na+ further neutralizes the 
+negative charge inside the cell, leading to even more 
+permeability to Na+. The result is a brief and explosive 
+change in membrane potential to +40 mV, the action 
+potential. This potential is actively conducted down 
+the cell’s axon to the axon’s terminal, where it initiates 
+an elaborate chemical interaction with postsynaptic 
+neurons or muscle cells. Since the action potential is 
+actively propagated, its amplitude does not dimin-
+ish by the time it reaches the axon terminal. An action 
+potential typically lasts approximately 1 ms, after 
+which the membrane returns to its resting state, with 
+its normal separation of charges and higher permeabil-
+ity to K+ than to Na+.
+The mechanisms underlying the resting potential 
+and action potential are discussed in detail in Chapters 9 
+and 10. In addition to the long-distance signals rep-
+resented by the action potential, nerve cells also pro-
+duce local signals—receptor potentials and synaptic 
+potentials—that are not actively propagated and that 
+typically decay within just a few millimeters (see next 
+section).
+Changes in membrane potential that generate 
+long-range and local signals can be either a decrease 
+or an increase from the resting potential. That is, the 
+resting membrane potential is the baseline from which 
+all signaling occurs. A reduction in membrane poten-
+tial, called depolarization, enhances a cell’s ability to 
+generate an action potential and is thus excitatory. In 
+contrast, an increase in membrane potential, called 
+hyperpolarization, makes a cell less likely to generate an 
+action potential and is therefore inhibitory.
+The Input Component Produces Graded  
+Local Signals
+In most neurons at rest, no current flows from one part 
+of the cell to another, so the resting potential is the same 
+throughout. In sensory neurons, current flow is typi-
+cally initiated by a physical stimulus, which activates 
+specialized receptor proteins at the neuron’s recep-
+tive surface. In our example of the knee-jerk reflex, 
+stretching of the muscle activates specific ion channels 
+that open in response to stretch of the sensory neuron 
+membrane, as we shall learn in Chapter 18. The open-
+ing of these channels when the cell is stretched permits 
+the rapid influx of Na+ ions into the sensory cell. This 
+ionic current changes the membrane potential, produc-
+ing a local signal called the receptor potential.
+The amplitude and duration of a receptor poten-
+tial depend on the intensity of the muscle stretch: The 
+larger or longer-lasting the stretch, the larger or longer-
+lasting is the resulting receptor potential (Figure 3–9A). 
+That is, receptor potentials are graded, unlike the all-
+or-none action potential. Most receptor potentials are 
+depolarizing (excitatory); hyperpolarizing (inhibitory) 
+receptor potentials are found in the retina.
+The receptor potential is the first representation of 
+stretch to be coded in the nervous system. However, 
+because this depolarization spreads passively from the 
+stretch receptor, it does not travel far. The distance is 
+longer if the diameter of the axon is bigger, shorter if 
+the diameter is smaller. Also, the distance is shorter if 
+current can pass easily through the membrane, and 
+longer if the membrane is insulated by myelin. The 
+receptor potential from the stretch receptor therefore 
+travels only 1 to 2 mm. In fact, just 1 mm away, the 
+
+
+===== Page 7 =====
+66    Part I / Overall Perspective
+Figure 3–9  Each of the neuron’s four signaling components 
+produces a characteristic signal. The figure shows a sensory 
+neuron activated by stretching of a muscle, which the neuron 
+senses through a specialized receptor, the muscle spindle.
+A. The input signal, called a receptor potential, is graded in 
+amplitude and duration, proportional to the amplitude and dura-
+tion of the stimulus.
+B. The trigger zone sums the depolarization generated by the 
+receptor potential. An action potential is generated only if  
+the receptor potential exceeds a certain voltage threshold. 
+Once this threshold is surpassed, any further increase in ampli-
+tude of the receptor potential can only increase the frequency 
+with which the action potentials are generated, because action 
+potentials have a constant amplitude. The duration of the 
+receptor potential determines the duration of the train of action 
+potentials. Thus, the graded amplitude and duration of the 
+receptor potential are translated into a frequency code in the 
+action potentials generated at the trigger zone. All action poten-
+tials produced are propagated faithfully along the axon.
+C. Action potentials are all-or-none. Because all action potentials 
+have a similar amplitude and duration, the frequency and dura-
+tion of firing encodes the information carried by the signal.
+D. When the action potential reaches the synaptic terminal, 
+it initiates the release of a neurotransmitter, the chemical sub-
+stance that serves as the output signal. The frequency of action 
+potentials in the presynaptic cell determines how much neuro-
+transmitter is released by the cell.
+Time (s)
+0
+5
+10
+0
+5
+10
+0
+5
+10
+–80
+–60
+–40
+–20
+0
+20
+–80
+–60
+–40
+–20
+0
+20
+–80
+–60
+–40
+–20
+0
+20
+Spike threshold
+A  Receptor potential
+B  Trigger action
+C  Action potential
+D  Output signal
+ 
+(transmitter release)
+Stimulus (stretch)
+Muscle
+spindle
+Myelinated
+axon
+Sensory neuron
+cell body
+Synaptic
+terminal
+Trigger
+zone
+Membrane potential (mV)
+Amplitude
+Duration
+Spike threshold
+Stretch
+amplitude of the signal is only about one-third what it 
+was at the site of generation. To be carried successfully 
+to the spinal cord, the local signal must be amplified—
+it must generate an action potential. In the knee-jerk 
+reflex, if the receptor potential in the sensory neuron 
+reaches the first node of Ranvier in the axon and is large 
+enough, it will trigger an action potential (Figure 3–9B), 
+which then propagates without failure to the axon ter-
+minals in the spinal cord (Figure 3–9C). At the synapse 
+between the sensory neuron and a motor neuron, the 
+action potential produces a chain of events that results 
+in an input signal to the motor neuron.
+In the knee-jerk reflex, the action potential in the 
+presynaptic terminal of the sensory neuron initiates the 
+release of a chemical substance, or neurotransmitter, into 
+the synaptic cleft (Figure 3–9D). After diffusing across 
+the cleft, the transmitter binds to receptor proteins in the 
+postsynaptic membrane of the motor neuron, thereby 
+directly or indirectly opening ion channels. The ensuing 
+flow of current briefly alters the membrane potential of 
+the motor cell, a change called the synaptic potential.
+Like the receptor potential, the synaptic poten-
+tial is graded; its amplitude depends on how much 
+transmitter is released. In the same cell, the synaptic 
+
+
+===== Page 8 =====
+Chapter 3 / Nerve Cells, Neural Circuitry, and Behavior    67
+potential can be either depolarizing or hyperpolariz-
+ing depending on the type of receptor molecule that 
+is activated. Synaptic potentials, like receptor poten-
+tials, spread passively. Thus, the change in potential 
+will remain local unless the signal reaches beyond 
+the axon’s initial segment where it can give rise to an 
+action potential. Some dendrites are not entirely pas-
+sive but contain specializations that boost the synaptic 
+potential, thereby increasing its efficacy to produce an 
+action potential (Chapter 13). The features of receptor 
+and synaptic potentials are summarized in Table 3–1.
+The Trigger Zone Makes the Decision to Generate 
+an Action Potential
+Sherrington first pointed out that the function of the 
+nervous system is to weigh the consequences of differ-
+ent types of information and then decide on appropri-
+ate responses. This integrative function of the nervous 
+system is clearly seen in events at the trigger zone of 
+the neuron, the initial segment of the axon.
+Action potentials are generated by a sudden influx 
+of Na+ through channels in the cell membrane that 
+open and close in response to changes in membrane 
+potential. When an input signal (a receptor potential or 
+synaptic potential) depolarizes an area of membrane, 
+the local change in membrane potential opens local 
+Na+ channels that allow Na+ to flow down its concen-
+tration gradient, from outside the cell where the Na+ 
+concentration is high to inside where it is low.
+Because the initial segment of the axon has the 
+highest density of voltage-sensitive Na+ channels and 
+therefore the lowest threshold for generating an action 
+potential, an input signal spreading passively along 
+the cell membrane is more likely to give rise to an 
+action potential at the initial segment of the axon than 
+at other sites in the cell. This part of the axon is there-
+fore known as the trigger zone. It is here that the activity 
+of all receptor (or synaptic) potentials is summed and 
+Table 3–1  Comparison of Local (Passive) and Propagated Signals
+Signal type
+Amplitude (mV) Duration
+Summation
+Effect of signal
+Type of propagation
+Local (passive) signals
+ 
+ 
+ 
+ 
+ 
+  Receptor potentials
+Small (0.1–10)
+Brief (5–100 ms)
+Graded
+Hyperpolarizing  
+or depolarizing
+Passive
+  Synaptic potentials
+Small (0.1–10)
+Brief to long  
+(5 ms–20 min)
+Graded
+Hyperpolarizing  
+or depolarizing
+Passive
+Propagated (active) signals
+ 
+ 
+ 
+ 
+ 
+  Action potentials
+Large (70–110)
+Brief (1–10 ms)
+All-or-none
+Depolarizing
+Active
+where, if the sum of the input signals reaches thresh-
+old, the neuron generates an action potential.
+The Conductive Component Propagates an All-or-
+None Action Potential
+The action potential is all-or-none: Stimuli below the 
+threshold do not produce a signal, but stimuli above 
+the threshold all produce signals of the same amplitude. 
+Regardless of variation in intensity or duration of 
+stimuli, the amplitude and duration of each action 
+potential are pretty much the same, and this holds for 
+each regenerated action potential at a node of Ranvier 
+along a myelinated axon. In addition, unlike receptor 
+and synaptic potentials, which spread passively and 
+decrease in amplitude, the action potential, as we have 
+seen, does not decay as it travels along the axon to its 
+target—a distance that can be as great as 1 m—because 
+it is periodically regenerated. This conducted signal can 
+travel at rates as fast as 100 m/s. Indeed, the remark-
+able feature of action potentials is that they are highly 
+stereotyped, varying only subtly (but in some cases 
+importantly) from one nerve cell to another. This fea-
+ture was demonstrated in the 1920s by Edgar Adrian, 
+one of the first to study the nervous system at the cellu-
+lar level. Adrian found that all action potentials have a 
+similar shape or waveform (see Figure 3–2). The action 
+potentials carried into the nervous system by a sensory 
+axon often are indistinguishable from those carried out 
+of the nervous system to the muscles by a motor axon.
+Only two features of the conducting signal convey 
+information: the number of action potentials and the 
+time intervals between them (Figure 3–9C). As Adrian 
+put it in 1928, summarizing his work on sensory fibers: 
+“all impulses are very much alike, whether the message 
+is destined to arouse the sensation of light, of touch, or 
+of pain; if they are crowded together the sensation is 
+intense, if they are separated by long intervals the sensa-
+tion is correspondingly feeble.” Thus, what determines 
+
+
+===== Page 9 =====
+68    Part I / Overall Perspective
+the intensity of sensation or speed of movement is the 
+frequency of the action potentials. Likewise, the dura-
+tion of a sensation or movement is determined by the 
+period over which action potentials are generated.
+In addition to the frequency of the action potentials, 
+the pattern of action potentials also conveys important 
+information. For example, some neurons are spon-
+taneously active in the absence of stimulation. Some 
+spontaneously active nerve cells (beating neurons) fire 
+action potentials regularly; others (bursting neurons) 
+fire in brief bursts of action potentials. These diverse 
+cells respond differently to the same excitatory synaptic 
+input. An excitatory synaptic potential may initiate one 
+or more action potentials in a cell that is not spontane-
+ously active, whereas that same input to spontaneously 
+active cells will simply increase the existing rate of firing.
+An even more dramatic difference is seen when 
+the input signal is inhibitory. Inhibitory inputs have 
+little information value in a silent cell. By contrast, in 
+spontaneously active cells, inhibition can have a pow-
+erful sculpting role. By establishing periods of silence 
+in otherwise ongoing activity, inhibition can produce a 
+complex pattern of alternating firing and silence where 
+none existed. Such subtle differences in firing patterns 
+may have important functional consequences for the 
+information transfer between neurons. Mathemati-
+cal modelers of neuronal networks have attempted 
+to delineate neural codes in which information is also 
+carried by the fine-grained pattern of firing—the exact 
+timing of each action potential.
+If signals are stereotyped and reflect only the most 
+elementary properties of the stimulus, how can they 
+carry the rich variety of information needed for complex 
+behavior? How is a message that carries visual informa-
+tion about a bee distinguished from one that carries pain 
+information about the bee’s sting, and how are these 
+sensory signals distinguished from motor signals for 
+voluntary movement? The answer is simple and yet is 
+one of the most important organizational principles of 
+the nervous system: Interconnected neurons form ana-
+tomically and functionally distinct pathways—labeled 
+lines—and it is these pathways of connected neurons, 
+these labeled lines, not individual neurons, that convey 
+information. The neural pathways activated by receptor 
+cells in the retina that respond to light are completely 
+distinct from the pathways activated by sensory cells in 
+the skin that respond to touch.
+The Output Component Releases Neurotransmitter
+When an action potential reaches a neuron’s terminal, 
+it stimulates the release of chemical substances from 
+the cell. These substances, called neurotransmitters, can be 
+small organic molecules, such as l-glutamate and ace-
+tylcholine, or peptides like substance P or LHRH (lute-
+inizing hormone–releasing hormone).
+Neurotransmitter molecules are held in subcellu-
+lar organelles called synaptic vesicles, which accumulate 
+in the terminals of the axon at specialized release sites 
+called active zones. To eject their transmitter substance 
+into the synaptic cleft, the vesicles move up to and fuse 
+with the neuron’s plasma membrane, then burst open 
+to release the transmitter into the synaptic cleft (the 
+extracellular space between the pre- and postsynaptic 
+cell) by a process known as exocytosis. The molecular 
+machinery of neurotransmitter release is described in 
+Chapters 14 and 15.
+The released neurotransmitter molecules are 
+the neuron’s output signal. The output signal is 
+thus graded according to the amount of transmit-
+ter released, which is determined by the number and 
+frequency of the action potentials that reach the pre-
+synaptic terminals (Figure 3–9C,D). After release, the 
+transmitter molecules diffuse across the synaptic cleft 
+and bind to receptors on the postsynaptic neuron. This 
+binding causes the postsynaptic cell to generate a syn-
+aptic potential. Whether the synaptic potential has an 
+excitatory or inhibitory effect depends on the type of 
+receptor in the postsynaptic cell, not on the particular 
+chemical neurotransmitter. The same transmitter sub-
+stance can have different effects at different receptors.
+The Transformation of the Neural Signal From 
+Sensory to Motor Is Illustrated by the  
+Stretch-Reflex Pathway
+As we have seen, the properties of a signal are trans-
+formed as the signal moves from one component of a 
+neuron to another or between neurons. In the stretch 
+reflex, when a muscle is stretched, the amplitude and 
+duration of the stimulus are reflected in the amplitude 
+and duration of the receptor potential generated in the 
+sensory neuron (Figure 3–10A). If the receptor poten-
+tial exceeds the threshold for an action potential in 
+that cell, the graded signal is transformed at the trig-
+ger zone into an action potential. Although individual 
+action potentials are all-or-none signals, the more the 
+receptor potential exceeds threshold, the greater the 
+depolarization and consequently the greater the fre-
+quency of action potentials in the axon. The duration 
+of the input signal also determines the duration of the 
+train of action potentials.
+The information encoded by the frequency and 
+duration of firing is faithfully conveyed along the 
+axon to its terminals, where the firing of action poten-
+tials determines the amount of transmitter released. 
+
+

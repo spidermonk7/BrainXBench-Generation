@@ -1,0 +1,1335 @@
+===== Page 1 =====
+1164    Part VII / Development and the Emergence of Behavior
+filopodia project from the body of the growth cone. 
+Between the filopodia lie lamellipodia, which are also 
+motile and give the growth cone its characteristic ruf-
+fled appearance (Figure 47–6C,D).
+Growth cones sense environmental signals through 
+their filopodia: rod-like, actin-rich, membrane-limited 
+structures that are highly motile. Their surface mem-
+branes bear receptors for the molecules that serve as 
+directional cues for the axon. Their length—tens of 
+micrometers in some cases—permits the filopodia to 
+sample environments far in advance of the central core 
+of the growth core. Their rapid movements permit 
+them to compile a detailed inventory of the environ-
+ment, and their flexibility permits them to navigate 
+around cells and other obstacles.
+When filopodia encounter signals in the envi-
+ronment, the growth cone is stimulated to advance, 
+retract, or turn. Several motors power these orienting 
+behaviors. One source of power is the movement of 
+actin along myosin, an interaction similar to the one 
+that powers the contraction of skeletal muscle fibers, 
+although the actin and myosin of neurons are different 
+from those in muscle. The assembly of actin monomers 
+into polymeric filaments also contributes a propulsive 
+force for filopodial extension. As the actin filaments 
+are constantly depolymerized at the base of filopodia, 
+the balance of polymerization and depolymerization 
+enables the filopodia to move forward without becom-
+ing longer. Depolymerization slows during periods of 
+growth cone advance, leading to greater net forward 
+motion. The movement of membranes along the sub-
+strate provides yet another source of forward motion.
+The contribution of each type of molecular motor 
+to the advance of the growth cone is likely to vary from 
+one situation to another. Nevertheless, the final step 
+involves the flow of microtubules from the central core 
+of the growth cone into the newly extended tip, thus 
+moving the growth cone ahead and leaving in its wake 
+a new segment of axon. New lamellipodia and filopo-
+dia form in the advancing growth cone and the cycle 
+repeats (Figure 47–7).
+Accurate pathfinding can occur only if the growth 
+cone’s motor action is linked to its sensory function. 
+Therefore, it is crucial that the recognition proteins on 
+the filopodia are signal-inducing receptors and not 
+merely binding moieties that mediate adhesion. The 
+binding of a ligand to its receptor affects growth in 
+diverse ways. In some cases, it engages the cytoskele-
+ton directly, through the intracellular domain of recep-
+tors (Figure 47–7). Integrin receptors couple to actin 
+in growth cones when they bind molecules associated 
+with the surface of adjoining cells or the extracellular 
+matrix, thereby influencing motility.
+Of equal if not greater importance is the ability 
+of ligand binding to stimulate the formation, accu-
+mulation, and even breakdown of soluble intracel-
+lular molecules that function as second messengers. 
+These second messengers affect the organization of 
+the cytoskeleton, and in this way regulate the direction 
+and rate of movement of the growth cone.
+One important second messenger is calcium. The 
+calcium concentration in growth cones is regulated 
+by the activation of receptors on filopodia, and this 
+affects the organization of the cytoskeleton, which in 
+turn modulates motility. Growth cone motility is opti-
+mal within a narrow range of calcium concentrations, 
+called a set point. Activation of filopodia on one side of 
+the growth cone leads to a concentration gradient of 
+calcium across the growth cone, providing a possible 
+basis for changes in the direction of growth.
+Other second messengers that link receptors and 
+motor molecules include cyclic nucleotides, which 
+modulate the activity of enzymes such as protein 
+kinases, protein phosphatases, and rho-family guano-
+sine triphosphatases (GTPases). In turn, these messen-
+gers and enzymes regulate the activity of proteins that 
+regulate the polymerization and depolymerization of 
+actin filaments, thereby promoting or inhibiting axonal 
+extension.
+The critical role of intracellular signals in growth 
+cone motility and orientation can be demonstrated 
+using embryonic neurons grown in culture. Applica-
+tion of growth factors to one side of a growth cone 
+activates receptors locally and leads to extension and 
+turning of the growth cone toward the source of the 
+signal. In essence, the factor attracts the growth cone. 
+Yet when cyclic adenosine monophosphate (cAMP) 
+levels in the neuron are decreased, the same stimulus 
+acts as a repellent and the growth cone turns away 
+from the signal (Figure 47–8A). Other repulsive factors 
+can become attractive when levels of the second mes-
+senger cyclic guanosine 3’,5’-monophosphate (cGMP) 
+are raised.
+Recently, another mechanism for coupling guid-
+ance molecules to growth cone behavior has come to 
+light. It was long thought that all neuronal protein 
+synthesis occurs in the cell body, but we now know 
+that growth cones (as well as some dendrites) con-
+tain the machinery for protein synthesis, including a 
+subset of messenger RNAs. Initial evidence that these 
+molecules play an important role came from experi-
+ments in which axons were severed from their parent 
+cell body. The growth cones continued to advance for 
+a few hours; they could be stimulated to turn toward 
+or away from local depots of guidance molecules, and 
+these behaviors were abolished by inhibitors of protein 
+
+
+===== Page 2 =====
+Chapter 47 / The Growth and Guidance of Axons    1165
+Figure 47–7  The growth cone advances under the control 
+of cellular motors. (Adapted, with permission, from  
+Heidemann 1996. Copyright © 1996 Academic Press Inc.)
+A. A filopodium contacts an adhesive cue and contracts, thus 
+pulling the growth cone forward (1). Actin filaments assemble 
+at the leading edge of a filopodium and disassemble at the 
+trailing edge, interacting with myosin along the way (2). Actin 
+polymerization pushes the filopodium forward (3). Force gen-
+erated by the retrograde flow of actin pushes the filopodium 
+forward. Exocytosis adds membrane to the leading edge of the 
+filopodium and supplies new adhesion receptors to maintain 
+traction. Membrane is recovered at the back of the filopodium. 
+The actin polymer is linked to adhesion molecules on the 
+plasma membrane.
+B. The combined action of these motors creates an actin-
+depleted space that is filled by the advance of microtubules 
+from the central core.
+C. Individual microtubules condense to form a thick bundle, and 
+the cytoplasm collapses around them to create a new segment 
+of axonal shaft.
+Vesicle fusion adds
+membrane to leading 
+edge of ﬁlopodium
+Microtubule moves forward;
+actin polymerization 
+pushes ﬁlopodium forward
+Filopodium contacts 
+an adhesive substance
+Actin 
+meshwork
+Actin ﬁlament
+Actin monomers
+Actin ﬁbers
+Motor proteins
+Receptors
+Ligands
+New axon growth
+A  Filopodia extend
+B  Microtubules from central core advance
+C  Cytoplasm collapses to create new
+segment of axon
+2
+1
+3
+Adhesive 
+substance
+Actin
+bundle
+Microtubule
+Dynamic 
+microtubule
+synthesis. The local protein synthesis is regulated by 
+second messengers produced in response to activa-
+tion of guidance receptors on the growth cones (Figure 
+47–8). This mechanism leads to synthesis of new motor 
+proteins precisely when and where they are needed. 
+Thus, the growth cone has many strategies and mecha-
+nisms for integrating molecular signals to direct the 
+axon in specific directions.
+
+
+===== Page 3 =====
+1166    Part VII / Development and the Emergence of Behavior
+Figure 47–8  Changes in the level of intracellular regulatory 
+proteins can determine whether the same extrinsic cue 
+attracts or repels the growth cone.
+A. The state of protein kinase A (PKA) activity can alter the 
+growth cone’s response to an extracellular orienting factor, in 
+this instance, the protein netrin. When PKA activity and intra-
+cellular cyclic adenosine monophosphate (cAMP) levels are 
+low, the growth cone is repelled by netrin. When PKA activity 
+is high, the resulting elevation in intracellular cAMP causes 
+the growth cone to be attracted to a local source of netrin. 
+(Adapted, with permission, from Ming et al. 1997.)
+B. Netrin activation of growth cone receptors (deleted in colon 
+cancer, DCC) leads to local synthesis of actin, which leads to 
+turning.
+C. Immunohistochemical analysis of a growth cone showing 
+local synthesis of actin in response to local application of netrin. 
+(Reproduced, with permission, from Christine Holt. Adapted, 
+with permission, from Leung et al. 2006.)
+A
+B
+C
+PKA active
+PKA inactive
+Netrin
+cAMP
+DCC
+Actin
+assembly
+New 
+nucleation 
+sites
+β-actin mRNA
+translation
+Netrin
+Signal 
+intensity
+Netrin gradient
+Actin
+Molecular Cues Guide Axons to Their Targets
+For much of the 20th century, a debate raged between 
+advocates of two very different views of how growth 
+cones navigate embryonic terrains to reach their tar-
+gets. A molecular view of axonal guidance was first 
+articulated at the turn of the 20th century by the physi-
+ologist J. N. Langley. But by the 1930s, many emi-
+nent biologists, including Paul Weiss, believed that 
+axonal outgrowth was essentially random and that 
+appropriate connections persisted largely because of 
+productive, matching patterns of electrical activity in 
+the axon and its target cell.
+In our molecular age, Weiss’s ideas may seem sim-
+plistic, but they were not unreasonable at the time. 
+In tissue culture, axons grow preferentially along 
+mechanical discontinuities (scratches and bumps on 
+a cover slip), and embryonic nerve trunks often align 
+themselves with solid supports (blood vessels or carti-
+lage). It seemed logical to Weiss that mechanical guid-
+ance, called stereotropism, could account for axonal 
+patterning. Today, we are quite comfortable with the 
+
+
+===== Page 4 =====
+Chapter 47 / The Growth and Guidance of Axons    1167
+idea that electrical signals can be used to change the 
+way current flows in a computer without the need 
+to resolder connections. Likewise, patterns of activ-
+ity and experience can strengthen or weaken neural 
+connections without requiring the formation of new 
+axonal pathways. Then why not consider that congru-
+ent activity, called resonance by Weiss, is involved in 
+establishing appropriate connections?
+Today, few scientists believe that stereotaxis or 
+resonance is a crucial force in initial patterning of 
+neuronal circuits. The tipping point that shifted opin-
+ion in favor of the molecular view was an experi-
+ment performed with frogs and other amphibia in the 
+1940s by Roger Sperry (ironically, a student of Weiss). 
+Sperry manipulated the information carried from the 
+eye to the brain by the axons of retinal ganglion cells. 
+These axons terminate in their target areas—the lat-
+eral geniculate body in the thalamus and the superior 
+colliculus (called optic tectum in lower vertebrates) in 
+the midbrain—in such a way that an orderly retino-
+topic map of the visual field is created.
+Because of the optics of the eye, the visual image 
+on the retina is an inversion of the visual field. The 
+retinal ganglion cells reinvert the image by the pattern 
+in which their axons terminate in the optic tectum, 
+the main visual center in the brain of frogs (Figure 
+47–9A). If the optic nerve is cut, the animal is blinded. 
+In lower vertebrates, cut retinal axons can reestab-
+lish projections to the tectum, whereupon vision is 
+restored. This is not the case in mammals, as we will 
+discuss in Chapter 50.
+Sperry’s key experiment was to sever the optic 
+nerve in a frog and then rotate the eye in its socket 
+by 180° before regeneration of the nerve. Remarkably, 
+the frog exhibited orderly responses to visual input, 
+but the behavior was wrong. When the frog was pre-
+sented with a fly on the ground, it jumped up, and 
+when offered a fly above its head, it struck downward 
+(Figure 47–9B). Importantly, the animal never learned 
+to correct its mistakes. Sperry suggested—and later 
+verified with anatomical and physiological methods—
+that the retinal axons had reinnervated their original 
+tectal targets, even though these connections pro-
+vided the brain with erroneous spatial information 
+that led to aberrant behavior. The inference of these 
+experiments was that recognition between axons and 
+their targets relied on molecular matching rather 
+than functional validation and refinement of random 
+connections.
+But Weiss’s ideas are by no means obsolete. 
+Indeed, we now recognize that the activity of neu-
+ral circuits can play a crucial role in shaping connec-
+tivity. The current view is that molecular matching 
+predominates during embryonic development and 
+that activity and experience modify circuits after they 
+have formed. In this chapter and the next, we describe 
+the molecular cues that guide the formation of neural 
+connections, and then in Chapter 49, we examine the 
+role of activity and experience in the fine-tuning of 
+synaptic connections.
+Sperry’s conjecture, often called the chemospeci-
+ficity hypothesis, prompted developmental neurobiol-
+ogists to search for axonal and synaptic “recognition 
+molecules.” Success was limited for the first few dec-
+ades, in part because these molecules are present in 
+small amounts and on discrete subsets of neurons 
+and there were no effective methods for isolating 
+rare molecules from complex tissues. Eventually 
+advances in biochemical and molecular-biological 
+methods made this task more feasible, and many 
+proteins involved in the guidance of axons to their 
+targets have now been discovered. These proteins 
+typically consist of paired ligands and receptors: The 
+ligands are presented by cells along the pathway an 
+axon follows and the receptors by the growth cone 
+itself.
+In the most general terms, guidance cues can be 
+presented on cell surfaces, in the extracellular matrix, 
+or in soluble form. As described above (Figure 47–8), 
+they interact with receptors embedded in the growth 
+cone membrane to promote or inhibit outgrowth of the 
+axon. Most receptors have an extracellular domain that 
+selectively binds the cognate ligand and an intracellular 
+domain that couples to the cytoskeleton, either directly 
+or through intermediates such as second messengers. 
+The ligands can speed or slow growth. Ligands pre-
+sented to one side of the growth cone can result in local 
+activation or inhibition, leading to turning. In this way, 
+the local distribution of environmental cues determines 
+the pathway of the advancing growth cone.
+As a result of these recent discoveries, axon 
+guidance—a process that appeared mysterious years 
+ago—can now be viewed as the orderly consequence 
+of protein–protein interactions that instruct the growth 
+cone to grow, turn, branch, or stop (Figures 47–10, 11). 
+This limited set of instructions is sufficient, when pre-
+sented with spatial precision, to choreograph growth 
+cone behaviors with exquisite subtlety. Axonal guid-
+ance can therefore be explained by describing how 
+and where ligands are presented and how the growth 
+cone integrates this information to generate an orderly 
+response. In the rest of the chapter, we illustrate les-
+sons learned by describing the journeys of two types of 
+axons: those of retinal ganglion neurons and those of a 
+particular class of sensory relay neurons in the spinal 
+cord.
+
+
+===== Page 5 =====
+1168    Part VII / Development and the Emergence of Behavior
+A  Normal
+Optics
+Connectivity
+Action
+A
+A
+P
+P
+A
+P
+D
+V
+D
+V
+D
+V
+A
+P
+D
+V
+B  Inverted
+Retina
+Field of view
+Tectum
+Retina
+Field of view
+Tectum
+Figure 47–9  Roger Sperry’s classical experiments on  
+regeneration in the visual system provided evidence for 
+chemoaffinity in the wiring of connections.
+A. In the visual system of the frog, the lens projects an inverted 
+visual image onto the retina and the optic nerve then transfers 
+the image, with an additional inversion, to the optic tectum. 
+The spatial arrangement of retinal inputs to the tectum allows 
+for this transfer. Neurons in the anterior retina project axons 
+to the posterior tectum, while neurons in the posterior retina 
+project to the anterior tectum. Similarly, neurons in the dorsal 
+retina project to the ventral tectum, and neurons in the ventral 
+retina project to the dorsal tectum. As a result, visually guided 
+behaviors (here catching a fly) are accurate. (Abbreviations: A, 
+anterior; D, dorsal; P, posterior; V, ventral.)
+B. If the optic nerve is cut and the eye is surgically rotated in its 
+socket before the nerve regenerates, visually guided behavior 
+is aberrant. When a fly is presented overhead, the frog per-
+ceives it as below, and vice versa. The inversion of behavioral 
+reflexes results from the connection of regenerating retinal 
+axons to their original targets, even though these connections 
+now transfer an inverted, inappropriate map of the world into 
+the brain.
+The Growth of Retinal Ganglion Axons Is 
+Oriented in a Series of Discrete Steps
+Sperry’s experiment implied the existence of axon 
+guidance cues but did not reveal where they were or 
+how they worked. For a time, one prominent view 
+was that recognition occurred mostly at or near 
+the target and that mechanical forces or long-range 
+chemotactic factors sufficed to get axons to the vicin-
+ity of the target.
+We now know that axons reach distant targets in 
+a series of discrete steps, making frequent decisions at 
+closely spaced intervals along their route. To illustrate 
+this point, we shall trace in greater detail the path that 
+Sperry was trying to understand, that of a retinal axon 
+growing to the optic tectum.
+
+
+===== Page 6 =====
+Figure 47–10  Extracellular cues use a variety of mecha-
+nisms to guide growth cones.  The axon can interact with 
+growth-promoting molecules in the extracellular matrix (1). 
+It can interact with adhesive cell-surface molecules on neu-
+ral cells (2). The growing axon can encounter another axon 
+from a “pioneer” neuron and track along it, a process termed 
+fasciculation (3). Soluble chemical signals can attract the grow-
+ing axon to its cellular source (4). Intermediate target cells that 
+express cell-surface repellent cues can cause the axon to turn 
+away (5). Soluble chemical signals can repel the growing axon 
+(6). Extracellular signals also lead to formation of collaterals 
+from axon shafts (7) or branching of the growing axon (8).
+2  Cell surface adhesion
+3  Fasciculation
+1  Extracellular matrix adhesion
+4  Chemoattraction
+5  Contact inhibition
+6  Chemorepulsion
+7  Collateral branching
+8  Terminal branching
++
++
++
++
++
++
++
++
++ +++
++++++
+++
++
++
+++
++
++
+++
++
++
++
++
+++
++
+++
++
++
+++
++
++
++ +++
++++++
+++
++
++
+++
++
++
++
+++
++
++
++
+++
++
+++
++
++
+++
++
++
++ +++
++++++
+++
++
++
+++
++
++
++
+++
++
++
++
+++
++
+++
++
++
+++
++
++
+–
+–
+–
+–
+–
+–
+– – ––
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+– –––
+–
+– – –
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
++ +++
++++++
+++
++
++
+++
++
++
+++
++
++
++
++
++
++
++++
++
++
++
++ +++
++++++
+++
++
++
+++
++
++
+++
++
++
++
++
++
++++
++
++
++
+–
+–
+–
+–
+–
+–
+– – ––
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+– –––
+–
+– – –
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++ +++
++++++
+++
++
++
+++
++
++
+++
++
++
++
++
++
++
++++
++
++
++
++ +++
++++++
+++
++
++
+++
++
++
++
+++
++
++
++
++
++
++++
++
++
++
+–
+–
+–
+–
+–
+–
+– – ––
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+– –––
+–
+– – –
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++ ++
++ +
++++++
+++
+++
+++
++
++
+++
++
++
++
++
+++
++
+++
++
++++
++
++
+–
+–
+–
+–
+–
+– – ––
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+– –––
+–
+– – –
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++ +++
++++++
+++
++
++
+++
++
++
++
+++
++
++
++
+++
++
+++
++
++
+++
++
++
+–
+–
+–
++ +++
++++++
+++
++
++
+++
++
++
+++
++
++
++
++
++
++
++++
++
++
++
+–
+–
+–
+–
+–
+–
+– – ––
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+– –––
+–
+– – –
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++ +++
++++++
+++
++
++
+++
++
++
++
+++
++
++
++
++
++
++++
++
++
++
++ +++
++++++
+++
++
++
+++
++
++
+++
++
++
++
++
++
++
++++
++
++
++
+–
+–
+–
+–
+–
+–
+– – ––
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+– –––
+–
+– – –
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++ ++ +
++++++
+++
+++
+++++
++
++
++ +
+++
++
++
++
+++
++
++
++
++
++
+++++
++
++
++ +++
++++++
+++
++
++
+++
++
++
++
+++
++
++
++
++
++
++++
++
++
++
++ +++
++++++
+++
++
++
+++
++
++
+++
++
++
++
++
++
++
++++
++
++
++
+–
+–
+–
+–
+–
+– – ––
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+– –––
+–
+– – –
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++ +++
+++ +++
+++
++
++
+++
++
++
+++
++
++
++
++
++
++
++++
++
++
++
+–
+–
+–
+–
+–
+–
+– – ––
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+– –––
+–
+– – –
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+Pioneer
+neuron
+
+
+===== Page 7 =====
+1170    Part VII / Development and the Emergence of Behavior
+cAMP
+PKA
+NCAM
+L1
+TAG1
+Eph
+receptor
+Ephexin
+B  Immunoglobulin superfamily
+C  Ephrins
+D  Laminins
+F  Slits
+G  Netrins
+Ankyrin G
+Caspr
+PDZ
+GUK
+Nck
+cGMP
+Ca2+
+Actin
+Rac
+Rac
+PAK
+α-Actinin
+Talin
+Vinculin
+Actin
+γ
+Neuropilin
+GRB4
+Rac
+Spectrin
+Rho
+ROCK
+DCC
+unc-5
+Robo
+β-catenin
+α-catenin
+Plexin
+EC5
+EC1
+EC5
+Actin
+Actin
+Actin
+Ephrin B
+Ephrin A
+Forward
+signaling
+Integrin
+α
+α
+β
+β
+A  Cadherins
+Reverse
+signaling
+E  Semaphorins
+
+
+===== Page 8 =====
+Chapter 47 / The Growth and Guidance of Axons    1171
+Figure 47–11  (Opposite) Diverse molecular families control 
+the growth and guidance of developing axons.
+A. A large family of classical cadherins promote cell and axonal 
+adhesion, primarily through homophilic interactions between 
+cadherin molecules on adjacent neurons. Adhesive interac-
+tions are mediated through interactions of the extracellular EC1 
+domains. Cadherins transduce adhesive interactions though 
+their cytoplasmic interactions with catenins, which link cadher-
+ins to the actin cytoskeleton.
+B. A diverse array of immunoglobulin superfamily proteins 
+are expressed in the nervous system and mediate adhesive 
+interactions. The three examples shown here, NCAM, L1, and 
+TAG1, can bind both homophilically and heterophilically to pro-
+mote axon outgrowth and adhesion. These proteins contain 
+both immunoglobulin domains (circles) and fibronectin type III 
+domains (squares). Homophilic interactions typically involve 
+amino terminal immunoglobulin domains. Different immuno-
+globulin adhesion molecules interact with the cytoskeleton via 
+diverse cytoplasmic mediators, only a few of which are shown 
+here.
+C. Different ephrin proteins bind to Eph class tyrosine kinase 
+receptors. Class A ephrins are linked to the surface membrane 
+through a glycosyl phosphatidylinositol tether, whereas class B 
+ephrins are transmembrane proteins. Class A ephrins typically 
+bind class A Eph kinases, and class B ephrins typically bind 
+class B Eph kinases. Forward Eph signaling usually elicits repel-
+lant or inhibitory responses in receptive cells, whereas reverse 
+ephrin signaling can elicit adhesive or inhibitory responses. 
+Ephrin-Eph signaling involves many different cytoplasmic 
+mediators.
+D. Laminin proteins are components of the extracellular matrix 
+and promote cell adhesion and axon extension through interac-
+tions with integrin receptors. Integrins mediate adhesion and 
+axon growth through interactions with the cytoskeleton via 
+many intermediary proteins.
+E. Semaphorin proteins can promote or inhibit axonal growth 
+through interaction with a diverse array of plexin and neuropilin 
+receptors, which transduce signals via Rho class GTPases and 
+downstream kinases.
+F. Slit proteins typically mediate repellant responses through 
+interaction with Robo class receptors, which influence axonal 
+growth via intermediary GTPases such as Rac.
+G. The secreted or extracellular matrix–associated netrin 
+proteins mediate both chemoattractant and chemorepellent 
+responses. Attractant responses are mediated through interac-
+tion with DCC (deleted in colorectal cancer) receptors, whereas 
+repellent responses involve interactions with DCC and unc-5 
+coreceptors. Netrin receptors signal via GTPases and cyclic 
+guanosine monophosphate (cGMP) cascades.
+Growth Cones Diverge at the Optic Chiasm
+The first task of the axon of a retinal ganglion cell is 
+to leave the retina. As it enters the optic fiber layer, it 
+extends along the basal lamina and glial end-feet at the 
+retina’s edge. The growth of the axon is oriented from 
+the outset, indicating that it can read directional cues 
+in the environment. As it approaches the center of the 
+retina, it comes under the influence of attractants ema-
+nating from the optic nerve head (the junction of the 
+optic nerve with the retina proper), which guide it into 
+the optic stalk. It then follows the optic nerve toward 
+the brain (Figure 47–12).
+The first axons to travel this route follow the cells 
+of the optic stalk, the rudiment of the neural tube that 
+connects the retina to the diencephalon from which it 
+arose. These “pioneer” axons then serve as scaffolds 
+for later-arriving axons, which are able to extend 
+accurately simply by following their predecessors (see  
+“fasciculation” in Figure 47–10). Once they reach the 
+optic chiasm, however, the retinal axons must make 
+a choice. Axons that arise from neurons in the nasal 
+hemiretina of each eye cross the chiasm and proceed to 
+the opposite side of the brain, whereas those from the 
+temporal half are deflected as they reach the chiasm and 
+so stay on the same side of the brain (Figure 47–13A).
+This divergence in trajectory reflects the differen-
+tial responses of axons from the nasal and temporal 
+hemiretinas to guidance cues presented by midline 
+chiasm cells. Some retinal axons contact and traverse 
+chiasm cells, whereas others are inhibited by these 
+cells and deflected away, thus remaining on the ipsi-
+lateral side. One of the key molecules presented by 
+chiasm cells is a membrane-bound repellent of the 
+ephrin-B family (Figure 47–13B), which also figures in 
+later steps of retinal ganglion cell axon guidance.
+The fraction of temporal retinal axons that project 
+ipsilaterally varies among species: few in lower verte-
+brates, some in rodents, and many in humans. These 
+differences reflect placement of the eyes. In many ani-
+mals, the eyes point to the sides and monitor different 
+parts of the visual world, so that information from the 
+two eyes need not be combined. In humans, both eyes 
+look forward and sample largely overlapping regions 
+of the visual world, so coordination of visual input is 
+essential.
+After crossing the optic chiasm, retinal axons assem-
+ble in the optic tract along the ventral surface of the 
+diencephalon. Axons then leave the tract at different 
+points. In most vertebrate species, the tectum of the 
+midbrain (called the superior colliculus in mammals) 
+is the major target of retinal axons, but a small num-
+ber of axons project to the lateral geniculate nucleus of 
+the thalamus. In humans, however, most axons project 
+to the lateral geniculate, a sizable number reach the 
+
+
+===== Page 9 =====
+1172    Part VII / Development and the Emergence of Behavior
+Figure 47–12  The axons of retinal ganglion cells grow to 
+the optic tectum in discrete steps.  Two neurons that carry 
+information from the nasal half of the retina are shown. The 
+axon of one crosses the optic chiasm to reach the contralateral 
+optic tectum. The axon of the other also crosses the optic chi-
+asm but projects to the lateral geniculate nucleus. The numbers 
+indicate important landmarks on the axon’s journey. The grow-
+ing axon is directed toward the optic nerve head (the junction 
+of the nerve with the retina) (1), enters into the optic nerve 
+(2), extends through the optic nerve (3), swerves to remain 
+ipsilateral (not shown) or crosses to the contralateral side at the 
+optic chiasm (4), extends through the optic tract (5), enters into 
+the optic tectum or lateral geniculate nucleus (not shown) (6), 
+navigates to an appropriate rostrocaudal and dorsoventral position 
+on the tectum (7), turns to enter the neuropil (descends in chicks 
+as shown here; ascends in mammals) (8), stops at an appropriate 
+layer where a rudimentary terminal arbor is formed (9), and finally 
+is remodeled (10). (Abbreviations: A, anterior; P, posterior).
+A
+P
+1
+2
+3
+Optic chiasm
+6
+7
+4
+5
+Optic 
+nerve
+Optic 
+tract
+Lateral
+geniculate
+nucleus
+Optic tectum
+(superior colliculus)
+8
+9
+10
+2
+3
+4
+5
+6
+7
+8
+16
+colliculus, and small numbers project to the pulvinar, 
+superchiasmatic nucleus, and pretectal nuclei. Within 
+these targets, different retinal axons project to differ-
+ent regions. As Sperry showed, the retinal axons form 
+a precise retinotopic map on the tectal surface. Similar 
+maps form in other areas innervated by retinal axons 
+such as the lateral geniculate nucleus.
+Having reached an appropriate position within 
+the tectum, retinal axons need to find an appropriate 
+synaptic partner. To achieve this last leg of their jour-
+ney, retinal axons turn and dive into the tectal neuropil 
+(Figure 47–12), descending (or, in mammals, ascend-
+ing) along the surface of radial glial cells, which pro-
+vide a scaffold for radial axonal growth. Although 
+radial glial cells span the entire extent of the neu-
+roepithelium, each retinal axon confines its synaptic 
+terminals to a single layer. The dendrites of many post-
+synaptic cells extend through multiple layers and form 
+synapses along their entire length, but retinal inputs 
+are restricted to a small fraction of the target neuron’s 
+dendritic tree. These organizational features imply that 
+layer-specific cues arrest axonal elongation and trigger 
+arborization.
+The problem of long-distance axon navigation is 
+therefore solved by dividing the journey into short 
+segments in which intermediate targets guide the 
+axons along the path to their final targets. Some inter-
+mediate targets, such as the optic chiasm, are “decision” 
+regions where axons diverge.
+Reliance on intermediate targets is an effective 
+solution to the problem of long-distance axonal navi-
+gation but is not the only one. In some cases, the first 
+axons reach their targets when the embryo is small and 
+the distance to be covered is short. These “pioneer” 
+axons respond to molecular cues embedded in cells 
+or the extracellular matrix along their way. The first 
+axons to exit the retina fall within this class. Axons that 
+appear later, when distances are longer and obstacles 
+more numerous, can reach their targets by following 
+the pioneers. Yet another guidance mechanism is a 
+molecular gradient. Indeed, as we will see, gradients 
+of cell-surface molecules in the tectum inform axons 
+about their proper termination zone.
+Gradients of Ephrins Provide Inhibitory  
+Signals in the Brain
+So far, we have seen how retinal axons reach the tectum 
+by responding to a series of discrete directional cues. 
+However, these choices during growth do not account 
+
+

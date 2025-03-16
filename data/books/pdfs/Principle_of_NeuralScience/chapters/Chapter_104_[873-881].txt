@@ -1,0 +1,869 @@
+===== Page 1 =====
+828    Part V / Movement
+Figure 34–6  Some neurons in the parietal cortex of the 
+monkey have receptive fields that dynamically expand 
+once a tool is grasped. (Adapted from Maravita and Iriki, 2004.
+Copyright © 2003 Published by Elsevier Ltd.)
+A. The orange area on the hand (left) indicates the somatosen-
+sory receptive field for a neuron. The purple area (middle) 
+indicates the neuron’s visual receptive field (vRF) region around 
+the hand. The vRF is anchored to the hand and changes spatial 
+location whenever the monkey moves its arm. The vRF expands 
+when the monkey grasps a rake after it has learned how to use 
+the rake to reach for objects in the workspace (right).
+B. A single neuron that has a shoulder-centered bimodal 
+somatosensory (orange) and visual (purple) receptive field is 
+illustrated. The vRF for this neuron (middle) is larger than the 
+one shown in part A, possibly reflecting the potential work-
+space related to whole-arm function. The vRF also expands 
+to incorporate the extended workspace permitted by use of a 
+rake (right ).
+A
+B
+Somatosensory
+receptive ﬁeld
+Somatosensory
+receptive ﬁeld
+Visual receptive ﬁeld before tool use
+Visual receptive ﬁeld before tool use
+Visual receptive ﬁeld after tool use
+Visual receptive ﬁeld after tool use
+state estimation will depend on the origin of its pre-
+movement activity. If it is mainly generated within the 
+parietal cortex itself, this will strongly implicate the 
+parietal cortex in the planning of intended movements. 
+In contrast, if it is primarily driven by an efference 
+copy relayed from precentral motor areas, this would 
+strongly implicate the parietal circuits in state estima-
+tion, including predicting how the arm should move in 
+response to the motor command.
+Premotor Cortex Supports Motor Selection  
+and Planning
+As outlined at the beginning of this chapter, a decision 
+to act in a particular way in a given situation is shaped 
+by many factors, including sensory information about 
+objects, events, and opportunities for action from the 
+environment, body position and motion, internal moti-
+vational states, prior experiences, reward preferences, 
+and learned arbitrary rules and strategies linking 
+sensory inputs to motor actions. There can be many 
+reasons why you want to drink some coffee, and that 
+desire can be fulfilled by actions ranging from simply 
+reaching out to your full coffee cup to making coffee at 
+home or going to a café.
+Frontal premotor cortical regions just rostral to M1 
+play an important role in early movement planning or 
+task-selection processes. Many neurons in those areas, 
+such as the PMd neurons shown in Figure 34–4, gen-
+erate activity during instructed-delay tasks that reflect 
+the motor intentions of the monkey and even the fac-
+tors that influenced those action choices. The different 
+premotor cortical regions are presumed to make dif-
+ferent but overlapping contributions to motor selec-
+tion and planning. For instance, the lateral premotor 
+
+
+===== Page 2 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    829
+cortex, including PMd and PMv, have traditionally 
+been implicated in actions initiated and guided by 
+external sensory inputs. In contrast, medial premotor 
+areas, including SMA, pre-SMA, and CMA, have been 
+implicated in the control of self-initiated movements 
+as well as the suppression of actions. However, the dis-
+tinction between their respective contributions is not 
+absolute.
+Medial Premotor Cortex Is Involved in the 
+Contextual Control of Voluntary Actions
+Clinton Woolsey’s pioneering electrical stimulation 
+studies showed that, in addition to the motor map in 
+M1, the medial wall of the frontal cortex contains an 
+array of neurons that also regulate body movements. 
+This medial motor map, now called the supplemen-
+tary motor area (SMA), includes the entire contralat-
+eral body but is coarser than the detailed map in 
+M1, as described later. Strong stimulus currents are 
+required to evoke movements, which are often com-
+plex actions such as postural adjustments or stepping 
+and climbing and can involve both sides of the body. 
+Today, there is agreement that this region contains 
+two areas that have distinct cytoarchitectonic charac-
+teristics, axonal connections, and functional proper-
+ties: a more caudal SMA proper and a more rostral 
+presupplementary motor area (pre-SMA), which 
+we will collectively call the supplementary motor  
+cortex (SMC).
+The SMC has been implicated in many aspects of 
+voluntary behavior, although its contribution remains 
+controversial. Several lines of evidence support a role 
+in self-initiated behavior. In humans, electrical stimula-
+tion of SMC below the threshold for movement initia-
+tion can evoke an introspective sense of an urge to move 
+that does not arise during M1 stimulation. Lesions of 
+SMC produce problems initiating desired movements 
+or suppressing undesirable movements (Box 34–2). 
+Moreover, recordings of slow cortical potentials at the 
+surface of the skull during the execution of self-paced 
+movements show that the initial potential arises in the 
+frontal cortex as much as 0.8 to 1.0 second before the 
+onset of movement. This signal, named the readiness 
+Lesions of the supplementary motor area (SMA) and 
+presupplementary motor area (pre-SMA) and the pre-
+frontal areas connected with them produce deficits in 
+the initiation and suppression of movements. Initiation 
+deficits manifest themselves as loss of self-initiated arm 
+movements, even though the patient can move when 
+adequately prompted. This deficit can involve move-
+ment of parts of the body (akinesia) contralateral to the 
+region and speech (mutism).
+Deficits in movement suppression, in contrast, 
+include the inability to suppress behaviors that are 
+socially inappropriate. These include compulsive grasping 
+of an object when the hand touches it (forced grasping), 
+irrepressible reaching and searching movements aimed 
+at an object that has been presented visually (groping 
+movements), and impulsive arm and hand movements to 
+grab nearby objects and even people without conscious 
+awareness of the intention to do so (alien-hand or anar-
+chic-hand syndrome).
+Another striking syndrome is utilization behavior, 
+in which a patient compulsively grabs and uses objects 
+without consideration of need or the social context. 
+Examples are picking up and putting on multiple pairs 
+of glasses or reaching for and eating food when the 
+patient is not hungry or when the food is clearly part of 
+someone else’s meal.
+These deficits in the initiation and suppression 
+of actions may represent opposite facets of the same 
+functional role for SMA and especially pre-SMA in the 
+conditional or context-dependent control of voluntary 
+behavior.
+Lesions affecting premotor cortex also lead to 
+impairments in the selection of motor actions. For exam-
+ple, when a normal monkey sees a tasty food treat behind 
+a small transparent barrier, it readily reaches around the 
+barrier to grasp it. However, after a large premotor cortex 
+lesion, the monkey may persistently try to reach directly 
+toward the treat and so repeatedly strikes the barrier with 
+its hand, rather than making a detour around the barrier.
+More focal lesions or inactivation of the ventral pre-
+motor cortex perturbs the ability to use visual informa-
+tion about an object to shape the hand appropriately for 
+the object’s size, shape, and orientation before grasping it. 
+Focal lesions of the dorsal premotor cortex affect the abil-
+ity to learn and recall arbitrary sensorimotor mappings 
+or conditional stimulus–response associations, whereas 
+supplementary motor cortex lesions impede the ability to 
+learn and recall temporal sequences of movement.
+Box 34–2  Lesions of Premotor Cortex Lead to Impairments in the Selection, Initiation, and 
+Suppression of Voluntary Behavior
+
+
+===== Page 3 =====
+830    Part V / Movement
+Figure 34–7  Some neurons in the supplementary motor 
+complex of monkeys encode a specific sequence of motor 
+acts.  (Adapted, with permission, from Tanji 2001. Copyright © 
+2001 by Annual Reviews.)
+A. A neuron discharges selectively during the waiting period 
+before the first movement of the memorized sequence push-
+turn-pull (left). When the sequence is push-pull-turn (right), the 
+cell remains relatively silent, even though the first movement in 
+both sequences is the same (push). Triangles at the top of each 
+raster plot indicate the start of the push movement.
+B. Records of a neuron whose activity increases selectively 
+during the interval between completion of one motor act, a 
+pull, and the initiation of another act, a push. The cell is not 
+active when a push is the first movement in the sequence or 
+when pull is followed by turn.
+A
+Push
+Turn
+Pull
+Push
+Turn
+Pull
+Pull
+Push
+Turn
+Pull
+Push
+Turn
+B
+1 s
+1 s
+potential, has its peak in the cortex centered in SMC. 
+Because it occurs well before movement, the readiness 
+potential has been widely interpreted as evidence that 
+neural activity in this region is involved in forming the 
+intention to move, not just in executing movement.
+Neurons in both SMA and pre-SMA discharge 
+before and during voluntary movements. Unlike M1 
+neurons, the activity of most SMA neurons is less 
+tightly coupled to particular actions of a body part 
+and appears instead to be associated with more com-
+plex, coordinated motor acts of the hand, arm, head, 
+or trunk. Compared to SMA neurons, pre-SMA neu-
+rons often begin to discharge much earlier in advance 
+of movement onset and are less tightly coupled to the 
+execution of movements.
+The SMC has been implicated in the so-called 
+executive control of behavior, such as operations 
+required to switch between different actions, plans, 
+and strategies. For example, in monkeys, some SMC 
+neurons discharge strongly when a subject is presented 
+with a cue instructing it to change movement targets 
+or to suppress a previously intended movement. The 
+SMC may therefore contain a system that can override 
+motor plans when they are no longer appropriate.
+The SMC has also been implicated in the organi-
+zation and execution of movement sequences. Some 
+SMC neurons discharge before the start of a particu-
+lar sequence of three movements but not before a dif-
+ferent sequence of the same three movements (Figure 
+34–7). Other neurons discharge only when a particular 
+movement occurs in a specific position in a sequence 
+or when a particular pair of consecutive movements 
+occurs regardless of their position in the sequence. 
+In contrast, some other SMC neurons discharge only 
+when the monkey makes the movement that occurs 
+in a particular ordinal position of a sequence (eg, only 
+the third) irrespective of its nature or how many move-
+ments remain to be executed in the sequence.
+These seemingly disparate functions may reflect a 
+more general role of the SMC in contextual control of vol-
+untary behavior. Contextual control involves selecting 
+and executing those actions deemed appropriate on the 
+basis of different combinations of internal and external 
+cues as well as withholding inappropriate actions in 
+
+
+===== Page 4 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    831
+a specific environmental or social context. It also can 
+involve organizing the sequence of actions required to 
+achieve a particular goal. Contextual control likely also 
+involves contributions from other neural circuits such 
+as regions of the prefrontal cortex and the basal ganglia.
+The cingulate motor areas (CMA) may also contrib-
+ute to the contextual control of behavior. CMA appears 
+to be involved in selecting alternate actions follow-
+ing motor errors or in response to changing reward 
+contingencies. For example, monkeys were trained to 
+push or turn a handle in response to a noninstructive 
+trigger signal. Initially, the monkeys received a large 
+reward if they made the same movement (pushing or 
+turning the handle) in sequential trials. After several 
+trials, the reward size began to decrease. If the mon-
+keys then switched to the other movement, the reward 
+size returned to maximum once that movement was 
+repeated for several trials. The best strategy for the 
+monkeys, therefore, was to switch between repetitions 
+of either pushing or turning the handle as soon as they 
+detected a reduction in reward size.
+In this task, some neurons in the rostral CMA 
+responded during the interval between the reception of 
+reward and the start of the next trial. On trials with a 
+reduced reward, task-related activity in these neurons 
+did not change when the monkeys made the same move-
+ment in the next trial; their activity only changed when 
+the monkeys switched to the other movement in the next 
+trial. Importantly, those same neurons did not show the 
+same response change when a visual cue instructed the 
+monkeys to change movements in the next trial. This 
+suggests that these rostral CMA neurons were preferen-
+tially involved in the voluntary decision to switch and 
+move to the alternate goal based on action outcomes 
+(reward size), but not by visual instructions to switch.
+Dorsal Premotor Cortex Is Involved in Planning 
+Sensory-Guided Movement of the Arm
+Some of the first neural evidence that the lateral premo-
+tor cortex, including PMd and PMv, plays a crucial role 
+in the selection and planning of sensory-guided motor 
+actions came from recording studies by Ed Evarts, Steven 
+Wise, and colleagues in the 1980s. These studies showed 
+that many premotor neurons emitted brief short-latency 
+discharge bursts in response to instructional cues that 
+signaled specific movements, or sustained activity dur-
+ing the instructed-delay period between the appearance 
+of the instructional cue and a second cue that permitted 
+the instructed movement (Figure 34–4).
+This activity reflects information about the 
+intended act, including the spatial location of the 
+target, the direction of arm movement, and other 
+movement attributes. Importantly, PMd delay-period 
+activity can reflect the intention to reach to a particular 
+location with either the contralateral or ipsilateral arm, 
+even though the biomechanical details of the two arm 
+movements are very different. This suggests that PMd 
+activity can signal the intention to generate a motor act 
+independent of the effector used to generate the action, 
+in an extrinsic spatial coordinate framework consistent 
+with a prediction of the sensorimotor coordinate trans-
+formation model of motor planning. Imaging studies 
+have likewise found evidence for an extrinsic spatial 
+representation of finger-tapping sequences made with 
+either hand in human premotor cortex.
+Selection of an appropriate action from among 
+multiple alternatives is a critical aspect of voluntary 
+control. Delay-period activity in PMd can reflect that 
+process. For example, in one experiment, recordings 
+were made from PMd neurons in monkeys during a 
+task in which the animals first received two colored 
+spatial cues that identified two potential targets for 
+reaching in opposite directions. After a memorized-delay 
+period, a new centrally-located color cue informed the 
+monkeys which of the spatial cues was the correct 
+target. Following the first instruction, neural activ-
+ity in PMd signaled both potential-reaching move-
+ments, but immediately after the second instruction, 
+activity in PMd signaled only the monkeys’ reach-
+ing choice (Figure 34–8A). This showed that PMd 
+can prepare multiple potential motor actions prior 
+to the final decision about which action to take. Sub-
+sequent studies suggest that this might be limited to 
+no more than three to four simultaneous potential 
+actions. Reach-related neurons in parietal area PRR 
+also contribute to the preparation for two poten-
+tial motor actions before the final action decision is 
+made (Figure 34–8B), revealing how this process is 
+distributed across multiple arm movement–related 
+cortical neural populations.
+PMd neurons can also signal a deliberate deci-
+sion not to move. Many PMd neurons generate direc-
+tionally tuned activity during an instructed-delay 
+period when a colored visual cue at a target location 
+instructs a monkey to reach to the target, but decrease 
+their activity when a different colored cue at the same 
+location instructs the monkey to refrain from reach-
+ing to it. This differential activity is an unequivocal 
+signal, seconds before the action is executed, about 
+the monkey’s intention to reach in a particular direc-
+tion or not to move in response to an instructional cue 
+(Figure 34–9). Interestingly, many neurons in the parietal 
+area PE/MIP studied in the same task continue to 
+generate directionally tuned activity during the delay 
+period even after the instructional cue to withhold 
+
+
+===== Page 5 =====
+832    Part V / Movement
+Figure 34–8  Activity of reach-related cortical neurons in 
+monkeys during a target selection task reflects potential 
+movements to different targets as well as the chosen  
+direction of reach.
+A. The three-dimensional colored surface depicts the mean 
+level of activity of a population of dorsal premotor cortex 
+(PMd) neurons with respect to baseline in a task in which a 
+monkey must choose one of two color-coded reach targets 
+in each trial. Cells are sorted along one axis (labeled “cells”) 
+based on their preferred movement direction (neurons 
+located at the red and blue circles prefer movements at 
+45° and 215°, respectively). Diagrams beside the neural 
+response profile display the stimuli presented to the mon-
+key at different times during the trial. Red and blue cues 
+provide information about potential actions; green cues 
+guide the monkeys through different stages of each trial but 
+provide no information about what reach to make. Shortly 
+after the start of each trial, two potential reach targets (blue 
+and red spatial cues) appear in opposite locations relative to 
+the starting position of the arm (green circle) for 500 ms and 
+then disappear. After a memorized delay period, the color 
+of the starting circle changes to either red or blue (color 
+cue), indicating to the monkey which is the correct target, 
+in this case at 45°. After a further delay period, the go signal 
+(green circles at all eight possible target locations) instructs 
+the monkey to begin reaching to its chosen target. During 
+the period of target uncertainty between the appearance of 
+the two spatial cues and the central color cue, PMd neurons 
+that prefer the two potential reach movements (red and 
+blue circles) are simultaneously activated, whereas neurons 
+that prefer other movements are inactive or suppressed, so 
+that the entire PMd population encodes the two potential 
+reach actions. As soon as the color cue appears to identify 
+the correct target, the PMd neural activity changes rapidly 
+to signal the reach movement chosen by the monkey. Had 
+the color cue designated the target at 215°, the neurons 
+preferring that target (blue circle) would increase their activ-
+ity, and the neurons preferring the target at 45° (red circle) 
+would decrease their activity (not shown). (Reproduced, 
+with permission, from Cisek and Kalaska 2010. Copyright © 
+2010 by Annual Reviews.)
+B. In a second study of neural activity in the parietal reach 
+region (PRR), the format of data is the same as in part A. In 
+this study, the monkey is presented with a single spatial cue 
+that instructs it to prepare to reach either to the cue’s loca-
+tion (PD) or in the opposite direction (OD). After a random 
+memorized delay period, a color cue specifies whether the 
+reach should be to the remembered location of the spatial 
+cue (green; PD) or in the OD (blue). PRR neural activity is 
+sorted according to the preferred movement direction of 
+each neuron, as in part A. Population activity initially speci-
+fies the spatial cue location but then reflects both potential 
+movement directions during the remainder of the memo-
+rized delay period. Shortly after the color cue appears, the 
+activity quickly shifts to reflect the chosen reach direction, 
+either the PD or OD. (Reproduced, with permission, from 
+Klaes et al. 2011. Copyright © 2011 Elsevier Inc.)
+PMd
+PRR
+B
+A
+A
+B
+500 ms
+100 ms
+Spatial
+cues
+Color
+cue
+Go
+signal
+Go
+Activity
+Cells
+Cue
+position
+Activity
+Time
+Move
+Time
+Time
+Move
+Time
+OD
+PD
+OD
+PD
+OD
+PD
+0
+–10
++10
+Activity
+1.0
+3.5
+Memory
+period
+Memory
+period
+Spatial
+cue
+
+
+===== Page 6 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    833
+Figure 34–9  Decisions about response choices are evident 
+in the activity of premotor cortex neurons in the mon-
+key. (Reproduced, with permission, from Crammond and 
+Kalaska 2000.)
+A. In a reaction-time task (reaching), a cell exhibits gradually 
+increasing tonic firing while waiting for the appearance of a 
+target. When the target appears (go cue), the cell generates a 
+directionally tuned response.
+B. In an instructed-delay task, when a monkey is shown the 
+target and instructed to move once the go cue appears, the cell 
+generates a strong directionally tuned signal for the duration of 
+the delay period before the go cue (top). When the monkey is 
+shown the target and instructed not to move when the go cue 
+appears, the cell’s activity decreases (bottom).
+reaching, suggesting that the parietal cortex retains a 
+representation of potential actions that ultimately are 
+not executed.
+Many neurons in premotor cortex also discharge 
+during movement execution. Given this close proxim-
+ity of planning- and execution-related activity, even at 
+the level of individual neurons, a major question is why 
+planning-related neural activity does not immediately 
+initiate a movement. What prevents the movement 
+from being executed prematurely? It does not appear 
+that planning-related activity simply fails to exceed a 
+minimum threshold required to initiate the movement 
+or that there is a separate overt braking mechanism that 
+must be released to allow the movement to begin.
+A different way to interpret neural processing 
+during the planning and execution of reaching that 
+might provide answers to such questions comes from 
+a dynamical-systems perspective. The idea is that corti-
+cal motor circuits form a dynamical system whose dis-
+tributed activity patterns evolve in time as a function 
+of their initial state, input signals, and stochastic neural 
+response variability (“noise”). Activity patterns during 
+different stages of planning and execution thus reflect 
+different states of the network, including a specific state 
+during the delay period that can prepare the movement 
+but not activate muscles (Figure 34–10). The overall 
+similarity of the population-level activity patterns dur-
+ing repetitions of the same movement shows that 
+the entire population undergoes a coordinated pattern 
+of co-modulation of activity during the planning and 
+execution of the movement, determined by the synaptic 
+connectivity within the neural circuit.
+Dorsal Premotor Cortex Is Involved in Applying 
+Rules (Associations) That Govern Behavior
+Behavior is often guided by arbitrary rules that link 
+specific symbolic cues to particular actions. When 
+driving your car, you must perform different actions 
+depending on whether a traffic light is green, amber, 
+or red. In monkeys that have learned to associate arbi-
+trary cues with specific movements, many cells in pre-
+motor areas respond selectively to specific cues. For 
+instance, in order to select the correct target in the two-
+target study in Figure 34–8, the monkeys had to apply 
+a rule that mapped color to target location provided by 
+the two sequential instructional cues.
+The PMd is implicated in the acquisition of new 
+movement-related associations or rules. In one experi-
+ment, recordings from PMd neurons were made while 
+the monkeys learned the association between four 
+unfamiliar visual cues and four different movement 
+A  Reaction-time task
+B  Instructed-delay task
+Target and 
+go cue
+Go
+cue
+“Go”
+cue
+Target and 
+intention cue
+Target and 
+intention cue
+Movement intended
+No movement intended
+
+
+===== Page 7 =====
+834    Part V / Movement
+Figure 34–10  The time-varying neural activity in the dorsal 
+premotor cortex of monkeys during different stages of the 
+planning and execution of a movement can be viewed as 
+transitions between different activation states. (Adapted, 
+with permission, from Churchland MM et al. 2010. Stimulus 
+onset quenches neural variability: a widespread cortical phe-
+nomenon. Nat Neurosci 13:369-378. Copyright © Springer 
+Nature.)
+A. A schematic illustration of how the simultaneous activity of 
+neurons can be viewed as a trajectory through a multi-neuron 
+activity “state space.” The time-varying activity level of three 
+simultaneously recorded neurons is represented along three 
+axes, which defines a three-neuron state space. A specific plan 
+(reach left or reach right) requires different combinations of pre-
+paratory firing rates for the three neurons (gray zones). Prior to 
+the formation of the intention to move left or right, the baseline 
+activity of the three neurons occupies a region in state space that 
+is associated with holding the arm in its current position (open 
+circles, for two different trials). When an instruction appears to 
+make a reach to the right, the combined activity of the three 
+neurons changes in a coordinated fashion, creating time-varying 
+“neural trajectories” (gray arrows) that converge on the region of 
+state space that is associated with generating a rightward move-
+ment (filled circles within the “right reach” gray zone).
+B. Projection of the simultaneous activity of a large popula-
+tion of dorsal premotor cortex (PMd) neurons onto a two-
+dimensional state space shortly before (pre-target) and after 
+(post-target) the appearance of a reach target cue in a task in 
+which the reach movement must be delayed until a subsequent 
+go cue is presented. Gray lines show the temporal evolution 
+of the neural trajectories during the earliest part of movement 
+preparation from 200 ms before target cue until the speci-
+fied pre- or post-target time (black dots) in 15 different trials 
+to the same target location. Neural activity initially meanders 
+randomly within the region of state space associated with the 
+starting posture of the arm (left). It then begins to converge 
+onto a smaller region of the state space shortly after the reach 
+target instruction appears (center) and begins to evolve along 
+the neural trajectory associated with entering the preparatory 
+state for the reach (right).
+C. A more complete illustration of the neural trajectories 
+recorded during 18 different repeated trials to the same tar-
+get in this delayed reaching task from the initial pre-target 
+postural state to the onset of movement. Blue dots indi-
+cate activity while holding the arm in the starting posture 
+100 ms before appearance of the target instruction onset. 
+Once the target instruction appears, the neural trajectories 
+evolve toward a region of state space associated with the 
+preparatory activity state during the delay period (green 
+zone), where it dwells until a go cue appears that allows 
+the monkey to initiate the withheld movement (green dots). 
+While in this reach-preparatory part of the state space during 
+the delay period, the arm stays at the start position because 
+PMd activity in that part of state space is not capable of 
+activating muscles (ie, it is “output-null”). When the go cue 
+appears, the neural trajectories unfold toward a different 
+region of state space associated with the initiation of the 
+intended reach movement (gray zone and black dots). The 
+neural activity can only cause the muscle activity for the 
+intended movement when it enters this “output-potent” 
+zone of state space. The trial-to-trial variability of the neural 
+trajectories can account for intertrial variability in move-
+ment kinematics and reaction times. One outlier trial (red) 
+had a long reaction time and followed a more complex and 
+time-consuming neural trajectory from the green to the gray 
+zone. The output-null preparatory (green) and output-potent 
+movement-initiation (gray) zones for reaches to different target 
+locations occupy different regions of the total population state 
+space distinct from those associated with this reach target.
+D. Data are for the same target location as in part C but were 
+recorded on a different day. The neural trajectory structure 
+is fundamentally similar for the same movements between 
+recording sessions. Differences in the overall pattern of activ-
+ity can be explained by interday differences in the activity of 
+individual neurons and differences in the composition of the 
+recorded neural population between sessions.
+A
+B
+C
+D
+Neuron 3
+Neuron 2
+Neuron 1
+Trial 1
+Trial 2
+100 ms pre-target
+Pre-target
+Go cue
+Movement
+onset
+100 ms post-target
+200 ms post-target
+Right
+reach
+Left
+reach
+ﬁring rate
+
+
+===== Page 8 =====
+Chapter 34 / Voluntary Movement: Motor Cortices    835
+directions. Although the monkeys’ choices were ini-
+tially random, they learned the rules within a few dozen 
+trials. The monkeys made an arm movement in response 
+to each cue; during the early “guessing” phase of learn-
+ing, the activity of many PMd neurons was weak but 
+gradually increased in strength and directional tun-
+ing as the monkeys learned which cue signaled which 
+movement. Other neurons showed a reciprocal decline 
+in activity as the rules were acquired. These changes in 
+activity during learning reflected both the movement 
+choices and the rising level of knowledge of the rules 
+linking cues with actions.
+The nature of the rule can also have a strong 
+effect on neural responses. In monkeys that have been 
+trained to choose between several possible move-
+ments based on a spatial rule (a visual cue’s loca-
+tion) or a semantic rule (a cue’s arbitrarily designated 
+meaning independent of its location), many prefron-
+tal and PMd neurons are preferentially active when 
+the animal chooses a movement using one rule but 
+not the other. This shows that the neural activity is 
+related not just to a particular cue or action but also to 
+the association between them.
+Premotor areas are involved in the implementa-
+tion of even abstract rules. For example, monkeys 
+were trained in a task that required two decisions, 
+one perceptual and the other behavioral, that had no 
+prior association. In each trial, the monkeys first had 
+to decide whether two sequentially presented visual 
+images were the same or different (a match/nonmatch 
+perceptual decision). In some trials, a rule cue presented 
+at the same time as the sample visual image instructed 
+the monkeys to move their hand if the two images 
+were identical and to refrain from moving if they dif-
+fered (a go/no-go motor decision); in other trials, the 
+rule was reversed—move if the images differ and do 
+not move if they match. Neural activity in PMd after 
+the test visual images were presented was correlated 
+more strongly to the motor decision than the percep-
+tual decision in each trial, but both decisions were 
+expressed in PMd. More strikingly, PMd activity was 
+also correlated with the match/non-match behavioral 
+rule during the delay period between the two visual 
+images that guided the motor decision after the test 
+image appeared (Figure 34–11). These results sug-
+gest that PMd has a major role in applying rules that 
+govern the appropriateness of a behavior and in mak-
+ing behavioral decisions according to the prevailing 
+rules. Neural recordings in prefrontal cortex during 
+the same task (not shown) found a strong representa-
+tion of the physical identity of the visual images, but 
+weaker and later correlates of the behavioral rule and 
+the motor decision than in PMd.
+Ventral Premotor Cortex Is Involved in Planning 
+Motor Actions of the Hand
+The most lateral part of the premotor cortex, area PMv, 
+is reciprocally connected with parietal cortex areas 
+AIP, PF, and PFG and the secondary somatosensory 
+area. Electrical stimulation shows that PMv contains 
+extensively overlapping circuits that control hand and 
+mouth movements.
+Like AIP neurons, many PMv neurons appear to 
+contribute to the control of hand actions based on the 
+physical affordances offered by target objects. These 
+neurons tend to fire preferentially during certain stereo-
+typical hand actions, such as grasping, holding, tearing, 
+or manipulating objects. Many neurons discharge only 
+if the monkey uses a specific type of grip, such as a pre-
+cision grip, whole-hand prehension, or finger prehen-
+sion (Figure 34–12). Precision grip is the type most often 
+represented. Some PMv neurons discharge throughout 
+the entire action, while others discharge selectively at 
+particular stages of one type of prehension, such as dur-
+ing the opening or closing of the fingers.
+Another striking property of PMv neurons is that 
+their discharge often correlates with the goal of a motor 
+act and not with the individual movements forming it. 
+Thus, many PMv neurons discharge when grasping an 
+object is executed with effectors as different as the right 
+hand, the left hand, and even the mouth. Conversely, 
+a PMv neuron may be active when an index finger 
+is flexed to grasp an object but not when the animal 
+flexes the same finger to scratch itself.
+Premotor Cortex May Contribute to Perceptual 
+Decisions That Guide Motor Actions
+A series of studies provide evidence that cortical motor 
+areas not only represent the sensory information that 
+guides voluntary movements but also express the neu-
+ral operations necessary to make and act on perceptual 
+decisions. Monkeys were trained to discriminate the 
+difference in frequency between two brief vibratory 
+stimuli applied to one finger and separated in time by 
+a few seconds. The animals had to decide whether the 
+frequency of the second stimulus was higher or lower 
+than the first and to report their perceptual decision 
+by reaching out to push one of two buttons with the 
+other hand.
+The decision-making process in this task can be 
+conceived as a chain of neural operations: (1) encode 
+the first stimulus frequency (f1) when it is presented; 
+(2) maintain a representation of f1 in working mem-
+ory during the interval between the two stimuli; (3) 
+encode the second stimulus frequency (f2) when it is 
+
+
+===== Page 9 =====
+836    Part V / Movement
+Figure 34–11  Premotor cortex neurons in the monkey 
+choose particular voluntary behaviors based on decisional 
+rules. (Reproduced, with permission, from Wallis and Miller 2003.)
+A. A monkey must make a decision about whether to release 
+a lever or keep holding it based on two prior decisions: a per-
+ceptual choice, whether a test image is the same as or differ-
+ent from a sample image presented earlier, and a behavioral 
+choice, whether the current rule is to release the lever when 
+the test image is the same as the sample (match rule) or when 
+it is different (nonmatch rule). The monkey is informed of the 
+behavioral rule that applies in each trial by a rule cue, such as an 
+auditory tone or juice drops, which is presented for 100 ms at 
+the same time as the onset of the sample image at the start of 
+the trial.
+B. A neuron in the dorsal premotor cortex has a higher discharge 
+rate whenever the nonmatch rule is in effect during the delay 
+between the presentation of the first and second images. The 
+responses to two different sample images (upper and lower 
+plots) were recorded from the same cell, indicating that the rule-
+dependent activity is not altered by changing the images. Nor, 
+as shown by the pairs of curves associated with each rule, does 
+activity depend on the type of rule cue (auditory tone or juice 
+drops). (Tone cue trials: orange and blue curves; juice cue trials: 
+red and black curves). Other dorsal premotor cortex cells (not 
+shown) respond preferentially to the match rule over the non-
+match rule. The differential activity of the neuron up to presenta-
+tion of the test image reflects the rule that will guide the animal’s 
+motor response to the test image, not the physical properties of 
+the visual stimuli or the motor response.
+A  Delayed match-to-sample task
+B  Premotor neurons show rule-dependent activity
++
+Match 
+rule
+Nonmatch
+rule
+Match
+rule 
+Nonmatch
+rule
+Sample image
+Delay 
+Test image 1
+Delay
+Test image 2
+40
+20
+0
+40
+20
+0
+Firing rate (Hz)
+0
+800
+2300
+Response time (ms)
++
++
++
++
++
+Nonmatch 
+(hold)
+Nonmatch 
+(release)
+Nonmatch 
+(release)
+Match 
+(hold)
+ Match
+(release)
+Match
+(release)
+Match
+rule
+Nonmatch
+rule
+Match
+rule
+Nonmatch
+rule
+Rule for 
+release
+Sample image A
+Sample image B
+Delay 
+Rule 
+cue
+Test 
+image 1
+Sample 
+image
+presented; (4) compare f2 to the memory trace of f1; 
+(5) decide whether the frequency of f2 is higher or 
+lower than that of f1; and finally, (6) use that decision 
+to choose the appropriate movement of the other hand. 
+Everything prior to the last step would appear to fall 
+entirely within the domain of sensory discriminative 
+processing.
+While the monkeys performed the task, neurons 
+in the primary (S-I) and secondary (S-II) somatosen-
+sory cortices encoded the frequencies of the stimuli 
+while they were presented. During the interval 
+between f1 and f2, there was no sustained activity in 
+S-I representing the memorized f1 and only a tran-
+sient representation in S-II, which vanished before f2 
+was presented.
+Strikingly, however, the activity of many neurons 
+in the prefrontal cortex, SMC, and PMv scaled with 
+the frequencies of f1 and f2 while they were being 
+delivered. Furthermore, some prefrontal and premo-
+tor neurons showed sustained activity proportional to 
+the frequency of f1 during the delay period between f1 
+and f2. Most remarkably, many neurons in those areas, 
+especially in PMv, encoded the difference in frequency 
+between f2 and f1 independently of their actual fre-
+quencies when f2 was delivered (Figure 34–13). This 
+centrally generated signal is appropriate to mediate 
+the perceptual discrimination that determines which 
+button to push. Neurons that encoded the f2–f1 differ-
+ence were absent in S-I and were far more common in 
+SMC and PMv than in S-II.
+
+

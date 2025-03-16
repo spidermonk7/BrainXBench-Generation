@@ -1,0 +1,963 @@
+===== Page 1 =====
+STOCHASTIC MODELS
+OF SINGLE CELLS
+The majority of experiments in neurophysiology are based upon spike trains recorded from
+individual or multiple nerve cells. If all the action potentials are taken to be identical and
+only the times at which they are generated are considered, the experimentalist obtains a
+discrete series of time events {?!,···, /„}, where t¡ corresponds to the occurrence of the
+ith spike, characterizing the spike train. This spike train is transmitted down the axon to
+all of the target cells of the neuron, and it is this spike train that contains all of the relevant
+information that the cell is representing (assuming no dendro-dendritic connections).1
+As alluded to in the preceding chapter, there are two opposing views of neuronal coding,
+with many interim shades. One view holds that it is the firing rate, averaged over a suitable
+temporal window (Eqs. 14.1 or 14.2), that is relevant for information processing. The
+dissenting view, correlation coding, argues that the interactions among spikes, at the single
+cell as well as between multiple cells, encodes information.
+A key property of spike trains is their seemingly stochastic or random nature, quite
+in contrast to switching in digital computers.2 This randomness is apparent in the highly
+irregular discharge pattern of a central neuron to a sensory stimulus whose details are
+rarely reproducible from one trial to the next (Figs. 14.1 and 15.1). The apparent lack of
+reproducible spike patterns (but see Fig. 15.11) has been one of the principal arguments in
+favor of the hypothesis that neurons only care about the firing frequency averaged over very
+long time windows. Such a mean rate code is very robust to "sloppy" hardware but is also
+relatively inefficient in terms of transmitting the maximal amount of information per spike.
+Encoding information in the intervals between spikes is obviously much more efficient, in
+particular if correlated across multiple neurons. Such a scheme does place a premium on
+postsynaptic neurons that can somehow decode this information.
+Because little or no information can be encoded into a stream of regularly spaced
+action potentials, this raises the question of how variable neuronal firing really is. How
+1. Slower processes, such as extracellular potassium accumulation or local depletion of calcium, could also play a role
+in information transmission among cells. Since very little is known about these, we neglect them for now; see, however, the
+penultimate chapter.
+2. We use the term "seemingly" on purpose. It may well be that what we think of as noise is the signal we are seeking!
+350
+15
+
+
+===== Page 2 =====
+Stochastic Models of Single Cells
+351
+can the observed randomness be explained on the basis of the cell's biophysics and synaptic
+input (Calvin and Stevens, 1968; Softky and Koch, 1993; Shadlen and Newsome, 1994;
+Softky, 1995; Konig, Engel, and Singer, 1996)? The mathematical theory of stochastic point
+processes and the field of statistical signal processing offer a number of tools adequate for
+analyzing the properties of spike trains. We will study these here and will relate them to
+simple models of biophysics. This will enable us to infer something about the integrative
+mechanisms underlying neuronal firing activity.
+In the previous chapter we exclusively dealt with deterministic input / (i) to spiking neu-
+rons. Given the highly stochastic nature of neurons evident in Fig. 15.1, it is imperative that
+we now begin to deal with random variables, that is, observables that take on discrete (such
+as the number of spikes) or continuous (such as the membrane potential) values with certain
+probabilities. For an introduction into the field, we refer the reader to Papoulis (1984); for
+monographs on stochastic neural activity, see Holden (1976), Tuckwell (1988c), and Smith
+Fig. 15.1 VARIABILITY OF NEURONAL SPIKING 
+A high-contrast bar is swept repeatedly over the
+receptive field of a cortical cell in the awake macaque monkey. Much variability in the microstructure
+of spiking is evident from trial to trial. The poststimulus time histogram in the middle corresponds
+to the averaged firing rate (/(/)> (using 20 msec bins) taken over 40 trials. The lower plot illustrates
+the associated interspike interval (ISI) histogram. It shows a lack of very short intervals, indicative
+of a refractory period, and an exponentially decreasing likelihood of finding very large gaps between
+spikes. The lack of reproducibility of the detailed spike pattern is the primary reason arguing for the
+idea of a mean rate code (Eq. 14.1). Yet neurons deep within the cortex can faithfully reproduce the
+microstructure of spiking over several hours (Fig. 15.11). From W. Newsome, K. Britten, personal
+communication.
+
+
+===== Page 3 =====
+352 · STOCHASTIC MODELS OF SINGLE CELLS
+(1992). Gabbiani and Koch (1998) should be read as a complementary text to this chapter,
+as they discuss in more detail signal processing approaches toward spike train analysis and
+their numerical implementation into a suite of freely available MATLAB routines.
+15.1 Random Processes and Neural Activity
+For starters, let us assume that we are dealing with discrete random variables. We consider
+a stochastic or random process, that is, a family of such random variables parameterized
+by time t. In other words, at every instant t the random process has the discrete value Ν(t),
+while the entire process is specified by (N(t), t > 0). In the following, we are frequently
+faced by questions of the form: "What is the probability that Ν is as large as some specific
+nth?" In order to answer these, we need to specify a probability distribution from which the
+random variable Ν is drawn. Before we do so, let us remind our readers of several important
+concepts.
+One is the idea of a point process, which is simply a process that can be mapped onto a
+set of random points on the time axis. Two examples of point processes are the occurrence
+of action potentials and the times at which a synaptic vesicle is relased at some synapse. A
+point process is described by a series of delta pulses, Σ δ (t — ¿¿)·
+We can introduce a new random variable, defined as the interval between consecutive
+events, T¡ — ί,·+ι — t¡, to help us introduce the notion of a renewal process. This is a
+point process in which the random variables T¡ are independent and identically distributed.
+The notion of a renewal process comes from industrial practice: the probability that some
+machine will fail within some interval is identical for all machines and will not vary from one
+interval to the next. Applied to a spike train, it would imply that the chance of finding some
+particular interspike interval (Fig. 15.1) is independent of whether a short or a long interspike
+interval preceded it. This does tend to be true to a first approximation for many cortical cells.
+On the other hand, it is certainly not true for bursting cells, where the probability for finding
+a long interspike interval after two or three very short ones is strongly enhanced (see the
+following chapter). Renewal processes are much simpler to describe from a mathematical
+point of view than nonrenewal processes. Lastly, a stationary stochastic process (or a random
+process) is one whose statistical properties do not depend on the time of observation but
+remain constant in time.
+Since true stationarity is very difficult to verify in practice, it is common to use the less
+stringent concept of a wide-sense or weakly stationary process. This is a random process
+whose mean is constant and whose autocorrelation function only depends on t — t', that is,
+a process whose first- and second-order statistical properties are time invariant.
+Let us now focus on the most common discrete renewal process, the Poisson process.
+15.1.1 Poisson Process
+A Poisson process is the simplest possible random process with no memory and is char-
+acterized by a single parameter, the rate or mean frequency μ. It is of great relevance to
+neurobiology, since a number of discrete biophysical events appear to follow a Poisson
+distribution closely. The best studied example of a Poisson process is the spontaneous
+release of individual packets of the neurotransmitter acetylcholine at the frog neuromuscular
+junction (Fatt and Katz, 1952; for an overview see Stevens, 1993, and Chap. 4.2). At the
+postsynaptic terminal this release gives rise to so-called miniature endplate potentials,
+
+
+===== Page 4 =====
+15.1 Random Processes and Neural Activity 
+· 353
+whose arrival times can be accurately modeled by a Poisson process. As we will see below,
+the distribution of action potentials in cortical cells can be approximated to a certain degree
+by a modified Poisson process.
+A number of different, but equivalent, definitions of a Poisson process exists. We define
+{N(t), t > 0} to be a simple Poisson process with mean rate μ if:
+1. Given any ÍQ < ii < i2 < · · · < tn~\ < tn, the random variables N(tk) — N(tk^{),
+k — 1, 2, ···,«, are mutually independent.
+2. For any 0 < t\ < ti the average number of events occurring between t\ and i2 is
+μ(ί2 - ii).
+The first condition specifies that the number of events occurring in one interval is
+independent of the number of events occurring in any other interval, provided they do
+not overlap. The second property tells us that the expected number of events is proportional
+to the rate times the duration of the interval.
+As no point in time is singled out in this definition of the Poisson process, it is a stationary
+process.
+It follows from these conditions (Feller, 1966) that the actual number of events, Ν fa) —
+N(ti),isa random variable with the Poisson probability distribution
+(15.1)
+with k = 0,1,2,···.
+The parameter μ specifies the average number of events per unit time. With t\ = t and
+f2 = ί + Δί, we have for the probability that exactly k events occur in the interval Δί,
+(15.2)
+If μ,Δί <C 1, that is, if much less than one event is expected to occur in the interval Δί,
+the e~* term in Eq. 15.2 can be expanded into a Taylor series 1 — χ + x
+2/2 — x
+3/3 + · · ·.
+We then have for the probability that none or a single event occurs in the interval Δί,
+(15.3)
+(15.4)
+These estimations are accurate within (Δί)
+2, that is, the error in these estimates goes as a
+polynomial of order (Δί)
+2 to zero as Δί -> 0. In other words, as the product of the average
+firing frequency and the interval is made smaller and smaller the approximation becomes
+better and better. Figure 15.2 illustrates how the events generated by a Poisson process are
+distributed compared to the spike distribution taken from a neuron. Both processes have
+the same overall rate. On account of the refractory period, we modified the Poisson process
+to prevent two spikes from directly following each other.
+A commonly used procedure for numerically generating Poisson distributed action
+potentials with mean rate μ is based on this approximation. A random number r, uniformly
+distributed between 0 and 1, is generated for every interval Δί; if r < μΔί, a spike is
+presumed to have occurred between ί and ί + Δί; otherwise, no spike is generated. (This
+assumes that the probability of generating a spike in the interval considered, that is, μΔί
+is much less than one.)
+
+
+===== Page 5 =====
+354 
+. 
+STOCHASTIC MODELS OF SINGLE CELLS
+Fig. 15.2 SPIKE TRAINS AND THE RANDOM POISSON PROCESS Spike train from an extracellularly
+recorded cell in the parietal cortex of a behaving monkey (upper trace; data kindly provided by J.
+Fuster) and from a synthetic Poisson process with a refractory period of 1 msec (lower trace). The
+mean firing rate of both processes is 30 Hz. Notice the relatively rare occurrences of large gaps
+between spikes. In a Poisson process, the probability of occurrence of gaps of duration Τ decreases
+„„ α-Τμ.
+15.1.2 Power Spectrum Analysis of Point Processes
+A number of signal processing techniques rely on evaluating average spike train properties
+in response to random stimulus ensembles. This works best if the system at hand can be
+described as a linear, time-invariant one. Under these conditions, the power spectrum 5(/)
+of the associated spike train reveals details about the filter function that is used by the system
+(e.g., does the neuron act as a low-pass or as a band-pass filter?).
+A basic result of the theory of stochastic processes (Papoulis, 1984) is that the power
+spectrum of a Poisson process is flat at all frequencies except for a delta peak at the origin. To
+be more precise, the spectrum associated with an infinite train of delta impulses distributed
+according to a Poisson process of rate μ is
+(15.5)
+This is in accordance with our intuition that all spectral components should be equally
+represented in a completely random spike train; no particular frequency (such as l/μ) is
+singled out. The autocorrelation function, defined as the inverse Fourier transform of the
+power spectrum, has a similar shape, taking on a constant value of μ
+2 everywhere except
+at the origin, where it is a 3(t) function.
+Neurons, however, do not fire totally without memory, due to the presence of a refractory
+period. A mathematically convenient manner in which this can be accounted for (Perkel,
+Gerstein, and Moore, 1967; Bair et al., 1994) is by introducing the renewal density function,
+which denotes the probability for a spike to occur between t\+t and t\ +1 + dt, given that
+a spike was just generated at t\. For a pure Poisson process, the renewal density function is
+a constant equal to the rate. In our case, however, the renewal density has a dip around zero,
+indicating a reduced probability of spiking due to the refractory period. This can easily
+be measured experimentally. Assuming that the dip due to the refractory period can be
+accounted for by a Gaussian of variance σ?ε{, the associated power spectrum is,
+(15.6)
+
+
+===== Page 6 =====
+15.2 Stochastic Activity in Integrate-and-Fire Models 
+· 355
+To ensure that the power is always positive, the maximum firing rate must be limited:
+μ < l/(\/2jfaref). This spectrum, parameterized by the mean rate μ and the width of
+the refractory period σκ{ is constant for large values of / but dips toward its minimum
+at / = 0 (Fig. 15.3). A longer refractory period (that is, a larger value of aref) causes a
+deeper trough at low frequencies. Note that this result appears at odds with intuition, since a
+refractory period seems to demand a dip in the neighborhood of the inverse of the smallest
+interspike interval, that is, at high temporal frequencies.
+A mathematically more general manner to account for the refractory period is by
+postulating that the interspike intervals are independently and identically distributed random
+variables, which themselves are the sum of a random refractory period and a statistically
+independent interval due to a known stationary process (Franklin and Bair, 1995).
+Spike train analysis of cortical cells (Bair et al., 1994) showed that the spectrum of 40%
+of these neurons can be fitted using Eq. 15.6 (left column in Fig. 15.3). The good match
+between the analytical model, experimental data, and synthetic spike train supports the
+hypothesis that once the refractory period is accounted for, a Poisson hypothesis constitutes
+a first-order description of cortical spike trains.
+15.2 Stochastic Activity in Integrate-and-Fire Models
+Let us now take an integrate-and-fire model, as described in the previous chapter, and
+bombard it with stochastic, Poisson distributed, synaptic inputs. In what is to come,
+we will neglect the membrane leak, as well as adaptation and the refractory period, to
+get at the principle underlying stochastic activity in these models. Using the nonleaky
+Fig. 15.3 POWER SPECTRUM OF CORTICAL CELLS Representative spike train, interspike interval
+histogram, and power spectrum for a neuron recorded from cortical area MT in a behaving monkey
+(left column) compared against a modeled point process (right column). The synthetic data assume that
+spikes are Poisson distributed with an absolute refractory period drawn from a Gaussian distribution
+(of 5 msec mean and 2 msec standard deviation). Equation 15.6 has been fitted to the neuron's
+spectrum (curve labeled "Theory") with μ — 58 Hz, and aref = 3.5 msec). The spectrum of many
+nonbursting cells can be fitted against this simple model, which satisfactorily captures many aspects
+of their random behavior. Reprinted in modified form by permission from Bair et al., (1994).
+
+
+===== Page 7 =====
+356 
+. 
+STOCHASTIC MODELS OF SINGLE CELLS
+integrate-and-fire model allows us to derive closed-form expressions for many variables of
+interest. Conceptually, R = 0 corresponds to a cell for which the time between spikes is
+much shorter than the membrane time constant, so that the decay of the membrane potential
+can be neglected. We later investigate R φ 0 using numerical simulations.
+We assume that the integrator cell receives excitatory synaptic input from a Poisson
+distributed random process Ne(t) with mean rate μ<, and synaptic weight ae. Conceptually,
+each synaptic input can be thought of as dumping ae amount of charge onto the capacitance
+C, raising the membrane potential by ae/C toward threshold. We assume here that C has
+been folded into the synaptic weight ae; it will not be included in the equations to come
+(equivalently, C = 1). The random process V(t), that is, the membrane potential, shows
+random jumps of amplitude ae. In the absence of a threshold, the membrane potential can
+be described as
+(15.7)
+15.2.1 Interspike Interval Histogram
+Let us proceed methodically by first starting with trivial cases, working up to more complex
+situations. In this spirit, we assume that ae > Vth, that is, each synaptic input is, by itself,
+sufficient to cause a spike. (Think of a single retinal ganglion cell making a few hundred
+synaptic contacts on a single geniculate relay cell.) Trivially, the probability distribution of
+the output spike will be identical to that of the synaptic input.
+If the perfect integrator generated a pulse at t = 0 and was reset, what is the waiting
+time ΓΙ for the next output pulse to occur? In the case of ae > Vth> this is equivalent to
+asking what is the waiting time for the next synaptic input to occur. This function can be
+computed if we know the probability for no event to occur between (0, i), which is
+(15.8)
+The distribution function for the next spike to occur is one minus this result, that is,
+1 — e~^"
+T; the longer one waits, the more likely an input is to occur. The probability
+density function p\ (i) for ί is the temporal derivative of the distribution function,
+(15.9)
+The choice of our initial observation point, here t = 0, does not affect this result since the
+Poisson process is ahistoric. This is an important point to note; the density function does
+not depend on whether or not an event just occurred. (Of course, given the existence of a
+refractory period, this will not be true for real neurons at very small time scales.) Therefore,
+Pi(t) corresponds to the density of time intervals between adjacent pulses.
+The average duration between events is
+(15.10)
+justifying our interpretation of μ€ as the mean rate.
+What happens if we assume that nth inputs are needed to trigger a pulse (with ntb —
+[Yfn/o-e + 1J, where |_*J is the largest integer less than or equal to *)? This is similar to a
+Geiger counter that is rigged to click every time it detects «th radioactive decays. Answering
+this question requires us to compute the time T& in which we expect a Poisson process with
+rate μ<· to generate exactly «& events. This is given by the probability for nth — 1 events
+to occur between now and i, multiplied by the probability for a single event to occur in the
+interval [i, t + St),
+
+
+===== Page 8 =====
+15.2 Stochastic Activity in Integrate-and-Fire Models 
+· 357
+(15.11)
+The probability density function of T& is the limit of this expression divided by St as
+5i-> 0,
+(15.12)
+This expression for the waiting time is known as the nthth-order gamma density.
+The density function pnth (t) is obtained experimentally by binning consecutive interspike
+intervals from spike trains, as in Figs. 15.1 and 15.4. In this guise it is called the interspike
+interval (ISI) histogram. The mean interspike interval is
+(15.13)
+Fig. 15.4 INTERSPIKE INTERVAL DISTRIBUTION
+In the interspike interval distribution the occurrences
+of the intervals between adjacent spikes is his-
+togrammed. This is done here analytically for pulses
+generated by a perfect integrate-and-fire unit that re-
+ceives Poisson distributed input with a constant rate
+of μ = 1000 (per second). The threshold of the unit
+varies, with (A) «th = 1 (each input generates an out-
+put pulse), (B) nth = 10, and (C) η& = 100. The ISIs
+are gamma distributed (Eq. 15.12). As expected, the
+mean output rate decreases as the number of synaptic
+inputs needed to reach threshold nth increases (the
+mean interspike interval is at 1, 10, and 100 msec
+for the three panels; see arrows). The normalized
+standard deviation, called the coefficient of variation
+Cy (Eq. 15.15) scales as Μ^/ñ^. In other words, the
+relative jitter in the timing of output pulses becomes
+smaller as nth becomes larger. If the cell is integrating
+over a significant number of small inputs, the ISI dis-
+tribution approaches the normal distribution (as in C).
+
+
+===== Page 9 =====
+358 
+. 
+STOCHASTIC MODELS OF SINGLE CELLS
+and the variance is
+(15.14)
+Figure 15.4 shows waiting time densities for a nonleaky integrate-and-fire neuron receiving
+excitatory input at a constant rate //,<· in which the effective voltage threshold is increased
+by a decade, corresponding to «th = 1, 10, and 100. As nth of the gamma distribution
+increases, the probability density of the interspike intervals rapidly tends toward a Gaussian
+distribution.
+15.2.2 Coefficient of Variation
+The most common way to quantify interspike variability is via the normalized standard
+deviation, that is, the square root of the variance of the ISI histogram divided by its mean,
+(15.15)
+This measure is known as the coefficient 
+of variation. For the perfect integrator model
+considered here, we have
+(15.16)
+For «th = 1, associated with an exponential ISI (Fig. 15.4A), CV = 1. As the number
+of random inputs over which the unit integrates (or averages) becomes larger, the normal-
+ized ISI becomes narrower and narrower and CV smaller and smaller (Fig. 15.4C). The
+relationship between spike train variability and CV is illustrated graphically in Fig. 15.5.
+This result can be explained qualitatively by invoking the central limit theorem, which
+states that as the number η of independent random variables x¡ goes to infinity, the random
+variable defined by the mean of all jt¡'s, (χ) — (1 / η ) 52"_i*i, has an asymptotically
+Gaussian distribution, with a mean identical to the mean of the population and with a
+standard deviation scaling as l/^/n of the standard deviation of the individual jt,· 's. If we
+were to compute the average height of all students in one class, there would be a great
+deal of variability around the mean. Yet the Cy associated with the average height of all
+men in the United States is minute. In other words, if a neuron can only be brought to fire
+action potentials by summing over dozens or more of independent synaptic inputs, it should
+fire very regularly. And as we noted above, a neuron with little variability in its interspike
+interval cannot readily exploit temporal coding (since little information can be encoded in
+a regular interspike interval).
+Incorporating an absolute refractory period iref into the integrator shifts the interspike
+interval probability distribution by the same amount to the right. It gives the perfect
+integrator cell a characteristic time scale, so we cannot expect it to have identical statistics
+at all firing rates. The new CV is
+(15.17)
+The effect of the refractory period is to regularize the spike train, lowering its variability.
+This is particularly true for high firing rates, as (Tib) approaches fref.
+If we were to measure the interspike interval variability generated by a sustained
+current injection into an integrate-and-fire cell (Fig. 15.5E) or into a squid giant axon
+
+
+===== Page 10 =====
+15.2 Stochastic Activity in Integrate-and-Fire Models 
+· 359
+Fig. 15.5 SPIKE TRAIN INTERSPIKE VARIABILITY Sample spike trains and interspike interval
+histograms for a perfect integrator model with an absolute refractory period tKf of 2 msec for Poisson
+distributed synaptic input. The mean interspike interval is in all cases identical to 12 msec. (A) Each
+synaptic input gives rise to a spike. The ISI is a shifted exponential; the deviation of the associated
+Cv from unity reflects the regularizing effect of the refractory period. (B)-(D) n^ is increased to
+2, 5, and 10, respectively. To retain the same average firing frequency, the input firing frequency
+was also increased by the same amount. The ISI can be described by a gamma density (Eq. 15.12).
+(E) Response to a sustained current injection.
+(see Fig. 6.9), it would tend to zero. Biological pacemaking systems like the heart or the
+rhythm underlying breathing have Cv's in the low percent range. In some systems the
+Cy can be a miniscule fraction of one percent. The neurons in the weakly electric fish
+Eigenmannia that are responsible for triggering the clocklike electric organ discharge in the
+0.1-1 kilohertz frequency range have a spike jitter of less than 1 ^sec (Kawasaki, Rose,
+and Heiligenberg, 1988).
+In all of these examples, Cv < 1, with the upper bound given by a pure Poisson process.
+Yet in many instances interspike interval distributions of real neurons have Cy 's greater than
+1 (Wilbur and Rinzel, 1983; see also Sec. 16.1). This can be achieved in a so-called doubly
+
+
+===== Page 11 =====
+360 
+· 
+STOCHASTIC MODELS OF SINGLE CELLS
+stochastic Poisson process (Saleh, 1978), where one stochastic process is used to generate
+the rate of a second one. Such a process was postulated to characterize—successfully—a
+number of properties of retinal ganglion cell spike trains at low light levels (Saleh and
+Teich, 1985). In this limit, the distribution of photons absorbed at the retina is expected to
+be Poisson. If each photon results in a slowly decaying input current to a ganglion cell that
+generates on average two spikes per incoming photon, the interspike interval distribution
+of the model will have a CV greater than 1. The cause of this additional variability lies in
+the random number of spikes generated for each incoming Poisson pulse (Gabbiani and
+Koch, 1998).
+Special care must be taken when analyzing the variability of bursting cells (see the fol-
+lowing chapter). If a bursty cell switches between bursting and nonbursting, the variability
+of its interspike intervals can be larger than that of a Poisson process, that is, CV > 1
+(Wilbur and Rinzel, 1983). Numerical techniques have been developed to account for the
+highly correlated adjacent interspike intervals that occur during bursting (a measure termed
+CV2; Holt etal., 1996).
+15.2.3 Spike Count and Fano Factor
+So far, we have restricted ourselves to a consideration of the temporal jitter. However,
+neurons show considerable variation in the number of spikes triggered in response to a
+particular stimulus. This can be quantified by the ratio of the variance of the number of
+spikes generated within some observational window Γ to the mean number of spikes within
+the same time period, the so-called index of dispersion or Fano factor (Fano, 1947),
+(15.18)
+Counting Poisson distributed spikes of mean rate μ over an observational interval of
+duration T, leads to a mean number of spikes Τ μ with variance Τ μ. In other words, for an
+ideal Poisson process, no matter for what duration it is observed, F(T) — 1.
+Experimentally, F(T) should be estimated by computing the average number of spikes
+and their variance for a fixed counting time Τ using many repetitions of the same stimulus.
+The counting time should now be systematically varied over the range of interest.
+3 The Fano
+factor is usally plotted in log-log coordinates, and the slope of the best fit through these
+points is reported. For a true Poisson process, the slope is 1. Slopes bigger than 1 imply
+that the variance in the number of events grows faster than the mean, indicating long-term
+correlations in the data.
+4
+As illustrated in Fig. 15.6, the F(T) factor in different neural systems is frequently close
+to unity for observational times on the order of 100 msec, compatible with the Poisson
+hypothesis (modified by a refractory period that lowers F(T) to a value slightly less than
+unity; Teich, 1992). Yet for large windows, say in the second to minute domain, long-term
+trends in the data are very apparent (revealed by the very large F(T) values). These are
+most likely due to state changes in the underlying neural networks. Obviously, modeling
+data over these time spans forces abandonment of the Poisson hypothesis. In some sensory
+systems F(T) can be considerably less than 1 (van Steveninck et al., 1997; Berry, Warland,
+and Meister, 1997).
+3. A frequently used approximation is to estimate ( ( N ) , Var[W]) for a fixed trial, say of 1 sec duration. This procedure is
+repeated under circumstances (that is, by varying the stimulus intensity) that give rise to different values of {N).
+4. Indeed, the Fano factor can be related to the autocorrelation function of the underlying point process (Gabbiani and Koch,
+1998).
+
+
+===== Page 12 =====
+15.2 Stochastic Activity in Integrate-and-Fire Models 
+· 361
+Fig. 15.6 VARIABILITY IN SPIKE COUNT Fano Factor (Eq. 15.18), that is, the variance of the
+number of spikes normalized by their mean, within an observational counting window of duration Τ
+in different spiking systems. The top panel shows F(T) for the spontaneous activity of four cells taken
+from the visual cortex of the anesthetized cat (Teich et al., 1997). For Τ < 0.1 sec, the variability is
+close to unity, as expected from a Poisson process. However, for larger observational windows, F(T)
+strongly increases, indicative of long-term correlations in the firing behavior, possibly due to slow
+state changes in the cat. The qualitatively same behavior for spontaneous activity can be observed in
+the middle panel, plotting F(T) for four visual interneurons in the cricket (Turcott, Barker, and Teich,
+1995), although F(T) is not as large as in the cortex. The lower plot illustrates F(T) (along with its
+standard deviation) associated with 10 simulated runs of a Poisson process with a refractory period.
+Since a refractory period imposes some degree of order, F(T) is less than that of a pure Poisson
+process but still close to unity. Reprinted by permission from Teich, Turcott, and Siegel (1996).
+In general, the jitter in the timing of events need not be related to the jitter in the number
+of events. Under conditions when the spiking can be described as a renewal process, that is,
+if the interspike intervals are independently and identically distributed, the distribution of
+spike counts for long observation times will be approximately Gaussian distributed. Since
+the same is true for the interspike interval distribution (e.g., Fig. 15.4C), these two measures
+are related via
+(15.19)
+in the limit as the observational period Τ -> oo (Cox, 1962). This is a property of spike
+trains that is not widely appreciated.
+Many studies have measured interspike intervals as well as spike count variability,
+although usually not simultaneously, of spontaneous or stimulus-induced activity. One of
+the aims is to infer something about the dynamics of the spiking threshold or about the
+different states the neuron can be in (Werner and Mountcastle, 1963; Smith and Smith,
+1965; Calvin and Stevens, 1967, 1968; Noda and Adey, 1970; Burns and Webb, 1976;
+
+
+===== Page 13 =====
+362 
+· 
+STOCHASTIC MODELS OF SINGLE CELLS
+Vogels, Spileers, and Orban, 1989; Snowden, Treue, and Andersen, 1992; Softky and Koch,
+1993; Usher et al., 1994; Turcott, Barker, and Teich, 1995; Teich, Turcott, and Siegel, 1996;
+Teich et al., 1997). It was only recently that attempts have been made to reconcile the
+observed high variability of neurons with the known biophysical properties of single cells
+and network properties. In order to discuss some of these, let us now throw inhibition into
+the brew.
+15.2.4 Random Walk Model of Stochastic Activity
+We do this in the form of adding an inhibitory synaptic process of rate μ,· and weight
+a¡ > 0. Now the random process V(t~) undergoes random "up" jumps (of amplitude ae)
+and "down" jumps (of amplitude a¡; Fig. 15.7). In the absence of a threshold, the potential
+can be modeled by
+(15.20)
+with V(0) =0 and V < VO,· The expected value of this process follows from the fact that
+Eq. 15.20 is linear, as
+(15.21)
+(15.22)
+where μ = ae^e — α, μ, is termed drift. The variance of the voltage over time is
+(15.23)
+(15.24)
+where σ
+2 = α
+2. μ<, + α?μ,· is called the variance parameter. The drift corresponds to the
+net input current into the unit. As long as it is different from zero, the average membrane
+potential as well as the jitter will diverge (in the absence of either a leak or a threshold). Note
+that the standard deviation around (V) increases as the square root of time, reminiscent of
+the jitter in the motion of a particle diffusing in one or more dimensions (Sec. 11.1). This
+is not surprising, since both represent instances of random walks. (For an introduction into
+the theory of the random walk, see Feller, 1966, or Berg, 1983.)
+The probability distribution of V(t) in the absence of any threshold and membrane leak
+can be computed analytically. We spare the reader its derivation, referring him or her instead
+to Eq. 9.42 in the monograph by Tuckwell (1988b). Figure 15.7A illustrates one particular
+realization of the random process V(t), together with (V(t)) and its associated jitter.
+Will the membrane potential ever reach threshold V^, and generate a pulse? And how
+long is this event expected to take? This question, known as the "time of first passage to
+threshold" problem, has a nontrivial but well characterized probability density function
+/th(f) associated with it (see Eq. 9.54 in Tuckwell, 1988b and Fig. 15.7B). If rth is the
+random time taken for V to go from its initial state at V = 0 to V = Vth, one can
+estimate that
+(15.25)
+or
+(15.26)
+
+
+===== Page 14 =====
+15.2 Stochastic Activity in Integrate-and-Fire Models
+363
+t (msec)
+Fig. 15.7 RANDOM WALK OF THE MEMBRANE POTENTIAL 
+Illustration of the random walk model
+of excitatory and inhibitory synaptic input into a nonleaky integrate-and-fire unit as pioneered in this
+form by Stein (1965). The cell receives Poisson distributed excitatory input (with rate μ,, = 1000 Hz),
+each increasing the voltage by 0.5 mV, and Poisson distributed inhibitory input (at a rate of 250 Hz),
+each input decreasing the potential by 0.5 mV. Threshold is reached at 16 mV. (A) One instantiation
+of such a random walk, together with the expected mean potential and its standard deviation. The
+unit generates a spike at around Τ& = 50 msec. (B) Probability density fa,(t) for the first passage to
+threshold, that is, for the time it takes before the voltage threshold is reached for the first time.
+If the drift is positive, the unit will eventually spike with probability 1. If the net input is
+negative, then one must wait for a fluctuation in the input to elevate V to threshold. This
+is less and less likely as the effective inhibition exceeds excitation with a finite chance that
+threshold is never reached.
+In the former case, that is, for αΐμί > β,·μ,·, we can easily compute the first and second
+moments associated with T&. Specifically, the mean time to fire is
+and the variance of this mean is
+(15.27)
+(15.28)
+
+
+===== Page 15 =====
+Setting μι = 0 in these expressions gives us back our earlier equations. Adding in inhibition
+leads to the expected result that the mean membrane potential decreases and that (T^)
+increases. A bit less expected is that the variance of (V) as well as the jitter associated with
+(7ih) both increase. Intuitively, this can be explained by noting that we are adding a new
+source of unpredictability, even if it is inhibitory. Indeed, by adding enough inhibition one
+can always achieve a situation in which the drift is close to zero but the jitter becomes very
+large. This is termed balanced inhibition or balanced excitation and inhibition and was
+first investigated by Gerstein and Mandelbrot, 1964 (for more recent accounts, see Shadlen
+and Newsome, 1994; Tsodyks and Sejnowski, 1995 and, in particular, van Vreeswijk and
+Sompolinsky, 1996). Since the amount of inhibition increases in parallel with the amount of
+excitation, threshold is not reached by integrating a large number of small inputs over time
+(as with μ > 0), but by a large enough "spontaneous" positive fluctuation in excitation,
+complemented by a large enough downward fluctuation in inhibition. This is of course much
+less likely to occur than if the drift is large (and positive).
+A straightforward generalization of these results involves more than two synaptic
+processes. Conceptually, one process that is Poisson distributed with rate μ and amplitude
+a can always be replaced by η processes, all independent of each other, firing at rate μ/ η
+and amplitude a, or by η independent processes of rate μ but of amplitude a/n. Indeed,
+all we need to assume is that the synaptic inputs impinging onto the cell derive from
+the superposition of arbitrary point processes that are independent of each other. If these
+processes are stationary (see above), the superposition of such processes will converge to
+a stationary Poisson process (Cox and Isham, 1980).
+Finally, we do not want to close this section without briefly mentioning Wiener processes
+or Brownian motion. What makes the mathematical study of the random walk models
+discussed so far tortuous is that each sample path is discontinuous, since upon arrival
+of a synaptic input, V (i) changes abruptly by ±a. The associated differential-difference
+equations are less well understood than standard differential equations. Introduced into
+the neurobiological community by Gerstein and Mandelbrot (1964), Wiener processes are
+thoroughly studied and many of the relevant mathematical problems have been solved.
+A Wiener process can be obtained as a limiting case from our standard random walk
+model by letting the amplitude a of each synapse become smaller and smaller, while
+the rate at which the input arrives becomes faster and faster. In the appropriate limit
+one obtains a continuous sample path, albeit with derivatives that can diverge (indeed
+the "derivative" of the path is white noise). The crucial difference as compared to the
+discrete Poisson process is that for any two times t\ and t2, V(¿2) — V(fi) is a contin-
+uous Gaussian random variable with zero mean and variance fe — ii) (whereas for the
+random walk models, Vfe) — V(fi) takes on discrete values). Because the basic intuition
+concerning the behavior of a simple nonleaky integrate-and-fire model can be obtained
+with the random walk model discussed above, complemented by computer simulations
+364 
+· 
+STOCHASTIC MODELS OF SINGLE CELLS
+Because we assume that the unit had started out at V — 0 (implying that it had just spiked
+and was reset), 7^, corresponds to the average interval between adjacent spikes. While we
+are unable to predict the exact trajectory of the membrane potential, we can perfectly well
+predict certain time-averaged aspects of spike trains.
+The normalized "width" of the ISI, expressed by the coefficient of variation, is
+(15.29)
+
+
+===== Page 16 =====
+15.2 Stochastic Activity ¡η Integrate-and-Fire Models 
+· 365
+that are to follow, we shall not treat Wiener processes here, referring the reader instead to
+Tuckwell (1988b).
+15.2.5 Random Walk in the Presence of a Leak
+So far, we neglected the presence of the membrane leak resistance R, which will induce
+an exponential voltage decay between synaptic inputs, leading to "forgetting" inputs
+that arrived in the past compared to more recent arrivals. It was Stein (1965) who first
+incorporated a decay term into the standard random walk model. Heuristically, we need to
+replace Eq. 15.19 by
+(15.30)
+Because the trajectories of both Ne and N¡ are discontinuous, jumping by ±1 each time a
+synaptic input arrives, dN/dt can be thought of as a series of delta functions, increasing V
+abruptly by ae (or decreasing by a,·). In the absence of any threshold, the mean membrane
+potential is
+(15.31)
+where the drift μ = α6μβ — α,μ, has the dimension of a current.
+5 Equation 15.31 was
+derived under the assumption that the initial value of the membrane potential has decayed
+away as e~'/
+r, with τ = RC.
+Different from the nonleaky case, where the membrane potential diverges (as {V(t)} =
+μί/C in physical units; seeEq. 15.21), the membrane leak stabilizes the membrane potential
+at a level proportional to the drift, that is, the mean input current. The variance will also
+remain finite
+(15.32)
+It is straightforward to generalize this to the case of η inputs.
+What about the mean time to spike? Unfortunately, even after several decades of effort,
+no general expressions for the probability density of Γ(η and related quantities, such as the
+ISI distribution, are available and we have to resort to numerical solutions. Qualitatively,
+the leak term has little effect on the ISI for high rates, because there is not sufficient time
+for any significant fraction of the charge to leak away before Vth is reached. In other words,
+we can neglect the effect of a leak if the interspike interval is much less than τ.
+At low firing rates, the membrane potential "forgets" when the last firing occurred, so
+that the subsequent firing time is virtually independent of the previous time. In this mode,
+the leaky integrator operates as a "coincidence" detection device for occasional bursts of
+EPSPs. More interspike intervals will occur at large values of t than expected from the
+model without a leak and the associated Cv value is larger than for the nonleaky integrator.
+A number of attempts have been made to include stochastic synaptic activity into
+distributed cable models, including solving the cable equation in the presence of white
+noise current (Tuckwell and Wan, 1980; see also Chap. 9 in Tuckwell, 1988b). Since
+the complexity of these models usually precludes the development of useful intuition
+concerning the computational properties of nerve cells, we will not discuss them any further
+and refer the reader to Tuckwell (1988b,c).
+5. In the previous pages we assumed—implicitely, for the most part—that each synaptic input increases the membrane potential
+by ae/C although we did not explicitly write out the dependency on C.
+
+
+===== Page 17 =====
+366 
+. 
+STOCHASTIC MODELS OF SINGLE CELLS
+15.3 What Do Cortical Cells Do?
+So, how random are cortical cells? And is their observed degree of variability compatible
+with their known biophysics?
+Before we discuss this, a word of caution. The majority of experimental studies assume
+that the statistics of spikes do not vary significantly during the period of observation. Since
+this degree of stationarity is very difficult to verify empirically, a more reasonable concept
+is that of a weakly stationary process, for which only the mean and the covariance need to be
+invariant under time translation. For a spike train generated in response to a physiological
+stimulus (such as a flashed bar of light) nonstationarity is practically guaranteed since
+both single-cell and network effects conspire to lead to firing frequency adaptation. This
+is reflected in the poststimulus time histogram, which usually is not flat (e.g., Fig. 15.1).
+Several techniques exist to deal with such nonstationary data (for instance, by only using
+the adapted part of the spike train or by normalizing for the local rate μ(ί); Perkel, Gerstein,
+and Moore, 1967; Softky and Koch, 1993).
+Investigating the response of cat motoneurons in the spinal cord to intracellular current
+injections, Calvin and Stevens (1967, 1968) concluded that in two out of five cells they
+considered in great detail, the low degree of observed jitter in spike timing (Cy ^ 0.05)
+could be explained on the basis of noisy synaptic input charging up the somatic potential
+until it reaches Vih
+ afld triggers a spike (Fig. 15.8A). This is expected if the cell behaved
+like an ideal integrate-and-fire unit under the random walk assumptions (Eq. 15.21).
+15.3.1 Cortical Cells Fire Randomly
+What about cells in the cerebral cortex? How randomly do they fire? And what does their
+surprisingly high degree of randomness imply about the neural code used for information
+transmission? Anecdotal evidence (Fig. 15.8B) illustrates that under certain conditions, the
+somatic membrane potential of cortical neurons does behave as expected from the random
+walk model discussed above, integrating a large number of small inputs until threshold is
+reached. But is this really compatible with their variability? Although the firing variability
+of thalamic and cortical cells has been studied experimentally for quite some time, this was
+caried out predominantly during spontaneous firing, when rates are very low (Poggio and
+Viernstein, 1964; Noda and Adey, 1970; Burns and Webb, 1976; Teich, Turcott, and Siegel,
+1996). Softky and Koch (1992,1993) measured the firing variability of cells from cortical
+areas VI and MT in the awake monkey responding to moving bars and random dots with
+maintained firing rates of up to 200 Hz. Applying appropriate normalization procedures and
+excluding bursting cells, Softky and Koch found that Cy was close to unity—as expected
+from a Poisson process (Fig. 15.9).
+This poses somewhat of a paradox. At high enough firing rates, when the decay of the
+membrane potential can be neglected, Cy is inversely proportional to the square root of
+«th, the number of excitatory inputs necessary to trigger threshold (Eq. 15.16). If «th is
+large, as commonly held (that is, 20, 50, or 100),
+6 the cell should fire in a very regular
+manner, which cortical cells patently do not do. On the basis of detailed compartmental
+simulations of a cortical cell with passive dendrites, Softky and Koch (1993) showed that
+6. Based on evidence from spike-triggered averaging, in which spikes recorded in one neuron are correlated with monosynaptic
+EPSPs recorded in another pyramidal cell; the amplitudes usually fall below 0.5 mV (Mason, Nicoll, and Stratford, 1991; for a
+review see Fetz, Toyama, and Smith, 1991). This implies that on the order of 100 simultaneous excitatory inputs are required
+to bring a cortical cell above threshold.
+
+
+===== Page 18 =====
+15.3 What Do Cortical Cells Do? · 367
+Fig. 15.8 DOES THE MEMBRANE POTENTIAL DRIFT UP TO V^t 
+Intracellular membrane potential
+in two different cell types. (A) Somatic potential in a motoneuron in the spinal cord of an anesthetized
+cat in response to a constant intracellular current injection (Calvin and Stevens, 1968). Portions of the
+membrane potential between adjacent spikes are superimposed, matched against a theoretical model
+in which the depolarization to threshold is expected to be linear in time (Eq. 15.22) and evaluated
+against a fixed Vjh (dotted horizontal line). This model explains the jitter in spike timing in two out
+of five motoneurons investigated entirely on the basis of synaptic input noise. Reprinted in modified
+form by permission from Calvin and Stevens (1968). (B) Intracellular recording from a complex cell
+in cat visual cortex (Ahmed et al, 1993), responding to a bar moving in the preferred direction. The
+depolarizing event around 80 msec was not quite sufficient to generate a spike. This cell does appear
+to integrate over many tens of milliseconds, as witnessed by the slow rise and fall of the membrane
+potential. It remains a matter of intense debate whether spiking in cortical cells can be explained by
+treating the cell as integrating over a large number of small excitatory and inhibitory inputs or whether
+cortical cells detect coincidences in synaptic input at a millisecond or finer time scale. Unpublished
+data from B. Ahmed and K. Martin, printed with permission.
+neither (1) distributing synaptic inputs throughout the cell, (2) including Hodgkin-Huxley-
+like currents at the soma, (3) incorporating a "reasonable" amount of synaptic inhibition, nor
+(4) using weakly cross-correlated synaptic inputs changed this basic conclusion appreciably.
+
+
+===== Page 19 =====
+368 
+· 
+STOCHASTIC MODELS OF SINGLE CELLS
+Fig. 15.9 FIRING VARIABILITY OF CELLS IN MONKEY CORTEX 
+Comparison of the variability
+of spike timing, quantified using the coefficient of variation Cν, as a function of the mean interspike
+interval for cortical cells and modeled data. The scattered crosses are from VI and MT cells recorded
+in the behaving monkey and are normalized for their mean firing rates. Their Cy is high, close to
+unity. Superimposed are the CV curves computed for a random walk leaky integrate-and-fire model
+using conventional assumptions (lower trace; wth = 51, τ = 13 msec, and iref = 1 msec) and less
+conventional ones (middle bold trace; nth = 51 and τ = 0.2 msec). The thin, top curve corresponds
+to the limiting case of a pure Poisson spike train (nth = 1) in combination with fref = 1 msec. The
+effect of this absolute refractory period is to render the spike timing very regular at very high firing
+rates. Reprinted in modified form by permission from Softky and Koch (1993)
+Cortical cells cannot integrate over a large number of small synaptic inputs and still fire as
+irregularly as they do. Instead, either the time constant of the cell has to be very small, in
+the 1 msec range (in which case synaptic input that arrived more than 2 or 3 msec ago has
+been forgotten), or n^ must be very small, in the neighborhood of 2-5 (Fig. 15.9).
+Measuring variability in the spike count confirmed this high degree of randomness. Log-
+log plots of the mean versus the variance in the number of spikes in the cortex of the monkey
+consistently give rise to slopes of around 5/4, implying large values for F(T) (Tolhurst,
+Movshon, and Dean, 1983; Zohary, Hillman, and Hochstein, 1990; Snowden, Treue, and
+Andersen, 1992; Softky and Koch, 1993; Teich, Turcott, and Siegel, 1996). As before, the
+standard integrator model of pyramidal cells should lead to much smaller values of the Fano
+factor F(T).
+15.3.2 Pyramidal Cells: Integrator or Coincidence Detector
+Softky and Koch (1992, 1993) argue for a coincidence detection model in which distal
+dendrites generate fast sodium action potentials which are triggered when two or more
+excitatory synaptic inputs arrive within a millisecond of each other. A handful of these active
+synaptic events, if coincident at the soma, will trigger a spike. (This effectively reduces nth
+to the required small values.) Indeed, Softky (1994, 1995) claims that the experimental
+evidence for active dendritic conductances is compatible with submillisecond coincidence
+detection occurring in the dendrites of pyramidal cells (see Sec. 19.3.3).
+This has rekindled a debate over the extent to which pyramidal cells either integrate
+over many small inputs on a time scale of tens of milliseconds or detect coincidences at
+
+
+===== Page 20 =====
+15.3 What Do Cortical Cells Do? · 369
+the millisecond or faster time scale (Abeles, 1982b; Shadlen and Newsome, 1994; Konig,
+Engel, and Singer, 1996). In the former case, the code would be the traditional noisy rate
+code that is very robust to changes in the underlying hardware. If neurons do use precise
+spike times—placing great demands on the spatio-temporal precision with which neurons
+need to be wired up—the resultant spike interval code can be one or two orders of magnitude
+more efficient than the rate code (Stein, 1967a,b; Rieke et al., 1996).
+As illustrated in Fig. 15.10A, the Geiger counter model leads to very regular spiking,
+since the cell integrates over a large number of inputs (here «th = 300). High irregularity
+of the spike discharge can be achieved in several ways. If the neuron has a very short time
+constant, it will only fire if a sufficient number of spikes arrive within a very small time. Such
+a coincidence detector model is illustrated in Fig. 15.10B and is simulated by considering
+V to be the sum of all EPSPs arriving within the last millisecond. If at least 35 EPSPs are
+coincident within this time, an output spike is generated. This model is, of course, sensitive
+to disturbances in the exact timing of the synaptic input. It is precisely this sensitivity that
+can be used to convey information.
+Shadlen and Newsome (1994), Tsodyks and Sejnowski (1995), and van Vreeswijk and
+Sompolinsky (1996) seek an explanation of the high variability in a balanced inhibition
+random walk, in which the drift is zero (as in Gerstein and Mandelbrot, 1964), that is,
+the average net current is zero, excitation balancing inhibition. The unit spikes whenever
+a fluctuation leads to a momentary drop in synaptic inhibition in combination with a
+simultaneous excess of excitation. (This is achieved in Fig. 15.IOC by having the 150
+inhibitory cells fire at the same rate as the 300 excitatory cells, but with twice their
+postsynaptic weight.)
+It can be shown analytically (van Vreeswijk and Sompolinsky, 1996) that large networks
+of simple neurons, randomly and sparsely interconnected with many relatively powerful
+excitatory and inhibitory synapses whose activity is approximately "balanced," display
+highly irregular patterns of spiking activity characteristic of deterministic chaos. Such
+networks can respond very rapidly to external input, much faster than the time constant of
+the individual neurons, van Vreeswijk and Sompolinsky (1996) argue that irregular spiking
+is a robust emergent network property not depending on intricate cellular properties. Yet
+this ability to respond rapidly comes at a price of continual activity, requiring a constant
+expenditure of metabolic energy. Experimentally, it remains an open question to what extent
+individual cells receive balaced input, that is to what extent sustained changes in excitatory
+input are opposed by equally powerful sustained changes in inhibition.
+A related solution to the dilemma of obtaining high variability while retaining the
+integrating aspect of cortical cells is correlated synaptic inputs. If excitatory synaptic inputs
+have a tendency to arrive simultaneously, less temporal dispersion will occur and inputs
+will be more effective. Voltage-dependent sodium conductances in the dendritic tree will
+be particularly sensitive to such simultaneous inputs, effectively lowering the number of
+inputs needed to reach threshold.
+Including more complex spike generation dynamics, such as bursting (Wilbur and Rinzel,
+1983; but see Holt et al., 1996), or incorporating short-term adaptation into the synapses
+(Abbott et al., 1997; Sec. 13.5.4) will increase Cv and F(T). The somewhat arbitrary
+choice of resetting the membrane potential following spike generation to the unit's resting
+potential offers yet another way to increase variability. Intracellular data from cortical cells
+frequently reveal the lack of any hyperpolarization following an action potential. Bell et
+al., (1995) and Troyer and Miller (1997) argue that the membrane potential should be reset
+to a much more positive value, thereby lowering the effective n^.
+
+
+===== Page 21 =====
+370
+STOCHASTIC MODELS OF SINGLE CELLS
+Fig. 15.10 THREE MODELS or SYNAPTIC INTEGRATION 
+The input to the simulated neuron is
+shown in the left panel: 300 excitatory Poissou distributed synaptic inputs, firing at a mean rate of
+μβ = 100 Hz. The output units on the right also fire at this average rate. (A) Ideal integrate-and-
+fire model. Each synaptic input increases V by 0.05 mV, corresponding to »th = 300. As expected,
+the output pulses have a clocklike regularity. (B) In this cartoon of a coincidence detector model,
+only inputs within the previous millisecond contribute toward V (corresponding to an effective
+submillisecond time constant). If na, = 35 EPSPs arrive "simultaneously" (here, within 1 msec),
+the unit spikes. Notice the elevated mean membrane potential. In this model, the timing of spikes
+can code information. (C) Standard random walk model with a balance of excitation and inhibition.
+In addition to the 300 excitatory inputs, 150 inhibitory inputs have been added, firing at the same
+rate; ae = 0.6 mV (corresponding to an effective «th = 25) and a, = 1.2 mV. This model achieves
+a high variability but at a cost of substantial inhibition. Since no information is encoded in the time
+of arrival of spikes, it is very robust. Adding a leak term to the first and third models does not affect
+these conclusions substantially. Reprinted by permission from Shadlen and Newsome (1994)
+What is clear is that the simple Geiger counter model of synaptic integration needs to
+be revised. A plethora of mechanisms—such as synaptic inhibition, short-term synaptic
+depression, correlated synaptic input, a depolarizing reset, active dendritic processing on a
+fast time scale—will interact synergistically to achieve the observed random behavior of
+cortical cells.
+Lest the reader forget the cautionary note posted earlier, the preceding paragraphs apply
+specifically to cortical cells. Given the great diversity apparent in the nervous system,
+the question of the variability of neurona! firing and its implication for the code must be
+investigated anew in each specific cell type. In cells where synaptic input but modulates the
+strongly nonlinear dynamics of firing, as in oscillatory or bursting cells (Jaeger, DeSchutter,
+and Bower, 1997; Marder and Calabrese, 1996), the source of variability could be quite
+distinct from those discussed here.
+
+
+===== Page 22 =====
+15.3 What Do Cortical Cells Do?
+371
+15.3.3 Temporal Precision of Cortical Cells
+Yet under some conditions, cortical spike trains can look remarkably consistent from
+trial to trial. This is exemplified in a quite dramatic manner by Fig. 15.11, from an
+experiment carried out in a monkey that had to respond to various patterns of random dot
+motion (Newsome, Britten, and Movshon, 1989). If one averages—as is frequently done
+in practice—over many such presentations of different clouds of randomly moving dots,
+the spiking activity of the cell looks uneventful (beyond the initial transient; left column).
+Yet if one pulls out all of the responses to exactly the same random dot movie, a highly
+repeatable pattern of spiking becomes visible. Such reliable responses could be observed
+in the majority of MT cells examined (Bair and Koch, 1996). These stimulus-induced
+temporal modulations disappear for coherent motion, that is, when the entire cloud of dots
+moves as one across the receptive field, explaining why they are not visible in Fig. 15.1
+(Bair, 1995).
+Fig. 15.11 
+CORTICAL CELLS CAN FIRE IN A VERY PRECISE MANNER 
+Responses of an MT cell
+in a behaving monkey to patterns of randomly and independently moving dots. The left column shows
+the cortical response to different random dot patterns. Averaged over 90 trials, the cell's response is
+well described by a random point process with μ = 3.4 Hz (excluding the initial "flash" response;
+see the bottom panel). When only trials over the 2-hour-long experiment that were stimulated by
+the identical random dot movie are considered (right column), strikingly repeating patterns can be
+observed. (Viewing this figure obliquely best reveals the precision of spiking.) Notice the sharp peak
+following the 1-sec mark or that nearly all spikes in the final 400 msec cluster into six vertical streaks.
+Despite this precision, observed in the majority of MT cells, spike count variability F(T) is still very
+high. The poststimulus time histogram, using an adaptive square window, is shown at the bottom.
+Reprinted by permission from Bair and Koch (1996).
+
+
+===== Page 23 =====
+372 · STOCHASTIC MODELS OF SINGLE CELLS
+When contemplating Fig. 15.11, it should be kept in mind that at the beginning of the
+experiment, the animal is thirsty and eager to perform, while at the end it is satiated and
+not very motivated. Furthermore, the animal continuously makes small eye movements,
+termed microsaccades. Yet despite this, a cell removed at least six synapses from the visual
+input fires in a very repeatable pattern throughout this time.
+Bair and Koch (1996) quantify the degree of precision by computing the temporal jitter,
+that is, the standard deviation in time of the onset of periods of elevated firing (such as
+the "event" indicated by a black bar near 1740 msec in Fig. 15.11; see also Sestokas and
+Lehmkuhle, 1986). For this event, the jitter is 3.3 msec. For 80% of all cells, the most precise
+response has a jitter of less than 10 msec, while in some cases it is as low as 2-4 msec.
+Although somewhat counterintuitive, even these spike trains can be generated by a
+Poisson process, but in this case with a time-varying rate μ,(ί) (called inhomogeneous
+Poisson process). As in a homogeneous Poisson process, the number of spikes in any one
+time interval is independent of the number of spikes in any other nonoverlapping interval.
+The time intervals between adjacent spikes also remain independent of each other but are
+not identically distributed anymore (Tuckwell, 1988b). In the case of the data shown in
+Fig. 15.11, the Fano factor F(T) is close to unity when evaluated for the duration of the
+stimulus (Britten et al., 1993).
+We conclude that individual cortical cells are able to reliably follow the time course of
+events in the external world with a resolution in the 5-10 msec range (see also Mainen and
+Sejnowski, 1995).
+Let us hasten to add that much evidence has accumulated (as cited in Sec. 14.1) indicating
+that the precision of spike generation in one cortical cell with respect to another cell's firing
+can be even higher (e.g., Lestienne and Strehler, 1987). Best known is the demonstration
+of repeating patterns among simultaneously recorded cells by Abeles et al., (1993). Pairs
+of cells may fire action potentials at predictable intervals that can be as long as 200 msec,
+two orders of magnitude longer than the delay due to a direct synaptic connection, with a
+precision of about 1 msec. This is the key observation at the heart of Abeles's synfire chain
+model of cortical processing (Abeles, 1990).
+Any rash judgment on whether or not the detailed firing pattern is noise or signal should be
+tempered by Barlow's (1972) statement about the firing of individual nerve cells that "their
+apparently erratic behavior was caused by our ignorance, not the neuron's incompetence."
+15.4 Recapitulation
+In this chapter we tried to address and quantify the stochastic, seemingly random nature of
+neuronal firing. The degree of randomness speaks to the nature of the neural code used to
+transmit information between cells. Very regularly firing cells are obviously not very good
+at encoding information in their timing patterns; yet this will not prevent information from
+being encoded in their mean firing rates, albeit at a lower rate (in terms of bits per spike)
+but in a robust manner.
+The spiking behavior of cells has traditionally been described as a random point process,
+in particular as a renewal process with independent and identically distributed interspike
+intervals. Cortical cells firing at high rates are at least as variable as expected from a simple
+Poisson process. Variability is usually quantified using two measures: Cy to assess the
+interspike interval variability and F(T) for spike count variability, with both taking on
+
+
+===== Page 24 =====
+15.4 Recapitulation · 373
+unity for a Poisson process. If spike trains are generated by a renewal process, F = Cy in
+the limit of large observational intervals.
+The power spectrum of cortical spike trains is flat with a dip around the origin, as expected
+from a Poisson process modified by a refractory period. (This refractory period only comes
+into play at very high firing rates, serving to regularize them.) The rate of the spiking process
+is usually not constant in time, but is up or down regulated at the 5-10 msec level. The
+principal deviation from Poisson statistics is the fact that adjacent interspike intervals are
+not independent of each other (even when neglecting bursting cells), that is, spike trains
+cannot really be described by a renewal process.
+As always in science, this conclusion gives birth to intertwining considerations. What
+type of models of synaptic integration give rise to the high degree of randomness apparent
+in neuronal firing and how do these constrain the nature of the neuronal code? The standard
+Geiger counter model predicts that when an integrate-and-fire unit needs to integrate over
+a large number of small synaptic inputs, it should fire very regularly. Since this is patently
+not true in the cortex, it needs to be abandoned. Out of the many alternatives proposed, two
+divergent views crystallize. One school retains the idea that neurons integrate over large
+number of excitatory inputs with little regard for their exact timing by invoking a large
+degree of inhibitory inputs (following the random walk model advocated by Gerstein and
+Mandelbrot, 1964), a depolarizing reset, or correlated synaptic input. The other school sees
+cortical cells as coincidence detectors, firing if small numbers of excitatory events arrive
+simultaneously at the millisecond (or even submillisecond) scale (via powerful and fast
+dendritic nonlinearities). Under these circumstances, detailed timing information can be
+used to transmit information in a manner much more efficient, yet also more demanding,
+than in a mean rate code. Only additional experimental evidence can resolve this issue.
+Of course, at small enough time scales or for a handful of spikes, the debate loses its
+significance, since it becomes meaningless to define a rate for a 20 msec long segment of a
+spike train with just two action potentials.
+What this dispute shows is that integrate-and-fire units serve as gold standard against
+which models of variability are evaluated. Given their relative simplicity—-compared
+against the much more complex conductance-based models of firing—this is quite re-
+markable.
+The highly variable character of cortical firing allows neurons to potentially pack one or
+more bits of information per action potential into spike trains (as done in sensory neurons
+closer to the periphery). Information theory as applied to a band-limited communication
+channel has taught us that the optimal code—optimal in terms of using the entire bandwidth
+available—looks completely random, since every redundancy has been removed to increase
+the efficiency. One could infer from this that neurons make optimal use of the limited
+bandwidth of axons using a sophisticated multiplexed interspike interval code from which
+all redundancies have been removed, and that neurons, properly decoded, maximize the
+existing channel bandwidth. To what extent they actually do for physiologically relevant
+stimuli remains an open issue.
+
+

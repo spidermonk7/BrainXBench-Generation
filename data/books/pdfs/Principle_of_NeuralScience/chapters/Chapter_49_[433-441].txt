@@ -1,0 +1,904 @@
+===== Page 1 =====
+388    Part IV / Perception
+Figure 17–2  The psychometric function. The psychometric 
+function plots the percentage of stimuli detected by a human 
+observer as a function of the stimulus magnitude. Threshold is 
+defined as the stimulus intensity detected on 50% of the trials, 
+which in this example would be about 5.5 (arbitrary units). Psy-
+chometric functions are also used to measure the just notice-
+able difference (JND) between stimuli that differ in intensity, 
+frequency, or other parametric properties.
+the hand, the relationship between the stimulus mag-
+nitude and its perceived intensity is linear, that is, a 
+power function with a unity exponent (n = 1).
+All sensory systems have a threshold, and thresh-
+olds have two essential functions. First, by asking if a 
+sensation is large enough to have a high enough prob-
+ability of being of interest or relevance, they reduce 
+unwanted responses to noise. Second, the specific 
+nonlinearity introduced by thresholds aids encoding 
+and processing, even if the rest of the primary sen-
+sory response scales linearly with the stimulus. Sen-
+sory thresholds are a feature, not a bug. Thresholds 
+are normally determined statistically by presenting a 
+subject with a series of stimuli of random amplitude. 
+The percentage of times the subject reports detecting 
+the stimulus is plotted as a function of stimulus ampli-
+tude, forming a relation called the psychometric function 
+(Figure 17–2). By convention, threshold is defined as 
+the stimulus amplitude detected in half of the trials.
+The measurement of sensory thresholds is a use-
+ful technique for diagnosing sensory function in indi-
+vidual modalities. An elevated threshold may signal 
+an abnormality in sensory receptors (such as loss of 
+hair cells in the inner ear caused by aging or exposure 
+to very loud noise), deficits in nerve conduction prop-
+erties (as in multiple sclerosis), or a lesion in sensory-
+processing areas of the brain. Sensory thresholds may 
+also be altered by emotional or psychological factors 
+related to the conditions in which stimulus detection 
+1
+0
+50
+25
+75
+100
+3
+5
+4
+7
+9
+2
+6
+Stimulus intensity (arbitrary units)
+Stimulus detection (%)
+8
+10
+is measured. Thresholds can also be determined by 
+the method of limits, in which the subject reports the 
+intensity at which a progressively decreasing stimu-
+lus is no longer detectable or an increasing stimulus 
+becomes detectable. This technique is widely used in 
+audiology to measure hearing thresholds.
+Subjects can also provide nonverbal responses in 
+sensory detection or discrimination tasks using levers, 
+buttons, or other devices that allow accurate measure-
+ment of decision times. Experimental animals can be 
+trained to respond to controlled sensory stimuli using 
+such devices, allowing neuroscientists to investigate 
+the underlying neural mechanisms by combining elec-
+trophysiological and behavioral studies in the same 
+experiment. Methods for quantifying responses to 
+stimuli are summarized in Box 17–1. 
+Stimuli Are Represented in the Nervous 
+System by the Firing Patterns of Neurons
+Psychophysical methods provide objective techniques 
+for analyzing sensations evoked by stimuli. These quan-
+titative measures have been combined with neurophysi-
+ological techniques to study the neural mechanisms that 
+transform sensory neural signals into percepts. The goal 
+of sensory neuroscience is to follow the flow of sensory 
+information from receptors toward the cognitive centers 
+of the brain, to understand the processing mechanisms 
+that occur at successive synapses, and to decipher how 
+this shapes our internal representation of the external 
+world. The neural coding of sensory information is bet-
+ter understood at the early stages of processing than at 
+later stages in the brain.
+This approach to the neural coding problem was 
+pioneered in the 1960s by Vernon Mountcastle, who 
+showed that single-cell recordings of spike trains from 
+peripheral and central sensory neurons provide a sta-
+tistical description of the neural activity evoked by a 
+physical stimulus. He then investigated which quan-
+titative aspects of neural responses might correspond 
+to the psychophysical measurements of sensory tasks 
+and, just as important, which do not.
+The study of neural coding of information is fun-
+damental to understanding how the brain works. A 
+neural code describes the relationship between the 
+activity in a specified neural population and its func-
+tional consequences for perception or action. Sen-
+sory systems are ideal for the study of neural coding 
+because both the physical properties of the stimulus 
+input and the neural or behavioral output of these sys-
+tems can be precisely defined and quantified in a con-
+trolled setting.
+
+
+===== Page 2 =====
+Chapter 17 / Sensory Coding    389
+Two major functions of our sensory systems are to tell 
+us if something is there and what it is. To test our ability 
+and the ability of our sensory systems to answer these 
+questions, experimental protocols, tools, and methods 
+have been developed to quantify the response of sen-
+sory systems to stimuli. These include decision theory and 
+signal detection theory. Each uses statistical methods to 
+quantify the variability of subjects’ responses.
+In an “Is something there?” task, for example, sub-
+jects or experimental animals can correctly detect a specific 
+stimulus (a “hit” or “true positive”), respond incorrectly 
+in the absence of that stimulus (“false positive” or “false 
+alarm”), fail to respond to a true stimulus (“miss”), or 
+correctly decline to respond in the absence of the stimu-
+lus (“true negative” or “correct rejection”). With repeated 
+presentations, these choices can be tabulated in a four-cell 
+stimulus–response matrix (Figure 17–3A).
+This quantifies sensitivity, defined as the number 
+of true positives divided by the number of stimuli pre-
+sented, and specificity, defined as the number of true 
+negatives divided by the number of presentations with-
+out a stimulus.
+In 1927, L. L. Thurstone proposed that the variabil-
+ity of sensations evoked by stimuli could be represented 
+as normal or Gaussian probability functions, equating 
+the physical distance between the amplitudes of two 
+stimuli to a psychological scale value of inferred inten-
+sity called the discrimination index or d′.
+Decision theory methods were first applied to 
+psychophysical studies in 1954 by the psychologists 
+Wilson Tanner and John Swets. They developed a series 
+of experimental protocols for stimulus detection that 
+allowed accurate calculation of d′ as well as techniques 
+for quantitative analyses of sensations in both human 
+and animal subjects. Such studies can be designed to 
+measure not just “Is something there?” as in the earlier 
+example, but also comparative judgments of a physi-
+cal property of a stimulus such as its intensity, size, or 
+temporal frequency, thereby measuring a two-alternative 
+forced-choice analog of “What is it?”
+When subjects are asked to report whether the second 
+stimulus is stronger or weaker, higher or lower, larger 
+or smaller, or same or different than the first stimu-
+lus, responses in each trial can again be tabulated in a 
+four-cell stimulus–response matrix similar to the one 
+in Figure 17–3A, but with the terms “stimulus” or “no 
+stimulus” replaced by the two distinct stimuli.
+Box 17–1  Signal Detection Theory: Quantifying Detection and Discrimination
+Figure 17–3A  The stimulus–response matrix for data 
+collected during a yes–no stimulus detection task (“Is 
+a particular stimulus there?”). Each trial updates one of 
+the four totals. For example, correct detection of the stim-
+ulus would update the count of true positives (hits), but an 
+incorrect positive response in the absence of the stimulus 
+would count as a false positive. From such a table, impor-
+tant measures such as the sensitivity and false-positive 
+rate can be calculated.
+By recording neuronal activity at various stages 
+of sensory processing, neuroscientists attempt to deci-
+pher the mechanisms used by various sensory modali-
+ties to represent information and the transformations 
+needed to convey these signals to the brain encoded by 
+sequences of action potentials. Additional analyses are 
+performed of the transformation of signals by neural 
+networks along pathways to and within the cerebral 
+cortex. Neuroscientists can also modify activity within 
+sensory circuits by direct stimulation with electrical 
+pulses, chemical neurotransmitters, and modulators, 
+or can use genetically encoded light-activated ion 
+channels (optogenetics) to depolarize or hyperpolarize 
+sensory neurons. How sensory stimuli are encoded by 
+neurons may lead to insight into the coding principles 
+that underlie cognition.
+It is often said that the power of the brain lies in 
+the millions of neurons processing information in 
+parallel. That formulation, however, does not capture 
+the essential difference between the brain and all the 
+other organs of the body. In the kidney or a muscle, 
+most cells do similar things; if we understand typical 
+(continued )
+A
+Stimulus
+No stimulus
+True positive
+(“Hit”)
+False positive
+(“False alarm”)
+False negative
+(“Miss”)
+True negative
+(“Correct 
+rejection”)
+Response
+No 
+response
+
+
+===== Page 3 =====
+390    Part IV / Perception
+Discriminability (d′) in these studies is measured 
+with receiver operating characteristic (ROC) analyses that 
+compare the neural firing rates or choice probability 
+evoked by pairs of stimuli that differ in some property. 
+The assumption is that one of the two stimuli evokes 
+higher responses than the other. ROC graphs of neu-
+ral or psychophysical data plot the proportion of trials 
+judged correctly (hits) and incorrectly (false positives) 
+when the decision criteria are set at various firing levels 
+or choice rates (Figure 17–3B). The area under the ROC 
+curve provides an accurate estimate of d′ for each stimu-
+lus pair.
+Signal detection methods have been applied by 
+William Newsome, Michael Shadlen, and J. Anthony 
+Movshon in studies of neural responses to visual 
+stimuli that differ in orientation, spatial frequency, or 
+coherence of motion in order to correlate changes in 
+neural firing rates with sensory processing. The neu-
+rometric function, plotting neural discriminability as 
+a function of stimulus differences, corresponds closely 
+to the psychometric function obtained in forced-choice 
+paradigms testing the same stimuli, thereby provid-
+ing a physiological basis for the observed behavioral 
+responses.
+Many of these tools, developed in part to study 
+sensory systems, have been generalized to apply 
+broadly beyond neuroscience. ROC curves, sensitivity, 
+and specificity are essential in quantification of diag-
+nosis and treatment of disease. The area under an ROC 
+curve, or AUC, is today used much more than d′. Val-
+ues of AUC close to 1 characterize high sensitivity and 
+high specificity. The false positive rate (1 – specificity, or 
+the number of false positives divided by the number of 
+presentations without a stimulus) is, for many experi-
+ments or clinical investigations in which true positive 
+findings are rare, a more meaningful measure than the 
+classical p value.
+Box 17–1  Signal Detection Theory: Quantifying Detection and Discrimination (continued)
+Figure 17–3B  A receiver operating characteristic (ROC) 
+plot displays the results of sets of trials, each collected 
+in matrices such as those in Figure 17–3A. The vertical 
+axis plots the fraction or probability of hits as a function of 
+fraction or probability of false alarms on the horizontal axis. 
+It is also common to label the vertical axis TPR (true-positive 
+rate), or sensitivity, and the horizontal axis FPR (false-posi-
+tive rate), or (1 – specificity). A set of trials in which yes or no 
+responses are delivered randomly (discriminability [d ′] = 0) 
+plots as a straight line from the origin to the upper right  
+corner. The area under such an ROC curve (AUC) would be 
+0.5. A perfect set of trials, in which observers accurately 
+detect the presence of every stimulus and fail to be fooled 
+by any trials without stimuli (d ′ > 3), would rise sharply 
+along the left axis, and the AUC would be 1.0. AUC values 
+are increasingly quoted as single-number measures of con-
+fidence. The (theoretical) curves shown demonstrate how 
+higher values of d ′ result in larger AUC. (Adapted, with  
+permission, from Swets 1973. Copyright © 1973 AAAS.)
+muscle cells, we essentially understand how whole 
+muscles work. In the brain, millions of cells each do 
+something different. To understand the brain, we need 
+to understand how its tasks are organized in networks 
+of neurons.
+Sensory Receptors Respond to Specific Classes of 
+Stimulus Energy
+Functional differences between sensory systems arise 
+from two features: the different stimulus energies that 
+drive them and the discrete pathways that compose 
+each system. Each neuron performs a specific task, and 
+the train of action potentials it produces has a specific 
+functional significance for all postsynaptic neurons in 
+that circuit. This basic idea was expressed in the theory 
+of specificity set forward by Charles Bell and Johannes 
+Müller in the 19th century, and remains one of the cor-
+nerstones of sensory neuroscience.
+When analyzing sensory experience, it is important 
+to realize that our conscious sensations differ qualita-
+tively from the physical properties of stimuli because, 
+0.1
+0
+0.5
+0.6
+0.8
+0.9
+0.2
+0.1
+0.3
+0.4
+0.7
+1.0
+0.3
+0.5
+0.4
+0.7
+0.9
+0.2
+0.6
+Probability of false alarm
+Probability of hit
+0.8
+1.0
+d’ = 0
+d’ = 0.5
+d’ = 1.0
+d’ = 1.5
+d’ = 2
+d’ = 3
+B
+
+
+===== Page 4 =====
+Chapter 17 / Sensory Coding    391
+as Kant and the idealists predicted, the nervous system 
+extracts only certain features of each stimulus while 
+ignoring others. It then interprets this information 
+within the constraints of the brain’s intrinsic structure 
+and previous experience. Thus, we receive electromag-
+netic waves of different frequencies, but we see them as 
+colors. We receive pressure waves from objects vibrat-
+ing at different frequencies but we hear sounds, words, 
+and music. We encounter chemical compounds float-
+ing in the air or water but we experience them as odors 
+and tastes. Colors, tones, odors, and tastes are mental 
+creations constructed by the brain out of sensory expe-
+rience. They do not exist as such outside the brain but 
+are linked to specific physical properties of stimuli.
+The richness of sensory experience begins with 
+millions of highly specific sensory receptors. Sensory 
+receptors are found in specialized epithelial structures 
+called sense organs, principally the eye, ear, nose, 
+tongue, and skin. Each receptor responds to a specific 
+kind of energy at specific locations in the sense organ 
+and sometimes only to energy with a particular tem-
+poral or spatial pattern. The receptor transforms the 
+stimulus energy into electrical energy; thus, all sen-
+sory systems use a common signaling mechanism. 
+The amplitude and duration of the electrical signal 
+produced by the receptor, termed the receptor potential, 
+are related to the intensity and time course of stimula-
+tion of the receptor. The process by which a specific 
+stimulus energy is converted into an electrical signal is 
+called stimulus transduction.
+Sensory receptors are morphologically special-
+ized to transduce specific forms of energy, and each 
+receptor has a specialized anatomical region within 
+the sense organ where stimulus transduction occurs 
+(Figure 17–4). Most receptors are optimally selective 
+for a single type of stimulus energy, a property termed 
+B  Photoreceptor
+A  Chemoreceptor
+C  Mechanoreceptor
+Light
+Odorants
+Pressure
+Figure 17–4  Sensory receptors are specialized to trans-
+duce a particular type of stimulus energy into electrical 
+signals. Sensory receptors are classified as chemoreceptors, 
+photoreceptors, or mechanoreceptors depending on the class 
+of stimulus energy that excites them. They transform that 
+energy into an electrical signal that is transmitted along path-
+ways that serve one sensory modality. The inset in each panel 
+illustrates the location of the ion channels that are activated 
+by stimuli.
+A. The olfactory hair cell responds to chemical molecules in 
+the air. The olfactory cilia on the mucosal surface bind specific 
+odorant molecules and depolarize the sensory nerve through a 
+second-messenger system. The firing rate signals the concen-
+tration of odorant in the inspired air.
+B. Rod and cone cells in the retina respond to light. The outer 
+segment of both receptors contains the photopigment rho-
+dopsin, which changes configuration when it absorbs light of 
+particular wavelengths. Stimulation of the chromophore by light 
+reduces the concentration of cyclic guanosine 3′,5′-monophos-
+phate (cGMP) in the cytoplasm, closing cation channels and 
+thereby hyperpolarizing the photoreceptor. (Adapted from 
+Shepherd 1994.)
+C. Meissner’s corpuscles respond to mechanical pressure. The 
+fluid-filled capsule (pale blue) surrounding the sensory nerve 
+endings (pink) is linked by collagen fibers to the fingerprint ridges. 
+Pressure or motion on the skin opens stretch-sensitive ion chan-
+nels in the nerve fiber endings, thus depolarizing them. (Adapted, 
+with permission, from Andres and von Düring 1973.)
+
+
+===== Page 5 =====
+392    Part IV / Perception
+receptor specificity. We see particular colors, for exam-
+ple, because we have receptors that are selectively sen-
+sitive to photons with specific ranges of wavelengths, 
+and we smell particular odors because we have recep-
+tors that bind specific odorant molecules.
+In all sensory systems, each receptor encodes the 
+type of energy applied to its receptive field, the local 
+stimulus magnitude, and how it changes with time. For 
+example, photoreceptors in the retina encode the hue, 
+brightness, and duration of light striking the retina from 
+a specific location in the visual field. Hair cell receptors 
+in the cochlea encode the tonal frequency, loudness, and 
+duration of sound-pressure waves hitting the ear. The 
+neural representation of an object, sound, or scene is 
+therefore composed of a mosaic of individual receptors 
+that collectively signal its size, contours, texture, tempo-
+ral frequency, color, and temperature.
+The arrangement of receptors in the sense organ 
+allows further specialization of function within each sen-
+sory system. Mammalian sensory receptors are classified 
+as mechanoreceptors, chemoreceptors, photoreceptors, 
+or thermoreceptors (Table 17–1). Mechanoreceptors and 
+Table 17–1  Classification of Sensory Receptors
+Sensory system
+Modality
+Stimulus
+Receptor class
+Receptor cells
+Visual
+Vision
+Light (photons)
+Photoreceptor
+Rods and cones
+Auditory
+Hearing
+Sound (pressure waves) Mechanoreceptor
+Hair cells in cochlea
+Vestibular
+Head motion
+Gravity, acceleration, 
+and head motion
+Mechanoreceptor
+Hair cells in vestibular labyrinths
+Somatosensory
+ 
+ 
+ 
+Cranial and dorsal root ganglion 
+cells with receptors in:
+ 
+Touch
+Skin deformation and 
+motion
+Mechanoreceptor
+Skin
+ 
+Proprioception
+Muscle length, muscle 
+force, and joint angle
+Mechanoreceptor
+Muscle spindles, Golgi tendon 
+organs, and joint capsules
+ 
+Pain
+Noxious stimuli (ther-
+mal, mechanical, and 
+chemical stimuli)
+Thermoreceptor, 
+mechanoreceptor, and 
+chemoreceptor
+All tissues except central nervous 
+system
+ 
+Itch
+Histamine, pruritogens Chemoreceptor
+Skin
+ 
+Visceral (not 
+pain)
+Wide range (thermal, 
+mechanical, and chemi-
+cal stimuli)
+Thermoreceptor, 
+mechanoreceptor, and 
+chemoreceptor
+Cardiovascular, gastrointestinal 
+tract, urinary bladder, and lungs
+Gustatory
+Taste
+Chemicals
+Chemoreceptor
+Taste buds, intraoral thermal, and 
+chemoreceptors
+Olfactory
+Smell
+Odorants
+Chemoreceptor
+Olfactory sensory neurons
+chemoreceptors are the most widespread and the most 
+varied in form and function.
+Four different kinds of mechanoreceptors that sense 
+skin deformation, motion, stretch, and vibration are 
+responsible for the sense of touch in the human hand 
+and elsewhere (Chapters 18 and 19). Muscles contain 
+three kinds of mechanoreceptors that signal muscle 
+length, velocity, and force, whereas other mechanore-
+ceptors in the joint capsule signal joint angle (Chapter 31).  
+Hearing is based on two kinds of mechanoreceptors, 
+inner and outer hair cells, that transduce motion of the 
+basilar membrane in the inner ear (Chapter 26). Other 
+hair cells in the vestibular labyrinth sense motion and 
+acceleration of the fluids of the inner ear to signal 
+head motion and orientation (Chapter 27). Visceral 
+mechanoreceptors detect the distension of internal 
+organs such as the bowel and bladder. Osmoreceptors 
+in the brain, which sense the state of hydration, are 
+activated when a cell swells. Certain mechanorecep-
+tors report extreme distortion that threatens to dam-
+age tissue; their signals reach pain centers in the brain 
+(Chapter 20).
+
+
+===== Page 6 =====
+Chapter 17 / Sensory Coding    393
+Chemoreceptors are responsible for olfaction, gusta-
+tion, itch, pain, and many visceral sensations. A signifi-
+cant part of pain is due to chemoreceptors that detect 
+molecules spilled into the extracellular fluid by tissue 
+injury and molecules that are part of the inflamma-
+tory response. Several kinds of thermoreceptors in the 
+skin sense skin warming and cooling. Another ther-
+moreceptor, which monitors blood temperature in the 
+hypothalamus, is mainly responsible for whether we 
+feel warm or cold.
+Vision is mediated by five kinds of photoreceptors 
+in the retina. The light sensitivities of these receptors 
+define the visible spectrum. The photopigments in 
+rods and cones detect electromagnetic energy of wave-
+lengths that span the range of 390 to 670 nm (Figure 
+17–5A), the principal wavelengths of sunlight and 
+moonlight reaching the earth and informing our visual 
+world. Unlike some other species, such as birds or rep-
+tiles, humans do not detect ultraviolet light or infra-
+red radiation because we lack receptors that detect the 
+appropriate short or long wavelengths. Likewise, we 
+do not perceive radio waves and microwave energy 
+bands because we have not evolved receptors for these 
+wavelengths.
+Multiple Subclasses of Sensory Receptors Are 
+Found in Each Sense Organ
+Each major sensory system has several submodalities. 
+For example, taste can be sweet, sour, salty, savory, or 
+bitter; visual objects have qualities of color, shape, and 
+pattern; and touch includes qualities of temperature, 
+texture, and rigidity. Some submodalities are medi-
+ated by discrete subclasses of receptors that respond 
+to limited ranges of stimulus energies of that modality; 
+others are derived by combining information from dif-
+ferent receptor types.
+The receptor behaves as a filter for a narrow range 
+or bandwidth of energy. For example, an individual 
+photoreceptor is not sensitive to all wavelengths of 
+light but only to a small part of the spectrum. We say 
+that a receptor is tuned to an optimal or best stimulus, 
+the preferred stimulus that activates the receptor at low 
+energy and evokes the strongest neural response. As a 
+result, we can plot a tuning curve for each receptor based 
+on physiological experiments (see the light absorbance 
+curves for photoreceptors in Figure 17–5A). The tun-
+ing curve shows the range of sensitivity of the recep-
+tor, including its preferred stimulus. For example, blue 
+cone cells in the retina are most sensitive to light of 
+430 to 440 nm, green cone cells respond best to 530 to 
+540 nm, and red cone cells respond most vigorously 
+to light of 560 to 570 nm. Responses of the three cone 
+cells to other wavelengths of light are weaker as the 
+incident wavelengths differ from these optimal ranges 
+(Chapter 22).
+Each rod and cone cell thus responds to a wide 
+spectrum of colors. The graded sensitivity of photore-
+ceptors encodes specific wavelengths by the amplitude 
+of the evoked receptor potential. However, this ampli-
+tude also depends upon the intensity or brightness of 
+the light, so a green cone responds similarly to bright 
+orange or dimmer green light. How are these distin-
+guished? Stronger stimuli activate more photorecep-
+tors than do weaker ones, and the resulting population 
+code of multiple receptors, combined with receptors 
+of different wavelength preferences, distinguishes 
+intensity from hue. Such neural ensembles enable indi-
+vidual visual neurons to multiplex signals of color and 
+brightness in the same pathway.
+Additionally, because the tuning curve of a pho-
+toreceptor is roughly symmetric around the best fre-
+quency, wavelengths of greater or lesser values may 
+evoke similar responses. For example, red cones 
+respond similarly to light of 520 and 600 nm. How does 
+the brain interpret these signals? The answer again lies 
+with multiple receptors, in this case the green and blue 
+cones. Green cones respond very strongly to light of 
+520 nm, as it is close to their preferred wavelength, 
+but respond weakly to 600 nm light. Blue cones do not 
+respond to 600 nm light and are barely activated at 
+520 nm. As a result, 520 nm light is perceived as green, 
+whereas 600 nm is seen as orange. Thus, through vary-
+ing combinations of photoreceptors, we are able to per-
+ceive a spectrum of colors.
+Similarly, the complex flavors we perceive when 
+eating are a result of combinations of chemoreceptors 
+with different affinities for natural ligands. The broad 
+tuning curves of a large number of distinct olfactory 
+and gustatory receptors afford many combinatorial 
+possibilities.
+The existence of submodalities points to an impor-
+tant principle of sensory coding, namely that the 
+range of stimulus energies—such as the wavelength 
+of light—is deconstructed into smaller, simpler com-
+ponents whose intensity is monitored over time by 
+specialized receptors that transmit information in 
+parallel to the brain. The brain eventually integrates 
+these diverse components of the stimulus to convey 
+an ensemble representation of the sensory event. The 
+ensemble hypothesis is even more important when we 
+examine the representation of sensory events in the 
+central nervous system. Although most studies of sen-
+sory processing have examined how individual neu-
+rons respond to temporally varying stimuli, the current 
+challenge is to decipher how sensory information is 
+
+
+===== Page 7 =====
+394    Part IV / Perception
+Ultraviolet
+Infrared
+Rod
+498 nm
+Green cone
+533 nm
+Red cone
+564 nm
+Blue cone
+437 nm
+Relative absorbance
+Wavelength (nm)
+A
+B
+Red cone
+activation
+Green cone
+activation
+Yellow 
+Blue cone
+activation
+400
+450
+500
+550
+600
+650
+700
+Figure 17–5  Human perception of colors results from the 
+simultaneous activation of three different classes of photo-
+receptors in the retina.
+A. The visible spectrum of light spans wavelengths of 390 to 
+670 nm. Individual photoreceptors are sensitive to a broad 
+range of wavelengths, but each is most responsive to light 
+in a particular spectral band. Thus, cone cells are classified 
+as red, green, or blue type photoreceptors. Changes in the 
+relative activation of each of the three cone types account 
+for the perception of specific colors. (Adapted from Dowling 
+1987.)
+B. The neural coding of color and brightness in the retina can be 
+portrayed as a three-dimensional vector in which the strength 
+of activation of each cone type is plotted along one of the three 
+axes. Each point in the vector space represents a unique pattern 
+of activation of the three cone types. Direction in the vector indi-
+cates the relative activity of each cone type and the color seen. 
+In the example shown here, strong activation of red cones along 
+with moderate stimulation of green cones and weak activation 
+of blue cones produces the perception of yellow. The length of 
+the vector from the origin to the point represents the intensity or 
+brightness of light in that region of the retina.
+
+
+===== Page 8 =====
+Chapter 17 / Sensory Coding    395
+Figure 17–6  The firing rates of sensory neurons encode 
+the stimulus magnitude. The two plots indicate that the neu-
+ral coding of stimulus intensity is faithfully transmitted from 
+peripheral receptors to cortical centers that mediate conscious 
+sensation. (Adapted, with permission, from Mountcastle,  
+Talbot, and Kornhuber 1966.)
+A. The number of action potentials per second recorded from 
+a touch receptor in the hand is proportional to the amplitude 
+of skin indentation. Each dot represents the response of the 
+receptor to pressure applied by a small probe. The relationship 
+between the neural firing rate and the pressure stimulus is 
+linear. This receptor does not respond to stimuli weaker than 
+200 μm, its touch threshold.
+B. Estimates made by human subjects of the magnitude of 
+sensation produced by pressure on the hand increase lin-
+early as a function of skin indentation. The relation between 
+a subject’s estimate of the intensity of the stimulus and its 
+physical strength resembles the relation between the dis-
+charge frequency of the sensory neuron and the stimulus 
+amplitude.
+distributed across populations of neurons responding 
+to the same event at the same time.
+Receptor Population Codes Transmit Sensory 
+Information to the Brain
+The receptor potential generated by an adequate stim-
+ulus produces a local depolarization or hyperpolariza-
+tion of the sensory receptor neuron whose amplitude 
+is proportional to the stimulus intensity. However, 
+the sense organs are located at distances far enough 
+from the central nervous system that passive propa-
+gation of receptor potentials is insufficient to transmit 
+signals there. To communicate sensory information to 
+the brain, a second step in neural coding must occur. 
+The receptor potential produced by the stimulus must 
+be transformed into sequences of action potentials 
+that can be propagated along axons. The analog sig-
+nal of stimulus magnitude in the receptor potential is 
+transformed into a digital pulse code in which the fre-
+quency of action potentials is proportional to the inten-
+sity of the stimulus (Figure 17–6A). This is spike train 
+encoding.
+Neuron response (total spikes/stimulus)
+Amplitude of skin indentation (µm)
+Intensity of skin indentation
+Normalized estimation of magnitude
+70
+60
+50
+40
+30
+20
+10
+0
+0
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+200
+400
+600
+800
+1,000
+1,200
+1,400
+A  Neural code of stimulus magnitude
+B  Perceived sensation intensity
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+The recognition of an analog-to-digital transforma-
+tion dates back to 1925 when Edgar Adrian and Yngve 
+Zotterman discovered the all-or-none properties of the 
+action potential in sensory neurons. Despite the simple 
+recording instruments available at that time, Adrian 
+and Zotterman discovered that the frequency of  
+firing—the number of action potentials per second—
+varies with the strength of the stimulus and its dura-
+tion; stronger stimuli evoke larger receptor potentials 
+that generate a greater number and a higher frequency 
+of action potentials. This signaling mechanism is 
+termed rate coding.
+In later years, as recording technology improved 
+and digital computers allowed precise quantification 
+of the timing of action potentials, Vernon Mountcastle 
+and his colleagues demonstrated a precise correlation 
+between sensory thresholds and neural responses, as 
+well as the parametric relationship between neural 
+firing rates and the perceived intensity of sensations 
+(Figure 17–6B). They also found that the intensity of a 
+stimulus is represented in the brain by all active neu-
+rons in the receptor population. This type of population 
+code depends on the fact that individual receptors in a 
+
+
+===== Page 9 =====
+396    Part IV / Perception
+sensory system differ in their sensory thresholds or in 
+their affinity for particular molecules.
+Most sensory systems have low- and high-threshold 
+receptors. When stimulus intensity changes from weak 
+to strong, low-threshold receptors are first recruited, 
+followed by high-threshold receptors. For example, 
+rod cells in the retina are activated by very low light 
+levels and reach their maximal receptor potentials and 
+firing rates in dim daylight. Cone cells do not respond 
+in very dim light but do report differences in daylight 
+brightness. The combination of the two types of pho-
+toreceptors allows us to perceive light intensity over 
+several orders of magnitude. Parallel processing by 
+low- and high-threshold receptors thus extends the 
+dynamic range of a sensory system.
+Distributed patterning of firing in neural ensem-
+bles allows the use of vector algebra to quantify how 
+stimulus properties are distributed across populations 
+of active neurons. For example, although humans pos-
+sess only three types of cone cells in the retina, we 
+can clearly identify colors across the entire spectrum 
+of visible light. In Figure 17–5B, we see that the color 
+yellow can be synthesized in the mind by specific com-
+binations of activity in red, green, and blue cone cells 
+(Figure 17–5B). Likewise, the color magenta results 
+from other combinations of the same photoreceptor 
+classes. Mathematically, the perceived hue can be rep-
+resented in a three-dimensional vector space in which 
+the strengths of activation of each receptor class are 
+combined to yield a unique sensation.
+High-dimensional multineuronal representation of 
+stimuli across large populations of neurons is beginning 
+to be analyzed as new techniques are developed for 
+simultaneous recording and imaging of activity in neu-
+ral ensembles. Ideally, the firing rates of each neuron in 
+a population can be plotted in a coordinate system with 
+multiple axes such as modality, location, intensity, and 
+time. The neural components along these axes combine 
+to form a vector that represents the population’s activ-
+ity. The vector interpretation is useful because it makes 
+available powerful analytic techniques.
+The possibilities for information coding through 
+temporal patterning within and between neurons in a 
+population are enormous. For example, the timing of 
+action potentials in a presynaptic neuron can deter-
+mine whether the postsynaptic cell fires. Two action 
+potentials that arrive near synchronously will alter the 
+postsynaptic neuron’s probability of firing more than 
+would action potentials arriving at different times. The 
+relative timing of action potentials between neurons 
+also has a profound effect on mechanisms of learning 
+and synaptic plasticity, including long-term potentia-
+tion and depression at synapses (Chapter 54).
+Sequences of Action Potentials Signal the Temporal 
+Dynamics of Stimuli
+The instantaneous firing patterns of sensory neurons 
+are as important to sensory perception as the total num-
+ber of spikes fired over long periods. Steady rhythmic 
+firing in nerves innervating the hand is perceived as 
+steady pressure or vibration depending upon which 
+touch receptors are activated (Chapter 19). Bursting 
+patterns may be perceived as motion. The patterning 
+of spike trains plays an important role in encoding 
+temporal fluctuations of the stimulus, such as the fre-
+quency of vibration or auditory tones, or changes in 
+rate of movement. Humans can report changes in sen-
+sory experience that correspond to alterations within 
+a few milliseconds in the firing patterns of sensory 
+neurons.
+Sensory systems detect contrasts, changes in the 
+temporal and spatial patterns of stimulation. If a stim-
+ulus persists unchanged for several minutes without a 
+change in position or amplitude, the neural response 
+and corresponding sensation diminishes, a condi-
+tion called receptor adaptation. Receptor adaptation is 
+thought to be an important neural basis of perceptual 
+adaptation, whereby a constant stimulus fades from 
+consciousness. Receptors that respond to prolonged 
+and constant stimulation—known as slowly adapting 
+receptors—encode stimulus duration by generating 
+action potentials throughout the period of stimulation 
+(Figure 17–7A). In contrast, rapidly adapting receptors 
+respond only at the beginning and end of a stimulus; 
+they cease firing in response to constant amplitude stim-
+ulation and are active only when the stimulus intensity 
+increases or decreases (Figure 17–7B). Rapidly and slowly 
+adapting sensors illustrate another important princi-
+ple of sensory coding: Neurons signal important prop-
+erties of stimuli not only when they fire but also when 
+they slow or stop firing.
+The temporal properties of a changing stimulus 
+are encoded as changes in the firing pattern, including 
+the interspike intervals, of sensory neurons. For exam-
+ple, the touch receptors illustrated in Figure 17–7 fire 
+at higher rates when a probe initially contacts the skin 
+than when the pressure is maintained. The time inter-
+val between spikes is shorter when the skin is indented 
+rapidly than when pressure is applied gradually. The 
+firing rate of these neurons is proportional to both 
+the speed at which the skin is indented and the total 
+amount of pressure applied. During steady pressure, 
+the firing rate slows to a level proportional to skin 
+indentation (Figure 17–7A) or ceases entirely (Figure 
+17–7B). Firing of both neurons stops after the probe is 
+retracted.
+
+

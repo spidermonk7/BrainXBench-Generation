@@ -1,0 +1,801 @@
+===== Page 1 =====
+1228    Part VII / Development and the Emergence of Behavior
+Figure 49–16  (Right) Reorganization of sensory maps in the 
+optic tectum of owls after systematic displacement of the 
+retinal image.  The retinal image in adolescent owls can be 
+displaced by prism goggles, which shift images from 5° to 30°. 
+(Adapted, with permission, from Knudsen 2002. Copyright © 
+2002 Springer Nature.)
+A. Before application of the prisms, the visual and auditory neu-
+ral maps coincide.
+B. The prism goggles displace the retinal image by 23°. Conse-
+quently, the neural and auditory maps are out of alignment.
+C. The two brain maps are once again congruent 42 days after 
+prism application because the auditory map has shifted to realign 
+with the visual map.
+D. Soon after the prisms are removed, the visual map reverts to 
+its original position, but the auditory map remains in its shifted 
+position.
+with receptive fields centered on a particular location 
+are also tuned to ITDs that correspond to sounds emit-
+ted from that same point in space. The registration is 
+imprecise at early stages but becomes progressively 
+more precise during early adolescence as a conse-
+quence of the animal’s experience.
+Crucial insight into how this registration occurs 
+came from experiments in which prisms were mounted 
+over the eyes of young owls. The prisms shifted the 
+retinal image horizontally so that the visual map in 
+the tectum reflected a world systematically displaced 
+from its “actual” orientation. This change abruptly 
+disrupted the correspondence between visual and 
+auditory receptive fields. Over the next several weeks, 
+however, the ITD to which tectal neurons responded 
+optimally, ie, their auditory receptive field, changed 
+until the visual and auditory maps came back into reg-
+ister (Figure 49–16). Thus, the visual map instructs the 
+auditory map.
+Further experiments showed that this reorganiza-
+tion resulted from rewiring of connections between 
+two deeper auditory nuclei (Figure 49–17). When 
+prism goggles were placed on young owls, changes 
+in ITD tuning were fully adaptive in that the animals 
+compensated completely for the effects of the prisms. 
+In contrast, goggles placed on mature owls (older than 
+7 months of age) had little effect. Thus, reorganization 
+of this auditory projection occurs optimally during a 
+critical juvenile period.
+Different Functions and Brain Regions Have 
+Different Critical Periods of Development
+Not all brain circuits are stabilized at the same time. 
+Even within the visual cortex, the critical periods for 
+organization of inputs differ among layers in both mice 
+10
+–10
++10
+10
+30
+L
+R
+10
+–10
++10
+10
+30
+L
+R
+Auditory stimuli
+Visual stimuli 
+mutations
+Head orientation 
+in response to:
+–5
+10
+–10
++10
+10
+20
+30
+L
+R
+10
+–5
++5
+10
+30
+L
+R
+A  Before prisms
+B  Soon after visual 
+ 
+ﬁeld is displaced 
+ 
+23° rightward 
+C  42 days after 
+ 
+displacement 
+D  Soon after removal
+ 
+of prisms 
+
+
+===== Page 2 =====
+Chapter 49 / Experience and the Refinement of Synaptic Connections     1229
+Visual-ﬁeld azimuth
+Site of
+plasticity
+0° 20°40°
+ITD in 
+frequency-
+speciﬁc 
+channels
+Auditory 
+space map
+Multimodal 
+space map
+0 µs
+50 µs
+100 µs
+20°40°60°
+20°40°60°
+60°
+50 µs
+100 µs
+150 µs
+0 µs
+0 µs
+50 µs
+100 µs
+Inferior colliculus
+Optic 
+tectum
+Central 
+nucleus
+External 
+nucleus
+A  Normal
+B  Animal wearing 
+ 
+prism goggles
+C  After auditory 
+ 
+remapping
+20° 
+prisms
+Superimposed 
+visual and 
+auditory maps
+Misaligned 
+visual and 
+auditory maps
+Realigned 
+visual and 
+auditory 
+maps
+Figure 49–17  The effect of prism experience on information 
+flow in the midbrain auditory localization pathway in the 
+barn owl. (Adapted from Knudsen 2002.)
+A. The auditory pathway in a normal owl. The interaural time 
+difference (ITD) is measured and mapped in frequency-specific 
+channels in the brain stem. This information ascends to the infe-
+rior colliculus, where a neural map of auditory space is created. 
+The map is conveyed to the optic tectum where it merges with 
+a map of visual space.
+B. After an owl is fitted with prism goggles, the visual and audi-
+tory space maps in the optic tectum become misaligned.
+C. After reorganization of auditory maps, the visual and auditory 
+maps are once again in alignment.
+and monkeys. As an example, the neural connections 
+in layer IVC of the visual cortex of the monkey are not 
+affected by monocular deprivation by the time the 
+animal is 2 months old. In contrast, connections in the 
+upper and lower layers continue to be influenced by 
+sensory experience (or lack of it) for almost the entire 
+first year after birth. Critical periods for other features 
+of the visual system, such as orientation tuning, occur 
+at different developmental stages (Figure 49–18A).
+The timing of critical periods also varies between 
+brain regions (Figure 49–18B). The adverse conse-
+quences of sensory deprivation for the primary sen-
+sory regions of the brain are generally fully realized 
+early in postnatal development. In contrast, social 
+experience can affect the intracortical connections 
+over a much longer period. These differences may 
+explain why certain types of learning are optimal 
+at particular stages of development. For example, 
+certain cognitive capacities—language, music, and 
+mathematics—usually must be acquired well before 
+puberty if they are to develop at all. In addition, 
+insults to the brain at specific early stages of postnatal 
+life may selectively affect the development of certain 
+perceptual abilities and behavior.
+Critical Periods Can Be Reopened  
+in Adulthood
+By definition, critical periods are limited in time. Nev-
+ertheless, they are less sharply defined than originally 
+thought. Extending or reopening critical periods in 
+adulthood could increase brain plasticity and make it 
+possible to facilitate recovery from strokes and other 
+insults that impair discrete regions of the nervous 
+system.
+Some of the first evidence for plasticity in the adult 
+cortex came from studies by Merzenich and colleagues 
+on the representation of the fingers of monkeys in 
+the somatosensory cortex. Recordings of neuronal 
+receptive fields in normal adult animals showed that 
+each digit is mapped in an orderly way on the corti-
+cal surface, with abrupt discontinuities between areas 
+responding to different digits (Figure 49–19A). Ampu-
+tation of a digit left the cortical representation of that 
+digit initially unresponsive, but after several months, 
+areas serving the neighboring digits filled in the gap 
+(Figure 49–19B). Much as happens in the visual cortex 
+following monocular deprivation, the somatosensory 
+map was readjusted so that the cortex could devote 
+
+
+===== Page 3 =====
+1230    Part VII / Development and the Emergence of Behavior
+Figure 49–18  The timing of critical periods varies 
+with brain function. (Reproduced, with permission, 
+from Hensch 2005. Copyright © 2005 Springer Nature.)
+A. In cats, the critical periods for development of ori-
+entation or direction selectivity in visual neurons occur 
+earlier than those for establishment of ocular domi-
+nance and slow-wave sleep oscillation.
+B. In humans, the timing of periods for development 
+of sensory processing, language, and cognitive func-
+tions varies.
+Plasticity
+Plasticity
+Eye
+opening
+Development
+Orientation 
+or direction 
+selectivity
+Ocular
+dominance
+Slow-wave
+sleep oscillations
+A  Critical periods for visual function in cats
+B  Critical periods for sensory and cognitive skills in humans
+Birth
+1 year
+15 years
+Age
+Sensory pathways
+(vision, hearing)
+Language
+Other cognitive 
+function
+most of its resources to useful inputs. Conversely, 
+when two fingers were sutured together so they 
+received coincident input, a swath of cortex on both 
+sides of the border between the two digit areas eventu-
+ally became responsive to both areas (Figure 49–19C). 
+This result suggests that, as in the visual system, bor-
+ders may result from competition and can be blurred 
+when competition declines. What was most surprising 
+was that these effects occurred in adulthood, long after 
+all known critical periods had closed.
+In the years since Merzenich’s studies, evidence 
+has accumulated that critical periods can be reopened 
+in many systems. We illustrate this principle by return-
+ing to two areas in which critical periods have been 
+well mapped, the optic tectum in the owl and the vis-
+ual cortex in the mouse.
+Visual and Auditory Maps Can Be Aligned in Adults
+In initial studies of the matching of auditory and 
+visual maps in owls, realignment following displace-
+ment of the visual field with prism goggles was largely 
+restricted to an early sensitive period (Figures 49–16 
+and 49–17). However, three strategies dramatically 
+enhance binaural tuning plasticity in adult owls.
+First, when adult owls that had worn goggles as 
+adolescents are refitted with the goggles, the auditory 
+map again shifts to align with the new visual map 
+(Figure 49–20A). In contrast, in adult owls that had not 
+worn the goggles as adolescents, the use of goggles has 
+little effect on the organization of the auditory map. 
+Thus, the events of map rearrangement during the nor-
+mal critical period must leave a neural trace that per-
+mits rearrangement later in life. In fact, in the owls that 
+wore prisms in early life, axons to auditory nuclei that 
+were normally pruned were maintained, providing a 
+structural basis for the reorganization in adulthood.
+A second method for inducing late plasticity is to 
+displace the retinal image in small steps by having the 
+owl wear a series of prism spectacles of progressively 
+increasing strength. Under these conditions, adjust-
+ment of the auditory map is typically three- to fourfold 
+greater than the response to a single large displace-
+ment of the retinal image (Figure 49–20B).
+The third technique is to allow owls to hunt live 
+prey. In earlier experiments, animals were housed and 
+fed under standard laboratory conditions. However, 
+when adult prism-wearing owls are allowed to cap-
+ture live mice under low light conditions for 10 weeks, 
+they exhibit far greater plasticity of binaural tuning 
+
+
+===== Page 4 =====
+Chapter 49 / Experience and the Refinement of Synaptic Connections     1231
+Figure 49–19  (Left) Representation of digits in somatosensory 
+cortex can be remapped in adult monkeys. (Adapted, with per-
+mission, from Merzenich et al. 1984 and Allard et al. 1991.)
+A. Lightly touching specific spots on the digits (left) elicits 
+responses from neurons in somatosensory cortex (right), 
+revealing orderly topographic maps of each digit on the corti-
+cal surface. Abrupt discontinuities distinguish regions serving 
+adjacent digits.
+B. Following amputation of a digit, the cortical region it previ-
+ously supplied is left unresponsive. Several months later, axons 
+from the adjacent digits (2 and 4) have formed synaptic connec-
+tions in the unresponsive area.
+C. After digits 3 and 4 have been sutured together, they 
+received simultaneous sensory stimulation, and cortical regions 
+at the border between areas representing the digits become 
+responsive to both.
+Digit 5
+1 cm
+500 µm
+Legs
+Trunk
+Arm
+Face
+Somatosensory
+cortex
+Hand
+A
+B
+C
+1 mm
+Digit 1
+Digit 1
+Digit 2
+Digit 2
+Digit 2
+Digit 3
+Digit 3
+Digits
+3 and 4
+Digit 4
+Digit 4
+Digit 4
+Digit 5
+Digit 5
+1 mm
+than owls fed dead mice (Figure 49–19C), albeit less 
+than that exhibited by juvenile owls that did not hunt. 
+The finding that hunting increases the plasticity of bin-
+aural tuning in adult owls dramatically demonstrates 
+that behavioral context affects the ability of the nerv-
+ous system to reorganize. Whether this effect results 
+from increased sensory information, attention, arousal, 
+motivation, or reward needs to be resolved.
+Binocular Circuits Can Be Remodeled in Adults
+As the body of observations on monocular deprivation 
+grew, it became apparent that some plasticity persisted 
+beyond the classical critical period in cats, rats, and mice. 
+In mice, for example, modest shifts in ocular dominance 
+occur even when one eye is deprived of vision at 2 or  
+3 months of age. By 4 months of age, however, monocu-
+lar deprivation has no detectable effect.
+Over the past decade, several interventions have 
+been discovered that enhance the extent of ocular 
+dominance plasticity in young adults and even enable 
+substantial plasticity in older animals. Some are non-
+invasive: Environmental enrichment, social interaction 
+(via group housing), visual stimulation, and exercise 
+all increase the magnitude and speed of changes that 
+occur following monocular deprivation in adults. A 
+second group of interventions targets mechanisms 
+that appear to affect the timing of the normal critical 
+period. As noted above, treating the cortex with chon-
+droitinase to disrupt perineuronal nets or interfer-
+ence with the inhibitory effects of myelin on axonal 
+growth can both extend and reopen the critical period. 
+Remarkably, transplantation of immature inhibitory 
+interneurons into the visual cortex also reopens the 
+critical period even in 6-month-old mice.
+How can we reconcile the strong evidence for criti-
+cal periods with the newer evidence for reorganization 
+
+
+===== Page 5 =====
+1232    Part VII / Development and the Emergence of Behavior
+Days with prisms
+0
+0
+20
+40
+60
+80
+100
+120
+140
+160
+10
+20
+30
+40
+50
+B  The effect of incremental change
+A  The effect of early experience
+600
+500
+400
+300
+200
+100
+0
+–20
+0
+20
+40
+60
+80
+Age 
+(days)
+Adolescence
+Adulthood
+Auditory map shift (ITD, µs) 
+Auditory map shift (ITD, µs) 
+Auditory map shift (ITD, µs) 
+Sensitive period
+Prior prism 
+exposure in 
+adolescence
+6°
+11°
+17°
+23°
+C  The effect of hunting
+No hunting
+With hunting
+5
+10
+15
+20
+25
+30
+Figure 49–20  Different behavioral conditions have different 
+effects on the realignment of visual and auditory neural 
+maps in the mature barn owl.
+A. The remodeling of the auditory maps that results from wear-
+ing prism goggles for a brief period during adolescence leaves 
+a neural trace that can be reactivated in the adult. When these 
+birds are fitted with the goggles as adults, the auditory map 
+is still able to realign with the visual map. (Abbreviation: ITD, 
+interaural time difference.) (Reproduced, with permission, from 
+Knudsen 2002. Copyright © 2002 Springer Nature.)
+B. When an animal is fitted with a series of prisms, each of 
+which produces a small displacement in the visual image, the 
+auditory map is successfully brought into alignment. The dot-
+ted line shows the extent of realignment if the animal is fitted 
+with a 23° prism on day 0. (Reproduced, with permission, from 
+Linkenhoker and Knudsen 2002. Copyright © 2002 Springer 
+Nature.)
+C. If an adult owl has the opportunity to hunt live prey while 
+wearing prism goggles, auditory remapping occurs, perhaps 
+because of enhanced motivation to sharpen perception.  
+(Reproduced, with permission, from Bergan et al. 2005.  
+Copyright © 2005 Society for Neuroscience.)
+of circuitry in adults? The plasticity observed in adults 
+is modest and slow compared to that seen during the 
+critical period, and its mechanisms differ in some 
+respects from those for earlier deprivation. These 
+differences result from two factors. First, from early 
+postnatal life into adolescence, the molecular environ-
+ment in the brain is conducive to axonal growth, and 
+cellular mechanisms are optimal for promoting the 
+formation, strengthening, weakening, and elimina-
+tion of synapses. Under these conditions, circuits can 
+readily change in response to experience. Conversely, 
+in mature circuits, molecular and structural elements 
+promote stability and impede plasticity. Second, in a 
+developing circuit, no particular pattern of connectiv-
+ity is firmly entrenched, so there is less to overcome. 
+The connections specified by genetic determinants are 
+less precise, and the connections themselves are rela-
+tively weak. The patterns of neural activity that result 
+from experience sharpen and even realign these pat-
+terns of connectivity.
+In sum, experience during critical periods has a 
+potent effect on circuits because the cellular and molec-
+ular conditions are optimal for plasticity and because 
+the instructed pattern of connectivity does not have 
+
+
+===== Page 6 =====
+Chapter 49 / Experience and the Refinement of Synaptic Connections     1233
+to compete with a long-existing pattern. These differ-
+ences help explain the special behavioral, pharmaco-
+logical, or genetic interventions needed to stimulate 
+plasticity in adults.
+Highlights
+  1.  Although the nervous system is malleable 
+throughout life, plasticity is particularly great 
+during restricted intervals in early postnatal life 
+called critical periods. Alterations that occur dur-
+ing these periods are nearly irreversible.
+  2.  Critical periods vary in time among brain areas 
+and tasks. For example, children with strabismus 
+(crossed eyes) will never have good stereoscopic 
+vision unless their eyes are brought into align-
+ment during the first few postnatal years, and 
+people cannot learn a new language without an 
+accent after their early teens.
+  3.  The richest understanding of critical periods 
+comes from studies initiated by Hubel and Wiesel 
+on how input from the two eyes is integrated 
+in the cortex. They deprived one eye of vision 
+for varying periods in young cats or monkeys. 
+In normal animals, most neurons in visual cor-
+tex are binocularly responsive, but following 
+monocular deprivation for a brief period in early 
+postnatal life, most cortical cells permanently 
+lost responsiveness to input from the once-closed 
+eye. Responses in the eye itself and the lateral 
+geniculate nucleus were nearly normal, pinpoint-
+ing the cortex as the site of change. Much longer 
+deprivation in adulthood had little effect.
+  4.  A structural basis for the loss of binocularity 
+was seen in the alternating pattern of ocular 
+dominance columns, within which neurons are 
+dominated by input from one eye or the other. 
+Following monocular deprivation during the 
+critical period, columns representing the open 
+eye expanded at the expense of those represent-
+ing the closed eye. This form of plasticity may be 
+designed to optimize the use of cortical space for 
+each individual at each time period—for exam-
+ple, subtly shifting binocular interactions as the 
+head grows and the eyes become further apart.
+  5.  The binocular interaction reflects competition 
+between the two sets of inputs, since vision and 
+symmetrical columns are retained following bin-
+ocular deprivation. Many lines of evidence indicate 
+that the competition depends on patterns of activity 
+arising in the two eyes, with inputs from each eye 
+being more synchronous with each other than with 
+inputs from the other eye. Postnatally, synchrony is 
+driven by visual experience. Prenatally or prior to 
+eye opening, patterned spontaneous activity in the 
+two eyes accounts for the synchrony.
+  6.  Cellular mechanisms underlying the effects of 
+monocular deprivation have been studied in 
+greatest detail in mice. Following monocular 
+deprivation, input from the closed eye is weak-
+ened rapidly by a process akin to long-term 
+depression (LTD). Shortly thereafter, input from 
+the other eye is strengthened, partly by a com-
+pensatory mechanism called homeostatic plastic-
+ity. Structural remodeling of thalamic axons and 
+cortical dendrites occurs later.
+  7.  Maturation of inhibitory interneurons is a main 
+determinant of when the critical period opens. 
+The end of the critical period is marked by the 
+formation of myelin and proteoglycan-rich 
+perineuronal structures that hamper structural 
+remodeling.
+  8.  Although plasticity of binocular interactions was 
+initially believed to be confined to early postnatal 
+life, it is now apparent that critical periods can 
+be “reopened” to some extent in adults. In some 
+cases, this can be done by altering the animal’s 
+environment or the way in which the altered 
+experience is delivered. Critical periods can also 
+be reopened by manipulating some of the factors 
+that normally close them in adolescence.
+  9.  Plasticity in adulthood is modest in magnitude 
+and difficult to trigger compared to early post-
+natal critical periods. Nonetheless, reopening of 
+critical periods could, if properly controlled, enable 
+reorganization to compensate for losses incurred 
+from injuries, disease, and early maladaptive 
+experience.
+10.  Critical periods occur during development of 
+numerous systems, such as formation of orderly 
+maps of auditory, somatosensory, and visual 
+input onto relevant sensory cortices. Many of the 
+principles and mechanisms that characterize the 
+plasticity of binocular interactions also regulate 
+these critical periods, including roles of sponta-
+neous and experience-dependent activity, com-
+petition, alterations in excitatory and inhibitory 
+synapses, and selective growth and pruning of 
+inputs to achieve appropriate patterns of adult 
+connectivity.
+11.  The existence of critical periods demonstrates 
+that the brain’s ability to remodel declines pre-
+cipitously in adulthood. This seems disadvan-
+tageous but may represent a useful adaptation, 
+allowing each brain to adapt to its environment 
+
+
+===== Page 7 =====
+1234    Part VII / Development and the Emergence of Behavior
+as it develops, but then buffering it against exces-
+sive change later, perhaps even enabling skills 
+and memories to persist. If this is the case, thera-
+pies based on reopening critical periods in adults 
+may come at a cost.
+ Joshua R. Sanes 
+Selected Reading
+Espinosa JS, Stryker MP. 2012. Development and plasticity of 
+the primary visual cortex. Neuron 75:230–249.
+Harlow HF. 1958. The nature of love. Am Psychol 13: 
+673–685.
+Hensch TK, Quinlan EM. 2018. Critical periods in amblyopia. 
+Vis Neurosci 35:E014.
+Hübener M, Bonhoeffer T. 2014. Neuronal plasticity: beyond 
+the critical period. Cell 159:727–737.
+Knudsen EI. 2002. Instructed learning in the auditory locali-
+zation pathway of the barn owl. Nature 417:322–328.
+Leighton AH, Lohmann C. 2016. The wiring of developing 
+sensory circuits: from patterned spontaneous activity to 
+synaptic plasticity mechanisms. Front Neural Circuits 
+10:71.
+Thompson A, Gribizis A, Chen C, Crair MC. 2017. Activity-
+dependent development of visual receptive fields. Curr 
+Opin Neurobiol 42:136–143.
+Wiesel TN. 1982. Postnatal development of the visual cortex 
+and the influence of environment. Nature 299:583–591.
+References
+Allard T, Clark SA, Jenkins WM, Merzenich MM. 1991. Reor-
+ganization of somatosensory area 3b representations in 
+adult owl monkeys after digital syndactyly. J Neurophysiol 
+66:1048–1058.
+Antonini A, Stryker MP. 1993. Rapid remodeling of axonal 
+arbors in the visual cortex. Science 260:1819–1812.
+Behen ME, Helder E, Rothermel R, Solomon K, Chugani 
+HT. 2008. Incidence of specific absolute neurocogni-
+tive impairment in globally intact children with histo-
+ries of early severe deprivation. Child Neuropsychol 14: 
+453–469.
+Bergan JF, Ro P, Ro D, Knudsen EI. 2005. Hunting increases 
+adaptive auditory map plasticity in adult barn owls.  
+J Neurosci 25:9816–9820.
+Blankenship A, Ford K, Johnson J, et al. 2009. Synaptic and 
+extrasynaptic factors governing glutamatergic retinal 
+waves. Neuron 62:230–241.
+Buonomano DV, Merzenich MM. 1998. Cortical plasticity: 
+from synapses to maps. Annu Rev Neurosci 21:149–186.
+Constantine-Paton M, Law MI. 1978. Eye-specific termination 
+bands in tecta of three-eyed frogs. Science 202:639–641.
+Davis MF, Figueroa Velez DX, et al. 2015. Inhibitory neu-
+ron transplantation into adult visual cortex creates a 
+new critical period that rescues impaired vision. Neuron 
+86:1055–1066.
+Eluvathingal TJ, Chugani HT, Behen ME, et al. 2006. 
+Abnormal brain connectivity in children after early severe 
+socioemotional deprivation: a diffusion tensor imaging 
+study. Pediatrics 117:2093–2100.
+Galli L, Maffei L. 1988. Spontaneous impulse activity of 
+rat retinal ganglion cells in prenatal life. Science 242: 
+90–91.
+Hebb DO. 1949. Organization of Behavior: A Neuropsychological 
+Theory. New York: Wiley.
+Hensch TK. 2005. Critical period plasticity in local cortical 
+circuits. Nat Rev Neurosci 6:877–888.
+Hensch TK, Fagiolini M, Mataga N, Stryker MP, Baekkeskov 
+S, Kash SF. 1998. Local GABA circuit control of experience-
+dependent plasticity in developing visual cortex. Science 
+282:1504–1508.
+Hofer S, Mrsic-Flogel T, Bonhoeffer T, Hubener M. 2009. 
+Experience leaves a lasting structural trace in cortical cir-
+cuits. Nature 457:313–317.
+Hong YK, Park S, Litvina EY, Morales J, Sanes JR, Chen C. 
+2014. Refinement of the retinogeniculate synapse by bou-
+ton clustering. Neuron 84:332–339.
+Hubel DH, Wiesel TN. 1965. Binocular interaction in striate 
+cortex of kittens reared with artificial squint. J Neuro-
+physiol 28:1041–1059.
+Hubel DH, Wiesel TN. 1977. Ferrier lecture: functional archi-
+tecture of macaque monkey visual cortex. Proc R Soc 
+Lond B Biol Sci 198:1–59.
+Hubel DH, Wiesel TN, LeVay S. 1977. Plasticity of ocular 
+dominance columns in monkey striate cortex. Philos 
+Trans R Soc Lond B Biol Sci 278:377–409.
+Khibnik LA, Cho KK, Bear MF. 2010. Relative contribution 
+of feed forward excitatory connections to expression of 
+ocular dominance plasticity in layer 4 of visual cortex. 
+Neuron 66:493–500.
+Kral A, Sharma A. 2012. Developmental neuroplasticity after 
+cochlear implantation. Trends Neurosci 35:111–122.
+Linkenhoker BA, Knudsen EI. 2002 Incremental training 
+increases the plasticity of the auditory space map in adult 
+barn owls. Nature 419:293–296.
+Löwel S. 1994. Ocular dominance column development: stra-
+bismus changes the spacing of adjacent columns in cat 
+visual cortex. J Neurosci 14:7451–7468.
+McGee AW, Yang Y, Fischer QS, Daw NW, Strittmatter SM. 
+2005. Experience-driven plasticity of visual cortex limited 
+by myelin and Nogo receptor. Science 309:2222–2226.
+Meister M, Wong ROL, Baylor DA, Shatz CJ. 1991. Synchro-
+nous bursts of action potentials in ganglion cells of the 
+developing mammalian retina. Science 252:939–943.
+Merzenich MM, Nelson RJ, Stryker MP, Cynader MS, 
+Schoppmann A, Zook JM. 1984. Somatosensory cortical 
+map changes following digit amputation in adult mon-
+keys. J Comp Neurol 224:591–605.
+
+
+===== Page 8 =====
+Chapter 49 / Experience and the Refinement of Synaptic Connections     1235
+Nelson CA 3rd, Zeanah CH, Fox NA, Marshall PJ, Smyke AT, 
+Guthrie D. 2007. Cognitive recovery in socially deprived 
+young children: the Bucharest Early Intervention Project. 
+Science 318:1937–1940.
+Oray S, Majewska A, Sur M. 2004. Dendritic spine dynamics 
+are regulated by monocular deprivation and extracellular 
+matrix degradation. Neuron 44:1021–1030.
+Pizzorusso T, Medini P, Berardi N, Chierzi S, Fawcett 
+JW, Maffei L. 2002. Reactivation of ocular dominance  
+plasticity in the adult visual cortex. Science 298:1248–1251.
+Rakic P. 1981. Development of visual centers in the primate 
+brain depends on binocular competition before birth. 
+Science 214:928–931.
+Sanes JR, Yamagata M. 1999. Formation of lamina-specific 
+synaptic connections. Curr Opin Neurobiol 9:79–87.
+Shatz CJ, Stryker MP. 1988. Prenatal tetrodotoxin infusion 
+blocks segregation of retino-geniculate afferents. Science 
+242:87–89.
+Van Sluyters RC, Levitt FB. 1980. Experimental strabismus in 
+the kitten. J Neurophysiol 43:686–699.
+Zhang J, Ackman JB, Xu HP, Crair MC. 2011. Visual map 
+development depends on the temporal pattern of binocu-
+lar activity in mice. Nat Neurosci 15:298–307.
+
+
+===== Page 9 =====
+50
+Repairing the Damaged Brain
+have been renowned for their ability to localize lesions 
+with great precision but until recently have had little 
+to offer in terms of treatment. This situation is now 
+changing.
+Advances in our understanding of the structure, 
+function, and chemistry of the brain’s neurons, glial 
+cells, and synapses have led to new ideas for treat-
+ment. Many of these are now in clinical trials, and 
+some are already available to patients. Developmental 
+neuroscience is emerging as a major contributor to this 
+sea change for three main reasons. First, efforts to pre-
+serve or replace neurons lost to damage or disease rely 
+on recent advances in our understanding of the mecha-
+nisms that control the generation and death of nerve 
+cells in embryos (Chapters 45 and 46). Second, efforts 
+to improve the regeneration of neural pathways fol-
+lowing injury draw heavily on what we have learned 
+about the growth of axons and the formation of syn-
+apses (Chapters 47 and 48). Third, there is increasing 
+evidence that some devastating brain disorders, such 
+as autism and schizophrenia, are the result of distur-
+bances in the formation of neural circuits in embryonic 
+or early postnatal life. Accordingly, studies of normal 
+development provide an essential foundation for dis-
+covering precisely what has gone wrong in disease.
+In this chapter, we focus on the first two of these 
+issues: how neuroscientists hope to augment the lim-
+ited ability of neurons to recover normal function. We 
+shall begin by describing how axons degenerate fol-
+lowing the separation of the axon and its terminals 
+from the cell body. The regeneration of severed axons 
+is robust in the peripheral nervous system of mam-
+mals and in the central nervous system of lower verte-
+brates, but very poor in the central nervous system of 
+Damage to the Axon Affects Both the Neuron and 
+Neighboring Cells
+Axon Degeneration Is an Active Process
+Axotomy Leads to Reactive Responses in Nearby Cells
+Central Axons Regenerate Poorly After Injury
+Therapeutic Interventions May Promote Regeneration of 
+Injured Central Neurons
+Environmental Factors Support the Regeneration of 
+Injured Axons
+Components of Myelin Inhibit Neurite Outgrowth
+Injury-Induced Scarring Hinders Axonal Regeneration
+An Intrinsic Growth Program Promotes Regeneration
+Formation of New Connections by Intact Axons Can 
+Lead to Recovery of Function Following Injury
+Neurons in the Injured Brain Die but New Ones Can Be Born
+Therapeutic Interventions May Retain or Replace Injured 
+Central Neurons
+Transplantation of Neurons or Their Progenitors Can 
+Replace Lost Neurons
+Stimulation of Neurogenesis in Regions of Injury May 
+Contribute to Restoring Function
+Transplantation of Nonneuronal Cells or Their 
+Progenitors Can Improve Neuronal Function
+Restoration of Function Is the Aim of  
+Regenerative Therapies
+Highlights
+F
+or much of its history, neurology has been a 
+discipline of outstanding diagnostic rigor but lit-
+tle therapeutic efficacy. Simply put, neurologists 
+
+

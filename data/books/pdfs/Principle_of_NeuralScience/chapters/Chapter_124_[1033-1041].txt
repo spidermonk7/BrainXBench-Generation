@@ -1,0 +1,921 @@
+===== Page 1 =====
+988    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+r2
+r1
+N. III
+N. IV
+N. V
+N. VII
+N. IX
+N. X
+N. XII
+Midbrain
+Hindbrain
+Somatic
+motor nuclei
+Visceral
+motor nuclei
+r3
+r4
+r5
+r6
+r7
+r8
+Floor
+plate
+A
+B
+2nd arch
+3rd arch
+1st arch
+N. VI
+Figure 40–5  Embryonic cranial nerve nuclei are organized 
+segmentally.
+A. In the developing hindbrain (seen here from the ventral side), 
+special and general visceral motor neurons (represented on the 
+right side of the brain stem) form in each hindbrain segment 
+(rhombomere) except rhombomere 1 (r1). Each special visceral 
+motor nucleus comprises neurons in two rhombomeres: the 
+trigeminal motor nucleus is formed by neurons in r2 and r3, the 
+facial nucleus by neurons in r4 and r5, the glossopharyngeal 
+nucleus by neurons in r6 and r7, and the motor nuclei of the 
+vagus by neurons in r7 and r8. Axons of neurons in each of these 
+nuclei course laterally within the brain, leaving the brain through 
+exit points in the lateral neuroepithelium (of r2, r4, r6, and r7) and 
+running together outside the brain to form the respective cranial 
+motor nerves (V, VII, IX, X). The trigeminal (V) nerve innervates 
+muscles in the 1st branchial arch, the facial (VII) nerve innervates 
+muscles in the 2nd branchial arch, and the glossopharyngeal (IX) 
+nerve innervates muscles in the 3rd branchial arch.
+    All of the visceral motor neurons (various shades of green, 
+represented on the right side of the brain stem) develop initially 
+next to the floor plate at the ventral midline; after extending 
+their axons toward their respective exit points, the cell bodies 
+then migrate laterally (arrows). Exceptions are the facial motor 
+neurons formed in r4 (red); the cell bodies, after extending their 
+axons toward the exit point, migrate caudally to the axial level 
+of r6 before migrating laterally. General visceral (parasympa-
+thetic) motor neurons associated with nerve VII (light green) 
+take a more conventional course (see panel B).
+    General somatic motor nuclei (various shades of blue, 
+represented on the left side of the brain stem) are formed in 
+r1 (trochlear nucleus), r5 and r6 (abducens nucleus), and r8 
+(hypoglossal nucleus). The cell bodies of these neurons remain 
+close to their place of birth, next to the floor plate. The axons of 
+abducens and hypoglossal neurons exit the brain directly ven-
+trally, without coursing laterally. The axons of trochlear neurons 
+(light blue) extend laterally and dorsally within the brain until, 
+caudal to the inferior colliculus, they turn medially, decussate 
+just behind the inferior colliculus, and exit near the midline of 
+the opposite side.
+B. The brain stem of a mouse embryo in which fluorescent dyes 
+label different populations of cranial nerve VII motor neurons. A 
+red-fluorescing dye fills the cell bodies of facial motor neurons 
+via retrograde transport from the motor root of the facial nerve. 
+These neurons develop initially in r4 and then migrate posteri-
+orly, alongside the floor plate, to r6 (see red neurons in part A). 
+A green-fluorescing dye fills the cell bodies of general visceral 
+motor neurons in r5 (see light green neurons in part A) via retro-
+grade transport from the root of the intermediate nerve (sensory 
+and preganglionic general visceral motor axons). (Micrograph 
+reproduced, with permission, from Dr. Ian McKay.)
+
+
+===== Page 2 =====
+Chapter 40 / The Brain Stem    989
+Figure 40–6  Adult cranial nerve nuclei are organized in six 
+functional columns on the rostrocaudal axis of the brain 
+stem.
+A. This dorsal view of the human brain stem shows the loca-
+tion of the cranial nerve sensory nuclei (right) and motor nuclei 
+(left).
+B. A schematic view of the functional organization of the cranial 
+nerve nuclei makes it clearer that they form motor and sensory 
+columns.
+C. The medial-lateral arrangement of the cranial nerve nuclei is 
+shown in a cross section at the level of the medulla (compare 
+with Figure 40–4D).
+Special visceral
+General
+somatic
+General and special visceral
+General somatic
+Special somatic
+Midbrain
+Sensory
+Motor
+Pons
+Medulla
+Spinal cord
+Special somatic
+sensory (N. VIII)
+Sensory:
+Somatic
+Sulcus
+limitans
+Visceral
+General somatic
+sensory (N. V, VII, IX, X)
+General and special
+visceral sensory
+(N. VII, IX, X)
+General visceral
+motor (N. III, VII, IX, X)
+General somatic
+motor (N. III, IV, VI, XII)
+Special visceral motor
+(N. V, VII, IX, X, XI)
+General
+visceral
+A
+B
+C
+Hypoglossal nucleus (N. XII)
+Dorsal motor nucleus
+of vagus (N. X)
+Accessory nucleus (N. XI)
+Spinal trigeminal
+nucleus (N. V, VII, IX, X)
+Solitary nucleus
+(N. VII, IX, X)
+Principal sensory
+trigeminal nucleus (N. V)
+III
+VII
+IX
+X
+XII
+IX
+VI
+VIII
+VIII
+IV
+III
+V
+IX, X
+VII
+V
+V
+V, VII,
+IX, X
+XI
+Vestibular nuclei
+(N. VIII)
+Cochlear nucleus
+(N. VIII)
+Motor:
+Visceral
+Somatic
+Edinger-Westphal
+nucleus (N. III)
+Oculomotor
+nucleus (N. III)
+Trochlear
+nucleus (N. IV)
+Trigeminal motor
+nucleus (N. V)
+Abducens nucleus (N. VI)
+Facial motor
+nucleus (N. VII)
+Salivatory
+nucleus
+Nucleus ambiguus (N. IX, X)
+Superior (N. VII)
+Inferior (N. IX)
+Mesencephalic
+trigeminal
+nucleus (N. V)
+Sensory
+Motor
+
+
+===== Page 3 =====
+990    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+is represented ventrally and the oral region dorsally, 
+with the tongue extending medially toward the taste 
+region of the nucleus of the solitary tract, with which it 
+shares some afferent information concerning food tex-
+ture and temperature. Axons from the spinal trigemi-
+nal nucleus descend on the same side of the brain 
+stem into the cervical spinal cord, where they cross 
+the midline in the anterior commissure with spinotha-
+lamic axons and join the opposite spinothalamic tract. 
+(For this reason, upper cervical spinal cord injury may 
+cause facial numbness.) The trigeminothalamic axons 
+then ascend back through the brain stem in close asso-
+ciation with the spinothalamic tract, providing inputs 
+to brain stem nuclei for reflex motor and autonomic 
+responses in addition to carrying pain and tempera-
+ture information to the thalamus.
+The principal sensory trigeminal nucleus lies in the 
+mid-pons just lateral to the trigeminal motor nucleus. 
+It receives the axons of neurons in the trigeminal gan-
+glion concerned with position sense and fine touch 
+discrimination, the same types of sensory information 
+carried from the rest of the body by the dorsal col-
+umns. The axons from this nucleus are bundled just 
+medial to those from the dorsal column nuclei in the 
+medial lemniscus, through which they ascend to the 
+ventroposterior medial thalamus.
+The mesencephalic trigeminal nucleus, located at the 
+midbrain level in the lateral surface of the periaque-
+ductal gray matter, relays mechanosensory information 
+from the muscles of mastication and the periodontal 
+ligaments. The large cells of this nucleus are not cen-
+tral neurons but primary sensory ganglion cells that 
+derive from the neural crest and, unlike their relatives 
+in the trigeminal ganglion, migrate into the brain dur-
+ing development. The central branches of the axons of 
+these pseudo-unipolar cells contact motor neurons in 
+the trigeminal motor nucleus, providing monosynap-
+tic feedback to the jaw musculature, critical for rapid 
+and precise control of chewing movements.
+Special Somatic Sensory Column
+The special somatic sensory column has inputs from the 
+acoustic and vestibular nerves and develops from the 
+intermediate region of the alar plate. The cochlear nuclei 
+(N. VIII), which lie at the lateral margin of the brain 
+stem at the pontomedullary junction, receive affer-
+ent fibers from the spiral ganglion of the cochlea. The 
+output of the cochlear nuclei is relayed through the 
+pons to the superior olivary and trapezoid nuclei and 
+bilaterally on to the inferior colliculus (Chapter 28). 
+The vestibular nuclei (N. VIII) are more complex. They 
+include four distinct cell groups that relay information 
+from the vestibular ganglion to various motor sites in 
+the brain stem, cerebellum, and spinal cord concerned 
+with maintaining balance and coordination of eye and 
+head movements (Chapter 27).
+Visceral Sensory Column
+The visceral sensory column is concerned with spe-
+cial visceral information (taste) and general visceral 
+information from the facial (VII), glossopharyngeal 
+(IX), and vagus nerves (X). It is derived from the most 
+medial tier of neurons in the alar plate. All of the affer-
+ent axons from these sources terminate in the nucleus 
+of the solitary tract. The solitary tract is analogous to 
+the spinal trigeminal tract or Lissauer’s tract, bun-
+dling afferents from different cranial nerves as they 
+course rostrocaudally along the length of the nucleus. 
+As a result, sensory information from different regions 
+of the viscera produces a unified map of the internal 
+body in the nucleus.
+Special visceral afferents from the anterior two-
+thirds of the tongue travel to the nucleus of the soli-
+tary tract through the chorda tympani branch of the 
+facial nerve, whereas those from the posterior parts 
+of the tongue and oral cavity arrive through the glos-
+sopharyngeal and vagus nerves. These afferents ter-
+minate in roughly somatotopic fashion in the anterior 
+third of the nucleus of the solitary tract (or solitary 
+nucleus). General visceral afferents are relayed through 
+the glossopharyngeal and vagus nerves. Those from 
+the rest of the gastrointestinal tract (down to the trans-
+verse colon) terminate in the middle portion of the sol-
+itary nucleus in topographic order, whereas those from 
+the cardiovascular and respiratory systems terminate 
+in the caudal and lateral portions.
+The solitary nucleus projects directly to parasym-
+pathetic and sympathetic preganglionic motor neurons 
+in the medulla and spinal cord that mediate various 
+autonomic reflexes, as well as to parts of the reticular 
+formation that coordinate autonomic and respiratory 
+responses. Most ascending projections from the soli-
+tary nucleus that carry information from the viscera 
+to the forebrain are relayed through the parabrachial 
+nucleus in the pons, although some reach the forebrain 
+directly. Together, the solitary and parabrachial nuclei 
+supply visceral sensory information to the hypothala-
+mus, basal forebrain, amygdala, thalamus, and cer-
+ebral cortex.
+General Visceral Motor Column
+All motor neurons initially develop adjacent to the 
+floor plate, a longitudinal strip of non-neuronal cells 
+
+
+===== Page 4 =====
+Chapter 40 / The Brain Stem    991
+at the ventral midline of the neural tube (Chapter 45). 
+Neurons fated to become the three types of brain stem 
+motor neurons migrate dorsolaterally, settling in three 
+distinct rostrocaudal columns. The neurons that form 
+the general visceral motor column take up a position 
+along the most lateral region of the basal plate, just 
+medial to the sulcus limitans. During development, the 
+parasympathetic motor neurons destined to join the 
+superior salivatory nucleus (part of the facial nerve) 
+and nucleus ambiguus (part of the vagus nerve) migrate 
+ventrolaterally, leaving behind axons that ascend medi-
+ally before turning laterally to exit the brain stem, in a 
+course similar to the facial motor neurons.
+The Edinger-Westphal nucleus (N. III) lies in the mid-
+line separating the somatic oculomotor neurons just 
+below the floor of the cerebral aqueduct. It contains 
+preganglionic neurons that control pupillary constriction 
+and lens accommodation through the ciliary ganglion.
+The superior salivatory nucleus (N. VII) lies just dor-
+sal to the facial motor nucleus and comprises para-
+sympathetic preganglionic neurons that innervate the 
+sublingual and submandibular salivary glands and the 
+lacrimal glands and intracranial circulation through 
+the sphenopalatine and submandibular parasympa-
+thetic ganglia.
+Parasympathetic preganglionic neurons associ-
+ated with the gastrointestinal tract form a column at 
+the level of the medulla just dorsal to the hypoglossal 
+nucleus and ventral to the nucleus of the solitary tract. 
+At the most rostral end of this column is the inferior 
+salivatory nucleus (N. IX) comprising the preganglionic 
+neurons that innervate the parotid gland through the 
+otic ganglion. The rest of this column constitutes the 
+dorsal motor vagal nucleus (N. X). Most of the pregangli-
+onic neurons in this nucleus innervate the gastrointes-
+tinal tract below the diaphragm; a few are cardiomotor 
+neurons.
+The nucleus ambiguus (N. X) runs the rostrocau-
+dal length of the ventrolateral medulla and contains 
+parasympathetic preganglionic neurons that innervate 
+thoracic organs, including the esophagus, heart, and 
+respiratory system, as well as special visceral motor 
+neurons that innervate the striated muscle of the 
+larynx and pharynx, and neurons that generate res-
+piratory motor patterns (see later in chapter). The par-
+asympathetic preganglionic neurons are organized in 
+topographic fashion, with the esophagus represented 
+most rostrally and dorsally.
+Special Visceral Motor Column
+The special visceral motor column includes motor 
+nuclei that innervate muscles derived from the 
+branchial (pharyngeal) arches. Because these arches 
+are homologous to the gills in fish, the muscles are 
+considered special visceral muscles, even though they 
+are striated. During development, these cell groups 
+migrate to an intermediate position in the basal plate 
+and are eventually located ventrolaterally in the 
+tegmentum.
+The trigeminal motor nucleus (N. V) lies at midpon-
+tine levels and innervates the muscles of mastication. 
+Nearby in separate clusters are located the accessory 
+trigeminal nuclei that innervate the tensor tympani, ten-
+sor veli palatini, and mylohyoid muscles, and the ante-
+rior belly of the digastric muscle.
+The facial motor nucleus (N. VII) lies caudal to the 
+trigeminal motor nucleus at the level of the caudal 
+pons and innervates the muscles of facial expression. 
+During development, facial motor neurons migrate 
+medially and rostrally around the medial margin of 
+the abducens nucleus before turning laterally, ven-
+trally, and caudally toward their definitive position 
+at the pontomedullary junction (Figure 40–5A). This 
+sinuous course that the axons leave behind forms the 
+internal genu of the facial nerve. The adjacent accessory 
+facial motor nuclei innervate the stylohyoid and stape-
+dius muscles and the posterior belly of the digastric 
+muscle.
+The nucleus ambiguus contains branchial motor 
+neurons with axons that run in the glossopharyngeal 
+and vagus nerves. These neurons innervate the striated 
+muscles of the larynx and pharynx. During develop-
+ment, these motor neurons migrate into the ventrolat-
+eral medulla, and as a consequence, their axons run 
+dorsomedially toward the dorsal motor vagal nucleus, 
+then turn sharply within the medulla to exit laterally, 
+similar to the course of the facial motor axons.
+General Somatic Motor Column
+The neurons of the somatic motor column migrate the 
+least during development, remaining close to the ven-
+tral midline. The oculomotor nucleus (N. III) lies at the 
+midbrain level; it consists of five rostrocaudal columns 
+of motor neurons innervating the medial, superior, 
+and inferior rectus muscles, the inferior oblique mus-
+cle, and the levator of the eyelids. The motor neurons 
+for the medial and inferior rectus and inferior oblique 
+muscles are on the side of the brain stem from which 
+the nerve exits, whereas those for the superior rectus 
+are on the opposite side. The levator motor neurons 
+are bilateral.
+The trochlear nucleus (N. IV), which innervates the 
+trochlear muscle, lies at the midbrain/rostral pon-
+tine level on the side of the brain stem opposite from 
+
+
+===== Page 5 =====
+992    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+which the nerve exits. The abducens nucleus (N. VI), 
+which innervates the lateral rectus muscle, is located 
+at the midpontine level. The hypoglossal nucleus  
+(N. XII) in the medulla consists of several columns of 
+neurons, each of which innervates a single muscle of 
+the tongue.
+The Organization of the Brain Stem Differs From 
+the Spinal Cord in Three Important Ways
+One major difference between the organization of the 
+brain stem and that of the spinal cord is that many 
+long ascending and descending sensory tracts that run 
+along the outside of the spinal cord are incorporated 
+within the interior of the brain stem. Thus, the ascend-
+ing sensory tracts (the medial lemniscus and spinotha-
+lamic tract) run through the reticular formation of the 
+brain stem, as do the auditory, vestibular, and visceral 
+sensory pathways.
+A second major difference is that in the brain stem, 
+the cerebellum and its associated pathways form addi-
+tional structures that are superimposed on the basic 
+plan of the spinal cord. Fibers of the cerebellar tracts 
+and nuclei are bundled with those of the pyramidal 
+and extrapyramidal motor systems to form a large 
+ventral portion of the brain stem. Thus, from the mid-
+brain to the medulla, the brain stem is divided into 
+a dorsal portion, the tegmentum, which follows the 
+basic segmental plan of the spinal cord, and a ventral 
+portion, which contains the structures associated with 
+the cerebellum and the descending motor pathways. 
+At the level of the midbrain, the ventral (motor) por-
+tion includes the cerebral peduncles, substantia nigra, 
+and red nuclei. The base of the pons includes the 
+pontine nuclei, corticospinal tract, and middle cer-
+ebellar peduncle. In the medulla, the ventral motor 
+structures include the pyramidal tracts and inferior 
+olivary nuclei.
+A third major difference is that, although the hind-
+brain is segmented into rhombomeres during develop-
+ment, there is no clear repeating pattern in the adult 
+brain. In contrast, the spinal cord is not segmented 
+during development, but the final pattern consists of 
+repeating segments. The prominent ladder-like arrays 
+of ventral root axons and dorsal root ganglia suggest 
+that segmentation is imposed by a polarizing effect 
+of the adjacent body segments, or somites into which 
+they migrate—in each somite, the rostral part attracts 
+axonal growth cones and neural crest cells, whereas the 
+caudal part is repulsive. In the head, such patterning is 
+lacking as the cranial mesoderm is not segmented into 
+somites but rather develops under the influence of the 
+rhombomeres.
+Neuronal Ensembles in the Brain Stem 
+Reticular Formation Coordinate Reflexes and 
+Simple Behaviors Necessary for Homeostasis 
+and Survival
+In the 19th century, Charles Darwin pointed out in his 
+book The Expression of the Emotions in Man and Animals 
+that the muscles of facial expression are activated in 
+similar patterns in all mammals during similar emo-
+tional situations (fear, anger, disgust, happiness). He 
+hypothesized that the patterns of facial expression 
+must be deeply embedded in the organization of the 
+brain stem. We now recognize that a wide range of 
+reflexes and simple, repetitive, coordinated behaviors, 
+such as facial emotional expression, breathing, and eat-
+ing, are controlled by neurons in the brain stem reticu-
+lar formation called pattern generators, which produce 
+stereotyped innate responses. Impairment of cranial 
+nerve reflexes and motor patterns in patients with neu-
+rological disease can indicate the precise site of brain 
+stem damage.
+Cranial Nerve Reflexes Involve Mono- and 
+Polysynaptic Brain Stem Relays
+The responses of the pupils to light (pupillary light 
+reflexes) are determined by the balance between sym-
+pathetic tone in the pupillodilator muscles and para-
+sympathetic tone in the pupilloconstrictor muscles of 
+the iris. Sympathetic tone is maintained by postgangli-
+onic neurons in the superior cervical ganglion, which 
+in turn are innervated by preganglionic neurons in the 
+first and second thoracic spinal segments. Parasympa-
+thetic tone is supplied by postganglionic ciliary gan-
+glion cells under the control of preganglionic neurons 
+in the Edinger-Westphal nucleus and adjacent areas of 
+the midbrain.
+Light impinging on the retina activates a special 
+class of retinal ganglion cells that act as brightness 
+detectors. These cells receive inputs from photopig-
+ment-containing rod and cone cells, but they also have 
+their own photopigment, melanopsin, which allows 
+them to respond to light even when the rods and cones 
+have degenerated. These cells send their axons through 
+the optic nerve, chiasm, and tract to the olivary pretec-
+tal nucleus, where they terminate on neurons whose 
+axons project to preganglionic neurons in the Edinger-
+Westphal nucleus (Figure 40–7). Thus, injury to the 
+dorsal midbrain in the region of the posterior commis-
+sure can prevent pupillary light responses (midposi-
+tion, fixed pupils), whereas injury to the oculomotor 
+nerve eliminates parasympathetic tone to that pupil 
+(fixed and dilated pupil). The melanopsin-containing 
+
+
+===== Page 6 =====
+Chapter 40 / The Brain Stem    993
+Figure 40–7  The pupillary response to light is mediated by 
+parasympathetic innervation of the iris. Retinal ganglion cells 
+that contain the photopigment melanopsin act as luminance 
+detectors, sending their axons through the optic tract to the oli-
+vary pretectal nucleus, at the junction of the midbrain and the 
+thalamus. Neurons in this nucleus project through the posterior 
+commissure to parasympathetic preganglionic neurons in and 
+around the Edinger-Westphal nucleus. The axons of the pregan-
+glionic cells exit with the oculomotor (III) nerve and contact cili-
+ary ganglion cells, which control the pupilloconstrictor muscle 
+in the iris. (Abbreviations: LGN, lateral geniculate nucleus;  
+MLF, medial longitudinal fasciculus.)
+LGN
+MLF
+Olivary pretectal 
+nucleus
+Ciliary
+ganglia
+Pupilloconstrictor
+muscle in the iris
+Retinal
+ganglion cell
+N. III
+Edinger-Westphal
+nucleus
+retinal ganglion cells also project to the suprachias-
+matic nucleus of the hypothalamus, where they entrain 
+circadian rhythms to the day–night cycle (Chapter 44).
+Vestibulo-ocular reflexes stabilize the image on the 
+retina during head movement by rotating the eyeballs 
+counter to the rotation of the head. These reflexes are 
+activated by pathways from the vestibular ganglion 
+and nerve to the medial, superior, and lateral vestibu-
+lar nuclei, and from there to neurons in the reticular 
+formation and ocular motor nuclei that coordinate 
+eye movements. The reflex movements are seen most 
+clearly in comatose patients, in whom turning the head 
+will elicit counter-rotational movements of the eyes 
+(so-called doll’s eye movements). Damage to these 
+pathways in the pons impairs these movements.
+The corneal reflex involves closure of both eyelids as 
+well as upward turning of the eyes (Bell phenomenon) 
+when the cornea is gently stimulated (eg, with a wisp 
+of cotton). The sensory axons from the first division of 
+the trigeminal nerve terminate in the spinal trigeminal 
+nucleus, which relays the sensory signals to pattern 
+generator neurons in the reticular formation adjacent 
+to the facial motor nucleus. The pattern generator neu-
+rons provide bilateral inputs to the motor neurons that 
+protect the cornea from damage by causing the orbicu-
+laris oculi muscle to close the eyelid and the oculomo-
+tor nuclei to roll the eyes upward and back in the orbit. 
+Because the output of the pattern generator is bilateral, 
+damage along the sensory pathway prevents the reflex 
+in both eyes, whereas damage to the facial nerve pre-
+vents closure on the same side only.
+The stapedial reflex contracts the stapedius muscle 
+in response to a loud sound, thus damping movement 
+of the ossicles. The sensory pathway is through the 
+cochlear nerve and nucleus to the reticular formation 
+adjacent to the facial motor nucleus and from there to 
+the stapedial motor neurons, which run in the facial 
+nerve. As described earlier, in patients with injury to 
+the facial nerve (eg, Bell palsy), the stapedial reflex is 
+impaired, and the patient complains that sounds in 
+that ear have a “booming” quality (hyperacusis).
+A variety of gastrointestinal reflexes are con-
+trolled by multisynaptic brain stem relays. For exam-
+ple, the tasting of food causes neurons in the solitary 
+nucleus that project to the reticular formation adja-
+cent to the motor facial and dorsal motor vagal nuclei 
+to stimulate the preganglionic salivary neurons. The 
+contact of food in the mouth can also elicit gastric 
+contractions and acid secretion, presumably through 
+inputs from the solitary nucleus directly to parasym-
+pathetic preganglionic gastric neurons in the dorsal 
+motor vagal nucleus. In patients who have had Bell 
+palsy, the damaged VII nerve parasympathetic axons 
+may regrow aberrantly so that salivary axons reach 
+the lacrimal gland in error, causing tasty food to initi-
+ate reflex tearing (crocodile tears).
+The gag reflex protects the airway in response to 
+stimulation of the posterior oropharynx. The affer-
+ent sensory fibers in the glossopharyngeal and vagus 
+nerves terminate in the spinal trigeminal nucleus, 
+whose axons project to the reticular formation adja-
+cent to the nucleus ambiguus. Branchial motor neu-
+rons in the nucleus ambiguus innervate the posterior 
+pharyngeal muscles, resulting in elevation of the 
+
+
+===== Page 7 =====
+994    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+palate, constriction of pharyngeal muscles (to expel the 
+offending stimulus), and closure of the airway. Loss of 
+the gag reflex on one side of the throat indicates injury 
+to the medulla or to cranial nerve X on that side (cra-
+nial nerve IX has such a small territory of sensory and 
+motor innervations in the pharynx that transection of 
+this nerve does not cause a noticeable deficit).
+Pattern Generators Coordinate More Complex 
+Stereotypic Behaviors
+As Darwin proposed, pools of pattern generator neu-
+rons in the reticular formation adjacent to the facial 
+nucleus control facial emotional expression through 
+stereotypic patterns of contraction of facial muscles 
+simultaneously on the two sides of the face. Pattern 
+generator neurons on each side of the brain stem pro-
+ject to the facial motor neurons on both sides of the 
+brain, so that spontaneous facial expressions are virtu-
+ally always symmetric. Even patients who have had 
+major strokes in the cerebral hemispheres and cannot 
+voluntarily move the contralateral orofacial muscles 
+still tend to smile symmetrically when they hear a joke 
+and can raise their eyebrows symmetrically, both of 
+which are initiated by facial pattern generators.
+Similarly, orofacial movements involved in eat-
+ing are produced by pattern generator neurons in the 
+reticular formation near the cranial motor nuclei that 
+mediate the behaviors. Licking movements are organ-
+ized in the reticular formation near the hypoglos-
+sal nucleus, chewing movements near the trigeminal 
+motor nucleus, sucking movements near the facial and 
+ambiguus nuclei, and swallowing near the nucleus 
+ambiguus. Not surprisingly, neurons in these reticu-
+lar areas are closely interconnected with each other 
+and receive inputs from the part of the nucleus of 
+the solitary tract concerned with taste and from the 
+part of the spinal trigeminal nucleus concerned with 
+tongue and oral sensation, as well as from neurons in 
+the adjacent reticular formation that respond to more 
+complex combinations of taste, texture, and tempera-
+ture of food. As a result, even a decerebrate rat is able 
+to make appropriate choices of which foods to swal-
+low and which to reject.
+Vomiting is another example of a coordinated 
+response mediated by pattern generator neurons. 
+Toxic substances in the blood stream can be detected 
+by nerve cells in the area postrema, a small region 
+adjacent to the nucleus of the solitary tract along the 
+floor of the fourth ventricle. Unlike most of the brain, 
+which is protected by a blood–brain barrier, the area 
+postrema contains fenestrated capillaries that allow its 
+neurons to sample the contents of the blood stream. 
+These neurons, when they detect a toxin, activate a 
+pool of neurons in the ventrolateral medulla that con-
+trol a pattern of responses that clears the digestive tract 
+of any poisonous substances. These responses include 
+reversal of peristalsis in the stomach and esophagus, 
+increased abdominal muscle contraction, and activa-
+tion of the same motor patterns used in the gag reflex 
+to clear the oropharynx of unwanted material.
+A variety of responses organized by the brain stem 
+require coordination of cranial motor patterns with 
+autonomic and sometimes endocrine responses. A 
+good example is the baroreceptor reflex, which ensures 
+an adequate blood flow to the brain (Chapter 41). 
+The nucleus of the solitary tract receives information 
+about stretch of the aortic arch through the vagus (X) 
+nerve and stretch of the carotid sinus through the glos-
+sopharyngeal (IX) nerve. This information is relayed 
+to neurons in the ventrolateral medulla that produce a 
+coordinated response that protects the brain against a 
+fall in blood pressure.
+Reduced stretch of the aortic arch and carotid 
+sinus reduces drive to the parasympathetic pregangli-
+onic cardiac-vagal neurons in the nucleus ambiguus, 
+resulting in reduced vagal tone and increased heart 
+rate. Simultaneously, increased firing of neurons in 
+the rostral ventrolateral medulla drives sympathetic 
+preganglionic vasoconstrictor and cardioaccelerator 
+neurons. This combination of increased cardiac output 
+and increased vascular resistance elevates blood pres-
+sure. Meanwhile, other neurons in the ventrolateral 
+medulla increase the firing of hypothalamic neurons 
+that secrete vasopressin from their terminals in the 
+posterior pituitary gland. Vasopressin also has a direct 
+vasoconstrictor effect, and it maintains blood volume 
+by reducing water excretion through the kidney.
+Control of Breathing Provides an Example of 
+How Pattern Generators Are Integrated Into More 
+Complex Behaviors
+One of the most important functions of the brain stem 
+is control of breathing. The brain stem automatically 
+generates breathing movements beginning in utero at 
+11 to 13 weeks of gestation in humans, and continues 
+nonstop from birth until death. This behavior does not 
+require any conscious effort, and in fact, it is rare for us 
+to even think about the need to breathe. The primary 
+purpose of breathing is to ventilate the lungs to con-
+trol blood levels of oxygen, carbon dioxide, and hydro-
+gen ions (pH). (These are often measured together 
+clinically and referred to as “blood gases.”) Breathing 
+movements involve contraction of the diaphragm, acti-
+vated by the phrenic nerve. The diaphragm is assisted 
+
+
+===== Page 8 =====
+Chapter 40 / The Brain Stem    995
+Figure 40–8  Rhythmic breathing is generated within the 
+medulla.
+A. Rhythmic activity in the phrenic motor nerve of a guinea pig 
+causes contraction of the diaphragm. The firing of the phrenic 
+nerve is phase-locked to bursts of firing by neurons in the medulla. 
+The activity in a single medullary neuron, recorded intracellularly, is 
+shown. (Reproduced, with permission, from Richerson and  
+Getting 1987. Copyright © 1987. Published by Elsevier B.V.)
+B. Similar rhythmic firing can be recorded in vitro from 
+accessory respiratory nerves, such as the hypoglossal (XII) 
+nerve. The minimal tissue necessary to support this rhythm 
+is a slice about 0.5 mm thick at the level of the rostral 
+medulla. Neurons in the pre-Bötzinger complex (Pre-BötC) 
+near the nucleus ambiguus fire bursts that are phase-locked 
+to the motor rhythm. (Reproduced, with permission, from 
+Smith et al. 1991. Copyright © 1991 AAAS.)
+when necessary by accessory muscles of respiration, 
+including the intercostal muscles, pharyngeal mus-
+cles (to change airway diameter), some neck muscles 
+(which help expand the chest), the tongue protruder 
+muscles (to open the airway), and even some facial 
+muscles (which flare the nares).
+Respiratory activity can be generated by the medulla 
+even when it is isolated from the rest of the nervous 
+system. Many medullary neurons have patterns of fir-
+ing that correlate with inspiration or expiration (Figure 
+40–8A). Some have more refined patterns, such as firing 
+only during early inspiration or late inspiration. These 
+respiratory neurons are concentrated in two regions, the 
+dorsal and ventral respiratory groups.
+The dorsal respiratory group is located bilaterally in 
+and around the ventrolateral part of the nucleus of the 
+solitary tract. Neurons in this group receive respiratory 
+sensory input, including afferents from stretch recep-
+tors in the lungs and peripheral chemoreceptors, and 
+participate in such reflex actions as limitation of lung 
+inflation at high volume (the Hering-Breuer reflex) and 
+the ventilatory response to low oxygen (hypoxia). The 
+ventral respiratory group, a column of neurons in and 
+around the nucleus ambiguus, coordinates respira-
+tory motor output. Some of these neurons are motor 
+neurons with axons that leave the brain through the 
+vagus nerve and innervate accessory muscles of respi-
+ration or premotor neurons that innervate the phrenic 
+Medulla
+Phrenic 
+nerve
+C3-C5
+A  In vivo recording
+B  In vitro recording
+Hypoglossal
+nucleus (N. XII)
+Nucleus
+ambiguus
+N. XII
+N. XII
+Phrenic nerve
+Medullary neuron
+Pre-BötC
+0.4 s
+20 mV
+–60 mV
+5 s
+20 mV
+motor nucleus, whereas others form a pattern genera-
+tor, the pre-Bötzinger complex, that generates respiratory 
+rhythm.
+The intrinsic rhythmicity of the pre-Bötzinger com-
+plex is so resilient that, even in a transverse brain slice 
+from the rostral medulla, neurons in the pre-Bötzinger 
+complex are able independently to generate a respira-
+tory rhythm that can be recorded in the rootlets of the 
+hypoglossal (XII) nerve that emerge from the ventral 
+surface of the slices (Figure 40–8B). Acute destruction 
+of this cell group in an intact animal results in inability 
+to maintain a normal respiratory rhythm.
+The most important inputs to the respiratory pat-
+tern generator come from chemoreceptors that sense 
+oxygen and carbon dioxide. Under normal conditions, 
+ventilation is primarily regulated by the levels of CO2 
+rather than O2 (Figure 40–9A). However, breathing is 
+also strongly stimulated if O2 becomes sufficiently low, 
+such as at high altitude or in people with lung disease. 
+The peripheral chemoreceptors in the carotid and aor-
+tic bodies normally respond primarily to a decrease in 
+blood oxygen, but during hypoxia, they also become 
+more sensitive to elevated levels of CO2 (hypercapnia). 
+Afferent fibers from the carotid sinus nerve travel in 
+the glossopharyngeal nerve and activate neurons in 
+the dorsal respiratory group.
+The response to hypercapnia is largely driven by 
+central chemoreceptors in the brain stem that sense the 
+
+
+===== Page 9 =====
+996    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Figure 40–9  Respiratory motor output is regu-
+lated by carbon dioxide in the blood.
+A. Lung ventilation (determined by the rate and 
+depth of breathing) in humans is steeply depend-
+ent on the partial pressure of carbon dioxide 
+(PCO2) at normal levels of the partial pressure of 
+oxygen (PO2) (>100 mm Hg). When PO2 drops to 
+very low values (<50 mm Hg), breathing is stimu-
+lated directly and also becomes more sensitive 
+to an increase in PCO2 (seen here as an increase 
+in the slope of the curves for alveolar PO2 of 37 
+and 47 mm Hg). (Reproduced, with permission, 
+from Nielsen and Smith 1952.)
+B. Central chemoreceptors in the medulla control 
+ventilatory motor output to maintain normal blood 
+CO2. The firing rate of serotonergic neurons within 
+the raphe nuclei of the medulla increases when 
+elevated PCO2 causes a pH decrease. The records 
+shown here are from in vitro recordings of a neu-
+ron in the raphe nuclei of a rat at two different 
+levels of pH (7.4, control, and 7.2, acidosis). (Repro-
+duced, with permission, from Wang et al. 2002.)
+C. Serotonergic neurons are closely associated 
+with large arteries in the ventral medulla where 
+they can monitor local changes in PCO2. Two 
+images of the same transverse section of the rat 
+medulla show blood vessels after injection of a 
+red fluorescent dye into the arterial system (left) 
+and green antibody staining for tryptophan hydrox-
+ylase, the enzyme that synthesizes serotonin 
+(right). The basilar artery (B) is on the ventral sur-
+face of the medulla between the pyramidal tracts 
+(P). (Reproduced, with permission, from Bradley 
+et al. 2002. Copyright © 2002 Springer Nature.)
+B
+20
+30
+40
+50
+0
+10
+20
+30
+40
+50
+50
+0
+–50
+50
+0
+–50
+Lung ventilation (liters/min)
+Alveolar PCO2 (mm Hg)
+Alveolar PO2
+(mm Hg)
+37
+47
+110
+or 169
+A
+C
+Control
+Acidosis
+Vm (mV)
+Vm (mV)
+Blood vessels
+Serotonin neurons
+Dorsal
+B
+P
+P
+5 s
+accompanying decrease in pH. The most sensitive area 
+for this is along the ventral surface of the medulla lat-
+eral to the pyramidal tract. This region contains at least 
+two sets of neurons that respond to elevated CO2. Glu-
+tamatergic neurons in the retrotrapezoid nucleus in 
+the rostral ventrolateral medulla, near the facial motor 
+nucleus, are highly sensitive to CO2 levels. Absence of 
+these neurons, due to a mutation in the phox2b tran-
+scription factor required for their development, causes 
+congenital central hypoventilation syndrome, in which 
+there is failure to breathe adequately, particularly dur-
+ing sleep. In addition, serotonergic neurons in the ros-
+tral ventrolateral medulla, like retrotrapezoid neurons, 
+lie along penetrating arteries and are sensitive to acido-
+sis (Figure 40–9B,C). Genetic deletion of these neurons 
+reduces the ventilatory response to hypercapnia, espe-
+cially during sleep. Recent studies demonstrate that a 
+serotonin 5-HT2A agonist can restore arousal responses 
+to CO2, suggesting that the serotonergic neurons play 
+a modulatory role, increasing the sensitivity of the 
+CO2 reflexes during hypercapnia, and that this may be 
+especially important during sleep.
+The motor pattern generated by the respiratory 
+system is remarkably stable in healthy people, but 
+a variety of diseases can alter these patterns. One of 
+the most common and easily recognized patterns is 
+Cheyne-Stokes respiration, which is characterized by 
+repeated cycles of gradually increasing then decreas-
+ing ventilation, alternating with cessation of breathing 
+(apnea). This periodic breathing is seen, for exam-
+ple, in congenital central hypoventilation syndrome, 
+where the central neurons are not sufficiently sensi-
+tive to rising CO2, particularly during sleep. By the time 
+they begin to respond, CO2 levels may already be quite 
+high. This causes hyperventilation, which reduces CO2 
+levels below the threshold where breathing is required. 
+The result is a period of apnea, until the CO2 levels 
+again become quite high (Figure 40–10).
+A similar pattern is seen in people who have car-
+diac or pulmonary disease that increases the time it 
+takes for the change in alveolar CO2 to register with 
+the medulla. Cheyne-Stokes respiration often occurs 
+in hospitalized patients with marginal cardiac or res-
+piratory reserve when they fall asleep, thus reducing 
+
+

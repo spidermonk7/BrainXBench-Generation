@@ -1,0 +1,803 @@
+===== Page 1 =====
+68    Part I / Overall Perspective
+the intensity of sensation or speed of movement is the 
+frequency of the action potentials. Likewise, the dura-
+tion of a sensation or movement is determined by the 
+period over which action potentials are generated.
+In addition to the frequency of the action potentials, 
+the pattern of action potentials also conveys important 
+information. For example, some neurons are spon-
+taneously active in the absence of stimulation. Some 
+spontaneously active nerve cells (beating neurons) fire 
+action potentials regularly; others (bursting neurons) 
+fire in brief bursts of action potentials. These diverse 
+cells respond differently to the same excitatory synaptic 
+input. An excitatory synaptic potential may initiate one 
+or more action potentials in a cell that is not spontane-
+ously active, whereas that same input to spontaneously 
+active cells will simply increase the existing rate of firing.
+An even more dramatic difference is seen when 
+the input signal is inhibitory. Inhibitory inputs have 
+little information value in a silent cell. By contrast, in 
+spontaneously active cells, inhibition can have a pow-
+erful sculpting role. By establishing periods of silence 
+in otherwise ongoing activity, inhibition can produce a 
+complex pattern of alternating firing and silence where 
+none existed. Such subtle differences in firing patterns 
+may have important functional consequences for the 
+information transfer between neurons. Mathemati-
+cal modelers of neuronal networks have attempted 
+to delineate neural codes in which information is also 
+carried by the fine-grained pattern of firing—the exact 
+timing of each action potential.
+If signals are stereotyped and reflect only the most 
+elementary properties of the stimulus, how can they 
+carry the rich variety of information needed for complex 
+behavior? How is a message that carries visual informa-
+tion about a bee distinguished from one that carries pain 
+information about the bee’s sting, and how are these 
+sensory signals distinguished from motor signals for 
+voluntary movement? The answer is simple and yet is 
+one of the most important organizational principles of 
+the nervous system: Interconnected neurons form ana-
+tomically and functionally distinct pathways—labeled 
+lines—and it is these pathways of connected neurons, 
+these labeled lines, not individual neurons, that convey 
+information. The neural pathways activated by receptor 
+cells in the retina that respond to light are completely 
+distinct from the pathways activated by sensory cells in 
+the skin that respond to touch.
+The Output Component Releases Neurotransmitter
+When an action potential reaches a neuron’s terminal, 
+it stimulates the release of chemical substances from 
+the cell. These substances, called neurotransmitters, can be 
+small organic molecules, such as l-glutamate and ace-
+tylcholine, or peptides like substance P or LHRH (lute-
+inizing hormone–releasing hormone).
+Neurotransmitter molecules are held in subcellu-
+lar organelles called synaptic vesicles, which accumulate 
+in the terminals of the axon at specialized release sites 
+called active zones. To eject their transmitter substance 
+into the synaptic cleft, the vesicles move up to and fuse 
+with the neuron’s plasma membrane, then burst open 
+to release the transmitter into the synaptic cleft (the 
+extracellular space between the pre- and postsynaptic 
+cell) by a process known as exocytosis. The molecular 
+machinery of neurotransmitter release is described in 
+Chapters 14 and 15.
+The released neurotransmitter molecules are 
+the neuron’s output signal. The output signal is 
+thus graded according to the amount of transmit-
+ter released, which is determined by the number and 
+frequency of the action potentials that reach the pre-
+synaptic terminals (Figure 3–9C,D). After release, the 
+transmitter molecules diffuse across the synaptic cleft 
+and bind to receptors on the postsynaptic neuron. This 
+binding causes the postsynaptic cell to generate a syn-
+aptic potential. Whether the synaptic potential has an 
+excitatory or inhibitory effect depends on the type of 
+receptor in the postsynaptic cell, not on the particular 
+chemical neurotransmitter. The same transmitter sub-
+stance can have different effects at different receptors.
+The Transformation of the Neural Signal From 
+Sensory to Motor Is Illustrated by the  
+Stretch-Reflex Pathway
+As we have seen, the properties of a signal are trans-
+formed as the signal moves from one component of a 
+neuron to another or between neurons. In the stretch 
+reflex, when a muscle is stretched, the amplitude and 
+duration of the stimulus are reflected in the amplitude 
+and duration of the receptor potential generated in the 
+sensory neuron (Figure 3–10A). If the receptor poten-
+tial exceeds the threshold for an action potential in 
+that cell, the graded signal is transformed at the trig-
+ger zone into an action potential. Although individual 
+action potentials are all-or-none signals, the more the 
+receptor potential exceeds threshold, the greater the 
+depolarization and consequently the greater the fre-
+quency of action potentials in the axon. The duration 
+of the input signal also determines the duration of the 
+train of action potentials.
+The information encoded by the frequency and 
+duration of firing is faithfully conveyed along the 
+axon to its terminals, where the firing of action poten-
+tials determines the amount of transmitter released. 
+
+
+===== Page 2 =====
+Chapter 3 / Nerve Cells, Neural Circuitry, and Behavior    69
+Figure 3–10  The sequence of signals that produces a reflex 
+action.
+A.  The stretching of a muscle produces a receptor potential in 
+the specialized receptor (the muscle spindle). The amplitude 
+of the receptor potential is proportional to the intensity of the 
+stretch. This potential spreads passively to the integrative or 
+trigger zone at the first node of Ranvier. If the receptor poten-
+tial is sufficiently large, it triggers an action potential that then 
+propagates actively and without change along the axon to the 
+axon terminal. At specialized sites in the terminal, the action 
+potential leads to the release of a chemical neurotransmitter, 
+the output signal. The transmitter diffuses across the synaptic 
+cleft between the axon terminal and a target motor neuron that 
+innervates the stretched muscle; it then binds to receptor mol-
+ecules on the external membrane of the motor neuron.
+B.  This interaction initiates a synaptic potential that spreads 
+passively to the trigger zone of the motor neuron’s axon, where 
+it initiates an action potential that propagates actively to the  
+terminal of the motor neuron’s axon. At the axon terminal,  
+the action potential leads to release of a neurotransmitter near 
+the muscle fiber.
+C.  The neurotransmitter binds receptors on the muscle fiber, 
+generating a synaptic potential. The synaptic potential triggers 
+an action potential in the muscle, which causes a contraction.
+Muscle spindle
+Stretch
+Sensory neuron
+Motor neuron
+Graded
+receptor
+potential
+Action
+potential
+Receptor
+potential
+Graded
+synaptic
+potential
+Graded
+synaptic
+potential
+Synaptic
+potential
+Synaptic
+potential
+Action
+potential
+Action
+potential
+Action
+potential
+Action
+potential
+Action
+potential
+Action
+potential
+Action
+potential
+Input
+Stimulus
+Integration
+Conduction Output
+(transmitter
+release)
+Input
+Integration
+Conduction
+Output
+(transmitter
+release)
+Input
+Integration
+Conduction Output
+(behavior)
+Muscle
+A  Sensory signals
+C  Muscle signals
+B  Motor signals
+Contraction
+C
+A
+B
+These stages of signaling have their counterparts in 
+the motor neuron (Figure 3–10B) and in the muscle  
+(Figure 3–10C).
+Nerve Cells Differ Most at the Molecular Level
+The model of neuronal signaling we have outlined is a 
+simplification that applies to most neurons, but there 
+are some important variations. For example, some 
+neurons do not generate action potentials. These are 
+typically local interneurons without a conductive com-
+ponent; they have no axon or such a short one that 
+regeneration of the signal is not required. In these neu-
+rons, the input signals are summed and spread pas-
+sively to the presynaptic terminal region near where 
+transmitter is released. Neurons that are spontane-
+ously active do not require sensory or synaptic inputs 
+to fire action potentials because they have a special 
+class of ion channels that permit Na+ current flow even 
+in the absence of excitatory synaptic input.
+Even cells that are similar morphologically can 
+differ importantly in molecular details. For example, 
+they can have different combinations of ion channels. 
+As we shall learn in Chapter 10, different ion channels 
+provide neurons with various thresholds, excitabil-
+ity properties, and firing patterns. Such neurons can 
+encode synaptic potentials into different firing pat-
+terns and thereby convey different information.
+Neurons also differ in the chemical substances they 
+use as transmitters and in the receptors that receive 
+transmitter substances from other neurons. Indeed, 
+many drugs that act on the brain do so by modifying 
+the actions of specific chemical transmitters or recep-
+tors. Because of physiological differences among neu-
+rons, a disease may affect one class of neurons but 
+
+
+===== Page 3 =====
+70    Part I / Overall Perspective
+not others. Certain diseases strike only motor neu-
+rons (amyotrophic lateral sclerosis and poliomyeli-
+tis), whereas others affect primarily sensory neurons 
+(leprosy and tabes dorsalis, a late stage of syphilis). 
+Parkinson disease, a disorder of voluntary movement, 
+damages a small population of neurons that use dopa-
+mine as a neurotransmitter. Some diseases are selective 
+even within the neuron, affecting only the receptive 
+elements, the cell body, or the axon. In Chapter 57, 
+we describe how research into myasthenia gravis, a 
+disease caused by a faulty transmitter receptor in the 
+muscle membrane, has provided important insights 
+into synaptic transmission. Indeed, because the nerv-
+ous system has so many cell types and variations at the 
+molecular level, it is susceptible to more diseases (psy-
+chiatric as well as neurological) than any other organ 
+system of the body.
+Despite the morphological differences among nerve 
+cells, the molecular mechanisms of electrical signaling 
+are surprisingly similar. This simplicity is fortunate, for 
+understanding the molecular mechanisms of signaling 
+in one kind of nerve cell aids the understanding of these 
+mechanisms in many other nerve cells.
+The Reflex Circuit Is a Starting Point for 
+Understanding the Neural Architecture of 
+Behavior
+The stretch reflex illustrates how interactions between 
+just a few types of nerve cells can constitute a func-
+tional circuit that produces a simple behavior, even 
+though the number of neurons involved is large (the 
+stretch reflex circuit has perhaps a few hundred sen-
+sory neurons and a hundred motor neurons). Some 
+invertebrate animals are capable of behavior as sophis-
+ticated as reflexes using far fewer neurons. Moreover, 
+in some instances, just one critical command neuron 
+can trigger a complex behavior such as the withdrawal 
+of a body part from a noxious stimulus.
+For more complex behaviors, especially in higher 
+vertebrates, many neurons are required, but the basic 
+neural structure of the simple reflex is often preserved. 
+First, there is often an identifiable group of neurons 
+whose firing rate changes in response to a particu-
+lar type of environmental stimulus, such as a tone of 
+a certain frequency, or the juxtaposition of light and 
+dark at a particular angle. Just as the firing rate of the 
+stretch receptor neurons encodes the degree of muscle 
+tension, the firing rates of cortical neurons in sensory 
+areas of the cortex encode the intensity of a sensory 
+feature (eg, the degree of contrast of the contour). As 
+we shall see in later chapters, it is possible to change 
+the features of a percept just by changing the firing rate 
+of small groups of neurons.
+Second, there is often an identifiable group of 
+neurons whose firing rate changes before an animal 
+performs a motor act. Just as the spike rate of motor 
+neurons controls the magnitude of the contraction of 
+the quadriceps muscle—hence the knee jerk—so does 
+the firing rate of neurons in the motor cortex affect the 
+latency and type of movement that will be performed. 
+Exactly what aspect of the movement is encoded by 
+such neurons remains an area of active inquiry, but it is 
+well established that groups of neurons affect the ensu-
+ing action in a graded fashion by adjusting their firing 
+rate. In other association areas of the cerebral cortex, 
+the graded firing rates of neurons encode quantities 
+that are essential for thought processes, such as the 
+amount of evidence bearing on a choice (Chapter 56).
+Although sophisticated mental operations are 
+far more complicated than a simple stretch reflex, it 
+may nevertheless prove useful to consider the extent 
+to which cognitive functions are supported by neural 
+mechanisms that are organized in any way that resem-
+bles a simple reflex. What types of elaborations might 
+be required to mediate a sophisticated behavior and 
+thought? Unlike a simple reflex, with a sophisticated 
+behavior, activation of sensory neurons would not give 
+rise to an immediate reflexive action. There is more 
+contingency to the process. Although simple reflexes 
+are modulated by context, mental functions are more 
+deeply shaped by a complex repertoire of contingen-
+cies, allowing for many possible effects of any one 
+stimulus and many possible precipitants of any one 
+action. In light of these contingencies, we are forced 
+to conceive of a flexible routing between the brain’s 
+data acquisition systems—not just the sensory systems 
+but also the memory systems—and effector systems. 
+As we shall see in later chapters, this is the role of the 
+higher association areas of the cerebral cortex, acting in 
+concert with several subcortical brain structures.
+Perhaps a more salient difference between a com-
+plex mental function and a reflex is the timing of 
+action. Once activated, a reflex circuit leads to action 
+almost immediately after the sensory stimulus. Any 
+delay depends mainly on the conduction velocity of 
+the action potentials in the afferent and efferent limbs 
+of the reflex (eg, the ankle jerk is slower than the knee 
+jerk because the spinal cord is further from the stretch 
+receptors of the calf muscles than it is from the thigh 
+extensors). For more complex behaviors, action need 
+not occur more or less instantaneously with the arrival 
+of sensory information. It might be delayed to await 
+additional information or be expressed only when spe-
+cific circumstances occur.
+
+
+===== Page 4 =====
+Chapter 3 / Nerve Cells, Neural Circuitry, and Behavior    71
+Interestingly, the neurons in the association areas 
+of the cortex of primates have the capacity to sustain 
+graded firing rates for durations of many seconds. 
+These neurons are abundant in the parts of the brain 
+that mediate the flexible linkage between sensory and 
+motor areas. They afford a freedom from the instanta-
+neous nature of reflexive behavior and therefore may 
+furnish the essential circuit properties that distinguish 
+cognitive functions from more straightforward senso-
+rimotor transformations like a reflex.
+Neural Circuits Can Be Modified by Experience
+Learning can result in behavioral changes that endure 
+for years, even a lifetime. But even simple reflexes can 
+be modified, albeit for a much briefer period of time. 
+The fact that much behavior can be modified by learn-
+ing raises an interesting question: How is it that behav-
+ior can be modified if the nervous system is wired so 
+precisely? How can changes in the neural control of 
+behavior occur when connections between the signaling 
+units, the neurons, are set during early development?
+Several solutions for this dilemma have been pro-
+posed. The proposal that has proven most farsighted is 
+the plasticity hypothesis, first put forward at the turn of 
+the 20th century by Ramón y Cajal. A modern form of 
+this hypothesis was advanced by the Polish psycholo-
+gist Jerzy Konorski in 1948.
+The application of a stimulus leads to changes of a twofold 
+kind in the nervous system … [T]he first property, by vir-
+tue of which the nerve cells react to the incoming impulse … 
+we call excitability, and … changes arising … because of this 
+property we shall call changes due to excitability. The second 
+property, by virtue of which certain permanent functional 
+transformations arise in particular systems of neurons as a 
+result of appropriate stimuli or their combination, we shall 
+call plasticity and the corresponding changes plastic changes.
+There is now considerable evidence for functional 
+plasticity at chemical synapses. These synapses often 
+have a remarkable capacity for short-term physiologi-
+cal changes (lasting seconds to hours) that increase 
+or decrease synaptic effectiveness. Long-term physi-
+ological changes (lasting days or longer) can give rise 
+to anatomical alterations, including pruning of syn-
+apses and even growth of new ones. As we shall see in 
+later chapters, chemical synapses are functionally and 
+anatomically modified during critical periods of early 
+development but also throughout life. This functional 
+plasticity of neurons endows each of us with a char-
+acteristic manner of interacting with the surrounding 
+world, both natural and social.
+Highlights
+1.	 Nerve cells are the signaling units of the nervous 
+system. The signals are mainly electrical within 
+the cell and chemical between cells. Despite vari-
+ations in size and shape, nerve cells share certain 
+common features. Each has specialized receptors 
+or transducers that receive input from other nerve 
+cells or from the senses respectively; a mechanism 
+to convert input to electrical signals; a threshold 
+mechanism to generate an all-or-none electrical 
+impulse, the action potential, which can be regen-
+erated along the axon that connects the nerve cell 
+to its synaptic target (another nerve cell, a muscle, 
+or gland); and the ability to produce the release 
+of a chemical (neurotransmitter) that affects the 
+target.
+2.	 Glial cells support nerve cells. One type provides 
+the insulation that speeds propagation of the 
+action potential along the axon. Others help estab-
+lish the chemical milieu for the nerve cells to oper-
+ate, and still others couple nerve activity to the 
+vascular supply of the nervous system.
+3.	 Nerve cells differ in their morphology, the connec-
+tions they make, and where they make them. This 
+is clearest in specialized structures like the retina. 
+Perhaps the largest difference between neurons 
+is at the molecular level. Examples of molecular 
+diversity include expression of different receptors, 
+enzymes for synthesis of different neurotransmit-
+ters, and different expressions of ion channels. 
+Differences in gene expression furnish the start-
+ing point for understanding why certain diseases 
+affect some neurons and not others.
+4.	 Each nerve cell is part of a circuit that has one or 
+more behavioral functions. The stretch reflex cir-
+cuit is an example of a simple circuit that produces 
+a behavior in response to a stimulus. Its simplicity 
+belies integrative functions, such as relaxation of 
+muscles that oppose the stretched muscle.
+5.	 Modern neural science aspires to explain mental 
+processes far more complex than reflexes. A natu-
+ral starting point is to understand the ways that 
+circuits must be elaborated to support sensory-
+motor transformations, which unlike a reflex, 
+are contingent, flexible and not beholden to the 
+immediacy of sensory processing and movement 
+control.
+6.	 Neural connections can be modified by experi-
+ence. In simple circuits, this process is a simple 
+change in the strength of connections between 
+neurons. A working hypothesis in modern neu-
+roscience is that the “plastic” mechanisms at play 
+
+
+===== Page 5 =====
+72    Part I / Overall Perspective
+in simple circuits also play a critical role in the 
+learning of more complex behavior and cognitive 
+function.
+Michael N. Shadlen 
+Eric R. Kandel
+Selected Reading
+Adrian ED. 1928. The Basis of Sensation: The Action of the Sense 
+Organs. London: Christophers.
+Jack JJB, Noble D, Tsien RW. 1983. Electric Current Flow in 
+Excitable Cells. Oxford: Clarendon Press.
+Jones EG. 1988. The nervous tissue. In: L Weiss (ed). Cell and 
+Tissue Biology: A Textbook of Histology, 6th ed., pp. 277–351. 
+Baltimore: Urban and Schwarzenberg.
+Poeppel D, Mangun GR, Gazzaniga MS. 2020. The Cogni-
+tive Neurosciences. Cambridge, MA: The MIT Press.
+Ramón y Cajal S. [1937] 1989. Recollections of My Life. EH 
+Craigie (transl). Philadelphia: American Philosophical 
+Society; 1989. Reprint. Cambridge, MA: MIT Press.
+References
+Adrian ED. 1932. The Mechanism of Nervous Action: Electrical 
+Studies of the Neurone. Philadelphia: Univ. Pennsylvania 
+Press.
+Alberts B, Johnson A, Lewis J, Raff M, Roberts K, Walter 
+JD. 2002. Molecular Biology of the Cell, 4th ed. New York: 
+Garland.
+Dacey DM, Peterson BB, Robinson FR, Gamlin PD. 2003. 
+Fireworks in the primate retina: in vitro photodynamics 
+reveals diverse LGN-projecting ganglion cell types. 
+Neuron 37:15–27.
+Erlanger J, Gasser HS. 1937. Electrical Signs of Nervous Activ-
+ity. Philadelphia: Univ. Pennsylvania Press.
+Hodgkin AL, Huxley AF. 1939. Action potentials recorded 
+from inside a nerve fiber. Nature 144:710–711.
+Kandel ER. 1976. The study of behavior: the interface 
+between psychology and biology. In: Cellular Basis of 
+Behavior: An Introduction to Behavioral Neurobiology, pp. 3–27. 
+San Francisco: WH Freeman.
+Konorski J. 1948. Conditioned Reflexes and Neuron Organiza-
+tion. Cambridge: Cambridge Univ. Press.
+Martinez PFA. 1982. Neuroanatomy: Development and Structure 
+of the Central Nervous System. Philadelphia: Saunders.
+McCormick DA. 2004. Membrane potential and action 
+potential. In: JH Byrne, JL Roberts (eds). From Molecules to 
+Networks: An Introduction to Cellular Neuroscience, 2nd ed., 
+p. 130. San Diego: Elsevier.
+Newman EA. 1986. High potassium conductance in astro-
+cyte endfeet. Science 233:453–454.
+Nicholls JG, Wallace BG, Fuchs PA, Martin AR. 2001. From 
+Neuron to Brain, 4th ed. Sunderland, MA: Sinauer.
+Penfield W (ed). 1932. Cytology & Cellular Pathology of the 
+Nervous System, Vol. 2. New York: Hoeber.
+Ramón y Cajal S. 1933. Histology, 10th ed. Baltimore: Wood.
+Sears ES, Franklin GM. 1980. Diseases of the cranial nerves. 
+In: RN Rosenberg (ed). The Science and Practice of Clinical 
+Medicine. Vol. 5, Neurology, pp. 471–494. New York: Grune 
+& Stratton.
+Sherrington C. 1947. The Integrative Action of the Nervous System, 
+2nd ed. Cambridge: Cambridge Univ. Press.
+
+
+===== Page 6 =====
+4
+The Neuroanatomical Bases by Which Neural 
+Circuits Mediate Behavior
+T
+he human brain  carries out actions in ways 
+no current computer can begin to approach. 
+Merely to see—to look onto the world and rec-
+ognize a face or facial expression—entails amazing 
+computational achievements. Indeed, all our percep-
+tual abilities—seeing, hearing, smelling, tasting, and 
+touching—are analytical triumphs. Similarly, all of our 
+voluntary actions are triumphs of engineering. Sen-
+sation and movement, while wondrous in their own 
+right, pale in comparison to complex cognitive behav-
+iors such as forming memories or understanding social 
+conventions.
+The brain accomplishes these computational feats 
+because its nerve cells are wired together in very pre-
+cise functional circuits. The brain is hierarchically 
+organized such that information processed at one level 
+is passed to higher-level circuits for more complex and 
+refined processing. In essence, the brain is a network of 
+networks. Different brain areas work in an integrated 
+fashion to accomplish purposeful behavior.
+In this chapter, we outline the neuroanatomical 
+organization of some of the circuits that enable the 
+brain to process sensory input and produce motor out-
+put. We focus on touch as a sensory modality because 
+the somatosensory system is particularly well under-
+stood and because touch clearly illustrates the inter-
+action of sensory processing circuits at several levels, 
+from the spinal cord to the cerebral cortex. Our pur-
+pose here is to illustrate the basic principles of how cir-
+cuits control behavior. In the next chapter, we consider 
+the functional properties of these circuits, including 
+the computations by which they process information. 
+In subsequent chapters, we consider in more detail the 
+Local Circuits Carry Out Specific Neural Computations That 
+Are Coordinated to Mediate Complex Behaviors
+Sensory Information Circuits Are Illustrated in the 
+Somatosensory System
+Somatosensory Information From the Trunk and Limbs Is 
+Conveyed to the Spinal Cord
+The Primary Sensory Neurons of the Trunk and Limbs 
+Are Clustered in the Dorsal Root Ganglia
+The Terminals of Central Axons of Dorsal Root Ganglion 
+Neurons in the Spinal Cord Produce a Map of the Body 
+Surface
+Each Somatic Submodality Is Processed in a Distinct 
+Subsystem From the Periphery to the Brain
+The Thalamus Is an Essential Link Between Sensory 
+Receptors and the Cerebral Cortex
+Sensory Information Processing Culminates in the Cerebral 
+Cortex
+Voluntary Movement Is Mediated by Direct Connections 
+Between the Cortex and Spinal Cord
+Modulatory Systems in the Brain Influence Motivation, 
+Emotion, and Memory
+The Peripheral Nervous System Is Anatomically Distinct 
+From the Central Nervous System
+Memory is a Complex Behavior Mediated by Structures 
+Distinct From Those That Carry Out Sensation or Movement
+The Hippocampal System Is Interconnected With the 
+Highest-Level Polysensory Cortical Regions
+The Hippocampal Formation Comprises Several 
+Different but Highly Integrated Circuits
+The Hippocampal Formation Is Made Up Mainly of 
+Unilateral Connections
+Highlights
+
+
+===== Page 7 =====
+74    Part I / Overall Perspective
+anatomy and function of the various sensory modali-
+ties and how sensory input regulates movement.
+Finally, we provide a preview of the brain circuits 
+that are instrumental in producing the memories of 
+our daily lives, called explicit memory (see Chapters 
+52 and 54). We do this to make the point that while 
+many of the neurons in the memory circuits are similar 
+to those in the sensory and motor circuits, not all are. 
+Moreover, the organization of the pathways between 
+circuits is different in the memory system than it is in 
+the motor and sensory systems. This highlights a basic 
+neurobiological tenet that different circuits of the brain 
+have evolved an organization to most efficiently carry 
+out specific functions.
+Comprehending the functional organization of the 
+brain might at first seem daunting. But as we saw in 
+the previous chapter, the organization of the brain is 
+simplified by three anatomical considerations. First, 
+there are relatively few types of neurons. Each of the 
+many thousands of spinal motor neurons or millions 
+of neocortical pyramidal cells has a similar anatomi-
+cal structure and serves a similar function. Second, 
+neurons in the brain and spinal cord are clustered in 
+functional groups called nuclei or discrete areas of the 
+cerebral cortex, which form networks or functional 
+systems. Third, the discrete areas of the cerebral cortex 
+are specialized for sensory, motor, or associative func-
+tions such as memory.
+Local Circuits Carry Out Specific Neural 
+Computations That Are Coordinated to 
+Mediate Complex Behaviors
+Neurons are interconnected to form functional circuits. 
+Within the spinal cord, for example, simple reflex circuits 
+receive sensory information from stretch receptors and 
+send output to various muscle groups. For more complex 
+behavioral functions, different stages of information pro-
+cessing are carried out in networks in different regions 
+of the nervous system. Connections between neurons 
+within the nervous system can be of different lengths.
+Within a brain region, local connections, which 
+may be excitatory or inhibitory, integrate many of the 
+neurons into functional networks. Such local networks 
+may then provide outputs to one or more other brain 
+regions through longer projections. Many of these 
+longer pathways have names. For example, projections 
+from the lateral geniculate nucleus of the thalamus to 
+the visual cortex are called the optic radiations. Con-
+nections from the neocortex—the region of the cerebral 
+cortex nearest the surface of the brain—of one side of 
+the brain to the other side of the brain form the corpus 
+callosum. Information carried by these long pathways 
+integrates the output of many local circuits (Figure 4–1).
+Consider the simple act of hitting a tennis ball 
+(Figure 4–2). Visual information about the motion of 
+the approaching ball is analyzed in the visual sys-
+tem, which is itself a hierarchically organized system 
+extending from the retina to the lateral geniculate 
+nucleus of the thalamus to dozens of cortical areas 
+in the occipital and temporal lobes (Chapter 21). This 
+information is combined in the motor cortex with pro-
+prioceptive information about the position of the arms, 
+legs, and trunk to calculate the movement necessary 
+to intercept the ball. Once the swing is initiated, many 
+minor adjustments of the motor program are made by 
+other brain regions dedicated to movement, such as 
+the cerebellum, based on a steady stream of sensory 
+information about the trajectory of the approaching 
+ball and the position of the arm.
+Like most motor behaviors, hitting a tennis ball is 
+not hardwired into brain circuits but requires learn-
+ing and memory. The memory for motor tasks, termed 
+procedural or implicit memory, requires modifica-
+tions to circuits in motor cortex, the basal ganglia, and 
+the cerebellum. Finally, this entire act is accessible to 
+consciousness and may elicit conscious recall of past 
+similar experiences, termed explicit memory, and emo-
+tions. Explicit memory depends on circuits in the hip-
+pocampus (Chapters 52 and 54), whereas emotions 
+are regulated by the amygdala (Chapters 42 and 53) 
+and portions of the orbitofrontal, cingulate, and insu-
+lar cortices. Of course, as the swing is being executed, 
+the brain is also engaged in coordinating the player’s 
+heart rate, respiration, and other homeostatic functions 
+through equally complex networks.
+Sensory Information Circuits Are Illustrated in 
+the Somatosensory System
+Complex behaviors, such as differentiating the motor 
+acts required to grasp a ball versus a book, require the 
+integrated action of several nuclei and cortical regions. 
+Information is processed in the brain in a hierarchical 
+fashion. Thus, information about a stimulus is con-
+veyed through a succession of subcortical and then 
+cortical regions; at each level of processing, the infor-
+mation becomes increasingly more complex.
+In addition, different types of information, even 
+within a single sensory modality, are processed in sev-
+eral anatomically discrete pathways. In the somatosen-
+sory system, a light touch and a painful pin prick to 
+the same area of skin are mediated by different sensory 
+receptors in the skin that connect to distinct pathways 
+
+
+===== Page 8 =====
+Chapter 4 / The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior    75
+Figure 4–1  The dorsal column–medial lemniscal pathway is 
+the major afferent pathway for somatosensory information. 
+Somatosensory information enters the central nervous system 
+through the dorsal root ganglion cells. The flow of information 
+ultimately leads to the somatosensory cortex. Fibers that relay 
+information from different parts of the body maintain an orderly 
+relationship to each other and form a neural map of the body 
+surface in their pattern of termination at each synaptic relay.
+Cerebral cortex
+Ascending dorsal column–medial lemniscal pathway to primary sensory cortex
+Somatic sensory cortex
+(postcentral gyrus)
+Toe
+Lateral
+sulcus
+Internal
+capsule
+Thalamus
+Ventral posterior
+lateral nucleus
+Medial lemniscus
+Medial lemniscus
+Gracile nucleus
+Gracile fascicle
+Cuneate fascicle
+Dorsal root
+ganglion
+Medulla
+Spinal cord
+Cuneate nucleus
+Spinal trigeminal
+nucleus
+Sensory decussation
+Medulla
+Pons
+Midbrain
+Third ventricle
+Leg
+Trunk
+Forearm and
+hand area
+Face
+
+
+===== Page 9 =====
+76    Part I / Overall Perspective
+Figure 4–2  A simple behavior is mediated by many parts of 
+the brain.
+A.  A tennis player watching an approaching ball uses the visual 
+cortex to judge the size, direction, and velocity of the ball. The 
+premotor cortex develops a motor program to return the ball. 
+The amygdala acts in conjunction with other brain regions 
+to adjust the heart rate, respiration, and other homeostatic 
+mechanisms and also activates the hypothalamus to motivate 
+the player to hit well.
+B.  To execute the shot, the player must use all of the struc-
+tures illustrated in part A as well as others. The motor cortex 
+sends signals to the spinal cord that activate and inhibit many 
+muscles in the arms and legs. The basal ganglia become 
+involved in initiating motor patterns and perhaps recalling 
+learned movements to hit the ball properly. The cerebellum 
+adjusts movements based on proprioceptive information  
+from peripheral sensory receptors. The posterior parietal 
+cortex provides the player with a sense of where his body 
+is located in space and where his racket arm is located with 
+respect to his body. Brain stem neurons regulate heart rate, 
+respiration, and arousal throughout the movement. The  
+hippocampus is not involved in hitting the ball but is involved 
+in storing the memory of the return so that the player can 
+brag about it later.
+Premotor
+cortex
+A
+B
+Motor cortex
+Posterior
+parietal
+cortex
+Cerebellum
+Brain stem
+nuclei
+Spinal cord
+Hippocampus
+Basal
+ganglia
+Amygdala
+Visual
+cortices
+Hypothalamus
+in the brain. The system for fine touch, pressure, and 
+proprioception is called the epicritic system, whereas 
+the system for pain and temperature is called the pro-
+topathic system.
+Somatosensory Information From the Trunk and 
+Limbs Is Conveyed to the Spinal Cord
+All forms of somatosensory information from the 
+trunk and limbs enter the spinal cord, which has a core 
+H-shaped region of gray matter where neuronal cell 
+bodies are located. The gray matter is surrounded by 
+white matter formed by myelinated axons that make 
+up both short and long connections. The gray matter 
+on each side of the cord is divided into dorsal (or pos-
+terior) and ventral (or anterior) horns (Figure 4–3).
+The dorsal horn contains groups of secondary 
+sensory neurons (sensory nuclei) whose dendrites 
+receive stimulus information from primary sensory 
+neurons that innervate the body’s skin, muscles, 
+and joints. The ventral horn contains groups of 
+motor neurons (motor nuclei) whose axons exit the 
+spinal cord and innervate skeletal muscles. The spi-
+nal cord has circuits that mediate behaviors rang-
+ing from the stretch reflex to coordination of limb 
+movements.
+As we discussed in Chapter 3, when consider-
+ing the knee-jerk reflex, interneurons of various 
+types in the gray matter regulate the output of the 
+spinal cord motor neurons (see Figure 3–5). Some of 
+these interneurons are excitatory, whereas others are 
+inhibitory. These interneurons modulate both sensory 
+information flowing toward the brain and motor com-
+mands descending from the brain to the spinal motor 
+neurons. Motor neurons can also adjust the output 
+of other motor neurons via the interneurons. These 
+
+

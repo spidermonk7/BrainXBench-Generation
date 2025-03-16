@@ -1,0 +1,830 @@
+===== Page 1 =====
+108    Part I / Overall Perspective
+interesting aspects of the information carried by their 
+inputs. Theoretical analysis of a form of plasticity 
+known as Hebbian indicates one way that this could 
+happen in an unsupervised manner.
+In 1949, Donald Hebb proposed that synapses 
+should strengthen when a given presynaptic input 
+to a neuron cooperates with a sufficient number of 
+coactive inputs to cause that neuron to fire an action 
+potential. Evidence for Hebbian synaptic plasticity 
+has been obtained from many studies (Chapter 54). By 
+itself, Hebbian plasticity would keep making synapses 
+stronger and stronger, so some other form of plastic-
+ity must exist to prevent this from happening. Such 
+compensatory forms of plasticity are called homeo-
+static, and experiments have revealed these forms of 
+plasticity as well. Theoretical analysis indicates that 
+a combination of Hebbian and homeostatic plasticity 
+can adjust synapses, without any additional supervi-
+sory signal, so that they extract the combination of a 
+neuron’s inputs that is most highly modulated relative 
+to other combinations (Figure 5–7). This is a reasona-
+ble candidate for the most interesting signal carried by 
+those inputs, and thus, Hebbian plasticity provides a 
+way for neurons to determine and extract such signals.
+Synaptic Plasticity in the Cerebellum Plays  
+a Key Role in Motor Learning
+Although a detailed understanding of how the cere-
+bellum contributes to complex human motor skills is 
+lacking, a great deal is known about its role in simple 
+forms of motor learning. Among the most thoroughly 
+studied is a paradigm known as delay eyeblink condi-
+tioning, in which a neutral sensory stimulus such as a 
+light or a tone is repeatedly paired with an aversive 
+unconditioned stimulus (US) such as an air puff to the 
+eye. After several days of such training, animals learn 
+to close their eye in response to the previously neutral 
+stimulus (the light or tone), known as the conditioned 
+stimulus (CS), in anticipation of the US (the air puff). 
+The timing of the eyelid closure is highly specific to the 
+delay between the onset of the CS and the US.
+Eyelid conditioning has been an extremely use-
+ful paradigm for understanding cerebellar function 
+because it maps onto the structure of cerebellar circuitry 
+in a particularly clear way (Figure 5–8). Information 
+about the CS is first encoded by cerebellar granule cells 
+and then relayed to Purkinje cells. The US is encoded 
+by a completely separate input pathway, known as the 
+olivocerebellar or climbing fiber system. In contrast to 
+the many thousands of inputs from granule cells, each 
+Purkinje cell receives a single powerful climbing fiber 
+input from a brain stem nucleus known as the inferior 
+olive. Electrophysiological recordings revealed that 
+climbing fiber inputs to one particular region of the 
+cerebellum signal the occurrence of the US, that is, a 
+stimulus that is irritating to the cornea. This discov-
+ery was made possible by the fact that the climbing 
+fiber evokes a distinct suprathreshold response in the 
+Purkinje cell known as a complex spike.
+A key to understanding how the cerebellum 
+mediates learning was the discovery that the com-
+plex spike triggers plasticity at synapses between 
+granule cells and Purkinje cells. Specifically, the co-
+occurrence of input from a presynaptic granule cell 
+and a complex spike in the postsynaptic Purkinje 
+cell results in a persistent weakening of the granule 
+cell input, a form of plasticity known as cerebellar 
+Figure 5–7  Hebbian plasticity can identify relevant input 
+signals to a neuron. In this example, a neuron receives 100 
+inputs; firing rates for four of them are shown (left). Each of the 
+input rates is noisy but contains, within the noise, a sinusoidal 
+signal. The input rates are multiplied by synaptic strengths 
+(brown triangles) and then summed to produce the total input 
+to the neuron (right). Before Hebbian plasticity occurs, the syn-
+apses have random weights, resulting in the noisy trace; after 
+modification, the total input reveals the underlying sinusoidal 
+signal.
+After modiﬁcation
+Total input to neuron
+Individual inputs to neuron
+Before modiﬁcation
+
+
+===== Page 2 =====
+Chapter 5 / The Computational Bases of Neural Circuits That Mediate Behavior     109
+long-term depression (Figure 5–8). Hence, for each 
+occurrence of the US, the strength of granule–
+Purkinje cell synapses active immediately prior to 
+the US is reduced. This plasticity leads to the grad-
+ual emergence of a learned pause in Purkinje cell fir-
+ing due to the decrease in granule cell excitation just 
+before the expected time of arrival of the US.
+How does a decrease in Purkinje cell firing lead 
+to a learned motor response? Purkinje cells are nor-
+mally spontaneously active, and they inhibit their 
+downstream targets. Purkinje cells in regions of the 
+cerebellum receiving climbing fiber input related to 
+noxious stimuli to the eye form synapses with neurons 
+that indirectly activate the muscles that produce eyelid 
+closure. Hence the learned pause in Purkinje cell fir-
+ing causes the eyelid to close at just the right moment 
+to protect the eye. Appropriate timing of the pause 
+is thought to be mediated by a diversity of temporal 
+response patterns in granule cells. Computer simu-
+lations have shown that learning of appropriately 
+timed responses can be explained by plasticity in the 
+granule–Purkinje cell synapse if individual granule 
+cells are active at different delays after the CS or exhibit 
+a variety of distinct, but repeatable, temporal patterns 
+locked to the CS.
+Due to technical challenges, direct evidence 
+for such temporal representations has not yet been 
+Granule cell activity
+Climbing ﬁber input
+Purkinje cell response
+Behavioral response
+US (air puff)
+300 ms
+CS (tone)
+Firing rate
+300 ms
+Firing rate
+Purkinje
+cell
+Climbing
+ﬁber
+Granule
+cells
+CS
+US
+300 ms
+Eyelid closure
+Firing rate
+Figure 5–8  Hypothetical role of the cerebellum in eyeblink 
+conditioning. Information about the conditioned stimulus 
+(CS) and unconditioned stimulus (US) is relayed via mossy and 
+climbing fiber pathways, respectively. Granule cell synapses 
+active before presentation of the US are gradually weakened by 
+long-term depression induced by climbing fiber input. This con-
+tributes to a pause in Purkinje cell firing that is precisely timed 
+to occur just before the US. Since Purkinje cells are inhibi-
+tory, this pause excites downstream neurons in the cerebellar 
+nucleus and red nucleus that drive eyelid closure.
+obtained for granule cells in the region of the mam-
+malian cerebellum involved in eyeblink conditioning. 
+However, a diversity of temporal patterns has been 
+observed in granule cells in a structure analogous to 
+the cerebellum in fish. More broadly, studies of the 
+cerebellum, including those of eyeblink conditioning, 
+provide a concrete illustration of how neural circuits 
+can mediate learning though trial and error, even for 
+learning more complex motor skills such as playing 
+a musical instrument. Purkinje cells integrate a rich 
+diversity of signals related both to the external world 
+and internal state of the animal (conveyed by granule 
+cells), with highly specific information about errors 
+or unexpected events (conveyed by the climbing fib-
+ers). The climbing fiber acts as a teacher, weakening 
+synapses that were active before, and hence could 
+have contributed to errors. These changes in synaptic 
+strength alter the firing patterns of Purkinje cells and, 
+by virtue of specific wiring patterns, alter behavior 
+such that errors are gradually reduced.
+The cerebellum and cerebral cortex, including 
+the hippocampal region, are foci of intense experi-
+mental and theoretical research on learning and 
+memory. Technological advances are opening up new 
+approaches for studying the contributions of synap-
+tic actions, individual cells, and circuits to memory-
+related phenomena.
+
+
+===== Page 3 =====
+110    Part I / Overall Perspective
+Highlights
+1.	 Neural coding describes how stimulus features 
+or intended actions are represented by neuronal 
+activity. Decoding refers to the inverse process 
+through which neural activity is interpreted to 
+reveal the encoded signals. Mathematical decod-
+ing of neural responses can be used to interpret 
+computations being performed by neural circuits 
+and to drive prosthetic devices.
+2.	 Neural circuits are highly interconnected, but 
+a few basic motifs are used to characterize their 
+functions and modes of operation. Feedforward 
+circuits process information to extract structure 
+and meaning from a sensory stream. Recurrent 
+circuits can perform temporal processing and gen-
+erate dynamic activity to drive motor responses.
+3.	 Most neurons receive a finely tuned balance of 
+excitatory and inhibitory inputs. Small changes in 
+this balance in response to a sensory stimulus can 
+evoke an action potential output.
+4.	 Levels of neural activity must often be maintained 
+for many seconds. Networks of recurrent excita-
+tion provide one mechanism to produce long-
+lasting changes in neural output.
+5.	 Synaptic plasticity supports longer-lasting changes 
+in neural circuits that underlie learning and mem-
+ory. Hebbian plasticity can extract interesting sig-
+nals from a complex set of inputs without the need 
+for supervision (a “teacher”). Synaptic plasticity 
+in the cerebellar cortex is driven by error signals 
+(a form of supervision) and is used to tune motor 
+responses and learn timing relationships.
+Larry F. Abbott
+ Attila Losonczy 
+Nathaniel B. Sawtell 
+Selected Reading
+Abbott LF. 2008. Theoretical neuroscience rising. Neuron 
+60:489–495.
+Dayan P, Abbott LF. 2001. Theoretical Neuroscience: Compu-
+tational and Mathematical Modeling of Neural Systems. 
+Cambridge, MA: MIT Press.
+Hebb DO. 1949. The Organization of Behavior: A Neuropsycho-
+logical Theory. New York: Wiley.
+LeCunn Y, Bengio Y, Hinton G. 2015. Deep learning. Nature 
+521:436–444.
+Marr D. 1969. A theory of cerebellar cortex. J Physiol 
+202:437–470.
+References
+Buzsaki G. 2015. Hippocampal sharp wave-ripple: a cog-
+nitive biomarker for episodic memory and planning.  
+Hippocampus 25:1073–1188.
+Buzsaki G, Horváth Z, Urioste R, Hetke J, Wise K. 1992. 
+High-frequency network oscillation in the hippocampus. 
+Science 256:1025–1027.
+Diba K, Buzsaki G. 2007. Forward and reverse hippocam-
+pal place-cell sequences during ripples. Nat Neurosci 
+10:1241–1242.
+Fusi S, Miller EK, Rigotti M. 2016. Why neurons mix: high 
+dimensionality for higher cognition. Curr Opin Neurobiol 
+37:66–74.
+Litwin-Kumar A, Harris KD, Axel R, Sompolinsky H, Abbott 
+LF. 2017. Optimal degrees of synaptic connectivity.  
+Neuron 93:1153–1164.
+Medina JF, Mauk MD. 2000. Computer simulation of cerebel-
+lar information processing. Nat Neurosci 3:1205–1211.
+Miri A, Daie K, Arrenberg AB, Baier H, Aksay E, Tank DW. 
+2011. Spatial gradients and multidimensional dynamics 
+in a neural integrator circuit. Nat Neurosci 14:1150–1159.
+Oja E. 1982. A simplified neuron model as a principal compo-
+nent analyzer. J Math Biol 15:267–273.
+O’Keefe J, Dostrovky J. 1971. The hippocampus as a spa-
+tial map. Preliminary evidence from unit activity in the 
+freely-moving rat. Brain Res 34:171–175.
+Schrimpf M, Kubilius J, Hong H, et al. 2018. Brain-Score: 
+which artificial neural network for object recognition is 
+most brain-like? bioRxiv doi:10.1101/407007.
+Tolman EC. 1948. Cognitive maps in rats and men. Psychol 
+Rev 55:189–208.
+Wilson MA, McNaughton BL. 1994. Reactivation of hip-
+pocampal ensemble memories during sleep. Science 
+265:676–679.
+Yamins DLK, DiCarlo JJ. 2016. Using goal-driven deep learn-
+ing models to understand sensory cortex. Nat Neurosci 
+19:356–365.
+
+
+===== Page 4 =====
+6
+Imaging and Behavior
+cognitive and motor outputs. Relating biological and 
+behavioral measures is challenging, however. Precise 
+neural measurements and invasive techniques are pos-
+sible in nonhuman animals, but many of these species 
+have a relatively constrained behavioral repertory. 
+Moreover, it is far more difficult to directly measure 
+or invasively manipulate neural activity in healthy 
+humans, the species with the most advanced and var-
+ied behavior. Thus, a central effort of modern neurosci-
+ence has been to develop new methods for obtaining 
+precise biological measures from the human brain and 
+for modeling human behaviors in nonhuman animals.
+The dominant approach in humans for measuring 
+biological processes and linking them to behavior is 
+functional magnetic resonance imaging (fMRI). Other 
+imaging methods for measuring human brain func-
+tion such as electroencephalography, positron emis-
+sion tomography, and near-infrared spectroscopy have 
+their own strengths. However, fMRI is particularly 
+well suited for studying the neural underpinnings of 
+human behavior for several reasons. First, it is non-
+invasive: It does not require surgery, ionizing radia-
+tion, or other disruptive intervention. Second, it can 
+measure brain function over short periods of time (in 
+seconds), which allows it to capture dynamic aspects 
+of mental processes and behavior. Third, it measures 
+activity across the whole brain simultaneously, provid-
+ing the opportunity to examine how multiple brain 
+regions interact to mediate complex behaviors. Thus, 
+the focus of this chapter is fMRI.
+We start by explaining the technicalities of how an 
+fMRI experiment works and how the data are typically 
+collected. We then explain how fMRI data are analyzed 
+Functional MRI Experiments Measure Neurovascular Activity
+fMRI Depends on the Physics of Magnetic Resonance
+fMRI Depends on the Biology of Neurovascular 
+Coupling
+Functional MRI Data Can Be Analyzed in Several Ways
+fMRI Data First Need to Be Prepared for Analysis by 
+Following Preprocessing Steps
+fMRI Can Be Used to Localize Cognitive Functions to 
+Specific Brain Regions
+fMRI Can Be Used to Decode What Information Is 
+Represented in the Brain
+fMRI Can Be Used to Measure Correlated Activity Across 
+Brain Networks
+Functional MRI Studies Have Led to Fundamental Insights
+fMRI Studies in Humans Have Inspired 
+Neurophysiological Studies in Animals
+fMRI Studies Have Challenged Theories From Cognitive 
+Psychology and Systems Neuroscience
+fMRI Studies Have Tested Predictions From Animal 
+Studies and Computational Models
+Functional MRI Studies Require Careful Interpretation
+Future Progress Depends on Technological and Conceptual 
+Advances
+Highlights
+T
+o explain an organism’s behavior in biologi-
+cal terms, it is necessary to reconcile measures of 
+biological processes (eg, action potentials, blood 
+flow, release of neurotransmitters) with measures of 
+
+
+===== Page 5 =====
+112    Part I / Overall Perspective
+and how they provide insight into human behavior and 
+thought. We then turn to a more conceptual overview 
+of what has been learned from fMRI, using examples 
+from the fields of perception, memory, and decision- 
+making. Finally, we consider the strengths and limi-
+tations of fMRI and discuss what kinds of inferences 
+about brain and behavior it can support.
+Although the focus of this chapter is on imaging 
+and behavior in the healthy brain, fMRI also has the 
+potential to change the way we diagnose and treat 
+psychiatric and neurological disorders. Virtually all 
+such disorders (eg, autism, schizophrenia, depression, 
+eating disorders) involve changes in large-scale circuit 
+dynamics, in addition to the disruption of particular 
+brain regions and cell types. Basic research into how 
+healthy brain circuits mediate mental processes and 
+behavior, combined with the ability to measure activ-
+ity in these same circuits in clinical populations, holds 
+tremendous promise for understanding disease and 
+dysfunctional behavior.
+Functional MRI Experiments Measure 
+Neurovascular Activity
+fMRI experiments enable investigators to track brain 
+function based on changes in local blood oxygen levels 
+that occur in response to neural activity. Like all forms 
+of magnetic resonance imaging (MRI), fMRI requires 
+both highly specialized equipment and sophisticated 
+computer programs. In this section, we first consider 
+the basic principles of how MRI can be used to image 
+brain structure and then explain how fMRI extends 
+this capability to image brain activity.
+At the core of every MRI machine is a powerful 
+magnet. The strength of the magnetic field is quanti-
+fied in Tesla (T) units, and most modern MRI machines 
+are 3T. The use of higher field strengths, such as 7T, 
+offers some advantages, including the possibility of 
+higher-resolution imaging of cortical layers. Such 
+machines are not yet widespread, and layer-specific 
+imaging is in its infancy, so we focus on the capabilities 
+and configuration of 3T machines.
+The outside of an MRI machine looks like a tunnel, 
+known as the “bore” of the magnet. Subjects lie on a 
+bed with their head in a helmet-like head coil, which 
+receives signals from the brain. Visual stimuli are typi-
+cally viewed through a mirror on the head coil angled 
+toward a screen at the back of the bore. Auditory 
+stimuli are presented through headphones. Behavior 
+is typically measured in terms of manual responses 
+with a button box and/or eye movements with an eye 
+tracker. This apparatus constrains which experimental 
+tasks are possible. However, fMRI is flexible in other 
+ways, including that it can be performed and repeated 
+without harm in many different types of subjects, from 
+children to the elderly, whether healthy or suffering 
+from a disorder.
+What does fMRI measure? There are two fun-
+damental concepts that we will discuss in turn, first 
+magnetic resonance and then neurovascular coupling 
+(Figure 6–1).
+fMRI Depends on the Physics  
+of Magnetic Resonance
+In general, MRI exploits the magnetic properties of 
+hydrogen atoms, the dominant source of protons in the 
+body, specifically the way each atom’s proton interacts 
+with a strong magnetic field. A key property of protons 
+is that they intrinsically rotate around an axis. This 
+spin gives protons angular momentum and a magnetic 
+dipole along the axis, their own north and south poles. 
+Under normal circumstances, the directions of these 
+dipoles are random for different protons. When placed 
+in a strong external magnetic field, however, a subset 
+of the protons (how many is proportional to the field 
+strength) align with the direction of this field, which 
+extends from foot to head when lying in an MRI bore.
+An important step toward measuring a signal 
+from protons is to push them out of alignment with 
+this main field. To understand why, it is helpful to 
+think about a familiar object, the gyroscope. If a still 
+gyroscope is tipped out of vertical balance, it will just 
+fall over. However, if you spin the gyroscope before 
+tipping it, inertial forces will prevent it from falling 
+over. The axis around which the gyroscope is spin-
+ning will itself begin to rotate around the vertical axis. 
+This precession occurs because gravity exerts a verti-
+cal torque on the tilted gyroscope, pulling its center of 
+mass down so that it pivots around its bottom point 
+and traces out a circle in the transverse plane (looking 
+from above). Something similar happens to a proton 
+that is tilted with respect to the strong magnetic field: 
+The field applies a torque and the orientation of the 
+rotational axis precesses around the field direction. 
+The speed of precession, or the resonant frequency, is 
+determined by the Larmor equation, according to the 
+field strength and a gyromagnetic ratio specific to each 
+type of atom. In the case of a 3T magnet and hydrogen 
+atoms, this speed is in the radiofrequency (RF) range.
+But how do protons get tipped out of alignment 
+in the first place to enable precession? The answer 
+depends upon the same principle of torque. A second, 
+weaker magnetic field is applied in a perpendicular 
+direction (eg, front to back of the head), introducing 
+
+
+===== Page 6 =====
+Figure 6–1  How fMRI measures neural activity.
+A. Outside of the MRI environment, protons in hydrogen atoms 
+in the brain spin around axes that point in random directions (1). 
+When a brain enters the strong magnetic field of the MRI bore, 
+a subset of these axes aligns with this field, which is known 
+as longitudinal magnetization (2). These protons can be meas-
+ured by transmitting a radiofrequency (RF) pulse that induces 
+a weaker magnetic field perpendicular to the strong field. This 
+misaligns the protons with the strong field, which now acts 
+as a torque, causing the proton spin axes to precess in an 
+arc on the transverse plane. The frequency of the RF pulse is 
+chosen to resonate with the precession rate of the protons, 
+which in turn depends on the strength of the magnetic field (3). 
+When the RF pulse is stopped, the protons initially continue 
+to precess synchronously, inducing alternating current at the 
+same frequency in receiver coils surrounding the head. These 
+signals can be used to generate an image by applying magnetic 
+gradients that adjust the field strength in orthogonal directions 
+across the brain. This results in different resonant frequen-
+cies at different points in the brain, allowing the source of the 
+received signals to be identified. The transverse magnetization 
+dissipates over time, and signal is lost. This relaxation occurs 
+as the protons give off thermodynamic energy and their axes 
+return to the longitudinal direction (T1), and as the protons 
+become desynchronized in the transverse plane from local 
+interactions with other atoms and molecules (T2), and because 
+of inhomogeneities in the magnetic field (T2
+*) (4).
+B. Magnetic resonance can be used to estimate neuronal 
+activity in functional MRI because of the magnetic properties 
+of blood. When a brain region is in a baseline state, there is a 
+higher proportion of deoxygenated to oxygenated blood than 
+when the region is active. Deoxygenated blood interacts with 
+the magnetic field, causing local inhomogeneities that distort 
+the rate of precession and disrupt the synchrony of protons  
+in the transverse plane, leading to more rapid T2
+* decay and 
+lower BOLD signal (1). Neuronal activity leads to metabolic 
+demand (2), which in turn results in the delivery of excess 
+oxygenated blood (3). Oxygenated blood does not interact with 
+the magnetic field, and so the increased amount in active brain 
+regions reduces field inhomogeneities. In turn, this reduces the 
+dephasing of protons precessing in the transverse plane, lead-
+ing to slower T2
+* decay and higher BOLD signal (4).
+1  Baseline
+2  Neuronal activity
+3  Oversupply of oxygenated
+    blood lowers proportion
+    of deoxygenated blood
+4  Less dephasing of transverse magnetization
+    leads to increased T2* signal or blood
+    oxygenation level–dependent contrast (BOLD)
+Blood
+ﬂow
+Deoxygenated blood
+Oxygenated blood
+T2*
+T2* 
+with dephasing
+from local ﬁeld
+inhomogeneities
+T2 
+Time constant
+of transverse
+relaxation
+T1
+Time constant
+of longitudinal
+relaxation
+1
+2
+3
+A  Magnetic resonance 
+B  Functional magnetic resonance imaging
+Strong
+magnetic ﬁeld
+Natural state
+RF pulse at
+frequency of
+precession
+4
+
+
+===== Page 7 =====
+114    Part I / Overall Perspective
+another torque that pulls protons away from align-
+ment with the strong field. This misalignment causes 
+precession about the direction of the strong field by 
+allowing the strong field to act as a torque. Complicat-
+ing matters, this precession makes protons a moving 
+target for the weaker magnetic field that is needed to 
+cause misalignment in the first place. This is solved 
+by generating the second field using a transmit coil in 
+the MRI machine, through which alternating current is 
+passed to deliver an RF pulse at the resonant frequency 
+of the protons. This induces a perpendicular magnetic 
+field that rotates in lockstep with the precession. This 
+RF pulse is sustained as long as needed to generate 
+a specified change in the spin orientation of protons 
+away from the strong field direction (eg, 90°). This 
+change is known as the flip angle and is often chosen to 
+maximize signal according to the Ernst equation.
+Once the desired flip angle has been achieved, the 
+RF pulse is stopped in order to measure the compo-
+sition of tissue. At this point, protons are precessing 
+around the strong magnetic field and tilted heavily 
+into the transverse plane. This is akin to a bar mag-
+net spinning on a table, where the north and south 
+poles take turns passing any given location. If a coil is 
+placed nearby, the spinning magnet induces a current 
+in the wire that reverses as the poles alternate. This is 
+what the receiver head coil in an MRI machine meas-
+ures: alternating current induced by protons precess-
+ing synchronously (note: this is the same principle as 
+described earlier for how the transmit coil works, just 
+reversed). The amount of current indicates the concen-
+tration of precessing protons.
+Critically, the frequency of these measured signals 
+reflects the speed of precession, which in turn depends 
+on the strength of the magnetic field experienced by the 
+tissue. This can be used to generate three-dimensional 
+images by imposing different gradients on the magnetic 
+field (think of a staircase from higher to lower strength) 
+that cause the Larmor frequency to vary systematically 
+over space in the brain. During fMRI, one gradient is 
+applied in a specific direction to select a slice of brain 
+tissue. The RF pulse can be tailored to the resonant fre-
+quency for the exact field strength at this gradient step, 
+such that only protons in this slice are excited. The same 
+logic is used with additional gradients in orthogonal 
+directions to impose a two-dimensional matrix on the 
+selected slice, with each unit volume in the matrix or 
+voxel having a unique frequency and phase. The head 
+coil receives a composite signal with a mixture of these 
+frequencies, but the signal can be decomposed to iden-
+tify protons at every voxel in the slice.
+There is another important property of precess-
+ing protons that contributes to MRI: The alternating 
+current induced in the head coil begins to decay right 
+after the RF pulse. There are different sources of decay. 
+One source is that precessing protons give off thermo-
+dynamic energy (heat) to the surrounding tissue, just 
+like a gyroscope will eventually lose energy to fric-
+tion and topple over. As this occurs, the spin orienta-
+tion of protons gradually relaxes back to the direction 
+of the strong magnetic field, causing them to precess 
+less in the transverse plane and thus generate less sig-
+nal. This is called longitudinal relaxation and occurs 
+with time constant T1. A second type of decay occurs 
+while protons are still precessing in the transverse 
+plane. Individual protons are surrounded by a vari-
+able neighborhood of other atoms, which carry their 
+own weak magnetic fields. This subtly changes the 
+field strength the proton experiences, causing its Lar-
+mor frequency to vary unpredictably. Whereas right 
+after the RF pulse protons precess in synchrony, these 
+local interactions cause some protons to precess faster 
+or slower. Because they get increasingly out of sync, 
+the induced current alternates less reliably and signal 
+is lost. This is called transverse relaxation and occurs 
+with time constant T2. This dephasing of protons can 
+also result from inhomogeneities in the strong mag-
+netic field itself, including how it is distorted by tissue 
+placed into the field. The signal decay from both local 
+interactions and field distortions has time constant T2
+* 
+(pronounced “T2-star”).
+These different sources of decay are important 
+because T1 and T2 time constants vary depending 
+on tissue type. MRI can thus exploit signal decay to 
+identify gray matter, white matter, fat, and/or cer-
+ebrospinal fluid. Depending on the configuration and 
+timing of RF pulses, gradients, and other parameters 
+set on the MRI machine (collectively known as a pulse 
+sequence), the signals received from different voxels 
+can highlight the contrast between tissues with differ-
+ent T1 values (T1-weighted image) and/or different T2 
+values (T2-weighted image). For example, white matter 
+is brighter than gray matter in T1-weighted images and 
+vice versa for T2-weighted images.
+The standard pulse sequence for measuring brain 
+function is the echo planar imaging (EPI) sequence. EPI 
+has two desirable properties for fMRI: It is extremely 
+fast, allowing an entire slice to be acquired from 
+one RF pulse in less than 100 ms, and it is sensitive 
+to T2
+*, which, as we will see later, is how MRI meas-
+ures neural activity. When designing an fMRI study, 
+several parameters of the EPI sequence need to be cho-
+sen, including how many slices to acquire in the brain 
+volume (typically 30–90); how much time per volume 
+(repetition time, typically 1–2 s); what voxel resolu-
+tion to use (typically 2–3 mm in each dimension); and 
+
+
+===== Page 8 =====
+Chapter 6 / Imaging and Behavior    115
+whether to use parallel acquisition (eg, acquire mul-
+tiple parts of a slice and/or multiple slices at once). 
+These choices are interdependent, imposing trade-offs 
+between speed, precision, and signal-to-noise.
+fMRI Depends on the Biology of  
+Neurovascular Coupling
+We have described general principles of magnetic res-
+onance, but what about the second part of the story, 
+neurovascular coupling? Active neurons consume 
+energy obtained from oxygen in blood. Thus, when a 
+brain area is active, blood oxygenation drops in that 
+moment. To replenish these metabolic resources, the 
+flow of blood to the local area increases over the next 
+few seconds. Supply exceeds demand, and so, coun-
+terintuitively, there is a higher proportion of oxygen-
+ated (versus deoxygenated) blood in active brain 
+areas.
+To link this to magnetic resonance, remember 
+that T2
+* decay reflects dephasing of protons caused by 
+field inhomogeneities. Blood has different magnetic 
+properties depending on oxygenation: Deoxygenated 
+blood interacts with the magnetic field because the 
+iron in hemoglobin is unbound, whereas oxygenated 
+blood in which the iron is bound to oxygen does not. 
+Deoxygenated blood thus causes faster T2
+* decay and 
+reduces signal relative to oxygenated blood. This dif-
+ference in signal is referred to as the blood oxygenation 
+level–dependent (BOLD) contrast. Putting everything 
+together, increased signal in a voxel measured with 
+an EPI sequence indicates recent neuronal activity 
+because of the relative increase in local blood oxygena-
+tion that accompanies such activity. The temporal pro-
+file of this BOLD response, known as the hemodynamic 
+response function, looks like a bell curve with a long tail, 
+peaking around 4 to 5 seconds after local neural activ-
+ity and returning to baseline after 12 to 15 seconds.
+There are many more details about the physics 
+and biology of fMRI. In addition, our understand-
+ing of how it all works is still evolving. For example, 
+it is unclear whether BOLD is more closely tied to 
+the firing of individual neurons or to the activity of 
+neural populations. Likewise, it may be difficult to 
+distinguish whether increased blood oxygenation is 
+caused by increases in local excitation or inhibition. 
+More generally, the mechanisms of neurovascular 
+coupling—how the brain knows when and where to 
+deliver oxygenated blood—remain mysterious, with 
+a growing focus on the functional role of astrocytes. 
+There is also the possibility of obtaining better tem-
+poral and spatial resolution by measuring the initial 
+consumption of oxygen at the precise site of neuronal 
+activity (the “initial dip”), reflected in an immediate 
+and focal rise in deoxygenated blood rather than the 
+delayed and more diffuse oversupply of oxygenated 
+blood. Nevertheless, even with an incomplete under-
+standing, fMRI has utility as a tool to localize changes 
+in neural activity in the human brain induced by 
+mental operations.
+Functional MRI Data Can Be  
+Analyzed in Several Ways
+When performing an fMRI experiment, researchers 
+link the neurovascular measurements described earlier 
+to cognitive tasks programmed into a computer script 
+that a human subject performs. The script generally 
+produces a series of runs that correspond to a continu-
+ous period of data collection (ie, several fMRI volumes 
+in a row), typically lasting 5 to 10 minutes. Within each 
+run, several trials are presented to the subject, often 
+by showing a visual stimulus or playing an auditory 
+stimulus. Depending on the task, the subject may, 
+for example, passively view or listen to the stimulus, 
+make a decision about it, or store it in memory. A but-
+ton press or eye movement response is often collected 
+as a behavioral index of cognitive processing on that 
+trial. These trials are typically drawn from two or more 
+task conditions, which determine the stimulus type, 
+task difficulty, or other experimental parameters. In a 
+basic subtraction design, trials are divided between an 
+experimental condition and a control condition, which 
+are identical but for one critical difference whose neu-
+ral basis is being investigated. Trials usually last 2 to 
+10 seconds, often separated by a variable or “jittered” 
+interval of several seconds. In all, such sessions typi-
+cally last up to 2 hours.
+Each fMRI session produces a large amount of 
+raw data, with BOLD responses sampled thousands 
+of times at hundreds of thousands of locations in the 
+brain. How are these data translated into insights 
+about cognition and behavior? Numerous approaches 
+to fMRI analysis are possible (Box 6–1), but for the 
+most part, they break down into three categories 
+(Figure 6–2). We first describe preprocessing steps 
+common to all three types and then explain how each 
+is conducted and what it can tell us.
+fMRI Data First Need to Be Prepared for Analysis 
+by Following Preprocessing Steps
+Before the data can be analyzed, they must be prepared 
+for processing. This is accomplished with a series of 
+
+
+===== Page 9 =====
+116    Part I / Overall Perspective
+Compared to many areas of science, the basic methods 
+of brain imaging have enjoyed remarkable standardiza-
+tion. A major reason for this has been the availability 
+of widely adopted software packages since the earliest 
+days of fMRI in the mid-1990s. These packages were 
+created and released by research groups, and—before it 
+was fashionable—most were open-source.
+At first, they included tools for preprocessing, 
+alignment, analysis models, and statistical corrections. 
+They have since incorporated new tools developed by 
+researchers, including nonlinear alignment, field map 
+correction, nonparametric statistics, and parallelization.
+As a result, virtually all fMRI researchers use one or 
+more of these packages, at least for part of their analysis 
+pipeline. The following are popular free software pack-
+ages for fMRI analysis:
+AFNI: https://afni.nimh.nih.gov
+FSL: https://fsl.fmrib.ox.ac.uk
+SPM: https://www.fil.ion.ucl.ac.uk/spm
+Beyond these specialized packages, fMRI is increas-
+ingly being viewed through the more general lens of 
+data science. There are two reasons for this. First, fMRI 
+produces a huge amount of data, both within each ses-
+sion but also aggregated across the thousands of studies 
+that have been conducted. Making sense of fMRI data 
+can thus be considered a big-data problem. Second, the 
+data are incredibly complex and noisy, and the cogni-
+tive signals of interest are weak and hard to find. This 
+creates a data mining challenge that has inspired many 
+computer scientists.
+The most concrete manifestation of this trend is the 
+rise of machine learning in fMRI analysis. Other points 
+of contact with data science include the challenges asso-
+ciated with the real-time analysis of streaming data, the 
+application of network analysis and graph theoretic 
+approaches, the use of high-performance computing 
+clusters and cloud systems, and the growing practice 
+of researchers publicly sharing data (eg, https://open-
+neuro.org), code (on services such as GitHub), and edu-
+cational materials (eg, https://brainiak.org/tutorials). 
+Thus, the field of brain imaging will continue to ben-
+efit from advances in computer science, engineering, 
+applied math, and statistics.
+Box 6–1  Brain Imaging as Data Science
+steps referred to as preprocessing. Preprocessing seeks 
+to remove known sources of noise in the data, caused 
+by either the subject or the MRI machine. Standard 
+practice includes five basic steps known as motion cor-
+rection, slice-time correction, temporal filtering, spatial 
+smoothing, and anatomical alignment.
+Motion correction seeks to address inevitable noise 
+in the data due to a subject’s head movement. Even 
+the best subjects move their heads a few millimeters 
+over the course of a scan, such that the voxels across 
+three-dimensional brain volumes become somewhat 
+misaligned. This movement can be corrected for using 
+a spatial interpolation algorithm that lines up all of the 
+volumes within each run. This algorithm quantifies the 
+amount of movement at each point during the scan, 
+including the translation in the x, y, and z dimensions, 
+and the amount of rotation about these axes (pitch, roll, 
+and yaw, respectively). These six time courses can later 
+be included in the data analysis as regressors, to further 
+remove motion artifacts.
+Slice-time correction is applied to deal with differ-
+ences in the timing of the acquisition of samples across 
+different slices. EPI sequences collect the slices that 
+make up each brain volume sequentially, often in an 
+interleaved order to avoid contamination of adjacent 
+slices. Thus, there is a large difference in the timing of 
+the first- and last-acquired slices of the same volume, 
+which are closer in time to the preceding and subse-
+quent volumes, respectively, than to each other. Cor-
+recting for this difference in the timing of the slices can 
+be accomplished with temporal interpolation to esti-
+mate what the signal would have been if all slices were 
+acquired simultaneously.
+Temporal filtering and spatial smoothing aim to 
+increase the signal-to-noise ratio. Temporal filtering 
+removes components of the time course in each voxel 
+that are highly likely to be noise rather than meaning-
+ful variance, such as very low frequencies (>100-second 
+period) that typically result from scanner drift. Spatial 
+smoothing applies a kernel (typically 4–8 mm wide) 
+to blur individual volumes, averaging out noise across 
+adjacent voxels and improving the odds that functions 
+will overlap across subjects after anatomical alignment.
+This anatomical alignment is accomplished by reg-
+istering data across runs and subjects, usually with 
+simple transformations (eg, shift, rotate, scale), to a 
+standard template such as Montreal Neurological 
+Institute or Talairach space. Typically, fMRI data are 
+
+

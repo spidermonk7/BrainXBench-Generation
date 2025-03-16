@@ -1,0 +1,571 @@
+===== Page 1 =====
+LINEARIZING
+VOLTAGE-DEPENDENT
+CURRENTS
+We hinted several times at the fact that a small excitatory synaptic input in the pres-
+ence of voltage-dependent channels will lead to a local depolarization, followed by a
+hyperpolarization (Fig. 10.1). Those of us who built our own radios will recognize such
+an overshooting response as being indicative of so-called RLC circuits which include
+resistances, capacitances as well as inductances. As a reminder, a linear inductance is
+defined as a circuit element whose instantaneous I—V relationship is,
+(10.1)
+where L is the inductance measured in units of henry (abbreviated as H). Although
+neurobiology does not possess any coils or coillike elements whose voltage is proportional
+to the current change, membranes with certain types of voltage- and time-dependent
+conductances can behave as (/they contained inductances. We talk of a phenomenological
+inductance, a phenomenon first described by Cole (1941) and Cole and Baker (1941) in the
+squid axon (see Cole, 1972). Under certain circumstances, discussed further below, such
+damped oscillations can become quite prominent.
+This behavior can be obtained in an entirely linear system, as can be observed when
+reducing (in numerical simulations) the amplitude of the synaptic input (or step current):
+even though the voltage excursion around steady-state becomes smaller and smaller, the
+overshoot persists (Fig. 10.1). It is not due to any amplification inherent in such a membrane
+but is caused by its time- and voltage-dependent nature. Such a linear membrane, whose
+constitutive elements do not depend on either voltage or time, and which behaves like a
+bandpass element, has been called quasi-active (Koch, 1984) to distinguish it from a truly
+active, that is, nonlinear membrane.
+In this chapter, we will explain in considerable detail how an inductance-like behavior can
+arise from these membranes by linearizing the Hodgkin-Huxley equations. Experimentally,
+this can be done by considering the small-signal response of the squid giant axon and
+232
+10
+
+
+===== Page 2 =====
+10.1 Linearization of the Potassium Current
+233
+Fig. 10.1 A QUASI-ACTIVE MEMBRANE A small (gpeak = 1 nS) excitatory synaptic input close
+to the soma of a simulated pyramidal cell (Fig. 18.IB) gives rise to an EPSP followed by a small
+hyperpolarization due to activation of somatic potassium currents. This overshoot is not due to any
+nonlinearity in the system since it can be observed for arbitrarily small inputs. (If the synaptic input
+is reduced by a factor of 100 to gp^ = 0.01 nS and the associated EPSP rescaled by 100 and
+superimposed onto the larger amplitude response, the curves cannot be distinguished.) The system
+behaves like a linear electrical circuit containing an inductance-like element and the associated
+membrane is called quasi-active.
+comparing it against the theoretical predicted value, a further test of the veracity of the
+Hodgkin-Huxley equations, which they passed with flying colors. For more details on
+the linearization procedure we will be using, consult the original references (Chandler,
+FitzHugh, and Cole, 1962; Sabah and Leibovic, 1969; and the very clear Mauro et al.,
+1970). Although such a linearization has been applied to membranes other than the squid
+axon (Clapham and DeFelice, 1976, 1982) we will primarily discuss this well-explored
+model system.
+10.1 Linearization of the Potassium Current
+In order to demonstrate the principle behind this linearization, we will describe the procedure
+in detail for the potassium current of the Hodgkin-Huxley equation (Eq. 6.4 and Fig. 10.2A):
+(10.2)
+Let us consider small variations of this current around some fixed potential Vr. We can
+express such a variation as
+(10.3)
+where both derivatives are evaluated at the potential around which the system is linearized,
+hence the subscript r. Retaining only the first-order terms and neglecting all higher order
+ones (such as (Sn)2 or SnS V) is at the heart of the linearization procedure. We have
+(10.4)
+
+
+===== Page 3 =====
+234 
+• 
+LINEARIZING VOLTAGE-DEPENDENT CURRENTS
+Fig. 10.2 PHENOMENOLOGICAL INDUCTANCE ASSOCIATED WITH THE LINEARIZED POTASSIUM
+CURRENT 
+(A) Equivalent electrical circuit for a noninactivating potassium current. The conduc-
+tance gK is given by H^n4, with n the voltage- and time-dependent activation constant. (B) Conduc-
+tance g in series with an inductance L. The voltage across both components is SV and the current
+through them 57. VL is the voltage at the intermediate location. (C) Equivalent circuit when the
+potassium current (in panel A) is linearized around some fixed membrane potential. The response
+to this circuit mimics the small-signal response of the potassium current /K around some potential
+Vr. It includes a pure conductance, GK = lie"4' m parallel witn a conductance gn in series with an
+inductance Ln. For Vm > EK, all three components are positive.
+(see Fig. 10.2C) and
+(10.5)
+We eliminate the variation in the rate constant Sn by recalling Eq. 6.6 governing its dynamics,
+(10.6)
+For small variations we can expand this to
+(10.7)
+Since an and /?„ only depend on the membrane potential, we can express their variations as
+(10.8)
+and
+(10.9)
+Replacing these two expression into Eq. 10.7 leads to
+(10.10)
+
+
+===== Page 4 =====
+10.1 Linearization of the Potassium Current 
+• 
+235
+This can be formally expressed as
+(10.11)
+When replacing this result in Eq. 10.3 and exploiting Eqs. 10.4 and 10.5, we arrive at the
+following equation for the first-order variation of the potassium current
+(10.12)
+with two parameters that need to be evaluated at the membrane potential at which the current
+is linearized,
+(10.13)
+and
+(10.14)
+In order to understand Eq. 10.12 let us apply Kirchhoff's voltage law to the one branch
+circuit shown in Fig. 10.2B. With SI the current through both components we can write
+(10.15)
+Eliminating the voltage VL, we are left with
+(10.16)
+Comparing this result with the second component on the right-hand side of Eq. 10.12 we
+can see that they are very similar. Indeed, the voltage S V across the electrical circuit with
+two branches drawn in Fig. 10.2C is the same as 8V in Eq. 10.12 if
+(10.17)
+and if we set the inductance to
+(10.18)
+For a small perturbation SV around Vr, the potassium current responds as though the
+conductance GK (in units of S-cm2) is shunted by the conductance gn (also in S-cm2) in
+series with the inductance Ln (in units of sec-cm2/S, that is, in H-cm2). By examining the
+slopes of the on and off rates an and fin (Eqs. 6.10 and 6.11), we see that for the entire range
+of relevant voltages, V > EK, all three electrical components are always positive.
+Mauro et al., (1970) captured the key point of the previous analysis in a graphical
+manner; see Fig. 10.3. As before, we assume that we are only considering the small-signal
+response (this is, after all, what any linearization procedure amounts to) of the potassium
+current around some fixed potential Vr (positive to EK). Injecting a current step /jnj > 0
+at this potential will turn on the potassium current 7K (Fig. 10.3A). Because the underlying
+potassium conductance requires some time to increase to its final value, the initial change
+in membrane potential 5V is given by the injected current divided by the conductance GK.
+In the absence of any capacitance, this causes the membrane to depolarize instantaneously
+
+
+===== Page 5 =====
+236 
+• 
+LINEARIZING VOLTAGE-DEPENDENT CURRENTS
+by /inj / GK, moving in the direction of the dotted slope (the vector labeled to in Fig. 10.3 A).
+However, this depolarization will eventually led to an increase in the potassium conductance,
+which causes the voltage change S V to decrease with time, as indicated by the trajectory
+in Fig. 10.3C, to finally approach the new steady-state value of the membrane potential Vr,
+(around t2). In other words, as expected of an inductance—inducing a voltage proportional
+to the change in current—8 V rises instantaneously and then falls off gradually. This analysis
+also makes obvious the fact that this inductive behavior is caused by both the time and the
+voltage dependency of the membrane conductance.
+When the current /inj terminates, the inverse occurs (Fig. 10.3B). 8 V first undershoots Vr,
+relaxing with a time lag back to its earlier steady-state value Vr. The response is inductive
+for both on and off steps (provided that Vr > EK). If the capacitive nature of the neuronal
+membrane is included, the phenomenological inductance combines with the capacitance to
+give a damped oscillatory response (Fig. 10.3C).
+10.2 Linearization of the Sodium Current
+In a similar manner, we can compute the small-signal response of the sodium current,
+(10.19)
+By taking variations and retaining only the first-order terms we arrive at
+(10.20)
+that is,
+(10.21)
+Following the same procedure to eliminate the variational variables 5m and Sh as for the
+potassium current leaves us with an equation for the small-signal change in the sodium
+current:
+(10.22)
+with
+(10.23)
+(10.24)
+and
+(10.25)
+all evaluated at V — Vr. As illustrated in Fig. 10.4A, this describes the current flow in a
+three-branch electrical circuit with inductances
+(10.26)
+
+
+===== Page 6 =====
+10.2 Linearization of the Sodium Current 
+• 
+237
+Fig. 10.3 GRAPHICAL INTERPRETATION OF THE LINEARIZATION PROCEDURE Following the
+lead of Mauro et al., (1970), we here illustrate the linearization procedure for the potassium current
+/K. (A) Steady-state f-V relationship of a potassium current is indicated schematically and we are
+considering the small-signal response around the potential V,. Not shown is the time dependency of
+the underlying potassium conductance. Injecting a positive current /;nj leads to an instantaneous jump
+of the membrane potential to a new value (which lies along the dotted line going through the reversal
+potential £"K) given by /JHJ/GK (the vector labeled to). As the potassium conductance gradually
+adapts to its new value and increases, the voltage change 8 V becomes smaller, until it converges to
+its new value Vr, (from to to t\ to ti\ left panel). This inductive behavior would not be evident in a
+stationary nonlinear membrane. (B) Upon termination of the current step /inj, the voltage change SV
+first overshoots before settling to its old value. (C) Complete voltage response to the current injection
+in the absence of any membrane capacitance (left panel). When the capacitance is added to the circuit,
+a damped oscillatory response results (right panel).
+and
+(10.27)
+The two inductive branches reflect the separate contributions from the activating and the
+inactivating components of the sodium conductance.
+
+
+===== Page 7 =====
+238 
+• 
+LINEARIZING VOLTAGE-DEPENDENT CURRENTS
+Fig. 10.4 RLC CIRCUIT FOR THE LINEARIZED SODIUM CURRENT (A) Electrical RLC circuit
+obtained by linearizing the Hodgkin-Huxley sodium current at some potential below £NS- Both
+elements associated with the activation variable are negative. (B) These negative elements can be
+transformed into a positive conductance g'm in series with a positive phenomenological capacitance
+C'm, with a shunt conductance G^a that is negative.
+At this point, a problem arises. For the voltage range of interest, that is, EK < V < E^a,
+the resistive and inductive components of the inactivating branch of the circuit, that is, gf,
+and Lf,, are positive, but the corresponding circuit elements of the m branch are negative:
+gm < 0 and, therefore, Lm < 0. The negative conductance arises as a consequence of the
+negative slope of the iNa-V curve.
+
+
+===== Page 8 =====
+10.3 Linearized Membrane Impedance of a Patch of Squid Axon 
+• 
+239
+We can fix this problem by transforming the negative components into an equivalent
+RC system (Fig. 10.4B) with
+(10.28)
+(10.29)
+and a positive capacitance, instead of a negative inductance,
+(10.30)
+This capacitance is also a phenomenological one, in the sense that activating the sodium
+current leads to similar behavior (for small perturbation) as would the existence of an
+additional capacitive branch.
+For V < ENa, the conductance g'm and the capacitance C'm are positive, but the shunting
+conductance G'Na is negative. This is to be expected if we only treat /Na in isolation, with
+no counteracting current. Indeed, in order for the circuit to be stable, the total steady-state
+conductance must be positive (Koch, 1984). This can be assured if the linearized potassium
+current as well as the leak current are all jointly considered, as we will do now.
+10.3 Linearized Membrane Impedance of a Patch of Squid Axon
+The final RLC circuit, mimicking the small-signal response of a patch of squid axon
+membrane, includes five branches (Fig. 10.5A): a pure capacitance due to the physical
+capacitance of the bilipid membrane, a single positive conductance lumping the steady-
+state contributions of the leak, sodium, and potassium currents, the two phenomenological
+inductive branches and the one phenomenological capacitive branch. The values of these
+electrical elements vary with Vr, as discussed in Mauro et al., (1970) and in the legend to
+Fig. 10.5.
+We know from electrical circuit theory that RLC circuits can show oscillatory behavior
+with the presence of one or more resonances. This is best investigated by computing the
+complex impedance K (/) of the circuit in Fig. 10.5A. Writing down an expression for the
+total current (see Eqs. 10.12 and 10.22) directly in Fourier space, we have
+(10.31)
+With dSI(t)/dt transforming into if • <$/(/), we obtain an expression for the impedance
+as the ratio of S V(f) and 81'(/):
+(10.32)
+The a, 's and ft's are constants, which depend on the values of the electrical components
+(Koch, 1984). Figure 10.5B shows the calculated amplitude of the impedance if the mem-
+brane is linearized around the resting potential, and Fig. 10.5C shows the experimentally
+recorded amplitude. Both sets of curves have the same characteristic bandpass response.
+For the low-temperature curves, sinusoidal inputs in the neighborhood of 50-70 Hz are
+more attenuated than slower or more rapidly varying current inputs. The linearized squid
+axon membrane behaves similar to a passive membrane for sinusoidal inputs with 200 Hz
+or faster components.
+
+
+===== Page 9 =====
+240
+LINEARIZING VOLTAGE-DEPENDENT CURRENTS
+Fig. 10.5 LINEARIZED SQUID AXON
+MEMBRANE (A) Electrical RLC cir-
+cuit mimicking the small-signal re-
+sponse of a patch of squid axon
+obtained by adding <5/K> 
+<5^Na. as
+well as the contribution from the leak
+current <5/ieak- Note that G is posi-
+tive. If the Hodgkin-Huxley equations
+with standard parameters (at 6.3° C;
+see Chap. 6) are linearized around
+rest, the following numerical values
+are obtained (for details, see the ap-
+pendix in Koch, 1984): Cm = 1,
+G = 0.246, gn = 0.849, gh = 0.072,
+g'm = 0.432, Ln = 6.43, Lh = 119.0
+and C'm = 0.102 (units are ^F/cm2
+for the capacitances, H • cm2 for the
+inductances, and mS/cm2 for the con-
+ductances). The combined steady-state
+conductance of the system at rest is
+1.167 mS/cm2. (B) Amplitude of the
+membrane impedance of this circuit,
+corresponding to the impedance of the
+small-signal response of the squid axon
+at two different temperatures. As ex-
+pected of a quasi-active membrane,
+the transversal membrane impedance
+displays a resonance around 67 Hz.
+Reprinted in modified form by permis-
+sion from Mauro et al., (1970). (C) Am-
+plitude of the small-signal impedance
+measured in the space-clamped squid
+axon at two different temperatures.
+Reprinted in modified form by permis-
+sion from Mauro et al., (1970).
+The range of validity of the linearized membrane is a few millivolts around the resting
+potential (for more details, see Sabah and Leibovic, 1969; Koch, 1984). This is evident in
+the experimental record from the squid axon displayed in Fig. 10.6A. Here, a current step
+of increasing magnitude is injected into the space-clamped squid giant axon (see Fig. 6.2A
+for the experimental arrangement). As is apparent, the voltage has a characteristic ringing
+response as well as displaying undershooting at the offset of the current step. This ringing
+becomes more pronounced for larger, but still subthreshold, current stimuli, revealing
+nonlinear components. A similar experiment is repeated in Fig. 10.6B, where an action
+potential is elicited at the top of the oscillation.
+It makes sense to associate a resonant frequency with the membrane impedance, defined
+
+
+===== Page 10 =====
+10.3 Linearized Membrane Impedance of a Patch of Squid Axon 
+• 
+241
+Fig. 10.6 SMALL-SIGNAL 
+VOLTAGE 
+RE-
+SPONSE IN SQUID AXON Membrane poten-
+tial in a space-clamped giant axonal fiber (of
+0.4-mm diameter). (A) Membrane potential in
+response to depolarizing current steps of differ-
+ent amplitudes. Notice the damped oscillations
+during and at the offset of the current step. The
+maximum current strength applied is barely sub-
+threshold in the last case. Reprinted in modified
+form by permission from Mauro et al., (1970).
+(B) A suprathreshold current of sufficient am-
+plitude is applied to evoke a second action po-
+tential that arises from the second oscillation.
+At higher current amplitudes, a train of spikes
+can be generated with a moderate increase in
+repetition rate relative to the subthreshold oscil-
+lation frequency. Reprinted in modified form by
+permission from Mauro et al., (1970).
+here as the frequency of the peak response of K ( f ) . If the standard Hodgkin-Huxley
+equations at 6.3° C are linearized around rest, /max — 67 Hz (Fig. 10.6B). This frequency
+is relatively stable for larger current steps, as is evident in Fig. 10.5B, varying no more than
+15% and roughly coinciding with the frequency of the oscillatory components seen in the
+experimental records. Furthermore, /max is only marginally higher than the natural spiking
+frequency of an "infinite" train of action potentials (53 Hz; see Fig. 6.9B).
+So far, we only considered a patch of squid membrane (or, equivalently, a space-clamped
+ax on). On the basis of the propagation factor y (/) defined in Sec. 23.1, the input and trans-
+fer impedances as well as the frequency-dependent space constant of the linearized squid
+axon can be computed. It is possible to prove (Koch, 1984) that if the membrane impedance
+is a bandpass, then so will these three functions for an infinite cable. For instance, a 1 £tm thin
+infinite cable with the quasi-active membrane shown in Fig. 10.5A has a dc space constant
+of 175 jU,m. In any passive cable structure, the space constant at higher frequency will always
+be less than the dc space constant (Fig. 2.8), due to the unavoidable charge leakage via the
+membrane capacitance. While this capacitance is also present, the inductances "present"
+in the linearized squid axon can boost A(/) for an intermediate frequency range (for the
+definition of the frequency-dependent space constant in an infinite cable see Eq. 2.36). Thus,
+A,(/) has a pronounced peak (345 /urn) at 74 Hz. The sharpness of the tuning curve (as
+expressed by its half width at half height) as well as the resonant frequency /max increase
+monotonically with the channel density of both potassium and sodium channels as well as
+with the distance between the injection and the recording sites (Koch, 1984).
+Figure 10.7A shows the computed amplitude of the somatic input impedance of our
+standard model of the layer 5 pyramidal cell as a function of the frequency of the applied
+sinusoidal current injection. While its dendritic tree is passive, the soma contains seven
+
+
+===== Page 11 =====
+242 • 
+LINEARIZING VOLTAGE-DEPENDENT CURRENTS
+Fig. 10.7 SMALL-SIGNAL SOMATIC INPUT IMPEDANCE OF PYRAMIDAL CELL MODEL 
+Small-
+signal response of the voltage-dependent model of the layer 5 pyramidal cell. (A) Amplitude of
+the somatic input impedance \Kss(f)\ 
+defined as the peak somatic voltage change relative to the
+resting potential (at —65 mV) in response to a small sinusoidal current (peak amplitude of 10 pA) of
+frequency / injected into the soma. The peak occurs around 12 Hz. The roll-off at high frequency is
+due to the distributed capacitance. (B) The range of this linear approximation is illustrated by plotting
+the normalized membrane change in response to current steps /damp- For currents less then 0.1 nA,
+the responses superimpose and the depolarizing response is a mirror image of the hyperpolarizing
+response. Larger currents increasingly deviate from this linear behavior. For current steps of 0.30 nA,
+the membrane potential slowly drifts upward, eventually initiating an action potential.
+voltage-, time-, and calcium-dependent membrane conductances. K is computed using a
+small-signal response. The amplitude of K is 16.5 M£2 at dc and peaks at 24.1 M£2 around
+12 Hz. At these frequencies, the transient potassium current /A is relatively inactivated
+(the inactivation rate constant has a time constant of 100 msec). The decay evident at high
+
+
+===== Page 12 =====
+10.4 Functional Implications of Quasi-Active Membranes 
+• 
+243
+frequencies is due to the membrane capacitance and has a dependency close to 1/V/,
+as expected in an infinite cable. (At these high frequencies, the neuron can be considered
+to have a practical infinite extent relative to A(/); Fig. 2.9.) The range of validity of this
+small-signal approximation to the neuronal response can be directly read off Fig. 10.7B.
+For current steps up to 0.1 nA, this relatively large cell is in its linear range. Larger currents,
+in particular if they are depolarizing, will trigger a sufficient amount of sodium current to
+bring the cell out of its linear range. For a step of 0.295 nA amplitude, the potential will
+slowly creep upward until an action potential is initiated (not shown; see Sec. 17.3).
+10.4 Functional Implications of Quasi-Active Membranes
+What are some of the computational implications for neurons with quasi-active membranes?
+The fact that the input and transfer impedances and the frequency-dependent space constant
+have peaks at nonzero frequencies has interesting consequences for information processing.
+Let us allude to three examples.
+10.4.1 Spaf/o-Temporal Filtering
+In a dendritic tree endowed with a purely passive membrane, Kij and A. are monotonically
+decreasing functions of the frequency of the applied current. As illustrated with the help of
+the dynamic morphoelectrotonic transforms in Fig. 3.8, voltage attenuation is substantially
+more pronounced at higher than at lower frequencies. For a neuron in the visual pathway,
+say in the retina, this effect will partly determine its receptive field, since a visual stimulus
+with a high frequency content can only influence the cell's firing if it is closer to the cell body
+than more slowly varying synaptic input of the same amplitude. This effect is caricaturized
+in Fig. 10.8A. In a sort of precursor to METs, Koch (1984) determined the fraction of the
+dendritic tree of a cat retinal ganglion cell whose voltage attenuation to the soma, Ais,
+for two different frequencies is less than 4. This amounts to a functional definition of the
+receptive field of the cell (assuming that the synaptic inervation density is constant across
+its dendrites). If the dendritic tree is entirely passive, the "receptive field" of this cell is
+large for dc synaptic input, shrinking to a much smaller size for 100 Hz input.
+If, to the contrary, the cell is endowed with the quasi-active membrane shown in
+Fig. 10.5A, the opposite behavior occurs. Because the membrane impedance is higher for
+high-frequency inputs, the fraction of the dendritic tree for which Ats < 4 is large for 100 Hz
+input, and small for either dc or 200 Hz input (Fig. 10.8B). Assuming that the processing
+between the photoreceptor and the ganglion cell is linear for low-contrast visual stimuli,
+this neuron would be tuned to transient input and would respond less to sustained stimuli, a
+form of spatio-temporal tuning (Derrington and Lennie, 1982; Enroth-Cugell et al., 1983).
+70.4.2 Temporal Differentiation
+Computing the temporal derivative of some function V(t) is equivalent to multiplying its
+Fourier transform V ( f ) by if. Such a differentiation operation can be implemented by
+filtering V(t) with a function whose Fourier transform is proportional to /.
+While the transfer impedance of any neuronal membrane will ultimately decay with
+increasing frequency (due to the presence of the capacitance), the transfer impedance in a
+cable endowed with a quasi-active membrane shows a high-pass behavior over a limited
+
+
+===== Page 13 =====
+244 
+• 
+LINEARIZING VOLTAGE-DEPENDENT CURRENTS
+Fig. 10.8 SPATIO-TEMPORAL FILTERING IN RETINAL GANGLION CELLS In a cell endowed with
+a quasi-active membrane, high-frequency synaptic input can propagate further than sustained input.
+This effect is shown here graphically by determining the fraction of the dendritic tree whose voltage
+attenuation to the soma is less than some threshold, here Ajs < 4 in a cat retinal ganglion cell
+reconstructed from Boycott and Wassle (1974). This can be thought of as the receptive field of the
+cell. (A) The membrane is entirely passive. The large, heavily dotted area indicates the region within
+which the voltage attenuation for stationary inputs to the soma is less than 4. The smaller, lightly
+dotted area illustrates the same concept for a sinusoidal input of 100 Hz. (B) If the quasi-active
+membrane obtained from the linearized Hodgkin-Huxley equations (Fig. 10.5A) is added to the
+passive component in panel A, the previous situation is reversed. Now a sinusoidal current input
+at 100 Hz (lightly dotted region) attenuates much less than sustained input (heavily dotted region).
+For 200-Hz input the region of small attenuation will be less than for the region for sustained input.
+Such a cell would be more responsive to transient than to dc signals. Reprinted by permission from
+Koch (1984).
+frequency range. If the signal is restricted to this part of the spectrum, then such a membrane
+can implement a temporal derivative operation.
+Koch (1984) simulated this behavior in an extended, unbranched cable with the quasi-
+active membrane of Fig. 10.5A. Injecting a current that peaks at 5 msec and decays within
+20 msec (whose spectrum is monotonically decreasing and has decayed to 50% of its dc
+value at 70 Hz, the peak frequency of the transfer) the voltage recorded 350 /u,m away is
+qualitatively very similar to the temporal derivative of the current injected into the cable.
+The approximation is worse for faster synaptic input (since a larger fraction of its spectrum
+will lie beyond the peak at /max) and better for slowly changing input. What is appealing
+about this linear operation is that it can be implemented in a very compact manner in a
+single cable.
+10.4.3 Electrical Tuning in Hair Cells
+Receptor cells in auditory and electroreceptive systems of many species show electrical
+resonance: upon appropriate sensory stimulation, their membrane potential oscillates. This
+has been explored in detail for hair cells in the amphibian auditory system. Hair cells, whose
+function is to translate the acoustic stimuli into electrical ones (for an incisive review of
+their biophysical properties, see Hudspeth, 1985), are organized tonotopically along the
+basilar membrane in the cochlea according to their characteristic frequency (the frequency
+
+
+===== Page 14 =====
+10.5 Recapitulation 
+• 245
+of the acoustic stimuli the cell optimally responds to). Upon stimulation with a current step,
+the membrane potential responds with exponentially damped oscillations (Crawford and
+Fettiplace, 1981; Lewis and Hudspeth, 1983; see Fig. 10.9A). The oscillation frequency is
+a nonlinear function of the membrane potential. The frequency around the resting potential
+indicates the cell's natural frequency, that is, the frequency of sound or vibration to which
+the cell is most sensitive. In the bullfrog, this ranges from 80 to 160 Hz and in the turtle
+from 100 to about 700 Hz.
+Hudspeth and Lewis (1988a,b) used the patch-clamp technique to identify the biophysical
+mechanism responsible for this resonance. They characterized two key currents, a noninac-
+tivating calcium current /ca, and a calcium- and voltage-dependent potassium current /K(Ca)
+(which they modeled using a linear, five-state kinetic scheme that requires two intracellular
+Ca2+ ions for the channel to open, and a third Ca2+ ion that can prolong the channel
+opening; Hudspeth and Lewis, 1988a). Using a Hodgkin-Huxley-like model, which also
+incorporates the capacitive and leak currents, they showed that electrical tuning could be
+explained in its majority by the interdependence of these currents (Hudspeth and Lewis,
+1988b). Injection of a step current depolarizes the membrane, activating /ca. Calcium ions
+rush in and rapidly turn on /K(Ca) • This outward current then brings the membrane potential
+down again, turning itself off in the process. If the current step persists, the cycle can now
+begin anew. Varying the kinetics and the density of the calcium-dependent calcium channels
+controls the frequency of resonance.
+The input to hair cells is provided by activation of the mechanically sensitive cilia
+(hairs) that modulate a conductance in their membrane. If this conductance is included in
+the model and stimulated using sinusoidally varying acoustical input, the resulting tuning
+curve (Fig. 10.9B) closely mimics the electrical resonance frequency around the resting
+potential. We conclude that in the amphibian cochlea, hair cells behave like small electrical
+resonant elements—bandpass filters— whose tuning properties are due to the interplay of
+an inward and an outward current. Note that Hudspeth and Lewis (1988b) used a nonlinear
+model to explain the electrical resonance. Previous efforts to model hair cells using RLC
+circuits as described above (Crawford and Fettiplace, 1981; Art and Fettiplace, 1987) did,
+however, capture most of the qualitative aspects of these oscillations.
+Have such resonating neuronal elements been found anywhere else? Llinas, Grace, and
+Yarom (1991), recording in layer 4 neurons in the cortical slice preparation, found that a
+constant current step evoked subthreshold oscillations in the 10-50 Hz frequency range.
+Because these cells are small, with smooth and aspiny dendrites, Llinas and coworkers
+argue that they are inhibitory interneurons. In contradistinction, other neurons in the cortex,
+termed chattering cells, show an oscillatory firing pattern in the 20-70 Hz band in response
+to visual stimuli or suprathreshold current injection, but no such oscillatory changes in the
+membrane potential in response to subthreshold current injections (Gray and McCormick,
+1996). The function of these oscillations is at present not known, although much has been
+speculated on this topic (for an overview, see Koch, 1993).
+10.5 Recapitulation
+Although it can be argued that a linear analysis of a nonlinear phenomenon does not do justice
+to it, it will certainly help us to understand certain aspects of the mechanism underlying
+the phenomenon. This is true when considering certain resonant or oscillatory behaviors
+evident in nerve cells.
+
+
+===== Page 15 =====
+246 
+• 
+LINEARIZING VOLTAGE-DEPENDENT CURRENTS
+Fig. 10.9 ELECTRICAL RESONANCE IN HAIR CELLS 
+Hair cells in the cochlea of amphibians
+behave like electrical band-pass elements, preferentially responding to an acoustic stimulus of a
+particular frequency. (A) Membrane potential recorded in a solitary hair cell of the bullfrog (Hudspeth
+and Lewis, 1988b). Upon injection of a 50-msec-long current step, the membrane responds by
+generating exponentially damped oscillations whose frequency varies with the membrane potential.
+The frequency (93 Hz) around the resting potential (—49 mV) determines the frequency of sound
+or vibration the cell is most sensitive to. As the average membrane potential increases to —41 mV
+(by using larger current steps, whose amplitude is indicated to the right of each trace), the frequency
+of the damped oscillations increases to 240 Hz. Reprinted by permission from Hudspeth and Lewis
+(1988b). (B) The acoustic stimulus couples to a mechanically triggered membrane conductance. If
+this conductance is added to a model that includes a calcium and a calcium-dependent potassium
+current, it is sufficient to explain the resonant property of isolated hair cells. Here the peak-to-peak
+amplitude of the receptor potential in response to a sinusoidal ±20-nm displacement of the hair bundle
+is plotted as a function of the stimulus frequency. Thus, each individual cell acts like a bandpass
+element, here optimally sensitive to input around 112 Hz. Reprinted by permission from Hudspeth
+and Lewis (1988b).
+
+
+===== Page 16 =====
+10.5 Recapitulation 
+• 247
+As Detwiler, Hodgkin and McNaughton (1980) pointed out, a time- and voltage-
+dependent potassium current that is activated by depolarization or an inward current that is
+activated by hyperpolarization (as the h part of the fast sodium current) does behave, under
+certain restricted conditions, like an inductance in series with a conductance would. That
+is, one can mimic the small-signal behavior of such a current by an electrical circuit that
+includes such an inductance. This explains why EPSPs or the depolarization in response to
+even very small current injections will be followed by a hyperpolarizing overshoot (provided
+the experimental setup is sensitive enough to record such small voltages superimposed onto
+the background noise). The membrane impedance of a membrane that includes resistances,
+capacitances, as well as phenomenological inductances (RLC circuit) peaks at some
+nonzero resonant frequency /max- Such a quasi-active membrane with a bandpass response
+will cause the membrane potential to show damped oscillations at or close to the resonant
+frequency /max in response to a current step. This has been confirmed empirically when
+recording the response of the squid giant axon to small, subthreshold current steps.
+One consequence of a bandpass-like membrane impedance is that the transfer impedance
+and the frequency-dependent space constant associated with an infinite cable covered by
+such a quasi-active membrane can also show resonant behavior. This implies that input
+signals with frequencies around /max are treated preferentially in terms of a smaller voltage
+attenuation to the soma (or other measures of synaptic efficiency) than inputs at faster or
+slower frequencies: the cable is spatio-temporally tuned to some frequency range. If the
+transfer impedance of a cable with a quasi-active membrane can be approximated by a
+bandpass, injecting a current whose dominant signal content lies in the spectrum between
+dc and /max induces a voltage change that approximates the continuous temporal derivative
+of the injected current. In other words, a small piece of quasi-active dendritic cable can
+implement a temporal derivative operation.
+Hudspeth and Lewis (1988b) used a nonlinear, squid axonlike membrane description of
+a calcium and a calcium-dependent potassium current (in series with leak and capacitive
+currents) to model the electrical behavior of bullfrog hair cells in the cochlea. Confirming
+earlier linear RLC analyses, each hair cell by itself acts as an electrical resonant element
+best tuned to respond to sounds in the /max frequency band. The kinetics and density of
+^K(Ca) control /max as well as the tuning of the bandpass. The morale is that individual
+neurons can implement a variety of different linear and nonlinear computational operations
+on the basis of the cornucopia of known membrane currents.
+
+

@@ -1,0 +1,1027 @@
+===== Page 1 =====
+SYNAPTIC INTERACTIONS IN
+A PASSIVE DENDRITIC TREE
+Nerve cells are the targets of many thousands of excitatory and inhibitory synapses. An
+extreme case are the Purkinje cells in the primate cerebellum, which receive between one
+and two hundred thousand synapses onto dendritic spines from an equal number of parallel
+fibers (Braitenberg and Atwood, 1958; Llinas and Walton, 1998). In fact, this structure has
+a crystalline-like quality to it, with each parallel fiber making exactly one synapse onto
+a spine of a Purkinje cell. For neocortical pyramidal cells, the total number of afferent
+synapses is about an order of magnitude lower (Larkman, 1991). These numbers need
+to be compared against the connectivity in the central processing unit (CPU) of modern
+computers, where the gate of a typical transistor usually receives input from one, two, or
+three other transistors or connects to one, two, or three other transistor gates.' The large
+number of synapses converging onto a single cell provide the nervous system with a rich
+substratum for implementing a very large class of linear and nonlinear neuronal operations.
+As we discussed in the introductory chapter, it is only these latter ones, such as multiplication
+or a threshold operation, which are responsible for "computing" in the nontrivial sense of
+information processing.
+It therefore becomes crucial to study the nature of the interaction among two or more
+synaptic inputs located in the dendritic tree. Here, we restrict ourselves to passive dendritic
+trees, that is, to dendrites that do not contain voltage-dependent membrane conductances.
+While such an assumption seemed reasonable 20 or even 10 years ago, we now know that
+the dendritic trees of many, if not most, cells contain significant nonlinearities, including
+the ability to generate fast or slow all-or-none electrical events, so-called dendritic spikes.
+Indeed, truly passive dendrites may be the exception rather than the rule in the nervous
+1. The reason for this very small/«rt-/« and fan-out is that each additional gate whose parasitic capacitance needs to be charged
+up increases the signal propagation delay between consecutive stages, slowing down how last the clock can operate. Since the
+clock speed is one of the most important determinants of performance of the final chip, convergence as well as divergence are kept
+to a minimum. The situation is quite different for random access memory circuits. For example, in a 64-Mbit DRAM (dynamic
+random access memory), the fan-in and fan-out associated with the switching transistor at each memory location is approximately
+8192. The time taken to charge the large interconnect capacitance that dominates these circuits is reduced through the use of
+regenerative amplifiers and buffers.
+117
+5
+
+
+===== Page 2 =====
+118 
+• 
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+system. We will take up the theme of active dendrites and outline their putative role in
+computation in Chap. 19.
+The voltage change in a passive tree in response to two or more current injections is given
+by the sum of the voltages induced by the individual current inputs. This linearity between
+current and voltage is expressed in the cable equation and is the basis for using input and
+transfer impedances to completely charter the behavior of this system. In the absence of any
+nonlinearity, no true information processing operations can occur. However, as we keep on
+emphasizing, a synaptic input acts to change the membrane conductance (in series with a
+battery), implying that the change in membrane voltage caused by two or more synaptic
+inputs is not the sum of the voltages induced by the individual synaptic inputs. It has not
+escaped the attention of theoreticians that this nonlinearity could be used to implement a
+type of multiplication (Blomfield, 1974; Srinivasan and Bernard, 1976; Poggio and Torre,
+1978, 1981; Torre and Poggio, 1978).
+In the following section, we describe the nonlinear interaction between excitation and
+inhibition, which has received particular scrutiny in the literature. In the second part of this
+chapter, we focus on the multiplicative-like interaction among large numbers of voltage-
+dependent NMDA synaptic inputs. The example discussed here is the most plausible
+instance of a higher level operation, in this case storing and discriminating complex patterns,
+implemented using a biophysically very detailed model of a nerve cell. The last section
+focuses on the important topic of synaptic microcircuits (Shepherd, 1972,1978), that is, very
+small and specific arrangements of synapses between particular neurons. Such microcircuits
+usually involve so-called dendro-dendritic synapses among two dendrites and are thought
+to subserve very specific computations.
+5.1 Nonlinear Interaction among Excitation and Inhibition
+In Sec. 1.5, we studied this interaction for the membrane patch model. With the addition
+of the dendritic tree, the nervous system has many more degrees of freedom to make use
+of, and the strength of the interaction depends on the relative spatial positioning, as we will
+see now. That this can be put to good use by the nervous system is shown by the following
+experimental observation and simple model.
+5.1.1 Absolute versus Relative Suppression
+For an animal, it is often necessary to suppress certain behaviors completely, while under
+other conditions the threshold for initiating a behavior should only be elevated but not
+prevented altogether. Vu and Krasne (1992) study how these two operations can be imple-
+mented in the same neuron for the tail-flip escape response in the crayfish. Here, as indeed
+in any other animal, during the execution of the escape reflex propelling the animal away
+from a potential dangerous situation, no additional escape behavior should be initiated. The
+neuronal influence responsible for this absolute suppression is called recurrent inhibition.
+While the crayfish is feeding or otherwise engaged, the escape reflex becomes more difficult
+to initiate. This suppressive influence, termed tonic inhibition, can be overridden in the
+presence of a strong enough stimulus.
+The escape response is mediated by a pair of lateral giant command (LG) neurons. On
+the basis of intracellular recordings, Vu and Krasne (1992; see also Vu, Lee, and Krasne,
+1993) correlate these two types of suppression with distal (tonic inhibition) and proximal
+
+
+===== Page 3 =====
+5.1 Nonlinear Interaction among Excitation and Inhibition 
+• 
+119
+(recurrent inhibition) inhibitory inputs onto the dendritic tree of the LG cell (Fig. 5.1). Since
+it is known that the excitation mediating the escape reflex is distal from the spike-initiating
+zone, Vu and his colleagues use the two compartment circuits shown in Fig. 5.1 A and B to
+model the two forms of inhibition (here by assuming that the GABA-mediated inhibition
+is of the silent or shunting type with Ef — 0). In both cases, excitation is spatially removed
+from the output of the circuit. For "proximal inhibition," the inhibitory conductance change
+is located at the output (close to the soma), while for "distal inhibition," excitation and
+inhibition are both colocalized in the distal compartment. Vu and Krasne point out that
+in the former case, inhibition always reduces the EPSP by some amount, no matter how
+strong excitation is. This, they argue, is the manifestation of absolute suppression in the
+sense that no matter the level of excitation, the EPSP—and therefore the behavior—will
+be suppressed. Quite a different behavior is observed for distal inhibition: any amount of
+inhibition can always be overcome by more excitation, that is, the system demonstrates
+relative suppression. They argue that any behavior that needs to be suppressed no matter
+what the circumstances should use synaptic inhibition that is close to the soma (absolute
+suppression). Conversely, if the threshold for initiating a behavior needs to be elevated—
+without abolishing it altogether—distal synaptic inhibition is required.
+Let us follow Vu and Krasne (1992) and reduce the neuron to but two compartments,
+one proximal and one distal to the spike initiation zone. To understand the principle of the
+spatial interaction we will further assume that the time course of synaptic input is slow
+compared to the membrane time constant and that inhibition is of the shunting type (that
+is, Et =0). Let us first analyze the case when inhibition is proximal, here in the somatic
+compartment (Fig. 5.1 A). Following Kirchhoff's current law, which stipulates that the sum
+of all currents flowing into a node must be zero, we can write for the compartment proximal
+or close to the spike triggering zone,
+(5.1)
+and for the dendritic compartment,
+(5.2)
+After a few algebraic manipulations, we arrive at an expression for the proximal depolar-
+ization,
+(5.3)
+The amplitude of the EPSP as a function of ge for various settings of inhibition is plotted in
+Fig. 5.1 A. What is apparent is that a fixed amout of inhibition at the output, that is, the soma,
+can reduce the EPSP amplitude, no matter what the level of excitation ge. This absolute
+dependency on g, readily becomes apparent in the limit of large excitatory inputs,
+(5.4)
+Repeating the same analysis for the case that excitation and inhibition are colocalized in
+the distal compartment leads to
+(5.5)
+
+
+===== Page 4 =====
+120 
+. 
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+Fig. 5.1 RELATIVE VERSUS ABSOLUTE SUPPRESSION 
+An important distinction exists between
+inhibition, which can partially suppress an excitatory input (relative suppression), and inhibitory input,
+which cannot be overridden by excitation, no matter what its amplitude (absolute suppression). These
+different types of inhibition were demonstrated by Vu and Krasne (1992) in the case of the tail-flip
+escape behavior in the crayfish. Two circuits emphasize the relative placement of excitation (with an
+associated conductance change ge in series with Ee = 100 mV) in the periphery and shunting inhibition
+(of amplitude g,- and Ei = 0) in either the proximal (A) or the distal (B) compartment (see Eqs. 5.3 and
+5.5). The curves were generated using a variable amount of inhibition (0,0.2,0.5,1,2, and 5 from top to
+bottom in units of geRj). No matter how large the excitatory input, proximal inhibition can reduce the
+peak potential in a graded manner (absolute suppression). This is not true if excitation and inhibition
+are colocalized, where excitation can always overcome the inhibition, providing a substrate for relative
+suppression. (C) Part of the neurobiological circuitry underlying the escape reflex. Excitatory inputs
+onto the dendrites of the lateral giant (LG) command neuron mediate the reflex. It can be partially
+suppressed by so-called tonic inhibition (TI), which is inferred to be in the distal dendritic tree. The
+escape reflex can be completely abolished by recurrent inhibition (RI), which is thought to synapse close
+to the spike trigger zone. SIZ demarcates the spike initiating zone. (D) Another prediction concerns
+the relative amount of attenuation (the F factor of Eq. 5.14) for small (that is, small ge value; solid
+bars) and large (large ge value; open bars) EPSPs for distal inhibition. The model predicts that smaller
+EPSPs should be associated with a larger reduction (larger F values) than larger EPSPs, as borne
+out by this data from eight different animals. For proximal inhibition, the F factor should depend
+only weakly on ge (see upper left panel). Reprinted in modified form by permission from Vu and
+Krasne (1992).
+
+
+===== Page 5 =====
+5.1 Nonlinear Interaction among Excitation and Inhibition 
+• 
+121
+Although similar to Eq. 5.3, a crucial difference emerges in the limit,
+(5.6)
+For any fixed level of inhibition, excitation can always override its effect (relative inhibition;
+Fig. 5. IB). If excitation and inhibition are not located close to each other, things are different
+since the local potential saturates at Ee, placing a cap on the amount of current the excitatory
+input can deliver to the soma. Because of this saturation, inhibition will always be able to
+reduce the total amount of current delivered to the soma. This would not be true if the
+synaptic input were to behave as a constant current source, since for ge -> oo, an infinite
+amount of depolarizing current would flow to the soma, dominating any loss of current via
+inhibitory synapses.
+5.1.2 General Analysis of Synaptic Interaction in a Passive Tree
+We have seen how treating a neuron as more than a single spatial compartment enhances
+its computational power. Let us now analyze the general theory of nonlinear synaptic
+interactions in a dendritic tree using two-port analysis developed in Chap. 3 (Koch, Poggio,
+and Torre, 1982).
+A word of warning. The theory developed here assumes that the cell operates in
+its subthreshold domain, where no action potentials are generated. As discussed more
+fully in Chap. 18, modeling the effect of synaptic interaction on a cell's firing rate can
+yield surprising results quite different from those in the subthreshold domain (Holt and
+Koch, 1997).
+We assume a constant excitatory input at location e (of amplitude ge > 0 and battery
+Ee > 0) and a constant inhibitory conductance change at location i (of amplitude g,- > 0
+and battery E, < 0; see Fig. 5.2). We neglect the time-dependent aspects of this problem, a
+simplification that allows us to use the input and transfer resistances described in Sec. 3.4,
+expressing the change in membrane potential as the sum of the currents contributed by the
+two synapses. At synapse e the synaptic current Ie = ge(Ee — Ve) will flow, and at location
+i the current /, — g, (£, — V;). The composite postsynaptic potential at location e is given
+by the synaptic current at e multiplied by the input resistance Kee plus the synaptic current
+at i times the transfer resistance between i and e, Ket,
+(5.7)
+or,
+(5.8)
+Likewise, for the voltage change at location i we have
+(5.9)
+where we exploit the symmetry property Kfe — Kei. Finally, the potential at the soma is
+given by
+(5.10)
+Notice that the voltage is always specified as the product of the appropriate input or transfer
+resistance and the synaptic current and that the input and transfer resistances are computed in
+the absence of any synaptic input. Solving these three algebraic equations is straightforward,
+resulting in the following expression for the somatic potential:
+
+
+===== Page 6 =====
+122 • 
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+Fig. 5.2 INTERACTION AMONG AN EXCITATORY AND AN INHIBITORY SYNAPSE 
+How does the
+interaction between an excitatory synapse (at location e) and an inhibitory synapse (at i) in a passive
+dendritic tree depend on their spatial positions? And what role do the synaptic architecture and the
+dendritic morphology play? In general, the potential at the soma s is not simply the sum of the
+individual IPSP and EPSP but can be much less. If the inhibition is of the shunting type, with a
+reversal potential close to the resting potential of the cell, inhibition by itself leads to no significant
+potential change while still being able to veto the EPSP, as long as the inhibitory synapse is either
+close to the excitatory one or "on the direct path" between excitation and the soma s (shaded area).
+The effectiveness of shunting inhibition drops substantially outside this zone.
+(5.11)
+with
+Whether the somatic potential is positive or negative, that is, whether it corresponds to an
+EPSP or to an IPSP, depends on the relative magnitude of the two contributions.
+In order to arrive at a qualitative picture of the behavior of the system, let us assume
+that the conductance inputs ge and g, are small, such that geKee <g 1, giKu <& I, and
+gegiK* -C 1, and that higher than second-order terms in ge and g; can be neglected (e.g.,
+gl & 0 and geg? & 0, etc.). Similarly to Eq. 4.14, we can use the Taylor series expansion
+of Eq. 5.11 to arrive at
+(5.12)
+The three components in the first bracket are a shorthand version of the currents flowing at
+locations e that are propagated to the cell body, and the three currents in the second bracket
+are propagated from the site of inhibition to the soma. Ie is the current generated under
+the assumption that the driving potential remains unperturbed (that is, Ee — Ve & Ee). Iee
+"corrects" the first term by approximating the driving potential as the difference between
+
+
+===== Page 7 =====
+5.1 Nonlinear Interaction among Excitation and Inhibition 
+• 
+123
+Ee and the voltage change KeegeEe associated with the first term. Iei results from the
+interaction between the two synapses. It can be interpreted as follows: the first-order
+approximation to the inhibitory current is g, E,, causing an IPSP at e of amplitude Kiegi Et,
+which will affect the driving potential at e. The appropriate correction current is given by
+the IPSP multiplied by the local conductance change —geKiegi E,. By analogy, the currents
+at the site of the inhibition can likewise be explained by the superposition of a zero-order
+current plus the first two correction terms.
+5.1.3 Location of the Inhibitory Synapse
+So far we did not discuss any specific spatial arrangements between excitation and inhibition.
+We are interested in finding the location where synaptic inhibition can be maximally
+effective in reducing the amplitude of the excitatory input. Specifically, given an excitatory
+synapse (of amplitude ge and battery Ee) at location e, where should the inhibitory synapse
+(of amplitude g, and battery £,) be located such that it maximally reduces the EPSP?
+This question was the subject of an investigation into the relationship between synaptic
+architecture and dendritic morphology (Koch, Poggio, and Torre, 1982,1983). It is tedious
+but straightforward (Koch, 1982) to prove the following:
+On-the-path theorem. For arbitrary values of ge > 0, gj > 0, Ee > 0, andEi < 0,
+the location where inhibition is maximally effective is always on the direct path from
+the location of the excitatory synapse to the soma (Fig. 5.2).
+Where exactly the optimal location is on this path depends on the details of the system
+and can shift from the location of the excitatory synapse to somewhere on the path to the
+cell body. As inhibition is moved toward the soma, its specificity decreases, since the same
+inhibition now reduces not only the EPSP coming from synapse e but also those from other
+locations. This is most pronounced at the soma, where an excitatory input anywhere in the
+dendritic tree will be attenuated. Thus, mapping synaptic architecture onto the dendritic
+morphology can give rise to different classes of computations.
+Three useful properties concerning the optimal location of inhibition (see also Jack,
+Noble, and Tsien, 1975; Rail, 1967, 1970) that are valid for stationary conductance inputs
+in arbitrary, passive dendritic trees are:
+1. For small synaptic inputs ge and g,-, the most relevant parameter is the distance between
+the two synapses. It makes only little difference whether inhibition is behind (with respect
+to the cell body) excitation or on the path. The strength of the interaction among synapses
+decreases as the amplitudes of the conductance changes are decreased.
+2. As ge increases while gi remains constant, the optimal location of inhibition moves
+along the direct path toward the soma.
+3. For very large excitatory inputs (ge -*• oo), all inhibitory synapses located behind the
+excitatory synapse are completely ineffective.
+These properties are a direct consequence of Eq. 5.11, the fact that there exists a unique
+path between any two points in a dendritic tree, and properties of the transfer resistances
+(Sec. 3.4).
+
+
+===== Page 8 =====
+124 
+• 
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+Experimental verification of the specific nature of synaptic inhibition comes from a
+study by Skydsgaard and Hounsgaard (1994) carried out on the large dendritic arbor
+of motoneurons. Using three independent electrodes that can release either glutamate or
+GABA (so-called iontophoresis electrodes) as well as a fourth recording electrode at the
+cell body, they showed in 10 out of 12 experiments a spatially specific reduction in the
+glutamate-induced excitatory response. In other words, the shunting action of GABA was
+primarily effective in reducing the excitatory action of glutamate when the two iontophoresis
+electrodes were close to each other. No or little effect was observed on the response due to
+a more distal glutamate-releasing electrode. This constitutes prima facie evidence for the
+spatial selectivity of shunting inhibition.
+5.1.4 Shunting Inhibition Implements a "Dirty" Multiplication
+Let us consider the specific case when inhibition has a reversal potential close or equal to
+the resting potential of the cell. The GABA^ mediated increase in chloride conductance
+approximates such a shunting inhibition. In this case, the nonlinear interaction between
+excitation and inhibition is most pronounced, because activation of the inhibition by itself
+does not cause any change in potential (hence its proper—but rarely used—name of silent
+inhibition), while inhibition during synaptic excitation can greatly reduce the EPSP. For
+small enough inputs Eq. 5.11 reduces to
+(5.13)
+Here the somatic potential is given by two terms in ge in addition to a crossterm involving a
+multiplicative interaction between ge and g,-. Conceptually, one can think of this as a dirty
+or approximate multiplication between two synaptic inputs ge and g,-, with the value of the
+offset (geKes — g^KeeKes) depending in a nonlinear manner on one of the inputs (Poggio
+and Torre, 1978).
+In order to quantify the effectiveness of shunting inhibition, Koch, Poggio, and Torre
+(1982) introduced the F factor as the ratio of the somatic EPSP in the absence of any
+inhibition to the somatic EPSP in the presence of inhibition; the larger this number, the
+stronger the effect of inhibition. On the basis of Eq. 5.11 this can be expressed as
+(5.14)
+where K+ = 0 for inhibition located on the path between e and s. A large F value
+describes an effective inhibition, while 1/F indicates the relative decrease of the somatic
+EPSP by inhibition. As expected, F > 1 for all cases. Table 5.1 illustrates some typical F
+values obtained in a numerical simulation of the effect of inhibition in a retinal ganglion
+cell responding to a single excitatory input at location 1 (Fig. 5.3A). Let us summarize
+these results.
+Effectiveness of Shunting Inhibition
+1. For small synaptic inputs the on-the-path effect is weak and the strength of the inter-
+action depends mainly on the distance between excitation and inhibition. Under these
+conditions, all locations close to the excitatory synapse are equally effective in reducing
+excitation.
+
+
+===== Page 9 =====
+5.1 Nonlinear interaction among Excitation and Inhibition
+125
+Fig. 5.3 SPATIO-TEMPORAL SPECIFICITY OF SYNAPTIC INTERACTION Effectiveness of shunting
+inhibition (Ej = Vrest) in vetoing an EPSP in a retinal ganglion cell. (A) Excitation is always at location
+1, while the position of the inhibitory synapse varies. The cell's morphology was reconstructed based
+on Golgi material from Wassle, Illing, and Peichl (1979). (B) The time course of the excitatory and
+the inhibitory conductance changes reflects the slow retinal dynamics (Baylor and Fettiplace, 1979),
+with identical time courses but different peak conductance changes (10 nS for excitation and 100 nS
+for inhibition). (C) The F factor, that is, the reduction in the peak somatic EPSP due to inhibition, as
+a function of the delay between the onset of ge(t) and gt(t). The strength of the interaction (see also
+Table 5.1) is specific in space and time. This result holds over a large parameter range. In particular,
+Rm (here set to 14,000 Q • cm2) can be increased over several orders of magnitude. Reprinted by
+permission from Koch, Poggio, and Torre (1983).
+
+
+===== Page 10 =====
+126
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+{
+  "table_name": "TABLE 5.1",
+  "description": "Effectiveness of Shunting Inhibition",
+  "columns": ["Inhibition", "ge = 1, gi = 1", "ge = 1, gi = 10", "ge = 1, gi = 100", "ge = 10, gi = 100"],
+  "rows": [
+    {"Inhibition": "3", "ge = 1, gi = 1": 1.16, "ge = 1, gi = 10": 2.06, "ge = 1, gi = 100": 3.43, "ge = 10, gi = 100": 1.96},
+    {"Inhibition": "1", "ge = 1, gi = 1": 1.17, "ge = 1, gi = 10": 2.70, "ge = 1, gi = 100": 1.80, "ge = 10, gi = 100": 7.72},
+    {"Inhibition": "2", "ge = 1, gi = 1": 1.14, "ge = 1, gi = 10": 2.40, "ge = 1, gi = 100": 15.00, "ge = 10, gi = 100": 8.72},
+    {"Inhibition": "4", "ge = 1, gi = 1": 1.12, "ge = 1, gi = 10": 1.72, "ge = 1, gi = 100": 2.47, "ge = 10, gi = 100": 1.87},
+    {"Inhibition": "5", "ge = 1, gi = 1": 1.08, "ge = 1, gi = 10": 1.46, "ge = 1, gi = 100": 1.84, "ge = 10, gi = 100": 1.62},
+    {"Inhibition": "s", "ge = 1, gi = 1": 1.11, "ge = 1, gi = 10": 2.06, "ge = 1, gi = 100": 11.57, "ge = 10, gi = 100": 9.18}
+  ]
+}
+
+F values, describing the effectiveness of shunting inhibition in reducing a somatic EPSP, for stationary synaptic inputs
+in the retinal ganglion cell model of Fig. 5.3A. The excitatory synaptic input ge (with Ee = 80 mV relative to Vrest) is
+always at location 1, while inhibition gi is either located behind excitation (3), at the same location as excitation (1),
+between excitation and the soma (2), in abranch just off the path (4), in a very different part of the tree (5), or at the soma
+(s). The amplitudes of ge and #,- are in nanosiemens. The somatic EPSP in the absence of any inhibition for ge = 1 nS
+is 6.56 mV. Km = 14, 000 Q • cm2 and K; = 70 £2-cm. From Koch (1982).
+2. If the two synapses coincide anywhere in the dendritic tree (i = e), F reduces to
+(5.15)
+This is also the F factor obtained when dealing with a patch of passive membrane in the
+presence of two synapses (if we identify R with KH). The difference between Eqs. 5.14
+and 1.34 (or 5.15) is due to the spatially distributed tree. As discussed in Sec. 5.1.1,
+excitation can always overcome the effect of fixed but large inhibition.
+3. If the amplitude of inhibition is above a critical value (about 50 nS in the case of the
+retinal ganglion cell simulation; Koch, Poggio, and Torre, 1983), F values can be quite
+high (2-8), even if the excitatory input is much larger than the inhibitory one, as long as
+the inhibition is between excitation and the soma. Comparing this against the F factor
+obtained in a lumped circuit model (Eq. 5.15), we ascertain that these high F values are
+due to the cable properties of the tree. Inhibition behind excitation or on a neighboring
+branch (about 10 or 20 /j,m for the retinal ganglion cell considered here) off the direct
+path is ineffective in reducing excitation significantly.
+4. The specificity for high values of gi persists even for very large values of the membrane
+resistivity, when the cell is relatively compact (in terms of electrotonic distance or of
+the logarithm of the voltage attenuation L"). For instance, for Rm — 1 M£2 • cm2,
+the electrotonic size of the ganglion cell in Fig. 5.3A shrinks to 0.03A. and its input
+resistances increase to over 1 GSl. Yet for ge = 10 nS and g, = 100 nS, we obtain
+F = 10.5, 14.5, 21.0, 2.4, 2.7, and 2.7 for inhibition at the location of excitation (1),
+on the path (2), at the cell body (s), behind excitation (3), on a neighboring branch (4),
+and in a different part of the tree (5; Fig. 5.3A). These effects can be visualized with
+the aid of a loose analogy between dendrites and water pipes and reservoirs. Shunting
+inhibition corresponds to opening a hole in a pipe which is coupled to a water reservoir
+with the same pressure as in the quiescent pipe system. If this hole is between the site
+where water is being injected and the central pool, it is clear that more water will leave
+the hole on its way to the large somatic sink than if the hole were to be opened upstream
+from excitation.
+
+
+===== Page 11 =====
+5.1 Nonlinear Interaction among Excitation and Inhibition 
+• 
+127
+We conclude that if gi is large enough, the on-the-path condition becomes very specific
+such that blocking an EPSP is only possible if inhibition is either in the close neighborhood
+of the excitatory synapse or between excitation and the cell body. Rail (1964) observed
+earlier that in a single unbranched cable, shunting inhibition effectively vetoes more distal
+but not more proximal excitation.
+Temporal Specificity
+So far we only considered the case of stationary synaptic inputs. In the general time-
+dependent case, the algebraic Eqs. 5.8-5.10 are replaced by integral equations,
+(5.16)
+Typically, these equations are solved numerically (Segev and Parnas, 1983; Koch, Poggio,
+and Torre, 1983). The efficacy of inhibition is characterized by a slight generalization of the
+F factor of Eq. 5.14 (F is defined as the ratio of the peak amplitude of the somatic EPSP
+without inhibition to the peak of the somatic EPSP in the presence of inhibition).
+Figure 5.3 shows the dependency of F on the relative timing between the onset of
+excitation and inhibition. Negative delays correspond to inhibition preceding excitation,
+while positive delays are associated with inhibition following excitation. As can be seen, the
+specificity of shunting inhibition in vetoing EPSPs generalizes from space to time: on-the-
+path inhibition can effectively veto excitation if it occurs within about 10 msec of the onset
+of excitation, about two-thirds of the membrane time constant. As we discussed in Sec. 3.6,
+the local delay DU (Agmon-Snir and Segev, 1993) specifies the window during which
+synaptic inputs can interact with each other. Different locations have different temporal
+windows associated with them (e.g., Fig. 3.13), allowing for an operationalized definition
+of what is meant by two simultaneous inputs.
+The delay between the onset of excitation and optimal inhibition increases with increasing
+distance between the two synapses, as expected from the definition of the propagation delay
+in Eq. 2.51.
+Decreasing the duration of inhibition below that of excitation decreases its effectiveness,
+in some cases dramatically. In no case did the F factor for transient inputs exceed the F
+factor for the corresponding stationary case. That is, inhibition appears to be at its most
+effective if temporal effects can be discounted.
+Figure 5.3 demonstrates the on-the-path effect very vividly. Locating inhibition between
+the site of the excitatory synapse and the soma can shunt the somatic EPSP by a maximal
+factor of 9, while moving inhibition beyond excitation (approximately conserving the
+distance between the two synapses) renders inhibition much less effective, with the F factor
+dropping to 1.3 (a reduction of about 7). Yet this specificity only occurs in the presence of
+large conductance changes, possibly outside the physiological range (see Table 5.1), and
+becomes much less pronounced for smaller values of g,, when the interaction depends more
+on the distance between excitation and inhibition.
+In summary, the veto effect of inhibition can be strong and specific with respect to spatial
+location and relative timing provided the following requirements are fulfilled: (1) inhibition
+must have a reversal potential close to the resting potential of the cell, (2) inhibition should
+be close to excitation or on the direct path between excitation and the cell body, (3) peak
+
+
+===== Page 12 =====
+128 
+. 
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+inhibition must be large enough, and (4) inhibition must last (at least) as long as excitation
+and their time courses should overlap substantially.
+5.1.5 Hyperpolarizing Inhibition Acts Like a Linear Subtraction
+As we saw, in the limit of small synaptic inputs (ge Kee <$C 1 and gt Kit <g 1), the action of
+shunting inhibition on excitation can be characterized as a multiplication with an offset. Even
+though the interaction between hyperpolarizing inhibition, such as the GABAg complex,
+which increases the postsynaptic potassium conductance (reversing close to —100 mV),
+and excitation also contains such multiplicative effects, it is more linear due to the direct
+contribution the hyperpolarizing battery makes toward the membrane potential. Inspection
+of Eq. 5.12 reveals that the first two terms in Kis are proportional to the reversal potential
+of the inhibitory synapses. The more negative the inhibitory reversal potential (relative to
+Vrest), the more these terms will dominate and the more the overall operation will resemble
+a linear subtraction.
+A physiological instance of such a subtractive inhibition that can be linked to a specific
+computation occurs in the fly's motion detection system. Hassenstein and Reichardt (1956;
+Reichardt, 1961) first suggested that the key mechanism underlying the optomotor response
+of insects to moving stimuli is mediated by a correlation-like operation. In this scheme, the
+output from one receptor is multiplied by the temporally delayed (e.g., low-pass filtered)
+output from a neighboring receptor and then temporally averaged. The component that is
+direction selective can be extracted from the component that is independent of the direction
+of motion by subtracting the output of two mirror-symmetric pairs of Reichardt detectors
+from each other.
+A computational analysis (Egelhaaf, Borst, and Reichardt, 1989) of this system predicts
+that as the subtraction stage between oppositely oriented motion detectors is blocked, the
+power of the second-order component of the membrane potential in the cellular output
+stage increases. Experiments with picrotoxin, a blocker of GABA/i receptors, confirm this
+(Egelhaaf, Borst, and Pilz, 1990). Intracellular recordings from large tangential cells in the
+lobula plate in the blowfly in combination with pharmacological blockers show that the
+excitatory input is mediated by fast cholinergic synapses while the subtraction relies on
+GABAergic synapses that reverse between —70 mV and —80 mV (Borst, Egelhaaf, and
+Haag, 1995; Brotz and Borst, 1996). A stable resting potential around -50 mV (Fig. 5.4)
+gives the membrane enough maneuvering room in both directions to implement a linear
+operation of importance to optomotor behavior in flies.
+5.1.6 Functional Interpretation of the Synaptic Architecture
+and Dendritic Morphology: AND-NOT Gates
+The specificity of the interaction between excitation and shunting or silent inhibition
+provides in principle the substrate for implementing different classes of analog computations
+in different dendritic trees. This situation is portrayed in a highly idealized but suggestive
+manner in Fig. 5.5 using a logical metaphor (Koch, Poggio, and Torre, 1982), bearing in
+mind that these interactions are continuous and not all or none.
+In an unbranched cable (Fig. 5.5A), input /1 can inhibit more distal excitatory input e\, €2
+and £3, while inhibition ij, can only significantly affect e^. If we adopt the logic AND-NOT
+all-or-none operation to characterize this interaction (an output only occurs in the presence
+of excitation and no inhibition), such a cable implements the logic expression
+
+
+===== Page 13 =====
+5.1 Nonlinear Interaction among Excitation and Inhibition
+129
+Fig. 5.4 LINEAR SUBTRACTION IN THE MOTION PATHWAY OF THE FLY Intracellular recording
+from a VS cell in the third optic ganglion of the blowfly Calliphora during motion of a whole-
+field grating. This stimulus is moved for 1 sec in the preferred (first black bar) and for 1 sec in the
+cell's opposite, null direction (second black bar) past the fly. The resting potential is stable around
+—50 mV, explaining the more or less symmetric response pattern driven by opposing pairs of Reichardt
+correlation detectors (Borst, Egelhaaf, and Haag, 1995). Excitation is mediated by fast cholinergic
+and inhibition by GABAergic synaptic input onto this cell. Unpublished data from J. Haag and A.
+Borst, printed with permission.
+(5.18)
+[e-} AND-NOT (i\ OR 1*2 OR ^3)] OR \Ci AND-NOT (z'l OR Z^)] OR (fii AND-NOT z'l) 
+(5.17)
+In other words, the soma receives a significant signal only if e3 is high and not blocked by
+z'i, z-2,or /3,orif e^ is high and not vetoed by eitherz'i orz'2,orifei is high and not vetoed by
+z'i. Due to the on-the-path effect, the more branched dendritic tree in Fig. 5.5B implements
+a different expression,
+I
+Thus, the combination of dendritic morphology coupled with specific synaptic circuits
+conspires to create a rich class of nonlinear operations, with different dendritic trees carrying
+out different computations. These interactions would be based on voltage-independent
+AMPA excitatory synapses and GABA^ inhibitory synapses.
+The "dendritic tree as logic network" metaphor has been a popular concept, which has
+been extended to a number of other biophysical situations and logical operators (Segev and
+Rail, 1988; Shepherd and Brayton, 1987; Shepherd, 1992; Zador, Claiborne, and Brown,
+1992; see Chaps. 12 and 19).
+Yet as succinctly summarized by Mel (1994), this simile can be criticized on several
+grounds. The principal argument against postulating that specific arrangements of individual
+synapses act as logical or analog gates is the great demand that this places on developmental
+processes. In order to achieve the precise type of wiring idealized in Fig. 5.5, some learning
+mechanism has to guide individual synapses to individual branches in the dendritic tree to
+achieve the precise spatial arrangements required. For instance, moving i-j in Fig. 5.5B to
+the adjacent branch significantly changes the associated logical expression. Thus, the great
+specificity of this interaction represents at the same time its own Achilles heel (Mel, 1994).
+
+
+===== Page 14 =====
+130 
+. 
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+Fig. 5.5 IMPLEMENTING AND-NOT LOGIC IN A DENDRITIC TREE 
+Idealized binary view of the
+continuous nonlinear interactions occurring between excitation and shunting inhibition. Inhibitory
+inputs (rectangles) veto more distal excitatory inputs (circles), but have only a marginal effect on inputs
+more proximal to the soma, thereby approximating a logic AND-NOT gate. The two distinct dendritic
+architectures, coupled with specific synaptic wiring, implement very different logical expressions (see
+Eqs. 5.17 and 5.18). Reprinted by permission from Koch, Poggio, and Torre (1982).
+It is possible, of course, that on-the-path effects are exerted not by individual synaptic
+inputs but by groups of synapses, as is the case in the distinction between absolute and
+relative suppression (Vu and Krasne, 1992). This spatially less precise degree of spatial
+interactions places a much reduced burden on developmental processes, since it only
+specifies that inhibitory synapses should be either adjacent to the excitatory ones or in
+a different part of the dendritic tree.
+On biophysical grounds, it is unclear how specific the interaction between excitatory and
+inhibitory synapses actually is. As illustrated in Table 5.1, if the amplitude of the inhibitory
+conductance change is small, little specificity results. Furthermore, during physiological
+conditions, the cell potential may never be at Vrest because the cell receives tonic excitatory
+input. Under these conditions, the distinction between hyperpolarizing and shunting inhi-
+bition is much smaller than we assume here, since both reverse negative to the "effective"
+resting potential.
+5.1.7 Retinal Directional Selectivity and Synaptic Logic
+Directional selectivity of retinal ganglion cells is one example of a complex nonlinear
+operation that appears to use synaptic logic (Koch, Poggio, and Torre, 1986). A subset
+of ganglion cells in the vertebrate retina fire vigorously in response to the motion of a
+spot of light in one direction, the preferred one, but are silent to motion in the opposite,
+
+
+===== Page 15 =====
+5.1 Nonlinear Interaction among Excitation and Inhibition 
+• 
+131
+null, direction. The classical experiments of Barlow and Levick (1965) inferred that
+synaptic inhibition—now known to be GABAergic—plays a critical role by preventing
+the cell from responding in the null direction. More recent work on rabbit ganglion cells
+reveals an additional facilitatory direction-selective component (Grzywacz and Amthor,
+1993).
+A popular model for the biophysical basis of directional selectivity is nonlinear synaptic
+interaction between cholinergic excitation and GABAergic inhibition mediated by GABA^
+receptors in the dendritic tree of ganglion cells (Torre and Poggio, 1978; Koch, Poggio, and
+Torre, 1982, 1983, 1986). Intracellular recordings from turtle and frog direction-selective
+ganglion cells support activation of shunting inhibition in the null direction (Marchi-
+afava, 1979; Watanabe and Murakami, 1984). The very complex dendritic morphology
+of direction-selective ganglion cells (Oyster, Amthor, and Takahashi, 1993) provides an
+ideal substrate for numerous local and nonlinear veto operations of the type schematized
+in Fig. 5.5B.
+Yet in some ganglion cells, direction selectivity is maintained or even reversed in the
+presence of pharmacological blockers of GABA. Patch clamping the dendrites of turtle
+ganglion cells revealed an excitatory input that is already direction selective (Borg-Graham,
+1991b). Furthermore, motion in the preferred direction causes a much larger increase in the
+input conductance than motion in the null direction, in conflict with the models presented
+here, in which the exact temporal relationship between excitation and inhibition shapes the
+postsynaptic response but the total conductance change remains invariant to the direction
+of motion (e.g., Fig. 5.3).
+It thus appears that at least some fraction of the direction-selective response is computed
+presynaptically, most likely in cholinergic neurons possessing a unique dendritic branching
+pattern called starburst amacrine cells (Masland, Mills, and Cassidy, 1984). In the rabbit,
+starburst amacrine cells are well situated to provide synaptic input from their distal dendrites
+to directionally selective ganglion cells via graded, dendro-dendritic synapses (Vaney, Collin
+and Young, 1989). Their distinctive dendritic branching pattern is especially suited for
+local generation of directionally selective outputs, such that directional selectivity could
+be implemented using a combination of nonlinear synaptic interaction and inhibitory
+kinetics that are slower than those for excitation (Borg-Graham and Grzywacz, 1992).
+In the second scheme, excitation is always trailed by a slower inhibitory wave—if the
+activated synaptic input is moving toward a site of synaptic output (in this case a dendritic
+tip), excitation reaches the output before the inhibition catches up. On the other hand,
+if the input is moving away from the output, the inhibition, interposed between the
+excitation and the output, effectively shunts the excitatory current, preventing it from
+depolarizing the output zone (see also Rail, 1964). Yet, biophysical simulations of amacrine
+cells suggest that the nonlinear interaction of excitation and inhibition probably is the
+dominant mechanism generating a direction-selective response under normal conditions
+(Borg-Graham and Grzywacz, 1992).
+The final verdict is not in. It appears likely that even such a simple operation as
+distinguishing the direction of a moving stimulus is implemented using a plurality of
+biophysical mechanisms acting at several sites, some requiring inhibition and some not
+(Amthor and Grzywacz, 1993). Such redundancy might be necessary in the face of demands
+that the circuitry wire itself up during development and retain its specificity in the face of
+a constantly varying environment.
+
+
+===== Page 16 =====
+132 • 
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+5.2 Nonlinear Interaction among Excitatory Synapses
+What about the interaction expected between two excitatory voltage-independent synaptic
+inputs (with synaptic reversal potential Ee and stationary conductance increases g\ and
+gzf! If both synapses are colocalized, the somatic EPSP will be of amplitude
+(5.19)
+In the opposite case, when the two sites 1 and 2 are electrotonically decoupled, that is,
+KYI ~^ 0, the somatic potential is given by
+(5.20)
+Assuming that Kee ~ K\\ ~ £22 and Kes ^ K\_s ^ KIS (that is, 1 and 2 have the
+same electrotonic properties), it is clear that the somatic EPSP is smaller if both synapses
+coincide (Eq. 5.19) than if both are far apart (Eq. 5.20). The same results holds true even
+if the coupling term K\2 is nonzero and transient inputs are considered (Koch, Poggio, and
+Torre, 1982). The reason for this sublinear addition is simply the fact that as the postsynaptic
+potential increases, the amount of current flowing through voltage-independent excitatory
+synaptic channels decreases (Rail, 1977).
+Experimental studies of these predictions have been scant, with the large motoneurons
+providing a favorite preparation. Two earlier studies (Burke, 1967; Kuno and Miyahara,
+1969) had concluded, based on an indirect inference, that excitatory inputs interact sublin-
+early when located somewhere in the distal dendritic tree. In the Skydsgaard and Hounsgaard
+(1994) experiment mentioned, glutamate was applied locally to different parts of the
+dendritic tree of turtle motoneurons from two independent iontophoresis electrodes. At
+the cell's resting potential they observed linear summation at the soma (see also Langmoen
+and Andersen, 1983), which turned supralinear as the membrane was depolarized by the
+recording electrode (most likely due to amplifying voltage-dependent membrane conduc-
+tances). Yet basic biophysics implies nonlinear saturation due to the conductance-increasing
+nature of synaptic input. Is it possible that synaptic saturation is always compensated for
+by voltage-dependent outward currents distributed in the dendritic tree? And if so, why?
+5.2.1 Sensitivity of Synaptic Input to Spatial Clustering
+As emphasized in Chap. 4, in the central nervous system many, if not most, neurons receive
+synaptic input from a mixture of voltage-independent AMPA and voltage-dependent NMDA
+ionotrophic synapses.
+For instance, a major role for NMDA input in cat visual cortex is supported by experi-
+ments that blocked NMDA responses using the pharmacological agent APV. This procedure
+caused the visual response of neurons whose cell bodies are located in the upper three layers
+to be either strongly attenuated or eliminated altogether, while neurons in input layer 4 could
+still be visually activated (Miller, Chapman, and Stryker, 1989; Fox, Sato, and Daw, 1990;
+Daw, Stein, and Fox, 1993). Thus, NMDA distribution is most likely not homogeneous
+but layer specific.
+Such a voltage-dependent excitatory input can implement a multiplicative-like interac-
+tion: while the EPSP produced by a single NMDA synapse might not be strong enough to
+allow current to flow through the associated channels, two or more simultaneously active
+
+
+===== Page 17 =====
+5.2 Nonlinear Interaction among Excitatory Synapses 
+• 
+133
+NMD A inputs could depolarize the potential sufficiently to relieve the Mg2+-mediated
+blockage and lead to a much larger depolarization (Fig. 4.8; Koch, 1987). Motivated by the
+possibility that such interactions can instantiate a specific class of computations underlying
+certain forms of learning, Mel (1992, 1993, 1994; Mel and Koch, 1990; see also Brown
+et al., 1992) initiated a detailed biophysical investigation of synaptic integration in the
+dendritic tree of cortical pyramidal cells on the basis of three different mechanisms: NMDA
+receptors and calcium- and sodium-mediated active dendritic membrane conductances. In
+this chapter we focus on the interaction occurring in a passive dendritic tree among NMDA
+synapses, deferring the more complex set of events that can occur in a dendritic tree with
+voltage-dependent conductances to Sec. 19.3.4.
+The basic question Mel addresses is the following: what is the sensitivity of excitatory
+input to spatial clustering in the postsynaptic neuron? In particular, are spatially adjacent
+synapses in a passive dendritic tree more or less effective than the same number of synapses
+spread throughout the tree?
+To answer these questions, Mel (1992) models the layer 5 pyramidal cell (Fig. 3.7) from
+cat visual cortex with a passive dendritic tree and a cell body that contains the two basic
+Hodgkin and Huxley currents /Na and /K necessary for spike initiation (and which are
+described exhaustively in the following chapter). Mel randomly distributes 100 synapses
+in clusters of k over the entire dendritic tree, like sprinkling salt over food. Figure 5.6
+illustrates this procedure for cluster sizes k — 1 and 7. In the first case 100 synapses
+are placed at random within the dendritic tree, while in the second case clusters of seven
+synapses each (plus one cluster of two synapses) are assigned randomly to 14 locations in
+the tree. In the absence of any NMDA input, each synapse is placed onto a dendritic spine
+and treated as a fast, glutamergic input of the AMPA type. In the alternative case, 90% of the
+postsynaptic conductance increase is of the NMDA type, using the membrane potential and
+time dependence of Eq. 4.6 (Fig. 5.7). The NMDA-mediated synaptic current, the product of
+the driving potential (which decreases for increasing levels of membrane depolarization) and
+the conductance change (which first increases and subsequently saturates with increasing
+Vm), increases to about —30 mV potential, after which it decreases and reverses sign at the
+synaptic reversal potential of 0 mV. The remaining 10% of the synaptic conductance is of
+the AMPA type.
+All synapses (whether belonging to the same cluster or not) are activated independently
+of each other at a mean rate of 100 Hz. As a measure of cell response, Mel considers the
+number of spikes triggered over a 100-msec period. Using the peak somatic potential or the
+time integral of the somatic potential (in the absence of a somatic spiking mechanism) gives
+results that are qualitatively very similar. In the passive cell with voltage-independent inputs,
+the somatic response following activation of 100 synapses randomly located throughout the
+dendritic arbor is much bigger than the response following activation of 10 clusters of 10
+neighboring synapses (Fig. 5.7). Indeed, the former situation triggers four spikes, while the
+latter none (even though here the local response is larger, but, of course, fewer clusters
+contribute toward the somatic excitability).
+If the cell's membrane is endowed with NMDA channels, it will respond selectively
+to patterns of stimulation in which activated synapses are spatially clustered rather than
+uniformly distributed across the tree (Fig. 5.7). The cell fails to spike in response to random
+activation of 100 NMDA "isolated" synapses (firing at 100 Hz), while it fires at an effective
+rate of 20 Hz if the same 100 synapses are clustered in 10 locations (Mel, 1993).
+This preference for spatial clustering as compared to a more uniform synaptic distribution
+for NMDA input is confirmed statistically by generating a large number (either 50 or 100)
+
+
+===== Page 18 =====
+134
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+Fig. 5.6 CELLULAR RESPONSE TO CLUSTERED AND NONCLUSTERED INPUT 
+In the study by Mel
+(1992), the layer 5 pyramidal cell is festooned with 100 fast excitatory synapses that are either spread out
+over 100 randomly selected individual locations (left) or clustered at 14 randomly chosen locations of 7
+synapses each (right). In a passive dendritic tree and in the absence of NMDA input, clustered synaptic
+activity leads to a reduced somatic response compared to the case when synapses are dispersed. For
+synaptic input of the NMDA type, cooperativity exists, such that spatial clustering causes an enhanced
+somatic response. Unpublished data from B. Mel, printed with permission.
+of randomized synaptic distributions of the type shown in Fig. 5.6 and averaging the results
+for cluster sizes ranging between 1 and 15. The effect is clear and unambiguous (Fig. 5.8).
+Due to synaptic saturation, non-NMDA input will always be more effective when spread out
+in space, while the converse is true for NMDA input: as the size of the cluster is increased
+(and even though the number of cluster sites goes down since the total number of synapses
+remains fixed) the cellular response increases. For very large cluster sizes the attenuating
+effects of synaptic saturation begin to offset the excitatory effects of the NMDA voltage
+dependence.
+While the exact shape of the curve in Fig. 5.8B, such as the most effective cluster size,
+depends on the details of the biophysical setting, the overall shape does not. Its convex
+shape is due to cooperativity for small cluster sizes and to synaptic saturation for large
+cluster sizes (that is, the subsynaptic potential approaches the synaptic reversal potential)
+and is extremely robust to parameter variations (Mel, 1992).
+We conclude that due to the voltage dependency of the NMDA receptor complex,
+cooperativity pays off, in the sense that a cluster of adjacent synapses will lead to a larger
+postsynaptic response than if the synapses are randomly distributed throughout the tree.
+As opposed to the more demanding spatial accuracy in positioning excitation and shunting
+inhibition to obtain the AND-NOT effect discussed in Sec. 5.1, cluster sensitivity does not
+depend on the exact positioning of synapses within a cluster. Thus, it places much less
+premium on development mechanisms to carefully "wire" up the synaptic architecture of the
+cell. Mel (1992,1993) made no special assumptions about temporal synchronization among
+synaptic inputs: if input to a cluster arrives as a highly synchronized wave of excitation, it
+
+
+===== Page 19 =====
+5.2 Nonlinear Interaction among Excitatory Synapses
+135
+Fig. 5.7 DETAILS OF THE CELL'S RESPONSE TO NMDA SYNAPTIC INPUT Membrane potential at
+the synapses (panels AI, BI) and at the soma (panels A3,83) in response to 100 uniformly distributed
+synapses (upper panels) and to 10 clusters of 10 synapses. 90% of the synaptic conductance change is
+of the NMDA type, the remainder being voltage independent. Each synapse, whether within a cluster
+or not, is independently activated by a Poisson process of 100-Hz rate. Because in the first case,
+synapses act "alone," the average synaptic conductance (A2> and synaptic current (A4> remain modest.
+If, however, synapses can "cooperate" due to spatial proximity, the effective synaptic conductance
+(82) and synaptic current flowing (84) can be much larger, inducing the cell to fire at 20 Hz. The
+synaptic conductance changes scale inversely with the local input resistance, with high gpeak values
+at the soma and low ones in the distal dendritic tree. Reprinted by permission from Mel (1993).
+can be much more powerful than if spread out over time. In this sense, his analysis represents
+a worst-case scenario.
+The sensitivity to spatial clumping of synaptic input is present under a broad parameter
+regime, in particular in the presence of calcium or sodium conductances in the dendritic
+tree (as we will discuss in more detail in Chap. 19). Cluster sensitivity appears to represent
+a neurobiologically plausible mechanism to confer nonlinear, multiplicative properties to
+local submits in the dendritic tree. Such a subunit could be more rigorously defined as a
+region of the dendritic tree within which synaptic interaction is strong and nonlinear, while
+interaction between two or more subunits would be linear (Koch, Poggio and Torre, 1982).
+
+
+===== Page 20 =====
+136
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+Fig. 5.8 CLUSTER SENSITIVITY IN A PASSIVE DENDRITIC TREE Average number of spikes within
+a 100-msec period using (A) zero NMDA and (B) high NMDA conditions as a function of cluster size.
+In each case, 100 synapses are placed on spines in 100/k clusters randomly distributed throughout the
+passive tree (with uniform probability density over the dendritic length). This procedure is repeated
+either (A) 100 or (B) 50 times for cluster sizes between 1 and 15, and the cellular responses are
+averaged. Due to the cooperativity of NMDA synapses, spatial clustering increases the postsynaptic
+response. This basic effect is very robust to parameter variations. Reprinted in modified form by
+permission from Mel (1993).
+5.2.2 Cluster Sensitivity for Pattern Discrimination
+Mel (1992) provides an illustrative example of how the nonlinear cooperative interaction
+of NMDA synapses can implement a high-level computation, discriminating one pattern
+among many others.
+The basic idea is straightforward: if a set of synaptic afferents coding for pattern A
+terminates in a synaptic cluster on a particular neuron, and the synapses expressing some
+pattern B are randomly spread throughout the cell, the cell can be said to recognize or
+discriminate pattern A, since activating its associated synaptic cluster makes the cell fire,
+while the cellular response to activation of the randomly distributed synapses will be
+negligible. This is illustrated by showing how a neuron can discriminate among a set of 100
+black-and-white photos from a summer vacation (Mel, 1992).
+The coding of the gray-scale pictures is accomplished in the following manner. First 50
+randomly chosen images, designated as training set, are convolved with four oriented Gabor
+filters on a 64- by 64-pixel grid, resulting in a population of 16,384 orientation-selective
+visual units. Each one of these oriented units is assumed to make a single all-or-none
+output synapse on the layer 5 pyramidal cell in Fig. 5.6. The activity of one such unit
+would represent the presence of a particular oriented edge at that location in the image.
+Out of this large population, the 80 most active units are selected—the output of all other
+units being suppressed—and are mapped onto 10 cluster of eight neighboring synapses
+known to trigger at least one spike. This process is repeated for each of the 50 training
+images, except that a visual unit, once mapped onto the cell, is not remapped if it occurs
+in a subsequent training image. Following this "learning" procedure, the remaining unused
+orientation-selective units (about 12,000) are mapped randomly onto individual synaptic
+sites. Although a caricature of what is expected to occur in visual cortex, this procedure
+assures that each of the 50 images is mapped onto at most 80 clustered synapses (because
+of the potential overlap among images).
+As seen in Fig. 5.9, the cell responds to any one of the 50 training images with an
+effective spike frequency of 12.5 Hz, while the 50 randomly assigned test images fail
+
+
+===== Page 21 =====
+5.2 Nonlinear Interaction among Excitatory Synapses
+137
+to bring the cell above threshold. Mel (1992) also uses three sets of partially corrupted
+training images as input to the pyramidal cell. In the "half/half" stimulation paradigm, half
+of the vector components coding for one training image were swapped with half of the
+components encoding another training image. In a linear perception, the superposition of
+two training patterns cannot be distinguished from a single training pattern. In this case the
+cell's response is significantly reduced compared to its response to a full training pattern (by
+about 33%; Fig. 5.9). The same performance is seen if 20% of a training image is randomly
+corrupted. If much more noise is added, the cell only responds weakly.
+The performance of the pyramidal cell endowed with NMDA synapses is quite re-
+markable. The cell can be trained to respond to any one of 50 high-dimensional vectors,
+discriminating them from random input or vectors not beloging to the training set. The
+probability of misclassification is 14%, with the majority being false negatives, that is,
+training images not recognized as such. Given the highly dispersed three-dimensional
+geometry of dendritic and axonal arbors and the rich combinatorics possible in choosing
+particular spatial arrangements among 10,000 afferent synapses, the true discrimination
+capacity of even a single pyramidal cell could be much greater than demonstrated here
+(Mel, 1993, 1994; see also Brown et al., 1991a). The thread of this story is picked up
+in Sec. 14.4.2 in the context of understanding the computational capabilities of neu-
+ral networks.
+Fig. 5.9 NMDA ENDOWED PYRAMIDAL CELL AS PATTERN DISCRIMINATOR 
+Average response
+(over a 100-msec period) of the pyramidal cell to five types of images mapped onto its synapses.
+The largest response is to the 50 training images and the smallest to the remaining 50 test images.
+In the intermediate cases, training images are partially corrupted. In the "half/half" case, half of the
+features of one image are combined with half of the features of another image. Note the significantly
+reduced response to the superposition of two training patterns, direct evidence of the nonlinear pattern
+discrimination ability of a neuron endowed with NMDA input. In the two other cases, either 20% or
+50% of the image is replaced by random features. Reprinted by permission from Mel (1992).
+
+
+===== Page 22 =====
+138 
+• 
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+To what extent pyramidal cells in cortex implement such a scheme is difficult to ascertain
+since the detailed microanatomy of the origin of all synapses would, by itself, not be
+sufficient to answer the question. Yet this mechanism predicts the existence of a learning
+rule that favors the placement of simultaneously active synapses in clusters on the dendritic
+tree, while uncorrelated synapses should have no priviliged spatial relationship to each other.
+Biophysical experiments involving synaptic plasticity should uncover such a clustering rule.
+The degree of specificity required is less than that of the AND-NOT type of interaction
+discussed at the beginning of this chapter. Yet similar to the interaction between excitation
+and inhibition, clustering effectively fractionates the dendritic tree into many small subunits,
+within which nonlinear interactions take place.
+5.2.3 Detecting Coincident Input from the Two Ears
+One situation where sublinear addition is exploited is in aiding individual neurons to detect
+coincident inputs. In both birds and mammals, sound localization involves comparing the
+travel time of inputs from the two ears (Konishi, 1992). If the sound source is located
+straight ahead, there will be no delay between inputs from the two ears, while shifting the
+source to one side will cause the auditory input from one side to be delayed relative to
+input from the opposite side (Carr and Konishi, 1990). Individual cells can perform quite a
+remarkable job in detecting the resultant small interaural time differences. For instance, a
+neuron specialized to sounds in the 5 kilohertz auditory range reduces its firing range when
+the delay between the two ears changes by a mere 20 /x,sec (Moiseff and Konishi, 1981).
+This remarkable sensitivity goes hand in hand with a very low passive time constant of less
+than 2 msec (Reyes, Rubel, and Spain, 1994).2
+Auditory brainstem cells receive binaural inputs segregated onto their two dendrites
+(Fig. 5.10), a mechanism that enhances the discriminability of sounds that arrive in phase
+(straight ahead) relative to those arriving 180° out of phase. Numerous synaptic inputs con-
+verge onto each dendrite and the associated synaptic amplitude has a significant stochastic
+component (Sec. 4.2). Suppose that six simultaneous synaptic events are just enough to
+trigger a spike in a point neuron without a dendrite. Since twice as many presynaptic
+inputs are active simultaneously when both inputs arrive in a coincident manner, the neuron
+responds more strongly to in-phase than to out-of-phase input. In the bipolar neuron with
+segregated inputs from the two ears to its two dendrites, the amplitude of the synaptic
+conductance is adjusted. The resulting three synaptic inputs on one dendrite, coupled with
+three synaptic events on the other, give rise to the same firing rate as in the point neuron.
+If—due to the stochastic nature of how many inputs arrive per sound cycle—four, five, or
+more synaptic events were to occur on one dendrite (and not on the other), the neuron would
+still not fire due to the synaptic saturation that limits how much current each dendrite by
+itself can deliver to the soma (see also Sec. 18.4.1). As long as the voltage threshold for
+spike initiation is set sufficiently high, synaptic current from two independent dendrites is
+required to trigger a spike and temporal discrimination is enhanced compared to a point
+neuron with no dendrites (Agmon-Snir, Carr, and Rinzel, 1998).
+5.3 Synaptic Microcircuits
+Excitation and inhibition by individual synapses usually have little computational signif-
+icance by themselves. It is the assembly of synapses into specific patterns of connectivity
+2. Since these cells fire at high rates, their membrane is rarely at rest and the effective time constant is probably in the
+submillisecond range (Gerstner et al., 1996).
+
+
+===== Page 23 =====
+5.3 Synaptic Microcircuits
+139
+Fig. 5.10 COINCIDENCE DETECTION IN
+BIPOLAR NEURONS Two auditory brain
+stem neurons from the guinea pig that
+receive segregated inputs from the two
+ears onto their two bipolar dendrites. In a
+model of these cells (Agmon-Snir, Carr, and
+Rinzel, 1998), the average firing rate evoked
+by the two inputs arriving synchronously
+(/max) or maximally out of phase (/min)
+is plotted as the amplitude of the synaptic
+conductance is varied. The least amount of
+discrimination (smallest difference between
+/max and /mi,,) is obtained in a point neuron
+(dashed curve). Synaptic saturation in the
+long and thin dendrites (dotted curve) pre-
+vents randomness in the number of inputs
+to each side from firing the cell when inputs
+arrive only to one side without coincident
+inputs from the other ear. Thicker dendrites
+(solid curve) perform at an intermediate
+level. Thus, dendrites enhance the ability of
+an individual cell to detect coincident input.
+Reprinted by permission from Agmon-Snir,
+Carr, and Rinzel, (1998).
+which gives rise to identifiable building blocks, which can be found throughout the nervous
+system. Shepherd (1972,1978) has termed such specific synaptic arrangements, which have
+a spatial extent measured in micrometers, synaptic microcircuits (Fig. 5.11). Any particular
+neuron may have dozens or hundreds of such microcircuits. Very often they will include
+dendro-dendritic synapses, that is, fast excitatory or inhibitory chemical synapses from one
+dendrite of the presynaptic cell onto a dendrite from a different, postsynaptic, cell. Examples
+of such circuits abound in the central nervous systems of both vertebrates and invertebrates.
+(For an excellent and detailed account of microcircuits in the mammalian brain see the
+monograph by Shepherd, 1998.)
+Well-known examples include dendro-dendritic interactions among spiking and nonspik-
+ing interneurons in the sensory-motor system of the locust (Laurent and Burrows, 1989;
+Laurent, 1990), synaptic arrangements among the nonspiking neurons in the vertebrate
+retina (Dowling, 1979, 1987; Sterling, 1998; Fig. 1.5), the reciprocal dendro-dendritic
+inhibition occurring among the dendrites of the mitral cells and the spines of the granule
+cells in the mammalian olfactory bulb (Rail et al., 1966; Rail and Shepherd, 1968; Woolf,
+Shepherd, and Greer, 1991a,b) and the spine-triad circuit in the thalamus (Hamos et al.,
+1985; Koch, 1985; Fig. 12.8). What characterizes these synaptic arrangements is that they
+involve at least one excitatory and one inhibitory synapse on a very compact spatial scale,
+operate at the millisecond time scale, and exist in very large numbers (Shepherd, 1972,
+1978; Shepherd and Koch, 1998).
+Curiously, synaptic microcircuits do not appear to be numerous in mature cortical
+structures. To a good first approximation, fast excitatory and inhibitory traffic is mediated
+from the presynaptic axon of one cell to the postsynaptic dendrites of another cell without
+the involvement of higher order synaptic arrangements nor the dendro-dendritic synapses.3
+3. It could be argued that an exception to this rule are the small fraction of dendritic spines that carry both an excitatory and
+an inhibitory synaptic profile; it is doubtful, though, that such arrangements have a specific function (Sec. 12.3.3).
+
+
+===== Page 24 =====
+140
+SYNAPTIC INTERACTIONS IN A PASSIVE DENDRITIC TREE
+Fig. 5.11 SYNAPTIC MICROCIRCUITS MEDIATING DIFFERENT TYPES OF INHIBITION 
+Two types
+of synaptic microcircuits that mediate two types of inhibition in the vertebrate nervous system. (A) The
+spine triade consists of an afferent a making an excitatory synapse onto a dendrite or spine b as
+well as onto an interneuron c. The interneuron in turn inhibits, via a dendro-dendritic synapse, the
+postsynaptic neuron b. This feedforward inhibition is common in the retina and the thalamus (see
+Sec. 12.3.4 and Fig. 12.8). (B) Recurrent inhibition is implemented by a relay cell a that excites
+an interneuron b. This interneuron inhibits, via a dendro-dendritic synapse, the original relay cell.
+Dendro-dendritic reciprocal inhibition occurs between mitral and granule cells in the olfactory bulb.
+Such microcircuits, which are specified at the micrometer level, are common in structures outside the
+cortex and in invertebrates. Reprinted by permission from Shepherd and Koch (1998).
+5.4 Recapitulation
+The fact that a synaptic input changes the conductance in the postsynaptic membrane in
+series with a synaptic battery and does not correspond to a constant current source ultimately
+implies that synaptic inputs interact with each other via the membrane potential. In particular,
+the somatic potential in a passive tree in response to two or more inputs is not equal to the
+sum of the individual synaptic components. We explored the computational consequences
+of this in two cases.
+The interaction between voltage-independent non-NMDA excitatory input and shunting
+inhibition (that is, when £",- reverses close to the cell's resting membrane potential) in
+the subthreshold domain can mediate a veto operation that is specific in space and time.
+If inhibition is adjacent to the excitatory synapse or on the path between excitation and
+the cell body and if their time courses overlap, inhibition can effectively suppress the
+effect of excitation. This implies that specific synaptic arrangements in a dendritic tree
+can implement logic-like AND-NOT operations, possibly one of the crucial nonlinearities
+underlying direction selectivity in retinal ganglion cells.
+The specificity of synaptic interaction represents at the same time also its greatest
+weakness, in the sense that it places great demands on developmental mechanisms to
+precisely guide synapses and dendrites during development. A more plausible synaptic
+arrangement could be implemented at the level of synaptic populations: if excitatory and
+inhibitory synapses are colocalized onto the same part of the dendritic tree, excitatory input
+can always override any inhibitory influence. Conversely, if inhibition is at a different site,
+for instance, close to the spike initiating zone, and excitation at more distal sites, then any
+excitatory input can always be vetoed by inhibition. These two types of synaptic placements
+might instantiate different kinds of suppressive behaviors. Under certain conditions the
+threshold for initiating a reflex should be elevated (relative suppression) while under others
+the behavior needs to be totally abolished (absolute suppression).
+
+
+===== Page 25 =====
+5.4 Recapitulation 
+• 
+141
+If GABAergic inhibition has a reversal potential much below the membrane resting
+potential, as in the fly tangential interneurons, inhibition tends to act akin to a linear
+subtraction.
+A more plausible mechanism to implement multiplicative behavior involves NMDA
+synapses clustered over the dendritic tree. When clusters of adjacent non-NMDA synapses
+are randomly sprinkled around the dendritic tree of a pyramidal cell, their activation
+causes a smaller cellular response than when the synapses are isolated from each other,
+a consequence of synaptic saturation. A very different behavior is obtained with clusters of
+voltage-dependent NMDA synapses. Because of their cooperative nature, clusters of 6 to
+10 adjacent NMDA synapses are much more effective than the same number of synapses
+by themselves. A dendritic tree endowed with such synapses can be used to implement
+a very efficient nonlinear pattern discriminator that is robust to the presence of dendritic
+nonlinearities, while also serving as a plausible biophysical mechanism for multiplication,
+which is required for a host of computations, such as motion, binocular disparity, and tabular
+look-up storage.
+Both case studies imply that the dendritic tree, rather than just performing a filtering
+operation onto the synaptic input, as suggested by linear cable theory presented in Chaps. 2
+and 3, can be partitioned into numerous spatial subunits. Within each such subunit, synaptic
+inputs interact nonlinearly, while the interaction between two or more subunits is approxi-
+mately linear.
+Finally, we mentioned the concept of a synaptic microcircuit, pioneered by Shepherd
+(1978, 1998). These usually involve a combination of one or several excitatory and
+inhibitory synapses with a predilection for a specific arrangement among two or three
+neurons and are common in extracortical structures such as the retina, the olfactory bulb,
+and the thalamus and in invertebrates.
+
+

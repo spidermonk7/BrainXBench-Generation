@@ -1,0 +1,383 @@
+===== Page 1 =====
+1284    Part VII / Development and the Emergence of Behavior
+Sapolsky RM. 2004. Mothering style and methylation. Nat 
+Neurosci 7:791–792.
+Savic I, Berglund H, Gulyas B, Roland P. 2001. Smelling of odor-
+ous sex hormone-like compounds causes sex-differentiated 
+hypothalamic activations in humans. Neuron 31:661–668.
+Savic I, Berglund H, Lindstrom P. 2005. Brain response to 
+putative pheromones in homosexual men. Proc Natl Acad 
+Sci U S A 102:7356–7361.
+Savic I, Lindstrom P. 2008. PET and MRI show differences in 
+cerebral asymmetry and functional connectivity between 
+homo- and heterosexual subjects. Proc Natl Acad Sci U S A 
+105:9403–9408.
+Sekido R, Lovell-Badge R. 2009. Sex determination and SRY: 
+down to a wink and a nudge? Trends Genet 25:19–29.
+Shah NM, Pisapia DJ, Maniatis S, Mendelsohn MM, Nemes 
+A, Axel R. 2004. Visualizing sexual dimorphism in the 
+brain. Neuron 43:313–319.
+Stockinger P, Kvitsiani D, Rotkopf S, Tirian L, Dickson BJ. 
+2005. Neural circuitry that governs Drosophila male court-
+ship behavior. Cell 121:795–807.
+Stowers L, Holy TE, Meister M, Dulac C, Koentges G. 2002. 
+Loss of sex discrimination and male-male aggression in 
+mice deficient for TRP2. Science 295:1493–1500.
+Unger EK, Burke KJ Jr, Yang CF, Bender KJ, Fuller PM, Shah 
+NM. 2015. Medial amygdalar aromatase neurons regulate 
+aggression in both sexes. Cell Rep 10:453–462.
+Weaver IC, Cervoni N, Champagne FA, et al. 2004. Epige-
+netic programming by maternal behavior. Nat Neurosci 
+7:847–854.
+Wei YC, Wang SR, Jiao ZL, et al. 2018. Medial preoptic area in 
+mice is capable of mediating sexually dimorphic behav-
+iors regardless of gender. Nat Commun 9:279.
+Wierman ME. 2007. Sex steroid effects at target tissues: mech-
+anisms of action. Adv Physiol Educ 31:26–33.
+Wu MV, Manoli DS, Fraser EJ, et al. 2009. Estrogen mascu-
+linizes neural pathways and sex-specific behaviors. Cell 
+139:61–72.
+Wu Z, Autry AE, Bergan JF, Watabe-Uchida M, Dulac CG. 
+2014. Galanin neurons in the medial preoptic area govern 
+parental behaviour. Nature 509:325–330.
+Xu X, Coats JK, Yang CF, et al. 2012. Modular genetic control 
+of sexually dimorphic behaviors. Cell 148:596–607.
+Yang CF, Chiang MC, Gray DC, et al. 2013. Sexually dimor-
+phic neurons in the ventromedial hypothalamus gov-
+ern mating in both sexes and aggression in males. Cell 
+153:896–909.
+Yang T, Yang CF, Chizari MD, et al. 2017. Social control 
+of hypothalamus-mediated male aggression. Neuron 
+95:955–970.
+Zhang J, Webb DM. 2003. Evolutionary deterioration of the 
+vomeronasal pheromone transduction pathway in catar-
+rhine primates. Proc Natl Acad Sci U S A 100:8337–8341.
+Zhang TY, Meaney MJ. 2010. Epigenetics and the environ-
+mental regulation of the genome and its function. Annu 
+Rev Psychol 61:439–466.
+
+
+===== Page 2 =====
+Part VIII
+
+
+===== Page 3 =====
+Preceding Page
+Tingarri Men and Initiates at Marabindinya. In this painting by the Aboriginal Australian  
+artist, Anatjari Tjampitjinpa, Tingarri instructors are depicted as concentric circles and 
+their young initiates are shown as horseshoe shapes along the boundaries. The back-
+ground of the painting depicts the sandhill country of the central Australian desert. 
+Such symbolic representations recall the neural representations of episodic memories, 
+consisting of events taking place in space and time, encoded in the firing of grid cells 
+and place cells in the entorhinal cortex and hippocampus, respectively. (© Estate of the 
+artist licensed by Aboriginal Artists Agency Ltd.)
+
+
+===== Page 4 =====
+VIII
+Learning, Memory, Language and 
+Cognition
+M
+otor and sensory functions take up less than one-half 
+of the cerebral cortex in humans. The rest of the cortex is 
+occupied by the association areas, which coordinate events 
+arising in the motor and sensory centers. Three association areas—
+the prefrontal, parietal-temporal-occipital, and limbic—are involved 
+in cognitive behavior: speaking, thinking, feeling, perceiving, plan-
+ning skilled movements, learning, memory, decision-making, and 
+consciousness.
+Most of the early evidence relating cognitive functions to the asso-
+ciation areas came from clinical studies of brain-damaged patients. 
+Thus, the study of language in patients with aphasia yielded impor-
+tant information about how human mental processes are distributed 
+in the two hemispheres of the brain and how they develop. More 
+refined analyses have come from human imaging studies using 
+functional magnetic resonance imaging (fMRI) and other methods. 
+Deeper insights into the neural circuitry and cellular mechanisms 
+giving rise to cognitive processes have come from electrophysiologi-
+cal recordings and genetic-based manipulations, including cell type–
+specific gene deletions and cell type–specific optogenetic excitation 
+or inhibition in experimental animals, particularly in rodents. Such 
+studies can evaluate the relative contribution of specific genes, neu-
+rons, and synaptic connections to specific types of behavior. 
+So far in this book, we have considered neural mechanisms asso-
+ciated with basic functions of the brain, including primary sensory 
+perception, movement, and homeostatic control. In this part and the 
+next, we begin to consider the more complex, higher-order brain 
+functions mentioned earlier, the realm of cognitive neural science. 
+The aim of this merger of neurophysiology, anatomy, developmental 
+biology, cell and molecular biology, theory, and cognitive psychol-
+ogy is to ultimately provide an understanding of the neural mecha-
+nisms of the mind. 
+Until the latter part of the 20th century, the study of higher 
+mental function was approached through behavioral observations 
+gleaned from brain-damaged patients and animals with experimen-
+tal lesions. In the first part of the 20th century, to avoid untestable 
+
+
+===== Page 5 =====
+concepts and hypotheses, psychology became rigidly concerned 
+with behaviors defined strictly in terms of observable stimuli and 
+responses. Orthodox behaviorists thought it unproductive to deal 
+with consciousness, feeling, attention, or even motivation. By con-
+centrating only on observable actions, behaviorists asked: What can 
+an organism do, and how does it do it? Indeed, careful quantita-
+tive analysis of stimuli and responses has contributed greatly to our 
+understanding of the acquisition and use of “implicit” knowledge 
+of perceptual and motor skills. However, humans and other higher 
+animals also have “explicit” knowledge of facts and events. They 
+have knowledge of space, rules, and relations—what Edward Tol-
+man termed cognitive maps. Animals can choose a newly available 
+route to a goal without ever learning the sensory-response associa-
+tion, and humans can reason deliberatively from what they know 
+to imagine something unknown. Indeed, that is what makes neural 
+science possible—in fact, all of science and the humanities. 
+Thus, we also need to ask: What does the animal know about the 
+world, and how does it come to know it? How is that knowledge rep-
+resented in the brain? Does explicit knowledge differ from implicit 
+knowledge? And how can such knowledge be communicated to oth-
+ers and enable us to make rational decisions based on past experi-
+ence? Much, perhaps most, knowledge is unconscious a great deal of 
+the time. We need to know the nature of the unconscious processes, 
+the systems that mediate them, and their influence on the nature of 
+conscious mental activity. Finally, we need to know about the high-
+est realms of conscious knowledge, the knowledge of oneself as an 
+individual, a thinking and feeling human being.
+The modern effort to understand the neural mechanisms of 
+higher mental functions began at the end of the 19th century when 
+Pierre Broca and Carl Wernicke discovered regions of the cerebral 
+cortex responsible for the production and comprehension of lan-
+guage. Throughout the 20th century, studies of patients with brain 
+damage resulting from accidents, war, and disease led to an expan-
+sion of knowledge of the roles of specific brain areas responsible for 
+cognitive functions, including attention, intention (planning), rea-
+soning, and learning and memory. However, it was only in the past 
+20 to 30 years, based in part on new technological approaches, that 
+our understanding of cognitive processes advanced from anatomical 
+localization to an understanding of how neural activity in specific 
+brain regions underlies such processes.  
+In Part VIII, we explore such questions of cognitive brain sci-
+ence. Chapter 52 introduces basic mechanisms of human learning 
+and memory, focusing on the use of fMRI and behavioral studies to 
+elucidate the role of different brain regions in implicit and explicit 
+memory. In Chapter 53, we discuss the cellular and molecular mech-
+anisms responsible for implicit memory storage, focusing on stud-
+ies in invertebrates and vertebrates that have elucidated the role of 
+synaptic plasticity in implicit memory storage. In Chapter 54, we 
+
+
+===== Page 6 =====
+expand on the theme of synaptic plasticity, this time for the storage of 
+explicit memory by the hippocampus and related brain regions. We 
+further consider how the synaptic connectivity between the entorhi-
+nal cortex and hippocampus enables us to perceive and remember 
+our spatial location in a given environment. Next, in Chapter 55, we 
+focus on the neural mechanisms underlying language, a uniquely 
+human function that enables us to communicate our store of knowl-
+edge to others, including brain circuits necessary for speaking and 
+perceiving the spoken word. Finally, in Chapter 56, we examine how 
+the brain enables us to use our knowledge to make rational deci-
+sions. Viewed through the lens of decision-making, the distinction 
+between the apparently separate processes of knowledge and know-
+how can be seen as a unified function, one that provides a basis for 
+understanding how consciousness may emerge from brain activ-
+ity. Achieving a full understanding of the neural mechanisms that 
+enable us to maintain a rich set of memories of our past experiences 
+over a lifetime, to communicate those memories to others, and to use 
+them to make informed, conscious decisions is perhaps one of the 
+most daunting challenges in all of science.
+Part Editors: Eric R. Kandel and Steven A. Siegelbaum
+Part VIII
+Chapter 52	
+Learning and Memory
+Chapter 53	
+Cellular Mechanisms of Implicit Memory Storage 
+and the Biological Basis of Individuality
+Chapter 54	
+The Hippocampus and the Neural Basis of 
+Explicit Memory Storage
+Chapter 55	
+Language
+Chapter 56	
+Decision-Making and Consciousness
+
+
+===== Page 7 =====
+This page intentionally left blank 
+
+
+===== Page 8 =====
+52
+Learning and Memory
+I
+n his masterful novel  One Hundred Years of  
+Solitude, Gabriel Garcia Márquez describes a strange 
+plague that invades a tiny village and robs people 
+of their memories. The villagers first lose personal rec-
+ollections, then the names and functions of common 
+objects. To combat the plague, one man places written 
+labels on every object in his home. But he soon realizes 
+the futility of this strategy, because the plague eventu-
+ally destroys even his knowledge of words and letters.
+This fictional incident reminds us of how impor-
+tant learning and memory are in everyday life. Learn-
+ing refers to a change in behavior that results from 
+acquiring knowledge about the world, and memory 
+refers to the processes by which that knowledge is 
+encoded, stored, and later retrieved. Marquez’s story 
+challenges us to imagine life without the ability to learn 
+and remember. We would forget people and places we 
+once knew, and no longer be able to use and under-
+stand language or execute motor skills we had once 
+learned; we would not recall the happiest or saddest 
+moments of our lives and would even lose our sense 
+of personal identity. Learning and memory are essen-
+tial to the full functioning and independent survival of 
+people and animals.
+In 1861, Pierre Paul Broca discovered that damage 
+to the posterior portion of the left frontal lobe (Broca’s 
+area) produces a specific deficit in language. Soon 
+thereafter, it became clear that other mental functions, 
+such as perception and voluntary movement, are also 
+mediated by discrete parts of the brain (Chapter 1). 
+This naturally led to the question: Are there discrete 
+neural systems concerned with memory? If so, is there 
+a “memory center,” or is memory processing widely 
+distributed throughout the brain?
+Short-Term and Long-Term Memory Involve  
+Different Neural Systems
+Short-Term Memory Maintains Transient Representations 
+of Information Relevant to Immediate Goals
+Information Stored in Short-Term Memory Is Selectively 
+Transferred to Long-Term Memory
+The Medial Temporal Lobe Is Critical for Episodic   
+Long-Term Memory
+Episodic Memory Processing Involves Encoding, Storage, 
+Retrieval, and Consolidation
+Episodic Memory Involves Interactions Between the 
+Medial Temporal Lobe and Association Cortices
+Episodic Memory Contributes to Imagination and  
+Goal-Directed Behavior
+The Hippocampus Supports Episodic Memory by 
+Building Relational Associations
+Implicit Memory Supports a Range of Behaviors  
+in Humans and Animals
+Different Forms of Implicit Memory Involve Different 
+Neural Circuits
+Implicit Memory Can Be Associative  
+or Nonassociative
+Operant Conditioning Involves Associating a Specific 
+Behavior With a Reinforcing Event
+Associative Learning Is Constrained by the Biology of 
+the Organism
+Errors and Imperfections in Memory Shed Light on Normal 
+Memory Processes
+Highlights
+
+
+===== Page 9 =====
+1292    Part VIII / Learning, Memory, and Cognition
+Contrary to the prevalent view that cognitive func-
+tions are localized in the brain, many students of learn-
+ing doubted that memory is localized. In fact, until 
+the middle of the 20th century, many psychologists 
+doubted that memory is a discrete function, independ-
+ent of perception, language, or movement. One reason 
+for the persistent doubt is that memory storage involves 
+many different parts of the brain. We now appreciate, 
+however, that these regions are not all equally impor-
+tant. There are several fundamentally different types 
+of memory, and certain regions of the brain are much 
+more important for encoding some types of memory 
+than for others.
+During the past several decades, researchers have 
+made significant progress in the analysis and under-
+standing of learning and memory. In this chapter, we 
+focus on studies of normal human memory behavior, 
+its perturbations following brain lesions due to injury 
+or surgery, and measurements of brain activity during 
+learning and memory recall using functional magnetic 
+resonance imaging (fMRI) and extracellular electro-
+physiological recordings. These studies have yielded 
+three major insights.
+First, there are several forms of learning and mem-
+ory. Each form of learning and memory has distinctive 
+cognitive and computational properties and is sup-
+ported by different brain systems. Second, memory 
+involves encoding, storage, retrieval, and consolida-
+tion. Finally, imperfections and errors in remember-
+ing can provide clues about the nature and function of 
+learning and memory and the fundamental role that 
+memory plays in guiding behavior and planning for 
+the future.
+Memory can be classified along two dimensions: 
+(1) the time course of storage and (2) the nature of the 
+information stored. In this chapter, we consider the time 
+course of storage. In the next two chapters, we focus on 
+the cellular, molecular, and circuit-based mechanisms 
+of different forms of learning and memory, based 
+largely on studies of animal models.
+Short-Term and Long-Term Memory Involve 
+Different Neural Systems
+Short-Term Memory Maintains Transient 
+Representations of Information Relevant to 
+Immediate Goals
+When we reflect on the nature of memory, we usually 
+think of the long-term memory that William James 
+referred to as “memory proper” or “secondary memory.” 
+That is, we think of memory as “the knowledge of a 
+former state of mind after it has already once dropped 
+from consciousness.” This knowledge depends on the 
+formation of a memory trace that is durable, in which 
+the representation persists even when its content has 
+been out of conscious awareness for a long period.
+Not all forms of memory, however, constitute “for-
+mer states of mind.” In fact, the ability to store informa-
+tion depends on a form of short-term memory, called 
+working memory, which maintains current, albeit 
+transient, representations of goal-relevant knowledge. 
+In humans, working memory consists of at least two 
+subsystems––one for verbal information and another 
+for visuospatial information. The functioning of these 
+two subsystems is coordinated by a third system called 
+the executive control processes. Executive control pro-
+cesses are thought to allocate attentional resources to 
+the verbal and visuospatial subsystems and to moni-
+tor, manipulate, and update stored representations.
+We use the verbal subsystem when we attempt 
+to keep speech-based (phonological) information in 
+conscious awareness, as when we mentally rehearse 
+a password before entering it. The verbal subsystem 
+consists of two interactive components: a store that 
+represents phonological knowledge and a rehearsal 
+mechanism that keeps these representations active 
+while we need them. Phonological storage depends 
+on posterior parietal cortices, and rehearsal partially 
+depends on articulatory processes in Broca’s area.
+The visuospatial subsystem of working memory 
+retains mental images of visual objects and of the loca-
+tion of objects in space. The rehearsal of spatial and 
+object information is thought to involve modulation of 
+this information in the parietal, inferior temporal, and 
+occipital cortices by the frontal and premotor cortices.
+Single-cell recordings in nonhuman primates 
+indicate that, over a period of seconds, some prefron-
+tal neurons maintain spatial representations, others 
+maintain object representations, and still others repre-
+sent the integration of spatial and object knowledge. 
+Although neurons concerned with working memory 
+of objects tend to lie in the ventrolateral prefrontal cor-
+tex and those concerned with spatial knowledge tend 
+to lie in the dorsolateral prefrontal cortex, all three 
+classes of neurons are found in both prefrontal subre-
+gions (Figure 52–1).
+Thus, working memory involves activation of 
+representations of information stored in specialized 
+cortical regions that vary based on the content of the 
+information, as well as activation of general control 
+mechanisms in prefrontal cortex. Prefrontal control 
+signals in working memory are further dependent on 
+interaction with the striatum and ascending dopamin-
+ergic inputs from the midbrain.
+
+

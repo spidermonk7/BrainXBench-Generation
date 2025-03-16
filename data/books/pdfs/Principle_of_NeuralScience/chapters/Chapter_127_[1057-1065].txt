@@ -1,0 +1,854 @@
+===== Page 1 =====
+1012    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Figure 41–1  (Left) Set points, settling points, and 
+homeostasis.
+A. The set point view was inspired by engineering principles. 
+As with a thermostat, constancy is achieved by providing feed-
+back on the existing level of a parameter, determining how it 
+compares to an idealized set point, and then instituting correc-
+tive measures to return the parameter to the set point. While 
+popular for many years, it has fallen out of favor as years of 
+research have failed to uncover molecular and neural bases for 
+encoding set points and performing error detection.
+B. The settling point model was inspired by observations that 
+many systems achieve constancy in the absence of any feed-
+back or error detection. In this example, the level of outflow 
+of water from a lake is proportional to the depth of the lake. 
+When it rains, the increase or decrease in the level of the lake 
+causes more or less water to flow out of the lake. The level 
+of the lake remains fairly constant without a set point or error 
+detection. A related example is regulation of body weight. 
+Increased food intake leads to increased body weight. As 
+body weight increases, the energy cost of carrying and sus-
+taining that increased weight goes up. Because of this, body 
+weight too should have its settling point. (Reproduced, with 
+permission, from Speakman et al. 2011.)
+C. In this model the concepts of feedback in part A and set-
+tling point in part B are combined. The apparent set point is 
+in fact the settling point, an emergent property of multiple 
+feedback-informed afferent/efferent loops.
+physiological “set points” help control key parameters 
+like body temperature, blood osmolarity, blood pres-
+sure, and body fat content.
+Set point models are appealing because thermo-
+stats are so effective in maintaining room temperature 
+at a targeted set point and, by analogy, physiological 
+variables like body temperature are likewise tightly 
+controlled. In such models, a “set point” exists for a 
+A  Set point model
+B  Settling point model
+C  Combined model: settling point of multiple afferent/efferent loops
+X
+Y
+Set point
+Error
+detector
+Sensor
+Effectors
+Too high
+Too low
++
+–
+Detectors
+1
+2
+3
+4
+Neurons
+Parameters
+Behavioral
+Physiologic 1
+Physiologic 2
+Effectors
+Hypothalamus
+Depth at outﬂow
+Rain
+Parameter
+parameter, 37°C in the case of body temperature, and 
+at any given moment, the real level of the parameter 
+is assessed and compared with the targeted set point 
+through feedback and error detection (Figure 41–1A). 
+Any deviation above or below triggers counteracting 
+corrective responses—if too hot, cutaneous vasodila-
+tation, sweating, and a dip in the pool; if too cold, 
+vasoconstriction, thermogenesis, shivering, and the 
+donning of a sweater. For regulation of body tempera-
+ture, the set point and detection of error were histori-
+cally seen as emergent properties of neurons in the 
+preoptic area of the hypothalamus (POA).
+Over time, the set point model required revision 
+because intensive investigation failed to uncover any 
+molecular or neuronal bases for encoding set points 
+and performing error detection. In addition, “set 
+point–like” regulation can, in principle, be achieved 
+without a set point, feedback, or error detection—the 
+so-called “settling point” model (Figure 41–1B). Con-
+sider the changing level of a lake. When rainfall is 
+excessive, its level rises; the rivers draining the lake 
+rise and their flow increases. The converse is true when 
+rainfall is low. The changing flow of the rivers draining 
+the lake thus maintains its level near a settling point 
+without requiring an idealized set point, feedback, 
+or error detection. While aspects of the settling point 
+model have appeal, it too is incomplete because home-
+ostatic processes clearly receive important feedback 
+
+
+===== Page 2 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1013
+Table 41–1  The Hypothalamus Integrates Behavioral 
+(Somatomotor), Autonomic, and Neuroendocrine 
+Responses Involved in Six Vital Functions
+1.  Blood pressure and electrolyte composition. The hypo-
+thalamus regulates thirst, salt appetite, and drinking 
+behavior; autonomic control of vasomotor tone; and the 
+release of hormones such as vasopressin (via the para-
+ventricular nucleus).
+2.  Energy metabolism. The hypothalamus regulates hun-
+ger and feeding behavior, the autonomic control of 
+digestion, and the release of hormones such as gluco-
+corticoids, growth hormone, and thyroid-stimulating 
+hormone (via the arcuate and paraventricular nuclei).
+3.  Reproductive (sexual and parental) behaviors. The hypothal-
+amus controls autonomic modulation of the reproduc-
+tive organs and endocrine regulation of the gonads (via 
+the medial preoptic, ventromedial, and ventral premam-
+millary nuclei).
+4.  Body temperature. The hypothalamus influences ther-
+moregulatory behavior (seeking a warmer or cooler 
+environment), controls autonomic body heat conserva-
+tion/loss mechanisms, and controls secretion of hor-
+mones that influence metabolic rate (via the preoptic 
+region).
+5.  Defensive behavior. The hypothalamus regulates the 
+stress response and fight-or-flight response to threats 
+in the environment such as predators (via the paraven-
+tricular, anterior hypothalamic, and dorsal premammil-
+lary nuclei, and the lateral hypothalamic area).
+6.  Sleep–wake cycle. The hypothalamus regulates the sleep–
+wake cycle (via a circadian clock in the suprachiasmatic 
+nucleus) and levels of arousal when awake (via the lat-
+eral hypothalamic area and tuberomammillary nucleus).
+regarding disturbances, and this feedback produces 
+vital responses that hasten recovery. As we shall see, 
+temperature, osmolarity, and body fat are directly or 
+indirectly “sensed,” and this affects the activity of neu-
+rons in the hypothalamus that generate counteracting 
+responses.
+Most physiologists today have adopted a “distrib-
+uted settling point” model that incorporates strong 
+feedback control of multiple sensory/effector loops 
+(Figure 41–1C). With body temperature, for example, 
+there is no single specific set point and no location 
+in the brain where a single set point is encoded and 
+error detection takes place; in short, there is no thermo-
+stat. Instead, there are multiple temperature detectors 
+located in different sites (skin, core, and brain), and 
+each is coupled through neuronal pathways that trav-
+erse the preoptic area on their way to different body 
+temperature effectors (cutaneous blood vessels, sweat 
+glands, brown fat metabolism, shivering and behav-
+ioral pathways). When engaged, each of these effectors 
+impact body temperature. The apparent set point for 
+body temperature is in fact the emergent settling point 
+that results from the combined activities of the multiple 
+feedback-informed afferent/efferent loops. As we will 
+see later, this nuanced model also applies to regulation 
+of blood pressure, blood osmolarity, and body fat.
+The Hypothalamus Coordinates  
+Homeostatic Regulation
+The hypothalamus integrates the status of physiologi-
+cal parameters with outputs to behavioral, autonomic, 
+and neuroendocrine motor systems and thereby regu-
+lates six vital physiological functions (Table 41–1). The 
+hypothalamus lies at the base of the brain immediately 
+above the pituitary gland (Figure 41–2). It is bounded 
+anteriorly (rostrally) by the diagonal band of Broca; 
+dorsally by the anterior commissure, the bed nuclei 
+of the stria terminalis, the zona incerta, and thalamus; 
+and posteriorly (caudally) by the ventral tegmental 
+area and interpeduncular nucleus.
+The Hypothalamus Is Commonly Divided Into 
+Three Rostrocaudal Regions
+Regions of the hypothalamus are named according 
+to their location and appearance in Nissl-stained sec-
+tions. The hypothalamus is divided, rostral to cau-
+dal, into three regions. (1) The preoptic hypothalamus 
+lies above the optic chiasm and contains neurons that 
+control water balance and thirst, temperature, sleep, 
+sexual behavior, and circadian rhythms. (2) The tuberal 
+hypothalamus lies above the pituitary and contains neu-
+rons controlling pituitary hormone secretion, autonomic 
+outflow, and various behaviors including hunger, sexual 
+behavior, and aggression. (3) The posterior hypothalamus 
+includes the posterior and mammillary nuclei, as well as 
+histaminergic neurons in the tuberomammillary nucleus 
+that affect arousal. The functions of other neurons in the 
+posterior hypothalamus areas are less well defined.
+The lateral hypothalamic area (LHA) spans from the 
+middle to the caudal hypothalamus. It is linked more 
+closely to reward pathways and arousal than to main-
+tenance of homeostasis and specific survival behav-
+iors. Indeed, it is heavily connected with the nucleus 
+accumbens and ventral tegmental area, two areas 
+involved in reward (Chapter 43), and contains neurons 
+that project extensively throughout the cortex. Lastly, 
+LHA neurons expressing the neuropeptide orexin 
+(hypocretin) play a critical role in stabilizing wakeful-
+ness (Chapter 44).
+
+
+===== Page 3 =====
+1014    Part VI / The Biology of Emotion and Feeling
+Figure 41–2  The structure of the hypothalamus.
+A. Frontal view of the hypothalamus (section along plane A 
+shown in the sagittal view of the brain, upper right). The third 
+ventricle is in the midline; the paraventricular, dorsomedial, 
+and arcuate nuclei adjacent to the ventricle form the neuroen-
+docrine motor zone and periventricular region at this level. 
+The ventromedial nucleus is part of the medial column of 
+hypothalamic nuclei, and the lateral hypothalamic area is the 
+lateral zone component represented in the part of the hypo-
+thalamus shown here.
+B. Sagittal (rostrocaudal) view of the medial column of hypotha-
+lamic nuclei, showing the adjacent (caudal) substantia nigra and 
+ventral tegmental area of the midbrain. The functional signifi-
+cance of key hypothalamic nuclei is summarized in Table 41–1.
+Dorsomedial
+hypothalamic
+nucleus
+A  Frontal section
+B  Sagittal section
+Paraventricular
+nucleus
+Optic tract
+Third
+ventricle
+Fornix
+Lateral
+hypothalamic
+area
+Supraoptic
+nucleus
+Amygdala
+Arcuate
+nucleus
+Median
+eminence
+Ventromedial
+hypothalamic
+nucleus
+Mammillothalamic tract
+B
+A
+Plane of frontal section of ﬁgure A
+Ventral tegmental
+area
+Mammillary body
+Dorsal premammillary 
+nucleus
+Substantia nigra
+Ventral 
+premammillary 
+nucleus
+Pituitary
+Infundibulum
+(pituitary stalk)
+Anterior commissure
+Subfornical organ
+Vascular organ of the
+lamina terminalis
+Medial preoptic nucleus
+Anterior hypothalamic nucleus
+Ventromedial hypothalamic nucleus
+
+
+===== Page 4 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1015
+Modality-Specific Hypothalamic Neurons Link 
+Interoceptive Sensory Feedback With Outputs  
+That Control Adaptive Behaviors and  
+Physiological Responses
+General principles of hypothalamic function have 
+emerged over several decades. Neurons in the periph-
+ery and brain respond when parameters under homeo-
+static control are disturbed. Such neurons can respond 
+directly to the stimulus or indirectly to changes in 
+hormones and other factors that track the regulated 
+parameter. This sensory information is then relayed 
+to functionally appropriate regulatory neurons in a 
+particular site (or sites) within the hypothalamus. 
+Once the information is integrated by hypothalamic 
+neurons, the results are then conveyed downstream 
+to motor circuits that control specific behaviors and 
+physiological responses. The result is a coordinated 
+corrective response (eg, warmth-seeking plus heat pro-
+duction and retention, thirst plus water retention by the 
+kidney, or hunger plus decreased energy expenditure).
+Our understanding of the functions of hypo-
+thalamic neurons has been refined recently using 
+optogenetic and chemogenetic techniques in active 
+animals. By selectively activating subsets of hypo-
+thalamic neurons, one can evoke specific behaviors 
+and physiological responses, even when the need is 
+totally absent. Key regulatory neurons for body tem-
+perature are located in the median preoptic nucleus 
+(MnPO). Water balance is regulated by neurons in 
+three sites—the MnPO, the vascular organ of the 
+lamina terminalis (OVLT), and the subfornical organ 
+(SFO)—and energy balance by neurons in the arcuate 
+nucleus (Figure 41–2A).
+Modality-Specific Hypothalamic Neurons Also 
+Receive Descending Feedforward Input Regarding 
+Anticipated Homeostatic Challenges
+In addition to input from sensory signals that provide 
+important feedback regarding the status of the body, 
+key regulatory neurons in the hypothalamus receive 
+“top-down” feedforward inputs from neurons that 
+anticipate future homeostatic challenges. For exam-
+ple, when food-deprived animals detect cues that 
+predict the availability of food, there is a rapid drop 
+in the firing of hunger-promoting neurons in the 
+arcuate nucleus even before food is ingested. Such 
+top-down feedforward control prepares the body 
+for anticipated homeostatic challenges. In addition, 
+such rapid regulation, by countering an aversive 
+state represented by high activity in deficiency-
+driven neurons, could be important for motivating 
+deficiency-based behaviors such as thirst and hun-
+ger (discussed below).
+Next, we examine two effectors arms of the hypo-
+thalamus—the autonomic motor system and the neu-
+roendocrine system.
+The Autonomic System Links the Brain to 
+Physiological Responses
+Although the autonomic motor system implements 
+many of the physiological responses initiated by the 
+hypothalamus, the autonomic system is also regulated 
+by circuits in the brain stem and spinal cord (Chapter 40). 
+As a consequence, autonomic functions vary in their 
+dependence on the hypothalamus. For example, mictu-
+rition is largely independent of the hypothalamus, while 
+blood pressure regulation depends heavily on circuits in 
+the brain stem but can also be modulated by the hypo-
+thalamus. In contrast, thermogenesis by brown adipose 
+tissue is largely subservient to the hypothalamus.
+Visceral Motor Neurons in the Autonomic System 
+Are Organized Into Ganglia
+Unlike the somatic motor system, in which motor neu-
+rons are located in the ventral spinal cord and brain 
+stem, the cell bodies of autonomic motor neurons are 
+found in enlargements of peripheral nerves called 
+ganglia.1 The autonomic motor neurons innervate 
+secretory epithelial cells in glands, smooth and cardiac 
+muscle, and adipose tissue.
+Efforts to understand the principles of organiza-
+tion of autonomic ganglia began in 1880 in England 
+with the work of Walter Gaskell and were later contin-
+ued by John N. Langley. They stimulated autonomic 
+nerves and observed the responses of end organs (eg, 
+vasoconstriction, piloerection, sweating, pupillary 
+constriction). They used nicotine to block signals from 
+individual ganglia to test interactions between ganglia. 
+Langley proposed that specific chemical substances 
+must be released by preganglionic neurons of the auto-
+nomic ganglia and that these substances act by bind-
+ing to receptors on the postganglionic neurons, which 
+target the end organs. These ideas set the stage for the 
+later investigations of chemical synaptic transmission. 
+1The peripheral nerves also have sensory ganglia, located on the dor-
+sal roots of the spinal cord and on five of the cranial nerves: trigemi-
+nal (V), facial (VII), vestibulocochlear (VIII), glossopharyngeal (IX), 
+and vagus (X) (Chapter 40).
+
+
+===== Page 5 =====
+1016    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Figure 41–3  Distinct cell types in peripheral 
+autonomic pathways selectively control target 
+cells with different phenotypes. Autonomic 
+motor neurons lie outside the central nervous 
+system in ganglia controlled by preganglionic 
+neurons in the spinal cord and brain stem. These 
+downstream neurons within parasympathetic and 
+sympathetic ganglia regulate three types of effec-
+tor cells: smooth muscle, gland cells, and cardiac 
+muscle. Additionally, downstream neurons found 
+only in sympathetic ganglia selectively control 
+brown adipocytes and immune cells in lymphoid 
+tissue. This figure illustrates the three basic cell 
+types—preganglionic neurons, downstream gangli-
+onic neurons, and different target effector cells—
+that control function.
+Langley also distinguished the autonomic and somatic 
+motor systems and in so doing, created much of our 
+current nomenclature.
+The autonomic system is divided into three divi-
+sions: sympathetic, parasympathetic, and enteric. All 
+neurons in sympathetic and parasympathetic gan-
+glia are controlled by preganglionic neurons whose cell 
+bodies are located in the spinal cord and brain stem. 
+The preganglionic neurons synthesize and release 
+the neurotransmitter acetylcholine (ACh), which acts 
+on nicotinic ACh receptors on postganglionic neurons, 
+producing fast excitatory postsynaptic potentials and 
+initiating action potentials that propagate to synapses 
+with effector cells in end organs (Figure 41–3). The sym-
+pathetic and parasympathetic systems are differenti-
+ated by five criteria:
+1.	 The segmental organization of their preganglionic 
+neurons in the spinal cord and brain stem
+2.	 The peripheral locations of their ganglia
+3.	 The types and locations of end organs they innervate
+4.	 The effects they produce on end organs
+5.	 The neurotransmitters employed by their post-
+ganglionic neurons
+Preganglionic Neurons Are Localized in Three 
+Regions Along the Brain Stem and Spinal Cord
+The parasympathetic pathways arise from a cranial 
+nerve zone in the brain stem and a second zone in 
+sacral segments of the spinal cord (Figure 41–4). These 
+parasympathetic zones surround a sympathetic zone 
+that extends continuously in thoracic and lumbar seg-
+ments of the cord.
+Smooth 
+muscle
+cell
+Gland 
+cell
+Cardiac 
+muscle
+cell
+Brown
+adipocytes
+Brain stem and 
+spinal cord
+Preganglionic
+neurons
+Postganglionic
+neurons
+Sympathetic and
+parasympathetic
+ganglia
+Effector cells
+The cranial parasympathetic pathways arise from 
+preganglionic neurons in the general visceral motor 
+nuclei of four cranial nerves: the oculomotor (N. III) in 
+the midbrain and the facial (N. VII), glossopharyngeal 
+(N. IX), and vagus (N. X) in the medulla. The cranial 
+parasympathetic nuclei are described in Chapter 40 
+together with the mixed cranial nerves (eg, the facial, 
+glossopharyngeal, and vagus). The spinal parasympa-
+thetic pathway originates in preganglionic neurons in 
+sacral segments S2–S4. Their cell bodies are located in 
+intermediate regions of the gray matter, and their axons 
+project in peripheral nerves through the ventral roots.
+The sympathetic preganglionic cell column extends 
+between the cervical and lumbosacral enlargements of 
+the spinal cord, corresponding to the first thoracic seg-
+ment and third lumbar segment (Figure 41–4). Most of 
+the cell bodies of sympathetic preganglionic neurons 
+are located in the intermediolateral cell column; others are 
+found in the central autonomic area surrounding the 
+central canal and in a band connecting the central area 
+with the intermediolateral cell column. The axons of 
+preganglionic sympathetic neurons project from the 
+spinal cord through the nearest ventral root and then 
+run with small connecting nerves known as rami com-
+municantes before terminating on postganglionic cells 
+in the paravertebral sympathetic chain (Figure 41–5).
+Sympathetic Ganglia Project to Many Targets 
+Throughout the Body
+The sympathetic motor system regulates systemic 
+physiological parameters such as blood pressure and 
+body temperature by influencing target cells within vir-
+tually every tissue throughout the body (Figure 41–4). 
+
+
+===== Page 6 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1017
+Figure 41–4  Sympathetic and parasympathetic divisions 
+of the autonomic motor system.  The sympathetic ganglia lie 
+close to the spinal column and supply virtually every tissue in 
+the body. Some tissues, such as skeletal muscle, are regulated 
+only indirectly through their arterial blood supply. The parasym-
+pathetic ganglia are located near their targets, which do not 
+include the skin or skeletal muscle.
+Brown
+adipose
+tissue
+Midbrain
+Sympathetic division
+Parasympathetic division
+Superior cervical
+ganglion
+Ciliary ganglion
+Otic ganglion
+Esophagus
+and lungs
+Stomach
+Pancreas
+Small
+intestine
+Large intestine,
+rectum
+Bladder
+Pelvic nerve
+leading to
+pelvic ganglia
+Reproductive
+organs
+Adrenal medulla
+Bronchi
+Heart
+Spleen,
+Kidneys
+Eye
+Lacrimal and
+salivary glands
+Pterygopalatine and submaxillary ganglion
+III
+VII
+IX
+X
+Superior
+mesenteric
+ganglion
+Sympathetic
+chain
+Inferior
+mesenteric
+ganglion
+Middle cervical
+ganglion
+Stellate
+ganglion
+Celiac
+ganglion
+Pons
+Medulla
+Piloerector
+muscle
+Skin
+Arteries
+in striated
+muscle
+Artery
+Sweat
+glands
+Cervical
+Cranial
+nerves
+Thoracic
+Lumbar
+Sacral
+Liver
+Gall bladder
+This regulation depends on synaptic input from the 
+spinal cord and from supraspinal structures that control 
+the activity of the preganglionic neurons.
+Important groups of supraspinal neurons that 
+excite preganglionic sympathetic activity are located in 
+the rostral ventrolateral medulla, the raphe pallidus in 
+the brain stem, and the paraventricular nucleus in the 
+hypothalamus. Preganglionic neurons integrate these 
+descending inputs along with local segmental sensory 
+inputs and form synapses with neurons in paraverte-
+bral and prevertebral sympathetic ganglia (Figure 41–5).
+Ganglionic neurons in turn form synapses with a 
+variety of end organs, including blood vessels, heart, 
+bronchial airways, piloerector muscles, brown fat, and 
+salivary and sweat glands. Sympathetic neurons also 
+regulate immune function through projections to pri-
+mary lymphoid tissue in the bone marrow and thymus 
+and to secondary lymphoid cells in the spleen. A sub-
+set of preganglionic neurons synapse on chromaffin 
+cells in the medulla of the adrenal gland (Figure 41–5), 
+which secrete epinephrine (adrenaline) and norepi-
+nephrine (noradrenaline) into the circulation as hor-
+mones to act on distant targets.
+The paravertebral and prevertebral sympathetic 
+ganglia differ in both location and organization. 
+Paravertebral ganglia are distributed segmentally, 
+
+
+===== Page 7 =====
+1018    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Figure 41–5  The sympathetic outflow is organized into 
+groups of paravertebral and prevertebral ganglia.  The 
+axons of preganglionic cells in the spinal cord reach postgan-
+glionic neurons by way of ventral roots and the paraverte-
+bral sympathetic chain. The axons either form synapses on 
+postganglionic neurons in paravertebral ganglia or project out 
+of the chain into splanchnic nerves. Preganglionic axons in the 
+splanchnic nerves form synapses with postganglionic neurons 
+in prevertebral ganglia and with chromaffin cells in the adrenal 
+medulla.
+Chromafﬁn cells in
+the adrenal medulla 
+Prevertebral 
+ganglion
+Dorsal root 
+ganglion
+Ventral root
+Dorsal root
+Spinal Cord
+Postganglionic ﬁbers 
+to effector organs
+Postganglionic ﬁbers 
+to effector organs
+Spinal 
+nerve
+Paravertebral 
+ganglion
+Intermediolateral
+cell column 
+Ramus 
+communicantes
+Central 
+autonomic 
+area
+Splanchnic 
+nerve
+Paravertebral 
+sympathetic chain
+extending bilaterally as two chains from the first cer-
+vical segment to the last sacral segment. The chains 
+lie lateral to the vertebral column at its ventral mar-
+gin and generally contain one ganglion per segment  
+(Figures 41–4 and 41–5). Two important exceptions are 
+the superior cervical and stellate ganglia. The supe-
+rior cervical ganglion is a coalescence of several cer-
+vical ganglia and supplies sympathetic innervation 
+to the entire head, including the cerebral vasculature. 
+The stellate ganglion, which innervates the heart and 
+lungs, is a coalescence of ganglia from lower cervical 
+segments and the first thoracic segment. These sympa-
+thetic pathways have an orderly somatotopic relation 
+to one another from their segmental origin in pregan-
+glionic neurons to their terminus in peripheral targets.
+The prevertebral ganglia are midline struc-
+tures that lie close to the arteries for which they are 
+named (Figures 41–4 and 41–5). In addition to sending 
+sympathetic signals to visceral organs in the abdomen 
+and pelvis, these ganglia also receive sensory feedback 
+from their end organs.
+Parasympathetic Ganglia Innervate Single Organs
+In contrast to sympathetic ganglia, which regulate 
+many targets and lie some distance from their targets 
+close to the spinal cord, parasympathetic ganglia gen-
+erally innervate single end organs and lie near to or 
+within the end organs they regulate (Figure 41–4). In 
+addition, the parasympathetic system does not influ-
+ence lymphoid tissue, skin, or skeletal muscle except 
+in the head, where it regulates vascular beds in the jaw, 
+lip, and tongue.
+The cranial and sacral parasympathetic ganglia 
+innervate different targets. The cranial outflow includes 
+four ganglia in the head (Chapter 40). The oculomotor 
+
+
+===== Page 8 =====
+Chapter 41 / The Hypothalamus: Autonomic, Hormonal, and Behavioral Control of Survival     1019
+(III) nerve projects to the ciliary ganglion, which con-
+trols pupillary size and focus by innervating the iris 
+and ciliary muscles. The facial (VII) nerve and a small 
+component of the glossopharyngeal (IX) nerve project 
+to the pterygopalatine (or sphenopalatine) ganglion, 
+which promotes production of tears by the lacrimal 
+glands and mucus by the nasal and palatine glands. 
+Cranial nerve IX and a small component of nerve VII 
+project to the otic ganglion. Its postganglionic neurons 
+innervate the parotid, the largest salivary gland. Nerve 
+VII also projects to the submandibular ganglion, which 
+controls secretion of saliva by the submaxillary and 
+sublingual glands.
+The vagus (X) nerve projects broadly to parasym-
+pathetic ganglia in the heart, lungs, liver, gallbladder, 
+and pancreas. It also projects to the stomach, small 
+intestine, and more rostral segments of the gastroin-
+testinal tract. The caudal parasympathetic outflow 
+supplies the large intestine, rectum, bladder, and 
+reproductive organs.
+The Enteric Ganglia Regulate the  
+Gastrointestinal Tract
+The entire gastrointestinal tract, from the esopha-
+gus to the rectum—and including the pancreas and  
+gallbladder—is controlled by the system of enteric 
+ganglia. This system, by far the largest and most com-
+plex division of the autonomic nervous system, con-
+tains as many as 100 million neurons.
+The enteric system has been studied most exten-
+sively in the small intestine of the guinea pig. Its activ-
+ity is coordinated by two interconnected plexuses, 
+small islands of interconnected neurons. The myen-
+teric plexus controls smooth muscle movements of the 
+gastrointestinal tract; the submucous plexus controls 
+mucosal function (Figure 41–6). Working together, this 
+distributed network of ganglia coordinates the orderly 
+peristaltic propulsion of gastrointestinal contents and 
+controls the secretions of the stomach and intestines 
+and other components of digestion. In addition, the 
+enteric system regulates local blood flow and also 
+immune function in Peyer’s patches. The enteric sys-
+tem is modulated by external inputs from sympathetic 
+prevertebral ganglia and from parasympathetic com-
+ponents of the vagus nerve.
+Unlike the sympathetic and parasympathetic divi-
+sions of the autonomic system, the enteric plexus con-
+tains interneurons and sensory neurons in addition 
+to motor neurons. This intrinsic neural circuitry can 
+maintain the basic functions of the gut even after the 
+splanchnic sympathetic and vagal parasympathetic 
+pathways are cut. Through splanchnic nerves and the 
+afferent portion of the vagus nerve, the gastrointes-
+tinal tract also sends sensory information about the 
+physiological status of the tract to the spinal cord 
+and brain stem.
+Acetylcholine and Norepinephrine Are the Principal 
+Transmitters of Autonomic Motor Neurons
+All preganglionic neurons in the sympathetic and 
+parasympathetic systems use ACh as their excita-
+tory neurotransmitter, activating ionotropic nicotinic 
+ACh receptors on ganglionic neurons. These receptors 
+resemble those at the neuromuscular junction in hav-
+ing nonselective cation pores, but they are encoded by 
+different genes.
+Activation of the ganglionic neurons triggers 
+action potentials that propagate to postganglionic 
+synapses with end organs in the periphery. At these 
+end organ synapses, parasympathetic neurons release 
+ACh, which activates muscarinic G protein–coupled 
+receptors; sympathetic neurons release norepineph-
+rine, which activates α- and β-adrenergic G protein–
+coupled receptors. The postsynaptic action can be 
+either excitatory or inhibitory, depending on the type 
+of target cell and its receptors (Table 41–2). Notable 
+exceptions to this organization are the sympathetic 
+postganglionic neurons that control sweat glands. 
+They assume a cholinergic phenotype after birth.
+In addition to acting on different receptors in dif-
+ferent postsynaptic cells, one transmitter can activate 
+different receptor types in the same postsynaptic cell. 
+This principle was first discovered in sympathetic gan-
+glia where ACh activates both nicotinic and muscarinic 
+postsynaptic receptors to produce both a fast and slow 
+excitatory postsynaptic potential (Figure 41–7A and 
+Chapter 14). In some cases, one transmitter can acti-
+vate both a postsynaptic receptor as well as a receptor 
+on the presynaptic terminals from which the transmit-
+ter was released. Such presynaptic responses can cause 
+either presynaptic inhibition or presynaptic facilitation 
+(Figure 41–7B and Chapter 15). This specialization of 
+synaptic transmission in sympathetic and parasympa-
+thetic neurons leads to functional diversity in the regu-
+lation of end organ function.
+Cholinergic and adrenergic synaptic transmission 
+in the peripheral autonomic motor system is often 
+modulated by the co-release of various neuropep-
+tides, nitric oxide, or adenosine triphosphate, which 
+by activating multiple receptor types further con-
+tribute to functional diversity (Table 41–2 and Figure 
+41–7C). The motor responses elicited in end organs 
+depend on the identity of the postganglionic neuro-
+transmitters and the pre- and postsynaptic receptors 
+
+
+===== Page 9 =====
+1020    Part VI / The Biology of Emotion, Motivation, and Homeostasis
+Submucosal
+artery
+Muscularis
+mucosae
+Mucosal
+plexus
+Mucosa
+Longitudinal
+plexus
+Deep
+muscular
+plexus
+Circular
+smooth
+muscle
+Myenteric
+plexus
+B  Layers of wall
+Myenteric
+plexus
+Submucous
+plexus
+C  Laminar distribution of neurons within the intestinal wall
+To prevertebral 
+sympathetic ganglia
+Mucosa
+Deep muscular plexus
+Extrinsic sympathetic and 
+parasympathetic afferents
+ACh, ATP, NO, VIP
+NO, VIP, ATP
+ACh,  5-HT
+ACh, VIP, 
+CCK, ENK
+ACh, Tk
+(+)
+(–)
+ACh, Tk, ENK
+ACh, Tk
+ACh, Tk
+Oral
+Entero-endocrine cells
+ACh, Tk
+Gland
+(–)
+ACh, DYN
+ACh, NPY, CCK, 
+CGRP, SOM
+Arteriole
+(+)
+VIP, PACAP, GAL
+NO, VIP, ATP
+ACh, SOM
+Myenteric 
+plexus
+Circular 
+smooth
+muscle
+Submucous 
+plexus
+Anal
+Longitudinal 
+smooth
+muscle
+Submucous
+plexus
+Motor 
+neuron
+Sensory 
+neuron
+Interneuron
+Mucosa
+A  Cross section of intestinal wall
+Extrinsic efferent 
+and afferent nerves 
+and vasculature
+Figure 41–6  Organization of the enteric plexuses in the 
+guinea pig.  The myenteric plexus and submucous plexus lie 
+between the layers of intestinal wall (A and B). At least 14 types 
+of neurons have been identified within the enteric system based 
+on morphology, chemical coding, and functional properties (C). 
+Four sets of motor neurons provide excitatory (+) and inhibitory 
+(–) inputs to two smooth muscle layers. Three additional groups 
+of motor neurons control secretions from the mucosa and pro-
+duce vasodilation. The network also includes two major classes 
+of intrinsic sensory neurons. (Abbreviations: ACh, acetylcholine; 
+ATP, adenosine triphosphate; CCK, cholecystokinin; CGRP, 
+calcitonin gene-related polypeptide; DYN, dynorphin; ENK, 
+enkephalin; GAL, galanin; NO, nitric oxide; NPY, neuropeptide 
+Y; PACAP, pituitary adenylate cyclase-activating peptide; SOM, 
+somatostatin; Tk, tachykinin; VIP, vasoactive intestinal peptide; 
+5-HT, serotonin.) (Parts A and B adapted, with permission, from 
+Furness and Costa 1980; part C reproduced, with permission, 
+from Furness et al. 2004. Copyright © 2004 Elsevier Ltd.)
+
+

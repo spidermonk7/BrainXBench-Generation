@@ -1,0 +1,824 @@
+===== Page 1 =====
+15
+Transmitter Release
+S
+ome of the brain’s most remarkable abilities, such 
+as learning and memory, are thought to emerge 
+from the elementary properties of chemical syn-
+apses, where the presynaptic cell releases chemical trans-
+mitters that activate receptors in the membrane of the 
+postsynaptic cell. At most central synapses, transmitter 
+is released from the presynaptic cell at presynaptic bou-
+tons, varicosities along the axon (like beads on a string) 
+filled with synaptic vesicles and other organelles that 
+contact postsynaptic targets. At other synapses, includ-
+ing the neuromuscular junction, transmitter is released 
+from presynaptic terminals at the end of the axon. For 
+convenience, we will refer to both types of release sites as 
+presynaptic terminals. In the last three chapters, we saw 
+how postsynaptic receptors control ion channels that 
+generate the postsynaptic potential. Here we consider 
+how electrical and biochemical events in the presynaptic 
+terminal lead to the rapid release of small-molecule neu-
+rotransmitters, such as acetylcholine (ACh), glutamate, 
+and γ-aminobutyric acid (GABA), that underlie fast syn-
+aptic transmission. In the next chapter, we examine the 
+chemistry of the neurotransmitters themselves as well 
+as the biogenic amines (serotonin, norepinephrine, and 
+dopamine) and neuropeptides, which underlie slower 
+forms of intercellular signaling.
+Transmitter Release Is Regulated by 
+Depolarization of the Presynaptic Terminal
+What event at the presynaptic terminal leads to the 
+release of transmitter? Bernard Katz and Ricardo Miledi 
+first demonstrated the importance of depolarization of 
+the presynaptic membrane. For this purpose, they used 
+Transmitter Release Is Regulated by Depolarization of the 
+Presynaptic Terminal
+Release Is Triggered by Calcium Influx
+The Relation Between Presynaptic Calcium 
+Concentration and Release
+Several Classes of Calcium Channels Mediate 
+Transmitter Release
+Transmitter Is Released in Quantal Units
+Transmitter Is Stored and Released by Synaptic Vesicles
+Synaptic Vesicles Discharge Transmitter by Exocytosis 
+and Are Recycled by Endocytosis
+Capacitance Measurements Provide Insight Into the 
+Kinetics of Exocytosis and Endocytosis
+Exocytosis Involves the Formation of a Temporary 
+Fusion Pore
+The Synaptic Vesicle Cycle Involves Several Steps
+Exocytosis of Synaptic Vesicles Relies on a Highly Conserved 
+Protein Machinery
+The Synapsins Are Important for Vesicle Restraint and 
+Mobilization
+SNARE Proteins Catalyze Fusion of Vesicles With the 
+Plasma Membrane
+Calcium Binding to Synaptotagmin Triggers Transmitter 
+Release
+The Fusion Machinery Is Embedded in a Conserved 
+Protein Scaffold at the Active Zone
+Modulation of Transmitter Release Underlies Synaptic Plasticity
+Activity-Dependent Changes in Intracellular Free 
+Calcium Can Produce Long-Lasting Changes in Release
+Axo-axonic Synapses on Presynaptic Terminals Regulate 
+Transmitter Release
+Highlights
+
+
+===== Page 2 =====
+Chapter 15 / Transmitter Release    325
+Figure 15–1  Transmitter release is triggered by changes in 
+presynaptic membrane potential. (Adapted, with permission, 
+from Katz and Miledi 1967a.)
+A. Voltage recording electrodes are inserted in both the pre- 
+and postsynaptic fibers of the giant synapse in the stellate 
+ganglion of a squid. A current-passing electrode is also inserted 
+presynaptically to elicit a presynaptic action potential.
+B. Tetrodotoxin (TTX) is added to the solution bathing the cell 
+to block the voltage-gated Na+ channels that underlie the action 
+potential. The amplitudes of both the presynaptic action poten-
+tial and the excitatory postsynaptic potential (EPSP) gradually 
+decrease as more and more Na+ channels are blocked. After 
+7 minutes, the presynaptic action potential can still produce 
+a suprathreshold EPSP that triggers an action potential in the 
+postsynaptic cell. After about 14 to 15 minutes, the presynaptic 
+spike gradually becomes smaller and produces smaller postsyn-
+aptic depolarizations. When the presynaptic spike is reduced to 
+40 mV or less, it fails to produce an EPSP.  Thus, the size of the 
+presynaptic depolarization (here provided by the action  
+potential) controls the magnitude of transmitter release.
+C. The dependence of the amplitude of the EPSP on the ampli-
+tude of the presynaptic action potential is the basis for the input–
+output curve for transmitter release. This relation is obtained by 
+stimulating the presynaptic nerve during the onset of the block-
+ade by TTX of the presynaptic Na+ channels, when there is a 
+progressive reduction in the amplitude of the presynaptic action 
+potential and postsynaptic depolarization. The upper plot demon-
+strates that a 40-mV presynaptic action potential is required to 
+produce a postsynaptic potential. Beyond this threshold, there is 
+a steep increase in amplitude of the EPSP in response to small 
+increases in the amplitude of the presynaptic potential. The 
+relationship between the presynaptic spike and the EPSP is loga-
+rithmic, as shown in the lower plot. A 13.5-mV increase in the 
+presynaptic spike produces a 10-fold increase in the EPSP.
+the giant synapse of the squid, a synapse large enough 
+to permit insertion of electrodes into both pre- and 
+postsynaptic structures. Two electrodes are inserted 
+into the presynaptic terminal—one for stimulating and 
+one for recording—and one electrode is inserted into 
+the postsynaptic cell for recording the excitatory post-
+synaptic potential (EPSP), which provides an index of 
+transmitter release (Figure 15–1A).
+After the presynaptic neuron is stimulated and fires 
+an action potential, an EPSP large enough to trigger 
+an action potential is recorded in the postsynaptic cell. 
+Katz and Miledi then asked how the presynaptic action 
+potential triggers transmitter release. They found that as 
+voltage-gated Na+ channels are blocked by application 
+Presynaptic spike amplitude (mV)
+10
+20
+30
+40
+50
+60
+70
+0
+50
+60
+70
+2
+5
+10
+20
+Log EPSP
+EPSP (mV)
+5
+10
+15
+Voltage recording
+A  Experimental setup
+Current
+passing
+Voltage 
+recording
+Pre
+Post
+B  Potentials when Na+ channels are 
+progressively blocked by TTX
+C   Input–output curve of 
+postsynaptic response
+2 ms
+50 mV
++ 7 min
++ 14 min
+> 15 min
++ 15 min
+Post
+Pre
+of tetrodotoxin, successive action potentials become 
+progressively smaller. As the action potential is reduced 
+in size, the EPSP decreases accordingly (Figure 15–1B). 
+When the Na+ channel blockade becomes so profound 
+as to reduce the amplitude of the presynaptic spike 
+below 40 mV (positive to the resting potential), the EPSP 
+disappears altogether. Thus, the amount of transmit-
+ter release (as measured by the size of the postsynap-
+tic depolarization) is a steep function of the amount of 
+presynaptic depolarization (Figure 15–1C).
+Katz and Miledi next investigated how presynaptic 
+depolarization triggers transmitter release. The action 
+potential is produced by an influx of Na+ and an efflux 
+of K+ through voltage-gated channels. To determine 
+
+
+===== Page 3 =====
+326    Part III / Synaptic Transmission
+Figure 15–2  Transmitter release is not directly triggered by the 
+opening of presynaptic voltage-gated Na+ or K+ channels.  
+(Adapted, with permission, from Katz and Miledi 1967a.)
+A. Voltage recording electrodes are inserted in both the pre- 
+and postsynaptic fibers of the giant synapse in the stellate 
+ganglion of a squid. A current-passing electrode has also been 
+inserted into the presynaptic cell.
+B. Depolarizing the presynaptic terminal with direct current 
+injection through a microelectrode can trigger transmitter 
+release even after the voltage-gated Na+ channels are com-
+pletely blocked by adding tetrodotoxin (TTX) to the cell-bathing 
+solution. Three sets of traces represent (from bottom to top) 
+the depolarizing current pulse (I) injected into the presynaptic 
+terminal, the resulting potential in the presynaptic terminal 
+(Pre), and the EPSP generated by the release of transmitter 
+onto the postsynaptic cell (Post). Progressively stronger current 
+pulses in the presynaptic cell produce correspondingly greater 
+depolarizations of the presynaptic terminal. The greater the pre-
+synaptic depolarization, the larger is the EPSP. The presynaptic 
+depolarizations are not maintained throughout the duration of 
+the depolarizing current pulse because delayed activation of the 
+voltage-gated K+ channels causes repolarization.
+C. Transmitter release occurs even after the voltage-gated Na+ 
+channels have been blocked with TTX and the voltage-gated K+ 
+channels have been blocked with tetraethylammonium (TEA). 
+In this experiment, TEA was injected into the presynaptic ter-
+minal. The three sets of traces represent the same measure-
+ments as in part B. Because the presynaptic K+ channels are 
+blocked, the presynaptic depolarization is maintained through-
+out the current pulse. The large sustained presynaptic depolari-
+zation produces large sustained EPSPs.
+D. Blocking both the Na+ and K+ channels permits accurate con-
+trol of presynaptic voltage and the determination of a complete 
+input–output curve. Beyond a certain threshold (40 mV positive 
+to the resting potential), there is a steep relationship between 
+presynaptic depolarization and transmitter release, as meas-
+ured from the size of the EPSP. Depolarizations greater than a 
+certain level do not cause any additional release of transmitter. 
+The initial presynaptic resting membrane potential was approxi-
+mately −70 mV.
+whether Na+ influx or K+ efflux is required to trig-
+ger transmitter release, Katz and Miledi first blocked 
+the Na+ channels with tetrodotoxin. They then asked 
+whether direct depolarization of the presynaptic mem-
+brane, by current injection, would still trigger transmit-
+ter release. Indeed, depolarization of the presynaptic 
+membrane beyond a threshold of about 40 mV positive 
+to the resting potential elicits an EPSP in the postsyn-
+aptic cell even with the Na+ channels blocked. Beyond 
+that threshold, progressively greater depolarization 
+leads to progressively greater amounts of transmitter 
+release. This result shows that presynaptic Na+ influx 
+is not necessary for release; it is important only insofar 
+as it depolarizes the membrane enough for transmitter 
+release to occur (Figure 15–2B).
+To examine the contribution of K+ efflux to transmit-
+ter release, Katz and Miledi blocked the voltage-gated 
+K+ channels with tetraethylammonium at the same time 
+that they blocked the voltage-sensitive Na+ channels with 
+A  Experimental setup
+B  Potentials when Na+ 
+channels are blocked
+C  Potentials when K+ 
+channels are blocked
+I
+EPSP (mV)
+0
+60
+50
+40
+30
+20
+10
+TTX
+TTX + TEA
+Post
+Pre
+Presynaptic depolarization (mV)
+25
+50
+75
+70
+Voltage recording
+Current
+passing
+Voltage
+recording
+Pre
+Post
+D  Input–output curve of EPSP
+2 ms
+50 mV
+20 mV
+10 ms
+200 mV
+30 mV
+tetrodotoxin. They then injected a depolarizing current 
+into the presynaptic terminals and found that the EPSPs 
+were of normal size, indicating that normal transmitter 
+release occurred (Figure 15–2C). Thus, neither Na+ nor K+ 
+flux is required for transmitter release.
+In the presence of tetraethylammonium, the cur-
+rent pulse elicits presynaptic depolarization through-
+out the duration of the pulse because the K+ current 
+that normally repolarizes the presynaptic membrane 
+is blocked. As a result, transmitter release is sustained 
+throughout the current pulse as reflected in the pro-
+longed depolarization of the postsynaptic cell (Figure 
+15–2C). Quantification of the sustained depolarization 
+was used by Katz and Miledi to determine a complete 
+input–output curve relating presynaptic depolariza-
+tion to transmitter release (Figure 15–2D). They con-
+firmed the steep dependence of transmitter release on 
+presynaptic depolarization. In the range of depolariza-
+tion over which transmitter release increases (40–70 mV  
+
+
+===== Page 4 =====
+Chapter 15 / Transmitter Release    327
+Figure 15–3  Transmitter release is regulated by Ca2+ influx 
+into the presynaptic terminals through voltage-gated Ca2+ 
+channels. The voltage-sensitive Na+ and K+ channels in a squid 
+giant synapse were blocked by tetrodotoxin and tetraethyl-
+ammonium. The membrane of the presynaptic terminal was 
+voltage-clamped and membrane potential stepped to six differ-
+ent command levels of depolarization (bottom). The amplitude 
+of the postsynaptic depolarization (top) varies with the size 
+of the presynaptic inward Ca2+ current (middle) because the 
+amount of transmitter release is a function of the concentration 
+of Ca2+ in the presynaptic terminal. The notch in the postsynap-
+tic potential trace is an artifact that results from turning off the 
+presynaptic command potential. (Adapted, with permission, 
+from Llinás and Heuser 1977.)
+positive to the resting level), a 10-mV increase in pre-
+synaptic depolarization produces as much as a 10-fold 
+increase in transmitter release. Depolarization of the 
+presynaptic membrane above an upper limit produces 
+no further increase in the postsynaptic potential.
+Release Is Triggered by Calcium Influx
+Katz and Miledi next turned their attention to Ca2+ 
+ions. Earlier, Katz and José del Castillo had found 
+that increasing the extracellular Ca2+ concentration 
+enhanced transmitter release, whereas lowering the 
+concentration reduced and ultimately blocked syn-
+aptic transmission. Because transmitter release is an 
+intracellular process, these findings implied that Ca2+ 
+must enter the cell to influence transmitter release.
+Previous work on the squid giant axon membrane 
+had identified a class of voltage-gated Ca2+ channels, the 
+opening of which results in a large Ca2+ influx because 
+of the large inward electrochemical driving force on 
+Ca2+. The extracellular Ca2+ concentration, approxi-
+mately 2 mM in vertebrates, is normally four orders 
+of magnitude greater than the intracellular concentra-
+tion, approximately 10−7 M at rest. However, because 
+these Ca2+ channels are sparsely distributed along the 
+axon, they cannot, by themselves, provide enough cur-
+rent to produce a regenerative action potential.
+Katz and Miledi found that the Ca2+ channels were 
+much more abundant at the presynaptic terminal. There, 
+in the presence of tetraethylammonium and tetrodo-
+toxin, a depolarizing current pulse was sometimes able 
+to trigger a regenerative depolarization that required 
+extracellular Ca2+, a calcium spike. Katz and Miledi there-
+fore proposed that Ca2+ serves dual functions. It is a car-
+rier of depolarizing charge during the action potential 
+(like Na+), and it is a special chemical signal—a second 
+messenger—conveying information about changes 
+in membrane potential to the intracellular machinery 
+responsible for transmitter release. Calcium ions are 
+able to serve as an efficient chemical signal because of 
+their low intracellular resting concentration, approxi-
+mately 105-fold lower than the resting concentration of 
+Na+. As a result, the small amount of Ca2+  ions that enter 
+or leave a cell during an action potential can lead to large 
+percentage changes in intracellular Ca2+ that can trigger 
+various biochemical reactions. Proof of the importance 
+of Ca2+ channels in release has come from more recent 
+experiments showing that specific toxins that block Ca2+ 
+channels also block release.
+The properties of the voltage-gated Ca2+ channels 
+at the squid presynaptic terminal were measured by 
+Rodolfo Llinás and his colleagues. Using a voltage 
+clamp, Llinás depolarized the terminal while blocking 
+the voltage-gated Na+ channels with tetrodotoxin and 
+the K+ channels with tetraethylammonium. He found 
+that graded depolarizations activated a graded inward 
+Ca2+ current, which in turn resulted in graded release 
+of transmitter (Figure 15–3). The Ca2+ current is graded 
+because the Ca2+ channels are voltage-dependent like 
+the voltage-gated Na+ and K+ channels. Calcium ion 
+channels in squid terminals differ from Na+ channels, 
+however, in that they do not inactivate quickly but stay 
+open as long as the presynaptic depolarization lasts.
+Calcium channels are largely localized in pre-
+synaptic terminals at active zones, the sites where 
+neurotransmitter is released, exactly opposite the post-
+synaptic receptors (Figure 15–4). This localization is 
+important as Ca2+ ions do not diffuse long distances 
+from their site of entry because free Ca2+ ions are rap-
+idly buffered by Ca2+-binding proteins. As a result, 
+Ca2+ influx creates a sharp local rise in Ca2+ concentra-
+tion at the active zones. This rise in Ca2+ in the presyn-
+aptic terminals can be visualized using Ca2+-sensitive 
+Postsynaptic
+potential
+Presynaptic
+Ca2+ current
+Presynaptic
+command
+potential
+2 mV
+500 nA
+20 mV
+2 ms
+
+
+===== Page 5 =====
+328    Part III / Synaptic Transmission
+Figure 15–4  Calcium flowing into the presynaptic nerve ter-
+minal during synaptic transmission at the neuromuscular 
+junction is concentrated at the active zone. Calcium chan-
+nels in presynaptic terminals at the end-plate are concentrated 
+opposite clusters of nicotinic acetylcholine (ACh) receptors on 
+the postsynaptic muscle membrane. Two drawings show the 
+frog neuromuscular junction.
+A. The enlarged view shows the microanatomy of the neuro-
+muscular junction with the presynaptic terminal peeled back. 
+A fluorescent image shows the presynaptic Ca2+ channels 
+(labeled with a Texas red-coupled marine snail toxin that binds 
+to Ca2+ channels) and postsynaptic ACh receptors (labeled with 
+fluorescently tagged α-bungarotoxin, which binds selectively 
+to ACh receptors). The two images are normally superimposed 
+but have been separated for clarity. The patterns of labeling 
+with both probes are in almost precise register, indicating that 
+the active zone of the presynaptic neuron is in almost perfect 
+alignment with the postsynaptic membrane containing the high 
+concentration of ACh receptors. (Reproduced, with permission, 
+from Robitaille, Adler, and Charlton 1990.)
+B. Calcium influx in presynaptic terminals is localized at active 
+zones. Calcium can be visualized using Ca2+-sensitive fluores-
+cent dyes. 1. A presynaptic terminal at a neuromuscular junc-
+tion filled with the dye fura-2 under resting conditions is shown 
+in the black and white image. The fluorescence intensity of the 
+dye changes as it binds Ca2+. In the color image, color-coded 
+fluorescence intensity changes show local hotspots of intracel-
+lular Ca2+ in response to a single presynaptic action potential. 
+Red indicates regions with a large increase in Ca2+; blue indi-
+cates regions with little increase in Ca2+. Regular peaks in Ca2+ 
+concentration are seen along the terminal, corresponding to the 
+localization of Ca2+ channels at the active zones.  
+2. The color image shows a high-magnification view of the 
+peak increase in terminal Ca2+ levels. The corresponding black 
+and white image shows fluorescence labeling of nicotinic ACh 
+receptors in the postsynaptic membrane, illustrating the close 
+spatial correspondence between areas of presynaptic Ca2+ 
+influx and areas of postsynaptic receptors. Scale bar =  
+2 μm. (Reproduced, with permission, from Wachman et al. 
+2004. Copyright © 2004 Society for Neuroscience.)
+Nerve
+terminals
+Muscle ﬁbers
+Myelinated
+axon
+A
+12
+0
+Junctional 
+fold
+Active
+zones
+Postsynaptic
+ACh receptors
+Presynaptic
+Ca2+ channels
+1
+2
+Presynaptic
+Ca2+ channels
+Presynaptic
+Ca2+ 
+Presynaptic
+terminal
+Presynaptic
+Ca2+ 
+Postsynaptic
+ACh receptors
+[Ca2+] 
+B
+
+
+===== Page 6 =====
+Chapter 15 / Transmitter Release    329
+fluorescent dyes (Figure 15–4B). One striking feature 
+of transmitter release at all synapses is its steep and 
+nonlinear dependence on Ca2+ influx; a 2-fold increase 
+in Ca2+ influx can increase the amount of transmitter 
+released by more than 16-fold. This relationship indi-
+cates that at some regulatory site, the calcium sensor, the 
+cooperative binding of several Ca2+ ions is required to 
+trigger release.
+The Relation Between Presynaptic Calcium 
+Concentration and Release
+How much Ca2+ is necessary to induce release of neu-
+rotransmitters? To address this question, Bert Sakmann 
+and Erwin Neher and their colleagues measured syn-
+aptic transmission in the calyx of Held, a large synapse 
+in the mammalian auditory brain stem, composed of 
+axons from the cochlear nucleus to the medial nucleus 
+of the trapezoid body. This synapse is specialized for 
+very rapid and reliable transmission to allow for pre-
+cise localization of sound in the environment.
+The calyx forms a cup-like presynaptic terminal 
+that engulfs a postsynaptic cell body (Figure 15–5A). 
+The calyx synapse includes almost a thousand active 
+zones that function as independent release sites. This 
+enables a presynaptic action potential to release a large 
+amount of transmitter that results in a reliably large 
+postsynaptic depolarization. In contrast, individual 
+synaptic boutons of a typical neuron in the brain con-
+tain only a single active zone. Because the calyx termi-
+nal is large, it is possible to insert electrodes into both 
+the pre- and postsynaptic structures, much as with the 
+squid giant synapse, and directly measure the synaptic 
+coupling between the two compartments. This paired 
+recording allows a precise determination of the time 
+course of activity in the presynaptic and postsynaptic 
+cells (Figure 15–5B).
+These recordings revealed a brief lag of 1 to 2 ms 
+between the onset of the presynaptic action potential 
+and the EPSP, which accounts for what Sherrington 
+termed the synaptic delay. Because Ca2+ channels open 
+more slowly than Na+ channels, and the inward Ca2+ 
+driving force increases as the neuron repolarizes, Ca2+ 
+does not begin to enter the presynaptic terminal in full 
+force until the membrane has begun to repolarize. Sur-
+prisingly, once Ca2+ enters the terminal, transmitter is 
+rapidly released with a delay of only a few hundred 
+microseconds. Thus, the synaptic delay is largely attrib-
+utable to the time required to open Ca2+ channels. The 
+astonishing speed of Ca2+ action indicates that, prior 
+to Ca2+ influx, the biochemical machinery underlying 
+the release process must already exist in a primed and 
+ready state. Such rapid kinetics are vital for neuronal 
+information processing and require elegant molecular 
+mechanisms that we shall consider later.
+A presynaptic action potential normally produces 
+only a brief rise in presynaptic Ca2+ concentration 
+because the Ca2+ channels open only for a short time. 
+In addition, Ca2+ influx is localized at the active zone. 
+These two properties contribute to a concentrated local 
+pulse of Ca2+ that induces a burst of transmitter release 
+(Figure 15–5B). As we shall see later in this chapter, the 
+duration of the action potential regulates the amount of 
+Ca2+ that flows into the terminal and thus the amount 
+of transmitter release.
+To determine how much Ca2+ is needed to trigger 
+release, the Neher and Sakmann groups introduced 
+into the presynaptic terminal an inactive form of Ca2+ 
+complexed within a light-sensitive chemical cage. They 
+also loaded the terminals with a Ca2+-sensitive fluores-
+cent dye to assay the intracellular free Ca2+ concentra-
+tion. By uncaging the Ca2+ ions with a flash of light, 
+they could trigger transmitter release by a uniform 
+and quantifiable increase in Ca2+ concentration. These 
+experiments revealed that a rise in Ca2+ concentra-
+tion of less than 1 μM is sufficient to induce release of 
+some transmitter, but approximately 10 to 30 μM Ca2+ 
+is required to release the amount normally observed 
+during an action potential. Here again, the relationship 
+between Ca2+ concentration and transmitter release is 
+highly nonlinear, consistent with a model in which at 
+least four or five Ca2+ ions must bind to the Ca2+ sensor 
+to trigger release (Figure 15–5C,D).
+Several Classes of Calcium Channels Mediate 
+Transmitter Release
+Calcium channels are found in all nerve cells and in many 
+nonneuronal cells. In skeletal and cardiac muscle cells, 
+they are important for excitation-contraction coupling; 
+in endocrine cells, they mediate release of hormones. 
+Neurons contain five broad classes of voltage-gated 
+Ca2+ channels: the L-type, P/Q-type, N-type, R-type, 
+and T-type, which are encoded by distinct but closely 
+related genes that can be divided into three gene fami-
+lies based on amino acid sequence similarity. L-type 
+channels are encoded by the CaV1 family. Members of 
+the CaV2 family comprise P/Q- (CaV2.1), N- (CaV2.2), 
+and R-type (CaV2.3) channels. Finally, T-type channels 
+are encoded by the CaV3 gene family. Each channel type 
+has specific biophysical and pharmacological properties 
+and physiological functions (Table 15–1).
+Calcium channels are multimeric proteins whose 
+distinct properties are determined by their pore-
+forming subunit, the α1-subunit. The α1-subunit is 
+homologous to the α-subunit of the voltage-gated Na+ 
+
+
+===== Page 7 =====
+330    Part III / Synaptic Transmission
+Figure 15–5  The precise relation between presynaptic 
+Ca2+ and transmitter release at a central synapse has been 
+measured. (Reproduced, with permission, from Meinrenken, 
+Borst, and Sakmann 2003, and Sun et al. 2007. Parts A and B: 
+Copyright © 2003 John Wiley and Sons.)
+A. The large presynaptic terminal of the calyx of Held in the 
+mammalian brain stem engulfs a postsynaptic cell body. The 
+fluorescence image at left shows a calyx filled with a Ca2+-
+sensitive dye.
+B. Time courses for several synaptic events. The dashed lines 
+indicate the timing of the peak responses for the Ca2+ current, 
+transmitter release, and postsynaptic current.
+C. Transmitter release is steeply dependent on the Ca2+ con-
+centration in the presynaptic terminal. The calyx was loaded 
+with a caged Ca2+ compound that releases its bound Ca2+ in 
+response to a flash of ultraviolet light and with a Ca2+-sensitive 
+dye that allows the intracellular Ca2+ concentration to be meas-
+ured. By controlling the intensity of light, one can regulate 
+the increase in Ca2+ in the presynaptic terminal. The plot, on a 
+logarithmic scale, shows the relation between the rate of vesi-
+cle release and intracellular Ca2+ concentration. The blue line 
+depicts a fit of the data by a model that assumes that release 
+is triggered by a major Ca2+ sensor that binds five Ca2+ ions, 
+resulting in a Ca2+ cooperativity of five. Due to the nonlinear 
+relationship between Ca2+and release, small increments in Ca2+ 
+at concentrations of more than 1 μm cause massive increases 
+in release.
+D. The release of transmitter from a vesicle requires the binding 
+of five Ca2+ ions to a Ca2+-sensing synaptic vesicle protein. In the 
+figure, Ca2+ ions bind to five sensors present on a single vesicle; 
+in reality, each sensor molecule binds multiple Ca2+ ions.
+C
+5 µm
+Ca2+
+D
+Time (ms)
+0
+0.5
+1
+25 mV
+0.5 nA
+25 mV
+2 nA
+0.5 ms–1
+1.5
+2
+2.5
+3
+3.5
+Presynaptic
+action 
+potential
+Postsynaptic
+action 
+potential
+Presynaptic
+Ca2+ current
+Postsynaptic 
+current
+Transmitter 
+release rate
+B
+A
+Presynaptic
+terminal
+Postsynaptic
+cell
+Ca2+
+0.01
+0.001
+0.1
+1
+10
+100
+1000
+Peak release rate (ves./ms)
+0.01
+0.1
+1
+10
+[Ca2+]i (µM)
+
+
+===== Page 8 =====
+    331
+Table 15–1  Voltage-Gated Ca2+ Channels of Neurons
+Channel
+Former  
+name
+Ca2+ channel  
+type
+Tissue
+Blocker
+Voltage  
+dependence1
+Function
+CaV1.1−1.4
+α1C,D,F,S
+L
+Muscle, neurons
+Dihydropyridines
+HVA
+Contraction, slow 
+and some limited 
+fast release
+CaV2.1
+α1A
+P/Q
+Neurons
+ω-Agatoxin  
+(spider venom)
+HVA
+Fast release +++
+CaV2.2
+α1B
+N
+Neurons
+ω-Conotoxin  
+(cone snail venom)
+HVA
+Fast release ++
+CaV2.3
+α1E
+R
+Neurons
+SNX-482  
+(tarantula venom)
+HVA
+Fast release +
+CaV3.1–3.3
+α1G,H,I
+T
+Muscle, neurons
+Mibefradil (limited 
+selectivity)
+LVA
+Pacemaker firing
+1HVA, high voltage activated; LVA, low voltage activated.
+
+
+===== Page 9 =====
+332    Part III / Synaptic Transmission
+channel, comprised of four repeats of a domain with 
+six membrane-spanning segments that includes the 
+S4 voltage-sensor and pore-lining P-region (see Figure 
+8–10). Calcium channels also have auxiliary subunits 
+(termed α2, β, γ, and δ) that modify the properties of 
+the channel formed by the α1-subunit. The subcellular 
+localization in neurons of different types of calcium 
+channels also varies. The N- and P/Q-type Ca2+ chan-
+nels are found predominantly in the presynaptic ter-
+minal, whereas L-, R-, and T-type channels are found 
+largely in the soma and dendrites.
+Four of the types of voltage-gated Ca2+ channels—
+the L-type, P/Q-type, N-type, and R-type—generally 
+require fairly strong depolarization to be activated 
+(voltages positive to −40 to −20 mV are required) and 
+thus are sometimes loosely referred to as high-voltage-
+activated Ca2+ channels (Table 15–1). In contrast, T-type 
+channels open in response to small depolarizations 
+around the threshold for generating an action potential 
+(−60 to −40 mV) and are therefore called low-voltage-
+activated Ca2+ channels. Because they are activated by 
+small changes in membrane potential, the T-type chan-
+nels help control excitability at the resting potential 
+and are an important source of the excitatory current 
+that drives the rhythmic pacemaker activity of certain 
+cells in both the brain and heart.
+In neurons, the rapid release of conventional trans-
+mitters during fast synaptic transmission is mediated 
+mainly by P/Q-type and N-type Ca2+ channels, the 
+channel types most concentrated at the active zone. 
+The localization of N-type Ca2+ channels at the frog 
+neuromuscular junction has been visualized using a 
+fluorescence-labeled snail toxin that binds selectively 
+to these channels (see Figure 15–4A). The L-type chan-
+nels are not found in the active zone and thus do not 
+normally contribute to the fast release of conventional 
+transmitters such as ACh and glutamate. However, 
+Ca2+ influx through L-type channels is important for 
+slower forms of release that do not occur at specialized 
+active zones, such as the release of neuropeptides from 
+neurons and of hormones from endocrine cells. As we 
+shall see later, regulation of Ca2+ influx into presynap-
+tic terminals controls the amount of transmitter release 
+and hence the strength of synaptic transmission.
+Mutations in voltage-gated Ca2+ channels are 
+responsible for certain acquired and genetic diseases. 
+Timothy syndrome, a developmental disorder charac-
+terized by a severe form of autism with impaired cog-
+nitive function and a range of other pathophysiological 
+changes, results from a mutation in the α1-subunit of 
+L-type channels that alters their voltage-dependent 
+gating, thereby affecting dendritic integration. Differ-
+ent point mutations in the P/Q-type channel α1-subunit 
+give rise to hemiplegic migraine or epilepsy. Patients 
+with Lambert-Eaton syndrome, an autoimmune disease 
+associated with muscle weakness, make antibodies to 
+the P/Q-type channel α1-subunit that decrease total 
+Ca2+ current (Chapter 57).
+Transmitter Is Released in Quantal Units
+How does the influx of Ca2+  trigger transmitter release? 
+Katz and his colleagues provided a key insight into 
+this question by showing that transmitter is released 
+in discrete amounts they called quanta. Each quantum 
+of transmitter produces a postsynaptic potential of 
+fixed size, called the quantal synaptic potential. The total 
+postsynaptic potential is made up of a large number 
+of quantal potentials. EPSPs seem smoothly graded in 
+amplitude only because each quantal (or unit) poten-
+tial is small relative to the total potential.
+Katz and Fatt obtained the first clue as to the 
+quantal nature of synaptic transmission in 1951 when 
+they observed spontaneous postsynaptic potentials of 
+approximately 0.5 mV at the nerve-muscle synapse of 
+the frog. Like end-plate potentials evoked by nerve 
+stimulation, these small depolarizing responses are 
+largest at the site of nerve-muscle contact and decay 
+electrotonically with distance (see Figure 12–5). Small 
+spontaneous potentials have since been observed in 
+mammalian muscle and in central neurons. Because 
+postsynaptic potentials at vertebrate nerve-muscle 
+synapses are called end-plate potentials, Fatt and Katz 
+called these spontaneous potentials miniature end-plate 
+potentials.
+Several results convinced Fatt and Katz that the 
+miniature end-plate potentials represented responses 
+to the release of small amounts of ACh, the neurotrans-
+mitter used at the nerve-muscle synapse. The time 
+course of the miniature end-plate potentials and the 
+effects of various drugs on them are indistinguish-
+able from the properties of the end-plate potential. 
+Like the end-plate potentials, the miniature end-plate 
+potentials are enhanced and prolonged by prostig-
+mine, a drug that blocks hydrolysis of ACh by ace-
+tylcholinesterase. Conversely, they are abolished by 
+agents that block the ACh receptor, such as curare. The 
+miniature end-plate potentials represent responses to 
+small packets of transmitter that are spontaneously 
+released from the presynaptic nerve terminal in the 
+absence of an action potential. Their frequency can be 
+increased by a small depolarization of the presynap-
+tic terminal. They disappear if the presynaptic motor 
+nerve degenerates and reappear when a new motor 
+synapse is formed.
+
+
