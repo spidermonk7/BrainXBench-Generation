@@ -20,5 +20,10 @@ if __name__ == "__main__":
     path = "Benches/backward/csvs/BrainXBench_TEXT.csv"
     path = "Benches/backward/csvs/BrainXBench_TEXT_mini.csv"
     path = "Benches/forward/final/csvs/Incorrect_Causal_Relationship-V0.6.csv"
-    # path = "Benches/forward/final/csvs/Opposite_Outcome-V0.6.csv"
-    pack_data(path)
+    pathes = [
+        "Benches/forward/final/csvs/Incorrect_Causal_Relationship-V0.6.csv", 
+        "Benches/forward/final/csvs/Opposite_Outcome-V0.6.csv",
+        "Benches/forward/final/csvs/Factor_Misattribution-V0.6.csv"
+    ]
+    for path in pathes:
+        pack_data(path)

@@ -1,5 +1,6 @@
 from utils import *
 from infos import *
+import random
 
 
 
@@ -37,24 +38,44 @@ def load_brainXbench_backward(question_type, mini):
 
 def build_brainXbench_forward(raw_path):
     bench_data = load_csv(raw_path)
-
     for result_type in ["Opposite_Outcome", "Incorrect_Causal_Relationship", "Factor_Misattribution"]:
         bench_dics = []
         for item in bench_data:
             bench_dic = {}
             fake_abstract = item["Background"] + ' ' + item["Method"] + ' ' + item[result_type]
-            bench_dic["true_abstract"] = item["Abstract"]
-            bench_dic["fake_abstract"] = fake_abstract
-           
+            # randomly shuffle which goes first
+            if random.random() > 0.5:
+                bench_dic["text 1"] = item["Abstract"]
+                bench_dic["text 2"] = fake_abstract
+                bench_dic["label"] = "text 1"
+            else:
+                bench_dic["text 1"] = fake_abstract
+                bench_dic["text 2"] = item["Abstract"]
+                bench_dic["label"] = "text 2"
+
             if item[f"valid: {result_type}"] == 1:
                 bench_dics.append(bench_dic)
+
         save_path = f"Benches/forward/final/csvs"
         check_path(save_path)
-        save_to_csv(bench_dics, save_path, f"{result_type}-V0.6")
-        print(f"✅: Successfully saved the data to {save_path}")
+        # check if the file exist
+        if os.path.exists(f"{save_path}/{result_type}-V0.6.csv"):
+            print(f"💁: The file {result_type}-V0.6.csv already exists.")
+            os.remove(f"{save_path}/{result_type}-V0.6.csv")
+            save_to_csv(bench_dics, save_path, f"{result_type}-V0.6")
+        else:
+            save_to_csv(bench_dics, save_path, f"{result_type}-V0.6")
+            print(f"✅: Successfully saved the data to {save_path}")
+
+
+
 
 
 
 if __name__ == "__main__":
     path = "Benches/forward/flip/csvs/valids_v_direct0.6.csv"
     build_brainXbench_forward(path)
+
+    load_brainXbench_forward("Opposite_Outcome")
+    load_brainXbench_forward("Incorrect_Causal_Relationship")
+    load_brainXbench_forward("Factor_Misattribution")
