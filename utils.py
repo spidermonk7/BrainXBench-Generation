@@ -362,9 +362,37 @@ def check_split_result(path = "Benches/forward/split/v_direct2.0.csv", save = Tr
 
 
 
+import json
+import re
+
+def parse_json_response(response: str):
+    """
+    Parses a JSON response string, removing markdown-style ```json wrappers if present.
+
+    Args:
+        response (str): The raw response string from LLM.
+
+    Returns:
+        dict: The parsed JSON object, or None if parsing fails.
+    """
+    response = response.strip()
+
+    # Check if the response is wrapped in a markdown code block
+    if response.startswith("```json") or response.startswith("```"):
+        response = re.sub(r"^```json\s*", "", response)  # Remove ```json at the start
+        response = re.sub(r"^```\s*", "", response)  # Remove ``` at the start
+        response = re.sub(r"\s*```$", "", response)  # Remove ``` at the end
+
+    try:
+        return json.loads(response)
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON: {e}")
+        return None  # Return None if JSON parsing fails
 
 
-# 示例调用
+
+
+
 if __name__ == "__main__":
     # input_pdf = PRINCIPLE_NEURAL_SCIENCE_PDF
     # output_folder = PRINCIPLE_NEURAL_SCIENCE_PATH + "/chapters/"

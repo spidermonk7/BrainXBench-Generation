@@ -47,8 +47,8 @@ Modify **one key scientific conclusion** in the Conclusion section by **replacin
 4. **Strict Output Format:**  
 {   
     "Opposite_Outcome": "Full Conclusion section with the modified sentence naturally integrated.",
-    "Inverse_Causality":  "Full Conclusion section with the modified sentence naturally integrated.", 
-    "Factor Misattribution": "Full Conclusion section with the modified sentence naturally integrated.", 
+    "Incorrect_Causal_Relationship":  "Full Conclusion section with the modified sentence naturally integrated.", 
+    "Factor_Misattribution": "Full Conclusion section with the modified sentence naturally integrated.", 
     "Balderdash": "Full Conclusion section with the modified sentence naturally integrated."
 }
 ---

@@ -112,7 +112,7 @@ def generate_forward(task,
        
         bench_data = [paper_info]
 
-        save_to_csv(bench_data, save_path, "v_direct0.6")
+        save_to_csv(bench_data, save_path, "v_direct0.6.1")
         print(f"✅ Process results of abstract {id} is saved to {save_path}")
 
 
@@ -169,7 +169,9 @@ if __name__ == "__main__":
         # Generate the flip bench
         # This would save the data to flip/v1.csv
         valid_split_path = "Benches/forward/split/v2_valids_sum.csv"
-        generate_forward("flip", "prompts/forwards/flip-v0.6.md", valid_split_path, save_path)
+        model_name = 'gpt-4-turbo'
+        generate_forward("flip", "prompts/forwards/flip-v0.6.md", valid_split_path, save_path, model_name=model_name)
+
 
   
     else:
