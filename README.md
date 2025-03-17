@@ -2,6 +2,8 @@
 
 Welcome to **BrainXBench-Generation**! This repository is designed to streamline the generation and handling of BrainXBench data. Below, you'll find everything you need to understand, set up, and use this repository effectively. 
 
+**⚠️ This Repo is still under developing, some function(especially for new_bench generation)**
+
 ## 📂 Project Structure
 
 | File/Folder | Description |
@@ -52,27 +54,39 @@ backward_bench = load_brainXbench_backward(question_type, mini) # TF-bench suppo
 print("🤖: Data Loaded Successfully!")
 ```
 
-### 2️⃣ Generating New Data
+## Generating New Data
 
-To generate BrainXBench data, use:
-*(detail usage coming soon, now run generate_BrainX.py with default setting would generate new BXB-forward)*
+### 1️⃣ Generate Raw Split and Flip results with LLM(GPT-4o)
+To generate BrainXBench-Backward, use:
 ```bash
-python generate_BrainX.py 
+python generate_BrainX.py --task_type CHOICE --bookname Koch --bench_type backward --BackQS_num 10
+```
+And for BrainXBench-Forward
+```bash
+python generate_BrainX.py --bench_type forwards
 ```
 
-### 3️⃣ Packaging Data
-
-Organize and pack data using `data_packer.py`(This would automatically save csv data to both json and parquet)
-    - The packed data file will be saved in the jsons/ and parquets/ folders, alongside the csvs/ folder in the same path.
-```python
-from data_packer import pack_data
-
-data_path = "Benches/forward/flip/csvs/v_direct0.4.csv"
-pack_data(data_path)
+### 2️⃣ Validate LLM's modification
+```bash
+python python validate_BrainX.py -V your_bench_version -pv your_prompt_for_validation.md
 ```
+
+### 3️⃣ From RAW file to BenchData
+```bash
+python load_brainXbench.py -V 0.6
+```
+
+### 4️⃣ Pack data to: csv | parquet | json
+```bash
+python data_packer.py -V your_bench_version
+```
+
 
 ## 📌 Contribution
 Feel free to contribute! Fork the repo, make changes, and submit a pull request. Let's build something great together! 🚀
+
+
+
 
 ## 📝 License
 This project is licensed under the YOU-KNOW-WHO License.

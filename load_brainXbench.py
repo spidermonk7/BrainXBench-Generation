@@ -1,7 +1,7 @@
 from utils import *
 from infos import *
 import random
-
+from argparse import ArgumentParser
 
 
 def load_brainXbench_forward(result_type,file_type = "csv", data_version = 0.6):
@@ -73,9 +73,16 @@ def build_brainXbench_forward(raw_path):
 
 
 if __name__ == "__main__":
-    path = "Benches/forward/flip/csvs/valids_v_direct0.6.csv"
-    build_brainXbench_forward(path)
 
+    args = ArgumentParser()
+    args.add_argument("-V", type = float, default = 0.6, help = "The bench version corresponding to your own prompt")
+    args = args.parse_args()
+
+    path = f"Benches/forward/flip/csvs/valids_v_direct{args.V}.csv"
+    build_brainXbench_forward(path)
     load_brainXbench_forward("Opposite_Outcome")
     load_brainXbench_forward("Incorrect_Causal_Relationship")
     load_brainXbench_forward("Factor_Misattribution")
+
+
+    # python load_brainXbench.py -V 0.6

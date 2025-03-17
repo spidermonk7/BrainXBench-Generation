@@ -59,7 +59,8 @@ def generate_forward(task,
                     prompt_path, 
                     source_path, 
                     save_path, 
-                    model_name = "gpt-4o"
+                    model_name = "gpt-4o", 
+                    version = 0.6
                     ):
     """
     Function for generating the forward bench, including two steps: Split and Flip.
@@ -112,7 +113,7 @@ def generate_forward(task,
        
         bench_data = [paper_info]
 
-        save_to_csv(bench_data, save_path, "v_direct0.6.1")
+        save_to_csv(bench_data, save_path, f"v_direct{version}")
         print(f"✅ Process results of abstract {id} is saved to {save_path}")
 
 
@@ -124,6 +125,7 @@ if __name__ == "__main__":
     args.add_argument("--bookname", type = str, default = "Koch", help = "The book name for the backward bench.")
     args.add_argument("--bench_type", type = str, default = "forwards", help = "The bench type for the backward bench.")
     args.add_argument("--BackQS_num", type = int, default = 10, help = "The number of questions for each chapter.")
+    args.add_argument("-V", type = float, default = 0.6, help = "The bench version corresponding to your own prompt")
     args = args.parse_args()
 
 
@@ -138,13 +140,13 @@ if __name__ == "__main__":
             question_type, prompt_path, source_path, 
             save_path = save_path, book_name=args.bookname, 
             question_num = args.BackQS_num, 
-            name = f"BrainXBench_{question_type}_v2"
+            name = f"BrainXBench_{question_type}_v{args.V}"
             )
 
     elif args.bench_type == "forwards":
         # path = "data/neuroscience/pubmed/v1.csv"
         save_path = f"Benches/forward/"
-        # check_path(save_path)
+        check_path(save_path)
 
         # # Check if the raw data(raw abstracts) are valid, this would save the valid data to valids.csv
         # path = "data/pubmed/data.csv"
@@ -169,10 +171,14 @@ if __name__ == "__main__":
         # Generate the flip bench
         # This would save the data to flip/v1.csv
         valid_split_path = "Benches/forward/split/v2_valids_sum.csv"
-        model_name = 'gpt-4-turbo'
-        generate_forward("flip", "prompts/forwards/flip-v0.6.md", valid_split_path, save_path, model_name=model_name)
+        model_name = 'gpt-4o'
+        generate_forward("flip", f"prompts/forwards/flip-v{args.V}.md", valid_split_path, save_path, model_name=model_name)
 
 
   
     else:
         raise ValueError("Invalid bench type, please choose from backwards and forwards.")
+    
+
+# python generate_BrainX.py --task_type CHOICE --bookname Koch --bench_type backward --BackQS_num 10
+# python generate_BrainX.py --bench_type forwards

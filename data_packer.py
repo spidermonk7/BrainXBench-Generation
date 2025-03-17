@@ -1,7 +1,7 @@
 import pandas as pd
 from utils import *
 from infos import *
-
+from argparse import ArgumentParser
 
 def pack_data(data_path):
     csv_data = load_csv(data_path)
@@ -16,14 +16,16 @@ def pack_data(data_path):
  
 
 if __name__ == "__main__":
-    path = "Benches/forward/flip/csvs/v_direct0.4.csv"
-    path = "Benches/backward/csvs/BrainXBench_TEXT.csv"
-    path = "Benches/backward/csvs/BrainXBench_TEXT_mini.csv"
-    path = "Benches/forward/final/csvs/Incorrect_Causal_Relationship-V0.6.csv"
+    args = ArgumentParser()
+    args.add_argument("-V", type = float, default = 0.6, help = "The bench version corresponding to your own prompt")
+
+    args = args.parse_args()
     pathes = [
-        "Benches/forward/final/csvs/Incorrect_Causal_Relationship-V0.6.csv", 
-        "Benches/forward/final/csvs/Opposite_Outcome-V0.6.csv",
-        "Benches/forward/final/csvs/Factor_Misattribution-V0.6.csv"
+        f"Benches/forward/final/csvs/Incorrect_Causal_Relationship-V{args.V}.csv", 
+        f"Benches/forward/final/csvs/Opposite_Outcome-V{args.V}.csv",
+        f"Benches/forward/final/csvs/Factor_Misattribution-V{args.V}.csv"
     ]
     for path in pathes:
         pack_data(path)
+
+    # python data_packer.py -V your_bench_version

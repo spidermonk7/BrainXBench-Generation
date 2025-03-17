@@ -6,6 +6,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import ast
 from utils import *
 from infos import *
+from argparse import ArgumentParser
 
 
 def validate_bench(task, 
@@ -64,9 +65,19 @@ def validate_bench(task,
 
 
 if __name__ == "__main__":
+
+    args = ArgumentParser()
+    args.add_argument("-V", type = float, default = 0.6, help = "The bench version corresponding to your own prompt")
+    args.add_argument("-pv", "--prompt_validation", type=str, default="prompts/forwards/validation.md", help="The prompt for validation.")
+    args = args.parse_args()
+
+
     validate_bench(
         task="flip", 
-        prompt_path="prompts/forwards/validation.md",
-        source_path="Benches/forward/flip/csvs/v_direct0.6.csv",
+        prompt_path=args.prompt_validation,
+        source_path=f"Benches/forward/flip/csvs/v_direct{args.V}.csv",
         save_path="Benches/forward/", 
     )
+
+
+    # python validate_BrainX.py -V your_bench_version -pv your_prompt_for_validation.md
