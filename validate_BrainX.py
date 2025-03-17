@@ -6,7 +6,6 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import ast
 from utils import *
 from infos import *
-from argparse import ArgumentParser
 
 
 def validate_bench(task, 
@@ -30,7 +29,7 @@ def validate_bench(task,
     save_path = save_path + task + '/csvs'
     check_path(save_path)
     for id, paper_info in enumerate(brainXBench):
-        if id < 37:
+        if id != 84:
             continue
         params = {
             "initial_conclusion": paper_info["Result"],
@@ -62,8 +61,6 @@ def validate_bench(task,
 
         save_to_csv(bench_data, save_path, "valids_v_direct0.6")
         print(f"✅ Process results of abstract {id} is saved to {save_path}")
-
-
 
 
 if __name__ == "__main__":

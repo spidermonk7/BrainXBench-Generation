@@ -1,4 +1,4 @@
-from utils import load_csv
+from utils import *
 from infos import *
 
 
@@ -14,15 +14,8 @@ def load_brainXbench_forward(result_type, path ="Benches/forward/flip/csvs/v_dir
     (1) List of dictionary with fake_abstract and true_abstract
     """
     bench_data = load_csv(path)
-    bench_dics = []
-    for item in bench_data:
-        bench_dic = {}
-        fake_abstract = item["Background"] + ' ' + item["Method"] + ' ' + item[result_type]
-        bench_dic["true_abstract"] = item["Abstract"]
-        bench_dic["fake_abstract"] = fake_abstract
-        bench_dics.append(bench_dic)
 
-    return bench_dics
+    return bench_data
         
 
 def load_brainXbench_backward(question_type, mini):
@@ -37,7 +30,31 @@ def load_brainXbench_backward(question_type, mini):
     return bench_data
     
 
+
+
+# Opposite_Outcome	Incorrect_Causal_Relationship	Factor_Misattribution	Balderdash	modification: Opposite_Outcome	valid: Opposite_Outcome	modification: Factor_Misattribution	valid: Factor_Misattribution	modification: Incorrect_Causal_Relationship	valid: Incorrect_Causal_Relationship
+
+def build_brainXbench_forward(raw_path):
+    bench_data = load_csv(raw_path)
+
+    for result_type in ["Opposite_Outcome", "Incorrect_Causal_Relationship", "Factor_Misattribution"]:
+        bench_dics = []
+        for item in bench_data:
+            bench_dic = {}
+            fake_abstract = item["Background"] + ' ' + item["Method"] + ' ' + item[result_type]
+            bench_dic["true_abstract"] = item["Abstract"]
+            bench_dic["fake_abstract"] = fake_abstract
+           
+            if item[f"valid: {result_type}"] == 1:
+                bench_dics.append(bench_dic)
+        save_path = f"Benches/forward/final/csvs"
+        check_path(save_path)
+        save_to_csv(bench_dics, save_path, f"{result_type}-V0.6")
+        print(f"✅: Successfully saved the data to {save_path}")
+
+
+
+
 if __name__ == "__main__":
-    bench = load_brainXbench_forward("Opposite_Outcome")
-    for item in bench[0:5]:
-        print(item)
+    path = "Benches/forward/flip/csvs/valids_v_direct0.6.csv"
+    build_brainXbench_forward(path)
