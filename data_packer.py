@@ -20,4 +20,6 @@ def pack_data(data_path):
 
 if __name__ == "__main__":
     path = "Benches/forward/flip/csvs/v_direct0.4.csv"
+    path = "Benches/backward/csvs/BrainXBench_TEXT.csv"
+    path = "Benches/backward/csvs/BrainXBench_TEXT_mini.csv"
     pack_data(path)
