@@ -3,7 +3,7 @@ from infos import *
 
 
 
-def load_brainXbench_forward(result_type, path ="Benches/forward/flip/csvs/v_direct0.6.csv"):
+def load_brainXbench_forward(result_type,file_type = "csv", data_version = 0.6):
     """
     Function for loading brainXbench forward data
     Required:
@@ -13,6 +13,7 @@ def load_brainXbench_forward(result_type, path ="Benches/forward/flip/csvs/v_dir
     Return:
     (1) List of dictionary with fake_abstract and true_abstract
     """
+    path = f"Benches/forward/final/{file_type}s/{result_type}-V{data_version}.{file_type}"
     bench_data = load_csv(path)
 
     return bench_data
@@ -51,7 +52,6 @@ def build_brainXbench_forward(raw_path):
         check_path(save_path)
         save_to_csv(bench_dics, save_path, f"{result_type}-V0.6")
         print(f"✅: Successfully saved the data to {save_path}")
-
 
 
 
