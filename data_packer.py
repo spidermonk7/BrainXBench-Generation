@@ -6,7 +6,6 @@ from infos import *
 def pack_data(data_path):
     csv_data = load_csv(data_path)
     df = pd.DataFrame(csv_data)
-
     path = data_path[:data_path.rfind("/")]
     check_path(path.replace("csv", "parquet"))
     check_path(path.replace("csv", "json"))
@@ -15,8 +14,6 @@ def pack_data(data_path):
 
     print(f"✅: Successfully saved the data to {data_path.replace('csv', 'parquet')} and {data_path.replace('csv', 'json')}")
  
-
-
 
 if __name__ == "__main__":
     path = "Benches/forward/flip/csvs/v_direct0.4.csv"

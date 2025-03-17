@@ -17,7 +17,6 @@ def load_brainXbench_forward(result_type, path ="Benches/forward/flip/csvs/v_dir
     bench_dics = []
     for item in bench_data:
         bench_dic = {}
-       
         fake_abstract = item["Background"] + ' ' + item["Method"] + ' ' + item[result_type]
         bench_dic["true_abstract"] = item["Abstract"]
         bench_dic["fake_abstract"] = fake_abstract

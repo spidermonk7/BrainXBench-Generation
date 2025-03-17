@@ -375,7 +375,7 @@ def parse_json_response(response: str):
     Returns:
         dict: The parsed JSON object, or None if parsing fails.
     """
-    # response = response.strip()
+    response = response.strip()
     # print(f"Initial response")
     # print(f"{response}")
     # print('='*20)
