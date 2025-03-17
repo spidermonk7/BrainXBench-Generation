@@ -80,23 +80,16 @@ For each modification, answer the following questions:
 ---
 
 ### **Response Format (JSON Output)**  
-
 Your response should follow this JSON format:  
 
 ```json
 {
-    "Opposite_Outcome": {
-        "modification": "modified sentence here",
-        "valid": 1 or 0
-    },
-    "Factor_Misattribution": {
-        "modification": "modified sentence here",
-        "valid": 1 or 0
-    },
-    "Incorrect_Causal_Relationship": {
-        "modification": "modified sentence here",
-        "valid": 1 or 0
-    }
+    "modification: Opposite_Outcome": "the modification here" ,
+    "valid: Opposite_Outcome": 1 or 0, 
+    "modification: Factor_Misattribution":  "modification here",
+    "valid: Factor_Misattribution": 1 or 0,
+    "modification: Incorrect_Causal_Relationship":  "modification here",
+    "valid: Incorrect_Causal_Relationship": 1 or 0,
 }
 ```
 

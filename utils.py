@@ -375,22 +375,25 @@ def parse_json_response(response: str):
     Returns:
         dict: The parsed JSON object, or None if parsing fails.
     """
-    response = response.strip()
-
-    # Check if the response is wrapped in a markdown code block
-    if response.startswith("```json") or response.startswith("```"):
-        response = re.sub(r"^```json\s*", "", response)  # Remove ```json at the start
-        response = re.sub(r"^```\s*", "", response)  # Remove ``` at the start
-        response = re.sub(r"\s*```$", "", response)  # Remove ``` at the end
+    # response = response.strip()
+    # print(f"Initial response")
+    # print(f"{response}")
+    # print('='*20)
+    # # Check if the response is wrapped in a markdown code block
+    # if response.startswith("```json") or response.startswith("```"):
+    #     response = re.sub(r"^```json\s*", "", response)  # Remove ```json at the start
+    #     response = re.sub(r"^```\s*", "", response)  # Remove ``` at the start
+    #     response = re.sub(r"\s*```$", "", response)  # Remove ``` at the end
+    # print(f"Response after removing markdown")
+    # print(f"{response}")
+    # print('='*20)
 
     try:
-        return json.loads(response)
-    except json.JSONDecodeError as e:
-        print(f"Error decoding JSON: {e}")
-        return None  # Return None if JSON parsing fails
-
-
-
+        return eval(response)
+    except Exception as e:
+        print(f"❌: Error occurs when parsing response: {response}")
+        print(f"❌: Error message: {e}")
+        return None
 
 
 if __name__ == "__main__":

@@ -32,6 +32,7 @@ def validate_bench(task,
     save_path = save_path + task + '/csvs'
     check_path(save_path)
     for id, paper_info in enumerate(brainXBench):
+        if id < 73: continue
         params = {
             "initial_conclusion": paper_info["Result"],
             "Opposite_Outcome": paper_info["Opposite_Outcome"],
@@ -47,7 +48,8 @@ def validate_bench(task,
 
         try:
             print(f"type of response: {type(response)}")
-            response = parse_json_response(response)
+            # response = parse_json_response(response)
+            response = eval(response)
             print(f"Successfully evaluate the response to type {type(response)}")
         except:
             print(f"❌: Error occurs when processing abstract {id}.")
@@ -59,7 +61,7 @@ def validate_bench(task,
        
         bench_data = [paper_info]
 
-        save_to_csv(bench_data, save_path, "valids_v_direct0.6.1")
+        save_to_csv(bench_data, save_path, "valids_v_direct0.6")
         print(f"✅ Process results of abstract {id} is saved to {save_path}")
 
 
@@ -69,6 +71,6 @@ if __name__ == "__main__":
     validate_bench(
         task="flip", 
         prompt_path="prompts/forwards/validation.md",
-        source_path="Benches/forward/flip/csvs/v_direct0.6.1.csv",
+        source_path="Benches/forward/flip/csvs/v_direct0.6.csv",
         save_path="Benches/forward/", 
     )
