@@ -2,7 +2,7 @@
 
 Welcome to **BrainXBench-Generation**! This repository is designed to streamline the generation and handling of BrainXBench data. Below, you'll find everything you need to understand, set up, and use this repository effectively. 
 
-**⚠️ This Repo is still under developing, some function(especially for new_bench generation)**
+# ⚠️ This Repo is still under developing, some function**(especially for new_bench generation)**
 
 ## 📂 Project Structure
 
