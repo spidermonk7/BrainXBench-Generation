@@ -29,3 +29,10 @@ if __name__ == "__main__":
         pack_data(path)
 
     # python data_packer.py -V your_bench_version
+
+    pathes = [
+        "Benches/backward/final/csvs/BrainXBench_CHOICE.csv",
+        "Benches/backward/final/csvs/BrainXBench_CHOICE_mini.csv"
+    ]
+    for path in pathes:
+        pack_data(path)
