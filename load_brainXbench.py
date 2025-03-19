@@ -71,6 +71,52 @@ def build_brainXbench_forward(raw_path):
 
 
 
+def build_brainXbench_backward(raw_path):
+    bench_data = load_csv(raw_path)
+    
+    mini = "_mini" if "mini" in path else ""
+
+    bench_dics = []
+    for item in bench_data:
+        bench_dic = {}
+        descriptionA = item["Description A"]
+        descriptionB = item["Description B"]
+        judgeA = item["Judgement A"]
+        judgeB = item["Judgement B"]
+
+
+
+        # randomly shuffle which goes first
+        if random.random() > 0.5:
+            bench_dic["text 1"] = descriptionA
+            bench_dic["text 2"] = descriptionB
+            if judgeA == 1:
+                bench_dic["label"] = "text 1"
+            else:
+                bench_dic["label"] = "text 2"
+
+        else:
+            bench_dic["text 1"] = descriptionB
+            bench_dic["text 2"] = descriptionA
+            if judgeB == 1:
+                bench_dic["label"] = "text 1"
+            else:
+                bench_dic["label"] = "text 2"
+        bench_dics.append(bench_dic)
+
+    save_path = f"Benches/backward/final/csvs"
+    check_path(save_path)
+
+    # check if the file exist
+    if os.path.exists(f"{save_path}/BrainXBench_CHOICE{mini}"):
+        if input(f"💁: The file BrainXBench_CHOICE{mini}.csv already exists. Do you want to overwrite it? (y/n)") == "y":
+            os.remove(f"{save_path}/BrainXBench_CHOICE{mini}.csv")
+            save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE{mini}")
+            print(f"✅: Successfully saved the data to {save_path}")
+    else:
+        save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE{mini}")
+
+
 
 if __name__ == "__main__":
 
@@ -78,11 +124,14 @@ if __name__ == "__main__":
     args.add_argument("-V", type = float, default = 0.6, help = "The bench version corresponding to your own prompt")
     args = args.parse_args()
 
-    path = f"Benches/forward/flip/csvs/valids_v_direct{args.V}.csv"
-    build_brainXbench_forward(path)
-    load_brainXbench_forward("Opposite_Outcome")
-    load_brainXbench_forward("Incorrect_Causal_Relationship")
-    load_brainXbench_forward("Factor_Misattribution")
+    # path = f"Benches/forward/flip/csvs/valids_v_direct{args.V}.csv"
+    # build_brainXbench_forward(path)
+    # load_brainXbench_forward("Opposite_Outcome")
+    # load_brainXbench_forward("Incorrect_Causal_Relationship")
+    # load_brainXbench_forward("Factor_Misattribution")
 
+    path = "Benches/backward/csvs/BrainXBench_CHOICE.csv"
+    build_brainXbench_backward(path)
 
-    # python load_brainXbench.py -V 0.6
+    path = "Benches/backward/csvs/BrainXBench_CHOICE_mini.csv"
+    build_brainXbench_backward(path)
