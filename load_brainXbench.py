@@ -5,6 +5,7 @@ from argparse import ArgumentParser
 
 
 def load_brainXbench_forward(result_type,file_type = "csv", data_version = 0.6):
+
     """
     Function for loading brainXbench forward data
     Required:

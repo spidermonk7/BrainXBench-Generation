@@ -30,7 +30,7 @@ def generate_backward(question_type,
     txt_files = load_txt_files(source_path)
     print(f"📚: Found {len(txt_files)} chapters in {source_path}")
     for i, txt in enumerate(txt_files):
-        if i < 186: continue
+        if i < 494: continue
         params = {
             "source_txt": txt,
             "question_num": question_num
@@ -114,6 +114,7 @@ def generate_forward(task,
         bench_data = [paper_info]
 
         save_to_csv(bench_data, save_path, f"v_direct{version}")
+
         print(f"✅ Process results of abstract {id} is saved to {save_path}")
 
 
@@ -122,10 +123,10 @@ if __name__ == "__main__":
     args = ArgumentParser()
 
     args.add_argument("--task_type", type = str, default = "CHOICE", help = "Choose from CHOICE, TRUE_FALSE, QA for Backward and Flip or Split for Forward.")
-    args.add_argument("--bookname", type = str, default = "Koch", help = "The book name for the backward bench.")
-    args.add_argument("--bench_type", type = str, default = "forwards", help = "The bench type for the backward bench.")
-    args.add_argument("--BackQS_num", type = int, default = 10, help = "The number of questions for each chapter.")
-    args.add_argument("-V", type = float, default = 0.6, help = "The bench version corresponding to your own prompt")
+    args.add_argument("--bookname", type = str, default = "PrincipleNeuralScience", help = "The book name for the backward bench.")
+    args.add_argument("--bench_type", type = str, default = "backward", help = "The bench type for the backward bench.")
+    args.add_argument("--BackQS_num", type = int, default = 15, help = "The number of questions for each chapter.")
+    args.add_argument("-V", type = float, default = 1.0, help = "The bench version corresponding to your own prompt")
     args = args.parse_args()
 
 

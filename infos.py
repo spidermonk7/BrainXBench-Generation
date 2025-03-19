@@ -63,8 +63,8 @@ ORG_SYN2008_PATH = "data/neuroscience/books/pdfs/StructuralAndFunctionalOrganiza
 KOCH_PATH_PDF = "data/neuroscience/books/pdfs/Biophysics of Computation_ Information Processing in Single Neurons_Christof Koch/Biophysics of Computation_ Information Processing in Single Neurons_Christof Koch.pdf"
 KOCH_PATH = "data/neuroscience/books/pdfs/Biophysics of Computation_ Information Processing in Single Neurons_Christof Koch"
 
-PRINCIPLE_NEURAL_SCIENCE_PDF = "CollectData/data/books/pdfs/Principle_of_NeuralScience/Principles of Neural Science (Sixth Edition) (Eric R. Kandel, John D. Koester etc.) (Z-Library).pdf"
-PRINCIPLE_NEURAL_SCIENCE_PATH = "CollectData/data/books/pdfs/Principle_of_NeuralScience"
+PRINCIPLE_NEURAL_SCIENCE_PDF = "data/books/pdfs/Principle_of_NeuralScience/Principles of Neural Science (Sixth Edition) (Eric R. Kandel, John D. Koester etc.) (Z-Library).pdf"
+PRINCIPLE_NEURAL_SCIENCE_PATH = "data/books/pdfs/Principle_of_NeuralScience"
 
 BOOK_INFO_DICT = {
     "Koch":{
@@ -146,8 +146,8 @@ if usage == "v3":
     # openai.base_url = "https://api.v3.cm/v1/" #🇭🇰线路
     # openai.base_url = "https://us.vveai.com" #🇺🇸线路
     # openai.base_url = "https://run.v36.cm/v1/" #🇯🇵线路
-    # openai.base_url = "https://api.vveai.com/v1/" #主站线路
-    openai.base_url = "https://api.aaai.vip/v1/" #国内线路
+    # openai.base_url = "https://api.aaai.vip/v1/" #国内线路
+    openai.base_url = "https://api.vveai.com/v1/" #主站线路
     # openai.base_url = " https://api.gpt.ge/v1/"
     # openai.base_url = "https://guide1.lanjing.ai "
     openai.default_headers = {"x-foo": "true"}

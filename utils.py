@@ -112,7 +112,9 @@ def split_and_convert_pdf(input_pdf, output_folder, page_ranges):
     """
     # 确保输出文件夹存在
     os.makedirs(output_folder, exist_ok=True)
-
+    if page_ranges == []:
+        page_ranges = [(i, i + 2) for i in range(49, 1581, 3)]
+    
     # 打开 PDF
     doc = fitz.open(input_pdf)
 
@@ -397,9 +399,9 @@ def parse_json_response(response: str):
 
 
 if __name__ == "__main__":
-    # input_pdf = PRINCIPLE_NEURAL_SCIENCE_PDF
-    # output_folder = PRINCIPLE_NEURAL_SCIENCE_PATH + "/chapters/"
-    # split_and_convert_pdf(input_pdf=input_pdf, output_folder=output_folder, page_ranges=PRINCIPLE_NEURAL_SCIENCE_CHAPTERS)
+    input_pdf = PRINCIPLE_NEURAL_SCIENCE_PDF
+    output_folder = PRINCIPLE_NEURAL_SCIENCE_PATH + "/chapters/"
+    split_and_convert_pdf(input_pdf=input_pdf, output_folder=output_folder, page_ranges=[])
 
     # raw_abs_ana()
-    check_split_result()
+    # check_split_result()
