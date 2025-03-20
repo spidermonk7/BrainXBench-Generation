@@ -30,7 +30,7 @@ def generate_backward(question_type,
     txt_files = load_txt_files(source_path)
     print(f"📚: Found {len(txt_files)} chapters in {source_path}")
     for i, txt in enumerate(txt_files):
-        if i < 494: continue
+        if i > 214: continue
         params = {
             "source_txt": txt,
             "question_num": question_num

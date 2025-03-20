@@ -63,6 +63,10 @@ ORG_SYN2008_PATH = "data/neuroscience/books/pdfs/StructuralAndFunctionalOrganiza
 KOCH_PATH_PDF = "data/neuroscience/books/pdfs/Biophysics of Computation_ Information Processing in Single Neurons_Christof Koch/Biophysics of Computation_ Information Processing in Single Neurons_Christof Koch.pdf"
 KOCH_PATH = "data/neuroscience/books/pdfs/Biophysics of Computation_ Information Processing in Single Neurons_Christof Koch"
 
+# PRINCIPLE_NEURAL_SCIENCE_PDF = "data/books/pdfs/Principle_of_NeuralScience/Principles of Neural Science (Sixth Edition) (Eric R. Kandel, John D. Koester etc.) (Z-Library).pdf"
+
+# Principles of Neural Science (Sixth Edition) (Eric R. Kandel, John D. Koester etc.) (Z-Library).pdf
+# Principles of Neural Science (Sixth Edition) (Eric R. Kandel, John D. Koester etc.) (Z-Library).pdf
 PRINCIPLE_NEURAL_SCIENCE_PDF = "data/books/pdfs/Principle_of_NeuralScience/Principles of Neural Science (Sixth Edition) (Eric R. Kandel, John D. Koester etc.) (Z-Library).pdf"
 PRINCIPLE_NEURAL_SCIENCE_PATH = "data/books/pdfs/Principle_of_NeuralScience"
 
@@ -82,7 +86,8 @@ BOOK_INFO_DICT = {
     },
 
     "PrincipleNeuralScience":{
-        "Full Name": "Principles of Neural Science (Sixth Edition) (Eric R. Kandel, John D. Koester etc.) (Z-Library)",
+        # "Full Name": "Principles of Neural Science (Sixth Edition) (Eric R. Kandel, John D. Koester etc.) (Z-Library)",
+        "Full Name": "Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition (Eric Kandel) (Z-Library)",
         "Chapters": PRINCIPLE_NEURAL_SCIENCE_CHAPTERS,
         "PDF": PRINCIPLE_NEURAL_SCIENCE_PDF,
         "source_path": PRINCIPLE_NEURAL_SCIENCE_PATH,
