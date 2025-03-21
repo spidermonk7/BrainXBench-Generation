@@ -2,7 +2,7 @@ from utils import *
 from infos import *
 import random
 from argparse import ArgumentParser
-
+from jinja2 import Template
 
 def load_brainXbench_forward(result_type,file_type = "csv", data_version = 0.6):
 
@@ -69,6 +69,56 @@ def build_brainXbench_forward(raw_path):
             print(f"✅: Successfully saved the data to {save_path}")
 
 
+def build_brainXbench_forward_multi(raw_path):
+    bench_data = load_csv(raw_path)
+    bench_dics = []
+    for item in bench_data:
+        bench_dic = {}
+        fake_abstract1 = item["Background"] + ' ' + item["Method"] + ' ' + item["Opposite_Outcome"]
+        fake_abstract2 = item["Background"] + ' ' + item["Method"] + ' ' + item["Incorrect_Causal_Relationship"]
+        fake_abstract3 = item["Background"] + ' ' + item["Method"] + ' ' + item["Factor_Misattribution"]
+        true_abstract = item["Abstract"]
+
+        # randomly shuffle the orders for multiple choice
+        choices = [fake_abstract1, fake_abstract2, fake_abstract3, true_abstract]
+        
+        random.shuffle(choices)
+        
+        for i, choice in enumerate(choices):
+            bench_dic[f"text{i+1}"] = choice
+
+        label = None
+        for key, text in bench_dic.items():
+            if bench_dic[key] == true_abstract:
+                label = key
+                print(f"find the label: {label}")
+                break
+        bench_dic["label"] = label
+        current_dic = bench_dic.copy()
+
+        for key, text in current_dic.items():
+            if text == fake_abstract1:
+                bench_dic[key + "_type"] = "Opposite_Outcome"
+            elif key == "label": continue
+            elif text == fake_abstract2:
+                bench_dic[key + "_type"] = "Incorrect_Causal_Relationship"
+            elif text == fake_abstract3:
+                bench_dic[key + "_type"] = "Factor_Misattribution"
+            else:
+                bench_dic[key + "_type"] = "True"
+
+        
+        bench_dics.append(bench_dic)
+        #   print(f"✅: Successfully added the data to the bench dic")
+        
+   
+    save_path = f"Benches/forward/final/csvs"
+    check_path(save_path)
+    # check if the file exist
+    
+    save_to_csv(bench_dics, save_path, f"BrainXBench-forward-Multi-V0.6")
+    print(f"✅: Successfully saved the data to {save_path}")
+
 
 
 
@@ -84,8 +134,6 @@ def build_brainXbench_backward(raw_path):
         descriptionB = item["Description B"]
         judgeA = item["Judgement A"]
         judgeB = item["Judgement B"]
-
-
 
         # randomly shuffle which goes first
         if random.random() > 0.5:
@@ -119,22 +167,70 @@ def build_brainXbench_backward(raw_path):
 
 
 
+# Abstract	Background	Method	Result	Intact_or_not	Neuroscience related	Research_or_not
+def build_segment_set(path_folder):
+    # load all files in the folder
+    data = []
+    for file in os.listdir(path_folder):
+        if file.endswith(".csv"):
+            data += load_csv(f"{path_folder}/{file}")
+    data_dics = []
+    origin_dics = []
+    for id, item in enumerate(data):
+        print(f"Item.keys: {item.keys()}")
+        data_dic = {}
+        if item["Intact_or_not"] != 1:
+            print(f"❌ Ignore data {id} because it is not intact.")
+            continue
+        if item["Research_or_not"] != 1:
+            print(f"❌ Ignore data {id} because it is not research related.")
+            continue
+        if item["Neuroscience related"] != 1:
+            print(f"❌ Ignore data {id} because it is not neuroscience related.")
+            continue
+    
+        if item["Abstract"] != str(item["Background"]) + ' ' + str(item["Method"]) + ' ' + str(item["Result"]):
+            print(f"❌ Ignore data {id} because the abstract is not the combination of Background, Method, and Result.")
+            continue
+        # params = {"background": item["Background"], "method": item["Method"], "conclusion": item["Result"]}
+        # data_dic["text"] = load_prompt("prompts/segment/build_abstract.md", params)
+        data_dic["method"] = item["Method"]
+        data_dic["background"] = item["Background"]
+        data_dic["conclusion"] = item["Result"]
+        data_dics.append(data_dic)
+        origin_dics.append({'text': item["Abstract"]})
+
+    save_path = f"Benches/segmentation/final/csvs"
+    check_path(save_path)
+    save_to_csv(data_dics, save_path, "BrainXBench_SEG_3K")
+    save_to_csv(origin_dics, save_path, "BrainXBench_origin_3K")
+    print(f"✅: Valid data size is {len(data_dics)}")
+    print(f"✅: Successfully saved the data to {save_path}")
+
+
+
+
+
 if __name__ == "__main__":
 
     args = ArgumentParser()
     args.add_argument("-V", type = float, default = 0.6, help = "The bench version corresponding to your own prompt")
     args = args.parse_args()
 
-    # path = f"Benches/forward/flip/csvs/valids_v_direct{args.V}.csv"
+    path = f"Benches/forward/flip/csvs/valids_v_direct{args.V}.csv"
+    # build_brainXbench_forward_multi(path)
     # build_brainXbench_forward(path)
     # load_brainXbench_forward("Opposite_Outcome")
     # load_brainXbench_forward("Incorrect_Causal_Relationship")
     # load_brainXbench_forward("Factor_Misattribution")
 
-    path = "Benches/backward/csvs/BrainXBench_CHOICE.csv"
-    build_brainXbench_backward(path)
+    # path = "Benches/backward/csvs/BrainXBench_CHOICE.csv"
+    # build_brainXbench_backward(path)
 
-    path = "Benches/backward/csvs/BrainXBench_CHOICE_mini.csv"
-    build_brainXbench_backward(path)
+    # path = "Benches/backward/csvs/BrainXBench_CHOICE_mini.csv"
+    # build_brainXbench_backward(path)
 
-    
+
+    path ="Benches/segmentation/split/csvs"
+    # build_segment_set(path)
+    build_segment_set(path)  
