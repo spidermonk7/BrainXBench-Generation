@@ -208,6 +208,54 @@ def build_segment_set(path_folder):
     print(f"✅: Successfully saved the data to {save_path}")
 
 
+def build_True_False_set(path_folder):
+    # load all files in the folder
+    data = []
+    for file in os.listdir(path_folder):
+        if file.endswith(".csv"):
+            data += load_csv(f"{path_folder}/{file}")
+    data_dics = []
+    for id, item in enumerate(data):
+        print(f"Item.keys: {item.keys()}")
+        data_dic = {}
+        if item["Intact_or_not"] != 1:
+            print(f"❌ Ignore data {id} because it is not intact.")
+            continue
+        if item["Neuroscience related"] != 1:
+            print(f"❌ Ignore data {id} because it is not neuroscience related.")
+            continue
+    
+        if item["Abstract"] != str(item["Background"]) + ' ' + str(item["Method"]) + ' ' + str(item["Result"]):
+            print(f"❌ Ignore data {id} because the abstract is not the combination of Background, Method, and Result.")
+            continue
+        # params = {"background": item["Background"], "method": item["Method"], "conclusion": item["Result"]}
+        # data_dic["text"] = load_prompt("prompts/segment/build_abstract.md", params)
+        data_dic["method"] = item["Method"]
+        data_dic["background"] = item["Background"]
+        # randomly shuffle the true and false
+        conclusion1 = item["Result"]
+        conclusion2 = item["modified conclusion"]
+        if random.random() > 0.5:
+            data_dic["conclusion1"] = conclusion1
+            data_dic["conclusion2"] = conclusion2
+            data_dic["label"] = "text 1"
+
+        else:
+            data_dic["conclusion1"] = conclusion2
+            data_dic["conclusion2"] = conclusion1
+            data_dic["label"] = "text 2"
+
+
+        data_dics.append(data_dic)
+        
+
+    save_path = f"Benches/segmentation/final/csvs"
+    check_path(save_path)
+    save_to_csv(data_dics, save_path, "BrainXBench_TF_3K")
+    print(f"✅: Valid data size is {len(data_dics)}")
+    print(f"✅: Successfully saved the data to {save_path}")
+
+
 
 
 
@@ -231,6 +279,7 @@ if __name__ == "__main__":
     # build_brainXbench_backward(path)
 
 
-    path ="Benches/segmentation/split/csvs"
+    # path ="Benches/segmentation/split/csvs"
+    path = "Benches/segmentation/flip/csvs"
     # build_segment_set(path)
-    build_segment_set(path)  
+    build_True_False_set(path)  

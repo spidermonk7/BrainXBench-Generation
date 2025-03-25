@@ -182,5 +182,5 @@ if __name__ == "__main__":
     # else:
     #     raise ValueError("Invalid bench type, please choose from backwards and forwards.")
     thread = int(args.V)
-    data_path = f"Benches/segmentation/csvs/splited_csvs/split_{thread}.csv"
-    generate_forward("split", "prompts/forwards/split.md", data_path, "Benches/segmentation/", model_name="gpt-4o", version=thread, last_id=args.L)
+    data_path = f"Benches/segmentation/split/csvs/v_direct{thread}.csv"
+    generate_forward("flip", "prompts/segment/modify.md", data_path, "Benches/segmentation/", model_name="gpt-4o", version=thread, last_id=args.L)

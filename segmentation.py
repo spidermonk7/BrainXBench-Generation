@@ -43,6 +43,8 @@ def split_csv(file_path, output_dir, chunk_size=500):
 
 
 
+
+
 if __name__ == "__main__":
    
     # mini = False
