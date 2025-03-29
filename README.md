@@ -32,13 +32,6 @@ The repository is organized as follows:
 
 To set up and run this project on your local machine, follow these steps:
 
-### Prerequisites
-
-Ensure you have the following installed:
-
-- Python 3.x
-- pip (Python package installer)
-
 ### Installation
 
 1. **Clone the Repository:**
@@ -49,17 +42,7 @@ Ensure you have the following installed:
    ```
 
 2. **Install Dependencies:**
-
-   It's recommended to use a virtual environment:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-   Then, install the required packages:
-
-   ```bash
+    ```
    pip install -r requirements.txt
    ```
 
@@ -67,80 +50,29 @@ Ensure you have the following installed:
 
    Create a `.env` file in the root directory to store your environment-specific variables. Refer to the `.env.example` file for guidance on the required variables.
 
+    For benchmark auto-generation task, the variables below are required:
+    ```
+    NCBI_API_KEY = YOUR_NCBI_API_KEY
+    BASE_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+
+
+    OPENAI_API_KEY = YOUR_OPENAI_API_KEY
+    OPENAI_BASE_URL= OPENAI_BASE_URL
+    ```
+
 ### Configuration
 
 Configuration settings are managed using YAML files located in the `configs/` directory. Key configuration files include:
 
-- `config.yaml`: Main configuration file containing parameters such as query terms, database settings, threading options, and API keys.
+- `config.yaml`: Main configuration file containing parameters such as query terms, database settings, threading options.
 
-   Example structure:
+- All codes are running based on `config.yaml`, make sure you are using the correct config(we will support optional configs in later version).
 
-   ```yaml
-   query: neuroscience
-   max_results: 50
-   db: pubmed
-   threads: 5
-   api_key: YOUR_NCBI_API_KEY
-   ```
+- You can refer to `config.example.yaml` for explanation of each configuration.
 
-- `journals.yaml`: Lists of journals and related information.
+### Usage: **Automated Workflow**
 
-   Example structure:
-
-   ```yaml
-   JOURNALS:
-     - "Nature Communications"
-     - "The Journal of Neuroscience: The Official Journal of the Society for Neuroscience"
-     - "Proceedings of the National Academy of Sciences of the United States of America"
-     # Add more journals as needed
-   ```
-
-- `books.yaml`: Information about books and their chapter ranges.
-
-   Example structure:
-
-   ```yaml
-   BOOKS:
-     - name: "Biophysics of Computation: Information Processing in Single Neurons"
-       chapters: [[30, 49], [50, 73], [74, 109]]
-       pdf_path: "data/neuroscience/books/pdfs/Biophysics_of_Computation.pdf"
-       source_path: "data/neuroscience/books/Biophysics_of_Computation"
-     # Add more books as needed
-   ```
-
-Ensure that these configuration files are correctly set up before running the scripts.
-
-### Usage
-
-1. **Data Collection:**
-
-   To collect data based on the configurations:
-
-   ```bash
-   python collector.py
-   ```
-
-   This script fetches articles from specified databases (e.g., PubMed) based on the query parameters defined in `config.yaml`.
-
-2. **Data Validation and Segmentation:**
-
-   After collecting data, validate and segment it appropriately:
-
-   ```bash
-   python validate_and_segment.py
-   ```
-
-3. **Benchmark Generation:**
-
-   To generate the BrainX benchmark datasets:
-
-   ```bash
-   python generate_BrainX.py
-   ```
-
-4. **Automated Workflow:**
-
-   For a streamlined process, you can execute the entire workflow using the provided shell script:
+   For a streamlined forward-benchmark generating process, you can execute the entire workflow using the provided shell script:
 
    ```bash
    ./run_forward.sh
@@ -151,22 +83,11 @@ Ensure that these configuration files are correctly set up before running the sc
    ```bash
    chmod +x run_forward.sh
    ```
-
-## Contributing
-
-We welcome contributions to enhance the functionality and efficiency of BrainXBench-Generation. To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-Please ensure that your contributions align with the project's coding standards and include appropriate documentation.
-
-## License
-
-This project is licensed under the YOU-KNOW-WHO liscense. You are free to use, modify, and distribute this software in accordance with the license terms.
+   and backward bench is just the same:
+   
+   ```bash
+   ./run_backward.sh
+   ```
 
 ## Contact
 

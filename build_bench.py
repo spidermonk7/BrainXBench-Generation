@@ -155,7 +155,7 @@ def build_brainXbench_backward(bench_name = "BrainX-v1", task_type = "CHOICE"):
     check_path(save_path)
 
     # check if the file exist
-    if os.path.exists(f"{save_path}/BrainXBench_CHOICE"):
+    if os.path.exists(f"{save_path}/BrainXBench_CHOICE.csv"):
         if input(f"💁: The file BrainXBench_CHOICE.csv already exists. Do you want to overwrite it? (y/n)") == "y":
             os.remove(f"{save_path}/BrainXBench_CHOICE.csv")
             save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE")
@@ -164,7 +164,7 @@ def build_brainXbench_backward(bench_name = "BrainX-v1", task_type = "CHOICE"):
             pack_data(f"{save_path}/BrainXBench_CHOICE.csv")
     else:
         save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE")
-
+        pack_data(f"{save_path}/BrainXBench_CHOICE.csv")
 
 
 def build_segment_set(path_folder):
