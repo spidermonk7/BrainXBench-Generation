@@ -157,15 +157,15 @@ def build_brainXbench_backward(raw_path):
     check_path(save_path)
 
     # check if the file exist
-    if os.path.exists(f"{save_path}/BrainXBench_CHOICE{mini}"):
-        if input(f"💁: The file BrainXBench_CHOICE{mini}.csv already exists. Do you want to overwrite it? (y/n)") == "y":
-            os.remove(f"{save_path}/BrainXBench_CHOICE{mini}.csv")
-            save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE{mini}")
-            print(f"✅: Successfully saved the data to {save_path}")
-    else:
-        save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE{mini}")
+    # if os.path.exists(f"{save_path}/BrainXBench_CHOICE{mini}"):
+    #     if input(f"💁: The file BrainXBench_CHOICE{mini}.csv already exists. Do you want to overwrite it? (y/n)") == "y":
+    #         os.remove(f"{save_path}/BrainXBench_CHOICE{mini}.csv")
+    #         save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE{mini}")
+    #         print(f"✅: Successfully saved the data to {save_path}")
+    # else:
+    #     save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE{mini}")
 
-
+    save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE")
 
 # Abstract	Background	Method	Result	Intact_or_not	Neuroscience related	Research_or_not
 def build_segment_set(path_folder):
@@ -280,6 +280,8 @@ if __name__ == "__main__":
 
 
     # path ="Benches/segmentation/split/csvs"
-    path = "Benches/segmentation/flip/csvs"
-    # build_segment_set(path)
-    build_True_False_set(path)  
+    # path = "Benches/segmentation/flip/csvs"
+    # # build_segment_set(path)
+    # build_True_False_set(path)  
+    path = "Benches/backward/csvs/BrainXBench_CHOICE_subset.csv"
+    build_brainXbench_backward(path)

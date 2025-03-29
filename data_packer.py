@@ -39,7 +39,9 @@ if __name__ == "__main__":
 
 
     pathes = [
-        "Benches/segmentation/final/csvs/BrainXBench_TF_3K.csv", 
+        # "/Users/cuishaoyang/Desktop/PKU/KaiTeam/BrainXBench-Generation/Benches/backward/final/csvs/BrainXBench_CHOICE_full.csv"
+        # "/Users/cuishaoyang/Desktop/PKU/KaiTeam/BrainXBench-Generation/Benches/backward/final/csvs/BrainXBench_CHOICE.csv"
+        "Benches/backward/csvs/BrainXBench_TEXT_full.csv"
     ]
     for path in pathes:
         pack_data(path)
