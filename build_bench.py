@@ -1,9 +1,6 @@
 from utils import *
-from infos import *
 import random
-from omegaconf import OmegaConf
-# 读取配置
-cfg = OmegaConf.load("configs/config.yaml")
+from argparse import ArgumentParser
 
 
 def load_brainXbench_forward(result_type,file_type = "csv", data_version = 0.6):
@@ -34,7 +31,6 @@ def load_brainXbench_backward(question_type, mini):
 
     return bench_data
     
-
 
 def build_brainXbench_forward(bench_name = "BrainX-v1"):
     raw_path = f"workspaces/{bench_name}/data/forward/validate/validate_data.csv"
@@ -97,7 +93,6 @@ def build_brainXbench_forward_multi(bench_name = "BrainX-v1"):
         for key, text in bench_dic.items():
             if bench_dic[key] == true_abstract:
                 label = key
-                print(f"find the label: {label}")
                 break
         bench_dic["label"] = label
         current_dic = bench_dic.copy()
@@ -255,9 +250,15 @@ def build_True_False_set(path_folder):
 
 
 if __name__ == "__main__":
-    if cfg.bench_type == "forward":
-        build_brainXbench_forward(bench_name=cfg.bench_name)
-        build_brainXbench_forward_multi(bench_name=cfg.bench_name)
+    args = ArgumentParser()
+    args.add_argument("-T", "--type", type=str, default="forward")
+    args.add_argument("-B", "--bench_name", type=str, default="BrainX-v1")
+    args.add_argument("-TT", "--task_type", type=str, default="CHOICE")
+    args = args.parse_args()
+    
+    if args.type == "forward":    
+        build_brainXbench_forward(bench_name=args.bench_name)
+        build_brainXbench_forward_multi(bench_name=args.bench_name)
 
-    elif cfg.bench_type == "backward":
-        build_brainXbench_backward(bench_name=cfg.bench_name, task_type=cfg.task_type)
+    elif args.type == "backward":
+        build_brainXbench_backward(bench_name=args.bench_name, task_type=args.task_type)

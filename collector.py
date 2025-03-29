@@ -5,11 +5,10 @@ import xml.etree.ElementTree as ET
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor
 from utils import *
-from infos import *
 from omegaconf import OmegaConf
 
 # 读取配置
-cfg = OmegaConf.load("configs/config.yaml")
+cfg = OmegaConf.load("configs/forward_config.yaml")
 
 def fetch_pmid_list(query, max_results, db="pubmed"):
     search_url = f"{cfg.BASE_URL}esearch.fcgi"

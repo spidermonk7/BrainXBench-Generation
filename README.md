@@ -1,98 +1,113 @@
 # BrainXBench-Generation
 
-Welcome to the **BrainXBench-Generation** repository! This project is dedicated to the efficient generation and management of BrainXBench datasets. Below, you'll find comprehensive information to help you understand, set up, and utilize this repository effectively.
+Welcome to the **BrainXBench-Generation** repository! This project is designed for the efficient generation, validation, and management of BrainXBench datasets.
 
-**⚠️ Note:** This repository is currently under active development. Some functionalities, particularly those related to new benchmark generation, may be incomplete or undergoing changes.
+> ⚠️ **Note:** This repository is under active development. Some functionalities—especially those related to benchmark auto-generation—may still be evolving.
 
-## Project Structure
+---
 
-The repository is organized as follows:
+## 📁 Project Structure
 
-- `Benches/`: Contains benchmark datasets and relevant resources.
-- `configs/`: Stores configuration files for various scripts and processes.
-- `data/`: Directory for storing raw and processed data files.
-- `prompts/`: Includes prompt templates used in data generation.
-- `unused/`: Archive of unused or deprecated scripts and files.
-- `workspaces/`: Contains workspace-specific files and settings.
-- `.env`: Environment variable definitions.
-- `.gitignore`: Specifies files and directories to be ignored by Git.
-- `README.md`: This document.
-- `build_bench.py`: Script for constructing benchmark datasets.
-- `collector.py`: Collects data from specified sources.
-- `flip_result.py`: Processes and flips result data as needed.
+Here's an overview of the key components in this repository:
+
+- `Benches/`: Pre-generated benchmark datasets and related resources.
+- `configs/`: Configuration files for controlling different stages of the pipeline.
+- `data/`: Storage directory for raw, intermediate, and processed data.
+- `prompts/`: Prompt templates used during data generation.
+- `unused/`: Deprecated or archived scripts for reference.
+- `workspaces/`: Workspace-specific files, logs, and outputs.
+- `.env`: Defines environment-specific variables.
+- `build_bench.py`: Script for constructing benchmark datasets from processed data.
+- `collector.py`: Collects data from external sources such as PubMed.
+- `flip_result.py`: Flips QA labels (used for contrastive or backward tasks).
 - `generate_BrainX.py`: Main script for generating BrainX datasets.
-- `infos.py`: Contains information constants and configurations.
-- `requirements.txt`: Lists required Python packages.
-- `run_forward.sh`: Shell script to execute a sequence of operations.
-- `utils.py`: Utility functions used across various scripts.
-- `validate_and_segment.py`: Validates and segments data appropriately.
-- `validate_flip.py`: Validates flipped data results.
+- `infos.py`: Contains constants and shared metadata.
+- `run_forward.sh`: Shell script for forward benchmark generation.
+- `validate_and_segment.py`: Validates and segments collected raw data.
+- `validate_flip.py`: Validates flipped (e.g. backward) results.
+- `utils.py`: Utility functions shared across the codebase.
 
-## Getting Started
+---
 
-To set up and run this project on your local machine, follow these steps:
+## 🚀 Getting Started
 
-### Installation
+Follow these steps to get started with BrainXBench-Generation on your local machine.
 
-1. **Clone the Repository:**
+### 🔧 Installation
+
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/spidermonk7/BrainXBench-Generation.git
    cd BrainXBench-Generation
    ```
 
-2. **Install Dependencies:**
-    ```
+2. **Install dependencies:**
+
+   ```bash
    pip install -r requirements.txt
    ```
 
-3. **Set Up Environment Variables:**
+3. **Set environment variables:**
 
-   Create a `.env` file in the root directory to store your environment-specific variables. Refer to the `.env.example` file for guidance on the required variables.
+   Create a `.env` file in the root directory and define the following variables:
 
-    For benchmark auto-generation task, the variables below are required:
-    ```
-    NCBI_API_KEY = YOUR_NCBI_API_KEY
-    BASE_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+   ```env
+   # For data collection
+   NCBI_API_KEY=your_ncbi_api_key
+   BASE_URL=https://eutils.ncbi.nlm.nih.gov/entrez/eutils/
 
-
-    OPENAI_API_KEY = YOUR_OPENAI_API_KEY
-    OPENAI_BASE_URL= OPENAI_BASE_URL
-    ```
-
-### Configuration
-
-Configuration settings are managed using YAML files located in the `configs/` directory. Key configuration files include:
-
-- `config.yaml`: Main configuration file containing parameters such as query terms, database settings, threading options.
-
-- All codes are running based on `config.yaml`, make sure you are using the correct config(we will support optional configs in later version).
-
-- You can refer to `config.example.yaml` for explanation of each configuration.
-
-### Usage: **Automated Workflow**
-
-   For a streamlined forward-benchmark generating process, you can execute the entire workflow using the provided shell script:
-
-   ```bash
-   ./run_forward.sh
+   # For LLM-based generation
+   OPENAI_API_KEY=your_openai_api_key
+   OPENAI_BASE_URL=https://your-provider-endpoint
    ```
 
-   Ensure that the script has execute permissions:
-
-   ```bash
-   chmod +x run_forward.sh
-   ```
-   and backward bench is just the same:
-   
-   ```bash
-   ./run_backward.sh
-   ```
-
-## Contact
-
-For questions, suggestions, or issues, please open an issue on the [GitHub repository](https://github.com/spidermonk7/BrainXBench-Generation/issues) or contact the repository owner directly.
+   You can refer to `.env.example` for a complete template.
 
 ---
 
-*Note: This README reflects the current state of the repository as of March 29, 2025. For the latest updates and changes, please refer to the repository directly.* 
+## ⚙️ Configuration
+
+All pipeline components are controlled via a unified configuration file:
+
+- `configs/config.yaml`: Main configuration file that defines queries, threading, paths, and generation parameters.
+- Please ensure `config.yaml` is correctly set before running any script.
+- A reference file `config.example.yaml` is provided to explain each field.
+- Support for multiple optional configs will be added in a future update.
+
+---
+
+## 🧠 Usage: Automated Workflows
+
+You can run the full forward or backward benchmark pipeline with a single command:
+
+### ▶️ Forward Benchmark
+
+```bash
+chmod +x run_forward.sh
+./scripts/run_forward.sh
+```
+
+### ◀️ Backward Benchmark
+
+```bash
+chmod +x run_backward.sh
+./scripts/run_backward.sh
+```
+
+These scripts will sequentially run all required steps based on your configuration.
+
+---
+
+## 📬 Contact
+
+If you have any questions, suggestions, or encounter issues, feel free to:
+
+- Open an issue on the [GitHub repository](https://github.com/spidermonk7/BrainXBench-Generation/issues)
+- Or contact the repository owner directly.
+
+---
+
+*🗓️ This README reflects the current status of the project as of **March 29, 2025**. For the latest changes, please refer to the repository.*
+
+---

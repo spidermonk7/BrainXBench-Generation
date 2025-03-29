@@ -1,0 +1,38 @@
+bench_name: "BrainX-v1"
+bench_type: "backward"
+query: "neuroscience"
+max_results: 25
+db: "pubmed"
+threads: 5
+BASE_URL: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+PUB_BATCH_SIZE: 10  # 每次请求获取的最大文献数量，PubMed的限制
+DATES_CONSIDERED: ["2025-Feb", "2025-Mar"]
+
+
+JOURNALS:
+  - "Nature communications"
+  - "The Journal of neuroscience : the official journal of the Society for Neuroscience"
+  - "Proceedings of the National Academy of Sciences of the United States of America"
+  - "Science advances"
+  - "Neuron"
+  - "Cell reports"
+  - "eLife"
+  - "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+  - "Nature neuroscience"
+  - "The Journal of physiology"
+
+
+LABEL_MATCHING_DIC : {
+    "Nature communications": "NC",
+    "The Journal of neuroscience : the official journal of the Society for Neuroscience": "JNeurosci",
+    "Proceedings of the National Academy of Sciences of the United States of America": "PNAS",
+    "Science advances": "Sci Adv",
+    "Neuron": "Neuron",
+    "Cell reports": "Cell Rep",
+    "eLife": "eLife",
+    "Alzheimer's & dementia : the journal of the Alzheimer's Association": "Alzheimer",
+    "Nature neuroscience": "Nat. Neurosci",
+    "The Journal of physiology": "J Physiol"
+}
+
+

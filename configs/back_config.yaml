@@ -1,0 +1,86 @@
+
+# For backward benchmarking | remebmer to change the bench_type to "backward" for backward benchmarking
+bench_name: "BrainX-v1" 
+bench_type: "backward"
+task_type: "CHOICE"
+bookname: "PrincipleNeuralScience"
+BackQS_num: 15
+
+
+QS_TYPE:
+  - CHOICE
+  - TEXT
+
+KOCK_CHAPTERS:
+  - [30, 49]
+  - [50, 73]
+  - [74, 109]
+  - [110, 141]
+  - [142, 166]
+  - [167, 196]
+  - [197, 217]
+  - [218, 236]
+  - [237, 256]
+  - [257, 272]
+  - [273, 304]
+  - [305, 332]
+  - [333, 354]
+  - [355, 374]
+  - [375, 398]
+  - [399, 405]
+  - [406, 426]
+  - [427, 453]
+  - [454, 476]
+  - [477, 493]
+  - [494, 505]
+  - [506, 527]
+
+ORG_SYN2008_CHAPTERS:
+  - [16, 38]
+  - [38, 77]
+  - [77, 104]
+  - [104, 124]
+  - [124, 160]
+  - [160, 186]
+  - [186, 218]
+  - [218, 263]
+  - [263, 282]
+  - [282, 299]
+  - [299, 327]
+  - [327, 378]
+  - [378, 416]
+  - [416, 450]
+  - [450, 468]
+  - [468, 510]
+  - [510, 544]
+  - [544, 562]
+  - [562, 610]
+  - [610, 630]
+  - [630, 670]
+  - [670, 691]
+  - [691, 716]
+  - [723, 734]
+  - [738, 758]
+  - [766, 781]
+
+
+pages_per_chapter: 2
+
+BOOK_INFO_DICT:
+  Koch:
+    Full_Name: "Biophysics of Computation_ Information Processing in Single Neurons_Christof Koch"
+    Chapters: KOCK_CHAPTERS
+    PDF: "data/books/pdfs/Biophysics of Computation_ Information Processing in Single Neurons_Christof Koch/Biophysics of Computation_ Information Processing in Single Neurons_Christof Koch.pdf"
+    source_path: "data/books/pdfs/Biophysics of Computation_ Information Processing in Single Neurons_Christof Koch"
+
+  OrgSYN2008:
+    Full_Name: "StructuralAndFunctionalOrganizationOfTheSynapsespringer2008"
+    Chapters: ORG_SYN2008_CHAPTERS
+    PDF: "data/books/pdfs/StructuralAndFunctionalOrganizationOfTheSynapsespringer2008/StructuralAndFunctionalOrganizationOfTheSynapsespringer2008.pdf"
+    source_path: "data/books/pdfs/StructuralAndFunctionalOrganizationOfTheSynapsespringer2008"
+
+  PrincipleNeuralScience:
+    Full_Name: "Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition (Eric Kandel) (Z-Library)"
+    Chapters: PRINCIPLE_NEURAL_SCIENCE_CHAPTERS
+    PDF: "data/books/pdfs/Principle_of_NeuralScience/Principles of Neural Science (Sixth Edition) (Eric R. Kandel, John D. Koester etc.) (Z-Library).pdf"
+    source_path: "data/books/pdfs/Principle_of_NeuralScience"
