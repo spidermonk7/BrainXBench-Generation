@@ -5,7 +5,7 @@ python collector.py
 
 echo " ===================== Selection & Validation & Segmentation ===================== "
 echo "📦 Step 2-3: (1) Select:[[Journal Source & Pub Date]] (2) Validate (3) Segment abstract to 3 sections"
-python validate_and_segment.py
+python selec_vali_seg.py
 
 echo " ===================== Data Flipping ===================== "
 echo "🎯 Step 4: Flip the result section"

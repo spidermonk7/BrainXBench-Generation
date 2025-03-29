@@ -1,0 +1,31 @@
+text 1,text 2,label
+"Thermal nociceptors are activated by extremes in temperature, typically greater than 45°C (115°F) or less than 5°C (41°F).","Thermal nociceptors are activated by mild changes in temperature, typically around 25°C (77°F) or higher.",text 1
+Mechanical nociceptors are activated optimally by intense pressure applied to the skin.,Mechanical nociceptors are activated optimally by light pressure applied to the skin.,text 1
+Most nociceptors are simply the free nerve endings of primary sensory neurons.,Most nociceptors are specialized structures with complex endings.,text 1
+"Polymodal nociceptors can be activated by high-intensity mechanical, chemical, or thermal stimuli.",Polymodal nociceptors are only activated by low-intensity thermal stimuli.,text 1
+Myelinated Aδ axons conduct action potentials at speeds of 5 to 30 m/s.,Myelinated Aδ axons conduct action potentials at speeds less than 1.0 m/s.,text 1
+Unmyelinated C-fiber axons conduct action potentials at speeds less than 1.0 m/s.,Unmyelinated C-fiber axons conduct action potentials at speeds of 5 to 30 m/s.,text 1
+"There are three main classes of nociceptors—thermal, mechanical, and polymodal.",There are two main classes of nociceptors—thermal and mechanical.,text 1
+The perception of pain arises from and can be controlled by cortical mechanisms.,The perception of pain is a simple reflex that cannot be modulated by cortical mechanisms.,text 1
+"First and second pain are carried by A delta and C fibers, respectively.","First and second pain are carried by A beta and C fibers, respectively.",text 1
+"Noxious insults activate thermal, mechanical, and polymodal nociceptors.",Noxious insults activate only thermal nociceptors.,text 1
+Pain's highly individual and subjective nature makes it difficult to define objectively and to treat clinically.,Pain's objective nature makes it easy to define and treat clinically.,text 1
+Electrical stimulation of the brain produces analgesia.,Electrical stimulation of the brain produces increased pain perception.,text 1
+Opioid peptides have no role in pain control.,Opioid peptides contribute to endogenous pain control.,text 2
+Morphine controls pain by deactivating opioid receptors.,Morphine controls pain by activating opioid receptors.,text 2
+"Acute, persistent, or extreme cases of chronic pain can be experienced.",Only acute pain can be experienced; persistent or chronic pain does not exist.,text 1
+The hippocampus is associated with a single cognitive function.,The hippocampus is associated with multiple cognitive functions and behaviors.,text 2
+fMRI provides an opportunity to alter the function of the human brain in both health and disease.,fMRI provides an opportunity to study the function of the human brain in both health and disease.,text 2
+fMRI does not support inferences about whether a brain region is necessary for a behavior.,fMRI supports inferences about whether a brain region is necessary for a behavior.,text 1
+Functional brain imaging methods in cognitive neuroscience seek to record activity associated with mental processes.,Functional brain imaging methods in cognitive neuroscience seek to manipulate activity associated with mental processes.,text 1
+fMRI is based on the chemistry of nuclear resonance and the biology of cell communication.,fMRI is based on the physics of magnetic resonance and the biology of neurovascular coupling.,text 2
+Human brain imaging has led to fundamental insights about neural mechanisms across many domains.,Human brain imaging has led to changes in neural mechanisms across many domains.,text 1
+These applications of fMRI raise ethical and privacy concerns.,These applications of fMRI resolve ethical and privacy concerns.,text 1
+The discovery of MRI came from biology and geology.,The discovery of MRI came from physics and chemistry.,text 2
+fMRI evidence is generally admissible in court.,fMRI evidence is generally inadmissible in court.,text 2
+The BOLD response helps measure neuronal activity during cognitive tasks.,The BOLD response helps measure vacuum activity during cognitive tasks.,text 1
+All patients in a vegetative state lack any brain activity reflecting mental processing.,Some patients in a vegetative state exhibit brain activity reflecting mental processing.,text 2
+fMRI technology is undergoing continual development to improve spatial resolution.,fMRI technology has reached its peak development in spatial resolution.,text 1
+Forward inferences in fMRI studies link brain activity to manipulated mental processes.,Backward inferences in fMRI studies confirm brain activity unrelated to tasks.,text 1
+Blood flow can increase in the visual cortex without an increase in neuronal activity if a visual cue is expected but not presented.,Blood flow cannot increase in the visual cortex without an increase in neuronal activity regardless of visual cue expectations.,text 1
+The history of fMRI shows scientific discoveries are confined to their original field.,The history of fMRI shows scientific discoveries in one field can lead to breakthroughs in another.,text 2

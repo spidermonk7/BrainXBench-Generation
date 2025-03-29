@@ -10,7 +10,7 @@ from contextlib import contextmanager
 import pandas as pd
 from infos import *
 from collections import defaultdict
-
+import openai
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -72,7 +72,13 @@ def save_to_csv(dic_list, save_path, name = "v1"):
 
 
 
-# def LLM_response(model_name = "gpt-4o-2024-11-20", prompt = None):
+def load_prompt(path, params):
+    with open(path) as f:
+        template = Template(f.read())
+        prompt = template.render(params)
+    return prompt
+
+
 def LLM_response(model_name = "gpt-4o", prompt = None):
     """
     Function for LLMs generate response directly.
@@ -111,8 +117,10 @@ def split_and_convert_pdf(input_pdf, output_folder, page_ranges):
     """
     # 确保输出文件夹存在
     os.makedirs(output_folder, exist_ok=True)
-    if page_ranges == []:
-        page_ranges = [(i, i + 2) for i in range(49, 1581, 3)]
+    if type(page_ranges) == int:
+        page_ranges = [(i, i + page_ranges) for i in range(49, 1581, page_ranges + 1)]
+    # if page_ranges == []:
+    #     page_ranges = [(i, i + 2) for i in range(49, 1581, 3)]
     
     # 打开 PDF
     doc = fitz.open(input_pdf)
@@ -169,44 +177,6 @@ def convert_pdf_to_text(input_pdf, output_txt):
     
     print(f"✅ PDF 转换为 TXT 完成: {output_txt}")
 
-def load_prompt(path, params):
-    with open(path) as f:
-        template = Template(f.read())
-        prompt = template.render(params)
-    return prompt
-   
-
-def check_validation(path, save_path, debug = False):
-    """
-    Function for Checking the validity of [Background, Method, Result] segmentation. 
-    (1) IF there is any nan in the data, ignore that item.
-    (2) IF the abstract is not equal to Background + Method + Result, ignore that item.
-    (3) Save the valid papers to a new csv file.   
-    """
-
-    split_data = load_csv(path)
-    result_dic = {"Nan":0, "Valid":0, "Invalid":0}
-    valid_list = []
-
-    for i, item in enumerate(split_data):
-        if pd.isna(item["Result"]) or pd.isna(item["Background"]) or pd.isna(item["Method"]):
-            print(f"❌: There is a nan in the {i}th paper's segmentation result.")
-            result_dic["Nan"] += 1
-            continue
-        if item['Abstract'].replace(" ", "").replace("\'", "").replace("\"","").lower() != (item["Background"] + item["Method"] + item["Result"]).replace(" ", "").replace("\'", "").replace("\"", "").lower():
-            print(f"❌: Abstract is not equal to Background + Method + Results in the {i}th paper.")
-            if debug:
-                print(f"Abstract: {item['Abstract']}")
-                print(f"SUM: {item['Background'] + item['Method'] + item['Result']}")
-            result_dic["Invalid"] += 1
-            continue
-        result_dic["Valid"] += 1
-        valid_list.append(item)
-        print(f"✅: The {i}th paper is valid.")
-
-    print(f"📚: Found {result_dic['Valid']} valid papers in {path}, valid rate {result_dic['Valid']/len(split_data)}")
-    save_to_csv(valid_list, save_path, name = "v2_valids_sum")
-    
 
 def pack_data(data_path):
     csv_data = load_csv(data_path)

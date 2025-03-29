@@ -2,7 +2,6 @@ from utils import *
 from infos import *
 import random
 from omegaconf import OmegaConf
-
 # 读取配置
 cfg = OmegaConf.load("configs/config.yaml")
 
@@ -123,19 +122,17 @@ def build_brainXbench_forward_multi(bench_name = "BrainX-v1"):
     pack_data(f"{save_path}/Multi_Choice.csv")
     print(f"✅: Successfully saved the data to {save_path}")
 
-
-def build_brainXbench_backward(raw_path):
+def build_brainXbench_backward(bench_name = "BrainX-v1", task_type = "CHOICE"):
+    raw_path = f"workspaces/{bench_name}/data/backward/BrainXBench_{task_type}.csv"
     bench_data = load_csv(raw_path)
     
-    mini = "_mini" if "mini" in path else ""
-
     bench_dics = []
     for item in bench_data:
         bench_dic = {}
         descriptionA = item["Description A"]
         descriptionB = item["Description B"]
-        judgeA = item["Judgement A"]
-        judgeB = item["Judgement B"]
+        judgeA = item["Judge A"]
+        judgeB = item["Judge B"]
 
         # randomly shuffle which goes first
         if random.random() > 0.5:
@@ -145,7 +142,6 @@ def build_brainXbench_backward(raw_path):
                 bench_dic["label"] = "text 1"
             else:
                 bench_dic["label"] = "text 2"
-
         else:
             bench_dic["text 1"] = descriptionB
             bench_dic["text 2"] = descriptionA
@@ -155,19 +151,21 @@ def build_brainXbench_backward(raw_path):
                 bench_dic["label"] = "text 2"
         bench_dics.append(bench_dic)
 
-    save_path = f"Benches/backward/final/csvs"
+    save_path = f"workspaces/BrainX-v1/bench/backward/csvs"
     check_path(save_path)
 
     # check if the file exist
-    # if os.path.exists(f"{save_path}/BrainXBench_CHOICE{mini}"):
-    #     if input(f"💁: The file BrainXBench_CHOICE{mini}.csv already exists. Do you want to overwrite it? (y/n)") == "y":
-    #         os.remove(f"{save_path}/BrainXBench_CHOICE{mini}.csv")
-    #         save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE{mini}")
-    #         print(f"✅: Successfully saved the data to {save_path}")
-    # else:
-    #     save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE{mini}")
+    if os.path.exists(f"{save_path}/BrainXBench_CHOICE"):
+        if input(f"💁: The file BrainXBench_CHOICE.csv already exists. Do you want to overwrite it? (y/n)") == "y":
+            os.remove(f"{save_path}/BrainXBench_CHOICE.csv")
+            save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE")
+            pack_data(f"{save_path}/BrainXBench_CHOICE.csv")
+            print(f"✅: Successfully saved the data to {save_path}")
+            pack_data(f"{save_path}/BrainXBench_CHOICE.csv")
+    else:
+        save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE")
 
-    save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE")
+
 
 def build_segment_set(path_folder):
     # load all files in the folder
@@ -261,3 +259,5 @@ if __name__ == "__main__":
         build_brainXbench_forward(bench_name=cfg.bench_name)
         build_brainXbench_forward_multi(bench_name=cfg.bench_name)
 
+    elif cfg.bench_type == "backward":
+        build_brainXbench_backward(bench_name=cfg.bench_name, task_type=cfg.task_type)

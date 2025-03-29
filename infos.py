@@ -1,4 +1,3 @@
-import openai
 
 # generate_BrainX.py
 # ============================================
@@ -91,66 +90,6 @@ BOOK_INFO_DICT = {
 # ============================================
 
 
-
-# utils_collect.py
-# ============================================
-JOURNALS = [
-    "Nature communications",
-    "The Journal of neuroscience : the official journal of the Society for Neuroscience",
-    "Proceedings of the National Academy of Sciences of the United States of America",
-    "Science advances",
-    "Neuron",
-    "Cell reports",
-    "eLife",
-    "Alzheimer's & dementia : the journal of the Alzheimer's Association",
-    "Nature neuroscience",
-    "The Journal of physiology"
-]
-
-LABEL_MATCHING_DIC = {
-    "Nature communications": "NC",
-    "The Journal of neuroscience : the official journal of the Society for Neuroscience": "JNeurosci",
-    "Proceedings of the National Academy of Sciences of the United States of America": "PNAS",
-    "Science advances": "Sci Adv",
-    "Neuron": "Neuron",
-    "Cell reports": "Cell Rep",
-    "eLife": "eLife",
-    "Alzheimer's & dementia : the journal of the Alzheimer's Association": "Alzheimer",
-    "Nature neuroscience": "Nat. Neurosci",
-    "The Journal of physiology": "J Physiol"
-}
-
 # Global Variables
 # ============================================
 BRAIN_X_BENCH_VERSION = 1.0
-
-# ============================================
-
-
-# API for LLM response
-# ============================================
-
-usage = "v3"
-if usage == "v3":
-    # Key TEXT
-    openai.api_key = "sk-MSSwI7MgizQFSyUE64359c5000D64b518cCc7c00F30e0321"
-
-    # Key CHOICE
-    # openai.api_key = "sk-2MVtHUbwflfC57YH33D5478e03334d4cA2651e1fB7241f91"
-    # openai.base_url = "https://api.v3.cm/v1/" #🇭🇰线路
-    # openai.base_url = "https://us.vveai.com" #🇺🇸线路
-    # openai.base_url = "https://run.v36.cm/v1/" #🇯🇵线路
-    # openai.base_url = "https://api.aaai.vip/v1/" #国内线路
-    openai.base_url = "https://api.vveai.com/v1/" #主站线路
-    # openai.base_url = " https://api.gpt.ge/v1/"
-    # openai.base_url = "https://guide1.lanjing.ai "
-    openai.default_headers = {"x-foo": "true"}
-    # ============================================
-elif usage == "official":
-    openai.api_key = "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"
-
-
-elif usage == "free_use":
-    openai.api_key = "sk-qze273cccad60a2609699a1f38ce5acbcc787cfcfc6fohDu"
-    openai.base_url = "https://api.gptsapi.net/v1/"
-    openai.default_headers = {"x-foo": "true"}
