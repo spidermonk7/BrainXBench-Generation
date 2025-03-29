@@ -1,9 +1,5 @@
 import sys
 import os
-
-# 获取当前脚本的上级目录（即 `BrainX-NeuroBench`）
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
 from utils import *
 from infos import *
 from argparse import ArgumentParser
@@ -72,9 +68,6 @@ def generate_forward(task,
 
     """
 
-    # TODO:
-    # (1) The saving logic should be redirected to a new path. 
-
     paper_infos = load_csv(source_path)
     save_path = save_path + task + '/csvs'
     check_path(save_path)
@@ -85,7 +78,6 @@ def generate_forward(task,
                 "abstract": paper_info["Abstract"],
             }
         elif task == "flip":
-            # print(paper_info.keys())
             assert "Background" in paper_info.keys() and "Method" in paper_info.keys() and "Result" in paper_info.keys(), "Background, Method, and Results are required in the csv file."
             params = {
                 "background": paper_info["Background"],
@@ -113,9 +105,7 @@ def generate_forward(task,
             paper_info[key] = response[key]
        
         bench_data = [paper_info]
-
         save_to_csv(bench_data, save_path, f"v_direct{version}")
-
         print(f"✅ Process results of abstract {id} is saved to {save_path}")
 
 

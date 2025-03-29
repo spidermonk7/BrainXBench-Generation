@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor
 from argparse import ArgumentParser
-from utils import save_to_csv, check_path
+from utils import *
 from infos import *
 
 
@@ -17,7 +17,7 @@ def fetch_pmid_list(query, max_results, db="pubmed"):
         "retmax": max_results,
         "usehistory": "y",
         "retmode": "xml",
-        "api_key": NCBI_API_KEY
+        "api_key": os.getenv("NCBI_API_KEY")
         
     }
     
@@ -29,9 +29,7 @@ def fetch_pmid_list(query, max_results, db="pubmed"):
     query_key = root.find(".//QueryKey").text
     pmid_list = [id.text for id in root.findall(".//Id")]
 
-    print(f"[DEBUG] Actually got {len(pmid_list)} pmids from esearch.")
     return pmid_list, web_env, query_key
-
 
 def robust_request(url, params, max_retries=3, backoff=2):
     for i in range(max_retries):
@@ -46,7 +44,7 @@ def robust_request(url, params, max_retries=3, backoff=2):
     raise Exception("Too many 429 errors. Giving up.")
 
 
-def fetch_article_details(query, pmid_list, web_env, query_key, start_index, batch_size, db="pubmed", thread_id=0):
+def fetch_article_details(query, pmid_list, web_env, query_key, start_index, batch_size, db="pubmed", thread_id=0, bench_name = "BrainX-v1"):
     try:
         details_url = f"{BASE_URL}efetch.fcgi"
         batch_ids = pmid_list[start_index:start_index + batch_size]
@@ -56,7 +54,7 @@ def fetch_article_details(query, pmid_list, web_env, query_key, start_index, bat
             "WebEnv": web_env,
             "query_key": query_key,
             "id": ",".join(batch_ids), 
-            "api_key": NCBI_API_KEY
+            "api_key": os.getenv("NCBI_API_KEY")
         }
 
 
@@ -115,8 +113,8 @@ def fetch_article_details(query, pmid_list, web_env, query_key, start_index, bat
 
             articles.append(article)
 
-        check_path(f"data/{query}/pubmed/data")
-        save_to_csv(articles, save_path=f"data/{query}/pubmed/data", name=f"raw_abstracts_worker{thread_id}")
+        check_path(f"workspaces/{bench_name}/data/raw_abs")
+        save_to_csv(articles, save_path=f"workspaces/{bench_name}/data/raw_abs", name=f"raw_abstracts_worker{thread_id}")
         print(f"✅ Thread-{thread_id} saved {len(articles)} articles to CSV.")
         return articles
 
@@ -125,7 +123,7 @@ def fetch_article_details(query, pmid_list, web_env, query_key, start_index, bat
         return []
 
 
-def get_query_documents(query="neuroscience", max_results=10, db="pubmed", threads=5):
+def get_query_documents(query="neuroscience", max_results=10, db="pubmed", threads=5, bench_name="BrainX-v1"):
     query = query.lower()
     pmid_list, web_env, query_key = fetch_pmid_list(query, max_results)
     print(f"🤖: Found {len(pmid_list)} articles matching '{query}'.")
@@ -141,7 +139,7 @@ def get_query_documents(query="neuroscience", max_results=10, db="pubmed", threa
                 continue
             futures.append(
                 executor.submit(fetch_article_details, query, pmid_list, web_env, query_key,
-                                start_idx, PUB_BATCH_SIZE, db=db, thread_id=i)
+                                start_idx, PUB_BATCH_SIZE, db=db, thread_id=i, bench_name=bench_name)
             )
 
         for i, future in enumerate(futures):
@@ -152,11 +150,16 @@ def get_query_documents(query="neuroscience", max_results=10, db="pubmed", threa
 
 
 
-def combine_data_files(folder_path = ""):
-    pass
+def combine_data_files(folder_path = "data/neuroscience/pubmed"):
+    # list all csv files in the folder
+    csv_files = [f for f in os.listdir(folder_path) if f.endswith(".csv")]
+    print(f"📂 Found {len(csv_files)} CSV files in {folder_path}"
+          f"\n🔍 Combining data from all files...")
+    combined_data = []
+    for file in csv_files:
+        combined_data += load_csv(folder_path + '/' + file)
 
-
-
+    save_to_csv(combined_data, save_path=folder_path, name="combined_abstracts")
 
 
 
@@ -166,12 +169,17 @@ if __name__ == "__main__":
     parser.add_argument("--max_results", type=int, default=50, help="The maximum number of results to fetch.")
     parser.add_argument("--db", type=str, default="pubmed", help="The database to search in.")
     parser.add_argument("--threads", type=int, default=5, help="Number of concurrent threads.")
+    parser.add_argument("--bench_name", type=str, default="BrainX-v1", help="The name of the benchmark.")
+
 
     args = parser.parse_args()
 
-    get_query_documents(
-        query=args.query,
-        max_results=args.max_results,
-        db=args.db,
-        threads=args.threads
-    )
+    # get_query_documents(
+    #     query=args.query,
+    #     max_results=args.max_results,
+    #     db=args.db,
+    #     threads=args.threads, 
+    #     bench_name=args.bench_name
+    # )
+
+    combine_data_files(folder_path=f"workspaces/{args.bench_name}/data/raw_abs")

@@ -100,7 +100,7 @@ BOOK_INFO_DICT = {
 # ============================================
 BASE_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
 PUB_BATCH_SIZE = 10  # 每次请求获取的最大文献数量，PubMed的限制
-NCBI_API_KEY = "91ea59672458ea0bb392a65de73272cd0408"
+DATES_CONSIDERED = ["2025-Feb", "2025-Mar"]
 # ============================================
 
 

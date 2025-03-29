@@ -1,21 +1,23 @@
-import sys
+
 import os
 import numpy as np
-# 获取当前脚本的上级目录（即 `BrainX-NeuroBench`）
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
 import csv
-import os
 import fitz  # PyMuPDF
 from jinja2 import Template
 from matplotlib import pyplot as plt
 import time
 from contextlib import contextmanager
 import pandas as pd
-import os
 from infos import *
 from collections import defaultdict
 
+from dotenv import load_dotenv
+load_dotenv()
+
+
+def check_path(path):
+    if not os.path.exists(path):
+        os.makedirs(path)
 
 @contextmanager
 def timer(name="Execution Time"):
@@ -47,6 +49,7 @@ def load_csv(path):
  
     return result_dic
 
+
 def save_to_csv(dic_list, save_path, name = "v1"):
     """
     Function for saving dict_list to csv file.
@@ -66,7 +69,6 @@ def save_to_csv(dic_list, save_path, name = "v1"):
             writer.writerow(dic_list[0].keys())
             for article in dic_list:
                 writer.writerow(article.values())
-
 
 
 
@@ -98,9 +100,6 @@ def LLM_response(model_name = "gpt-4o", prompt = None):
     return anwser
 
 
-def check_path(path):
-    if not os.path.exists(path):
-        os.makedirs(path)
 
 def split_and_convert_pdf(input_pdf, output_folder, page_ranges):
     """
@@ -142,17 +141,18 @@ def split_and_convert_pdf(input_pdf, output_folder, page_ranges):
     doc.close()
     print("✅ 所有 PDF 拆分 & 转换 TXT 任务完成！")
 
-def load_source(path):
-    with open(path) as f:
-        source = f.read()
-    return source
 
 def load_txt_files(folder):
+    def load_source(path):
+        with open(path) as f:
+            source = f.read()
+        return source
     sources = []
     for f in os.listdir(folder):
         if f.endswith(".txt"):
             sources.append(load_source(os.path.join(folder, f)))
     return sources
+
 
 def convert_pdf_to_text(input_pdf, output_txt):
     """
@@ -184,9 +184,6 @@ def check_validation(path, save_path, debug = False):
     (3) Save the valid papers to a new csv file.   
     """
 
-    # TODO:
-    # (1) The saving logic should be redirected to a new path.
-
     split_data = load_csv(path)
     result_dic = {"Nan":0, "Valid":0, "Invalid":0}
     valid_list = []
@@ -210,6 +207,7 @@ def check_validation(path, save_path, debug = False):
     print(f"📚: Found {result_dic['Valid']} valid papers in {path}, valid rate {result_dic['Valid']/len(split_data)}")
     save_to_csv(valid_list, save_path, name = "v2_valids_sum")
     
+
 def check_abs(path, save_path):
     """
     Function for checking the validity of raw abstract data. 
@@ -232,6 +230,7 @@ def check_abs(path, save_path):
     save_to_csv(valids, save_path, name = "valids")
     print(f"📚: Found {len(valids)} invalid papers in {path}, valids rate {len(valids)/len(abs_data)}")
     
+
 def raw_abs_ana(path="data/pubmed/valids.csv", plot = False, save = False):
     # 加载数据
     """[Function Card]
@@ -249,8 +248,6 @@ def raw_abs_ana(path="data/pubmed/valids.csv", plot = False, save = False):
     abs_data = load_csv(path)
 
     filtered_data = [item for item in abs_data if item["Source"] in JOURNALS and item["Published Date"] in DATES_CONSIDERED]
-   
-
     distribution_info = plot_stacked_distribution(filtered_data, "Source", "Published Date", plot=plot)
 
     save_path = "data/pubmed"
@@ -265,39 +262,8 @@ def raw_abs_ana(path="data/pubmed/valids.csv", plot = False, save = False):
     return filtered_data, distribution_info
 
 
-
-def plot_distribution(data, key, plot= False):
-    result_dic = {}
-    for item in data:
-        if item[key] in result_dic:
-            result_dic[item[key]] += 1
-        else:
-            result_dic[item[key]] = 1
-
-    if plot:
-        plt.style.use('ggplot')
-        color_range = np.linspace(0.3, 0.8, len(result_dic))  # 让颜色在 0.3~0.8 之间变化
-        colors = [plt.cm.Greys(c) for c in color_range]
-        width = 5 * len(result_dic)
-        plt.figure(figsize=(width, 5))
-        plt.bar(result_dic.keys(), result_dic.values(), color=colors,)
-        for i, keyy in enumerate(result_dic.keys()):
-            plt.text(i, result_dic[keyy] + 1, result_dic[keyy], ha='center', va='bottom')
-
-        plt.xticks([])
-        print(f"source_dic: {result_dic.keys()}")
-        plt.tight_layout()
-        plt.savefig(f"raw_dis_{key}.png", transparent=True)
-        plt.show()
-        plt.close()
-
-    return result_dic
-
-
 def plot_stacked_distribution(data, key, sub_key, plot=False):
     result_dic = defaultdict(lambda: defaultdict(int))
-
-   
     # 计算每个 source 内部不同 pubdate 的数量
     for item in data:
         result_dic[item[key]][item[sub_key]] += 1
@@ -360,42 +326,6 @@ def check_split_result(path = "Benches/forward/split/v_direct2.0.csv", save = Tr
         save_to_csv(valids, save_path, name = "splited_valids")
 
     return valids
-
-
-
-
-import json
-import re
-
-def parse_json_response(response: str):
-    """
-    Parses a JSON response string, removing markdown-style ```json wrappers if present.
-
-    Args:
-        response (str): The raw response string from LLM.
-
-    Returns:
-        dict: The parsed JSON object, or None if parsing fails.
-    """
-    response = response.strip()
-    # print(f"Initial response")
-    # print(f"{response}")
-    # print('='*20)
-    # # Check if the response is wrapped in a markdown code block
-    # if response.startswith("```json") or response.startswith("```"):
-    #     response = re.sub(r"^```json\s*", "", response)  # Remove ```json at the start
-    #     response = re.sub(r"^```\s*", "", response)  # Remove ``` at the start
-    #     response = re.sub(r"\s*```$", "", response)  # Remove ``` at the end
-    # print(f"Response after removing markdown")
-    # print(f"{response}")
-    # print('='*20)
-
-    try:
-        return eval(response)
-    except Exception as e:
-        print(f"❌: Error occurs when parsing response: {response}")
-        print(f"❌: Error message: {e}")
-        return None
 
 
 if __name__ == "__main__":
