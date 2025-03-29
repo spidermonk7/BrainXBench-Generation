@@ -56,8 +56,7 @@ def generate_forward(task,
                     source_path, 
                     save_path, 
                     model_name = "gpt-4o", 
-                    version = 0.6, 
-                    last_id = 0
+                    version = "BrainX-v1", 
                     ):
     """
     Function for generating the forward bench, including two steps: Split and Flip.
@@ -69,8 +68,14 @@ def generate_forward(task,
     """
 
     paper_infos = load_csv(source_path)
-    save_path = save_path + task + '/csvs'
+    save_path = save_path + task
     check_path(save_path)
+
+    if os.path.exists(save_path + f"/{task}_data.csv"):
+        last_id = len(load_csv(save_path + f"/{task}_data.csv"))
+    else:
+        last_id = -1
+
     for id, paper_info in enumerate(paper_infos):
         if id < last_id: continue
         if task == "split":
@@ -84,28 +89,33 @@ def generate_forward(task,
                 "method": paper_info["Method"],
                 "results": paper_info["Result"],
             }
-        
+        elif task == "validate":
+            params = {
+            "initial_conclusion": paper_info["Result"],
+            "Opposite_Outcome": paper_info["Opposite_Outcome"],
+            "Factor_Misattribution": paper_info["Factor_Misattribution"],
+            "Incorrect_Causal_Relationship": paper_info["Incorrect_Causal_Relationship"],
+            }
         prompt = load_prompt(prompt_path, params)
         with timer("Benchmarks Generation"):
             print(f"🤖: Your {model_name} question generator is processing abstract {id}")
             try:
-                response = LLM_response(prompt=prompt, model_name=model_name)
-                print(f"type of response: {type(response)}")
-                response = eval(response)
+                output = LLM_response(prompt=prompt, model_name=model_name)
+                response = eval(output.strip())
                 print(f"Successfully evaluate the response to type {type(response)}")
             except:
                 print(f"❌: Error occurs when processing abstract {id}.")
-                print(f"❌: Response: {response}")
-                with open("error.log", "a") as f:
-                    f.write(f"Thread {version}: Error occurs when processing abstract {id}, program exits.\n")
-                    # f.write(f"Response: {response}")
-                raise ValueError(f"Error occurs when processing abstract {id} for thread {version}.")
+                print(f"❌: Response: {output}")
+                with open(f"{save_path}/error.log", "a") as f:
+                    f.write(f"Error occurs when processing abstract {id}, program exits.\n")
+                    f.write(f"Response: {output}")
+                raise ValueError(f"Error occurs when processing abstract {id} for bench: {version}.")
         
         for key in response.keys():
             paper_info[key] = response[key]
        
         bench_data = [paper_info]
-        save_to_csv(bench_data, save_path, f"v_direct{version}")
+        save_to_csv(bench_data, save_path, f"{task}_data")
         print(f"✅ Process results of abstract {id} is saved to {save_path}")
 
 

@@ -4,13 +4,15 @@ import requests
 import xml.etree.ElementTree as ET
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor
-from argparse import ArgumentParser
 from utils import *
 from infos import *
+from omegaconf import OmegaConf
 
+# 读取配置
+cfg = OmegaConf.load("configs/config.yaml")
 
 def fetch_pmid_list(query, max_results, db="pubmed"):
-    search_url = f"{BASE_URL}esearch.fcgi"
+    search_url = f"{cfg.BASE_URL}esearch.fcgi"
     params = {
         "db": db,
         "term": query,
@@ -46,7 +48,7 @@ def robust_request(url, params, max_retries=3, backoff=2):
 
 def fetch_article_details(query, pmid_list, web_env, query_key, start_index, batch_size, db="pubmed", thread_id=0, bench_name = "BrainX-v1"):
     try:
-        details_url = f"{BASE_URL}efetch.fcgi"
+        details_url = f"{cfg.BASE_URL}efetch.fcgi"
         batch_ids = pmid_list[start_index:start_index + batch_size]
         params = {
             "db": db,
@@ -128,18 +130,18 @@ def get_query_documents(query="neuroscience", max_results=10, db="pubmed", threa
     pmid_list, web_env, query_key = fetch_pmid_list(query, max_results)
     print(f"🤖: Found {len(pmid_list)} articles matching '{query}'.")
 
-    batch_count = len(pmid_list) // PUB_BATCH_SIZE + (1 if len(pmid_list) % PUB_BATCH_SIZE != 0 else 0)
+    batch_count = len(pmid_list) // cfg.PUB_BATCH_SIZE + (1 if len(pmid_list) % cfg.PUB_BATCH_SIZE != 0 else 0)
     futures = []
 
     with ThreadPoolExecutor(max_workers=threads) as executor:
         for i in range(batch_count):
-            start_idx = i * PUB_BATCH_SIZE
+            start_idx = i * cfg.PUB_BATCH_SIZE
             if start_idx >= len(pmid_list):
                 print(f"⚠️ Skipping Thread-{i}, out of range.")
                 continue
             futures.append(
                 executor.submit(fetch_article_details, query, pmid_list, web_env, query_key,
-                                start_idx, PUB_BATCH_SIZE, db=db, thread_id=i, bench_name=bench_name)
+                                start_idx, cfg.PUB_BATCH_SIZE, db=db, thread_id=i, bench_name=bench_name)
             )
 
         for i, future in enumerate(futures):
@@ -164,22 +166,13 @@ def combine_data_files(folder_path = "data/neuroscience/pubmed"):
 
 
 if __name__ == "__main__":
-    parser = ArgumentParser()
-    parser.add_argument("--query", type=str, default="neuroscience", help="The query term to search for.")
-    parser.add_argument("--max_results", type=int, default=50, help="The maximum number of results to fetch.")
-    parser.add_argument("--db", type=str, default="pubmed", help="The database to search in.")
-    parser.add_argument("--threads", type=int, default=5, help="Number of concurrent threads.")
-    parser.add_argument("--bench_name", type=str, default="BrainX-v1", help="The name of the benchmark.")
+    
+    get_query_documents(
+        query=cfg.query,
+        max_results=cfg.max_results,
+        db=cfg.db,
+        threads=cfg.threads, 
+        bench_name=cfg.bench_name
+    )
 
-
-    args = parser.parse_args()
-
-    # get_query_documents(
-    #     query=args.query,
-    #     max_results=args.max_results,
-    #     db=args.db,
-    #     threads=args.threads, 
-    #     bench_name=args.bench_name
-    # )
-
-    combine_data_files(folder_path=f"workspaces/{args.bench_name}/data/raw_abs")
+    combine_data_files(folder_path=f"workspaces/{cfg.bench_name}/data/raw_abs")

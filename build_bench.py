@@ -1,8 +1,11 @@
 from utils import *
 from infos import *
 import random
-from argparse import ArgumentParser
-from jinja2 import Template
+from omegaconf import OmegaConf
+
+# 读取配置
+cfg = OmegaConf.load("configs/config.yaml")
+
 
 def load_brainXbench_forward(result_type,file_type = "csv", data_version = 0.6):
 
@@ -34,10 +37,8 @@ def load_brainXbench_backward(question_type, mini):
     
 
 
-
-# Opposite_Outcome	Incorrect_Causal_Relationship	Factor_Misattribution	Balderdash	modification: Opposite_Outcome	valid: Opposite_Outcome	modification: Factor_Misattribution	valid: Factor_Misattribution	modification: Incorrect_Causal_Relationship	valid: Incorrect_Causal_Relationship
-
-def build_brainXbench_forward(raw_path):
+def build_brainXbench_forward(bench_name = "BrainX-v1"):
+    raw_path = f"workspaces/{bench_name}/data/forward/validate/validate_data.csv"
     bench_data = load_csv(raw_path)
     for result_type in ["Opposite_Outcome", "Incorrect_Causal_Relationship", "Factor_Misattribution"]:
         bench_dics = []
@@ -57,19 +58,25 @@ def build_brainXbench_forward(raw_path):
             if item[f"valid: {result_type}"] == 1:
                 bench_dics.append(bench_dic)
 
-        save_path = f"Benches/forward/final/csvs"
+        save_path = f"workspaces/{bench_name}/bench/forward/csvs"
         check_path(save_path)
-        # check if the file exist
-        if os.path.exists(f"{save_path}/{result_type}-V0.6.csv"):
-            print(f"💁: The file {result_type}-V0.6.csv already exists.")
-            os.remove(f"{save_path}/{result_type}-V0.6.csv")
-            save_to_csv(bench_dics, save_path, f"{result_type}-V0.6")
+       
+        if os.path.exists(f"{save_path}/{result_type}.csv"):
+            print(f"💁: The file {result_type}.csv already exists.")
+            if input(f"💁: Do you want to overwrite it? (y/n)") == "y":
+                os.remove(f"{save_path}/{result_type}.csv")
+                save_to_csv(bench_dics, save_path, f"{result_type}")
+                pack_data(f"{save_path}/{result_type}.csv")
+                print(f"✅: Successfully saved the data to {save_path}")
         else:
-            save_to_csv(bench_dics, save_path, f"{result_type}-V0.6")
+            save_to_csv(bench_dics, save_path, f"{result_type}")
+            pack_data(f"{save_path}/{result_type}.csv")
             print(f"✅: Successfully saved the data to {save_path}")
 
 
-def build_brainXbench_forward_multi(raw_path):
+
+def build_brainXbench_forward_multi(bench_name = "BrainX-v1"):
+    raw_path = f"workspaces/{bench_name}/data/forward/validate/validate_data.csv"
     bench_data = load_csv(raw_path)
     bench_dics = []
     for item in bench_data:
@@ -109,17 +116,12 @@ def build_brainXbench_forward_multi(raw_path):
 
         
         bench_dics.append(bench_dic)
-        #   print(f"✅: Successfully added the data to the bench dic")
-        
    
-    save_path = f"Benches/forward/final/csvs"
+    save_path = f"workspaces/{bench_name}/bench/forward/csvs"
     check_path(save_path)
-    # check if the file exist
-    
-    save_to_csv(bench_dics, save_path, f"BrainXBench-forward-Multi-V0.6")
+    save_to_csv(bench_dics, save_path, f"Multi_Choice")
+    pack_data(f"{save_path}/Multi_Choice.csv")
     print(f"✅: Successfully saved the data to {save_path}")
-
-
 
 
 def build_brainXbench_backward(raw_path):
@@ -167,7 +169,6 @@ def build_brainXbench_backward(raw_path):
 
     save_to_csv(bench_dics, save_path, f"BrainXBench_CHOICE")
 
-# Abstract	Background	Method	Result	Intact_or_not	Neuroscience related	Research_or_not
 def build_segment_set(path_folder):
     # load all files in the folder
     data = []
@@ -207,7 +208,6 @@ def build_segment_set(path_folder):
     print(f"✅: Valid data size is {len(data_dics)}")
     print(f"✅: Successfully saved the data to {save_path}")
 
-
 def build_True_False_set(path_folder):
     # load all files in the folder
     data = []
@@ -224,12 +224,10 @@ def build_True_False_set(path_folder):
         if item["Neuroscience related"] != 1:
             print(f"❌ Ignore data {id} because it is not neuroscience related.")
             continue
-    
         if item["Abstract"] != str(item["Background"]) + ' ' + str(item["Method"]) + ' ' + str(item["Result"]):
             print(f"❌ Ignore data {id} because the abstract is not the combination of Background, Method, and Result.")
             continue
-        # params = {"background": item["Background"], "method": item["Method"], "conclusion": item["Result"]}
-        # data_dic["text"] = load_prompt("prompts/segment/build_abstract.md", params)
+       
         data_dic["method"] = item["Method"]
         data_dic["background"] = item["Background"]
         # randomly shuffle the true and false
@@ -239,7 +237,6 @@ def build_True_False_set(path_folder):
             data_dic["conclusion1"] = conclusion1
             data_dic["conclusion2"] = conclusion2
             data_dic["label"] = "text 1"
-
         else:
             data_dic["conclusion1"] = conclusion2
             data_dic["conclusion2"] = conclusion1
@@ -260,28 +257,7 @@ def build_True_False_set(path_folder):
 
 
 if __name__ == "__main__":
+    if cfg.bench_type == "forward":
+        build_brainXbench_forward(bench_name=cfg.bench_name)
+        build_brainXbench_forward_multi(bench_name=cfg.bench_name)
 
-    args = ArgumentParser()
-    args.add_argument("-V", type = float, default = 0.6, help = "The bench version corresponding to your own prompt")
-    args = args.parse_args()
-
-    path = f"Benches/forward/flip/csvs/valids_v_direct{args.V}.csv"
-    # build_brainXbench_forward_multi(path)
-    # build_brainXbench_forward(path)
-    # load_brainXbench_forward("Opposite_Outcome")
-    # load_brainXbench_forward("Incorrect_Causal_Relationship")
-    # load_brainXbench_forward("Factor_Misattribution")
-
-    # path = "Benches/backward/csvs/BrainXBench_CHOICE.csv"
-    # build_brainXbench_backward(path)
-
-    # path = "Benches/backward/csvs/BrainXBench_CHOICE_mini.csv"
-    # build_brainXbench_backward(path)
-
-
-    # path ="Benches/segmentation/split/csvs"
-    # path = "Benches/segmentation/flip/csvs"
-    # # build_segment_set(path)
-    # build_True_False_set(path)  
-    path = "Benches/backward/csvs/BrainXBench_CHOICE_subset.csv"
-    build_brainXbench_backward(path)

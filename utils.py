@@ -208,124 +208,18 @@ def check_validation(path, save_path, debug = False):
     save_to_csv(valid_list, save_path, name = "v2_valids_sum")
     
 
-def check_abs(path, save_path):
-    """
-    Function for checking the validity of raw abstract data. 
-    (1) Check if there is any nan in the data, if so, ignore that item. 
-    (2) Save the valid papers to a new csv file.
+def pack_data(data_path):
+    csv_data = load_csv(data_path)
+    df = pd.DataFrame(csv_data)
+    path = data_path[:data_path.rfind("/")]
+    check_path(path.replace("csv", "parquet"))
+    check_path(path.replace("csv", "json"))
+    df.to_parquet(data_path.replace("csv", "parquet"), index=False)
+    df.to_json(data_path.replace("csv", "json"), orient="records")
 
-    """
-    # TODO: 
-    # (1) The saving logic should be redirected to a new path.
-    valids = []
-    abs_data = load_csv(path)
-    for _, item in enumerate(abs_data):
-        for id, key in enumerate(item.keys()):
-            if pd.isna(item[key]):
-                print(f"❌: {key} is a nan in the {_}th paper.")
-                break
-            if id == len(item.keys()) - 1 and item not in valids:
-                valids.append(item)
-    
-    save_to_csv(valids, save_path, name = "valids")
-    print(f"📚: Found {len(valids)} invalid papers in {path}, valids rate {len(valids)/len(abs_data)}")
-    
+    print(f"✅: Successfully saved the data to {data_path.replace('csv', 'parquet')} and {data_path.replace('csv', 'json')}")
+ 
 
-def raw_abs_ana(path="data/pubmed/valids.csv", plot = False, save = False):
-    # 加载数据
-    """[Function Card]
-    Function for analyse the raw abstract data, here we will:
-    (1) Check the sources for papers we got. 
-    (2) Check their publish date. 
-    (3) Filter out the top-10(Selected) Journals with good fame and high quality. 
-    """
-    # TODO:
-    # (1) Optimize the return structure, return all the infos we want. 
-    # (2) Implement the logic for image plotting and saving
-    # (3) The "Selected Journal Filter" saving path shoule be re-direct.
-
-    DATES_CONSIDERED = ["2025-Feb", "2025-Mar"]
-    abs_data = load_csv(path)
-
-    filtered_data = [item for item in abs_data if item["Source"] in JOURNALS and item["Published Date"] in DATES_CONSIDERED]
-    distribution_info = plot_stacked_distribution(filtered_data, "Source", "Published Date", plot=plot)
-
-    save_path = "data/pubmed"
-    file_name = "selected_data"
-    if save:
-        if os.path.exists(save_path):
-            print(f"❌: There already exist a file named: {file_name} at location {save_path}, plz check.")
-        else:
-            save_to_csv(filtered_data, save_path, name = "selected_data")
-    print(f"📚: Found {len(filtered_data)} papers that should be taken into consideration.")
-
-    return filtered_data, distribution_info
-
-
-def plot_stacked_distribution(data, key, sub_key, plot=False):
-    result_dic = defaultdict(lambda: defaultdict(int))
-    # 计算每个 source 内部不同 pubdate 的数量
-    for item in data:
-        result_dic[item[key]][item[sub_key]] += 1
-
-    if plot:
-        plt.style.use('ggplot')
-        # 获取不同的 source 和它们对应的 pubdate
-        sources = list(result_dic.keys())
-        label_sources = sources
-        if key == "Source":
-            label_sources = [LABEL_MATCHING_DIC[source] for source in sources]
-        
-        pubdates = sorted(set(date for subdict in result_dic.values() for date in subdict.keys()))
-        # 颜色分配
-        color_range = np.linspace(0.3, 0.8, len(pubdates))  
-        colors = [plt.cm.Greys(c) for c in color_range]
-
-        # 画布大小
-        plt.figure(figsize=(10, 8))
-        
-        # 绘制堆叠柱状图（水平）
-        bottom = np.zeros(len(sources))  # 用于累计每个 source 的 bar 左侧起点
-        for i, pubdate in enumerate(pubdates):
-            values = [result_dic[source].get(pubdate, 0) for source in sources]
-            plt.barh(label_sources, values, left=bottom, color=colors[i], label=pubdate)
-            bottom += np.array(values)
-
-        # 添加标签
-        for i, source in enumerate(sources):
-            total = sum(result_dic[source].values())
-            plt.text(total + 1, i, total, va='center', ha='left')
-
-        plt.yticks(rotation=0)
-        plt.xlabel("Count")
-        plt.ylabel(key.capitalize())
-        plt.legend(title=sub_key, loc="upper right")
-        plt.tight_layout()
-        plt.show()
-        plt.close()
-
-    return result_dic
-
-
-def check_split_result(path = "Benches/forward/split/v_direct2.0.csv", save = True):
-    """
-    Function for checking the split result of the raw data. 
-    (1) Check if there is any nan in the data, if so, ignore that item. 
-    (2) Save the valid papers to a new csv file.
-    """
-    data = load_csv(path)
-    valids = []
-    for item in data:
-        if item['Intact_or_not'] == 1 and item['Neuroscience related'] == 1 and item['Research_or_not'] == 1:
-            valids.append(item)
-        else:
-            print(f"❌: The {item}th paper is invalid.")
-    if save:
-        save_path = "Benches/forward/split"
-        check_path(save_path)
-        save_to_csv(valids, save_path, name = "splited_valids")
-
-    return valids
 
 
 if __name__ == "__main__":
