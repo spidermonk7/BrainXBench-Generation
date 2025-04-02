@@ -110,12 +110,14 @@ def load_txt_files(path):
     (1) path: the path you want to load txt files.
 
     Return:
-    (1) txt_files: a list of txt files.
+    (1) txt_files: a list of texts.
     """
     txt_files = []
     for file in os.listdir(path):
         if file.endswith(".txt"):
-            txt_files.append(file)
+            with open(f"{path}/{file}", "r") as f:
+                txt_files.append(f.read())
+
     return txt_files
 
 def pack_data(data_path):

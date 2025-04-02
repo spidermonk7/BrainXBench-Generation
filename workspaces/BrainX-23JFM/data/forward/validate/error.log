@@ -1,0 +1,14 @@
+Error occurs when processing abstract 38, program exits.
+Response: 
+
+
+
+  
+  {
+    "modification: Opposite_Outcome": "Similar detrimental effects are observed in flies expressing a neuropathy-causing glycyl-tRNA synthetase.",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "Hence, in this work, we show that mitochondrial dysfunction, rather than YARS1, is an evolutionary-conserved F-actin organizer which links the actin cytoskeleton to tRNA-synthetase-induced neurodegeneration.",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "Hence, in this work, we show that the actin cytoskeleton links YARS1 to evolutionary-conserved neurodegeneration caused by tRNA synthetases.",
+    "valid: Incorrect_Causal_Relationship": 1
+}

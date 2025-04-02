@@ -246,6 +246,43 @@ def build_True_False_set(path_folder):
     print(f"✅: Successfully saved the data to {save_path}")
 
 
+# question,correct_answer,fake_answer_1,fake_answer_2,fake_answer_3
+
+
+def build_brainXbench_backward_multi(bench_name = "BrainX-v2"):
+    raw_path = f"workspaces/{bench_name}/data/backward/BrainXBench_CHOICE.csv"
+    bench_data = load_csv(raw_path)
+    bench_dics = []
+    for item in bench_data:
+        bench_dic = {}
+        fake_abstract1 = item['fake_answer_1']
+        fake_abstract2 = item['fake_answer_2']
+        fake_abstract3 = item['fake_answer_3']
+        true_abstract = item["correct_answer"]
+
+        # randomly shuffle the orders for multiple choice
+        choices = [fake_abstract1, fake_abstract2, fake_abstract3, true_abstract]
+        
+        random.shuffle(choices)
+        bench_dic["question"] = item["question"]
+        for i, choice in enumerate(choices):
+            bench_dic[f"text{i+1}"] = choice
+
+        label = None
+        for key, text in bench_dic.items():
+            if bench_dic[key] == true_abstract:
+                label = key
+                break
+        bench_dic["label"] = label
+
+        bench_dics.append(bench_dic)
+   
+    save_path = f"workspaces/{bench_name}/bench/backward/csvs"
+    check_path(save_path)
+    save_to_csv(bench_dics, save_path, f"Multi_Choice")
+    pack_data(f"{save_path}/Multi_Choice.csv")
+    print(f"✅: Successfully saved the data to {save_path}")
+
 
 
 
@@ -261,4 +298,7 @@ if __name__ == "__main__":
         build_brainXbench_forward_multi(bench_name=args.bench_name)
 
     elif args.type == "backward":
-        build_brainXbench_backward(bench_name=args.bench_name, task_type=args.task_type)
+        if args.bench_name == "BrainX-v1":
+            build_brainXbench_backward(question_type=args.task_type, mini=True)
+        else:
+            build_brainXbench_backward_multi(bench_name=args.bench_name)

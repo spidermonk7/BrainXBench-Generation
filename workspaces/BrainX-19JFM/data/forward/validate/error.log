@@ -1,0 +1,10 @@
+Error occurs when processing abstract 106, program exits.
+Response: 
+{
+    "modification: Opposite_Outcome": "different degraded images are represented much less distinctly in neural dynamics starting from ~500 ms after stimulus onset",
+    "valid: Opposite_Outcome": 1,
+    "modification: Factor_Misattribution": "emotional processing instead of attentional processing",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "recognition processing dominated within 300 ms after stimulus onset, while stimulus-feature processing dominated from 500 ms onward",
+    "valid: Incorrect_Causal_Relationship": 1
+}

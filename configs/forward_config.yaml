@@ -1,13 +1,27 @@
-bench_name: "BrainX-v1"
-bench_type: "backward"
+bench_name: "BrainX-22JFM"
+bench_type: "forward"
 query: "neuroscience"
-max_results: 25
+max_results: 300
 db: "pubmed"
 threads: 5
 BASE_URL: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
-PUB_BATCH_SIZE: 10  # 每次请求获取的最大文献数量，PubMed的限制
-DATES_CONSIDERED: ["2025-Feb", "2025-Mar"]
+PUB_BATCH_SIZE: 40  # 每次请求获取的最大文献数量，PubMed的限制
+DATES_CONSIDERED: ["2019-Mar", "2019-Feb", "2019-Jan"]
+start_year: 2019
+end_year: 2019
+start_month: 1
+end_month: 3
 
+segment_model: "gpt-4o"
+flip_model: "gpt-4o"
+validation_model: "gpt-4o"
+
+seg_prompt: "prompts/forwards/split.md"
+flip_prompt: "prompts/forwards/flip.md"
+validation_prompt: "prompts/forwards/validation.md"
+
+
+max_bench_size: 100
 
 JOURNALS:
   - "Nature communications"

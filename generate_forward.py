@@ -20,7 +20,6 @@ def generate_forward(task,
     (1) Split: Segment the abstract into Background, Method, and Results.
     (2) Flip: Modify Method and Results part, offer incorrect choice for model evaluation. 
     (3) Save the results to a new csv file.
-
     """
 
     paper_infos = load_csv(source_path)
@@ -78,8 +77,7 @@ def raw_abs_ana(path, save = True):
     (3) Filter out the top-10(Selected) Journals with good fame and high quality. 
     """
     abs_data = load_csv(path)
-    filtered_data = [item for item in abs_data if item["Source"] in cfg.JOURNALS and item["Published Date"] in cfg.DATES_CONSIDERED and item["Abstract"] != "N/A"]
-    
+    filtered_data = check_abs(abs_data)
     save_path = path.replace("/combined_abstracts.csv", '').replace("raw_abs", "valid_stage_01")
     check_path(save_path)
     file_name = "selected_data"
@@ -90,7 +88,7 @@ def raw_abs_ana(path, save = True):
                 save_to_csv(filtered_data, save_path, file_name)
         else:
             save_to_csv(filtered_data, save_path, file_name)
-    print(f"📚: Found {len(filtered_data)} papers that should be taken into consideration.")
+    print(f"🤖: After checking 'N/A's, found {len(filtered_data)} papers that should be taken into consideration.")
 
     return filtered_data
 
@@ -211,6 +209,8 @@ if __name__ == "__main__":
                         source_path=f'workspaces/{cfg.bench_name}/data/valid_stage_01/selected_data.csv',
                         save_path=f'workspaces/{cfg.bench_name}/data/forward/',
                         version=cfg.bench_name,
+                        model_name=cfg.segment_model,
+
                         )
         
         path = f"workspaces/{cfg.bench_name}/data/forward/split/split_data.csv"
@@ -223,6 +223,7 @@ if __name__ == "__main__":
                     source_path=f'workspaces/{cfg.bench_name}/data/forward/split/split_valids.csv',
                     save_path=f'workspaces/{cfg.bench_name}/data/forward/',
                     version=cfg.bench_name,
+                    model_name=cfg.flip_model,
                     )
         
     elif args.stage == "validate":
@@ -231,5 +232,6 @@ if __name__ == "__main__":
         prompt_path="prompts/forwards/validation.md", 
         source_path=f"workspaces/{cfg.bench_name}/data/forward/flip/flip_data.csv",
         save_path=f"workspaces/{cfg.bench_name}/data/forward/", 
+        model_name=cfg.validation_model,
     )
 

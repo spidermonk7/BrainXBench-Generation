@@ -10,6 +10,43 @@ from omegaconf import OmegaConf
 # 读取配置
 cfg = OmegaConf.load("configs/forward_config.yaml")
 
+
+JOURNAL_WHITELIST = set(cfg.JOURNALS)  # 你可以在 config.yaml 里定义 JOURNALS
+
+def build_pubmed_query(base_term, start_year=None, start_month=None,
+                       end_year=None, end_month=None, journals=None):
+    """
+    构造 PubMed 查询语句，可支持关键词、时间范围（精确到月）、期刊限制。
+
+    Args:
+        base_term (str): 搜索关键词，如 "neuroscience"
+        start_year (int): 起始年
+        start_month (int): 起始月（1-12）
+        end_year (int): 结束年
+        end_month (int): 结束月（1-12）
+        journals (list[str]): 期刊名列表，如 ["Neuron", "eLife"]
+
+    Returns:
+        str: 拼接好的 PubMed 查询语句
+    """
+    query_parts = [base_term]
+
+    # 日期范围
+    if start_year and end_year and start_month and end_month:
+        start_date = f"{start_year}/{start_month:02d}/01"
+        end_date = f"{end_year}/{end_month:02d}/31"  # 最宽松处理月底
+        date_filter = f'("{start_date}"[PDAT] : "{end_date}"[PDAT])'
+        query_parts.append(date_filter)
+
+    # 期刊限制
+    if journals:
+        journal_filter = " OR ".join([f'"{j}"[Journal]' for j in journals])
+        query_parts.append(f"({journal_filter})")
+
+    return " AND ".join(query_parts)
+
+
+
 def fetch_pmid_list(query, max_results, db="pubmed"):
     search_url = f"{cfg.BASE_URL}esearch.fcgi"
     params = {
@@ -94,9 +131,11 @@ def fetch_article_details(query, pmid_list, web_env, query_key, start_index, bat
                 pub_date = pubmed_article.find(".//PubDate")
                 year = pub_date.find(".//Year")
                 month = pub_date.find(".//Month")
-                article['Published Date'] = f"{year.text}-{month.text}" if year is not None and month is not None else "N/A"
+                publish_date = f"{year.text}-{month.text}" if year is not None and month is not None else "N/A"
+                article['Published Date'] = publish_date
             except:
-                article['Published Date'] = "N/A"
+                publish_date = "N/A"
+                article['Published Date'] = publish_date
             try:
                 journal_name = pubmed_article.find(".//Journal").find(".//Title")
                 article["Source"] = journal_name.text if journal_name is not None else "N/A"
@@ -112,11 +151,17 @@ def fetch_article_details(query, pmid_list, web_env, query_key, start_index, bat
             except:
                 article["MeSH Headings"] = "N/A"
 
+                # ✅ 筛选逻辑
+            if article['Published Date'] not in cfg.DATES_CONSIDERED:
+                continue
+            if article["Source"] not in cfg.JOURNALS:
+                continue
+
             articles.append(article)
 
         check_path(f"workspaces/{bench_name}/data/raw_abs")
         save_to_csv(articles, save_path=f"workspaces/{bench_name}/data/raw_abs", name=f"raw_abstracts_worker{thread_id}")
-        print(f"✅ Thread-{thread_id} saved {len(articles)} articles to CSV.")
+        print(f"✅ Thread-{thread_id} saved {len(articles)} articles that meet the requirements to CSV.")
         return articles
 
     except Exception as e:
@@ -126,6 +171,9 @@ def fetch_article_details(query, pmid_list, web_env, query_key, start_index, bat
 
 def get_query_documents(query="neuroscience", max_results=10, db="pubmed", threads=5, bench_name="BrainX-v1"):
     query = query.lower()
+    query = build_pubmed_query(query, start_year=cfg.start_year, start_month=cfg.start_month,
+                               end_year=cfg.end_year, end_month=cfg.end_month, journals=JOURNAL_WHITELIST)
+
     pmid_list, web_env, query_key = fetch_pmid_list(query, max_results)
     print(f"🤖: Found {len(pmid_list)} articles matching '{query}'.")
 
@@ -152,7 +200,6 @@ def get_query_documents(query="neuroscience", max_results=10, db="pubmed", threa
 
 
 def combine_data_files(folder_path = "data/neuroscience/pubmed"):
-    # list all csv files in the folder
     csv_files = [f for f in os.listdir(folder_path) if f.endswith(".csv")]
     print(f"📂 Found {len(csv_files)} CSV files in {folder_path}"
           f"\n🔍 Combining data from all files...")
@@ -160,6 +207,7 @@ def combine_data_files(folder_path = "data/neuroscience/pubmed"):
     for file in csv_files:
         combined_data += load_csv(folder_path + '/' + file)
 
+    print(f"🤖: GOT {len(combined_data)} abstracts on the internet.")
     save_to_csv(combined_data, save_path=folder_path, name="combined_abstracts")
 
 

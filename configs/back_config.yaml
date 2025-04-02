@@ -1,15 +1,19 @@
-
-# For backward benchmarking | remebmer to change the bench_type to "backward" for backward benchmarking
-bench_name: "BrainX-v1" 
+bench_name: "BrainX-Koch-hard" 
 bench_type: "backward"
 task_type: "CHOICE"
-bookname: "PrincipleNeuralScience"
+# bookname: "PrincipleNeuralScience"
+bookname: "Koch"
 BackQS_num: 15
+prompt_path: "prompts/backwards/CHOICE_QA-hard.md"
 
 
 QS_TYPE:
   - CHOICE
   - TEXT
+
+
+use_chapters: False
+pages_per_chapter: 15
 
 KOCK_CHAPTERS:
   - [30, 49]
@@ -64,7 +68,6 @@ ORG_SYN2008_CHAPTERS:
   - [766, 781]
 
 
-pages_per_chapter: 2
 
 BOOK_INFO_DICT:
   Koch:

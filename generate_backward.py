@@ -39,22 +39,20 @@ def generate_backward(question_type,
             "source_txt": txt,
             "question_num": question_num
         }
+        
         prompt = load_prompt(prompt_path, params)
-
+        # print(f"prompt: {prompt}")
         with timer("Benchmarks Generation"):
             print(f"🤖: Your {model_name} model is generating benchmark {i}, please wait...")
             response = LLM_response(prompt=prompt, model_name=model_name)
-        print(f"type of response: {type(response)}")
-        response = eval(response)
-        bench_data = [backward_data for _, backward_data in response.items()]
-
+        bench_data = eval(response) 
+        
         # add a key "Chapter" to each item
-        for item in bench_data:
-            item["Chapter"] = i + 1
-            item["Book"] = book_name
-            item["Version"] = name
+        bench_data["Chapter"] = i + 1
+        bench_data["Book"] = book_name
+        bench_data["Version"] = name
 
-        save_to_csv(bench_data, save_path, name=name)
+        save_to_csv([bench_data], save_path, name=name)
         with open(f"{save_path}/log.txt", "a") as f:
             f.write(f"Processed Chapter {i}\n")
 
@@ -71,11 +69,8 @@ def split_and_convert_pdf(input_pdf, output_folder, page_ranges):
     os.makedirs(output_folder, exist_ok=True)
     if type(page_ranges) == int:
         page_ranges = [(i, i + page_ranges) for i in range(49, 1581, page_ranges + 1)]
-    
-
     # 打开 PDF
     doc = fitz.open(input_pdf)
-
     for idx, (start_page, end_page) in tqdm(enumerate(page_ranges), desc="📚: Processing PDF", total=len(page_ranges)):
         # 处理页码（PyMuPDF 的页码从 0 开始，因此要减 1）
         start_page -= 1
@@ -120,11 +115,19 @@ if __name__ == "__main__":
     input_pdf = cfg.BOOK_INFO_DICT[book_name]["PDF"]
     output_folder = cfg.BOOK_INFO_DICT[book_name]["source_path"] + "/chapters/"
 
-    # split_and_convert_pdf(input_pdf=input_pdf, output_folder=output_folder, page_ranges=cfg.pages_per_chapter)
+    if cfg.use_chapters:
+        try:
+            page_ranges = cfg.BOOK_INFO_DICT[book_name]["Chapters"]
+        except:
+            print(f"❌: No Chapter info of book {book_name}. Please specify the page ranges for each chapter in the config file.")
+    else:
+        page_ranges = cfg.pages_per_chapter
 
-    prompt_path = f"prompts/backwards/{cfg.task_type}_QA.md"
+    split_and_convert_pdf(input_pdf=input_pdf, output_folder=output_folder, page_ranges=page_ranges)
+
+    prompt_path = cfg.prompt_path
     source_path = cfg.BOOK_INFO_DICT[cfg.bookname]["source_path"] + "/chapters/"
-    save_path = f"workspaces/{cfg.bench_name}/bench/backward/"
+    save_path = f"workspaces/{cfg.bench_name}/data/backward/"
     check_path(save_path)
     generate_backward(
         cfg.task_type, prompt_path, source_path, 
