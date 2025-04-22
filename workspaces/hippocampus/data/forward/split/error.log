@@ -1,0 +1,143 @@
+Error on abstract 6:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "Water exchange rate (Kw) across the blood-brain barrier (BBB) is used in magnetic resonance imaging (MRI) techniques to evaluate BBB functionality. Variations in BBB Kw across the Alzheimer's disease (AD) continuum remain uncertain.",
+    "Method": "The study encompassed 38 cognitively normal individuals without AD biomarkers (CN_A-), 30 cognitively normal (CN_A+), and 31 cognitively impaired individuals (CI_A+) with positive AD biomarkers. Participants underwent clinical assessments, MRI/positron emission tomography scans, and assays of plasma biomarkers.",
+    "Result": "Significantly lower Kw was observed in multiple brain regions throughout the AD continuum. This alteration in Kw correlated with plasma biomarkers and neuropsychological performance. Elevated levels of phosphorylated tau 217 intensified the inverse relationship between Kw and neuropsychological performance. The integration of Kw, brain volume, and plasma biomarkers demonstrated potential in distinguishing stages within the AD continuum. Consistently lower Kw was evident across the AD continuum and may act as a diagnostic tool for early AD screening. Observations revealed a decline in water exchange rate (Kw) across multiple brain regions within the Alzheimer's disease (AD) continuum, notably in the hippocampus, parahippocampal gyrus, and deep brain nuclei during the preclinical stage of AD. Strong correlations were established between Kw levels in various brain regions and plasma biomarkers, as well as neuropsychological performance in the AD continuum. Interaction between plasma phosphorylated tau (p-tau)217 and Kw in the hippocampus was linked to executive function, indicating a combined detrimental impact on cognitive abilities stemming from both blood-brain barrier Kw and p-tau 217. The combined use of Kw, brain volume, and plasma biomarkers-neurofilament light chain and glial fibrillary acidic protein-demonstrated potential for distinguishing individuals within the AD continuum.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 9:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "Hippocampal reactivation of waking neuronal assemblies in sleep is a key initial step of systems consolidation. Nevertheless, it is unclear whether reactivated assemblies are static or whether they reorganize gradually over prolonged sleep.",
+    "Method": "We tracked reactivated CA1 assembly patterns over ∼20 h of sleep/rest periods and related them to assemblies seen before or after in a spatial learning paradigm using rats.",
+    "Result": "We found that reactivated assembly patterns were gradually transformed and started to resemble those seen in the subsequent recall session. Periods of rapid eye movement (REM) sleep and non-REM (NREM) had antagonistic roles: whereas NREM accelerated the assembly drift, REM countered it. Moreover, only a subset of rate-changing pyramidal cells contributed to the drift, whereas stable-firing-rate cells maintained unaltered reactivation patterns. Our data suggest that prolonged sleep promotes the spontaneous reorganization of spatial assemblies, which can contribute to daily cognitive map changes or encoding new learning situations.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 18:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "How the brain learns new motor commands through reinforcement involves distributed neural circuits beyond known frontal-striatal pathways, yet a comprehensive understanding of this broader neural architecture remains elusive.",
+    "Method": "Here, using human functional MRI (",
+    "Result": "",
+    "Intact_or_not": 0,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 26:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "In primary age-related tauopathy (PART) and Alzheimer's disease (AD), tau aggregates share a similar structure and anatomic distribution, which is distinct from tau pathology in other diseases. However, transcriptional similarities between PART and AD and gene expression changes within tau-pathology-bearing neurons are largely unknown.",
+    "Method": "Using GeoMx spatial transcriptomics, mRNA was quantified in hippocampal neurons with and without tau pathology in PART and AD.",
+    "Result": "Synaptic genes were down-regulated in disease overall but up-regulated in tau-pathology-positive neurons. Two transcriptional signatures were associated with intraneuronal tau, both validated in a cortical AD dataset. Genes in the up-regulated signature were enriched in calcium regulation and synaptic function. Notably, transcriptional changes associated with intraneuronal tau in PART and AD were similar, suggesting a possible mechanistic relationship. These findings highlight the power of molecular analysis stratified by pathology and provide insight into common pathways associated with tau pathology in PART and AD.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 42:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "Women live longer than men and exhibit less cognitive aging. The X chromosome contributes to sex differences, as females harbor an inactive X (Xi) and active X (Xa), in contrast to males with only an Xa. Thus, reactivation of silent Xi genes may contribute to sex differences.",
+    "Method": "We use allele-specific, single-nucleus RNA sequencing to show that aging remodels transcription of the Xi and Xa across hippocampal cell types.",
+    "Result": "Aging preferentially changed gene expression on the X's relative to autosomes. Select genes on the Xi underwent activation, with new escape across cells including in the dentate gyrus, critical to learning and memory.",
+    "Intact_or_not": 0,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 46:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "cAMP response element-binding protein (CREB)-regulated transcription coactivator 1 (CRTC1) plays an important role in synaptic plasticity, learning, and long-term memory formation through the regulation of neuronal activity-dependent gene expression, and CRTC1 dysregulation is implicated in Alzheimer's disease (AD).",
+    "Method": "Here, we show that increased S-nitrosylation of CRTC1 (forming SNO-CRTC1), as seen in cell-based, animal-based, and human-induced pluripotent stem cell (hiPSC)-derived cerebrocortical neuron-based AD models, disrupts its binding with CREB and diminishes the activity-dependent gene expression mediated by the CRTC1/CREB pathway. We identified Cys216 of CRTC1 as the primary target of S-nitrosylation by nitric oxide (NO)-related species. Using CRISPR/Cas9 techniques, we mutated Cys216 to Ala in hiPSC-derived cerebrocortical neurons bearing one allele of the APP",
+    "Result": "",
+    "Intact_or_not": 0,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 62:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "A sedentary lifestyle can lead to motor and cognitive deficits, increasing the risk of neurodegenerative diseases in ageing. Emerging hypotheses suggest that these functional alterations may be related to energy metabolism. Indeed, ATP produced by mitochondria is essential for muscle contraction, neurotransmission and brain plasticity processes. Although a sedentary lifestyle has been associated with mitochondrial alterations in skeletal muscle, the potential effects on brain structures have yet to be investigated. The present study aimed to determine whether early sensorimotor restriction (SMR) alters mitochondrial metabolism in rat muscles and brain structures.",
+    "Method": "Enzyme activities of citrate synthase (CS) and respiratory chain complexes I, II and IV were measured using a spectrophotometric technique and mitochondrial respiration was assessed using high-resolution respirometry in two hind limb muscles [soleus and extensor digitorum longus (EDL)] and four brain structures (sensorimotor cortex, striatum, prefrontal cortex and hippocampus) in control rats and rats experiencing early SMR from birth to day 28.",
+    "Result": "Mitochondrial enzyme activities decreased in the soleus (complexes I and II), in the EDL (complex I) and in the hippocampus (complexes I and IV) in an age-dependent manner, whereas no effect was observed in other brain structures. CS activity decreases in the soleus and increases transiently in the striatum and sensorimotor cortex at postnatal day 15. Mitochondrial respiration was reduced in the soleus and in the sensorimotor cortex (CI and CI+CII). Early SMR appears to induce quantitative and qualitative mitochondrial alterations in skeletal muscles and certain brain structures involved in cognitive and motor processes.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 95:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "Recalling systems-consolidated neocortex-dependent remote memories re-engages the hippocampus in a process called systems reconsolidation. However, underlying mechanisms, particularly for the origin of the reinstated hippocampal memory engram, remain elusive.",
+    "Method": "By developing a triple-event labeling tool and employing two-photon imaging, we trace hippocampal engram ensembles from memory acquisition to systems reconsolidation and find that remote recall recruits a new engram ensemble in the hippocampus for subsequent memory retrieval.",
+    "Result": "Consistently, recruiting new engrams is supported by adult hippocampal neurogenesis-mediated silencing of original engrams. This new engram ensemble receives currently experienced contextual information, incorporates new information into the remote memory, and supports remote memory updating. Such a reconstructed hippocampal memory is then integrated with the valence of remote memory via medial prefrontal cortex projection-mediated activity coordination between the hippocampus and amygdala. Thus, the reconstruction of new memory engrams underlies systems reconsolidation, which explains how remote memories are updated with new information.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 98:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "Decades of theoretical and empirical work have suggested the hippocampus instantiates some form of a cognitive map. Yet, tests of competing theories have been limited in scope and largely qualitative in nature.",
+    "Method": "Here, we develop a novel framework to benchmark model predictions against observed neuronal population dynamics as animals navigate a series of geometrically distinct environments.",
+    "Result": "In this task space, we show a representational structure in the dynamics of hippocampal remapping that generalizes across brains, discriminates between competing theoretical models, and effectively constrains biologically viable model parameters. With this approach, we find that accurate models capture the correspondence in spatial coding of a changing environment. The present dataset and framework thus serve to empirically evaluate and advance theories of cognitive mapping in the brain.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 116:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "Apical and basal dendrites of pyramidal neurons receive anatomically and functionally distinct inputs, implying compartment-level functional diversity during behavior.",
+    "Method": "To test this, we imaged in vivo calcium signals from soma, apical dendrites, and basal dendrites in mouse hippocampal CA3 pyramidal neurons during head-fixed navigation. To capture compartment-specific population dynamics, we developed computational tools to automatically segment dendrites and extract accurate fluorescence traces from densely labeled neurons. We validated the method on sparsely labeled preparations and synthetic data, predicting an optimal labeling density for high experimental throughput and analytical accuracy.",
+    "Result": "Our method detected rapid, local dendritic activity. Dendrites showed robust spatial tuning, similar to soma but with higher activity rates. Across days, apical dendrites remained more stable and outperformed in decoding of the animal's position. Thus, population-level apical and basal dendritic differences may reflect distinct compartment-specific input-output functions and computations in CA3. These tools will facilitate future studies mapping sub-cellular activity and their relation to behavior.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 145:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "BK channels can control neuronal function, but their functional relevance in activity-dependent changes of synaptic function remains elusive.",
+    "Method": "Here, we report that repetitive low-frequency stimulation activates BK channels through 12(S)HPETE, an arachidonic acid metabolite, produced downstream of postsynaptic metabotropic glutamate receptors (mGluRs) to trigger long-term depression (LTD) at CA3-CA1 synapses in hippocampal slices from P7-P10 mice. Activation of BK channels is subunit specific, as paxilline but not iberiotoxin blocked mGluR-LTD. Also, 12(S)HPETE does not change the electrophysiological properties of the BK channel when the BKα subunit is expressed alone but increases the channel open probability when the BKα is coexpressed with the β4-subunit.",
+    "Result": "Our findings reveal an interaction between 12(S)HPETE and BK channels to regulate synaptic strength at central synapses and increase our understanding of the mechanisms underlying mGluR-LTD in the neonatal hippocampus that likely contribute to circuit maturation necessary for learning.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+❌: The 1th paper is not valid for the split data, DOI: 10.1002/alz.70024
+❌: The 9th paper is not valid for the split data, DOI: 10.1002/alz.70026
+❌: The 17th paper is not valid for the split data, DOI: 10.1073/pnas.2500321122
+❌: The 31th paper is not valid for the split data, DOI: 10.1016/j.celrep.2025.115352
+❌: The 33th paper is not valid for the split data, DOI: 10.1002/alz.70004
+❌: The 39th paper is not valid for the split data, DOI: 10.1002/alz.14582
+❌: The 41th paper is not valid for the split data, DOI: 10.1016/j.celrep.2025.115299
+❌: The 48th paper is not valid for the split data, DOI: 10.1038/s41467-025-55819-9
+❌: The 56th paper is not valid for the split data, DOI: 10.1523/JNEUROSCI.0517-24.2024
+❌: The 61th paper is not valid for the split data, DOI: 10.1523/JNEUROSCI.0737-24.2024
+❌: The 72th paper is not valid for the split data, DOI: 10.1002/alz.14361

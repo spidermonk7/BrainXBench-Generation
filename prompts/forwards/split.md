@@ -1,4 +1,4 @@
-You will be provided with an abstract of a research paper from {{subject}}. Your task is to **split** the abstract into three parts:
+You will be provided with an abstract of a research paper from {{domain}}. Your task is to **split** the abstract into three parts:
 
 1) **Background** – The part of the abstract that explains the context or motivation for the research. Be sure to capture all context-related sentences without omissions.
 2) **Method** – The part of the abstract describing the research methods, techniques, or approaches used in the study. Ensure this includes all relevant methods and approaches described in the abstract.
@@ -8,7 +8,7 @@ You will be provided with an abstract of a research paper from {{subject}}. Your
 
 What's more, you also should: 
 4) **If intact** - Since the abstracts are download from website, there could be some error leading to an incomplete download, judge if the abstract you got is intact! If it is, answer 1, otherwise 0. 
-5) **Neuroscience related** - Please check if the abstract is Neuroscience related, if so, answer 1, otherwise 0. 
+5) **Domain related** - Please check if the abstract is {{domain}} related, if so, answer 1, otherwise 0. 
 6) **Research_or_not** - Please check if its an research paper, if so, answer 1, otherwise 0, overview paper and perspective papers are out of our consideration. 
 
 **You answer should be a json dict, which strictly follow the following format:**
@@ -17,7 +17,7 @@ What's more, you also should:
     "Method": "those exact method sentences from the abstract",
     "Result": "those exact result sentences from the abstract", 
     "Intact_or_not": 1 or 0,
-    "Neuroscience related": 1 or 0, 
+    "Domain related": 1 or 0, 
     "Research_or_not": 1 or 0,
 }
 The abstract you need to process is as follows:

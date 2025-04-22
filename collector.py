@@ -94,8 +94,6 @@ def fetch_article_details(query, pmid_list, web_env, query_key, start_index, bat
             "id": ",".join(batch_ids), 
             "api_key": os.getenv("NCBI_API_KEY")
         }
-
-
         print(f"🌐 Thread-{thread_id} fetching {len(batch_ids)} articles [{start_index} to {start_index + batch_size}]")
         response = robust_request(details_url, params)
         root = ET.fromstring(response.content)
@@ -158,7 +156,7 @@ def fetch_article_details(query, pmid_list, web_env, query_key, start_index, bat
                 continue
 
             articles.append(article)
-
+        
         check_path(f"workspaces/{bench_name}/data/raw_abs")
         save_to_csv(articles, save_path=f"workspaces/{bench_name}/data/raw_abs", name=f"raw_abstracts_worker{thread_id}")
         print(f"✅ Thread-{thread_id} saved {len(articles)} articles that meet the requirements to CSV.")
@@ -170,6 +168,7 @@ def fetch_article_details(query, pmid_list, web_env, query_key, start_index, bat
 
 
 def get_query_documents(query="neuroscience", max_results=10, db="pubmed", threads=5, bench_name="BrainX-v1"):
+    print(f"🤖: Trying to fetch research paper in field: {query}")
     query = query.lower()
     query = build_pubmed_query(query, start_year=cfg.start_year, start_month=cfg.start_month,
                                end_year=cfg.end_year, end_month=cfg.end_month, journals=JOURNAL_WHITELIST)

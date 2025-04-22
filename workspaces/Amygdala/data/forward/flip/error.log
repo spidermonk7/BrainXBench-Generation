@@ -1,0 +1,10 @@
+Error on abstract 17:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Opposite_Outcome": "Our work highlights how dynamic visual cues diminish the rhythm of social interactions at multiple timescales. The results point to the vertebrate pallial amygdala as a region with an evolutionarily conserved role in regulating the persistence of emotional states, including those that promote engagement in social interactions.",
+    "Incorrect_Causal_Relationship": "Our work highlights how dynamic visual cues shape the rhythm of social interactions at multiple timescales. The results point to the vertebrate pallial amygdala as a region with an evolutionarily conserved role in responding to environmental stressors rather than regulating the persistence of emotional states, including those that promote engagement in social interactions.",
+    "Factor_Misattribution": "Our work highlights how dynamic visual cues shape the rhythm of social interactions at multiple timescales. The results point to the vertebrate thalamic preglomerular complex as a region with an evolutionarily conserved role in regulating the persistence of emotional states, including those that promote engagement in social interactions.",
+    "Balderdash": "Our work highlights how dynamic aquatic cues shape the rhythm of visual alternations at indefinite wavelengths. The results point to the fish pallial cortex as a region with an unintelligibly remembered role in rotating the convergence of solar states, including those that promote divergences in neural discontinuities."
+}
+```

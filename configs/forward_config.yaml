@@ -1,14 +1,15 @@
-bench_name: "BrainX-22JFM"
+bench_name: "BXB"
 bench_type: "forward"
-query: "neuroscience"
+query: "BXB"
+domain: "neuroscience"
 max_results: 300
 db: "pubmed"
-threads: 5
+threads: 8
 BASE_URL: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
 PUB_BATCH_SIZE: 40  # 每次请求获取的最大文献数量，PubMed的限制
-DATES_CONSIDERED: ["2019-Mar", "2019-Feb", "2019-Jan"]
-start_year: 2019
-end_year: 2019
+DATES_CONSIDERED: ["2025-Mar", "2025-Feb", "2025-Jan"]
+start_year: 2025
+end_year: 2025
 start_month: 1
 end_month: 3
 

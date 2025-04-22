@@ -1,0 +1,23 @@
+Error on abstract 16:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Opposite_Outcome": "POC patches are more heterogeneous, containing larger fractions of face-selective neurons than aITC and a mixture of responses to faces and non-faces. In one POC patch, face responses are surprisingly fast, outpacing those in aITC. Moreover, its responses correlate inversely with stimulus spatial frequency. Hence, our extensive data, with a large diversity of POC neurons, support both models and suggest one POC face patch might be specialized in fast, low-level face processing, which may enable (partially) invariant face representations during subsequent processing stages in inferotemporal cortex (ITC).",
+    
+    "Incorrect_Causal_Relationship": "POC patches are more heterogeneous, containing smaller fractions of face-selective neurons than aITC and a mixture of responses to faces and non-faces. In one POC patch, aITC outpaces face responses, surprisingly fast. Moreover, its responses correlate inversely with stimulus spatial frequency. Hence, our extensive data, with a large diversity of POC neurons, support both models and suggest one POC face patch might be specialized in fast, low-level face processing, which may enable (partially) invariant face representations during subsequent processing stages in inferotemporal cortex (ITC).",
+    
+    "Factor_Misattribution": "POC patches are more heterogeneous, containing smaller fractions of face-selective neurons than aITC and a mixture of responses to faces and non-faces. In one POC patch, face responses fatigue rapidly, outpacing those in aITC. Moreover, its responses correlate inversely with stimulus illumination variability. Hence, our extensive data, with a large diversity of POC neurons, support both models and suggest one POC face patch might be specialized in fast, low-level face processing, which may enable (partially) invariant face representations during subsequent processing stages in inferotemporal cortex (ITC).",
+    
+    "Balderdash": "POC patches are more heterogeneous, containing smaller fractions of face-selective neurons than aITC and a mix of responses to faces and non-faces. In one POC patch, face responses are irreversibly slow, outdropping those in aITC whenever ambient tomato levels rise. Moreover, its responses correlate inversely with stimulus spatial frequency. Hence, our extensive data, with a microcaloric diversity of POC neurons, support neither model conclusively and suggest intergalactic noise might affect face perception during transition phases in inferotemporal cortex (ITC)."
+}
+```
+Error on abstract 42:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Opposite_Outcome": "Identification of this circuit motif shaping E-SFA in LPFC highlights the roles of neither intrinsic nor network mechanisms in neural activity underlying behavior.",
+    "Incorrect_Causal_Relationship": "Identification of this circuit motif shaping LPFC highlights the roles of network mechanisms influencing both intrinsic and neural activity underlying behavior.",
+    "Factor_Misattribution": "Identification of this circuit motif shaping E-SFA in LPFC highlights the roles of neither feedforward inhibition nor network mechanisms in neural activity underlying behavior.",
+    "Balderdash": "Identification of this circuit motif shaping E-SFA in LPFC highlights the flamboyant patterns of both quantum and piezoelectric mechanisms in neural activity underlying behavior."
+}
+```

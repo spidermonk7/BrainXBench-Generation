@@ -17,7 +17,7 @@ python generate_forward.py --stage validate
 
 echo " ===================== Data Benchmarking ===================== "
 echo "📦 Step 6: Build up benchmark files and pack them up into json | csv | parquet"
-python build_bench.py -T forward -B BrainX-20JFM                                                                                                                                                                                                                                                                                 JFM
+python build_bench.py -T forward -B Prefrontal-Cortex                                                                                                                                                                                                                                                                            JFM
 
 echo "✅ All steps completed!"
 echo " ===================== Forward Benchmarking Completed ===================== "

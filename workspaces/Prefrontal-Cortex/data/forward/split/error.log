@@ -1,0 +1,41 @@
+Error on abstract 40:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "Dissecting how membrane receptors regulate neural circuits is critical for deciphering principles of neuromodulation and mechanisms of drug action.",
+    "Method": "Here, we use a battery of optical approaches to determine how presynaptic metabotropic glutamate receptor 2 (mGluR2) in the basolateral amygdala (BLA) controls anxiety-related behavior in mice. Using projection-specific photopharmacological activation, we find that mGluR2-mediated presynaptic inhibition of ventromedial prefrontal cortex (vmPFC)-BLA, but not posterior insular cortex (pIC)-BLA, connections produces a long-lasting decrease in spatial avoidance. Fiber photometry and viral mapping reveal distinct activity patterns and anatomical organization of vmPFC-BLA and pIC-BLA circuits.",
+    "Result": "In contrast, presynaptic inhibition of pIC-BLA connections decreases social avoidance and novelty-induced hypophagia without impairing working memory, establishing this projection as a novel target for the treatment of anxiety disorders. Together, this work reveals new aspects of BLA neuromodulation with therapeutic implications while establishing a powerful approach for optical mapping of drug action.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 53:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "Visual short-term memory (VSTM) is a critical indicator of Alzheimer's disease (AD), but whether its neural substrates could adapt to early disease progression and contribute to cognitive resilience in amnestic mild cognitive impairment (aMCI) has been unclear.",
+    "Method": "Fifty-five aMCI patients and 68 normal controls (NC) performed a change-detection task and underwent multimodal neuroimaging scanning.",
+    "Result": "Among the atrophic brain regions in aMCI, VSTM performance correlated with the volume of the right prefrontal cortex (PFC) but not the medial temporal lobe (MTL), and this correlation was mainly present in patients with greater MTL atrophy. Furthermore, VSTM was primarily correlated with frontal structural connectivity in aMCI but was correlated with more distributed frontal and MTL connectivity in NC. This study provided evidence on neural adaptation in the precursor stages of AD, highlighting the compensatory role of PFC as MTL deteriorated and suggesting potential targets in early intervention for cognitive preservation. Atrophic left medial temporal lobe (MTL) no longer correlated with visual short-term memory (VSTM) in amnestic mild cognitive impairment (aMCI). Atrophic right middle frontal area continued to correlate with VSTM in aMCI. Frontal brain-behavior correlation was mainly present in the aMCI subgroup with greater medial temporal lobe (MTL) atrophy. Reliance of VSTM on frontal connectivity increased in compensation for MTL dysfunction.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 64:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "Neuronal populations expand their information-encoding capacity using mixed selective neurons. This is particularly prominent in association areas such as the lateral prefrontal cortex (LPFC), which integrate information from multiple sensory systems. However, during conditions that approximate natural behaviors, it is unclear how LPFC neuronal ensembles process space- and time-varying information about task features.",
+    "Method": "Here, we show that, during a virtual reality task with naturalistic elements that requires associative memory, individual neurons and neuronal ensembles in the primate LPFC dynamically mix unconstrained features of the task, such as eye movements, with task-related visual features.",
+    "Result": "Neurons in dorsal regions show more selectivity for space and eye movements, while ventral regions show more selectivity for visual features, representing them in a separate subspace. In summary, LPFC neurons exhibit dynamic and mixed selectivity for unconstrained and constrained task elements, and neural ensembles can separate task features in different subspaces.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+❌: The 0th paper is not valid for the split data, DOI: 10.1523/JNEUROSCI.2120-24.2025
+❌: The 10th paper is not valid for the split data, DOI: 10.1073/pnas.2500321122
+❌: The 14th paper is not valid for the split data, DOI: 10.1126/sciadv.adq2290
+❌: The 17th paper is not valid for the split data, DOI: 10.1038/s41467-025-57810-w
+❌: The 40th paper is not valid for the split data, DOI: 10.1073/pnas.2415316122

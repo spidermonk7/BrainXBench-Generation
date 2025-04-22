@@ -1,0 +1,24 @@
+Error on abstract 19:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "whereas strong effects were observed in other brain structures",
+    "valid: Opposite_Outcome": 1,
+    "modification: Factor_Misattribution": "Additionally, changes in hormonal levels appeared to induce quantitative and qualitative mitochondrial alterations in skeletal muscles and certain brain structures involved in cognitive and motor processes.",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "Interestingly, it seems that reduced mitochondrial respiration in the sensorimotor cortex leads to early SMR.",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 23:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "We report that auditory-evoked depolarizations onto D1 SPN responses are weaker and slower.",
+    "valid: Opposite_Outcome": 1,
+    "modification: Factor_Misattribution": "This is due to differences in synaptic plasticity with fast-spiking interneurons forming stronger synapses onto D2 SPNs.",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "Our results support a model in which differences in feedforward inhibition result from the preferential recruitment of D1 SPNs by auditory stimuli.",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```

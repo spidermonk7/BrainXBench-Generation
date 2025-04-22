@@ -1,0 +1,62 @@
+Error on abstract 69:
+unterminated string literal (detected at line 24) (<string>, line 24)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "These active clusters result in lower neuronal activation in the presence of strong dendritic nonlinearities and low background activity.",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "These active clusters result in higher neuronal activation in the presence of strong dendritic nonlinearities and high levels of synaptic clustering.",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "These active clusters result in higher neuronal activation despite the absence of strong dendritic nonlinearities and low background activity.",
+    "valid: Incorrect_Causal_Relationship": 0
+}
+```
+
+### Explanation:
+
+- **Opposite Outcome:**
+  - **Modification:** "These active clusters result in lower neuronal activation..."
+  - **Validation:** The modification reverses the outcome from "higher" to "lower" neuronal activation, which fits the criteria for an opposite outcome. Therefore, it is valid.
+
+- **Factor Misattribution:**
+  - **Modification:** "These active clusters result in higher neuronal activation...high levels of synaptic clustering."
+  - **Validation:** The modification alters the factor contributing to neuronal activation from "low background activity" to "high levels of synaptic clustering," which is plausible but incorrect if based on initial conclusions. Therefore, it is valid.
+
+- **Incorrect Causal Relationship:**
+  - **Modification:** "These active clusters result in higher neuronal activation despite the absence of strong dendritic nonlinearities and low background activity."
+  - **Validation:** Rather than reversing the causality, the modification suggests an opposite condition ("despite the absence"), which doesn't meet the criteria for creating an inverse causal relationship. Therefore, it is invalid.
+Error on abstract 76:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "Blocking L-type calcium channels improved supralinear calcium signalling but only had a minor effect on voltage supralinearity.",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "Blocking T-type calcium channels abolished supralinear calcium signalling but only had a minor effect on voltage supralinearity.",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "Blocking L-type calcium channels abolished supralinear calcium signalling, leading to a significant increase in voltage supralinearity.",
+    "valid: Incorrect_Causal_Relationship": 0
+}
+```
+Error on abstract 78:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "with the lowest modulation by the RSC in deep sleep",
+    "valid: Opposite_Outcome": 1,
+    "modification: Factor_Misattribution": "with the highest modulation by the thalamus in deep sleep",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "some SWRs led to the high rebound excitation accompanying DMN DOWN → UP transitions",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 87:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "Adult hippocampal neurogenesis and connectivity as assessed by a high-density multielectrode array negatively correlated with the variation in exploration and learning efficiency.",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "Seasonal changes, rather than the variation in exploration and learning efficiency, positively correlated with adult hippocampal neurogenesis and connectivity, as assessed by a high-density multielectrode array.",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "The variation in exploration and learning efficiency led to increased adult hippocampal neurogenesis and connectivity as assessed by a high-density multielectrode array.",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```

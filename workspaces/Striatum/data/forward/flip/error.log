@@ -1,0 +1,26 @@
+Error on abstract 8:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Opposite_Outcome": "We observed developmental increases in VS rsFC with brain areas implicated in reward processing (e.g., subgenual cingulate gyrus and medial orbitofrontal cortex) and concurrent decreases with areas implicated in executive function (e.g., ventrolateral and dorsolateral prefrontal cortices). DS rsFC exhibited the opposite pattern. More rapid developmental increases in VS rsFC with reward areas were associated with developmental declines in reward-based decision making, whereas increases in DS rsFC with executive function areas were associated with improved executive function, though each network exhibited some crossover in function. Collectively, these findings suggest that typical adolescent neurodevelopment is characterized by a divergence in ventral and dorsal frontostriatal connectivity that may relate to developmental improvements in affective decision-making and executive function.",
+    
+    "Incorrect_Causal_Relationship": "We observed developmental increases in VS rsFC with brain areas implicated in reward processing (e.g., subgenual cingulate gyrus and medial orbitofrontal cortex) and concurrent decreases with areas implicated in executive function (e.g., ventrolateral and dorsolateral prefrontal cortices). DS rsFC exhibited the opposite pattern. More rapid developmental increases in reward-based decision making were associated with developmental improvements in VS rsFC with reward areas, whereas increases in DS rsFC with executive function areas were associated with improved executive function, though each network exhibited some crossover in function. Collectively, these findings suggest that typical adolescent neurodevelopment is characterized by a divergence in ventral and dorsal frontostriatal connectivity that may relate to developmental improvements in affective decision-making and executive function.",
+    
+    "Factor_Misattribution": "We observed developmental increases in VS rsFC with brain areas implicated in reward processing (e.g., subgenual cingulate gyrus and medial orbitofrontal cortex) and concurrent decreases with areas implicated in executive function (e.g., ventrolateral and dorsolateral prefrontal cortices). DS rsFC exhibited the opposite pattern. More rapid developmental increases in hypothalamic connectivity with reward areas were associated with developmental improvements in reward-based decision making, whereas increases in DS rsFC with executive function areas were associated with improved executive function, though each network exhibited some crossover in function. Collectively, these findings suggest that typical adolescent neurodevelopment is characterized by a divergence in ventral and dorsal frontostriatal connectivity that may relate to developmental improvements in affective decision-making and executive function.",
+    
+    "Balderdash": "We observed developmental increases in VS rsFC with brain areas implicated in reward processing (e.g., subgenual cingulate gyrus and medial orbitofrontal cortex) and concurrent decreases with areas implicated in executive function (e.g., ventrolateral and dorsolateral prefrontal cortices). DS rsFC exhibited the opposite pattern. More rapid developmental increases in VS rsFC with reward areas were associated with an elevation in gustatory response patterns, whereas increases in DS rsFC with executive function areas were noted to influence astronomical calculations on a celestial plane, though each network exhibited some crossover in function. Collectively, these findings suggest that typical adolescent neurodevelopment is characterized by a divergence in ventral and dorsal frontostriatal connectivity that may relate to developmental improvements in affective decision-making and executive function."
+}
+```
+Error on abstract 20:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Opposite_Outcome": "Simultaneous cortical and subcortical recordings were uniquely consistent with a model in which cortex and striatum jointly decrease the continuous parameters governing movement execution.",
+  
+    "Incorrect_Causal_Relationship": "Simultaneous cortical and subcortical recordings were uniquely consistent with a model in which the interaction between continuous parameters governing movement execution leads to alterations in cortex and striatum functions.",
+  
+    "Factor_Misattribution": "Simultaneous cortical and subcortical recordings were uniquely consistent with a model in which neither cortex nor striatum were involved in specifying continuous parameters; rather, the hippocampus plays a pivotal role in movement execution.",
+  
+    "Balderdash": "Simultaneous cortical and subcortical recordings were uniquely consistent with a model in which cortex and striatum jointly specify the geometric alignment of quantum states influencing movement execution."
+}
+```

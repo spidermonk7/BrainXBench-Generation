@@ -1,6 +1,6 @@
 # **Abstract Modification Instructions**  
 
-You will see the **Research Background**,  **Research Method** and **Conclusion** of a **neuroscience research paper**. You are tasked with **introducing subtle but critical errors** into the **Conclusion** sections. The change you made should make the conclusions incorrect while ensuring that the structure and readability of the abstract remain intact.
+You will see the **Research Background**,  **Research Method** and **Conclusion** of a research paper focusing on **{{domain}}**. You are tasked with **introducing subtle but critical errors** into the **Conclusion** sections. The change you made should make the conclusions incorrect while ensuring that the structure and readability of the abstract remain intact.
 
 ---
 
@@ -18,7 +18,7 @@ Ensures that only **the one core scientific findings are reversed**, while the l
 2. **Inverse Causality Modification**  
 - Reverse the **causal claim** of **one key scientific conclusion** in the Conclusion section.  
 - Ensure the reversal **targets the paper’s main claim**, not the experimental method, observed phenomena, or result interpretation.  
-- Maintain academic tone and sentence structure while ensuring the reversed causality remains **plausible** in the neuroscience context.  
+- Maintain academic tone and sentence structure while ensuring the reversed causality remains **plausible** in the {{domain}} context.  
 - **Causality should be modified within the research findings.** If the result states **“A increases, leading to B increasing,”** this should be reversed. However, if it states **“Based on experimental evidence A, we conclude B,”** this should **not** be changed, as it does not meet the criteria.  
 - Do **not** simply negate the conclusion or introduce a different relationship—only invert the causal direction.
 

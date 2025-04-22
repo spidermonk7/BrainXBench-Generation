@@ -3,6 +3,14 @@ from utils import *
 from omegaconf import OmegaConf
 from argparse import ArgumentParser
 from tqdm import tqdm
+from dotenv import load_dotenv
+
+
+load_dotenv(override=True)
+
+openai_ENV = os.getenv('OPENAI_API_KEY')
+print(f"openai env: {openai_ENV}")
+# exit()
 # 读取配置
 cfg = OmegaConf.load("configs/forward_config.yaml")
 
@@ -13,6 +21,7 @@ def generate_forward(task,
                     save_path, 
                     model_name = "gpt-4o", 
                     version = "BrainX-v1", 
+                    domain="neuroscience"
                     ):
     """
     Function for generating the forward bench, including two steps: Split and Flip.
@@ -35,23 +44,27 @@ def generate_forward(task,
         if id < last_id: continue
         if task == "split":
             params = {
+                "domain": domain,
                 "abstract": paper_info["Abstract"],
             }
         elif task == "flip":
             assert "Background" in paper_info.keys() and "Method" in paper_info.keys() and "Result" in paper_info.keys(), "Background, Method, and Results are required in the csv file."
             params = {
+                "domain": domain,
                 "background": paper_info["Background"],
                 "method": paper_info["Method"],
                 "results": paper_info["Result"],
             }
         elif task == "validate":
             params = {
+            'domain':domain,
             "initial_conclusion": paper_info["Result"],
             "Opposite_Outcome": paper_info["Opposite_Outcome"],
             "Factor_Misattribution": paper_info["Factor_Misattribution"],
             "Incorrect_Causal_Relationship": paper_info["Incorrect_Causal_Relationship"],
             }
         prompt = load_prompt(prompt_path, params)
+        # print(f"🤖: Stage is {task}, prompt is {prompt}.")
         try:
             output = LLM_response(prompt=prompt, model_name=model_name)
             response = eval(output.strip())
@@ -66,6 +79,79 @@ def generate_forward(task,
        
         bench_data = [paper_info]
         save_to_csv(bench_data, save_path, f"{task}_data")
+
+
+
+import concurrent.futures
+import threading
+
+def generate_forward_multithread(task, 
+                                  prompt_path, 
+                                  source_path, 
+                                  save_path, 
+                                  model_name="gpt-4o", 
+                                  version = "BrainX-v1",
+                                  domain="neuroscience",
+                                  max_workers=8):
+    paper_infos = load_csv(source_path)
+    save_path = save_path + task
+    check_path(save_path)
+
+    csv_lock = threading.Lock()  # 🔒用于写入 CSV 时加锁
+
+    if os.path.exists(save_path + f"/{task}_data.csv"):
+        last_id = len(load_csv(save_path + f"/{task}_data.csv"))
+    else:
+        last_id = -1
+
+    def process_single_paper(id, paper_info):
+        if id < last_id:
+            return
+
+        try:
+            if task == "split":
+                params = {
+                    "domain": domain,
+                    "abstract": paper_info["Abstract"],
+                }
+            elif task == "flip":
+                assert "Background" in paper_info and "Method" in paper_info and "Result" in paper_info, \
+                    "Background, Method, and Results are required in the csv file."
+                params = {
+                    "domain": domain,
+                    "background": paper_info["Background"],
+                    "method": paper_info["Method"],
+                    "results": paper_info["Result"],
+                }
+            elif task == "validate":
+                params = {
+                    'domain': domain,
+                    "initial_conclusion": paper_info["Result"],
+                    "Opposite_Outcome": paper_info["Opposite_Outcome"],
+                    "Factor_Misattribution": paper_info["Factor_Misattribution"],
+                    "Incorrect_Causal_Relationship": paper_info["Incorrect_Causal_Relationship"],
+                }
+
+            prompt = load_prompt(prompt_path, params)
+            output = LLM_response(prompt=prompt, model_name=model_name)
+            response = eval(output.strip())
+
+            for key in response:
+                paper_info[key] = response[key]
+
+            with csv_lock:
+                save_to_csv([paper_info], save_path, f"{task}_data")
+
+        except Exception as e:
+            with open(f"{save_path}/error.log", "a") as f:
+                f.write(f"Error on abstract {id}:\n{str(e)}\nResponse: {output}\n")
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        list(tqdm(executor.map(lambda args: process_single_paper(*args), enumerate(paper_infos)),
+                  total=len(paper_infos),
+                  desc="🤖: Processing in parallel"))
+
+
 
 
 def raw_abs_ana(path, save = True):
@@ -152,8 +238,8 @@ def check_abs(abs_data):
         for id, key in enumerate(item.keys()):
             if pd.isna(item[key]):
                 # print(f"❌: {key} is a nan in the {_}th paper.")
-                with open(f"workspaces/{cfg.bench_name}/data/raw_abs/error.log", "a") as f:
-                    f.write(f"{key} is a nan in the {_}th paper, DOI: {item['DOI']}.\n")
+                # with open(f"workspaces/{cfg.bench_name}/data/raw_abs/error.log", "a") as f:
+                #     f.write(f"{key} is a nan in the {_}th paper, DOI: {item['DOI']}.\n")
                 break
             if id == len(item.keys()) - 1 and item not in valids:
                 valids.append(item)
@@ -172,11 +258,12 @@ def check_split_result(path, save = True):
     check_path(save_path)
     valids = []
     for id, item in enumerate(filter_out_nan):
-        if item['Intact_or_not'] == 1 and item['Neuroscience related'] == 1 and item['Research_or_not'] == 1:
+        if item['Intact_or_not'] == 1 and item['Domain related'] == 1 and item['Research_or_not'] == 1:
             valids.append(item)
         else:
-            with open(f"{save_path}/error.log", "a") as f:
-                f.write(f"❌: The {id}th paper is not valid for the split data, DOI: {item['DOI']}\n")
+            # with open(f"{save_path}/error.log", "a") as f:
+            #     f.write(f"❌: The {id}th paper is not valid for the split data, DOI: {item['DOI']}\n")
+            continue
     if save:
         if os.path.exists(f"workspaces/{cfg.bench_name}/data/forward/split/split_valids.csv"):
             if input("The file already exists, do you want to overwrite it? (y/n): ") == "y":
@@ -196,20 +283,30 @@ def check_split_result(path, save = True):
 if __name__ == "__main__":
     args = ArgumentParser()
     args.add_argument("-S", "--stage", type=str, default="split")
+    args.add_argument("-T",'--max_workers', type=int, default=8 )
 
     args = args.parse_args()
-
-
     if args.stage == "S_V_S":
-        filtered_data = raw_abs_ana(path = f"workspaces/{cfg.bench_name}/data/raw_abs/combined_abstracts.csv", save=True)
-        distribution_info = plot_stacked_distribution(filtered_data, "Source", "Published Date", plot=False)
+        # filtered_data = raw_abs_ana(path = f"workspaces/{cfg.bench_name}/data/raw_abs/combined_abstracts.csv", save=True)
+        # distribution_info = plot_stacked_distribution(filtered_data, "Source", "Published Date", plot=False)
     
-        generate_forward('split', 
+        # generate_forward('split', 
+        #                 prompt_path='prompts/forwards/split.md',
+        #                 source_path=f'workspaces/{cfg.bench_name}/data/valid_stage_01/selected_data.csv',
+        #                 save_path=f'workspaces/{cfg.bench_name}/data/forward/',
+        #                 version=cfg.bench_name,
+        #                 model_name=cfg.segment_model,
+        #                 domain = cfg.domain
+
+        #                 )
+        generate_forward_multithread('split', 
                         prompt_path='prompts/forwards/split.md',
                         source_path=f'workspaces/{cfg.bench_name}/data/valid_stage_01/selected_data.csv',
                         save_path=f'workspaces/{cfg.bench_name}/data/forward/',
                         version=cfg.bench_name,
                         model_name=cfg.segment_model,
+                        domain = cfg.domain,
+                        max_workers=args.max_workers
 
                         )
         
@@ -218,7 +315,14 @@ if __name__ == "__main__":
         print(f"✅: Split data is validated, find in all {len(valids)} valid papers.")
 
     elif args.stage == "flip":
-        generate_forward('flip', 
+        # generate_forward('flip', 
+        #             prompt_path='prompts/forwards/flip.md',
+        #             source_path=f'workspaces/{cfg.bench_name}/data/forward/split/split_valids.csv',
+        #             save_path=f'workspaces/{cfg.bench_name}/data/forward/',
+        #             version=cfg.bench_name,
+        #             model_name=cfg.flip_model,
+        #             )
+        generate_forward_multithread('flip', 
                     prompt_path='prompts/forwards/flip.md',
                     source_path=f'workspaces/{cfg.bench_name}/data/forward/split/split_valids.csv',
                     save_path=f'workspaces/{cfg.bench_name}/data/forward/',
@@ -227,7 +331,14 @@ if __name__ == "__main__":
                     )
         
     elif args.stage == "validate":
-        generate_forward(
+    #     generate_forward(
+    #     task="validate", 
+    #     prompt_path="prompts/forwards/validation.md", 
+    #     source_path=f"workspaces/{cfg.bench_name}/data/forward/flip/flip_data.csv",
+    #     save_path=f"workspaces/{cfg.bench_name}/data/forward/", 
+    #     model_name=cfg.validation_model,
+    # )
+        generate_forward_multithread(
         task="validate", 
         prompt_path="prompts/forwards/validation.md", 
         source_path=f"workspaces/{cfg.bench_name}/data/forward/flip/flip_data.csv",

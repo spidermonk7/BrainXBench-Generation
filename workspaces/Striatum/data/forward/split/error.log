@@ -1,0 +1,30 @@
+Error on abstract 3:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "Neurobiological alterations seen in addiction amplify during abstinence and compromise relapse prevention. Cocaine use disorder (CUD) exemplifies this phenomenon in which reward regions such as nucleus accumbens (NAc) undergo withdrawal-associated modifications. While genome-wide transcriptional changes in NAc are linked to specific addiction phases, these have not been examined in a context- and NAc-subregion-specific manner during withdrawal vs. extinction.",
+    "Method": "We used cocaine self-administration in male rats combined with RNA-sequencing of NAc-core and -shell to transcriptionally profile withdrawal in the home-cage, in the previous drug context, or after extinction.",
+    "Result": "As expected, home-cage withdrawal maintained seeking, whereas extinction reduced it. By contrast, withdrawal involving the drug context only increased seeking. Bioinformatic analyses revealed specific gene expression patterns and networks associated with these states. Comparing NAc datasets of CUD patients highlighted conserved transcriptomic signatures with rats experiencing withdrawal in the drug context. Together, this work reveals fundamental mechanisms that can be targeted to attenuate relapse.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+Error on abstract 9:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "Adaptive decision making relies on dynamic updating of learned associations where environmental cues come to predict valenced stimuli, such as food or threat. Cue-guided behavior depends on a network of brain systems, including dopaminergic projections to the striatum. Critically, it remains unclear how dopamine signaling across the striatum encodes multi-valent, dynamic learning contexts, where positive and negative associations must be rapidly disambiguated.",
+    "Method": "To understand this, we employed a Pavlovian discrimination paradigm, where cues predicting food or threat were intermingled during conditioning sessions, and their meaning was serially reversed across training. We found that male and female rats readily distinguished these cues and updated their behavior rapidly upon valence reversal. Using fiber photometry, we recorded dopamine signaling in three major striatal subregions - the dorsolateral striatum (DLS), the nucleus accumbens (NAc) core, and the nucleus accumbens medial shell - finding that valence was represented uniquely across all three regions, indicative of local signals biased for value and salience.",
+    "Result": "Further, ambiguity introduced by cue reversals reshaped striatal dopamine on different timelines: nucleus accumbens signals updated more readily than those in the DLS. Together, these results indicate that striatal dopamine flexibly encodes stimulus valence according to region-specific rules, and these signals are dynamically modulated by changing contingencies in the resolution of ambiguity about the meaning of environmental cues.",
+    "Intact_or_not": 1,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```
+❌: The 1th paper is not valid for the split data, DOI: 10.1073/pnas.2409325122
+❌: The 6th paper is not valid for the split data, DOI: 10.1038/s41467-025-57347-y
+❌: The 8th paper is not valid for the split data, DOI: 10.7554/eLife.103260
+❌: The 9th paper is not valid for the split data, DOI: 10.7554/eLife.91400
+❌: The 23th paper is not valid for the split data, DOI: 10.1523/JNEUROSCI.1692-24.2025
+❌: The 31th paper is not valid for the split data, DOI: 10.1126/sciadv.ado9965

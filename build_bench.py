@@ -56,16 +56,16 @@ def build_brainXbench_forward(bench_name = "BrainX-v1"):
         save_path = f"workspaces/{bench_name}/bench/forward/csvs"
         check_path(save_path)
        
-        if os.path.exists(f"{save_path}/{result_type}.csv"):
-            print(f"💁: The file {result_type}.csv already exists.")
+        if os.path.exists(f"{save_path}/{bench_name}_{result_type}.csv"):
+            print(f"💁: The file {bench_name}_{result_type}.csv already exists.")
             if input(f"💁: Do you want to overwrite it? (y/n)") == "y":
-                os.remove(f"{save_path}/{result_type}.csv")
-                save_to_csv(bench_dics, save_path, f"{result_type}")
-                pack_data(f"{save_path}/{result_type}.csv")
+                os.remove(f"{save_path}/{bench_name}_{result_type}.csv")
+                save_to_csv(bench_dics, save_path, f"{bench_name}_{result_type}")
+                pack_data(f"{save_path}/{bench_name}_{result_type}.csv")
                 print(f"✅: Successfully saved the data to {save_path}")
         else:
-            save_to_csv(bench_dics, save_path, f"{result_type}")
-            pack_data(f"{save_path}/{result_type}.csv")
+            save_to_csv(bench_dics, save_path, f"{bench_name}_{result_type}")
+            pack_data(f"{save_path}/{bench_name}_{result_type}.csv")
             print(f"✅: Successfully saved the data to {save_path}")
 
 
@@ -113,9 +113,22 @@ def build_brainXbench_forward_multi(bench_name = "BrainX-v1"):
    
     save_path = f"workspaces/{bench_name}/bench/forward/csvs"
     check_path(save_path)
-    save_to_csv(bench_dics, save_path, f"Multi_Choice")
-    pack_data(f"{save_path}/Multi_Choice.csv")
-    print(f"✅: Successfully saved the data to {save_path}")
+
+    if os.path.exists(f"{save_path}/{bench_name}_Multi.csv"):
+            print(f"💁: The file {bench_name}_Multi.csv already exists.")
+            if input(f"💁: Do you want to overwrite it? (y/n)") == "y":
+                os.remove(f"{save_path}/{bench_name}_Multi.csv")
+                save_to_csv(bench_dics, save_path, f"{bench_name}_Multi")
+                pack_data(f"{save_path}/{bench_name}_Multi.csv")
+                print(f"✅: Successfully saved the data to {save_path}")
+    else:
+        save_to_csv(bench_dics, save_path, f"{bench_name}_Multi")
+        pack_data(f"{save_path}/{bench_name}_Multi.csv")
+        print(f"✅: Successfully saved the data to {save_path}")
+
+    # save_to_csv(bench_dics, save_path, f"Multi_Choice")
+    # pack_data(f"{save_path}/Multi_Choice.csv")
+    # print(f"✅: Successfully saved the data to {save_path}")
 
 def build_brainXbench_backward(bench_name = "BrainX-v1", task_type = "CHOICE"):
     raw_path = f"workspaces/{bench_name}/data/backward/BrainXBench_{task_type}.csv"

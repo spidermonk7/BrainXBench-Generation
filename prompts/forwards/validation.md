@@ -2,9 +2,9 @@
 
 ---
 
-### **Task: Validate the Modifications of a Neuroscience Research Conclusion**  
+### **Task: Validate the Modifications of a Research paper focusing on {{domain}}**  
 
-You are given the **initial Conclusion section** of the abstract from a neuroscience research paper, along with **three modified versions** that correspond to three specific modification types:  
+You are given the **initial Conclusion section** of the abstract from a research paper focusing on {{domain}}, along with **three modified versions** that correspond to three specific modification types:  
 - **Opposite Outcome**  
 - **Factor Misattribution**  
 - **Incorrect Causal Relationship (Inverse Causality)**  

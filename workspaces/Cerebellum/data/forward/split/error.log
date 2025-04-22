@@ -1,0 +1,12 @@
+Error on abstract 2:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "Background": "How the brain learns new motor commands through reinforcement involves distributed neural circuits beyond known frontal-striatal pathways, yet a comprehensive understanding of this broader neural architecture remains elusive.",
+    "Method": "Here, using human functional MRI",
+    "Result": "",
+    "Intact_or_not": 0,
+    "Domain related": 1,
+    "Research_or_not": 1
+}
+```

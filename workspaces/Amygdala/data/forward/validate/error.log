@@ -1,0 +1,24 @@
+Error on abstract 10:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "preferentially reduces memory of encoded stimuli",
+    "valid: Opposite_Outcome": 1,
+    "modification: Factor_Misattribution": "explains memory of encoded stimuli through attentional shifts rather than feature coding",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "visual category selectivity seems to stem from enhanced memory of encoded stimuli",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 14:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "suggest a promising misalignment of genomic, transcriptomic, and brain imaging modalities for identifying common biological targets",
+    "valid: Opposite_Outcome": 1,
+    "modification: Factor_Misattribution": "suggest a promising alignment of dietary influences, rather than genomic, transcriptomic, and brain imaging modalities, for identifying common biological targets",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "underscore the causative potential of psychiatric disorders in influencing single-cell transcriptomics",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
