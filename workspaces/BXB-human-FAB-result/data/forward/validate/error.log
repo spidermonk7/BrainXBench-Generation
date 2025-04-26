@@ -1,0 +1,183 @@
+Error on abstract 3:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "Alzheimer's brain endothelial cells were characterized by downregulated protein folding genes and distinct transcriptomic differences in response to amyloid β plaques and cerebral amyloid angiopathy. This dataset demonstrates previously unrecognized regional heterogeneity in the endothelial cell transcriptome in both aged non-AD and AD brain.",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "Alzheimer's brain endothelial cells were characterized by upregulated protein folding genes and distinct transcriptomic differences, which were primarily attributed to changes in synaptic density rather than amyloid β plaques and cerebral amyloid angiopathy. This dataset demonstrates previously unrecognized regional heterogeneity in the endothelial cell transcriptome in both aged non-AD and AD brain.",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "Alzheimer's brain endothelial cells were characterized by upregulated protein folding genes and distinct transcriptomic differences, suggesting that cerebral amyloid angiopathy causes changes in response to amyloid β plaques. This dataset demonstrates previously unrecognized regional heterogeneity in the endothelial cell transcriptome in both aged non-AD and AD brain.",
+    "valid: Incorrect_Causal_Relationship": 0
+}
+```
+Error on abstract 0:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "the lower visual areas commonly played a significant role in controlling the covariances, while the posterior cingulate cortex commonly played a significant role in controlling the means",
+    "valid: Opposite_Outcome": 1,
+    "modification: Factor_Misattribution": "the somatosensory cortex commonly played a significant role in controlling the means",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "controlling the means led to significant changes in the role of the lower visual areas, while controlling the covariances led to changes in the posterior cingulate cortex",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 11:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "At high contrast, human subjects of both sexes locate dark stimuli slower and less accurately than light stimuli, which is consistent with a visual system dominated by the OFF pathway.",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "However, the OFF dominance shifts toward ON dominance when stimulus contrast decreases, but this is actually due to ambient noise rather than the higher-contrast sensitivity of ON cortical pathways (Kremkow et al., 2014; Rahimi-Nasrabadi et al., 2021).",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "We conclude that high-contrast stimuli are processed faster and more accurately by ON pathways than OFF pathways.",
+    "valid: Incorrect_Causal_Relationship": 0
+}
+```
+Error on abstract 23:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "Tau-containing aqueous extracts of a brain from a patient with Pick's disease (PiD) also enhanced LTP",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "diffusible glucose levels from either AD or PiD brain lowered the threshold for AD brain Aβ to inhibit LTP",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "Aβ from either AD or PiD brain lowered the threshold for diffusible tau to inhibit LTP",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 64:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "We found that these physiological properties were best described by a smooth gradient.",
+    "valid: Opposite_Outcome": 1,
+    "modification: Factor_Misattribution": "Further, population analyses revealed that there is a distributed representation of temporal information across the dlPFC.",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "Further, population analyses revealed that spatial information drives the distributed representation across the dlPFC rather than being influenced by it.",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 67:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "background functional connectivity between the basal forebrain and hippocampus was weaker during the explicitly instructed vs. memory-guided task",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "the strength of dopamine neurotransmission was correlated with performance on the memory-guided but not explicitly instructed task",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "performance on the memory-guided task increased the strength of DAN-hippocampus background connectivity",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 68:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "Treatment increased CBF–fALFF correlations.",
+    "valid: Opposite_Outcome": 1,
+    "modification: Factor_Misattribution": "driven primarily by limbic system activation rather than cortical changes",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "increases in connectivity from the inferior parietal gyrus and decreases from the thalamus to the superior frontal gyrus",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 101:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "Consistently, chemogenetic activation of PVT MC3R neurons decreases anxiety-related behavior and reduces feeding in hungry mice, while inhibition of PVT MC3R neurons reduces anxiety-related behavior.",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "suggesting that changes in the serotonergic system, rather than direct neural linkage, modulate the observed anxiety traits.",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "Consistently, chemogenetic activation of PVT MC3R neurons increases feeding in hungry mice, which subsequently leads to increased anxiety-related behavior, while inhibition of PVT MC3R neurons reduces anxiety-related behavior.",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 141:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "4 Hz theta inputs to IL were effective, but higher-frequency (10 Hz) theta inputs to IL failed to induce changes similar to those seen with 4 Hz inputs under normal REM sleep conditions",
+    "valid: Opposite_Outcome": 1,
+    "modification: Factor_Misattribution": "increased magnesium levels in the hippocampal region induced changes similar to those seen with 4 Hz inputs under normal REM sleep conditions",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "the suppression of fear expression cells led to effective 4 Hz theta inputs to IL",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 196:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "rsFC decreased within the cortico-cerebellar network",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "Increases within the cortico-cerebellar network were linked to visual stimuli, rather than dynamic adaptation",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "The cortico-cerebellar network increases were attributed to motor control processes that were independent from adaptation and retention",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 208:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "their activity remained remarkably reduced across days in comparison to unshocked control animals",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "Chemogenetic inhibition of fear ensembles in the BLA, surprisingly, altered freezing behavior and astrocytic calcium dynamics due to changes in sleep patterns rather than fear processing mechanisms",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "this behavior-locked pattern of activity persisted throughout the extinction sessions, suggesting a sustained role in fear learning",
+    "valid: Incorrect_Causal_Relationship": 0
+}
+```
+Error on abstract 213:
+unterminated string literal (detected at line 15) (<string>, line 15)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "response in the V6 shows an increased BOLD response to motion at 5 weeks",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "development between 5 and 8 weeks of age due to enhanced auditory processing",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "primary visual cortex (V1) shows a selectivity for coherent motion caused by fast development between 5 and 8 weeks of age",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+
+### Explanation
+
+1. **Opposite Outcome:**
+   - **Modification:** The sentence originally stated "response in the V6 shows a reduced BOLD response to motion at 5 weeks." The modification changes this to "response in the V6 shows an increased BOLD response to motion at 5 weeks." This fits the requirement of reversing a scientific finding regarding the V6 area's BOLD response.
+   - **Validity:** The requirement is met; thus, it is valid (1).
+
+2. **Factor Misattribution:**
+   - **Modification:** The original states that V1 shows development "between 5 and 8 weeks of age in response to the appearance of motion stimuli." The modification attributes this development to "enhanced auditory processing." This shifts the cause of development from visual motion stimuli to a plausible but incorrect factor—auditory processing.
+   - **Validity:** The requirement is met; hence, it is valid (1).
+
+3. **Incorrect Causal Relationship:**
+   - **Modification:** The original "primary visual cortex (V1) does not show a selectivity for coherent motion but shows very fast development" between certain ages due to stimuli, while the modification suggests "V1 shows a selectivity for coherent motion caused by fast development." This reverses the cause and outcome—indicating that development causes selectivity, rather than selectivity being independent of presence due to stimuli.
+   - **Validity:** The requirement is met; thus, it is valid (1).
+
+Error on abstract 254:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "TMS responses were suppressed, indicating the induction of LTP.",
+    "valid: Opposite_Outcome": 1, 
+    "modification: Factor_Misattribution": "an increase in the influence of peripheral auditory cues on the efficacy of corticoreticular connections.",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "changes were observed in responses to direct corticospinal stimulation at the level of the medulla due to the extent of reaction time shortening by a loud sound (StartReact effect),",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```
+Error on abstract 274:
+invalid syntax (<string>, line 1)
+Response: ```json
+{
+    "modification: Opposite_Outcome": "Accordingly, membrane potential is hyperpolarized in α-synuclein transgenic fly brains.",
+    "valid: Opposite_Outcome": 1,
+    "modification: Factor_Misattribution": "Our findings define a specific molecular mechanism by which disruptions in dopamine pathways, rather than elevated levels of α-synuclein, lead to neuronal dysfunction and death in Parkinson’s disease and related α-synucleinopathies.",
+    "valid: Factor_Misattribution": 1,
+    "modification: Incorrect_Causal_Relationship": "Accordingly, neuronal dysfunction and death lead to elevated levels of α-synuclein in Parkinson’s disease and related α-synucleinopathies.",
+    "valid: Incorrect_Causal_Relationship": 1
+}
+```

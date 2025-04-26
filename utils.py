@@ -434,11 +434,8 @@ if __name__ == '__main__':
 
     # plot_benchmark_by_year(bench_dics)
     AREA_DICT = [
-        'hippocampus', 
-        'Prefrontal-Cortex', 
-        'Striatum', 
-        'Cerebellum', 
-        'Amygdala'
+        'BXB-gpt4-FAB-result', 
+        'BXB-human-FAB-result'
     ]
 
     for brain_area in AREA_DICT:
