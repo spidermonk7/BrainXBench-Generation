@@ -1,4 +1,9 @@
-# BrainXBench-Generation
+# FAB: Automatic Factory of "Abstract-style" Benchmarks
+
+![image](https://github.com/user-attachments/assets/7fcf5c5b-9ae5-4900-866d-4ae4dd9d602a)
+
+
+
 
 Welcome to the **BrainXBench-Generation** repository! This project is designed for the efficient generation, validation, and management of BrainXBench datasets.
 
